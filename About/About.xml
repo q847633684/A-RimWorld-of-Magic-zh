@@ -4,6 +4,7 @@
 	<name>A RimWorld of Magic简繁中文汉化包</name>
 	<author>22点下</author>
 	<supportedVersions>
+		<li>1.4</li>
 		<li>1.5</li>
 	</supportedVersions>
 	<loadAfter>
