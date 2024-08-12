@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Skeletal_Shoulder.label>肩</Skeletal_Shoulder.label>
+  <Skeletal_Leg.label>腿</Skeletal_Leg.label>
+  <Skeletal_Foot.label>脚</Skeletal_Foot.label>
+  <Skeletal_Neck.label>脖子</Skeletal_Neck.label>
+  <Skeletal_Head.label>头</Skeletal_Head.label>
+  <Skeletal_Jaw.label>下巴</Skeletal_Jaw.label>
+  <Skeletal_Arm.label>臂</Skeletal_Arm.label>
+  <Skeletal_Hand.label>手</Skeletal_Hand.label>
+  <Skeletal_Finger.label>手指</Skeletal_Finger.label>
+  <Skeletal_Toe.label>脚趾</Skeletal_Toe.label>
+  <Skeletal_Ribcage.label>胸腔</Skeletal_Ribcage.label>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Magic.label>魔法</TM_Magic.label>
+  <TM_Magic.description>执行奥术和魔法相关任务</TM_Magic.description>
+  <TM_Magic.labelShort>魔法</TM_Magic.labelShort>
+  <TM_Magic.pawnLabel>魔法</TM_Magic.pawnLabel>
+  <TM_Magic.gerundLabel>魔法操纵</TM_Magic.gerundLabel>
+  <TM_Magic.verb>使用魔法</TM_Magic.verb>
+
+
+</LanguageData>

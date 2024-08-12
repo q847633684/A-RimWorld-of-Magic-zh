@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abhorrent -->
+
+  <TM_Mages_Abhorrent.label>憎恶魔法</TM_Mages_Abhorrent.label>
+  <TM_Mages_Abhorrent.description>魔法是一种可憎的东西，需要被辱骂和净化。法师对能量的操控违反了自然规律。无论怎么样，杀死敌对法师都是正当的。允许法师自由地居住在殖民地是对我们信仰的亵渎。法师应该被迅速处死或奴役，直到他们被处死。绝对禁止使用魔法。</TM_Mages_Abhorrent.description>
+  <TM_Mages_Abhorrent.comps.1.description>我杀死了一位法师</TM_Mages_Abhorrent.comps.1.description>
+  <TM_Mages_Abhorrent.comps.2.description>我们杀死了一位法师</TM_Mages_Abhorrent.comps.2.description>
+  <TM_Mages_Abhorrent.comps.4.description>使用魔法</TM_Mages_Abhorrent.comps.4.description>
+  <TM_Mages_Abhorrent.comps.5.description>法师在殖民地</TM_Mages_Abhorrent.comps.5.description>
+  <TM_Mages_Abhorrent.comps.6.description>法师在殖民地</TM_Mages_Abhorrent.comps.6.description>
+
+
+  <!-- Disapprove -->
+
+  <TM_Mages_Disapprove.label>不赞成魔法</TM_Mages_Disapprove.label>
+  <TM_Mages_Disapprove.description>应避免依赖未知和不可预测的力量。科学技术才是未来，所有人都可以享受并为之做出贡献。殖民地应该将自由法师的数量限制在10%或更少，并且只有最值得信任的殖民者才能成为法师，还有每天使用的法术数量应该限制在5个。法师应该成为奴隶，以确保他们知道自己的合法地位。遵守这些规则将使我们的殖民地繁荣，使每个人都更幸福。</TM_Mages_Disapprove.description>
+  <TM_Mages_Disapprove.comps.0.description>控制魔法的使用</TM_Mages_Disapprove.comps.0.description>
+  <TM_Mages_Disapprove.comps.1.description>控制魔法的存在</TM_Mages_Disapprove.comps.1.description>
+
+
+  <!-- Approve -->
+
+  <TM_Mages_Approve.label>赞成魔法</TM_Mages_Approve.label>
+  <TM_Mages_Approve.description>魔法是一种强大而有用的资源，如果我们放弃它，就证明我们疯了。法师允许我们利用这一资源，提高我们的生活质量。由于法师对我们殖民地十分有用，他们应该像对待贵族一样受到尊重。我们应该集中精力，增加对这种神秘力量的认识。</TM_Mages_Approve.description>
+  <TM_Mages_Approve.comps.1.description>使用魔法</TM_Mages_Approve.comps.1.description>
+  <TM_Mages_Approve.comps.2.description>使用魔法</TM_Mages_Approve.comps.2.description>
+  <TM_Mages_Approve.comps.3.description>法师在殖民地</TM_Mages_Approve.comps.3.description>
+  <TM_Mages_Approve.comps.5.description>斩断与魔法的联系</TM_Mages_Approve.comps.5.description>
+
+
+  <!-- Venerated -->
+
+  <TM_Mages_Venerated.label>崇敬魔法</TM_Mages_Venerated.label>
+  <TM_Mages_Venerated.description>魔法是奇妙的、神秘的、强大的和无限的。它能够执行平凡的任务，或者在眨眼之间消灭我们的敌人。它是创造和毁灭的源泉，值得被尊敬。那些能够利用这种力量的人是有福的——被神所感动——并且他们的地位将被提升到高于其他人。杀死敌对法师是令人憎恶的，只能作为最后的手段。魔法揭示了拯救我们的道路！使用它使我们万世不竭，我们必须下定决心将魔法的祝福传播给所有人。</TM_Mages_Venerated.description>
+  <TM_Mages_Venerated.comps.2.description>我杀死了一个法师</TM_Mages_Venerated.comps.2.description>
+  <TM_Mages_Venerated.comps.3.description>我们杀死了一个法师</TM_Mages_Venerated.comps.3.description>
+  <TM_Mages_Venerated.comps.5.description>目击魔法</TM_Mages_Venerated.comps.5.description>
+  <TM_Mages_Venerated.comps.6.description>法师在殖民地</TM_Mages_Venerated.comps.6.description>
+  <TM_Mages_Venerated.comps.7.description>法师囚犯</TM_Mages_Venerated.comps.7.description>
+  <TM_Mages_Venerated.comps.8.description>法师奴隶</TM_Mages_Venerated.comps.8.description>
+  <TM_Mages_Venerated.comps.9.description>法师奴隶</TM_Mages_Venerated.comps.9.description>
+  <TM_Mages_Venerated.comps.11.description>斩断与魔法的联系</TM_Mages_Venerated.comps.11.description>
+
+
+  <!-- Transcendent Rituals -->
+
+  <TM_SeverenceRitual.label>斩断与魔法的联系</TM_SeverenceRitual.label>
+  <TM_SeverenceRitual.description>寻虚者会斩断目标与魔法的联系。观众将观看寻虚者的统一演讲，从法师那里斩断魔法，之后说出一些结束语。如果仪式执行不当，目标可能会尝试最后的报复法术。如果成功，目标将从魔法中解放出来。</TM_SeverenceRitual.description>
+  <TM_SeverenceRitual.ritualExpectedDesc>{0} {1}想要尽快进行严厉仪式。</TM_SeverenceRitual.ritualExpectedDesc>
+
+  <TM_BestowMagicRitual.label>授予魔法</TM_BestowMagicRitual.label>
+  <TM_BestowMagicRitual.description>寻虚者会试图在目标和魔法之间架起一座桥梁。观众将会看到，寻虚者说了几句充满智慧的话，试图赋予目标魔法之源，然后说了一些结束语。这种仪式可能会失败，只能在特定的日期进行。</TM_BestowMagicRitual.description>
+  <TM_GiftingRitual.ritualExpectedDesc>{0} {1}想要尽快进行送礼仪式。</TM_GiftingRitual.ritualExpectedDesc>
+    
+  <TM_BestowClassRitual.label>神秘之路</TM_BestowClassRitual.label>
+  <TM_BestowClassRitual.description>在这个仪式中，寻虚者将引导拥有魔法天赋的小人成为法师。观众将看到法师试图在寻虚者的指导下实现他们的灵感。完成后，目标将获得受启发魔法职业。</TM_BestowClassRitual.description>
+  <TM_BestowMagicClassRitual.ritualExpectedDesc>{0} {1}想要尽快进行奥道仪式。</TM_BestowMagicClassRitual.ritualExpectedDesc>
+    
+  
+
+</LanguageData>

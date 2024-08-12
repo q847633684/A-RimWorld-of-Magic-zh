@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ManaDrain.label>法力流失</ManaDrain.label>
+  <ManaDrain.description>行星的异变导致了魔法能量的逐渐衰落。所有与魔法力量协调的生物会缓慢地失去力量。</ManaDrain.description>
+  <ManaDrain.endMessage>魔力回复到了正常状态。</ManaDrain.endMessage>
+  <ManaDrain.letterText>行星的异变导致了魔法能量的逐渐衰落。所有与魔法力量协调的生物会缓慢地失去力量。</ManaDrain.letterText>
+
+  <ManaSurge.label>法力涌动</ManaSurge.label>
+  <ManaSurge.description>行星的异变导致了魔力变得汹涌澎湃。所有与魔法力量协调的生物，法力会得到一定量的增长。</ManaSurge.description>
+  <ManaSurge.endMessage>魔力回复到了正常状态。</ManaSurge.endMessage>
+  <ManaSurge.letterText>行星的异变导致了魔力变得汹涌澎湃。所有与魔法力量协调的生物，法力会得到一定量的增长。</ManaSurge.letterText>
+
+  <ElementalAssault.label>元素袭击</ElementalAssault.label>
+  <ElementalAssault.description>不怀好意的元素体们在你的世界打开了一道缺口并准备派遣袭击队伍通过这道缝隙。</ElementalAssault.description>
+  <ElementalAssault.endMessage>裂隙关闭了。</ElementalAssault.endMessage>
+  <ElementalAssault.letterText>不怀好意的元素体们在你的世界打开了一道缺口并准备派遣袭击队伍通过这道缝隙。</ElementalAssault.letterText>
+
+  <WanderingLich.label>游荡的巫妖</WanderingLich.label>
+  <WanderingLich.description>一位古老的巫妖已经游荡到这个地区并且准备攻击你的殖民地。巫妖本身是强大的生物，但是他们真正的力量在于他们能够从尸体中创造出能活动的不死生物。这个巫妖是一个蔑视所有生命的古老亡灵，而你的快乐的殖民地，至今还拒绝被杀死。它将通过创建一大群不死族来打破你的防御，它十分乐意击败你的殖民地。巫妖将定期创建新的骷髅战士来攻击殖民地；巫妖会在露天的尸体附近完成一个仪式将会召唤一种十分强大的骷髅。最终，巫妖将攻击殖民地本身，如果不死族的浪潮无法完成任务。巫妖会结束进攻。</WanderingLich.description>
+  <WanderingLich.endMessage>巫妖的进攻结束了。</WanderingLich.endMessage>
+  <WanderingLich.letterText>一位古老的巫妖已经游荡到这个地区并且准备攻击你的殖民地。巫妖本身是强大的生物，但是他们真正的力量在于他们能够从尸体中创造出能活动的不死生物。这个巫妖是一个蔑视所有生命的古老亡灵，而你的快乐的殖民地，至今还拒绝被杀死。它将通过创建一大群不死族来打破你的防御，它十分乐意击败你的殖民地。巫妖将定期创建新的骷髅战士来攻击殖民地；巫妖会在露天的尸体附近完成一个仪式将会召唤一种十分强大的骷髅。最终，巫妖将攻击殖民地本身，如果不死族的浪潮无法完成任务。巫妖会结束进攻。</WanderingLich.letterText>
+
+  <DarkClouds.label>乌云</DarkClouds.label>
+  <DarkClouds.description>地上有不祥的阴影，在这些云的阴影中有不祥的东西，诅咒着活人。</DarkClouds.description>
+  <DarkClouds.endMessage>乌云正在消散。</DarkClouds.endMessage>
+  <DarkClouds.letterText>地上有不祥的阴影，在这些云的阴影中有不祥的东西，诅咒着活人。</DarkClouds.letterText>
+
+  <DarkThunderstorm.label>邪之风暴</DarkThunderstorm.label>
+  <DarkThunderstorm.description>在这些乌云中隐藏着一种邪恶的能量。</DarkThunderstorm.description>
+  <DarkThunderstorm.endMessage>邪之风暴正在减弱。</DarkThunderstorm.endMessage>
+
+  <TargetedPredatorInsanity.label>捕食者脉冲</TargetedPredatorInsanity.label>
+  <TargetedPredatorInsanity.description>灵能的波动激怒了附近的捕食者。。。他们会攻击人类。</TargetedPredatorInsanity.description>
+  <TargetedPredatorInsanity.endMessage>捕食者脉冲消失了。</TargetedPredatorInsanity.endMessage>
+  <TargetedPredatorInsanity.letterText>你激怒了附近所有的捕食者，并把他们的目标集中在你的敌人身上。请注意，愤怒的动物将继续狩猎，即使在你的敌人离开。</TargetedPredatorInsanity.letterText>
+
+  <DivineBlessing.label>神圣祝福</DivineBlessing.label>
+  <DivineBlessing.description>一位更高权力的存在回应了你的恩惠请求。</DivineBlessing.description>
+  <DivineBlessing.endMessage>仁慈的存在消失了。</DivineBlessing.endMessage>
+  <DivineBlessing.letterText>你的仁慈请求得到了更高权力的存在的回应。各种各样的祝福赐予你对抗现存的危机。</DivineBlessing.letterText>
+
+  <DemonAssault.label>狂暴的恶魔</DemonAssault.label>
+  <DemonAssault.description>一切都会终结!-一个狂暴的恶魔正在攻击你的殖民地！\n\n这个地狱生物有各种各样的攻击方式，而且他会使用充满挑战性的战术。\n火焰和灰烬将从天而降。\n但是，恶魔无法在这个殖民地中停留很长时间，将会被迫在大约3小时内返回他们的世界。击败他或熬过这场噩梦。\n没有多少时间准备了。\n\n祝你好运！</DemonAssault.description>
+  <DemonAssault.endMessage>恶魔正在前往另一个地方。</DemonAssault.endMessage>
+  <DemonAssault.letterText>一切都会终结!-一个狂暴的恶魔正在攻击你的殖民地！\n\n这个地狱生物有各种各样的攻击方式，而且他会使用充满挑战性的战术。\n火焰和灰烬将从天而降。\n但是，恶魔无法在这个殖民地中停留很长时间，将会被迫在大约3小时内返回他们的世界。击败他或熬过这场噩梦。\n没有多少时间准备了。\n\n祝你好运！</DemonAssault.letterText>
+
+  <TM_ManaStorm.label>法力风暴</TM_ManaStorm.label>
+  <TM_ManaStorm.description>混乱的力量正在造成危险的法力风暴。\n\n在法力风暴期间，任何试图使用法力的行为将对施法者造成与法术法力消耗成正比的伤害。这施法前便会造成伤害。未成形魔法的使用和魔法的内部使用，如闪烁魔法或驱散附魔，不受影响。法力风暴时不能使用魔术阵或魔法中心。当法力风暴来临时，所有的能量消耗减半，法力的上限减少将会被移除。</TM_ManaStorm.description>
+  <TM_ManaStorm.endMessage>魔法正在回归原样</TM_ManaStorm.endMessage>
+  <TM_ManaStorm.letterText>混乱的力量正在造成危险的法力风暴。\n\n在法力风暴期间，任何试图使用法力的行为将对施法者造成与法术法力消耗成正比的伤害。这施法前便会造成伤害。未成形魔法的使用和魔法的内部使用，如闪烁魔法或驱散附魔，不受影响。法力风暴时不能使用魔术阵或魔法中心。当法力风暴来临时，所有的能量消耗减半，法力的上限减少将会被移除。</TM_ManaStorm.letterText>
+
+
+</LanguageData>

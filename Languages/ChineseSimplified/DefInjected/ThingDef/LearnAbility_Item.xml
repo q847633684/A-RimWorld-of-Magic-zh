@@ -1,0 +1,723 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Partial Scripts -->
+
+  <BookOfQuestion.label>神秘的残页:???</BookOfQuestion.label>
+  <BookOfQuestion.description>教会一个有魔法天赋的生物学会一种随机的魔法力量.</BookOfQuestion.description>
+  <BookOfQuestion.comps.1.useLabel>TM_Read</BookOfQuestion.comps.1.useLabel>
+
+  <Torn_BookOfInnerFire.label>转职残卷:火系法师</Torn_BookOfInnerFire.label>
+  <Torn_BookOfInnerFire.description>教会一个有天赋的生物如何驾驭火元素.\n这种手稿并不完整,阅读者并不能从中学到全部火系魔法.</Torn_BookOfInnerFire.description>
+  <Torn_BookOfInnerFire.comps.1.useLabel>TM_Read</Torn_BookOfInnerFire.comps.1.useLabel>
+
+  <Torn_BookOfHeartOfFrost.label>转职残卷:冰系法师</Torn_BookOfHeartOfFrost.label>
+  <Torn_BookOfHeartOfFrost.description>教会一个有天赋的生物如何驾驭冰元素.\n这种手稿并不完整,阅读者并不能从中学到全部冰系魔法.</Torn_BookOfHeartOfFrost.description>
+  <Torn_BookOfHeartOfFrost.comps.1.useLabel>TM_Read</Torn_BookOfHeartOfFrost.comps.1.useLabel>
+
+  <Torn_BookOfStormBorn.label>转职残卷:雷系法师</Torn_BookOfStormBorn.label>
+  <Torn_BookOfStormBorn.description>教会一个有天赋的生物如何驾驭雷元素.\n这种手稿并不完整,阅读者并不能从中学到全部雷系魔法.</Torn_BookOfStormBorn.description>
+  <Torn_BookOfStormBorn.comps.1.useLabel>TM_Read</Torn_BookOfStormBorn.comps.1.useLabel>
+
+  <Torn_BookOfArcanist.label>转职残卷:奥术法师</Torn_BookOfArcanist.label>
+  <Torn_BookOfArcanist.description>教会一个有天赋的生物如何驾驭奥术之力.\n这种手稿并不完整,阅读者并不能从中学到全部的奥术魔法.</Torn_BookOfArcanist.description>
+  <Torn_BookOfArcanist.comps.1.useLabel>TM_Read</Torn_BookOfArcanist.comps.1.useLabel>
+
+  <Torn_BookOfValiant.label>转职残卷:圣骑士</Torn_BookOfValiant.label>
+  <Torn_BookOfValiant.description>教会一个有天赋的生物如何驾驭神圣之力.\n这种手稿并不完整,阅读者并不能从中学到全部神圣系魔法.</Torn_BookOfValiant.description>
+  <Torn_BookOfValiant.comps.1.useLabel>TM_Read</Torn_BookOfValiant.comps.1.useLabel>
+
+  <Torn_BookOfSummoner.label>转职残卷:召唤师</Torn_BookOfSummoner.label>
+  <Torn_BookOfSummoner.description>教会有一个有天赋的生物如何召唤和与其他位面的元素互动.\n这种手稿并不完整,阅读者并不能从中学到全部召唤系魔法.</Torn_BookOfSummoner.description>
+  <Torn_BookOfSummoner.comps.1.useLabel>TM_Read</Torn_BookOfSummoner.comps.1.useLabel>
+
+  <Torn_BookOfNature.label>转职残卷:德鲁伊</Torn_BookOfNature.label>
+  <Torn_BookOfNature.description>教会一个有天赋的生物如何驾驭自然元素.\n这种手稿并不完整,阅读者并不能从中学到全部德鲁伊魔法.</Torn_BookOfNature.description>
+  <Torn_BookOfNature.comps.1.useLabel>TM_Read</Torn_BookOfNature.comps.1.useLabel>
+
+  <Torn_BookOfUndead.label>转职残卷:死灵法师</Torn_BookOfUndead.label>
+  <Torn_BookOfUndead.description>教会一个有天赋的生物如何操纵生命与死亡之力.\n这种手稿并不完整,阅读者并不能从中学到全部巫术魔法.</Torn_BookOfUndead.description>
+  <Torn_BookOfUndead.comps.1.useLabel>TM_Read</Torn_BookOfUndead.comps.1.useLabel>
+
+  <Torn_BookOfPriest.label>转职残卷:牧师</Torn_BookOfPriest.label>
+  <Torn_BookOfPriest.description>教会一个有天赋的生物如何给予生命与治愈之力.\n这种手稿并不完整,阅读者并不能从中学到全部治愈系魔法.</Torn_BookOfPriest.description>
+  <Torn_BookOfPriest.comps.1.useLabel>TM_Read</Torn_BookOfPriest.comps.1.useLabel>
+
+  <Torn_BookOfBard.label>转职残卷:吟游诗人</Torn_BookOfBard.label>
+  <Torn_BookOfBard.description>教会一个有天赋的生物如何成为一名专业的吟游诗人.吟游诗人不具备进行简易劳动的全部能力,此工作类型将被禁用.\n这种手稿并不完整,阅读者并不能从中学到吟游诗人的的全部能力.</Torn_BookOfBard.description>
+  <Torn_BookOfBard.comps.1.useLabel>TM_Read</Torn_BookOfBard.comps.1.useLabel>
+
+  <Torn_BookOfDemons.label>转职残卷:魅魔/术士</Torn_BookOfDemons.label>
+  <Torn_BookOfDemons.description>详细说明了与恶魔达成协议以获得力量的过程.从字面意义上讲,这一契约将契约者与其恶魔结合在一起.这种结合对男性和女性的影响不同.只有当契约者具有魔法天赋时,恶魔才会同意合同.\n*注:在第一页的底部涂鸦*不清楚恶魔从协议中得到了什么…小心使用.\n这种手稿并不完整,阅读者并不能获得恶魔的所有力量.</Torn_BookOfDemons.description>
+  <Torn_BookOfDemons.comps.1.useLabel>TM_Read</Torn_BookOfDemons.comps.1.useLabel>
+
+  <Torn_BookOfEarth.label>转职残卷:地卜师</Torn_BookOfEarth.label>
+  <Torn_BookOfEarth.description>教会一个有天赋的生物将物理定律、元素和奥术结合起来.\n这种手稿并不完整,阅读者并不能从中学到地卜的全部能力.</Torn_BookOfEarth.description>
+  <Torn_BookOfEarth.comps.1.useLabel>TM_Read</Torn_BookOfEarth.comps.1.useLabel>
+
+  <Torn_BookOfMagitech.label>转职残卷:科技术师</Torn_BookOfMagitech.label>
+  <Torn_BookOfMagitech.description>以技术巫师的方式教导天赋精灵,使其能够了解科学与魔法之间的联系.
+本说明不完整,读者将无法学习任何辅助的技术巫师能力,但仍可选择自己的主要技术巫术路径.</Torn_BookOfMagitech.description>
+  <Torn_BookOfMagitech.comps.1.useLabel>TM_Read</Torn_BookOfMagitech.comps.1.useLabel>
+
+  <Torn_BookOfHemomancy.label>转职残卷:血法师</Torn_BookOfHemomancy.label>
+  <Torn_BookOfHemomancy.description>教会有一个有天赋的生物如何成为血战士或血法师,并使用血的力量来增加他们的魔法.\n这种手稿并不完整,阅读者并不能从中学到血法师的全部能力.</Torn_BookOfHemomancy.description>
+  <Torn_BookOfHemomancy.comps.1.useLabel>TM_Read</Torn_BookOfHemomancy.comps.1.useLabel>
+
+  <Torn_BookOfEnchanter.label>转职残卷:附魔师</Torn_BookOfEnchanter.label>
+  <Torn_BookOfEnchanter.description>教会有一个有天赋的生物如何成为一个附魔师,能够操纵物质来达到他们的目的.\n这种手稿并不完整,阅读者并不能从中学到附魔师的全部能力.</Torn_BookOfEnchanter.description>
+  <Torn_BookOfEnchanter.comps.1.useLabel>TM_Read</Torn_BookOfEnchanter.comps.1.useLabel>
+
+  <Torn_BookOfChronomancer.label>转职残卷:时间法师</Torn_BookOfChronomancer.label>
+  <Torn_BookOfChronomancer.description>教会有一个有天赋的生物如何成为一个贤者,能够操纵时间来达到他们的目的.\n这种手稿并不完整,阅读者并不能从中学到贤者的全部能力.</Torn_BookOfChronomancer.description>
+  <Torn_BookOfChronomancer.comps.1.useLabel>TM_Read</Torn_BookOfChronomancer.comps.1.useLabel>
+
+  <Torn_BookOfChaos.label>转职残卷:混沌法师</Torn_BookOfChaos.label>
+  <Torn_BookOfChaos.description>教会有一个有天赋的生物如何成为一个混沌法师.能够运用其他职业的法术来达到他们的目的.这种手稿并不完整,阅读者并不能从中学到混沌法师的全部能力.</Torn_BookOfChaos.description>
+  <Torn_BookOfChaos.comps.1.useLabel>TM_Read</Torn_BookOfChaos.comps.1.useLabel>
+
+  <Torn_BookOfTheSun.label>转职残卷:光明法师</Torn_BookOfTheSun.label>
+  <Torn_BookOfTheSun.description>教会有一个有天赋的生物如何成为一个光明法师,光明法师操纵光的力量用于创造强烈的破坏性魔法.这种手稿并不完整,阅读者并不能从中学到光明法师的全部能力.</Torn_BookOfTheSun.description>
+  <Torn_BookOfTheSun.comps.1.useLabel>TM_Read</Torn_BookOfTheSun.comps.1.useLabel>
+
+  <Torn_BookOfShamanism.label>转职残卷:萨满</Torn_BookOfShamanism.label>
+  <Torn_BookOfShamanism.description>教会有一个有天赋的生物如何成为一位萨满,部落领袖专注于仪式魔法,施放强大的诅咒和魔法,并通过图腾扩展他们的影响力.这种手稿并不完整,阅读者并不能从中学到萨满的全部能力.</Torn_BookOfShamanism.description>
+  <Torn_BookOfShamanism.comps.1.useLabel>TM_Read</Torn_BookOfShamanism.comps.1.useLabel>
+
+  <Torn_BookOfGolemancy.label>转职残卷:傀儡使</Torn_BookOfGolemancy.label>
+  <Torn_BookOfGolemancy.description>教会有一个有天赋的生物如何成为一位傀儡使,一种避世法师,使用印记和符文将奥术能量注入普通物体.\n这种手稿并不完整,阅读者并不能从中学傀儡使的全部魔法.</Torn_BookOfGolemancy.description>
+  <Torn_BookOfGolemancy.comps.1.useLabel>TM_Read</Torn_BookOfGolemancy.comps.1.useLabel>
+
+
+  <!-- Arcane Scripts -->
+
+  <BookOfInnerFire.label>奥术典籍:火系法师</BookOfInnerFire.label>
+  <BookOfInnerFire.description>教会一个有天赋的生物如何驾驭火元素.</BookOfInnerFire.description>
+  <BookOfInnerFire.comps.1.useLabel>TM_Read</BookOfInnerFire.comps.1.useLabel>
+
+  <BookOfHeartOfFrost.label>奥术典籍:冰系法师</BookOfHeartOfFrost.label>
+  <BookOfHeartOfFrost.description>教会一个有天赋的生物如何驾驭冰元素.</BookOfHeartOfFrost.description>
+  <BookOfHeartOfFrost.comps.1.useLabel>TM_Read</BookOfHeartOfFrost.comps.1.useLabel>
+
+  <BookOfStormBorn.label>奥术典籍:雷系法师</BookOfStormBorn.label>
+  <BookOfStormBorn.description>教会一个有天赋的生物如何驾驭雷元素.</BookOfStormBorn.description>
+  <BookOfStormBorn.comps.1.useLabel>TM_Read</BookOfStormBorn.comps.1.useLabel>
+
+  <BookOfArcanist.label>奥术典籍:奥术法师</BookOfArcanist.label>
+  <BookOfArcanist.description>教会一个有天赋的生物如何驾驭奥术之力.</BookOfArcanist.description>
+  <BookOfArcanist.comps.1.useLabel>TM_Read</BookOfArcanist.comps.1.useLabel>
+
+  <BookOfValiant.label>神圣典籍:圣骑士</BookOfValiant.label>
+  <BookOfValiant.description>教会一个有天赋的生物如何成为圣骑士.</BookOfValiant.description>
+  <BookOfValiant.comps.1.useLabel>TM_Read</BookOfValiant.comps.1.useLabel>
+
+  <BookOfSummoner.label>奥术典籍:召唤师</BookOfSummoner.label>
+  <BookOfSummoner.description>教会一个有天赋的生物如何成为召唤师.</BookOfSummoner.description>
+  <BookOfSummoner.comps.1.useLabel>TM_Read</BookOfSummoner.comps.1.useLabel>
+
+  <BookOfDruid.label>奥术典籍:德鲁伊</BookOfDruid.label>
+  <BookOfDruid.description>教会一个有天赋的生物如何成为德鲁伊.</BookOfDruid.description>
+  <BookOfDruid.comps.1.useLabel>TM_Read</BookOfDruid.comps.1.useLabel>
+
+  <BookOfNecromancer.label>奥术典籍:死灵法师</BookOfNecromancer.label>
+  <BookOfNecromancer.description>教会一个有天赋的生物如何成为死灵法师.</BookOfNecromancer.description>
+  <BookOfNecromancer.comps.1.useLabel>TM_Read</BookOfNecromancer.comps.1.useLabel>
+
+  <BookOfPriest.label>奥术典籍:牧师</BookOfPriest.label>
+  <BookOfPriest.description>教会一个有天赋的生物如何成为牧师.</BookOfPriest.description>
+  <BookOfPriest.comps.1.useLabel>TM_Read</BookOfPriest.comps.1.useLabel>
+
+  <BookOfBard.label>奥术典籍:吟游诗人</BookOfBard.label>
+  <BookOfBard.description>教会一个有天赋的生物如何成为吟游诗人.吟游诗人不能做简易劳动,这类工作将被禁用.</BookOfBard.description>
+  <BookOfBard.comps.1.useLabel>TM_Read</BookOfBard.comps.1.useLabel>
+
+  <BookOfDemons.label>奥术典籍:魅魔/术士</BookOfDemons.label>
+  <BookOfDemons.description>详细说明了与恶魔达成协议以获得力量的过程.从字面意义上讲,这一契约将契约者与其恶魔结合在一起.这种结合对男性和女性的影响不同.只有当契约者具有神奇的天赋时,恶魔才会同意合同.\n*注:在第一页的底部涂鸦*不清楚恶魔从协议中得到了什么…小心使用.</BookOfDemons.description>
+  <BookOfDemons.comps.1.useLabel>TM_Read</BookOfDemons.comps.1.useLabel>
+
+  <BookOfEarth.label>奥术典籍:地卜师</BookOfEarth.label>
+  <BookOfEarth.description>教会有一个有天赋的生物将物理定律、元素和奥术结合起来.</BookOfEarth.description>
+  <BookOfEarth.comps.1.useLabel>TM_Read</BookOfEarth.comps.1.useLabel>
+
+  <BookOfMagitech.label>奥术典籍:科技术师</BookOfMagitech.label>
+  <BookOfMagitech.description>以技术巫师的方式教导天赋之子,让他们了解科学与魔法之间的联系.</BookOfMagitech.description>
+  <BookOfMagitech.comps.1.useLabel>TM_Read</BookOfMagitech.comps.1.useLabel>
+
+  <BookOfHemomancy.label>奥术典籍:血液学</BookOfHemomancy.label>
+  <BookOfHemomancy.description>教会有一个有天赋的生物如何成为血巫师或血法师,并使用血的力量来增加他们的魔法.</BookOfHemomancy.description>
+  <BookOfHemomancy.comps.1.useLabel>TM_Read</BookOfHemomancy.comps.1.useLabel>
+
+  <BookOfEnchanter.label>奥术典籍:附魔师</BookOfEnchanter.label>
+  <BookOfEnchanter.description>教会有一个有天赋的生物如何成为一位附魔师,能够操纵物质来达到他们的目的.</BookOfEnchanter.description>
+  <BookOfEnchanter.comps.1.useLabel>TM_Read</BookOfEnchanter.comps.1.useLabel>
+
+  <BookOfChronomancer.label>奥术典籍:时间法师</BookOfChronomancer.label>
+  <BookOfChronomancer.description>教会有一个有天赋的生物如何成为一位贤者,能够操纵时间来达到他们的目的.</BookOfChronomancer.description>
+  <BookOfChronomancer.comps.1.useLabel>TM_Read</BookOfChronomancer.comps.1.useLabel>
+
+  <BookOfChaos.label>奥术典籍:混沌法师</BookOfChaos.label>
+  <BookOfChaos.description>教会有一个有天赋的生物如何成为一位混沌法师.能够运用其他职业的法术来达到他们的目的.</BookOfChaos.description>
+  <BookOfChaos.comps.1.useLabel>TM_Read</BookOfChaos.comps.1.useLabel>
+
+  <BookOfTheSun.label>奥术典籍:光明法师</BookOfTheSun.label>
+  <BookOfTheSun.description>教会有一个有天赋的生物如何成为一位光明法师,光明法师操纵光的力量用于创造强烈的破坏性魔法.</BookOfTheSun.description>
+  <BookOfTheSun.comps.1.useLabel>TM_Read</BookOfTheSun.comps.1.useLabel>
+
+  <BookOfShamanism.label>奥术典籍:萨满</BookOfShamanism.label>
+  <BookOfShamanism.description>教会有一个有天赋的生物如何成为一位萨满,部落领袖专注于仪式魔法,施放强大的诅咒和魔法,并通过图腾扩展他们的影响力.</BookOfShamanism.description>
+  <BookOfShamanism.comps.1.useLabel>TM_Read</BookOfShamanism.comps.1.useLabel>
+
+  <BookOfGolemancy.label>奥术典籍:傀儡使</BookOfGolemancy.label>
+  <BookOfGolemancy.description>教会有一个有天赋的生物如何成为一位傀儡使,一种避世法师,使用印记和符文将奥术能量注入普通物体.</BookOfGolemancy.description>
+  <BookOfGolemancy.comps.1.useLabel>TM_Read</BookOfGolemancy.comps.1.useLabel>
+
+
+  <!-- Combat Forms -->
+
+  <BookOfGladiator.label>战斗指南:斗士</BookOfGladiator.label>
+  <BookOfGladiator.description>教会一个可以熟练运用身体能力的生物如何以斗士的全部能力进行战斗.</BookOfGladiator.description>
+  <BookOfGladiator.comps.1.useLabel>TM_Read</BookOfGladiator.comps.1.useLabel>
+
+  <BookOfPsionic.label>武斗之力:灵能战士</BookOfPsionic.label>
+  <BookOfPsionic.description>教会有一个有天赋的生物如何利用灵能.*在木炭蚀刻的页面底部有一个脚注:“似乎只有那些具有高度灵性敏感的人才能学会操纵灵能……或者找到一种方法来启动精神活动”.</BookOfPsionic.description>
+  <BookOfPsionic.comps.1.useLabel>TM_Read</BookOfPsionic.comps.1.useLabel>
+
+  <BookOfFaceless.label>战斗指南:无面者</BookOfFaceless.label>
+  <BookOfFaceless.description>教精通物理的小兵如何使自己的形态和战斗方式适应各种情况.</BookOfFaceless.description>
+  <BookOfFaceless.comps.1.useLabel>TM_Read</BookOfFaceless.comps.1.useLabel>
+
+  <BookOfSniper.label>战斗指南:狙击手</BookOfSniper.label>
+  <BookOfSniper.description>教会一个可以熟练运用身体能力的生物如何以狙击手的全部能力进行战斗.</BookOfSniper.description>
+  <BookOfSniper.comps.1.useLabel>TM_Read</BookOfSniper.comps.1.useLabel>
+
+  <BookOfBladedancer.label>战斗指南:刀锋舞者</BookOfBladedancer.label>
+  <BookOfBladedancer.description>教会一个可以熟练运用身体能力的生物如何成为刀锋舞者.</BookOfBladedancer.description>
+  <BookOfBladedancer.comps.1.useLabel>TM_Read</BookOfBladedancer.comps.1.useLabel>
+
+  <BookOfRanger.label>战斗指南:猎人</BookOfRanger.label>
+  <BookOfRanger.description>教会一个可以熟练运用身体能力的生物如何成为猎人.</BookOfRanger.description>
+  <BookOfRanger.comps.1.useLabel>TM_Read</BookOfRanger.comps.1.useLabel>
+
+  <BookOfDeathKnight.label>战斗指南:死亡骑士</BookOfDeathKnight.label>
+  <BookOfDeathKnight.description>教会有一个可以熟练运用身体能力的生物去接受不可避免的事情,成为一个死亡骑士.</BookOfDeathKnight.description>
+  <BookOfDeathKnight.comps.1.useLabel>TM_Read</BookOfDeathKnight.comps.1.useLabel>
+
+  <BookOfMonk.label>战斗指南:武僧</BookOfMonk.label>
+  <BookOfMonk.description>教会一个可以熟练运用身体能力的生物.讲他们的身心磨练成致命的武器.</BookOfMonk.description>
+  <BookOfMonk.comps.1.useLabel>TM_Read</BookOfMonk.comps.1.useLabel>
+
+  <BookOfCommander.label>战斗指南：指挥官</BookOfCommander.label>
+  <BookOfCommander.description>教会有一个通形而上学的卒子如何成为一名种族主义领袖.</BookOfCommander.description>
+  <BookOfCommander.comps.1.useLabel>TM_Read</BookOfCommander.comps.1.useLabel>
+
+  <BookOfSuperSoldier.label>血清:超级士兵</BookOfSuperSoldier.label>
+  <BookOfSuperSoldier.description>注入典当,具有增强其身体能力的血清.无能为力几天,而血清会产生影响并在几个阶段发展.血清大约需要100天才能充分发育.任何典当都可以使用SS血清,但只有身体熟练的典当才能获得超级士兵的特质.这种血清将降低神奇的效力和潜力.</BookOfSuperSoldier.description>
+  <BookOfSuperSoldier.comps.1.useLabel>TM_Inject</BookOfSuperSoldier.comps.1.useLabel>
+
+
+  <!-- Custom class books -->
+
+  <BookOfShadow.label>奥术典籍:影行者</BookOfShadow.label>
+  <BookOfShadow.description>教会有一个有天赋的生物如何成为一位影行者,在夜深人静的时候,恐惧在刀锋的倒影中显露出来——暗影(影行者)苏醒了.</BookOfShadow.description>
+  <BookOfShadow.comps.1.useLabel>TM_Read</BookOfShadow.comps.1.useLabel>
+
+  <BookOfApothecary.label>战斗指南:药剂师</BookOfApothecary.label>
+  <BookOfApothecary.description>教一个可以熟练运用身体能力的生物如何成为一名药剂师.</BookOfApothecary.description>
+  <BookOfApothecary.comps.1.useLabel>TM_Read</BookOfApothecary.comps.1.useLabel>
+
+
+  <!-- Magic Spells - Single -->
+
+  <SpellOf_ArcaneBolt.label>法术卷轴:奥术射线</SpellOf_ArcaneBolt.label>
+  <SpellOf_ArcaneBolt.description>教会一名法师如何投射奥术能量.</SpellOf_ArcaneBolt.description>
+  <SpellOf_ArcaneBolt.comps.1.useLabel>TM_Learn</SpellOf_ArcaneBolt.comps.1.useLabel>
+
+  <SpellOf_Blink.label>法术卷轴:闪烁</SpellOf_Blink.label>
+  <SpellOf_Blink.description>教会一名魔法师如何使奥术之力互相连结,允许其进行短距离的高速移动.</SpellOf_Blink.description>
+  <SpellOf_Blink.comps.1.useLabel>TM_Learn</SpellOf_Blink.comps.1.useLabel>
+
+  <SpellOf_Blur.label>法术卷轴:模糊</SpellOf_Blur.label>
+  <SpellOf_Blur.description>教会一名魔法使用者如何扭曲身体周围的光线.</SpellOf_Blur.description>
+  <SpellOf_Blur.comps.1.useLabel>TM_Learn</SpellOf_Blur.comps.1.useLabel>
+
+  <SpellOf_Cooler.label>法术卷轴:魔法冷源</SpellOf_Cooler.label>
+  <SpellOf_Cooler.description>教会一名魔法师如何创造一个连结冰位面的窗口,创造一个临时的冷源.</SpellOf_Cooler.description>
+  <SpellOf_Cooler.comps.1.useLabel>TM_Learn</SpellOf_Cooler.comps.1.useLabel>
+
+  <SpellOf_DirtDevil.label>法术卷轴:旋风</SpellOf_DirtDevil.label>
+  <SpellOf_DirtDevil.description>教会一名法师如何召唤一个小型空气元素来打扫或清理.</SpellOf_DirtDevil.description>
+  <SpellOf_DirtDevil.comps.1.useLabel>TM_Learn</SpellOf_DirtDevil.comps.1.useLabel>
+
+  <SpellOf_EMP.label>法术卷轴:电磁脉冲</SpellOf_EMP.label>
+  <SpellOf_EMP.description>教会一名魔法师如何在指定区域产生一次电磁脉冲爆炸.</SpellOf_EMP.description>
+  <SpellOf_EMP.comps.1.useLabel>TM_Learn</SpellOf_EMP.comps.1.useLabel>
+
+  <SpellOf_Extinguish.label>法术卷轴:熄灭</SpellOf_Extinguish.label>
+  <SpellOf_Extinguish.description>教会一名魔法师如何驱散目标区域的火元素,熄灭火焰.</SpellOf_Extinguish.description>
+  <SpellOf_Extinguish.comps.1.useLabel>TM_Learn</SpellOf_Extinguish.comps.1.useLabel>
+
+  <SpellOf_Heal.label>法术卷轴:治愈</SpellOf_Heal.label>
+  <SpellOf_Heal.description>教会一名魔法师如何奇妙地操控奥术能量来治愈伤口.</SpellOf_Heal.description>
+  <SpellOf_Heal.comps.1.useLabel>TM_Learn</SpellOf_Heal.comps.1.useLabel>
+
+  <SpellOf_HeatShield.label>火系魔法卷轴:热能屏障</SpellOf_HeatShield.label>
+  <SpellOf_HeatShield.description>教会一个火系法师如何创造一个抵御火焰和热能的屏障.</SpellOf_HeatShield.description>
+  <SpellOf_HeatShield.comps.1.useLabel>TM_Learn</SpellOf_HeatShield.comps.1.useLabel>
+
+  <SpellOf_Heater.label>法术卷轴:魔法热源</SpellOf_Heater.label>
+  <SpellOf_Heater.description>教会一名魔法师如何创造一个连接火元素位面的窗口,创建一个临时的热源.</SpellOf_Heater.description>
+  <SpellOf_Heater.comps.1.useLabel>TM_Learn</SpellOf_Heater.comps.1.useLabel>
+
+  <SpellOf_Ignite.label>法术卷轴:点燃</SpellOf_Ignite.label>
+  <SpellOf_Ignite.description>教会一名魔法师如何在目标位置集中热量.</SpellOf_Ignite.description>
+  <SpellOf_Ignite.comps.1.useLabel>TM_Learn</SpellOf_Ignite.comps.1.useLabel>
+
+  <SpellOf_MageLight.label>法术卷轴:法师之光</SpellOf_MageLight.label>
+  <SpellOf_MageLight.description>教会一名魔法师者如何创造一个小的光球.</SpellOf_MageLight.description>
+  <SpellOf_MageLight.comps.1.useLabel>TM_Learn</SpellOf_MageLight.comps.1.useLabel>
+
+  <SpellOf_PowerNode.label>法术卷轴:魔法电源</SpellOf_PowerNode.label>
+  <SpellOf_PowerNode.description>教会一名魔法师如何创造一个可以将奥术能量转化为电力的电源节点.将其放置在电力网旁边可以提供600W电力.</SpellOf_PowerNode.description>
+  <SpellOf_PowerNode.comps.1.useLabel>TM_Learn</SpellOf_PowerNode.comps.1.useLabel>
+
+  <SpellOf_Rain.label>法术卷轴:降雨术</SpellOf_Rain.label>
+  <SpellOf_Rain.description>教会一名魔法师如何操控空气中的能量来引发一场短暂的降雨.</SpellOf_Rain.description>
+  <SpellOf_Rain.comps.1.useLabel>TM_Learn</SpellOf_Rain.comps.1.useLabel>
+
+  <SpellOf_SnapFreeze.label>法术卷轴:快速冻结</SpellOf_SnapFreeze.label>
+  <SpellOf_SnapFreeze.description>教会一名魔法师如何去除目标位置的所有热量.</SpellOf_SnapFreeze.description>
+  <SpellOf_SnapFreeze.comps.1.useLabel>TM_Learn</SpellOf_SnapFreeze.comps.1.useLabel>
+
+  <SpellOf_SmokeCloud.label>法术卷轴:烟云蔽日</SpellOf_SmokeCloud.label>
+  <SpellOf_SmokeCloud.description>教会一名魔法师如何点燃空气中的粒子来创造一道烟幕,暂时隐蔽目标区域.</SpellOf_SmokeCloud.description>
+  <SpellOf_SmokeCloud.comps.1.useLabel>TM_Learn</SpellOf_SmokeCloud.comps.1.useLabel>
+
+  <SpellOf_Sunlight.label>法术卷轴:日光术</SpellOf_Sunlight.label>
+  <SpellOf_Sunlight.description>教会一名魔法师如何创建足以种植植物的阳光.阳光必须由创造它的法师维持,并且会降低最大法力和法力再生率.</SpellOf_Sunlight.description>
+  <SpellOf_Sunlight.comps.1.useLabel>TM_Learn</SpellOf_Sunlight.comps.1.useLabel>
+
+  <SpellOf_BrandSiphon.label>傀儡使咒语:虹吸印记</SpellOf_BrandSiphon.label>
+  <SpellOf_BrandSiphon.description>教会一位傀儡使如何刻画虹吸印记.</SpellOf_BrandSiphon.description>
+  <SpellOf_BrandSiphon.comps.1.useLabel>TM_Learn</SpellOf_BrandSiphon.comps.1.useLabel>
+
+  <SpellOf_BrandFitness.label>傀儡使咒语:健康印记</SpellOf_BrandFitness.label>
+  <SpellOf_BrandFitness.description>教会一位傀儡使如何刻画健康印记.</SpellOf_BrandFitness.description>
+  <SpellOf_BrandFitness.comps.1.useLabel>TM_Learn</SpellOf_BrandFitness.comps.1.useLabel>
+
+  <SpellOf_BrandEmotion.label>傀儡使咒语:情感印记</SpellOf_BrandEmotion.label>
+  <SpellOf_BrandEmotion.description>教会一位傀儡使如何刻画情感印记.</SpellOf_BrandEmotion.description>
+  <SpellOf_BrandEmotion.comps.1.useLabel>TM_Learn</SpellOf_BrandEmotion.comps.1.useLabel>
+
+  <SpellOf_BrandVitality.label>傀儡使咒语:生命印记</SpellOf_BrandVitality.label>
+  <SpellOf_BrandVitality.description>教会一位傀儡使如何刻画生命印记.</SpellOf_BrandVitality.description>
+  <SpellOf_BrandVitality.comps.1.useLabel>TM_Learn</SpellOf_BrandVitality.comps.1.useLabel>
+
+  <SpellOf_BrandProtection.label>傀儡使咒语:保护印记</SpellOf_BrandProtection.label>
+  <SpellOf_BrandProtection.description>教会一位傀儡使如何刻画保护印记.</SpellOf_BrandProtection.description>
+  <SpellOf_BrandProtection.comps.1.useLabel>TM_Learn</SpellOf_BrandProtection.comps.1.useLabel>
+
+  <SpellOf_BrandAwareness.label>傀儡使咒语:知识印记</SpellOf_BrandAwareness.label>
+  <SpellOf_BrandAwareness.description>教会一位傀儡使如何刻画知识印记.</SpellOf_BrandAwareness.description>
+  <SpellOf_BrandAwareness.comps.1.useLabel>TM_Learn</SpellOf_BrandAwareness.comps.1.useLabel>
+
+  <SpellOf_ChargeBattery.label>雷系法术卷轴:电池充能</SpellOf_ChargeBattery.label>
+  <SpellOf_ChargeBattery.description>教会一名雷系魔法师如何通过灌输魔法能量给电池充能.产生400Wd.</SpellOf_ChargeBattery.description>
+  <SpellOf_ChargeBattery.comps.1.useLabel>TM_Learn</SpellOf_ChargeBattery.comps.1.useLabel>
+
+  <SpellOf_CauterizeWound.label>火系法术卷轴:烧灼伤口</SpellOf_CauterizeWound.label>
+  <SpellOf_CauterizeWound.description>教会一名火系魔法师如何运用火元素清洁和封闭伤口-可能会留下烧伤疤痕.</SpellOf_CauterizeWound.description>
+  <SpellOf_CauterizeWound.comps.1.useLabel>TM_Learn</SpellOf_CauterizeWound.comps.1.useLabel>
+
+  <SpellOf_ConsumeCorpse_Mass.label>死灵法术卷轴:吞噬尸体（范围）</SpellOf_ConsumeCorpse_Mass.label>
+  <SpellOf_ConsumeCorpse_Mass.description>榨干一定范围内的尸体或亡灵的剩余价值来恢复法力.除了属于尸体的所有物质(肉/皮)会被毁灭,其他的东西例如装备物品等都会被保留下来.</SpellOf_ConsumeCorpse_Mass.description>
+  <SpellOf_ConsumeCorpse_Mass.comps.1.useLabel>TM_Learn</SpellOf_ConsumeCorpse_Mass.comps.1.useLabel>
+
+  <SpellOf_Discord.label>吟游诗人卷轴:纪声</SpellOf_Discord.label>
+  <SpellOf_Discord.description>教导吟游诗人如何扭曲目标生物的精神和谐.</SpellOf_Discord.description>
+  <SpellOf_Discord.comps.1.useLabel>TM_Learn</SpellOf_Discord.comps.1.useLabel>
+
+  <SpellOf_DryGround.label>火系法术卷轴:魔力蒸腾</SpellOf_DryGround.label>
+  <SpellOf_DryGround.description>教会一名火系魔法师如何引导火元素位面的力量,使一小块土地的绝大多数水分蒸发.</SpellOf_DryGround.description>
+  <SpellOf_DryGround.comps.1.useLabel>TM_Learn</SpellOf_DryGround.comps.1.useLabel>
+
+  <SpellOf_WetGround.label>冰系法术卷轴:滋润大地</SpellOf_WetGround.label>
+  <SpellOf_WetGround.description>教会一名冰系魔法师如何使土地充满水分和养分,把沙地转换成可以种植的土壤.</SpellOf_WetGround.description>
+  <SpellOf_WetGround.comps.1.useLabel>TM_Learn</SpellOf_WetGround.comps.1.useLabel>
+
+
+  <!-- Advanced Scribing -->
+
+  <SpellOf_MagicWardrobe.label>法术卷轴:魔法衣橱</SpellOf_MagicWardrobe.label>
+  <SpellOf_MagicWardrobe.description>教会一名法师如何创建一个空间口袋来存储一套装备.</SpellOf_MagicWardrobe.description>
+  <SpellOf_MagicWardrobe.comps.1.useLabel>TM_Learn</SpellOf_MagicWardrobe.comps.1.useLabel>
+
+  <SpellOf_Invisibility.label>法术卷轴:隐形</SpellOf_Invisibility.label>
+  <SpellOf_Invisibility.description>教会一名法师如何隐身.</SpellOf_Invisibility.description>
+  <SpellOf_Invisibility.comps.1.useLabel>TM_Learn</SpellOf_Invisibility.comps.1.useLabel>
+
+  <SpellOf_LightningTrap.label>法术卷轴:闪电陷阱</SpellOf_LightningTrap.label>
+  <SpellOf_LightningTrap.description>教会一名法师如何设置闪电陷阱.</SpellOf_LightningTrap.description>
+  <SpellOf_LightningTrap.comps.1.useLabel>TM_Learn</SpellOf_LightningTrap.comps.1.useLabel>
+
+  <SpellOf_ManaShield.label>法术卷轴:法力护盾</SpellOf_ManaShield.label>
+  <SpellOf_ManaShield.description>教会一名魔法师如何使用法力创造一道屏障来保护自己的身体不受伤害.</SpellOf_ManaShield.description>
+  <SpellOf_ManaShield.comps.1.useLabel>TM_Learn</SpellOf_ManaShield.comps.1.useLabel>
+
+  <SpellOf_ShieldOther.label>圣职者卷轴:护卫他人</SpellOf_ShieldOther.label>
+  <SpellOf_ShieldOther.description>教导圣职者（圣骑士、牧师等）如何保护他人免受伤害.</SpellOf_ShieldOther.description>
+  <SpellOf_ShieldOther.comps.1.useLabel>TM_Learn</SpellOf_ShieldOther.comps.1.useLabel>
+
+  <SpellOf_SpellMending.label>法术卷轴:拼补</SpellOf_SpellMending.label>
+  <SpellOf_SpellMending.description>教会一名法师如何改造和修理人身上的装备.</SpellOf_SpellMending.description>
+  <SpellOf_SpellMending.comps.1.useLabel>TM_Learn</SpellOf_SpellMending.comps.1.useLabel>
+
+  <SpellOf_SiphonMana.label>法术卷轴:法力虹吸</SpellOf_SiphonMana.label>
+  <SpellOf_SiphonMana.description>教会一名魔法师如何从其他魔法师那里吸取魔力.如果被用在没有魔力的受术者身上,如果被用来没有魔力的生物身上,他们的物理属性将被极大的削弱(不会获得法力).在极端情况下有致死的风险.</SpellOf_SiphonMana.description>
+  <SpellOf_SiphonMana.comps.1.useLabel>TM_Learn</SpellOf_SiphonMana.comps.1.useLabel>
+
+  <SpellOf_SummonMinion.label>法术卷轴:召唤仆从</SpellOf_SummonMinion.label>
+  <SpellOf_SummonMinion.description>教会一名魔法师如何召唤一名其他位面的仆从来帮助魔法师完成基本的工作.</SpellOf_SummonMinion.description>
+  <SpellOf_SummonMinion.comps.1.useLabel>TM_Learn</SpellOf_SummonMinion.comps.1.useLabel>
+
+  <SpellOf_Teleport.label>法术卷轴:传送</SpellOf_Teleport.label>
+  <SpellOf_Teleport.description>教会一名魔法师如何操纵能量使用奥术次元之力,允许其创建一个传送门来进行传送.</SpellOf_Teleport.description>
+  <SpellOf_Teleport.comps.1.useLabel>TM_Learn</SpellOf_Teleport.comps.1.useLabel>
+
+  <SpellOf_TransferMana.label>法术卷轴:法力转移</SpellOf_TransferMana.label>
+  <SpellOf_TransferMana.description>教会一名魔法师如何将法力转移给其他魔法师.如果这些魔法能量被灌输在一个没有魔力的受术者身上,受术者的物理属性将会得到暂时性的增强.</SpellOf_TransferMana.description>
+  <SpellOf_TransferMana.comps.1.useLabel>TM_Learn</SpellOf_TransferMana.comps.1.useLabel>
+
+  <SpellOf_FadeEmotions.label>读心术卷轴:记忆消褪</SpellOf_FadeEmotions.label>
+  <SpellOf_FadeEmotions.description>教会一名读心师如何消耗自身与目标的心情,以摆脱目标的负面记忆,以便其能从回忆中解脱.</SpellOf_FadeEmotions.description>
+  <SpellOf_FadeEmotions.comps.1.useLabel>TM_Learn</SpellOf_FadeEmotions.comps.1.useLabel>
+
+  <SpellOf_BlankMind.label>附魔师卷轴:消除记忆</SpellOf_BlankMind.label>
+  <SpellOf_BlankMind.description>教会一名附魔师如何清除记忆和打破一个生物的精神状态给敌人造成长期的晕眩.</SpellOf_BlankMind.description>
+  <SpellOf_BlankMind.comps.1.useLabel>TM_Learn</SpellOf_BlankMind.comps.1.useLabel>
+
+  <SpellOf_BriarPatch.label>德鲁伊卷轴:自然之怒</SpellOf_BriarPatch.label>
+  <SpellOf_BriarPatch.description>教会一名德鲁伊如何释放自然之怒.</SpellOf_BriarPatch.description>
+  <SpellOf_BriarPatch.comps.1.useLabel>TM_Learn</SpellOf_BriarPatch.comps.1.useLabel>
+
+  <SpellOf_FertileLands.label>德鲁伊卷轴:大地祝福</SpellOf_FertileLands.label>
+  <SpellOf_FertileLands.description>教会一名德鲁伊如何祝福一片土地使其肥沃度增加.</SpellOf_FertileLands.description>
+  <SpellOf_FertileLands.comps.1.useLabel>TM_Learn</SpellOf_FertileLands.comps.1.useLabel>
+
+  <SpellOf_AlterStorm.label>冰系法术卷轴:雨云更迭</SpellOf_AlterStorm.label>
+  <SpellOf_AlterStorm.description>教会一名冰系魔法师如何改变雨雪天来产生不同的气候.</SpellOf_AlterStorm.description>
+  <SpellOf_AlterStorm.comps.1.useLabel>TM_Learn</SpellOf_AlterStorm.comps.1.useLabel>
+
+  <SpellOf_MechaniteReprogramming.label>机械师卷轴:机械重组</SpellOf_MechaniteReprogramming.label>
+  <SpellOf_MechaniteReprogramming.description>教会一名机械师如何以纳米纤维增强属性的方式重新编程纳米纤维或纳米感官机械.</SpellOf_MechaniteReprogramming.description>
+  <SpellOf_MechaniteReprogramming.comps.1.useLabel>TM_Learn</SpellOf_MechaniteReprogramming.comps.1.useLabel>
+
+  <SpellOf_Overdrive.label>机械师卷轴:过载</SpellOf_Overdrive.label>
+  <SpellOf_Overdrive.description>教会一名机械师如何过度锁定或绕过机械,电气和机器人设备的安全性功能,导致其在短时间内以大幅提高的速度执行.</SpellOf_Overdrive.description>
+  <SpellOf_Overdrive.comps.1.useLabel>TM_Learn</SpellOf_Overdrive.comps.1.useLabel>
+
+  <SpellOf_Sabotage.label>机械师卷轴:破坏</SpellOf_Sabotage.label>
+  <SpellOf_Sabotage.description>教会一名机械师如何在几乎任何机械系统中创建反馈循环,从而导致灾难性故障.</SpellOf_Sabotage.description>
+  <SpellOf_Sabotage.comps.1.useLabel>TM_Learn</SpellOf_Sabotage.comps.1.useLabel>
+
+  <SpellOf_TechnoShield.label>机械师卷轴:动能护盾</SpellOf_TechnoShield.label>
+  <SpellOf_TechnoShield.description>教技术用户如何在目标周围创建单向力场,能够驱除入站弹丸或提高出站弹丸的速度.</SpellOf_TechnoShield.description>
+  <SpellOf_TechnoShield.comps.1.useLabel>TM_Learn</SpellOf_TechnoShield.comps.1.useLabel>
+
+
+  <!-- Master Scribing -->
+
+  <SpellOf_BattleHymn.label>吟游诗人卷轴:战斗之曲</SpellOf_BattleHymn.label>
+  <SpellOf_BattleHymn.description>教会一名吟游诗人如何演奏战斗之曲.</SpellOf_BattleHymn.description>
+  <SpellOf_BattleHymn.comps.1.useLabel>TM_Learn</SpellOf_BattleHymn.comps.1.useLabel>
+
+  <SpellOf_Blizzard.label>冰系法术卷轴:暴风雪</SpellOf_Blizzard.label>
+  <SpellOf_Blizzard.description>教会一名冰系魔法师如何唤起一阵暴风雪并且让敌人在冰雪中被埋葬.</SpellOf_Blizzard.description>
+  <SpellOf_Blizzard.comps.1.useLabel>TM_Learn</SpellOf_Blizzard.comps.1.useLabel>
+
+  <SpellOf_BloodMoon.label>血法术卷轴:腥红之月</SpellOf_BloodMoon.label>
+  <SpellOf_BloodMoon.description>教会一名血法师如何召唤邪恶的血月.</SpellOf_BloodMoon.description>
+  <SpellOf_BloodMoon.comps.1.useLabel>TM_Learn</SpellOf_BloodMoon.comps.1.useLabel>
+
+  <SpellOf_EyeOfTheStorm.label>雷系法术卷轴:风暴之眼</SpellOf_EyeOfTheStorm.label>
+  <SpellOf_EyeOfTheStorm.description>教会一名雷系魔法师如何将狂怒的雷元素压缩成一个小球并且按照预定轨道发射出去.</SpellOf_EyeOfTheStorm.description>
+  <SpellOf_EyeOfTheStorm.comps.1.useLabel>TM_Learn</SpellOf_EyeOfTheStorm.comps.1.useLabel>
+
+  <SpellOf_Firestorm.label>火系法术卷轴:火焰风暴</SpellOf_Firestorm.label>
+  <SpellOf_Firestorm.description>教会一名火系魔法师如何运用狂暴的火元素形成风暴烧焦土地.</SpellOf_Firestorm.description>
+  <SpellOf_Firestorm.comps.1.useLabel>TM_Learn</SpellOf_Firestorm.comps.1.useLabel>
+
+  <SpellOf_FoldReality.label>奥术法术卷轴:空间之门</SpellOf_FoldReality.label>
+  <SpellOf_FoldReality.description>教会一名奥术魔法师如何折叠空间,在殖民地之间打开一道临时的窗口.</SpellOf_FoldReality.description>
+  <SpellOf_FoldReality.comps.1.useLabel>TM_Learn</SpellOf_FoldReality.comps.1.useLabel>
+
+  <SpellOf_GuardianSpirit.label>萨满法术卷轴:守护之灵</SpellOf_GuardianSpirit.label>
+  <SpellOf_GuardianSpirit.description>教一名萨满如何召唤他们的守护之灵.</SpellOf_GuardianSpirit.description>
+  <SpellOf_GuardianSpirit.comps.1.useLabel>TM_Learn</SpellOf_GuardianSpirit.comps.1.useLabel>
+
+  <SpellOf_HolyWrath.label>圣骑士卷轴:神圣之怒</SpellOf_HolyWrath.label>
+  <SpellOf_HolyWrath.description>教会一名圣骑士如何引导神之怒攻击敌人.</SpellOf_HolyWrath.description>
+  <SpellOf_HolyWrath.comps.1.useLabel>TM_Learn</SpellOf_HolyWrath.comps.1.useLabel>
+
+  <SpellOf_LichForm.label>死灵法术卷轴:巫妖形态</SpellOf_LichForm.label>
+  <SpellOf_LichForm.description>教会一名死灵法师如何转换成为巫妖形态.</SpellOf_LichForm.description>
+  <SpellOf_LichForm.comps.1.useLabel>TM_Learn</SpellOf_LichForm.comps.1.useLabel>
+
+  <SpellOf_LivingWall.label>傀儡使咒语:鲜活之墙</SpellOf_LivingWall.label>
+  <SpellOf_LivingWall.description>教会一位傀儡使如何给予一堵墙自我意志.</SpellOf_LivingWall.description>
+  <SpellOf_LivingWall.comps.1.useLabel>TM_Learn</SpellOf_LivingWall.comps.1.useLabel>
+
+  <SpellOf_Meteor.label>地脉卷轴:陨石天降</SpellOf_Meteor.label>
+  <SpellOf_Meteor.description>教会一名地卜师如何召唤一颗巨大的流星将一个地区埋在岩石和碎片中.</SpellOf_Meteor.description>
+  <SpellOf_Meteor.comps.1.useLabel>TM_Learn</SpellOf_Meteor.comps.1.useLabel>
+
+  <SpellOf_OrbitalStrike.label>机械师卷轴:轨道打击</SpellOf_OrbitalStrike.label>
+  <SpellOf_OrbitalStrike.description>教授技术人员如何进入古代卫星和轨道系统,并使用它们发射轨道罢工.</SpellOf_OrbitalStrike.description>
+  <SpellOf_OrbitalStrike.comps.1.useLabel>TM_Learn</SpellOf_OrbitalStrike.comps.1.useLabel>
+
+  <SpellOf_PsychicShock.label>术士卷轴:魂飞魄散</SpellOf_PsychicShock.label>
+  <SpellOf_PsychicShock.description>教会一名术士如何使用他的精神力量发出强大的精神冲击,击倒附近的生物.</SpellOf_PsychicShock.description>
+  <SpellOf_PsychicShock.comps.1.useLabel>TM_Learn</SpellOf_PsychicShock.comps.1.useLabel>
+
+  <SpellOf_Recall.label>贤者卷轴:回溯</SpellOf_Recall.label>
+  <SpellOf_Recall.description>教会一名贤者拥有回到过去的全部能力.</SpellOf_Recall.description>
+  <SpellOf_Recall.comps.1.useLabel>TM_Learn</SpellOf_Recall.comps.1.useLabel>
+
+  <SpellOf_RegrowLimb.label>德鲁伊卷轴:再生术</SpellOf_RegrowLimb.label>
+  <SpellOf_RegrowLimb.description>教会一名德鲁伊如何结合自然之力,奥术之力与医疗技能来再生肢体.</SpellOf_RegrowLimb.description>
+  <SpellOf_RegrowLimb.comps.1.useLabel>TM_Learn</SpellOf_RegrowLimb.comps.1.useLabel>
+
+  <SpellOf_Resurrection.label>牧师卷轴:复活术</SpellOf_Resurrection.label>
+  <SpellOf_Resurrection.description>教会一名牧师如何使已故不久的死者重新焕发生机.</SpellOf_Resurrection.description>
+  <SpellOf_Resurrection.comps.1.useLabel>TM_Learn</SpellOf_Resurrection.comps.1.useLabel>
+
+  <SpellOf_Scorn.label>魅魔卷轴:厄运化身</SpellOf_Scorn.label>
+  <SpellOf_Scorn.description>教会一名魅魔如何释放她们恶魔之心所隐藏的力量.</SpellOf_Scorn.description>
+  <SpellOf_Scorn.comps.1.useLabel>TM_Learn</SpellOf_Scorn.comps.1.useLabel>
+
+  <SpellOf_Shapeshift.label>附魔师卷轴:变身</SpellOf_Shapeshift.label>
+  <SpellOf_Shapeshift.description>教会一名附魔师如何在不丢失意识的情况下对自己进行变形.</SpellOf_Shapeshift.description>
+  <SpellOf_Shapeshift.comps.1.useLabel>TM_Learn</SpellOf_Shapeshift.comps.1.useLabel>
+
+  <SpellOf_SummonPoppi.label>召唤师卷轴:召唤波皮</SpellOf_SummonPoppi.label>
+  <SpellOf_SummonPoppi.description>教会一名召唤师如何召唤一群可爱又蠢萌的波皮.</SpellOf_SummonPoppi.description>
+  <SpellOf_SummonPoppi.comps.1.useLabel>TM_Learn</SpellOf_SummonPoppi.comps.1.useLabel>
+
+  <SpellOf_SpiritOfLight.label>光泽法术卷轴:光之精灵</SpellOf_SpiritOfLight.label>
+  <SpellOf_SpiritOfLight.description>教导光明法师如何召唤光之灵.</SpellOf_SpiritOfLight.description>
+  <SpellOf_SpiritOfLight.comps.1.useLabel>TM_Learn</SpellOf_SpiritOfLight.comps.1.useLabel>
+
+
+  <!-- Fighter Skills - Single -->
+
+  <SkillOf_ThrowingKnife.label>战技卷轴:投掷飞刀</SkillOf_ThrowingKnife.label>
+  <SkillOf_ThrowingKnife.description>教会一名战士如何投掷飞刀.</SkillOf_ThrowingKnife.description>
+  <SkillOf_ThrowingKnife.comps.1.useLabel>TM_Learn</SkillOf_ThrowingKnife.comps.1.useLabel>
+
+  <SkillOf_BurningFury.label>战技卷轴:狂怒</SkillOf_BurningFury.label>
+  <SkillOf_BurningFury.description>教会一名战士如何释放自己的怒气,非暴力的小人无法学习.</SkillOf_BurningFury.description>
+  <SkillOf_BurningFury.comps.1.useLabel>TM_Learn</SkillOf_BurningFury.comps.1.useLabel>
+
+  <SkillOf_FightersFocus.label>战技卷轴:战斗专注</SkillOf_FightersFocus.label>
+  <SkillOf_FightersFocus.description>教会一名战士如何更有效地释放身心压力.</SkillOf_FightersFocus.description>
+  <SkillOf_FightersFocus.comps.1.useLabel>TM_Learn</SkillOf_FightersFocus.comps.1.useLabel>
+
+  <SkillOf_GearRepair.label>战技卷轴:装备维护</SkillOf_GearRepair.label>
+  <SkillOf_GearRepair.description>教会一名战士如何更有效地维修破损的装备.</SkillOf_GearRepair.description>
+  <SkillOf_GearRepair.comps.1.useLabel>TM_Learn</SkillOf_GearRepair.comps.1.useLabel>
+
+  <SkillOf_HeavyBlow.label>战技卷轴:强力打击</SkillOf_HeavyBlow.label>
+  <SkillOf_HeavyBlow.description>教会一名战士如何训练来加强每次攻击的威力.</SkillOf_HeavyBlow.description>
+  <SkillOf_HeavyBlow.comps.1.useLabel>TM_Learn</SkillOf_HeavyBlow.comps.1.useLabel>
+
+  <SkillOf_InnerHealing.label>战技卷轴:深入治疗</SkillOf_InnerHealing.label>
+  <SkillOf_InnerHealing.description>教会一名战士如何专注于提高治愈率和疾病免疫力.</SkillOf_InnerHealing.description>
+  <SkillOf_InnerHealing.comps.1.useLabel>TM_Learn</SkillOf_InnerHealing.comps.1.useLabel>
+
+  <SkillOf_Legion.label>战技卷轴:军团</SkillOf_Legion.label>
+  <SkillOf_Legion.description>教一个战士如何复制另一个职业的战斗能力.</SkillOf_Legion.description>
+  <SkillOf_Legion.comps.1.useLabel>TM_Learn</SkillOf_Legion.comps.1.useLabel>
+
+  <SkillOf_PommelStrike.label>战技卷轴:剑柄打击</SkillOf_PommelStrike.label>
+  <SkillOf_PommelStrike.description>教会一名战士如何用剑柄击晕敌人.</SkillOf_PommelStrike.description>
+  <SkillOf_PommelStrike.comps.1.useLabel>TM_Learn</SkillOf_PommelStrike.comps.1.useLabel>
+
+  <SkillOf_Sprint.label>战技卷轴:冲刺</SkillOf_Sprint.label>
+  <SkillOf_Sprint.description>教会一名战士如何获得并维持更快的移动速度.</SkillOf_Sprint.description>
+  <SkillOf_Sprint.comps.1.useLabel>TM_Learn</SkillOf_Sprint.comps.1.useLabel>
+
+  <SkillOf_StrongBack.label>战技卷轴:强壮后背</SkillOf_StrongBack.label>
+  <SkillOf_StrongBack.description>教会一名战士如何搬运更多的物品.</SkillOf_StrongBack.description>
+  <SkillOf_StrongBack.comps.1.useLabel>TM_Learn</SkillOf_StrongBack.comps.1.useLabel>
+
+  <SkillOf_Taunt.label>战技卷轴:嘲讽</SkillOf_Taunt.label>
+  <SkillOf_Taunt.description>教会一名战士如何嘲讽附近的敌人.</SkillOf_Taunt.description>
+  <SkillOf_Taunt.comps.1.useLabel>TM_Learn</SkillOf_Taunt.comps.1.useLabel>
+
+  <SkillOf_TempestStrike.label>战技卷轴:风暴打击</SkillOf_TempestStrike.label>
+  <SkillOf_TempestStrike.description>教一名战士使用武器连续快速攻击的技术.</SkillOf_TempestStrike.description>
+  <SkillOf_TempestStrike.comps.1.useLabel>TM_Learn</SkillOf_TempestStrike.comps.1.useLabel>
+
+  <SkillOf_ThickSkin.label>战技卷轴:石化皮肤</SkillOf_ThickSkin.label>
+  <SkillOf_ThickSkin.description>教会一名战士如何使护甲变得更为坚硬并略微提升适宜温度.</SkillOf_ThickSkin.description>
+  <SkillOf_ThickSkin.comps.1.useLabel>TM_Learn</SkillOf_ThickSkin.comps.1.useLabel>
+
+  <SkillOf_HerbalBliss.label>药剂师配方:“极乐”</SkillOf_HerbalBliss.label>
+  <SkillOf_HerbalBliss.description>教会一名药剂师如何调配一种混合药物,让使用者处于极乐状态,能够掩盖几乎所有的情绪和痛苦.但会有严重的学习障碍副作用.</SkillOf_HerbalBliss.description>
+  <SkillOf_HerbalBliss.comps.1.useLabel>TM_Learn</SkillOf_HerbalBliss.comps.1.useLabel>
+
+  <SkillOf_HerbalClarity.label>药剂师配方:清醒剂</SkillOf_HerbalClarity.label>
+  <SkillOf_HerbalClarity.description>教会一名药剂师如何调配一种混合药物,帮助食用者挖掘自身的秘能.法力回复提高到300%,心灵敏感度提高到50%,同时影响食用者的心理.</SkillOf_HerbalClarity.description>
+  <SkillOf_HerbalClarity.comps.1.useLabel>TM_Learn</SkillOf_HerbalClarity.comps.1.useLabel>
+
+
+  <!-- Gems of Insight -->
+
+  <GemstoneOfInsight_Magic.label>法师洞察宝石</GemstoneOfInsight_Magic.label>
+  <GemstoneOfInsight_Magic.description>为使用者附加法师特性.\n\n**注意:如果人物有超过7个特性,使用此物品会随机替换掉一个人物特性.并且已有法师或战士特性的人物无法使用**</GemstoneOfInsight_Magic.description>
+  <GemstoneOfInsight_Magic.comps.1.useLabel>TM_Use</GemstoneOfInsight_Magic.comps.1.useLabel>
+
+  <GemstoneOfInsight_Might.label>战士洞察宝石</GemstoneOfInsight_Might.label>
+  <GemstoneOfInsight_Might.description>为使用者附加战士特性.\n\n**注意:如果人物有超过7个特性,使用此物品会随机替换掉一个人物特性.并且已有法师或战士特性的人物无法使用**</GemstoneOfInsight_Might.description>
+  <GemstoneOfInsight_Might.comps.1.useLabel>TM_Use</GemstoneOfInsight_Might.comps.1.useLabel>
+
+
+  <!--<BookOfQuestion.comps.0.useLabel>使用</BookOfQuestion.comps.0.useLabel>-->
+  <!--<Torn_BookOfInnerFire.comps.0.useLabel>使用</Torn_BookOfInnerFire.comps.0.useLabel>-->
+  <!--<Torn_BookOfHeartOfFrost.comps.0.useLabel>使用</Torn_BookOfHeartOfFrost.comps.0.useLabel>-->
+  <!--<Torn_BookOfStormBorn.comps.0.useLabel>使用</Torn_BookOfStormBorn.comps.0.useLabel>-->
+  <!--<Torn_BookOfArcanist.comps.0.useLabel>使用</Torn_BookOfArcanist.comps.0.useLabel>-->
+  <!--<Torn_BookOfValiant.comps.0.useLabel>使用</Torn_BookOfValiant.comps.0.useLabel>-->
+  <!--<Torn_BookOfSummoner.comps.0.useLabel>使用</Torn_BookOfSummoner.comps.0.useLabel>-->
+  <!--<Torn_BookOfNature.comps.0.useLabel>使用</Torn_BookOfNature.comps.0.useLabel>-->
+  <!--<Torn_BookOfUndead.comps.0.useLabel>使用</Torn_BookOfUndead.comps.0.useLabel>-->
+  <!--<Torn_BookOfPriest.comps.0.useLabel>使用</Torn_BookOfPriest.comps.0.useLabel>-->
+  <!--<Torn_BookOfBard.comps.0.useLabel>使用</Torn_BookOfBard.comps.0.useLabel>-->
+  <!--<Torn_BookOfDemons.comps.0.useLabel>使用</Torn_BookOfDemons.comps.0.useLabel>-->
+  <!--<Torn_BookOfEarth.comps.0.useLabel>使用</Torn_BookOfEarth.comps.0.useLabel>-->
+  <!--<Torn_BookOfMagitech.comps.0.useLabel>使用</Torn_BookOfMagitech.comps.0.useLabel>-->
+  <!--<Torn_BookOfHemomancy.comps.0.useLabel>使用</Torn_BookOfHemomancy.comps.0.useLabel>-->
+  <!--<Torn_BookOfEnchanter.comps.0.useLabel>使用</Torn_BookOfEnchanter.comps.0.useLabel>-->
+  <!--<Torn_BookOfChronomancer.comps.0.useLabel>使用</Torn_BookOfChronomancer.comps.0.useLabel>-->
+  <!--<Torn_BookOfChaos.comps.0.useLabel>使用</Torn_BookOfChaos.comps.0.useLabel>-->
+  <!--<Torn_BookOfTheSun.comps.0.useLabel>使用</Torn_BookOfTheSun.comps.0.useLabel>-->
+  <!--<Torn_BookOfShamanism.comps.0.useLabel>使用</Torn_BookOfShamanism.comps.0.useLabel>-->
+  <!--<Torn_BookOfGolemancy.comps.0.useLabel>使用</Torn_BookOfGolemancy.comps.0.useLabel>-->
+  <!--<BookOfInnerFire.comps.0.useLabel>使用</BookOfInnerFire.comps.0.useLabel>-->
+  <!--<BookOfHeartOfFrost.comps.0.useLabel>使用</BookOfHeartOfFrost.comps.0.useLabel>-->
+  <!--<BookOfStormBorn.comps.0.useLabel>使用</BookOfStormBorn.comps.0.useLabel>-->
+  <!--<BookOfArcanist.comps.0.useLabel>使用</BookOfArcanist.comps.0.useLabel>-->
+  <!--<BookOfValiant.comps.0.useLabel>使用</BookOfValiant.comps.0.useLabel>-->
+  <!--<BookOfSummoner.comps.0.useLabel>使用</BookOfSummoner.comps.0.useLabel>-->
+  <!--<BookOfDruid.comps.0.useLabel>使用</BookOfDruid.comps.0.useLabel>-->
+  <!--<BookOfNecromancer.comps.0.useLabel>使用</BookOfNecromancer.comps.0.useLabel>-->
+  <!--<BookOfPriest.comps.0.useLabel>使用</BookOfPriest.comps.0.useLabel>-->
+  <!--<BookOfBard.comps.0.useLabel>使用</BookOfBard.comps.0.useLabel>-->
+  <!--<BookOfDemons.comps.0.useLabel>使用</BookOfDemons.comps.0.useLabel>-->
+  <!--<BookOfEarth.comps.0.useLabel>使用</BookOfEarth.comps.0.useLabel>-->
+  <!--<BookOfMagitech.comps.0.useLabel>使用</BookOfMagitech.comps.0.useLabel>-->
+  <!--<BookOfHemomancy.comps.0.useLabel>使用</BookOfHemomancy.comps.0.useLabel>-->
+  <!--<BookOfEnchanter.comps.0.useLabel>使用</BookOfEnchanter.comps.0.useLabel>-->
+  <!--<BookOfChronomancer.comps.0.useLabel>使用</BookOfChronomancer.comps.0.useLabel>-->
+  <!--<BookOfChaos.comps.0.useLabel>使用</BookOfChaos.comps.0.useLabel>-->
+  <!--<BookOfTheSun.comps.0.useLabel>使用</BookOfTheSun.comps.0.useLabel>-->
+  <!--<BookOfShamanism.comps.0.useLabel>使用</BookOfShamanism.comps.0.useLabel>-->
+  <!--<BookOfGolemancy.comps.0.useLabel>使用</BookOfGolemancy.comps.0.useLabel>-->
+  <!--<BookOfGladiator.comps.0.useLabel>使用</BookOfGladiator.comps.0.useLabel>-->
+  <!--<BookOfPsionic.comps.0.useLabel>使用</BookOfPsionic.comps.0.useLabel>-->
+  <!--<BookOfFaceless.comps.0.useLabel>使用</BookOfFaceless.comps.0.useLabel>-->
+  <!--<BookOfSniper.comps.0.useLabel>使用</BookOfSniper.comps.0.useLabel>-->
+  <!--<BookOfBladedancer.comps.0.useLabel>使用</BookOfBladedancer.comps.0.useLabel>-->
+  <!--<BookOfRanger.comps.0.useLabel>使用</BookOfRanger.comps.0.useLabel>-->
+  <!--<BookOfDeathKnight.comps.0.useLabel>使用</BookOfDeathKnight.comps.0.useLabel>-->
+  <!--<BookOfMonk.comps.0.useLabel>使用</BookOfMonk.comps.0.useLabel>-->
+  <!--<BookOfCommander.comps.0.useLabel>使用</BookOfCommander.comps.0.useLabel>-->
+  <!--<BookOfSuperSoldier.comps.0.useLabel>注入</BookOfSuperSoldier.comps.0.useLabel>-->
+  <!--<BookOfShadow.comps.0.useLabel>使用</BookOfShadow.comps.0.useLabel>-->
+  <!--<BookOfApothecary.comps.0.useLabel>使用</BookOfApothecary.comps.0.useLabel>-->
+  <!--<SpellOf_ArcaneBolt.comps.0.useLabel>使用</SpellOf_ArcaneBolt.comps.0.useLabel>-->
+  <!--<SpellOf_Blink.comps.0.useLabel>使用</SpellOf_Blink.comps.0.useLabel>-->
+  <!--<SpellOf_Blur.comps.0.useLabel>使用</SpellOf_Blur.comps.0.useLabel>-->
+  <!--<SpellOf_Cooler.comps.0.useLabel>使用</SpellOf_Cooler.comps.0.useLabel>-->
+  <!--<SpellOf_DirtDevil.comps.0.useLabel>使用</SpellOf_DirtDevil.comps.0.useLabel>-->
+  <!--<SpellOf_EMP.comps.0.useLabel>使用</SpellOf_EMP.comps.0.useLabel>-->
+  <!--<SpellOf_Extinguish.comps.0.useLabel>使用</SpellOf_Extinguish.comps.0.useLabel>-->
+  <!--<SpellOf_Heal.comps.0.useLabel>使用</SpellOf_Heal.comps.0.useLabel>-->
+  <!--<SpellOf_HeatShield.comps.0.useLabel>使用</SpellOf_HeatShield.comps.0.useLabel>-->
+  <!--<SpellOf_Heater.comps.0.useLabel>使用</SpellOf_Heater.comps.0.useLabel>-->
+  <!--<SpellOf_Ignite.comps.0.useLabel>使用</SpellOf_Ignite.comps.0.useLabel>-->
+  <!--<SpellOf_MageLight.comps.0.useLabel>使用</SpellOf_MageLight.comps.0.useLabel>-->
+  <!--<SpellOf_PowerNode.comps.0.useLabel>使用</SpellOf_PowerNode.comps.0.useLabel>-->
+  <!--<SpellOf_Rain.comps.0.useLabel>使用</SpellOf_Rain.comps.0.useLabel>-->
+  <!--<SpellOf_SnapFreeze.comps.0.useLabel>使用</SpellOf_SnapFreeze.comps.0.useLabel>-->
+  <!--<SpellOf_SmokeCloud.comps.0.useLabel>使用</SpellOf_SmokeCloud.comps.0.useLabel>-->
+  <!--<SpellOf_Sunlight.comps.0.useLabel>使用</SpellOf_Sunlight.comps.0.useLabel>-->
+  <!--<SpellOf_BrandSiphon.comps.0.useLabel>使用</SpellOf_BrandSiphon.comps.0.useLabel>-->
+  <!--<SpellOf_BrandFitness.comps.0.useLabel>使用</SpellOf_BrandFitness.comps.0.useLabel>-->
+  <!--<SpellOf_BrandEmotion.comps.0.useLabel>使用</SpellOf_BrandEmotion.comps.0.useLabel>-->
+  <!--<SpellOf_BrandVitality.comps.0.useLabel>使用</SpellOf_BrandVitality.comps.0.useLabel>-->
+  <!--<SpellOf_BrandProtection.comps.0.useLabel>使用</SpellOf_BrandProtection.comps.0.useLabel>-->
+  <!--<SpellOf_BrandAwareness.comps.0.useLabel>使用</SpellOf_BrandAwareness.comps.0.useLabel>-->
+  <!--<SpellOf_ChargeBattery.comps.0.useLabel>使用</SpellOf_ChargeBattery.comps.0.useLabel>-->
+  <!--<SpellOf_CauterizeWound.comps.0.useLabel>使用</SpellOf_CauterizeWound.comps.0.useLabel>-->
+  <!--<SpellOf_ConsumeCorpse_Mass.comps.0.useLabel>使用</SpellOf_ConsumeCorpse_Mass.comps.0.useLabel>-->
+  <!--<SpellOf_Discord.comps.0.useLabel>使用</SpellOf_Discord.comps.0.useLabel>-->
+  <!--<SpellOf_DryGround.comps.0.useLabel>使用</SpellOf_DryGround.comps.0.useLabel>-->
+  <!--<SpellOf_WetGround.comps.0.useLabel>使用</SpellOf_WetGround.comps.0.useLabel>-->
+  <!--<SpellOf_MagicWardrobe.comps.0.useLabel>使用</SpellOf_MagicWardrobe.comps.0.useLabel>-->
+  <!--<SpellOf_Invisibility.comps.0.useLabel>使用</SpellOf_Invisibility.comps.0.useLabel>-->
+  <!--<SpellOf_LightningTrap.comps.0.useLabel>使用</SpellOf_LightningTrap.comps.0.useLabel>-->
+  <!--<SpellOf_ManaShield.comps.0.useLabel>使用</SpellOf_ManaShield.comps.0.useLabel>-->
+  <!--<SpellOf_ShieldOther.comps.0.useLabel>使用</SpellOf_ShieldOther.comps.0.useLabel>-->
+  <!--<SpellOf_SpellMending.comps.0.useLabel>使用</SpellOf_SpellMending.comps.0.useLabel>-->
+  <!--<SpellOf_SiphonMana.comps.0.useLabel>使用</SpellOf_SiphonMana.comps.0.useLabel>-->
+  <!--<SpellOf_SummonMinion.comps.0.useLabel>使用</SpellOf_SummonMinion.comps.0.useLabel>-->
+  <!--<SpellOf_Teleport.comps.0.useLabel>使用</SpellOf_Teleport.comps.0.useLabel>-->
+  <!--<SpellOf_TransferMana.comps.0.useLabel>使用</SpellOf_TransferMana.comps.0.useLabel>-->
+  <!--<SpellOf_FadeEmotions.comps.0.useLabel>使用</SpellOf_FadeEmotions.comps.0.useLabel>-->
+  <!--<SpellOf_BlankMind.comps.0.useLabel>使用</SpellOf_BlankMind.comps.0.useLabel>-->
+  <!--<SpellOf_BriarPatch.comps.0.useLabel>使用</SpellOf_BriarPatch.comps.0.useLabel>-->
+  <!--<SpellOf_FertileLands.comps.0.useLabel>使用</SpellOf_FertileLands.comps.0.useLabel>-->
+  <!--<SpellOf_AlterStorm.comps.0.useLabel>使用</SpellOf_AlterStorm.comps.0.useLabel>-->
+  <!--<SpellOf_MechaniteReprogramming.comps.0.useLabel>使用</SpellOf_MechaniteReprogramming.comps.0.useLabel>-->
+  <!--<SpellOf_Overdrive.comps.0.useLabel>使用</SpellOf_Overdrive.comps.0.useLabel>-->
+  <!--<SpellOf_Sabotage.comps.0.useLabel>使用</SpellOf_Sabotage.comps.0.useLabel>-->
+  <!--<SpellOf_TechnoShield.comps.0.useLabel>使用</SpellOf_TechnoShield.comps.0.useLabel>-->
+  <!--<SpellOf_BattleHymn.comps.0.useLabel>使用</SpellOf_BattleHymn.comps.0.useLabel>-->
+  <!--<SpellOf_Blizzard.comps.0.useLabel>使用</SpellOf_Blizzard.comps.0.useLabel>-->
+  <!--<SpellOf_BloodMoon.comps.0.useLabel>使用</SpellOf_BloodMoon.comps.0.useLabel>-->
+  <!--<SpellOf_EyeOfTheStorm.comps.0.useLabel>使用</SpellOf_EyeOfTheStorm.comps.0.useLabel>-->
+  <!--<SpellOf_Firestorm.comps.0.useLabel>使用</SpellOf_Firestorm.comps.0.useLabel>-->
+  <!--<SpellOf_FoldReality.comps.0.useLabel>使用</SpellOf_FoldReality.comps.0.useLabel>-->
+  <!--<SpellOf_GuardianSpirit.comps.0.useLabel>使用</SpellOf_GuardianSpirit.comps.0.useLabel>-->
+  <!--<SpellOf_HolyWrath.comps.0.useLabel>使用</SpellOf_HolyWrath.comps.0.useLabel>-->
+  <!--<SpellOf_LichForm.comps.0.useLabel>使用</SpellOf_LichForm.comps.0.useLabel>-->
+  <!--<SpellOf_LivingWall.comps.0.useLabel>使用</SpellOf_LivingWall.comps.0.useLabel>-->
+  <!--<SpellOf_Meteor.comps.0.useLabel>使用</SpellOf_Meteor.comps.0.useLabel>-->
+  <!--<SpellOf_OrbitalStrike.comps.0.useLabel>使用</SpellOf_OrbitalStrike.comps.0.useLabel>-->
+  <!--<SpellOf_PsychicShock.comps.0.useLabel>使用</SpellOf_PsychicShock.comps.0.useLabel>-->
+  <!--<SpellOf_Recall.comps.0.useLabel>使用</SpellOf_Recall.comps.0.useLabel>-->
+  <!--<SpellOf_RegrowLimb.comps.0.useLabel>使用</SpellOf_RegrowLimb.comps.0.useLabel>-->
+  <!--<SpellOf_Resurrection.comps.0.useLabel>使用</SpellOf_Resurrection.comps.0.useLabel>-->
+  <!--<SpellOf_Scorn.comps.0.useLabel>使用</SpellOf_Scorn.comps.0.useLabel>-->
+  <!--<SpellOf_Shapeshift.comps.0.useLabel>使用</SpellOf_Shapeshift.comps.0.useLabel>-->
+  <!--<SpellOf_SummonPoppi.comps.0.useLabel>使用</SpellOf_SummonPoppi.comps.0.useLabel>-->
+  <!--<SpellOf_SpiritOfLight.comps.0.useLabel>使用</SpellOf_SpiritOfLight.comps.0.useLabel>-->
+  <!--<SkillOf_ThrowingKnife.comps.0.useLabel>使用</SkillOf_ThrowingKnife.comps.0.useLabel>-->
+  <!--<SkillOf_BurningFury.comps.0.useLabel>使用</SkillOf_BurningFury.comps.0.useLabel>-->
+  <!--<SkillOf_FightersFocus.comps.0.useLabel>使用</SkillOf_FightersFocus.comps.0.useLabel>-->
+  <!--<SkillOf_GearRepair.comps.0.useLabel>使用</SkillOf_GearRepair.comps.0.useLabel>-->
+  <!--<SkillOf_HeavyBlow.comps.0.useLabel>使用</SkillOf_HeavyBlow.comps.0.useLabel>-->
+  <!--<SkillOf_InnerHealing.comps.0.useLabel>使用</SkillOf_InnerHealing.comps.0.useLabel>-->
+  <!--<SkillOf_Legion.comps.0.useLabel>使用</SkillOf_Legion.comps.0.useLabel>-->
+  <!--<SkillOf_PommelStrike.comps.0.useLabel>使用</SkillOf_PommelStrike.comps.0.useLabel>-->
+  <!--<SkillOf_Sprint.comps.0.useLabel>使用</SkillOf_Sprint.comps.0.useLabel>-->
+  <!--<SkillOf_StrongBack.comps.0.useLabel>使用</SkillOf_StrongBack.comps.0.useLabel>-->
+  <!--<SkillOf_Taunt.comps.0.useLabel>使用</SkillOf_Taunt.comps.0.useLabel>-->
+  <!--<SkillOf_TempestStrike.comps.0.useLabel>使用</SkillOf_TempestStrike.comps.0.useLabel>-->
+  <!--<SkillOf_ThickSkin.comps.0.useLabel>使用</SkillOf_ThickSkin.comps.0.useLabel>-->
+  <!--<SkillOf_HerbalBliss.comps.0.useLabel>使用</SkillOf_HerbalBliss.comps.0.useLabel>-->
+  <!--<SkillOf_HerbalClarity.comps.0.useLabel>使用</SkillOf_HerbalClarity.comps.0.useLabel>-->
+  <!--<GemstoneOfInsight_Magic.comps.0.useLabel>使用</GemstoneOfInsight_Magic.comps.0.useLabel>-->
+  <!--<GemstoneOfInsight_Might.comps.0.useLabel>使用</GemstoneOfInsight_Might.comps.0.useLabel>-->
+
+</LanguageData>

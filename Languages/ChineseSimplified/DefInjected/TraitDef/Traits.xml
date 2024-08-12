@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_ArcaneConduitTD.degreeDatas.0.label>&lt;color=#A6FFFF&gt;法力运输者&lt;/color&gt;</TM_ArcaneConduitTD.degreeDatas.0.label>
+  <TM_ArcaneConduitTD.degreeDatas.0.description>[PAWN_nameDef]对法力涌动/流失异常敏感,[PAWN_objective] 获得法力的速度比正常快40%,但 [PAWN_possessive]最大法力减少20。</TM_ArcaneConduitTD.degreeDatas.0.description>
+
+  <TM_ManaWellTD.degreeDatas.0.label>&lt;color=#A6FFFF&gt;法力之井&lt;/color&gt;</TM_ManaWellTD.degreeDatas.0.label>
+  <TM_ManaWellTD.degreeDatas.0.description>[PAWN_nameDef]对法力涌动/流失有一定的抵抗能力,[PAWN_objective] 增加40点法力上限,但减少 [PAWN_possessive]20%的法力回复。</TM_ManaWellTD.degreeDatas.0.description>
+
+  <TM_BoundlessTD.degreeDatas.0.label>&lt;color=#FF00FF&gt;无边无际&lt;/color&gt;</TM_BoundlessTD.degreeDatas.0.label>
+  <TM_BoundlessTD.degreeDatas.0.description>[PAWN_nameDef]擅长战斗,能比其他人能够更频繁地执行40%的战技,但是 [PAWN_possessive] 天赋令[PAWN_pronoun]变得十分傲慢,[PAWN_possessive]经验增益减少了25%,其他战士十分厌恶[PAWN_nameDef] </TM_BoundlessTD.degreeDatas.0.description>
+
+  <TM_FaeBloodTD.degreeDatas.0.label>&lt;color=#A6FFFF&gt;精灵血脉&lt;/color&gt;</TM_FaeBloodTD.degreeDatas.0.label>
+  <TM_FaeBloodTD.degreeDatas.0.description>[PAWN_nameDef] 是精灵族的后裔,与奥术有着天然的联系。 [PAWN_possessive] 法术抗性降低40%,但法力回复和最大法力提高20%,同时法术消耗降低10%。</TM_FaeBloodTD.degreeDatas.0.description>
+
+  <TM_GiantsBloodTD.degreeDatas.0.label>&lt;color=#A6FFFF&gt;巨人后裔&lt;/color&gt;</TM_GiantsBloodTD.degreeDatas.0.label>
+  <TM_GiantsBloodTD.degreeDatas.0.description>[PAWN_nameDef] 是巨人的后裔,被赋予了巨大的力量和耐力,尽管恢复缓慢。 最大耐力增加80%,但耐力回复减少40%。 使用近战武器或出拳时的任何攻击造成额外25%的伤害。</TM_GiantsBloodTD.degreeDatas.0.description>
+
+  <TM_EnlightenedTD.degreeDatas.0.label>&lt;color=#A6FFFF&gt;先哲&lt;/color&gt;</TM_EnlightenedTD.degreeDatas.0.label>
+  <TM_EnlightenedTD.degreeDatas.0.description>[PAWN_nameDef] 天生受到魔法的祝福,能够利用它的力量而不受所有副作用的影响。 心灵敏感性增加50%,任何魔法技能的使用只会导致一半的法力空虚。 </TM_EnlightenedTD.degreeDatas.0.description>
+
+  <TM_CursedTD.degreeDatas.0.label>&lt;color=#A6FFFF&gt;受诅咒者&lt;/color&gt;</TM_CursedTD.degreeDatas.0.label>
+  <TM_CursedTD.degreeDatas.0.description>[PAWN_nameDef] 曾经被魔法所诅咒：持续被 [PAWN_possessive] 内在的魔法能量所折磨,时刻紧绷着精神,并且只能通过消耗自身的法力才可获得缓解。奥术诅咒会慢慢积累,最终会出现精神错乱。使用通常会导致奥术虚弱的魔法能力将会相应地减少奥术诅咒,以及抵消诅咒的效果。</TM_CursedTD.degreeDatas.0.description>
+
+  <TM_OKWithDeath.degreeDatas.0.label>&lt;color=#DCDCDC&gt;亡灵&lt;/color&gt;</TM_OKWithDeath.degreeDatas.0.label>
+  <TM_OKWithDeath.degreeDatas.0.description>[PAWN_nameDef]已经在轮回中感受到了生命的真谛,当[PAWN_pronoun]目睹生命消逝时再也不会感到沮丧。</TM_OKWithDeath.degreeDatas.0.description>
+
+  <Undead.degreeDatas.0.label>&lt;color=#DCDCDC&gt;亡灵&lt;/color&gt;</Undead.degreeDatas.0.label>
+  <Undead.degreeDatas.0.description>[PAWN_nameDef]伴随着神秘的钟声从墓地中苏醒,[PAWN_nameDef]已忘记过去几乎一切事情,除了传火。</Undead.degreeDatas.0.description>
+
+  <TM_Gifted.degreeDatas.0.label>&lt;color=#5CADAD&gt;魔法天赋&lt;/color&gt;</TM_Gifted.degreeDatas.0.label>
+  <TM_Gifted.degreeDatas.0.description>[PAWN_nameDef]拥有与生俱来的魔法天赋,[PAWN_pronoun]可以通过学习卷轴中的知识而成为一名高贵的法师。</TM_Gifted.degreeDatas.0.description>
+
+  <TM_Empath.degreeDatas.0.label>&lt;color=#FF00FF&gt;读心师&lt;/color&gt;</TM_Empath.degreeDatas.0.label>
+  <TM_Empath.degreeDatas.0.description>[PAWN_nameDef] 是一名读心师,能够感觉到和操纵周围人的情绪。[PAWN_possessive] 能力与魔法紧密相关,同时也影响着[PAWN_objective] 的内在。通过训练,[PAWN_nameDef] 可以成为一个熟练的魔法使用者。好坏与否,读心师师有一种非常强烈的共感能力,可以很容易地读懂别人的内在；读心能力的有效性与是否能够攻克他人的心理防线密切相关。</TM_Empath.degreeDatas.0.description>
+
+  <TM_Wanderer.degreeDatas.0.label>&lt;color=#330000&gt;流浪者&lt;/color&gt;</TM_Wanderer.degreeDatas.0.label>
+  <TM_Wanderer.degreeDatas.0.description>[PAWN_nameDef] 是一名流浪者；一名被遗弃的混血法师,经常被称为树篱法师。[PAWN_possessive]无忧无虑的个性让他没有特定的法术.相反[PAWN_pronoun] 学会了提高大量的通用法术 [PAWN_objective] 更喜欢开放的道路,如果在远征队会提升心情,任何远征队内有一个流浪者将会无视山带来的减速。然而,如果流浪者在殖民地停留太久,他们会受到情绪惩罚。</TM_Wanderer.degreeDatas.0.description>
+
+  <InnerFire.degreeDatas.0.label>&lt;color=#FF6600&gt;烈焰法师&lt;/color&gt;</InnerFire.degreeDatas.0.label>
+  <InnerFire.degreeDatas.0.description>[PAWN_nameDef]已与天地中的火元素同调,成为一名掌控火焰的法师。“让火焰净化一切！！”</InnerFire.degreeDatas.0.description>
+
+  <HeartOfFrost.degreeDatas.0.label>&lt;color=#FFCCFF&gt;冰霜法师&lt;/color&gt;</HeartOfFrost.degreeDatas.0.label>
+  <HeartOfFrost.degreeDatas.0.description>[PAWN_nameDef]已与天地中的冰元素同调,成为一名掌控冰霜的法师。“暴雪,冻住[PAWN_pronoun]们！”</HeartOfFrost.degreeDatas.0.description>
+
+  <StormBorn.degreeDatas.0.label>&lt;color=#00BFFF&gt;雷霆法师&lt;/color&gt;</StormBorn.degreeDatas.0.label>
+  <StormBorn.degreeDatas.0.description>[PAWN_nameDef]已与天地中的雷元素同调,成为一名掌控雷电的法师。“[PAWN_pronoun]的力量如同宙斯一般无穷无尽！”</StormBorn.degreeDatas.0.description>
+
+  <Arcanist.degreeDatas.0.label>&lt;color=#00BFFF&gt;奥术法师&lt;/color&gt;</Arcanist.degreeDatas.0.label>
+  <Arcanist.degreeDatas.0.description>[PAWN_nameDef]已成为一名奥术法师。只有最敏锐、聪慧、严于律己的学生才能够走上奥术法师之路,奥术法师所能够掌握的魔法太过强大而危险,只有最专注的研习者才能够窥见其中的奥秘。</Arcanist.degreeDatas.0.description>
+
+  <Druid.degreeDatas.0.label>&lt;color=#A6FFFF&gt;德鲁伊&lt;/color&gt;</Druid.degreeDatas.0.label>
+  <Druid.degreeDatas.0.description>[PAWN_nameDef]已成为一名德鲁伊,[PAWN_pronoun]能驾驭强大的自然力量来维护平衡、保护生命。</Druid.degreeDatas.0.description>
+
+  <Paladin.degreeDatas.0.label>&lt;color=#A6FFFF&gt;圣骑士&lt;/color&gt;</Paladin.degreeDatas.0.label>
+  <Paladin.degreeDatas.0.description>[PAWN_nameDef]被赋予了最神圣的力量,[PAWN_pronoun]曾向圣光发誓,无论何时何地一定要铲除邪恶,伸张正义。</Paladin.degreeDatas.0.description>
+
+  <Summoner.degreeDatas.0.label>&lt;color=#A6FFFF&gt;召唤师&lt;/color&gt;</Summoner.degreeDatas.0.label>
+  <Summoner.degreeDatas.0.description>[PAWN_nameDef]已经成为一名召唤师,[PAWN_pronoun]能从不同的位面召唤出不同的生物或物体。</Summoner.degreeDatas.0.description>
+
+  <Necromancer.degreeDatas.0.label>&lt;color=#C48888&gt;死灵法师&lt;/color&gt;</Necromancer.degreeDatas.0.label>
+  <Necromancer.degreeDatas.0.description>[PAWN_nameDef]已与冥界之主签订契约,[PAWN_pronoun]将毁灭与死亡带到这个世界。哪怕最坚定的敌人见到[PAWN_pronoun]也会瑟瑟发抖。</Necromancer.degreeDatas.0.description>
+
+  <Lich.degreeDatas.0.label>&lt;color=#C48888&gt;巫妖&lt;/color&gt;</Lich.degreeDatas.0.label>
+  <Lich.degreeDatas.0.description>[PAWN_nameDef]已经选择将自己转换成了一名永生不死的巫妖,[PAWN_pronoun]拥有生前所有的能力,且有无尽的时间来钻研魔法,只有最强大最邪恶的死灵法师才能做到这一切！</Lich.degreeDatas.0.description>
+
+  <Priest.degreeDatas.0.label>&lt;color=#A6FFFF&gt;牧师&lt;/color&gt;</Priest.degreeDatas.0.label>
+  <Priest.degreeDatas.0.description>[PAWN_nameDef]被赋予了神圣的力量,[PAWN_pronoun]使用圣光的力量治愈同伴,并发誓不会伤害[PAWN_pronoun]人。</Priest.degreeDatas.0.description>
+
+  <TM_Bard.degreeDatas.0.label>&lt;color=#B7FF4A&gt;见习吟游诗人&lt;/color&gt;</TM_Bard.degreeDatas.0.label>
+  <TM_Bard.degreeDatas.0.description>[PAWN_nameDef]是一个天生的乐者,与[PAWN_pronoun]待在一起会觉得很快乐。</TM_Bard.degreeDatas.0.description>
+  <TM_Bard.degreeDatas.1.label>&lt;color=#B7FF4A&gt;初阶吟游诗人&lt;/color&gt;</TM_Bard.degreeDatas.1.label>
+  <TM_Bard.degreeDatas.1.description>[PAWN_nameDef]意识到自己的演艺天赋,[PAWN_nameDef]开始有意识地承担起鼓舞其[PAWN_pronoun]殖民者的任务。</TM_Bard.degreeDatas.1.description>
+  <TM_Bard.degreeDatas.2.label>&lt;color=#B7FF4A&gt;高阶吟游诗人&lt;/color&gt;</TM_Bard.degreeDatas.2.label>
+  <TM_Bard.degreeDatas.2.description>每个人都喜欢 [PAWN_nameDef]！[PAWN_pronoun] 在各种社交活动中表现出[PAWN_pronoun]的技巧与天赋,[PAWN_pronoun]几乎和所有人都建立了良好的关系。</TM_Bard.degreeDatas.2.description>
+  <TM_Bard.degreeDatas.3.label>&lt;color=#B7FF4A&gt;传奇吟游诗人&lt;/color&gt;</TM_Bard.degreeDatas.3.label>
+  <TM_Bard.degreeDatas.3.description>[PAWN_nameDef]已经成为一名传奇,[PAWN_pronoun]拥有无限的智慧,[PAWN_pronoun]的舌头比最锋利的刀刃更为致命。</TM_Bard.degreeDatas.3.description>
+
+  <Succubus.degreeDatas.0.label>&lt;color=#FF00FF&gt;魅魔&lt;/color&gt;</Succubus.degreeDatas.0.label>
+  <Succubus.degreeDatas.0.description>[PAWN_nameDef]有着令人嫉妒的精致面容。[PAWN_pronoun]则利用自己的魅力和一点小小的法力让许多人成为了[PAWN_pronoun]的奴隶。</Succubus.degreeDatas.0.description>
+
+  <Warlock.degreeDatas.0.label>&lt;color=#FF00FF&gt;术士&lt;/color&gt;</Warlock.degreeDatas.0.label>
+  <Warlock.degreeDatas.0.description>[PAWN_nameDef]是一名术士。术士与魅魔一脉相承,与魅魔不同,术士更多的依靠法力来操纵人心。</Warlock.degreeDatas.0.description>
+
+  <Geomancer.degreeDatas.0.label>&lt;color=#009900&gt;地卜师&lt;/color&gt;</Geomancer.degreeDatas.0.label>
+  <Geomancer.degreeDatas.0.description>[PAWN_nameDef]是一名地卜师,[PAWN_pronoun]从大地中吸取力量从而保护同伴或伤害敌人。</Geomancer.degreeDatas.0.description>
+
+  <Technomancer.degreeDatas.0.label>&lt;color=#A6FFFF&gt;机械师&lt;/color&gt;</Technomancer.degreeDatas.0.label>
+  <Technomancer.degreeDatas.0.description>[PAWN_nameDef]对科技与魔法的理解远远高于普通人,[PAWN_pronoun]能让魔法与科技交互从而产生更强的力量。</Technomancer.degreeDatas.0.description>
+
+  <BloodMage.degreeDatas.0.label>&lt;color=#A6FFFF&gt;血法师&lt;/color&gt;</BloodMage.degreeDatas.0.label>
+  <BloodMage.degreeDatas.0.description>[PAWN_nameDef]投身于黑暗艺术中,将操控生命之血作为增强力量的手段。</BloodMage.degreeDatas.0.description>
+
+  <Enchanter.degreeDatas.0.label>&lt;color=#A6FFFF&gt;附魔师&lt;/color&gt;</Enchanter.degreeDatas.0.label>
+  <Enchanter.degreeDatas.0.description>[PAWN_nameDef]是一名附魔师,擅长以不自然的方式操纵物质的形态。</Enchanter.degreeDatas.0.description>
+
+  <Chronomancer.degreeDatas.0.label>&lt;color=#E1E100&gt;时间法师&lt;/color&gt;</Chronomancer.degreeDatas.0.label>
+  <Chronomancer.degreeDatas.0.description>[PAWN_nameDef]是一名时间法师,[PAWN_pronoun]能徜徉于时间长河之中看见过去、现在和未来。一位强大的时间法师甚至能回到过去、逆转未来。</Chronomancer.degreeDatas.0.description>
+
+  <ChaosMage.degreeDatas.0.label>&lt;color=#330000&gt;混沌法师&lt;/color&gt;</ChaosMage.degreeDatas.0.label>
+  <ChaosMage.degreeDatas.0.description>&lt;color=#4B4B4B&gt;[PAWN_nameDef] 拒绝使用所有已经设定了的法术,[PAWN_possessive] 追求;没有真理,所有的魔法都是允许的。这个传统使[PAWN_nameDef]能够学习任何类型的魔法,尽管[PAWN_pronoun]永远也学不会。.&lt;/color&gt;</ChaosMage.degreeDatas.0.description>
+
+
+  <!-- Custom Class -->
+
+  <TM_TheShadow.degreeDatas.0.label>&lt;color=#C48888&gt;影行者&lt;/color&gt;</TM_TheShadow.degreeDatas.0.label>
+  <TM_TheShadow.degreeDatas.0.description>[PAWN_nameDef]是一个混血恶魔,对暗影魔法很有兴趣。[PAWN_pronoun]通过战斗训练和身体调节,发展出 [PAWN_possessive] 独特的天赋,使 [PAWN_objective]成为完美的刺客。</TM_TheShadow.degreeDatas.0.description>
+
+  <TM_Brightmage.degreeDatas.0.label>&lt;color=#FFFFFF&gt;光明法师&lt;/color&gt;</TM_Brightmage.degreeDatas.0.label>
+  <TM_Brightmage.degreeDatas.0.description>[PAWN_nameDef]是一个光明法师,能够利用光的力量来净化邪恶。[PAWN_pronoun]以无与伦比的热情处理任何任务,通常将[PAWN_objective]放在最前面。作为一个光明法师[PAWN_nameDef]会对太阳和光产生依赖,正因为如此,[PAWN_nameDef]对阴暗和邪恶产生了强烈的仇恨。</TM_Brightmage.degreeDatas.0.description>
+
+  <TM_Shaman.degreeDatas.0.label>&lt;color=#330099&gt;萨满&lt;/color&gt;</TM_Shaman.degreeDatas.0.label>
+  <TM_Shaman.degreeDatas.0.description>与大多数法师相比,萨满对奥术魔法采取了一种更为和谐的沟通方法,选择一条与魔法的涨落相结合的道路来抵消或加强自然秩序。,[PAWN_nameDef]是灵魂领域的一部分,与自然及其元素协调。</TM_Shaman.degreeDatas.0.description>
+
+  <TM_Golemancer.degreeDatas.0.label>&lt;color=#A6FFFF&gt;傀儡师&lt;/color&gt;</TM_Golemancer.degreeDatas.0.label>
+  <TM_Golemancer.degreeDatas.0.description>傀儡师使喜欢通过强大的符文和秘符来编织他们的魔法,这些符文和秘符能够将目标转化为一个物体。[PAWN_nameDef] 也不例外；[PAWN_pronoun] 可以创造符文,增强基本机械,改变生物中的化学物质,并将奇特材料制作成栩栩如生的怪物,他们发现直接将法力转化为能量更困难,而通过秘符引导魔法时效率会多很多；他们拥有比一般人更高的魔法抗性。大多数傀儡使认为研究石头比人更有趣,也不太关心清洁。</TM_Golemancer.degreeDatas.0.description>
+
+  <TM_Possessed.degreeDatas.0.label>&lt;color=#696969&gt;幽魂行者&lt;/color&gt;</TM_Possessed.degreeDatas.0.label>
+  <TM_Possessed.degreeDatas.0.description>[PAWN_nameDef]的身体被另一个灵魂入侵。当一个身体拥有两个灵魂时,会产生冲突。如果特性一致,这种冲突可以减少,但如果特性相反,这种冲突会进一步加剧,直至完美融合,成为幽魂行者。如果占据死人的身体,不会发生这种冲突,但会慢慢消耗灵魂能量。灵魂能量可以通过冥想、吸收物理伤害和灵魂虹吸来回复。</TM_Possessed.degreeDatas.0.description>
+
+  <TM_Possessor.degreeDatas.0.label>&lt;color=#696969&gt;幽魂&lt;/color&gt;</TM_Possessor.degreeDatas.0.label>
+  <TM_Possessor.degreeDatas.0.description>[Pawn_namedef]的身体被另一个典当的精神居住。在典当中拥有的灵魂会造成内部冲突,因为两个灵魂之间的身体的功能是在两个灵魂之间共享的。如果个性保持一致,则可以减少这种冲突,但如果对比对比,这种冲突将进一步加剧。拥有死者的典当不会遇到精神冲突,但会慢慢耗尽拥有精神的能量。可以通过冥想或吸收来充电精神。</TM_Possessor.degreeDatas.0.description>
+
+
+  <!-- Might Classes -->
+
+  <PhysicalProdigy.degreeDatas.0.label>&lt;color=#5CADAD&gt;身体技巧&lt;/color&gt;</PhysicalProdigy.degreeDatas.0.label>
+  <PhysicalProdigy.degreeDatas.0.description>[PAWN_nameDef]体格强壮、身形敏捷,拥有成为一名战士的资质。</PhysicalProdigy.degreeDatas.0.description>
+
+  <TM_Wayfarer.degreeDatas.0.label>&lt;color=#646464&gt;旅行者&lt;/color&gt;</TM_Wayfarer.degreeDatas.0.label>
+  <TM_Wayfarer.degreeDatas.0.description>[PAWN_nameDef]是一名旅行者；一名斗士,擅长诡计和肮脏的战斗。[PAWN_possessive] 有无忧无虑的个性 让他没有特定的战技.相反 [PAWN_pronoun] 学会了提高大量的通用战技[PAWN_objective] 可以适应任何情况。[PAWN_objective]更喜欢开放的道路,如果在远征队会提升心情,任何远征队内有一个旅行者将会提高25%的旅行速度。然而,如果旅行者在殖民地停留太久,他们会受到情绪惩罚。</TM_Wayfarer.degreeDatas.0.description>
+
+  <TM_Apothecary.degreeDatas.0.label>&lt;color=#009900&gt;药剂师&lt;/color&gt;</TM_Apothecary.degreeDatas.0.label>
+  <TM_Apothecary.degreeDatas.0.description>[PAWN_nameDef] 是一名药剂师,在草本、香脂、酊剂和药物方面受过训练。 [PAWN_possessive] 职业具有无私的奉献精神与严格的操守,同时 [PAWN_pronoun] 已经学会应用 [PAWN_possessive] 的各项技能,尽管现在还不精通。通过相应训练,[PAWN_pronoun] 可以在实战中磨练 [PAWN_possessive]技能。</TM_Apothecary.degreeDatas.0.description>
+
+  <Gladiator.degreeDatas.0.label>&lt;color=#8080C0&gt;斗士&lt;/color&gt;</Gladiator.degreeDatas.0.label>
+  <Gladiator.degreeDatas.0.description>[PAWN_nameDef]曾经学习过角斗士的战斗机巧。</Gladiator.degreeDatas.0.description>
+
+  <Ranger.degreeDatas.0.label>&lt;color=#82D900&gt;见习猎人&lt;/color&gt;</Ranger.degreeDatas.0.label>
+  <Ranger.degreeDatas.0.description>[PAWN_nameDef]在早期与野兽的搏斗中学会了最基本的猎人技巧。</Ranger.degreeDatas.0.description>
+  <Ranger.degreeDatas.1.label>&lt;color=#82D900&gt;初阶猎人&lt;/color&gt;</Ranger.degreeDatas.1.label>
+  <Ranger.degreeDatas.1.description>[PAWN_nameDef]使用弓箭与陷阱来保卫土地不受敌人的侵犯。</Ranger.degreeDatas.1.description>
+  <Ranger.degreeDatas.2.label>&lt;color=#82D900&gt;高阶猎人&lt;/color&gt;</Ranger.degreeDatas.2.label>
+  <Ranger.degreeDatas.2.description>[PAWN_nameDef]的狩猎技艺已经非常娴熟,[PAWN_pronoun]即使闭上眼也能打下天上飞过的鸟。</Ranger.degreeDatas.2.description>
+  <Ranger.degreeDatas.3.label>&lt;color=#82D900&gt;传奇猎人&lt;/color&gt;</Ranger.degreeDatas.3.label>
+  <Ranger.degreeDatas.3.description>[PAWN_nameDef]是一位真正的传奇猎人,无数次生死之间的经历让[PAWN_pronoun]成为这一带最家喻户晓的人物。</Ranger.degreeDatas.3.description>
+
+  <TM_Sniper.degreeDatas.0.label>&lt;color=#FFBD9D&gt;见习狙击手&lt;/color&gt;</TM_Sniper.degreeDatas.0.label>
+  <TM_Sniper.degreeDatas.0.description>[PAWN_nameDef]成为了一名见习狙击手,擅长使用各种精准致命的远程武器。</TM_Sniper.degreeDatas.0.description>
+  <TM_Sniper.degreeDatas.1.label>&lt;color=#FFBD9D&gt;初阶狙击手&lt;/color&gt;</TM_Sniper.degreeDatas.1.label>
+  <TM_Sniper.degreeDatas.1.description>[PAWN_nameDef]成为了一名初阶狙击手,擅长使用各种精准致命的远程武器。</TM_Sniper.degreeDatas.1.description>
+  <TM_Sniper.degreeDatas.2.label>&lt;color=#FFBD9D&gt;高阶狙击手&lt;/color&gt;</TM_Sniper.degreeDatas.2.label>
+  <TM_Sniper.degreeDatas.2.description>[PAWN_nameDef]成为了一名高阶狙击手,擅长使用各种精准致命的远程武器。八百里外一枪可以打爆鬼子的头。</TM_Sniper.degreeDatas.2.description>
+  <TM_Sniper.degreeDatas.3.label>&lt;color=#FFBD9D&gt;传奇狙击手&lt;/color&gt;</TM_Sniper.degreeDatas.3.label>
+  <TM_Sniper.degreeDatas.3.description>[PAWN_nameDef]已经成为了一名传奇狙击手,哪怕是最凶恶的部落听到[PAWN_pronoun]的名字也会颤抖。</TM_Sniper.degreeDatas.3.description>
+
+  <Bladedancer.degreeDatas.0.label>&lt;color=#FF2D2D&gt;见习刀锋舞者&lt;/color&gt;</Bladedancer.degreeDatas.0.label>
+  <Bladedancer.degreeDatas.0.description>[PAWN_nameDef]经过严格的训练成为了一名见习刀锋舞者。</Bladedancer.degreeDatas.0.description>
+  <Bladedancer.degreeDatas.1.label>&lt;color=#FF2D2D&gt;初阶刀锋舞者&lt;/color&gt;</Bladedancer.degreeDatas.1.label>
+  <Bladedancer.degreeDatas.1.description>[PAWN_nameDef]的努力没有被白费,[PAWN_nameDef]成为了一名初阶刀锋舞者,多年的训练让[PAWN_pronoun]在近战中更加危险。</Bladedancer.degreeDatas.1.description>
+  <Bladedancer.degreeDatas.2.label>&lt;color=#FF2D2D&gt;高阶刀锋舞者&lt;/color&gt;</Bladedancer.degreeDatas.2.label>
+  <Bladedancer.degreeDatas.2.description>[PAWN_nameDef]已经成为了一名刀锋舞者大师,战场上的[PAWN_nameDef]如同死亡莲华一般收割着敌人的生命。</Bladedancer.degreeDatas.2.description>
+  <Bladedancer.degreeDatas.3.label>&lt;color=#FF2D2D&gt;传奇刀锋舞者&lt;/color&gt;</Bladedancer.degreeDatas.3.label>
+  <Bladedancer.degreeDatas.3.description>[PAWN_nameDef]在生死之间领悟了战斗的终极奥秘,已经没有人是[PAWN_pronoun]的一合之敌了。[PAWN_pronoun]的每一次移动和攻击都只不过是[PAWN_pronoun]在胜利的画卷上落下的一笔而已。</Bladedancer.degreeDatas.3.description>
+
+  <Faceless.degreeDatas.0.label>&lt;color=#8080C0&gt;无面者&lt;/color&gt;</Faceless.degreeDatas.0.label>
+  <Faceless.degreeDatas.0.description>[PAWN_nameDef]是伪装和模仿的大师; 能够完美的模拟另一个人。</Faceless.degreeDatas.0.description>
+
+  <TM_Psionic.degreeDatas.0.label>&lt;color=#8080C0&gt;灵能战士&lt;/color&gt;</TM_Psionic.degreeDatas.0.label>
+  <TM_Psionic.degreeDatas.0.description>[PAWN_nameDef]是一名灵能战士,能够用思想具现化出能量。[PAWN_pronoun]发现物质的力量是有极限的,所以[PAWN_pronoun]变得不再喜欢携带武器。\n\n*灵能的再生速率是基于心灵敏感度的 \n- 将心灵灵敏度降低到0会使灵能无法恢复*</TM_Psionic.degreeDatas.0.description>
+
+  <DeathKnight.degreeDatas.0.label>&lt;color=#8080C0&gt;死亡骑士&lt;/color&gt;</DeathKnight.degreeDatas.0.label>
+  <DeathKnight.degreeDatas.0.description>[PAWN_nameDef]是一位死亡骑士,[PAWN_pronoun]的存在预示着厄运的来临,代表着死亡和腐朽。[PAWN_nameDef]对生命的态度让大多数人不安。</DeathKnight.degreeDatas.0.description>
+
+  <TM_Monk.degreeDatas.0.label>&lt;color=#8080C0&gt;武僧&lt;/color&gt;</TM_Monk.degreeDatas.0.label>
+  <TM_Monk.degreeDatas.0.description>[PAWN_nameDef]是一名武僧, [PAWN_pronoun]致力于使用“气”来链接宇宙中的生命能量. [PAWN_pronoun] 使用“气”来施展法术并尝试超越 [PAWN_possessive] 身体极限, [PAWN_nameDef]也能干扰其[PAWN_pronoun]人的“气”与魔法元素,影响[PAWN_pronoun]们对法术和能力的控制。</TM_Monk.degreeDatas.0.description>
+
+  <TM_Commander.degreeDatas.0.label>&lt;color=#8080C0&gt;指挥官&lt;/color&gt;</TM_Commander.degreeDatas.0.label>
+  <TM_Commander.degreeDatas.0.description>作为指挥官,[PAWN_nameDef]展现出超凡魅力和强大的存在感,使其他殖民者趋之若鹜。指挥官利用他们的存在感自然地激励附近的殖民者,当这还不够时,他们可以发布命令,驱使他们的追随者取得胜利。因为[PAWN_nameDef]习惯每个人都崇拜[PAWN_nameDef] 大家都习惯了昕从 [PAWN_possessive]指挥,努力争取[PAWN_possessive]信任.所以[PAWN_pronoun] 认为卑微的工作.应该由比[PAWN_nameDef]地位低的人做,通常是一个迟钝的工人。</TM_Commander.degreeDatas.0.description>
+
+  <TM_SuperSoldier.degreeDatas.0.label>&lt;color=#8080C0&gt;超级士兵&lt;/color&gt;</TM_SuperSoldier.degreeDatas.0.label>
+  <TM_SuperSoldier.degreeDatas.0.description>[PAWN_nameDef]是一名训练有素的士兵,擅长手枪、散弹枪或来复枪。武器专精可以通过一套标准的战斗训练来增强。超级战士被训练成具有攻击性,认为暴力是解决任何争论的唯一方法。</TM_SuperSoldier.degreeDatas.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Terror.label>恐惧</TM_Terror.label>
+  <TM_Terror.description>一种原始的魔法力量引起了这人内心深处的恐惧。</TM_Terror.description>
+  <TM_Terror.stages.0.label>不安</TM_Terror.stages.0.label>
+  <TM_Terror.stages.1.label>惊慌失措</TM_Terror.stages.1.label>
+  <TM_Terror.stages.2.label>害怕</TM_Terror.stages.2.label>
+
+
+</LanguageData>

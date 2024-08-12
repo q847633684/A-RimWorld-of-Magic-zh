@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_MantleOfProtection.label>保护斗篷</TM_MantleOfProtection.label>
+  <TM_MantleOfProtection.description>一件宽松的斗篷式外套，穿在其他衣服外面，提供额外的保护，抵御天气和其他危险。保护斗篷神奇地注入了守护符文，以增强其防御能力。在制作过程中将奥术宝石注入织物的方法产生了无与伦比的附魔效果。
+
+这件斗篷具有魔力，可为受过训练的法师提供额外的好处：
+等级 XP 增益：+20%
+奥术抗性：+30%</TM_MantleOfProtection.description>
+
+  <TM_MaestersCloak.label>漫游者斗篷</TM_MaestersCloak.label>
+  <TM_MaestersCloak.description>一个为旅行法师设计的斗篷, 用来提供魔法防护和加快奥术能量恢复速度. 此物品在打造过程中使用了特殊的宝石附魔方式使其拥有了很强的附魔效果\n这款斗篷具有以下属性：\n最大能量: +12\n技能冷却: -20％\n技能抗性: +5％</TM_MaestersCloak.description>
+
+  <DemonLordCloak.label>霸者长袍</DemonLordCloak.label>
+  <DemonLordCloak.description>一件被大量奥术能量充斥的斗篷, 人们认为它第一次被打造出来的目的是给予一位前往精神世界与恶魔交涉的黑骑士. 其构造导致穿戴者很难被观察者注意到, 人们称之为是一种叫做“视觉噪音”的东西导致的. 并且衣服上的波纹会以不规则的方式运动着仿佛脱离了自然的束缚一般. 少数在战场上穿戴过长袍的人发誓说这件衣服拥有了自己的意识并告诉穿戴者它是如何庇护着他们从某一次毁灭性的灾难中逃生的. 但其他人宣称他们什么都没有观察到除了偶尔会出现疯子傻瓜一般的幻觉. 由于这些描述, 人们开始传播说这件长袍拥有使穿戴者完全不会受到伤害的能力, 但目前没有任何人有可靠的证据证明这种能力真的存在.\n这件长袍具有以下属性\n最大能量+40\n能量恢复+40％\n技能冷却-20％\n幻影之舞：20％几率闪避攻击</DemonLordCloak.description>
+
+  <DarkRobe.label>黑暗长袍</DarkRobe.label>
+  <DarkRobe.description>黑暗大魔法师所穿旧的长袍. 穿戴者会愿意牺牲自己的理智来换取神秘的力量.\n	\n这件长袍具有以下属性:\n最大能量：+17.5\n能量恢复：+10％\n技能冷却：-15％\n技能消耗：-15％\n经验增益：+10％\n技能抗性：+10％</DarkRobe.description>
+
+  <TM_DiscipleRobe.label>门徒长袍</TM_DiscipleRobe.label>
+  <TM_DiscipleRobe.description>热心弟子的制服 -这套服装由各种口袋、小袋和肩带组成，旨在让弟子为任何情况做好准备。弟子袍的穿着者看重保护和适应能力。
+
+门徒长袍具有魔力，可为受过训练的法师和战士提供额外的好处：
+最大能量：+20%
+能量再生：+5%
+能源成本：-5%
+等级 XP 增益：+10%
+奥术耐性：+30%</TM_DiscipleRobe.description>
+
+  <AncientMail.label>古代盔甲</AncientMail.label>
+  <AncientMail.description>以古代技能锻造的锁子甲, 拥有着平均水平以上的物理防御能力. 此盔甲设计了一组对称的蚀刻符文槽. 经过打造后这些符文会为穿戴者吸引古代能量并给予穿戴者造成格外奥术伤害的机会; 然而那是有代价的 - 所有技能都会需要更多的法力来施放 (这个不能细说), 并且穿戴者会受困于梦魇中并缓慢降低精神抵抗力\n这件盔甲具有以下属性:\n最大能量：+ 8\n能量恢复：+ 10％\n技能消耗：+ 15％\n技能抗性：+ 20％\n魔法幽魂增强：50％几率造成20％的额外伤害</AncientMail.description>
+
+  <RoyalArmor.label>英勇战铠</RoyalArmor.label>
+  <RoyalArmor.description>一件蚀刻着神圣符号的护胸甲, 它被设计用来保护关键部位并且不会影响到移动. 据说在过往的岁月里被一位维护正义与怜悯的圣战士穿戴至破旧不堪. 但之后发生的事情被掩埋在了历史的尘埃中, 只有这件盔甲流传了下来\n\n这件战铠具有以下属性:\n技能消耗：-10％\n经验增益：+10％</RoyalArmor.description>
+
+  <TM_DreamcatcherBuckskin.label>捕梦者鹿皮衣服</TM_DreamcatcherBuckskin.label>
+  <TM_DreamcatcherBuckskin.description>饰有动物纪念品的线状皮革拼凑而成的鹿皮衣服。主要由神秘主义部落的领袖穿着，追梦者服装代表了大自然和灵魂之间梦幻般的联系。\n\n神秘主义者从这套装备的象征意义中获得额外的力量：\n最大能量：+40\n经验增益:：+30%\n能量恢复：+25%-</TM_DreamcatcherBuckskin.description>
+
+  <TM_Necromancer_Body.label>灵魂收割者裹尸布</TM_Necromancer_Body.label>
+  <TM_Necromancer_Body.description>这套黑暗而神秘的套装具有令人毛骨悚然的优雅，融合了骨头图案和阴暗结界，既提供保护，又充当死灵法师邪恶力量的渠道。灵魂收割者裹尸布是死灵法师对死亡力量的掌控的证明，当他们操纵生命和来世的结构时，将他们笼罩在不祥力量的光环之中。虽然任何人都可以佩戴裹尸布，但其独特的特性可以提高死灵法师对不死生物的控制力。
+死灵法师从这件深色服装的象征意义中获得额外的力量：
+最大能量：+40
+能量再生：+30%
+奥术力量：+30%
+
+亡灵裹尸布：使该死灵法师的亡灵维护成本降低 30%，并使附近亡灵的移动力和攻击力提高 15%</TM_Necromancer_Body.description>
+
+  <ArchMageRobe.label>奥术法师长袍</ArchMageRobe.label>
+  <ArchMageRobe.description>一件设计给最高级魔法师议会中长者的法袍. 它们十分轻便, 随风飘扬的部分像一只巨鸟身上的翅膀.\n\n这件长袍具有以下属性:\n最大能量+25\n能量恢复+20％\n技能冷却：-20％\n技能消耗：-10％\n经验增益：+25％\n技能抗性：+10％</ArchMageRobe.description>
+
+  <TM_DragonSlayer.label>屠龙板</TM_DragonSlayer.label>
+  <TM_DragonSlayer.description>这款工艺与韧性的杰作是分层板的交响曲，错综复杂地层叠在装甲网上，提供无与伦比的保护。闪闪发光的铆钉和锯齿状的边缘勾勒出一种图案，让人想起吞噬无畏战士的空灵火焰。屠龙者板甲是在危险的熔炉中锻造而成的，它是反抗使天空变得黑暗的鳞片暴君和掠夺大地的机械怪物的象征。盔甲注入了魔法能量，散发出神奇的力量，就像一盏指路明灯——确保这位战士在烈火和毒牙中取得胜利。
+屠龙板甲具有魔力，可为训练有素的法师和战士提供额外的好处：
+最大能量：+30
+能量再生：+20%
+技能冷却时间：-20%
+能源成本：-20%
+奥术抗性：+30%
+技能伤害：+30%</TM_DragonSlayer.description>
+
+  <TM_WizardHat.label>巫师帽</TM_WizardHat.label>
+  <TM_WizardHat.description>为任何巫师或女巫设计的经典帽子。这顶帽子有秘密隔间，也有社交功能加成和生产药物加成。\n巫师帽被施了魔法，为训练有素的法师和战士提供额外的好处：\n最大能量: +5\n技能强度: +5％</TM_WizardHat.description>
+
+  <TM_HoodOfProtection.label>防护兜帽</TM_HoodOfProtection.label>
+  <TM_HoodOfProtection.description>一款简单的兜帽，可增加魔法和普通的保护。在编织兜帽之前向织物注入附魔的方法可改善附魔效果。
+
+保护兜帽具有魔力，可为受过训练的法师和战士提供额外的好处：
+奥术抗性：+10%</TM_HoodOfProtection.description>
+
+  <TM_DiscipleHood.label>门徒兜帽</TM_DiscipleHood.label>
+  <TM_DiscipleHood.description>这顶兜帽饰有在弟子所选择的道路上具有深远意义的符号和印记，成为神圣艺术的画布。每一针都讲述了一个故事，讲述了所面临的考验、获得的智慧以及通往更高层次理解的持续旅程。兜帽不仅作为物理覆盖物，而且作为形而上学的屏障，保护弟子免受干扰和世俗的影响。
+弟子兜帽具有魔力，可为受过训练的法师和战士提供额外的好处：
+最大能量：+25%
+能量再生：+5%
+能源成本：-5%
+等级 XP 增益：+10%
+奥术抗性：+15%</TM_DiscipleHood.description>
+
+  <ArcaneHood.label>奥术兜帽</ArcaneHood.label>
+  <ArcaneHood.description>因其神奇特性、重量轻且舒适而深受法师青睐的兜帽。在编织兜帽之前向织物注入附魔的方法可改善附魔效果。
+
+奥术兜帽具有魔力，可为训练有素的法师和战士提供额外的好处：
+最大能量：+10%
+能量再生：+10%
+奥术抗性：+10%</ArcaneHood.description>
+
+  <HoodOfMadness.label>黑暗兜帽</HoodOfMadness.label>
+  <HoodOfMadness.description>一件著名的受诅咒的黑色兜帽, 尽管它拥有神奇的力量. 戴上兜帽的人会得到看见奥术能量的能力并且学会他们原本无法学会的东西. 这件兜帽的外貌以及隐藏其后的恐怖秘密让大多数人都对兜帽的穿戴者抱以怀疑态度. 同样地, 隐藏在兜帽中的双眼在看向周围人时也会闪烁着不信任的光芒\n\n这件兜帽具有以下属性:\n经验增益: +30％\n技能抗性: +30％</HoodOfMadness.description>
+
+  <TM_SagesMask.label>宁静面具</TM_SagesMask.label>
+  <TM_SagesMask.description>这款面具是神秘与智慧的迷人结合，精心制作，遮盖佩戴者的面容。面具表面刻有精致的线条，描绘出古老符号和节奏线条的错综复杂的舞蹈，它们结合在一起形成了智慧和力量的面容。这种性质的面具旨在抑制佩戴者的身体感官，使他们更加集中注意力。
+
+宁静面具具有魔力，可为受过训练的法师和战士提供额外的好处：
+能源成本：-10%
+能量再生：+10%
+等级 XP 增益：+10%
+奥术能量：+10%</TM_SagesMask.description>
+
+  <RoyalHelm.label>英勇头盔</RoyalHelm.label>
+  <RoyalHelm.description>一种致命的头盔，旨在最大限度地保护，不会限制视觉或声音。 这些头盔是Valiant系列护甲的补充部分，进一步增强了佩戴者的神秘能力，同时还提供了值得注意的物理保护\n\n这件头盔具有以下属性:\n技能消耗: -5％\n经验增益: +10％</RoyalHelm.description>
+
+  <ParagonHelm.label>帕拉贡战盔</ParagonHelm.label>
+  <ParagonHelm.description>专为精英勇士锻造的头盔。\n\n这件头盔具有以下属性\n技能消耗: -5％\n经验增益: +15％\n最大能量: +5％\n技能抗性: +10％</ParagonHelm.description>
+
+  <TM_Necromancer_Mask.label>夺魂者面具</TM_Necromancer_Mask.label>
+  <TM_Necromancer_Mask.description>这款令人不安的面具以一种诡异的优雅制作而成，结合了黑暗材料和神秘符号，将死灵法师的面容隐藏在令人难以忘怀的外表后面。其怪异的光环和险恶的设计使其成为那些驾驭亡灵力量并踏上死灵艺术之路的人的完美装饰品。
+
+死灵法师从该物品的象征意义中获得额外的力量：
+最大能量：+10
+能量再生：+5%
+
+亡灵裹尸布：使该死灵法师的亡灵维持成本降低 10%，并使附近亡灵的移动力和攻击力提高 5%</TM_Necromancer_Mask.description>
+
+  <TM_Necromancer_Hood.label>灵魂收割者兜帽</TM_Necromancer_Hood.label>
+  <TM_Necromancer_Hood.description>这件不祥的服装由阴暗的织物编织而成，充满了黑暗的魔力，将死灵法师的面容隐藏在布和骨头的面具下。灵魂收割者兜帽不仅是保护佩戴者免受窥探的实用配饰，也是死灵法师与生命之外的领域交流的象征。其怪异的光环和险恶的设计使其成为那些驾驭亡灵力量并踏上死灵艺术之路的人的完美装饰品。
+
+死灵法师从该物品的象征意义中获得额外的力量：
+最大能量：+20
+能量再生：+5%
+
+亡灵裹尸布：使该死灵法师的亡灵维持成本降低 20%，并使附近亡灵的移动力和攻击力提高 10%</TM_Necromancer_Hood.description>
+
+  <TM_DreamcatcherCoronet.label>追梦者冠冕</TM_DreamcatcherCoronet.label>
+  <TM_DreamcatcherCoronet.description>一种由动物皮革拼凑而成的头饰，顶部有雄伟的鹿角王冠。这个王冠标志着持有者是一个部落的精神领袖。据说，追梦者服装赋予超凡者通过精神动物的眼睛观察自然的能力。\n\n神秘主义者从这套服装的象征意义中获得额外的力量：\n最大能量：+25\n经验增益:：+20%\n能量恢复：+20%</TM_DreamcatcherCoronet.description>
+
+
+</LanguageData>

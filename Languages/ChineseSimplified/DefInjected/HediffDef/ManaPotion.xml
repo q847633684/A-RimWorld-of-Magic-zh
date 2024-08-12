@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ManaPotionHigh.label>奥术沉醉</ManaPotionHigh.label>
+  <ManaPotionHigh.description>通过消耗液体法力来提高意识。</ManaPotionHigh.description>
+
+
+  <!-- Mana potion addiction -->
+
+  <ManaPotionTolerance.label>魔法药剂耐受</ManaPotionTolerance.label>
+  <ManaPotionTolerance.description>使食用魔法药剂的效果正常化。</ManaPotionTolerance.description>
+  <ManaPotionTolerance.stages.0.label>小的</ManaPotionTolerance.stages.0.label>
+  <ManaPotionTolerance.stages.1.label>大的</ManaPotionTolerance.stages.1.label>
+  <ManaPotionTolerance.stages.2.label>大量的</ManaPotionTolerance.stages.2.label>
+
+  <ManaPotionAddiction.label>魔法药剂成瘾</ManaPotionAddiction.label>
+  <ManaPotionAddiction.description>渴望魔法药剂</ManaPotionAddiction.description>
+  <ManaPotionAddiction.stages.1.label>戒断</ManaPotionAddiction.stages.1.label>
+
+
+</LanguageData>

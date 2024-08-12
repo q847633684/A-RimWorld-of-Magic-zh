@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Empathy -->
+
+  <TM_Empathy.label>共感</TM_Empathy.label>
+  <TM_Empathy.description>一位读心师有能力读取周围人的情绪，将这些的情绪投射出去，以更好地理解他人，或传达读心师自己的情绪。读心师这与生俱来的能力被神秘的力量增强了，放大了心理传导的效果。靠近移情者的小人偶尔会经历读心师的情感变化，有好有坏。读心师感受到的良好情绪越多，附近的小人就越有可能获得积极的情绪。掌握读心师的能力可以使其成为一种有效的情绪管理工具，但一个未经训练的读心师或压力过大的共感可能导致整个群体的绝望。</TM_Empathy.description>
+
+
+  <!-- MindKiller -->
+
+  <TM_MindKiller.label>思维杀手</TM_MindKiller.label>
+  <TM_MindKiller.description>释放一种移情的哀号，使附近所有的小人被情绪的奔流所包裹。人与人的反应各不相同，但大多数生命体都难以应对如此汹涌澎湃的情绪而精神崩溃。受影响目标的情绪越高，释放的情绪负能量就越多。未经训练时，此技能可能影响附近的盟友。</TM_MindKiller.description>
+
+
+  <!-- Suppressive Aura -->
+
+  <TM_SuppressiveAura.label>共感网络</TM_SuppressiveAura.label>
+  <TM_SuppressiveAura.description>在读心师周围创造一个情绪光环，抑制其他小人的情绪，让周围的小人只感受到读心师希望他们感受到的。通过训练，读心师可以传播积极情绪，抑制消极情绪。情绪光环的副作用可能导致读心师的情绪不稳定 情绪压抑的小人不会精神崩溃。</TM_SuppressiveAura.description>
+
+
+  <!-- Harvest Passion -->
+
+  <TM_HarvestPassion.label>灵感传递</TM_HarvestPassion.label>
+  <TM_HarvestPassion.description>试图理解目标的灵感。施法者必须消耗一个主动灵感来激活此能力。一旦目标的所有娱乐值被归零，施法者将有几率获得随机灵感。施法者的娱乐值也会在每次传导中被消耗。如果施法者的娱乐值耗尽之前目标的娱乐值没有归零，则灵感转移将被终止，施法者和目标都将在此效果生效时遭受冲击创伤。获得的灵感总是随机的。</TM_HarvestPassion.description>
+
+
+  <!-- Incite Passion -->
+
+  <TM_IncitePassion.label>激情鼓舞</TM_IncitePassion.label>
+  <TM_IncitePassion.description>将工作热情传递给目标。此能力必定成功，不能被奴隶使用。传递的灵感是随机的</TM_IncitePassion.description>
+
+
+  <!-- Symbiosis -->
+
+  <TM_Symbiosis.label>思维链接</TM_Symbiosis.label>
+  <TM_Symbiosis.description>读心师将自身的命运与目标思维的进行链接，潜入目标的内心。由于读心师将自己全部的思绪灌注于目标的意志之中，因此将进入一种精神空虚的状态，无法控制自己的身体。读心师仍将保持先前存在的效果或光环。作为回报，目标将获得坚韧的意志和精神上的力量。读心师与其共生的目标可能会经历宿主伤害后的身体后遗症，如果宿主死亡，读心师也会死亡。这种思维链接只有当读心师的心情归零时才会结束。</TM_Symbiosis.description>
+
+
+  <!-- Faded Emotions -->
+
+  <TM_FadeEmotions.label>记忆消褪</TM_FadeEmotions.label>
+  <TM_FadeEmotions.description>消耗读心师与目标的心情，以摆脱目标的负面记忆。在第一段记忆之后，每一段额外的负面记忆将消耗被删除对象的30心情。当目标小于30心情或没有剩余的负面记忆时，该技能效果结束。第一个记忆总是消耗目标的30心情。此能力对情绪调节器没有影响。</TM_FadeEmotions.description>
+
+
+</LanguageData>

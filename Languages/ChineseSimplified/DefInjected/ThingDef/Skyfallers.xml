@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_LightPodLeaving.label>光束（离开）</TM_LightPodLeaving.label>
+  <TM_LightPodIncoming.label>光束（到来）</TM_LightPodIncoming.label>
+  <TM_ActiveLightPod.label>光舱</TM_ActiveLightPod.label>
+  <TM_Firestorm_Large.label>火焰风暴 (大型)</TM_Firestorm_Large.label>
+  <TM_Firestorm_Small.label>火焰风暴 (小型)</TM_Firestorm_Small.label>
+  <TM_Firestorm_Tiny.label>火焰风暴 (微型)</TM_Firestorm_Tiny.label>
+  <TM_Blizzard_Tiny.label>暴风雪(微型)</TM_Blizzard_Tiny.label>
+  <TM_Blizzard_Small.label>暴风雪(小型)</TM_Blizzard_Small.label>
+  <TM_Blizzard_Large.label>暴风雪 (大型)</TM_Blizzard_Large.label>
+  <TM_ArrowStorm.label>箭雨风暴</TM_ArrowStorm.label>
+  <TM_ScornLeaving.label>蔑视离开</TM_ScornLeaving.label>
+  <TM_ScornIncoming.label>蔑视到来</TM_ScornIncoming.label>
+  <TM_Meteorite.label>陨石</TM_Meteorite.label>
+  <TM_Meteorite_I.label>陨石</TM_Meteorite_I.label>
+  <TM_Meteorite_II.label>陨石</TM_Meteorite_II.label>
+  <TM_Meteorite_III.label>陨石</TM_Meteorite_III.label>
+  <TM_Hail.label>冰雹风暴</TM_Hail.label>
+
+
+</LanguageData>

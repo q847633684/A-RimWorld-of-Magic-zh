@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_PomanaSenseHD.label>波莫纳</TM_PomanaSenseHD.label>
+  <TM_PomanaSenseHD.description>从食用生的波莫纳中得到放松和提高的感觉。</TM_PomanaSenseHD.description>
+  <TM_PomanaSenseHD.stages.0.label></TM_PomanaSenseHD.stages.0.label>
+
+  <TM_SyrriumSenseHD.label>波莫纳糖浆</TM_SyrriumSenseHD.label>
+  <TM_SyrriumSenseHD.description>从食用波莫纳糖浆中得到放松和提高的感觉。</TM_SyrriumSenseHD.description>
+  <TM_SyrriumSenseHD.stages.0.label></TM_SyrriumSenseHD.stages.0.label>
+  <TM_SyrriumSenseHD.stages.1.label></TM_SyrriumSenseHD.stages.1.label>
+
+
+  <!-- Syrrium addiction -->
+
+  <TM_SyrriumTolerance.label>波莫纳糖浆耐性</TM_SyrriumTolerance.label>
+  <TM_SyrriumTolerance.description>使食用波莫纳糖浆的效果正常化。</TM_SyrriumTolerance.description>
+  <TM_SyrriumTolerance.stages.0.label>小的</TM_SyrriumTolerance.stages.0.label>
+  <TM_SyrriumTolerance.stages.1.label>大的</TM_SyrriumTolerance.stages.1.label>
+  <TM_SyrriumTolerance.stages.2.label>大量的</TM_SyrriumTolerance.stages.2.label>
+
+  <TM_SyrriumAddiction.label>波莫纳糖浆成瘾</TM_SyrriumAddiction.label>
+  <TM_SyrriumAddiction.description>渴望波莫纳糖浆</TM_SyrriumAddiction.description>
+  <TM_SyrriumAddiction.stages.1.label>戒断</TM_SyrriumAddiction.stages.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc jobs -->
+
+  <JobDriver_DoMagicBill.reportString>在TargetA处施展魔法.</JobDriver_DoMagicBill.reportString>
+  <JobDriver_AssistMagicCircle.reportString>准备施展大型魔法</JobDriver_AssistMagicCircle.reportString>
+  <PlacePoisonTrap.reportString>放置毒素陷阱</PlacePoisonTrap.reportString>
+  <JobDriver_PlaceLightningTrap.reportString>放置闪电陷阱</JobDriver_PlaceLightningTrap.reportString>
+  <JobDriver_SleepNow.reportString>睡眠 (催眠)</JobDriver_SleepNow.reportString>
+  <JobDriver_Entertain.reportString>款待</JobDriver_Entertain.reportString>
+  <JobDriver_DoFor.reportString>准备攻击</JobDriver_DoFor.reportString>
+  <JobDriver_SummonDemon.reportString>进行献祭</JobDriver_SummonDemon.reportString>
+  <JobDriver_PsionicBarrier.reportString>投射灵能屏障</JobDriver_PsionicBarrier.reportString>
+  <JobDriver_TM_Teach.reportString>培训指导</JobDriver_TM_Teach.reportString>
+  <JobDriver_TM_GotoAndWait.reportString>等待</JobDriver_TM_GotoAndWait.reportString>
+  <JobDriver_TM_Meditate.reportString>冥想</JobDriver_TM_Meditate.reportString>
+  <JobDriver_TM_Command.reportString>激励殖民者</JobDriver_TM_Command.reportString>
+  <JobDriver_GotoAndCast.reportString>做魔法工作</JobDriver_GotoAndCast.reportString>
+  <JobDriver_Discord.reportString>演凑“纪声”</JobDriver_Discord.reportString>
+  <JobDriver_SpiritDrain.reportString>摄取灵魂</JobDriver_SpiritDrain.reportString>
+
+
+</LanguageData>

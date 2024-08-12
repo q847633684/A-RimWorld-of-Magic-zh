@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shadow Walk -->
+
+  <TM_ShadowWalk.label>暗影步</TM_ShadowWalk.label>
+  <TM_ShadowWalk.description>让影行者出现在另一个生物的影子中。</TM_ShadowWalk.description>
+
+
+  <!-- Shadow Strike -->
+
+  <TM_ShadowStrike.label>暗影之击</TM_ShadowStrike.label>
+  <TM_ShadowStrike.description>立即将攻击者移动到目标后面，并进行毁灭性的单目标攻击。攻击者获得5秒的加速。攻击者将在5秒后返回他们发起攻击的位置。此攻击可能造成3倍伤害的暴击-随着武器变重，几率降低。远程武器永远不会发出致命一击。</TM_ShadowStrike.description>
+
+
+  <!-- Nightshade -->
+
+  <TM_Nightshade.label>夜毒</TM_Nightshade.label>
+  <TM_Nightshade.description>把你的武器或子弹涂上夜毒。每次攻击都会产生一部分夜毒。远程攻击和近战攻击一样只能使用40%的毒素。受影响的受害者会产生幻觉和呼吸短促，如果夜毒造成的状态变得严重，夜毒将会对器官造成损害。此战技需要30体力才能维持并减少50%的体力回复。</TM_Nightshade.description>
+
+
+  <!-- Veil of Shadows -->
+
+  <TM_VeilOfShadows.label>暗影面纱</TM_VeilOfShadows.label>
+  <TM_VeilOfShadows.description>投掷一种混合物，使施法者和周围区域笼罩在烟雾和阴影中。施法者获得【暗影斗篷（隐身）】BUFF。阴影将阻止自动系统的瞄准，并将远程攻击的准确性降低60%。</TM_VeilOfShadows.description>
+
+
+</LanguageData>

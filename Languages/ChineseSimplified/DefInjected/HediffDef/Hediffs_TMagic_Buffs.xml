@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Uncertainty.label>无法确定的未来</TM_Uncertainty.label>
+  <TM_Uncertainty.description>用来控制法师的升级.</TM_Uncertainty.description>
+
+
+  <!-- Soothing Breeze -->
+
+  <TM_SoothingBreeze_AuraHD.label>舒缓光环</TM_SoothingBreeze_AuraHD.label>
+  <TM_SoothingBreeze_AuraHD.description>一种产生并给予殖民者抚慰之风的光环。</TM_SoothingBreeze_AuraHD.description>
+  <TM_SoothingBreeze_AuraHD.stages.0.label>I</TM_SoothingBreeze_AuraHD.stages.0.label>
+  <TM_SoothingBreeze_AuraHD.stages.1.label>II</TM_SoothingBreeze_AuraHD.stages.1.label>
+  <TM_SoothingBreeze_AuraHD.stages.2.label>III</TM_SoothingBreeze_AuraHD.stages.2.label>
+  <TM_SoothingBreeze_AuraHD.stages.3.label>IV</TM_SoothingBreeze_AuraHD.stages.3.label>
+
+  <SoothingBreeze.label>抚慰之风</SoothingBreeze.label>
+  <SoothingBreeze.description>使心灵平静的恩惠</SoothingBreeze.description>
+  <SoothingBreeze.stages.0.label>I</SoothingBreeze.stages.0.label>
+
+  <SoothingBreeze_I.label>抚慰之风</SoothingBreeze_I.label>
+  <SoothingBreeze_I.description>使心灵平静的恩惠</SoothingBreeze_I.description>
+  <SoothingBreeze_I.stages.0.label>II</SoothingBreeze_I.stages.0.label>
+
+  <SoothingBreeze_II.label>抚慰之风</SoothingBreeze_II.label>
+  <SoothingBreeze_II.description>使心灵平静的恩惠</SoothingBreeze_II.description>
+  <SoothingBreeze_II.stages.0.label>III</SoothingBreeze_II.stages.0.label>
+
+  <SoothingBreeze_III.label>抚慰之风</SoothingBreeze_III.label>
+  <SoothingBreeze_III.description>使心灵平静的恩惠</SoothingBreeze_III.description>
+  <SoothingBreeze_III.stages.0.label>IV</SoothingBreeze_III.stages.0.label>
+
+
+  <!-- (Fire Mage) Inner Fire -->
+
+  <TM_InnerFire_AuraHD.label>温暖的光环</TM_InnerFire_AuraHD.label>
+  <TM_InnerFire_AuraHD.description>产生并给予温暖和自信的光环。</TM_InnerFire_AuraHD.description>
+  <TM_InnerFire_AuraHD.stages.0.label>I</TM_InnerFire_AuraHD.stages.0.label>
+  <TM_InnerFire_AuraHD.stages.1.label>II</TM_InnerFire_AuraHD.stages.1.label>
+  <TM_InnerFire_AuraHD.stages.2.label>III</TM_InnerFire_AuraHD.stages.2.label>
+  <TM_InnerFire_AuraHD.stages.3.label>IV</TM_InnerFire_AuraHD.stages.3.label>
+
+  <InnerFireHD.label>心灵之火</InnerFireHD.label>
+  <InnerFireHD.description>强化精神，给生物增加耐力和抵抗力。</InnerFireHD.description>
+  <InnerFireHD.stages.0.label>I</InnerFireHD.stages.0.label>
+
+  <InnerFire_IHD.label>心灵之火</InnerFire_IHD.label>
+  <InnerFire_IHD.description>强化精神，给生物增加耐力和抵抗力。</InnerFire_IHD.description>
+  <InnerFire_IHD.stages.0.label>II</InnerFire_IHD.stages.0.label>
+
+  <InnerFire_IIHD.label>心灵之火</InnerFire_IIHD.label>
+  <InnerFire_IIHD.description>强化精神，给生物增加耐力和抵抗力。</InnerFire_IIHD.description>
+  <InnerFire_IIHD.stages.0.label>III</InnerFire_IIHD.stages.0.label>
+
+  <InnerFire_IIIHD.label>心灵之火</InnerFire_IIIHD.label>
+  <InnerFire_IIIHD.description>强化精神，给生物增加耐力和抵抗力。</InnerFire_IIIHD.description>
+  <InnerFire_IIIHD.stages.0.label>IV</InnerFire_IIIHD.stages.0.label>
+
+
+  <!-- (Paladin) Ray of Hope -->
+
+  <TM_RayOfHope_AuraHD.label>希望的光环</TM_RayOfHope_AuraHD.label>
+  <TM_RayOfHope_AuraHD.description>一种产生并给予令人振奋的恩惠的光环。</TM_RayOfHope_AuraHD.description>
+  <TM_RayOfHope_AuraHD.stages.0.label>I</TM_RayOfHope_AuraHD.stages.0.label>
+  <TM_RayOfHope_AuraHD.stages.1.label>II</TM_RayOfHope_AuraHD.stages.1.label>
+  <TM_RayOfHope_AuraHD.stages.2.label>III</TM_RayOfHope_AuraHD.stages.2.label>
+  <TM_RayOfHope_AuraHD.stages.3.label>IV</TM_RayOfHope_AuraHD.stages.3.label>
+
+  <RayofHope.label>希望之光</RayofHope.label>
+  <RayofHope.description>使精神活跃的令人振奋的光环。</RayofHope.description>
+  <RayofHope.stages.0.label>I</RayofHope.stages.0.label>
+
+  <RayofHope_I.label>希望之光</RayofHope_I.label>
+  <RayofHope_I.description>使精神活跃的令人振奋的光环。</RayofHope_I.description>
+  <RayofHope_I.stages.0.label>II</RayofHope_I.stages.0.label>
+
+  <RayofHope_II.label>希望之光</RayofHope_II.label>
+  <RayofHope_II.description>使精神活跃的令人振奋的光环。</RayofHope_II.description>
+  <RayofHope_II.stages.0.label>III</RayofHope_II.stages.0.label>
+
+  <RayofHope_III.label>希望之光</RayofHope_III.label>
+  <RayofHope_III.description>使精神活跃的令人振奋的光环。</RayofHope_III.description>
+  <RayofHope_III.stages.0.label>IV</RayofHope_III.stages.0.label>
+
+  <AMP_I.label>安普</AMP_I.label>
+  <AMP_I.description>增强物理属性的恩惠。</AMP_I.description>
+  <AMP_I.stages.0.label>I</AMP_I.stages.0.label>
+
+  <AMP_II.label>安普</AMP_II.label>
+  <AMP_II.description>增强物理属性的恩惠。</AMP_II.description>
+  <AMP_II.stages.0.label>II</AMP_II.stages.0.label>
+
+  <AMP_III.label>安普</AMP_III.label>
+  <AMP_III.description>增强物理属性的恩惠。</AMP_III.description>
+  <AMP_III.stages.0.label>III</AMP_III.stages.0.label>
+
+  <TM_Shadow_AuraHD.label>暗影随形</TM_Shadow_AuraHD.label>
+  <TM_Shadow_AuraHD.description>一种产生并赋予一种阴暗恩惠的光环。</TM_Shadow_AuraHD.description>
+  <TM_Shadow_AuraHD.stages.0.label>I</TM_Shadow_AuraHD.stages.0.label>
+  <TM_Shadow_AuraHD.stages.1.label>II</TM_Shadow_AuraHD.stages.1.label>
+  <TM_Shadow_AuraHD.stages.2.label>III</TM_Shadow_AuraHD.stages.2.label>
+  <TM_Shadow_AuraHD.stages.3.label>IV</TM_Shadow_AuraHD.stages.3.label>
+
+  <Shadow.label>暗影随形</Shadow.label>
+  <Shadow.description>一种增强移速的阴影。</Shadow.description>
+  <Shadow.stages.0.label></Shadow.stages.0.label>
+
+  <Shadow_I.label>暗影随形</Shadow_I.label>
+  <Shadow_I.description>一种增强移速的阴影。</Shadow_I.description>
+  <Shadow_I.stages.0.label>I</Shadow_I.stages.0.label>
+
+  <Shadow_II.label>暗影随形</Shadow_II.label>
+  <Shadow_II.description>一种增强移速的阴影。</Shadow_II.description>
+  <Shadow_II.stages.0.label>II</Shadow_II.stages.0.label>
+
+  <Shadow_III.label>暗影随形</Shadow_III.label>
+  <Shadow_III.description>一种增强移速的阴影。</Shadow_III.description>
+  <Shadow_III.stages.0.label>III</Shadow_III.stages.0.label>
+
+
+  <!-- Bestow Might -->
+
+  <BestowMightHD.label>力量祝福</BestowMightHD.label>
+  <BestowMightHD.description>一个强大的战斗恩惠。</BestowMightHD.description>
+  <BestowMightHD.stages.0.label>I</BestowMightHD.stages.0.label>
+
+  <BestowMightHD_I.label>力量祝福</BestowMightHD_I.label>
+  <BestowMightHD_I.description>一个强大的战斗恩惠。</BestowMightHD_I.description>
+  <BestowMightHD_I.stages.0.label>II</BestowMightHD_I.stages.0.label>
+
+  <BestowMightHD_II.label>力量祝福</BestowMightHD_II.label>
+  <BestowMightHD_II.description>一个强大的战斗恩惠。</BestowMightHD_II.description>
+  <BestowMightHD_II.stages.0.label>III</BestowMightHD_II.stages.0.label>
+
+  <BestowMightHD_III.label>力量祝福</BestowMightHD_III.label>
+  <BestowMightHD_III.description>一个强大的战斗恩惠。</BestowMightHD_III.description>
+  <BestowMightHD_III.stages.0.label>IV</BestowMightHD_III.stages.0.label>
+
+
+  <!-- Ranger Pet Bond -->
+
+  <TM_RangerBondHD.label>猎人契约</TM_RangerBondHD.label>
+  <TM_RangerBondHD.description>代表这只动物与一个漫游者共生的契约,增加物理属性并增强治疗效果。</TM_RangerBondHD.description>
+  <TM_RangerBondHD.stages.0.label>I</TM_RangerBondHD.stages.0.label>
+  <TM_RangerBondHD.stages.1.label>II</TM_RangerBondHD.stages.1.label>
+  <TM_RangerBondHD.stages.2.label>III</TM_RangerBondHD.stages.2.label>
+  <TM_RangerBondHD.stages.3.label>IV</TM_RangerBondHD.stages.3.label>
+
+
+  <!-- Shield -->
+
+  <TM_HediffShield.label>护盾</TM_HediffShield.label>
+  <TM_HediffShield.description>吸收伤害。</TM_HediffShield.description>
+
+
+  <!-- Magic Shield (same thing as shield but can be applied to any pawn) -->
+
+  <TM_MagicShieldHD.label>护盾</TM_MagicShieldHD.label>
+  <TM_MagicShieldHD.description>吸收伤害。</TM_MagicShieldHD.description>
+
+
+  <!-- Sprint -->
+
+  <TM_HediffSprint_I.label>冲刺 (I)</TM_HediffSprint_I.label>
+  <TM_HediffSprint_I.description>增加移速。</TM_HediffSprint_I.description>
+
+  <TM_HediffSprint_II.label>冲刺 (II)</TM_HediffSprint_II.label>
+  <TM_HediffSprint_II.description>增加移速。</TM_HediffSprint_II.description>
+
+  <TM_HediffSprint_III.label>冲刺 (III)</TM_HediffSprint_III.label>
+  <TM_HediffSprint_III.description>增加移速。</TM_HediffSprint_III.description>
+
+  <TM_HediffInvulnerable.label>绝对防御</TM_HediffInvulnerable.label>
+  <TM_HediffInvulnerable.description>防止伤害</TM_HediffInvulnerable.description>
+
+  <TM_HediffTimedInvulnerable.label>绝对防御</TM_HediffTimedInvulnerable.label>
+  <TM_HediffTimedInvulnerable.description>防止伤害</TM_HediffTimedInvulnerable.description>
+
+  <TM_HediffFortitude.label>刚毅</TM_HediffFortitude.label>
+  <TM_HediffFortitude.description>减少一定的伤害。</TM_HediffFortitude.description>
+
+  <TM_ManaShieldHD.label>法力护盾</TM_ManaShieldHD.label>
+  <TM_ManaShieldHD.description>牺牲法力来吸收伤害。</TM_ManaShieldHD.description>
+
+
+  <!-- Blind -->
+
+  <TM_Blind.label>目盲</TM_Blind.label>
+  <TM_Blind.description>减少视力。</TM_Blind.description>
+  <TM_Blind.stages.0.label>I</TM_Blind.stages.0.label>
+  <TM_Blind.stages.1.label>II</TM_Blind.stages.1.label>
+  <TM_Blind.stages.2.label>III</TM_Blind.stages.2.label>
+
+  <TM_Regeneration.label>重生</TM_Regeneration.label>
+  <TM_Regeneration.description>随着时间的推移，恢复健康并愈合伤口。重生会恢复受伤的部位，直到伤口愈合。</TM_Regeneration.description>
+
+  <TM_Regeneration_I.label>重生 (I)</TM_Regeneration_I.label>
+  <TM_Regeneration_I.description>随着时间的推移，恢复健康并愈合伤口。重生会恢复受伤的部位，直到伤口愈合。</TM_Regeneration_I.description>
+
+  <TM_Regeneration_II.label>重生 (II)</TM_Regeneration_II.label>
+  <TM_Regeneration_II.description>随着时间的推移，恢复健康并愈合伤口。重生会恢复受伤的部位，直到伤口愈合。</TM_Regeneration_II.description>
+
+  <TM_Regeneration_III.label>重生 (III)</TM_Regeneration_III.label>
+  <TM_Regeneration_III.description>随着时间的推移，恢复健康并愈合伤口。重生会恢复受伤的部位，直到伤口愈合。</TM_Regeneration_III.description>
+
+  <TM_BladeArtHD.label>刀剑艺术</TM_BladeArtHD.label>
+  <TM_BladeArtHD.description>刀锋舞者的专属恩惠:刀剑艺术</TM_BladeArtHD.description>
+  <TM_BladeArtHD.stages.0.label>I</TM_BladeArtHD.stages.0.label>
+  <TM_BladeArtHD.stages.1.label>II</TM_BladeArtHD.stages.1.label>
+  <TM_BladeArtHD.stages.2.label>III</TM_BladeArtHD.stages.2.label>
+  <TM_BladeArtHD.stages.3.label>IV</TM_BladeArtHD.stages.3.label>
+
+  <TM_BowTrainingHD.label>弓箭精通</TM_BowTrainingHD.label>
+  <TM_BowTrainingHD.description>漫游者的专属恩惠:弓箭精通。</TM_BowTrainingHD.description>
+  <TM_BowTrainingHD.stages.0.label>I</TM_BowTrainingHD.stages.0.label>
+  <TM_BowTrainingHD.stages.1.label>II</TM_BowTrainingHD.stages.1.label>
+  <TM_BowTrainingHD.stages.2.label>III</TM_BowTrainingHD.stages.2.label>
+  <TM_BowTrainingHD.stages.3.label>IV</TM_BowTrainingHD.stages.3.label>
+
+  <SpellMendingHD.label>装备维护</SpellMendingHD.label>
+  <SpellMendingHD.description>迅速修理身上的服装和武器。</SpellMendingHD.description>
+  <SpellMendingHD.stages.0.label>active</SpellMendingHD.stages.0.label>
+  <SpellMendingHD.stages.1.label>enhanced</SpellMendingHD.stages.1.label>
+
+
+  <!-- Resurrection Debuff -->
+
+  <TM_ResurrectionHD.label>复活虚弱</TM_ResurrectionHD.label>
+  <TM_ResurrectionHD.description>通过魔法复活的副作用。</TM_ResurrectionHD.description>
+  <TM_ResurrectionHD.stages.0.label>I</TM_ResurrectionHD.stages.0.label>
+  <TM_ResurrectionHD.stages.1.label>II</TM_ResurrectionHD.stages.1.label>
+  <TM_ResurrectionHD.stages.2.label>III</TM_ResurrectionHD.stages.2.label>
+
+
+  <!-- Resurrection via reverse time Debuff -->
+
+  <TM_DeathReversalHD.label>死而复生</TM_DeathReversalHD.label>
+  <TM_DeathReversalHD.description>逆转死亡所引起的反弹。</TM_DeathReversalHD.description>
+  <TM_DeathReversalHD.stages.0.label>I</TM_DeathReversalHD.stages.0.label>
+  <TM_DeathReversalHD.stages.1.label>II</TM_DeathReversalHD.stages.1.label>
+  <TM_DeathReversalHD.stages.2.label>III</TM_DeathReversalHD.stages.2.label>
+
+  <TM_DiseaseImmunityHD.label>疾病免疫</TM_DiseaseImmunityHD.label>
+  <TM_DiseaseImmunityHD.description>提高自然疾病免疫率。</TM_DiseaseImmunityHD.description>
+  <TM_DiseaseImmunityHD.stages.0.label>I</TM_DiseaseImmunityHD.stages.0.label>
+
+  <TM_DiseaseImmunity2HD.label>疾病免疫</TM_DiseaseImmunity2HD.label>
+  <TM_DiseaseImmunity2HD.description>提高自然疾病免疫率。</TM_DiseaseImmunity2HD.description>
+  <TM_DiseaseImmunity2HD.stages.0.label>II</TM_DiseaseImmunity2HD.stages.0.label>
+
+  <TM_BlurHD.label>模糊</TM_BlurHD.label>
+  <TM_BlurHD.description>影响別人的视野</TM_BlurHD.description>
+
+  <TM_InvisibilityHD.label>隐形</TM_InvisibilityHD.label>
+  <TM_InvisibilityHD.description>使受影响的人在附近的敌人面前变得不可见和不可攻击。.</TM_InvisibilityHD.description>
+  <TM_InvisibilityHD.stages.0.label>I</TM_InvisibilityHD.stages.0.label>
+
+  <TM_MageLightHD.label>法师之光</TM_MageLightHD.label>
+  <TM_MageLightHD.description>靠魔法维持的微弱的光.</TM_MageLightHD.description>
+  <TM_MageLightHD.stages.0.label></TM_MageLightHD.stages.0.label>
+
+  <TM_FrostSlowHD.label>迟缓</TM_FrostSlowHD.label>
+  <TM_FrostSlowHD.description>受霜冻影响，四肢行动迟缓.</TM_FrostSlowHD.description>
+  <TM_FrostSlowHD.stages.0.label>冰冻</TM_FrostSlowHD.stages.0.label>
+
+  <TM_CoolHD.label>恩惠（高温）</TM_CoolHD.label>
+  <TM_CoolHD.description>一个小恩惠，可以冷却并增加对高温的抵抗力。</TM_CoolHD.description>
+  <TM_CoolHD.stages.0.label>冷却器</TM_CoolHD.stages.0.label>
+
+  <TM_RefreshedHD.label>振作精神</TM_RefreshedHD.label>
+  <TM_RefreshedHD.description>使人恢复体力，减少疲劳.</TM_RefreshedHD.description>
+  <TM_RefreshedHD.stages.0.label>冷却器</TM_RefreshedHD.stages.0.label>
+
+  <TM_WarmHD.label>恩惠（低温）</TM_WarmHD.label>
+  <TM_WarmHD.description>这是一个小小的恩惠，可以加热并增强抵御低温的能力。</TM_WarmHD.description>
+  <TM_WarmHD.stages.0.label>加热器</TM_WarmHD.stages.0.label>
+
+  <TM_ShockTherapyHD.label>休克疗法</TM_ShockTherapyHD.label>
+  <TM_ShockTherapyHD.description>训练大脑改善行为。.</TM_ShockTherapyHD.description>
+  <TM_ShockTherapyHD.stages.0.label>电源节点</TM_ShockTherapyHD.stages.0.label>
+
+  <TM_JoltHD.label>震动</TM_JoltHD.label>
+  <TM_JoltHD.description>一个增加体力的小恩惠.</TM_JoltHD.description>
+  <TM_JoltHD.stages.0.label>I</TM_JoltHD.stages.0.label>
+  <TM_JoltHD.stages.1.label>II</TM_JoltHD.stages.1.label>
+  <TM_JoltHD.stages.2.label>III</TM_JoltHD.stages.2.label>
+
+
+  <!-- Energy Regen - increases stamina/mana regeneration rates by multiplying the HD severity -->
+
+  <TM_EnergyRegenHD.label>能量再生</TM_EnergyRegenHD.label>
+  <TM_EnergyRegenHD.description>增加能量回复速度，为增益的倍数。</TM_EnergyRegenHD.description>
+  <TM_EnergyRegenHD.stages.0.label></TM_EnergyRegenHD.stages.0.label>
+
+
+  <!-- Super Soldier Serum -->
+
+  <TM_SS_SerumHD.label>SS血清</TM_SS_SerumHD.label>
+  <TM_SS_SerumHD.description>一种增强物理能力和魔法抗性的化学物质;减少魔法力量和能量再生。这种化学物质的效力分3个阶段增强，需要100天才能完全成熟.</TM_SS_SerumHD.description>
+  <TM_SS_SerumHD.stages.0.label>阶段 0</TM_SS_SerumHD.stages.0.label>
+  <TM_SS_SerumHD.stages.1.label>阶段 1</TM_SS_SerumHD.stages.1.label>
+  <TM_SS_SerumHD.stages.2.label>阶段 2</TM_SS_SerumHD.stages.2.label>
+  <TM_SS_SerumHD.stages.3.label>阶段 3</TM_SS_SerumHD.stages.3.label>
+
+  <TM_ShadowSlayerCloakHD.label>阴影杀手斗篷伪装</TM_ShadowSlayerCloakHD.label>
+  <TM_ShadowSlayerCloakHD.description>阴影杀手的隐身场是活跃的-执行预测引擎无法跟踪的动作将迅速侵蚀隐身场。</TM_ShadowSlayerCloakHD.description>
+  <TM_ShadowSlayerCloakHD.stages.0.label></TM_ShadowSlayerCloakHD.stages.0.label>
+
+  <TM_SeverityHasteHD.label>匆忙</TM_SeverityHasteHD.label>
+  <TM_SeverityHasteHD.description>攻击率加倍。</TM_SeverityHasteHD.description>
+  <TM_SeverityHasteHD.stages.0.label></TM_SeverityHasteHD.stages.0.label>
+
+  <TM_HeatShieldHD.label>热能屏障</TM_HeatShieldHD.label>
+  <TM_HeatShieldHD.description>对热能伤害提供保护加成并防止着火。</TM_HeatShieldHD.description>
+  <TM_HeatShieldHD.stages.0.label></TM_HeatShieldHD.stages.0.label>
+
+  <TM_EvasionHD.label>闪避</TM_EvasionHD.label>
+  <TM_EvasionHD.description>可以闪避非爆炸性伤害。</TM_EvasionHD.description>
+  <TM_EvasionHD.stages.0.label></TM_EvasionHD.stages.0.label>
+
+  <TM_AdrenalineHD.label>肾上腺素</TM_AdrenalineHD.label>
+  <TM_AdrenalineHD.description>提高一定能力。</TM_AdrenalineHD.description>
+  <TM_AdrenalineHD.stages.0.label></TM_AdrenalineHD.stages.0.label>
+  <TM_AdrenalineHD.stages.1.label></TM_AdrenalineHD.stages.1.label>
+  <TM_AdrenalineHD.stages.2.label></TM_AdrenalineHD.stages.2.label>
+  <TM_AdrenalineHD.stages.3.label></TM_AdrenalineHD.stages.3.label>
+
+  <TM_UndeadShroudHD.label>亡灵裹尸布</TM_UndeadShroudHD.label>
+  <TM_UndeadShroudHD.description>不死之力依附于此。</TM_UndeadShroudHD.description>
+  <TM_UndeadShroudHD.stages.0.label></TM_UndeadShroudHD.stages.0.label>
+  <TM_UndeadShroudHD.stages.1.label></TM_UndeadShroudHD.stages.1.label>
+  <TM_UndeadShroudHD.stages.2.label></TM_UndeadShroudHD.stages.2.label>
+  <TM_UndeadShroudHD.stages.3.label></TM_UndeadShroudHD.stages.3.label>
+  <TM_UndeadShroudHD.stages.4.label></TM_UndeadShroudHD.stages.4.label>
+
+
+</LanguageData>

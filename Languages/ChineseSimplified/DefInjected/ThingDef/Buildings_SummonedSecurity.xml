@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_PoisonTrap.label>毒药陷阱</TM_PoisonTrap.label>
+  <TM_PoisonTrap.description>一个由刺和细绳组成的陷阱， 它可以完美地与地形贴合从而骗过未经训练的眼睛， 但是它的气味会给动物们一个明显的警告. 当一个受害者触发陷阱，德鲁伊之毒的粒子将会排放到空气中. 这种毒同时用来伤害和使受害者失去行动能力。</TM_PoisonTrap.description>
+
+  <TM_Trap_Lightning.label>闪电陷阱</TM_Trap_Lightning.label>
+  <TM_Trap_Lightning.description>一个蕴含闪电元素的陷阱.周围有敌人时将自动释放闪电元素。</TM_Trap_Lightning.description>
+
+  <TM_ManaMine.label>魔法地雷</TM_ManaMine.label>
+  <TM_ManaMine.description>将魔力与物质压缩造成极强的爆炸. 心灵之蔓的力量会从地雷中扩展; 当一个受害者惊扰到这些心灵之蔓， 它将会瓦解领域内的一切并触发地雷。2.4米 爆炸半径。</TM_ManaMine.description>
+
+  <TM_ManaMine_I.label>魔法地雷</TM_ManaMine_I.label>
+  <TM_ManaMine_I.description>将魔力与物质压缩造成极强的爆炸. 心灵之蔓的力量会从地雷中扩展; 当一个受害者惊扰到这些心灵之蔓， 它将会瓦解领域内的一切并触发地雷。2.9米 爆炸半径。</TM_ManaMine_I.description>
+
+  <TM_ManaMine_II.label>魔法地雷</TM_ManaMine_II.label>
+  <TM_ManaMine_II.description>将魔力与物质压缩造成极强的爆炸. 心灵之蔓的力量会从地雷中扩展; 当一个受害者惊扰到这些心灵之蔓， 它将会瓦解领域内的一切并触发地雷。3.8米 爆炸半径。</TM_ManaMine_II.description>
+
+  <TM_ManaMine_III.label>魔法地雷</TM_ManaMine_III.label>
+  <TM_ManaMine_III.description>将魔力与物质压缩造成极强的爆炸. 心灵之蔓的力量会从地雷中扩展; 当一个受害者惊扰到这些心灵之蔓， 它将会瓦解领域内的一切并触发地雷。4.7米 爆炸半径。</TM_ManaMine_III.description>
+
+
+  <!-- Level 0 -->
+
+  <DefensePylon.label>魔法防御塔</DefensePylon.label>
+  <DefensePylon.description>一个魔法防御塔. 通过魔法能量局限化来组建一个底座， 然后将奥术能量聚集于焦点发射爆炸能量射线。</DefensePylon.description>
+
+  <Launcher_DefensePylon.label>能量焦点</Launcher_DefensePylon.label>
+  <Launcher_DefensePylon.description>奥术防御塔的焦点， 可以收集和发射爆炸魔法能量射线。</Launcher_DefensePylon.description>
+  <Launcher_DefensePylon.verbs.Verb_ShootCE.label>能量焦点</Launcher_DefensePylon.verbs.Verb_ShootCE.label>
+  <Launcher_DefensePylon_I.verbs.Verb_ShootCE.label>能量焦点I</Launcher_DefensePylon_I.verbs.Verb_ShootCE.label>
+  <Launcher_DefensePylon_II.verbs.Verb_ShootCE.label>能量焦点II</Launcher_DefensePylon_II.verbs.Verb_ShootCE.label>
+  <Launcher_DefensePylon_III.verbs.Verb_ShootCE.label>能量焦点III</Launcher_DefensePylon_III.verbs.Verb_ShootCE.label>
+  <Bullet_DefensePylon.label>魔法能量聚集</Bullet_DefensePylon.label>
+
+
+  <!-- Level 1 -->
+
+  <DefensePylon_I.label>魔法防御塔 (I)</DefensePylon_I.label>
+  <DefensePylon_I.description>一个魔法防御塔. 通过魔法能量局限化来组建一个底座， 然后将奥术能量聚集于焦点发射爆炸能量射线。</DefensePylon_I.description>
+
+  <Launcher_DefensePylon_I.label>能量焦点</Launcher_DefensePylon_I.label>
+  <Launcher_DefensePylon_I.description>量聚集于焦点发射爆奥术防御塔的焦点， 可以收集和发射爆炸魔法能量射线。</Launcher_DefensePylon_I.description>
+
+
+  <!-- Level 2 -->
+
+  <DefensePylon_II.label>魔法防御塔 (II)</DefensePylon_II.label>
+  <DefensePylon_II.description>一个魔法防御塔. 通过魔法能量局限化来组建一个底座， 然后将奥术能量聚集于焦点发射爆炸能量射线。</DefensePylon_II.description>
+
+  <Launcher_DefensePylon_II.label>能量焦点</Launcher_DefensePylon_II.label>
+  <Launcher_DefensePylon_II.description>量聚集于焦点发射爆奥术防御塔的焦点， 可以收集和发射爆炸魔法能量射线。</Launcher_DefensePylon_II.description>
+
+
+  <!-- Level 3 -->
+
+  <DefensePylon_III.label>魔法防御塔 (III)</DefensePylon_III.label>
+  <DefensePylon_III.description>魔法防御塔. 通过魔法能量局限化来组建一个底座， 然后将奥术能量聚集于焦点发射爆炸能量射线。</DefensePylon_III.description>
+
+  <Launcher_DefensePylon_III.label>能量焦点</Launcher_DefensePylon_III.label>
+  <Launcher_DefensePylon_III.description>量聚集于焦点发射爆奥术防御塔的焦点， 可以收集和发射爆炸魔法能量射线。</Launcher_DefensePylon_III.description>
+
+
+  <!-- Magic Walls -->
+
+  <TM_ArcaneBarrier.label>奥术障碍</TM_ArcaneBarrier.label>
+  <TM_ArcaneBarrier.description>通过固化奥术能量制造一堵无法通过的墙, 用来提供保护或者制造一个障碍.</TM_ArcaneBarrier.description>
+
+
+  <!-- Techno Turret -->
+
+  <TM_TechnoTurret_Base.label>Mark-IV</TM_TechnoTurret_Base.label>
+  <TM_TechnoTurret_Base.description>MarkIV是一个可部署的炮塔，提供重型武器系统的火力。它可以小型化，允许用户在不使用时轻松传输系统。Mark IV的关键部件是物质转换器，它在小型化状态下使用能源维修和再补给炮塔，允许名义上的能量物质转换。然而，即使使用塑料和超织物来加强武器系统，这种材料也无法承受转换过程中施加在其上的压力，并且很容易发生故障和部件故障。此后，机械师对系统进行了改造，并利用其对奥术能量的控制，在炮塔部署弹药的同时，为维修和小型化过程提供能量。由于其重量，Mark IV在部署时无法移动。</TM_TechnoTurret_Base.description>
+
+  <TM_TechnoTurret_Base_RL.label>Mark-IV</TM_TechnoTurret_Base_RL.label>
+  <TM_TechnoTurret_Base_RL.description>MarkIV是一个可部署的炮塔，提供重型武器系统的火力。它可以小型化，允许用户在不使用时轻松传输系统。Mark IV的关键部件是物质转换器，它在小型化状态下使用能源维修和再补给炮塔，允许名义上的能量物质转换。然而，即使使用塑料和超织物来加强武器系统，这种材料也无法承受转换过程中施加在其上的压力，并且很容易发生故障和部件故障。此后，机械师对系统进行了改造，并利用其对奥术能量的控制，在炮塔部署弹药的同时，为维修和小型化过程提供能量。由于其重量，Mark IV在部署时无法移动。</TM_TechnoTurret_Base_RL.description>
+
+  <TM_TechnoTurret_Base_RL_MTR.label>Mark-IV</TM_TechnoTurret_Base_RL_MTR.label>
+  <TM_TechnoTurret_Base_RL_MTR.description>MarkIV是一个可部署的炮塔，提供重型武器系统的火力。它可以小型化，允许用户在不使用时轻松传输系统。Mark IV的关键部件是物质转换器，它在小型化状态下使用能源维修和再补给炮塔，允许名义上的能量物质转换。然而，即使使用塑料和超织物来加强武器系统，这种材料也无法承受转换过程中施加在其上的压力，并且很容易发生故障和部件故障。此后，机械师对系统进行了改造，并利用其对奥术能量的控制，在炮塔部署弹药的同时，为维修和小型化过程提供能量。由于其重量，Mark IV在部署时无法移动。</TM_TechnoTurret_Base_RL_MTR.description>
+
+  <Bullet_Mark-IV.label>Mark-IV子弹</Bullet_Mark-IV.label>
+
+  <Gun_Mark-IV.label>Mark-IV武器系统</Gun_Mark-IV.label>
+  <Gun_Mark-IV.description>Mark-IV 武器系统枪管和射击控制。</Gun_Mark-IV.description>
+  <Gun_Mark-IV.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV.verbs.Verb_ShootCE.label>
+  <Gun_Mark-IV_RL.label>Mark-IV武器系统</Gun_Mark-IV_RL.label>
+  <Gun_Mark-IV_RL.description>Mark-IV 武器系统枪管和射击控制。</Gun_Mark-IV_RL.description>
+  <Gun_Mark-IV_RL.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV_RL.verbs.Verb_ShootCE.label>
+  <Gun_Mark-IV_RL_MTR.label>Mark-IV武器系统</Gun_Mark-IV_RL_MTR.label>
+  <Gun_Mark-IV_RL_MTR.description>Mark-IV 武器系统枪管和射击控制。</Gun_Mark-IV_RL_MTR.description>
+  <Gun_Mark-IV_RL_MTR.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV_RL_MTR.verbs.Verb_ShootCE.label>
+  <FlyingObject_RocketSmall.label>小型火箭</FlyingObject_RocketSmall.label>
+  <Bullet_Shell_TechnoTurretExplosive.label>氦壳</Bullet_Shell_TechnoTurretExplosive.label>
+
+
+  <!-- 60mm Mortar -->
+
+  <TM_60mmMortar_Base.label>60mm迫击炮管</TM_60mmMortar_Base.label>
+  <TM_60mmMortar_Base.description>60毫米迫击炮是一种个人可运输和部署的间接火力系统。 由于系统的重量，外壳通常被分散运输。 该系统用于间接射击，只有业余爱好者尝试使用该系统进行直接射击，因为它既不准确，又会暴露迫击炮手。
+
+由于迫击炮管和爆炸弹的密封能力，与固定系统相比，该系统的射程和火力受到限制。</TM_60mmMortar_Base.description>
+
+  <FlyingObject_60mmMortar.label>60mm迫击炮</FlyingObject_60mmMortar.label>
+
+
+  <!-- Lightning Totem -->
+
+  <TM_LightningTotem.label>闪电图腾</TM_LightningTotem.label>
+  <TM_LightningTotem.description>一种萨满教图腾，装饰有精致的、古怪的雕刻并且这个图腾的四周响应着元素闪电的爆裂声。</TM_LightningTotem.description>
+
+
+  <!-- Healing Totem -->
+
+  <TM_HealingTotem.label>治疗图腾</TM_HealingTotem.label>
+  <TM_HealingTotem.description>一种萨满图腾,装饰着流动的、代表着赞美的雕刻。治疗图腾能够吸引友军灵魂，他们将恢复附近盟友的活力和生命。</TM_HealingTotem.description>
+
+
+  <!-- Earth Totem -->
+
+  <TM_EarthTotem.label>大地图腾</TM_EarthTotem.label>
+  <TM_EarthTotem.description>一种萨满图腾，用对称的雕刻装饰，散发出团结的感觉。图腾与大地的联系使它能够引起地震波，使附近的敌人眩晕。</TM_EarthTotem.description>
+
+
+</LanguageData>

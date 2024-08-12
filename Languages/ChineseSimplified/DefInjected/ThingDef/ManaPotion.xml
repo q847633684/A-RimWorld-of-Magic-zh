@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ManaPotion.label>魔法药剂</ManaPotion.label>
+  <ManaPotion.description>一种法力补充药剂，可以使法师迅速恢复法力.其原理为用一种天然的抑制剂用来解除身体对魔力的吸收限制 \n\n值得注意的是， 这种绕过身体自然防御机制的方法可能会对精神和感官造成伤害。</ManaPotion.description>
+  <ManaPotion.ingestible.ingestCommandString>饮用 {0}</ManaPotion.ingestible.ingestCommandString>
+  <ManaPotion.ingestible.ingestReportString>饮用{0}中。</ManaPotion.ingestible.ingestReportString>
+
+
+</LanguageData>

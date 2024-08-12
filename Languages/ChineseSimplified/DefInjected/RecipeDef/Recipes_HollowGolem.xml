@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mecha Golem upgrade recipes -->
+
+  <TM_HollowGolem_RepairComponent.label>部位修复</TM_HollowGolem_RepairComponent.label>
+  <TM_HollowGolem_RepairComponent.description>替换丢失的不需要升级的傀儡部件。</TM_HollowGolem_RepairComponent.description>
+  <TM_HollowGolem_RepairComponent.jobString>制造傀儡部位</TM_HollowGolem_RepairComponent.jobString>
+
+  <TM_HollowGolem_EnergyCell.label>法力容器</TM_HollowGolem_EnergyCell.label>
+  <TM_HollowGolem_EnergyCell.description>打造一个法力容器来储存额外的法力。</TM_HollowGolem_EnergyCell.description>
+  <TM_HollowGolem_EnergyCell.jobString>打造法力容器</TM_HollowGolem_EnergyCell.jobString>
+
+  <TM_HollowGolem_EnergyConverter.label>法力转换器</TM_HollowGolem_EnergyConverter.label>
+  <TM_HollowGolem_EnergyConverter.description>提高10%傀儡吸收和使用法力的效率。</TM_HollowGolem_EnergyConverter.description>
+  <TM_HollowGolem_EnergyConverter.jobString>打造法力滤器</TM_HollowGolem_EnergyConverter.jobString>
+
+  <TM_HollowGolem_EnergyCharge.label>法力极性</TM_HollowGolem_EnergyCharge.label>
+  <TM_HollowGolem_EnergyCharge.description>提高每6小时傀儡的法力回复速度。</TM_HollowGolem_EnergyCharge.description>
+  <TM_HollowGolem_EnergyCharge.jobString>赋予法力极性</TM_HollowGolem_EnergyCharge.jobString>
+
+  <TM_HollowGolem_Axe.label>空洞之斧</TM_HollowGolem_Axe.label>
+  <TM_HollowGolem_Axe.description>将一把撼地斧熔合到空洞傀儡的"奥术"躯体。当挥动时，这把斧头会释放出一股奥术能量波，能够劈开多个敌人和几乎任何护甲。</TM_HollowGolem_Axe.description>
+  <TM_HollowGolem_Axe.jobString>打造空洞之斧</TM_HollowGolem_Axe.jobString>
+
+  <TM_HollowGolem_Staff.label>空洞之杖</TM_HollowGolem_Staff.label>
+  <TM_HollowGolem_Staff.description>将闪耀权杖和守护者权杖融合到空洞傀儡上，形成空洞之杖。空洞傀儡可以使用此杖发射魔法飞弹而不消耗能量。</TM_HollowGolem_Staff.description>
+  <TM_HollowGolem_Staff.jobString>打造空洞之杖</TM_HollowGolem_Staff.jobString>
+
+  <TM_HollowGolem_Armor.label>空洞胸甲</TM_HollowGolem_Armor.label>
+  <TM_HollowGolem_Armor.description>升级傀儡的护甲：\n钝护：+21%\n锐护：+32%\n热护：+14%</TM_HollowGolem_Armor.description>
+  <TM_HollowGolem_Armor.jobString>制造傀儡部位</TM_HollowGolem_Armor.jobString>
+
+  <TM_HollowGolem_Helm.label>空洞之盔</TM_HollowGolem_Helm.label>
+  <TM_HollowGolem_Helm.description>通过保护头部增加傀儡的护甲：\n钝护：+22%\n锐护：+7%\n热护：+9%</TM_HollowGolem_Helm.description>
+  <TM_HollowGolem_Helm.jobString>制造傀儡部位</TM_HollowGolem_Helm.jobString>
+
+  <TM_HollowGolem_Shoulder.label>空洞护肩</TM_HollowGolem_Shoulder.label>
+  <TM_HollowGolem_Shoulder.description>通过保护肩部和颈部的护甲增加傀儡的护甲：\n钝护：+8%\n锐护：+19%\n热护：+6%</TM_HollowGolem_Shoulder.description>
+  <TM_HollowGolem_Shoulder.jobString>制造傀儡部位</TM_HollowGolem_Shoulder.jobString>
+
+  <TM_HollowGolem_Crown.label>觉醒之冠</TM_HollowGolem_Crown.label>
+  <TM_HollowGolem_Crown.description>为空洞傀儡装备觉醒之冠，使其能够探测并消除其他人所施展的魔法。</TM_HollowGolem_Crown.description>
+  <TM_HollowGolem_Crown.jobString>制造傀儡部位</TM_HollowGolem_Crown.jobString>
+
+  <TM_HollowGolem_Cloak.label>褪色斗篷</TM_HollowGolem_Cloak.label>
+  <TM_HollowGolem_Cloak.description>为空洞傀儡备褪色斗篷，使其能够立即移动到另一个位置，傀儡闪现到敌人附近时会产生一个冲击波。\n\n钝护：+10%\n锐护：+5%\n热护：+15%\n链接强度：+5%\n移速+0.4c/s\n\n能力：褪色</TM_HollowGolem_Cloak.description>
+  <TM_HollowGolem_Cloak.jobString>制造傀儡部位</TM_HollowGolem_Cloak.jobString>
+
+  <TM_HollowGolem_PGFire.label>保护宝石：火焰</TM_HollowGolem_PGFire.label>
+  <TM_HollowGolem_PGFire.description>为傀儡装备一块火焰保护宝石，在傀儡周边形成一个火焰保护领域。"燃烧之怒"降低所有受到的攻击35%的伤害，烧灼伤口，防止眩晕，并灼伤附近的敌人。一个傀儡只能佩戴一块保护宝石。\n\n冷却：1200秒\n持续时间：100秒\n能源消耗：50</TM_HollowGolem_PGFire.description>
+  <TM_HollowGolem_PGFire.jobString>制造傀儡部位</TM_HollowGolem_PGFire.jobString>
+
+  <TM_HollowGolem_PGWater.label>保护宝石：流水</TM_HollowGolem_PGWater.label>
+  <TM_HollowGolem_PGWater.description>为傀儡装备流水保护宝石，使傀儡能够闪避攻击。闪避攻击的几率与傀儡的能量百分比成正比，每次躲过时傀儡的能量减少5。</TM_HollowGolem_PGWater.description>
+  <TM_HollowGolem_PGWater.jobString>制造傀儡部位</TM_HollowGolem_PGWater.jobString>
+
+  <TM_HollowGolem_PGArcane.label>保护宝石：奥术</TM_HollowGolem_PGArcane.label>
+  <TM_HollowGolem_PGArcane.description>为傀儡装备一块奥术保护宝石，使其具有[绝望之井]技能。绝望之井的效果为将一个区域包裹在一个反向护盾中，该护盾允许子弹飞入，但阻止子弹飞出。</TM_HollowGolem_PGArcane.description>
+  <TM_HollowGolem_PGArcane.jobString>制造傀儡部位</TM_HollowGolem_PGArcane.jobString>
+
+  <TM_HollowGolem_PGDeath.label>保护宝石：死亡</TM_HollowGolem_PGDeath.label>
+  <TM_HollowGolem_PGDeath.description>给傀儡装备死亡保护宝石，在傀儡周围形成死亡光环。附近的敌人会受到诅咒之击，这会降低他们的意志力和战斗能力。</TM_HollowGolem_PGDeath.description>
+  <TM_HollowGolem_PGDeath.jobString>制造傀儡部位</TM_HollowGolem_PGDeath.jobString>
+
+  <TM_HollowGolem_PGDoom.label>保护宝石：死亡深渊</TM_HollowGolem_PGDoom.label>
+  <TM_HollowGolem_PGDoom.description>为傀儡装备一块死亡深渊保护宝石，在傀儡周边形成一个会削弱移速的领域以减慢附近敌人的速度。此效果每15秒触发一次，对36格内的敌人产生减速效果。</TM_HollowGolem_PGDoom.description>
+  <TM_HollowGolem_PGDoom.jobString>制造傀儡部位</TM_HollowGolem_PGDoom.jobString>
+
+  <TM_HollowGolem_FGFire.label>集中宝石：火焰</TM_HollowGolem_FGFire.label>
+  <TM_HollowGolem_FGFire.description>用火元素集中宝石装饰空洞傀儡，使其能够使用火之花技能。火之花用于制造25个能爆炸的火箭，目标是傀儡周边6到50格的敌人（优先以多个敌人集中的地方为目标）。消耗40能量。目标可能会被点燃。只能附加一个集中宝石。</TM_HollowGolem_FGFire.description>
+  <TM_HollowGolem_FGFire.jobString>制造傀儡部位</TM_HollowGolem_FGFire.jobString>
+
+  <TM_HollowGolem_FGIce.label>集中宝石：寒冰</TM_HollowGolem_FGIce.label>
+  <TM_HollowGolem_FGIce.description>用水元素集中宝石装饰空洞傀儡，使其能够使用冰之花技能。冰之花会制造20个会爆炸的冰之碎片，目标是8到60格之外的敌人（优先以多个敌人集中的地方为目标）。消耗60能量。冰之碎片会造成大量出血。只能附加一个集中宝石。</TM_HollowGolem_FGIce.description>
+  <TM_HollowGolem_FGIce.jobString>制造傀儡部位</TM_HollowGolem_FGIce.jobString>
+
+  <TM_HollowGolem_FGArcane.label>集中宝石：奥术</TM_HollowGolem_FGArcane.label>
+  <TM_HollowGolem_FGArcane.description>用含有浓缩奥术能量的宝石装饰空洞傀儡，使其能够产生一束由集中的暗能量构成的箭。黑暗之箭的目标是100格以外的敌人。消耗80能量。一个傀儡只能装饰一个集中宝石。</TM_HollowGolem_FGArcane.description>
+  <TM_HollowGolem_FGArcane.jobString>制造傀儡部位</TM_HollowGolem_FGArcane.jobString>
+
+  <TM_HollowGolem_FGDeath.label>集中宝石：死亡</TM_HollowGolem_FGDeath.label>
+  <TM_HollowGolem_FGDeath.description>用含有死亡精华的宝石装饰空洞傀儡，那个宝石会辐射死亡能量场包围傀儡。死亡场会定期攻击附近的敌人。这个技能是唯一不需要施法的集中宝石技能。目标是傀儡10格内的敌人。消耗20点能量，但场内每个死亡的任何生物都能使傀儡获得免费一击。一个傀儡只能装饰一个集中宝石。</TM_HollowGolem_FGDeath.description>
+  <TM_HollowGolem_FGDeath.jobString>制造傀儡部位</TM_HollowGolem_FGDeath.jobString>
+
+  <TM_HollowGolem_OrbOfExtinguishedFlames.label>熄灭火焰之球</TM_HollowGolem_OrbOfExtinguishedFlames.label>
+  <TM_HollowGolem_OrbOfExtinguishedFlames.description>为空洞傀儡装备熄灭火焰之球,这个装备可以让它窥视死亡的面纱以获取知识。地图上每杀死一个生物，现在进行中的研究的点数就会增加。这个球体也可以被切换来探测和消耗25格的任何火焰，并发出微弱的银光。这些效果只有在空洞傀儡处于休眠状态时才有效。吞噬冷漠之火和熄灭火焰之球不能一起使用，这两个升级共享同一个组件槽。</TM_HollowGolem_OrbOfExtinguishedFlames.description>
+  <TM_HollowGolem_OrbOfExtinguishedFlames.jobString>制造傀儡部位</TM_HollowGolem_OrbOfExtinguishedFlames.jobString>
+
+  <TM_HollowGolem_FlamesOfDevouringApathy.label>吞噬冷漠之火</TM_HollowGolem_FlamesOfDevouringApathy.label>
+  <TM_HollowGolem_FlamesOfDevouringApathy.description>吞噬冷漠之火会赋予空洞傀儡调节温度的能力。火焰还将吞噬25格内的任何污物，并发出微弱的奥术之光。这些效果只有在空洞傀儡处于休眠状态时才有效。吞噬冷漠之火和熄灭火焰之球不能一起使用，这两个升级共享同一个组件槽。</TM_HollowGolem_FlamesOfDevouringApathy.description>
+  <TM_HollowGolem_FlamesOfDevouringApathy.jobString>制造傀儡部位</TM_HollowGolem_FlamesOfDevouringApathy.jobString>
+
+  <TM_HollowGolem_CoAFire.label>纹章：火</TM_HollowGolem_CoAFire.label>
+  <TM_HollowGolem_CoAFire.description>为空洞傀儡铬画一层与火焰协调的纹章，每升一级[1/2/3]提供以下增益：\n移速：+[0.2c/0.3c/0.35c]\n热能护甲：+[30%/50%/60%]\n处理能力：+[10%/20%/30%]\n技能冷却：-[10%/20%/30%]\n\n此外，腐朽之触造成额外的灼伤伤害，傀儡可以吸收附近的火焰以恢复自身的伤口。</TM_HollowGolem_CoAFire.description>
+  <TM_HollowGolem_CoAFire.jobString>制造傀儡升级</TM_HollowGolem_CoAFire.jobString>
+
+  <TM_HollowGolem_CoAIce.label>纹章：水</TM_HollowGolem_CoAIce.label>
+  <TM_HollowGolem_CoAIce.description>为空洞傀儡铬画一层与流水协调的纹章，每升一级[1/2/3]提供以下增益：\n护甲：+[5%/10%/15%]\n能力冷却：-[10%/20%/30%]\n处理能力：+[10%/20%/30%]\n\n此外，腐朽之触会治疗[10+3*级]格内的傀儡和一名友方生物，使其获得[10+4*级]回复效果。</TM_HollowGolem_CoAIce.description>
+  <TM_HollowGolem_CoAIce.jobString>制造傀儡升级</TM_HollowGolem_CoAIce.jobString>
+
+  <TM_HollowGolem_CoAArcane.label>纹章：奥术</TM_HollowGolem_CoAArcane.label>
+  <TM_HollowGolem_CoAArcane.description>为空洞傀儡铬画一层与奥术协调的纹章，每升一级[1/2/3]提供以下增益：\n技能冷却：-[12%/24%/36%]\n技能伤害：+[10%/20%/30%]\n处理：+[15%/30%/45%]\n\n此外，腐朽之触每次命中后恢复[20+5*等级]能量-</TM_HollowGolem_CoAArcane.description>
+  <TM_HollowGolem_CoAArcane.jobString>制造傀儡升级</TM_HollowGolem_CoAArcane.jobString>
+
+  <TM_HollowGolem_CoADeath.label>纹章：死亡</TM_HollowGolem_CoADeath.label>
+  <TM_HollowGolem_CoADeath.description>为空洞傀儡铬画一层与死亡协调的纹章，每升一级[1/2/3]提供以下增益：\n护甲：+[5%/10%/15%]\n技能冷却：-[8%/16%/24%]\n技能伤害：+[10%/20%/30%]\n处理能力：-[5%/10%/15%]\n\n此外，腐朽之触的效果提高50%，攻击之后还会攻击一次。</TM_HollowGolem_CoADeath.description>
+  <TM_HollowGolem_CoADeath.jobString>制造傀儡升级</TM_HollowGolem_CoADeath.jobString>
+
+  <TM_HollowGolem_AffinityFire.label>亲和：火焰</TM_HollowGolem_AffinityFire.label>
+  <TM_HollowGolem_AffinityFire.description>增强傀儡与烈焰元素的共鸣；使傀儡的眼睛发出橙色光芒。火焰亲和每升一级[1/2/3]\n提供以下增益：\n移速：+[25/40/50]%\n生命值：+[40/60/75]%</TM_HollowGolem_AffinityFire.description>
+  <TM_HollowGolem_AffinityFire.jobString>应用元素亲和</TM_HollowGolem_AffinityFire.jobString>
+
+  <TM_HollowGolem_AffinityIce.label>亲和：流水</TM_HollowGolem_AffinityIce.label>
+  <TM_HollowGolem_AffinityIce.description>增强傀儡与流水元素的共鸣；使傀儡的眼睛发出天蓝色光芒。流水亲和每升一级[1/2/3]\n提供以下增益：\n移速：+[20/30/35]%\n生命值：+[50/75/90]%</TM_HollowGolem_AffinityIce.description>
+  <TM_HollowGolem_AffinityIce.jobString>应用元素亲和</TM_HollowGolem_AffinityIce.jobString>
+
+  <TM_HollowGolem_AffinityArcane.label>亲和：奥术</TM_HollowGolem_AffinityArcane.label>
+  <TM_HollowGolem_AffinityArcane.description>增强傀儡与奥术的共鸣；使傀儡的眼睛发出洋红色光芒。奥术亲和每升一级[1/2/3]\n提供以下增益：\n移速+[15/25/30]%\n生命值：+[55/85/100]%</TM_HollowGolem_AffinityArcane.description>
+  <TM_HollowGolem_AffinityArcane.jobString>应用元素亲和</TM_HollowGolem_AffinityArcane.jobString>
+
+  <TM_HollowGolem_AffinityDeath.label>亲和：死亡</TM_HollowGolem_AffinityDeath.label>
+  <TM_HollowGolem_AffinityDeath.description>增强傀儡与死亡魔法的共鸣；使傀儡的眼睛发出绿色光芒。死亡亲和每升一级[1/2/3]\n提供以下增益：\n移速：+[10/15/20]%\n生命值：+[65/90/110]%</TM_HollowGolem_AffinityDeath.description>
+  <TM_HollowGolem_AffinityDeath.jobString>制造傀儡升级</TM_HollowGolem_AffinityDeath.jobString>
+
+
+</LanguageData>
