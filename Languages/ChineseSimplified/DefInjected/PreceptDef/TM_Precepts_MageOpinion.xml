@@ -48,16 +48,11 @@
 
   <TM_SeverenceRitual.label>斩断与魔法的联系</TM_SeverenceRitual.label>
   <TM_SeverenceRitual.description>寻虚者会斩断目标与魔法的联系。观众将观看寻虚者的统一演讲，从法师那里斩断魔法，之后说出一些结束语。如果仪式执行不当，目标可能会尝试最后的报复法术。如果成功，目标将从魔法中解放出来。</TM_SeverenceRitual.description>
-  <TM_SeverenceRitual.ritualExpectedDesc>{0} {1}想要尽快进行严厉仪式。</TM_SeverenceRitual.ritualExpectedDesc>
 
   <TM_BestowMagicRitual.label>授予魔法</TM_BestowMagicRitual.label>
   <TM_BestowMagicRitual.description>寻虚者会试图在目标和魔法之间架起一座桥梁。观众将会看到，寻虚者说了几句充满智慧的话，试图赋予目标魔法之源，然后说了一些结束语。这种仪式可能会失败，只能在特定的日期进行。</TM_BestowMagicRitual.description>
-  <TM_GiftingRitual.ritualExpectedDesc>{0} {1}想要尽快进行送礼仪式。</TM_GiftingRitual.ritualExpectedDesc>
-    
+
   <TM_BestowClassRitual.label>神秘之路</TM_BestowClassRitual.label>
   <TM_BestowClassRitual.description>在这个仪式中，寻虚者将引导拥有魔法天赋的小人成为法师。观众将看到法师试图在寻虚者的指导下实现他们的灵感。完成后，目标将获得受启发魔法职业。</TM_BestowClassRitual.description>
-  <TM_BestowMagicClassRitual.ritualExpectedDesc>{0} {1}想要尽快进行奥道仪式。</TM_BestowMagicClassRitual.ritualExpectedDesc>
-    
-  
 
 </LanguageData>
