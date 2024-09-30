@@ -9,10 +9,13 @@
   <TM_SpiritBearR.tools.1.label>右爪</TM_SpiritBearR.tools.1.label>
   <TM_SpiritBearR.tools.2.label>痛苦</TM_SpiritBearR.tools.2.label>
   <TM_SpiritBearR.tools.3.label>头</TM_SpiritBearR.tools.3.label>
-  <Meat_TM_SpiritBearR.label>灵熊肉</Meat_TM_SpiritBearR.label>
-  <Meat_TM_SpiritBearR.description>灵熊肉</Meat_TM_SpiritBearR.description>
-  <Corpse_TM_SpiritBearR.label>灵熊尸体</Corpse_TM_SpiritBearR.label>
-  <Corpse_TM_SpiritBearR.description>灵熊尸体</Corpse_TM_SpiritBearR.description>
+  <TM_SpiritBearR_Leather.label>spirit bear leather</TM_SpiritBearR_Leather.label>
+  <TM_SpiritBearR_Leather.description>spirit bear leather</TM_SpiritBearR_Leather.description>
+  <TM_SpiritBearR_Leather.stuffProps.stuffAdjective>spirit bear leather</TM_SpiritBearR_Leather.stuffProps.stuffAdjective>
+  <TM_SpiritBearR_Meat.label>spirit bear meat</TM_SpiritBearR_Meat.label>
+  <TM_SpiritBearR_Meat.description>spirit bear meat</TM_SpiritBearR_Meat.description>
+  <TM_SpiritBearR_Corpse.label>spirit bear corpse</TM_SpiritBearR_Corpse.label>
+  <TM_SpiritBearR_Corpse.description>spirit bear corpse</TM_SpiritBearR_Corpse.description>
 
 
   <!-- Spirit Mongoose -->
@@ -22,10 +25,13 @@
   <TM_SpiritMongooseR.tools.0.label>左爪</TM_SpiritMongooseR.tools.0.label>
   <TM_SpiritMongooseR.tools.1.label>右爪</TM_SpiritMongooseR.tools.1.label>
   <TM_SpiritMongooseR.tools.3.label>头</TM_SpiritMongooseR.tools.3.label>
-  <Meat_TM_SpiritMongooseR.label>灵猫鼬肉</Meat_TM_SpiritMongooseR.label>
-  <Meat_TM_SpiritMongooseR.description>灵猫鼬肉</Meat_TM_SpiritMongooseR.description>
-  <Corpse_TM_SpiritMongooseR.label>灵猫鼬尸体</Corpse_TM_SpiritMongooseR.label>
-  <Corpse_TM_SpiritMongooseR.description>灵猫鼬尸体</Corpse_TM_SpiritMongooseR.description>
+  <TM_SpiritMongooseR_Leather.label>spirit mongoose leather</TM_SpiritMongooseR_Leather.label>
+  <TM_SpiritMongooseR_Leather.description>spirit mongoose leather</TM_SpiritMongooseR_Leather.description>
+  <TM_SpiritMongooseR_Leather.stuffProps.stuffAdjective>spirit mongoose leather</TM_SpiritMongooseR_Leather.stuffProps.stuffAdjective>
+  <TM_SpiritMongooseR_Meat.label>spirit mongoose meat</TM_SpiritMongooseR_Meat.label>
+  <TM_SpiritMongooseR_Meat.description>spirit mongoose meat</TM_SpiritMongooseR_Meat.description>
+  <TM_SpiritMongooseR_Corpse.label>spirit mongoose corpse</TM_SpiritMongooseR_Corpse.label>
+  <TM_SpiritMongooseR_Corpse.description>spirit mongoose corpse</TM_SpiritMongooseR_Corpse.description>
 
 
   <!-- Spirit Crow -->
@@ -35,10 +41,26 @@
   <TM_SpiritCrowR.tools.0.label>爪</TM_SpiritCrowR.tools.0.label>
   <TM_SpiritCrowR.tools.1.label>喙</TM_SpiritCrowR.tools.1.label>
   <TM_SpiritCrowR.tools.2.label>头</TM_SpiritCrowR.tools.2.label>
-  <Meat_TM_SpiritCrowR.label>灵乌鸦肉</Meat_TM_SpiritCrowR.label>
-  <Meat_TM_SpiritCrowR.description>灵乌鸦肉</Meat_TM_SpiritCrowR.description>
-  <Corpse_TM_SpiritCrowR.label>灵乌鸦尸体</Corpse_TM_SpiritCrowR.label>
-  <Corpse_TM_SpiritCrowR.description>灵乌鸦尸体</Corpse_TM_SpiritCrowR.description>
+  <TM_SpiritCrowR_Leather.label>spirit crow leather</TM_SpiritCrowR_Leather.label>
+  <TM_SpiritCrowR_Leather.description>spirit crow leather</TM_SpiritCrowR_Leather.description>
+  <TM_SpiritCrowR_Leather.stuffProps.stuffAdjective>spirit crow leather</TM_SpiritCrowR_Leather.stuffProps.stuffAdjective>
+  <TM_SpiritCrowR_Meat.label>spirit crow meat</TM_SpiritCrowR_Meat.label>
+  <TM_SpiritCrowR_Meat.description>spirit crow meat</TM_SpiritCrowR_Meat.description>
+  <TM_SpiritCrowR_Corpse.label>spirit crow corpse</TM_SpiritCrowR_Corpse.label>
+  <TM_SpiritCrowR_Corpse.description>spirit crow corpse</TM_SpiritCrowR_Corpse.description>
 
+
+  <!--<Meat_TM_SpiritBearR.label>灵熊肉</Meat_TM_SpiritBearR.label>-->
+  <!--<Meat_TM_SpiritBearR.description>灵熊肉</Meat_TM_SpiritBearR.description>-->
+  <!--<Corpse_TM_SpiritBearR.label>灵熊尸体</Corpse_TM_SpiritBearR.label>-->
+  <!--<Corpse_TM_SpiritBearR.description>灵熊尸体</Corpse_TM_SpiritBearR.description>-->
+  <!--<Meat_TM_SpiritMongooseR.label>灵猫鼬肉</Meat_TM_SpiritMongooseR.label>-->
+  <!--<Meat_TM_SpiritMongooseR.description>灵猫鼬肉</Meat_TM_SpiritMongooseR.description>-->
+  <!--<Corpse_TM_SpiritMongooseR.label>灵猫鼬尸体</Corpse_TM_SpiritMongooseR.label>-->
+  <!--<Corpse_TM_SpiritMongooseR.description>灵猫鼬尸体</Corpse_TM_SpiritMongooseR.description>-->
+  <!--<Meat_TM_SpiritCrowR.label>灵乌鸦肉</Meat_TM_SpiritCrowR.label>-->
+  <!--<Meat_TM_SpiritCrowR.description>灵乌鸦肉</Meat_TM_SpiritCrowR.description>-->
+  <!--<Corpse_TM_SpiritCrowR.label>灵乌鸦尸体</Corpse_TM_SpiritCrowR.label>-->
+  <!--<Corpse_TM_SpiritCrowR.description>灵乌鸦尸体</Corpse_TM_SpiritCrowR.description>-->
 
 </LanguageData>

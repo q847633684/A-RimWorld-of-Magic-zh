@@ -4,7 +4,6 @@
   <TM_MedicalSupplyHD.label>医疗补给</TM_MedicalSupplyHD.label>
   <TM_MedicalSupplyHD.description>战地医生装备的医疗用品。</TM_MedicalSupplyHD.description>
   <TM_MedicalSupplyHD.stages.0.label></TM_MedicalSupplyHD.stages.0.label>
-  <TM_MedicalSupplyHD.comps.HediffComp_AbilityResource.regenPerTickUpgradeName>医疗用品并不意味着再生</TM_MedicalSupplyHD.comps.HediffComp_AbilityResource.regenPerTickUpgradeName>
 
   <TM_EmergencyHD.label>紧急情况</TM_EmergencyHD.label>
   <TM_EmergencyHD.description>我会尽力的。</TM_EmergencyHD.description>
@@ -30,5 +29,7 @@
   <TM_CombatDrugsAccuracy_HD.description>提高准确性的战斗药物。</TM_CombatDrugsAccuracy_HD.description>
   <TM_CombatDrugsAccuracy_HD.stages.0.label></TM_CombatDrugsAccuracy_HD.stages.0.label>
 
+
+  <!--<TM_MedicalSupplyHD.comps.HediffComp_AbilityResource.regenPerTickUpgradeName>医疗用品并不意味着再生</TM_MedicalSupplyHD.comps.HediffComp_AbilityResource.regenPerTickUpgradeName>-->
 
 </LanguageData>

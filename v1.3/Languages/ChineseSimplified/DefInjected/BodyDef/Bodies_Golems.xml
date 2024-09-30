@@ -94,42 +94,34 @@
 
 
   <!-- STRAW GOLEM -->
-
-  <TM_StrawGolem.label>稻草傀儡</TM_StrawGolem.label>
-  <TM_StrawGolem.corePart.parts.4.customLabel>左肩</TM_StrawGolem.corePart.parts.4.customLabel>
-  <TM_StrawGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_StrawGolem.corePart.parts.4.parts.0.customLabel>
-  <TM_StrawGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_StrawGolem.corePart.parts.4.parts.0.parts.0.customLabel>
-  <TM_StrawGolem.corePart.parts.5.customLabel>右肩</TM_StrawGolem.corePart.parts.5.customLabel>
-  <TM_StrawGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_StrawGolem.corePart.parts.5.parts.0.customLabel>
-  <TM_StrawGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_StrawGolem.corePart.parts.5.parts.0.parts.0.customLabel>
-  <TM_StrawGolem.corePart.parts.6.parts.0.customLabel>左腿</TM_StrawGolem.corePart.parts.6.parts.0.customLabel>
-  <TM_StrawGolem.corePart.parts.6.parts.0.parts.0.customLabel>左脚</TM_StrawGolem.corePart.parts.6.parts.0.parts.0.customLabel>
-  <TM_StrawGolem.corePart.parts.6.parts.1.customLabel>右腿</TM_StrawGolem.corePart.parts.6.parts.1.customLabel>
-  <TM_StrawGolem.corePart.parts.6.parts.1.parts.0.customLabel>右脚</TM_StrawGolem.corePart.parts.6.parts.1.parts.0.customLabel>
-
-
+  <!--<TM_StrawGolem.label>稻草傀儡</TM_StrawGolem.label>-->
+  <!--<TM_StrawGolem.corePart.parts.4.customLabel>左肩</TM_StrawGolem.corePart.parts.4.customLabel>-->
+  <!--<TM_StrawGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_StrawGolem.corePart.parts.4.parts.0.customLabel>-->
+  <!--<TM_StrawGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_StrawGolem.corePart.parts.4.parts.0.parts.0.customLabel>-->
+  <!--<TM_StrawGolem.corePart.parts.5.customLabel>右肩</TM_StrawGolem.corePart.parts.5.customLabel>-->
+  <!--<TM_StrawGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_StrawGolem.corePart.parts.5.parts.0.customLabel>-->
+  <!--<TM_StrawGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_StrawGolem.corePart.parts.5.parts.0.parts.0.customLabel>-->
+  <!--<TM_StrawGolem.corePart.parts.6.parts.0.customLabel>左腿</TM_StrawGolem.corePart.parts.6.parts.0.customLabel>-->
+  <!--<TM_StrawGolem.corePart.parts.6.parts.0.parts.0.customLabel>左脚</TM_StrawGolem.corePart.parts.6.parts.0.parts.0.customLabel>-->
+  <!--<TM_StrawGolem.corePart.parts.6.parts.1.customLabel>右腿</TM_StrawGolem.corePart.parts.6.parts.1.customLabel>-->
+  <!--<TM_StrawGolem.corePart.parts.6.parts.1.parts.0.customLabel>右脚</TM_StrawGolem.corePart.parts.6.parts.1.parts.0.customLabel>-->
   <!-- WOOD GOLEM -->
-
-  <TM_WoodGolem.label>木傀儡</TM_WoodGolem.label>
-
-
+  <!--<TM_WoodGolem.label>木傀儡</TM_WoodGolem.label>-->
   <!-- SILK GOLEM -->
-
-  <TM_SilkGolem.label>丝绸傀儡</TM_SilkGolem.label>
-  <TM_SilkGolem.corePart.parts.3.parts.0.parts.2.customLabel>左眼</TM_SilkGolem.corePart.parts.3.parts.0.parts.2.customLabel>
-  <TM_SilkGolem.corePart.parts.3.parts.0.parts.3.customLabel>右眼</TM_SilkGolem.corePart.parts.3.parts.0.parts.3.customLabel>
-  <TM_SilkGolem.corePart.parts.3.parts.0.parts.4.customLabel>左耳</TM_SilkGolem.corePart.parts.3.parts.0.parts.4.customLabel>
-  <TM_SilkGolem.corePart.parts.3.parts.0.parts.5.customLabel>右耳朵</TM_SilkGolem.corePart.parts.3.parts.0.parts.5.customLabel>
-  <TM_SilkGolem.corePart.parts.4.customLabel>左肩</TM_SilkGolem.corePart.parts.4.customLabel>
-  <TM_SilkGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_SilkGolem.corePart.parts.4.parts.0.customLabel>
-  <TM_SilkGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_SilkGolem.corePart.parts.4.parts.0.parts.0.customLabel>
-  <TM_SilkGolem.corePart.parts.5.customLabel>右肩</TM_SilkGolem.corePart.parts.5.customLabel>
-  <TM_SilkGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_SilkGolem.corePart.parts.5.parts.0.customLabel>
-  <TM_SilkGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_SilkGolem.corePart.parts.5.parts.0.parts.0.customLabel>
-  <TM_SilkGolem.corePart.parts.6.parts.0.customLabel>左腿</TM_SilkGolem.corePart.parts.6.parts.0.customLabel>
-  <TM_SilkGolem.corePart.parts.6.parts.0.parts.0.customLabel>左脚</TM_SilkGolem.corePart.parts.6.parts.0.parts.0.customLabel>
-  <TM_SilkGolem.corePart.parts.6.parts.1.customLabel>右腿</TM_SilkGolem.corePart.parts.6.parts.1.customLabel>
-  <TM_SilkGolem.corePart.parts.6.parts.1.parts.0.customLabel>右脚</TM_SilkGolem.corePart.parts.6.parts.1.parts.0.customLabel>
-
+  <!--<TM_SilkGolem.label>丝绸傀儡</TM_SilkGolem.label>-->
+  <!--<TM_SilkGolem.corePart.parts.3.parts.0.parts.2.customLabel>左眼</TM_SilkGolem.corePart.parts.3.parts.0.parts.2.customLabel>-->
+  <!--<TM_SilkGolem.corePart.parts.3.parts.0.parts.3.customLabel>右眼</TM_SilkGolem.corePart.parts.3.parts.0.parts.3.customLabel>-->
+  <!--<TM_SilkGolem.corePart.parts.3.parts.0.parts.4.customLabel>左耳</TM_SilkGolem.corePart.parts.3.parts.0.parts.4.customLabel>-->
+  <!--<TM_SilkGolem.corePart.parts.3.parts.0.parts.5.customLabel>右耳朵</TM_SilkGolem.corePart.parts.3.parts.0.parts.5.customLabel>-->
+  <!--<TM_SilkGolem.corePart.parts.4.customLabel>左肩</TM_SilkGolem.corePart.parts.4.customLabel>-->
+  <!--<TM_SilkGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_SilkGolem.corePart.parts.4.parts.0.customLabel>-->
+  <!--<TM_SilkGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_SilkGolem.corePart.parts.4.parts.0.parts.0.customLabel>-->
+  <!--<TM_SilkGolem.corePart.parts.5.customLabel>右肩</TM_SilkGolem.corePart.parts.5.customLabel>-->
+  <!--<TM_SilkGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_SilkGolem.corePart.parts.5.parts.0.customLabel>-->
+  <!--<TM_SilkGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_SilkGolem.corePart.parts.5.parts.0.parts.0.customLabel>-->
+  <!--<TM_SilkGolem.corePart.parts.6.parts.0.customLabel>左腿</TM_SilkGolem.corePart.parts.6.parts.0.customLabel>-->
+  <!--<TM_SilkGolem.corePart.parts.6.parts.0.parts.0.customLabel>左脚</TM_SilkGolem.corePart.parts.6.parts.0.parts.0.customLabel>-->
+  <!--<TM_SilkGolem.corePart.parts.6.parts.1.customLabel>右腿</TM_SilkGolem.corePart.parts.6.parts.1.customLabel>-->
+  <!--<TM_SilkGolem.corePart.parts.6.parts.1.parts.0.customLabel>右脚</TM_SilkGolem.corePart.parts.6.parts.1.parts.0.customLabel>-->
 
 </LanguageData>

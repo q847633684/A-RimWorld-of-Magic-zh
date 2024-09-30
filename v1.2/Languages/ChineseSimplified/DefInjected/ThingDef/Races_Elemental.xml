@@ -8,11 +8,10 @@
   <TM_LesserEarth_ElementalR.tools.0.label>左臂</TM_LesserEarth_ElementalR.tools.0.label>
   <TM_LesserEarth_ElementalR.tools.1.label>右臂</TM_LesserEarth_ElementalR.tools.1.label>
   <TM_LesserEarth_ElementalR.tools.2.label>角</TM_LesserEarth_ElementalR.tools.2.label>
-  <TM_LesserEarth_ElementalR.race.meatLabel>元素尘埃</TM_LesserEarth_ElementalR.race.meatLabel>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_LesserEarth_ElementalR.label>小型土元素尸体</Corpse_TM_LesserEarth_ElementalR.label>
-  <Corpse_TM_LesserEarth_ElementalR.description>小型土元素尸体</Corpse_TM_LesserEarth_ElementalR.description>
+  <TM_LesserEarth_ElementalR_Corpse.label>Lesser Earth Elemental corpse</TM_LesserEarth_ElementalR_Corpse.label>
+  <TM_LesserEarth_ElementalR_Corpse.description>Lesser Earth Elemental corpse</TM_LesserEarth_ElementalR_Corpse.description>
 
 
   <!-- Earth Elemental -->
@@ -22,11 +21,10 @@
   <TM_Earth_ElementalR.tools.0.label>左臂</TM_Earth_ElementalR.tools.0.label>
   <TM_Earth_ElementalR.tools.1.label>右臂</TM_Earth_ElementalR.tools.1.label>
   <TM_Earth_ElementalR.tools.2.label>角</TM_Earth_ElementalR.tools.2.label>
-  <TM_Earth_ElementalR.race.meatLabel>元素尘埃</TM_Earth_ElementalR.race.meatLabel>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_Earth_ElementalR.label>土元素尸体</Corpse_TM_Earth_ElementalR.label>
-  <Corpse_TM_Earth_ElementalR.description>土元素尸体</Corpse_TM_Earth_ElementalR.description>
+  <TM_Earth_ElementalR_Corpse.label>Earth Elemental corpse</TM_Earth_ElementalR_Corpse.label>
+  <TM_Earth_ElementalR_Corpse.description>Earth Elemental corpse</TM_Earth_ElementalR_Corpse.description>
 
 
   <!-- Earth Elemental -->
@@ -36,11 +34,10 @@
   <TM_GreaterEarth_ElementalR.tools.0.label>左臂</TM_GreaterEarth_ElementalR.tools.0.label>
   <TM_GreaterEarth_ElementalR.tools.1.label>右臂</TM_GreaterEarth_ElementalR.tools.1.label>
   <TM_GreaterEarth_ElementalR.tools.2.label>角</TM_GreaterEarth_ElementalR.tools.2.label>
-  <TM_GreaterEarth_ElementalR.race.meatLabel>元素尘埃</TM_GreaterEarth_ElementalR.race.meatLabel>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_GreaterEarth_ElementalR.label>大型土元素尸体</Corpse_TM_GreaterEarth_ElementalR.label>
-  <Corpse_TM_GreaterEarth_ElementalR.description>大型土元素尸体</Corpse_TM_GreaterEarth_ElementalR.description>
+  <TM_GreaterEarth_ElementalR_Corpse.label>Greater Earth Elemental corpse</TM_GreaterEarth_ElementalR_Corpse.label>
+  <TM_GreaterEarth_ElementalR_Corpse.description>Greater Earth Elemental corpse</TM_GreaterEarth_ElementalR_Corpse.description>
 
 
   <!-- Fire Elemental -->
@@ -50,11 +47,10 @@
   <TM_LesserFire_ElementalR.tools.0.label>左臂</TM_LesserFire_ElementalR.tools.0.label>
   <TM_LesserFire_ElementalR.tools.1.label>右臂</TM_LesserFire_ElementalR.tools.1.label>
   <TM_LesserFire_ElementalR.tools.2.label>角</TM_LesserFire_ElementalR.tools.2.label>
-  <TM_LesserFire_ElementalR.race.meatLabel>元素尘埃</TM_LesserFire_ElementalR.race.meatLabel>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_LesserFire_ElementalR.label>小型火元素尸体</Corpse_TM_LesserFire_ElementalR.label>
-  <Corpse_TM_LesserFire_ElementalR.description>小型火元素尸体</Corpse_TM_LesserFire_ElementalR.description>
+  <TM_LesserFire_ElementalR_Corpse.label>Lesser Fire Elemental corpse</TM_LesserFire_ElementalR_Corpse.label>
+  <TM_LesserFire_ElementalR_Corpse.description>Lesser Fire Elemental corpse</TM_LesserFire_ElementalR_Corpse.description>
 
 
   <!-- Fire Elemental -->
@@ -64,11 +60,10 @@
   <TM_Fire_ElementalR.tools.0.label>左臂</TM_Fire_ElementalR.tools.0.label>
   <TM_Fire_ElementalR.tools.1.label>右臂</TM_Fire_ElementalR.tools.1.label>
   <TM_Fire_ElementalR.tools.2.label>角</TM_Fire_ElementalR.tools.2.label>
-  <TM_Fire_ElementalR.race.meatLabel>元素尘埃</TM_Fire_ElementalR.race.meatLabel>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_Fire_ElementalR.label>火元素尸体</Corpse_TM_Fire_ElementalR.label>
-  <Corpse_TM_Fire_ElementalR.description>火元素尸体</Corpse_TM_Fire_ElementalR.description>
+  <TM_Fire_ElementalR_Corpse.label>Fire Elemental corpse</TM_Fire_ElementalR_Corpse.label>
+  <TM_Fire_ElementalR_Corpse.description>Fire Elemental corpse</TM_Fire_ElementalR_Corpse.description>
 
 
   <!-- Fire Elemental -->
@@ -78,11 +73,10 @@
   <TM_GreaterFire_ElementalR.tools.0.label>左臂</TM_GreaterFire_ElementalR.tools.0.label>
   <TM_GreaterFire_ElementalR.tools.1.label>右臂</TM_GreaterFire_ElementalR.tools.1.label>
   <TM_GreaterFire_ElementalR.tools.2.label>角</TM_GreaterFire_ElementalR.tools.2.label>
-  <TM_GreaterFire_ElementalR.race.meatLabel>元素尘埃</TM_GreaterFire_ElementalR.race.meatLabel>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_GreaterFire_ElementalR.label>大型火元素尸体</Corpse_TM_GreaterFire_ElementalR.label>
-  <Corpse_TM_GreaterFire_ElementalR.description>大型火元素尸体</Corpse_TM_GreaterFire_ElementalR.description>
+  <TM_GreaterFire_ElementalR_Corpse.label>Greater Fire Elemental corpse</TM_GreaterFire_ElementalR_Corpse.label>
+  <TM_GreaterFire_ElementalR_Corpse.description>Greater Fire Elemental corpse</TM_GreaterFire_ElementalR_Corpse.description>
 
 
   <!-- Water Elemental -->
@@ -92,11 +86,10 @@
   <TM_LesserWater_ElementalR.tools.0.label>左臂</TM_LesserWater_ElementalR.tools.0.label>
   <TM_LesserWater_ElementalR.tools.1.label>右臂</TM_LesserWater_ElementalR.tools.1.label>
   <TM_LesserWater_ElementalR.tools.2.label>角</TM_LesserWater_ElementalR.tools.2.label>
-  <TM_LesserWater_ElementalR.race.meatLabel>元素尘埃</TM_LesserWater_ElementalR.race.meatLabel>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_LesserWater_ElementalR.label>小型水元素尸体</Corpse_TM_LesserWater_ElementalR.label>
-  <Corpse_TM_LesserWater_ElementalR.description>小型水元素尸体</Corpse_TM_LesserWater_ElementalR.description>
+  <TM_LesserWater_ElementalR_Corpse.label>Lesser Water Elemental corpse</TM_LesserWater_ElementalR_Corpse.label>
+  <TM_LesserWater_ElementalR_Corpse.description>Lesser Water Elemental corpse</TM_LesserWater_ElementalR_Corpse.description>
 
 
   <!-- Water Elemental -->
@@ -106,11 +99,10 @@
   <TM_Water_ElementalR.tools.0.label>左臂</TM_Water_ElementalR.tools.0.label>
   <TM_Water_ElementalR.tools.1.label>右臂</TM_Water_ElementalR.tools.1.label>
   <TM_Water_ElementalR.tools.2.label>角</TM_Water_ElementalR.tools.2.label>
-  <TM_Water_ElementalR.race.meatLabel>元素尘埃</TM_Water_ElementalR.race.meatLabel>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_Water_ElementalR.label>水元素尸体</Corpse_TM_Water_ElementalR.label>
-  <Corpse_TM_Water_ElementalR.description>水元素尸体</Corpse_TM_Water_ElementalR.description>
+  <TM_Water_ElementalR_Corpse.label>Water Elemental corpse</TM_Water_ElementalR_Corpse.label>
+  <TM_Water_ElementalR_Corpse.description>Water Elemental corpse</TM_Water_ElementalR_Corpse.description>
 
 
   <!-- Water Elemental -->
@@ -120,11 +112,10 @@
   <TM_GreaterWater_ElementalR.tools.0.label>左臂</TM_GreaterWater_ElementalR.tools.0.label>
   <TM_GreaterWater_ElementalR.tools.1.label>右臂</TM_GreaterWater_ElementalR.tools.1.label>
   <TM_GreaterWater_ElementalR.tools.2.label>角</TM_GreaterWater_ElementalR.tools.2.label>
-  <TM_GreaterWater_ElementalR.race.meatLabel>元素尘埃</TM_GreaterWater_ElementalR.race.meatLabel>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_GreaterWater_ElementalR.label>大型水元素尸体</Corpse_TM_GreaterWater_ElementalR.label>
-  <Corpse_TM_GreaterWater_ElementalR.description>大型水元素尸体</Corpse_TM_GreaterWater_ElementalR.description>
+  <TM_GreaterWater_ElementalR_Corpse.label>Greater Water Elemental corpse</TM_GreaterWater_ElementalR_Corpse.label>
+  <TM_GreaterWater_ElementalR_Corpse.description>Greater Water Elemental corpse</TM_GreaterWater_ElementalR_Corpse.description>
 
 
   <!-- Wind Elemental -->
@@ -134,11 +125,10 @@
   <TM_LesserWind_ElementalR.tools.0.label>左臂</TM_LesserWind_ElementalR.tools.0.label>
   <TM_LesserWind_ElementalR.tools.1.label>右臂</TM_LesserWind_ElementalR.tools.1.label>
   <TM_LesserWind_ElementalR.tools.2.label>角</TM_LesserWind_ElementalR.tools.2.label>
-  <TM_LesserWind_ElementalR.race.meatLabel>元素尘埃</TM_LesserWind_ElementalR.race.meatLabel>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_LesserWind_ElementalR.label>小型风元素尸体</Corpse_TM_LesserWind_ElementalR.label>
-  <Corpse_TM_LesserWind_ElementalR.description>小型风元素尸体</Corpse_TM_LesserWind_ElementalR.description>
+  <TM_LesserWind_ElementalR_Corpse.label>Lesser Wind Elemental corpse</TM_LesserWind_ElementalR_Corpse.label>
+  <TM_LesserWind_ElementalR_Corpse.description>Lesser Wind Elemental corpse</TM_LesserWind_ElementalR_Corpse.description>
 
 
   <!-- Wind Elemental -->
@@ -148,11 +138,10 @@
   <TM_Wind_ElementalR.tools.0.label>左臂</TM_Wind_ElementalR.tools.0.label>
   <TM_Wind_ElementalR.tools.1.label>右臂</TM_Wind_ElementalR.tools.1.label>
   <TM_Wind_ElementalR.tools.2.label>角</TM_Wind_ElementalR.tools.2.label>
-  <TM_Wind_ElementalR.race.meatLabel>元素尘埃</TM_Wind_ElementalR.race.meatLabel>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_Wind_ElementalR.label>风元素尸体</Corpse_TM_Wind_ElementalR.label>
-  <Corpse_TM_Wind_ElementalR.description>风元素尸体</Corpse_TM_Wind_ElementalR.description>
+  <TM_Wind_ElementalR_Corpse.label>Wind Elemental corpse</TM_Wind_ElementalR_Corpse.label>
+  <TM_Wind_ElementalR_Corpse.description>Wind Elemental corpse</TM_Wind_ElementalR_Corpse.description>
 
 
   <!-- Wind Elemental -->
@@ -162,11 +151,47 @@
   <TM_GreaterWind_ElementalR.tools.0.label>左臂</TM_GreaterWind_ElementalR.tools.0.label>
   <TM_GreaterWind_ElementalR.tools.1.label>右臂</TM_GreaterWind_ElementalR.tools.1.label>
   <TM_GreaterWind_ElementalR.tools.2.label>角</TM_GreaterWind_ElementalR.tools.2.label>
-  <TM_GreaterWind_ElementalR.race.meatLabel>元素尘埃</TM_GreaterWind_ElementalR.race.meatLabel>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_GreaterWind_ElementalR.label>大型风元素尸体</Corpse_TM_GreaterWind_ElementalR.label>
-  <Corpse_TM_GreaterWind_ElementalR.description>大型风元素尸体</Corpse_TM_GreaterWind_ElementalR.description>
+  <TM_GreaterWind_ElementalR_Corpse.label>Greater Wind Elemental corpse</TM_GreaterWind_ElementalR_Corpse.label>
+  <TM_GreaterWind_ElementalR_Corpse.description>Greater Wind Elemental corpse</TM_GreaterWind_ElementalR_Corpse.description>
 
+
+  <!--<TM_LesserEarth_ElementalR.race.meatLabel>元素尘埃</TM_LesserEarth_ElementalR.race.meatLabel>-->
+  <!--<Corpse_TM_LesserEarth_ElementalR.label>小型土元素尸体</Corpse_TM_LesserEarth_ElementalR.label>-->
+  <!--<Corpse_TM_LesserEarth_ElementalR.description>小型土元素尸体</Corpse_TM_LesserEarth_ElementalR.description>-->
+  <!--<TM_Earth_ElementalR.race.meatLabel>元素尘埃</TM_Earth_ElementalR.race.meatLabel>-->
+  <!--<Corpse_TM_Earth_ElementalR.label>土元素尸体</Corpse_TM_Earth_ElementalR.label>-->
+  <!--<Corpse_TM_Earth_ElementalR.description>土元素尸体</Corpse_TM_Earth_ElementalR.description>-->
+  <!--<TM_GreaterEarth_ElementalR.race.meatLabel>元素尘埃</TM_GreaterEarth_ElementalR.race.meatLabel>-->
+  <!--<Corpse_TM_GreaterEarth_ElementalR.label>大型土元素尸体</Corpse_TM_GreaterEarth_ElementalR.label>-->
+  <!--<Corpse_TM_GreaterEarth_ElementalR.description>大型土元素尸体</Corpse_TM_GreaterEarth_ElementalR.description>-->
+  <!--<TM_LesserFire_ElementalR.race.meatLabel>元素尘埃</TM_LesserFire_ElementalR.race.meatLabel>-->
+  <!--<Corpse_TM_LesserFire_ElementalR.label>小型火元素尸体</Corpse_TM_LesserFire_ElementalR.label>-->
+  <!--<Corpse_TM_LesserFire_ElementalR.description>小型火元素尸体</Corpse_TM_LesserFire_ElementalR.description>-->
+  <!--<TM_Fire_ElementalR.race.meatLabel>元素尘埃</TM_Fire_ElementalR.race.meatLabel>-->
+  <!--<Corpse_TM_Fire_ElementalR.label>火元素尸体</Corpse_TM_Fire_ElementalR.label>-->
+  <!--<Corpse_TM_Fire_ElementalR.description>火元素尸体</Corpse_TM_Fire_ElementalR.description>-->
+  <!--<TM_GreaterFire_ElementalR.race.meatLabel>元素尘埃</TM_GreaterFire_ElementalR.race.meatLabel>-->
+  <!--<Corpse_TM_GreaterFire_ElementalR.label>大型火元素尸体</Corpse_TM_GreaterFire_ElementalR.label>-->
+  <!--<Corpse_TM_GreaterFire_ElementalR.description>大型火元素尸体</Corpse_TM_GreaterFire_ElementalR.description>-->
+  <!--<TM_LesserWater_ElementalR.race.meatLabel>元素尘埃</TM_LesserWater_ElementalR.race.meatLabel>-->
+  <!--<Corpse_TM_LesserWater_ElementalR.label>小型水元素尸体</Corpse_TM_LesserWater_ElementalR.label>-->
+  <!--<Corpse_TM_LesserWater_ElementalR.description>小型水元素尸体</Corpse_TM_LesserWater_ElementalR.description>-->
+  <!--<TM_Water_ElementalR.race.meatLabel>元素尘埃</TM_Water_ElementalR.race.meatLabel>-->
+  <!--<Corpse_TM_Water_ElementalR.label>水元素尸体</Corpse_TM_Water_ElementalR.label>-->
+  <!--<Corpse_TM_Water_ElementalR.description>水元素尸体</Corpse_TM_Water_ElementalR.description>-->
+  <!--<TM_GreaterWater_ElementalR.race.meatLabel>元素尘埃</TM_GreaterWater_ElementalR.race.meatLabel>-->
+  <!--<Corpse_TM_GreaterWater_ElementalR.label>大型水元素尸体</Corpse_TM_GreaterWater_ElementalR.label>-->
+  <!--<Corpse_TM_GreaterWater_ElementalR.description>大型水元素尸体</Corpse_TM_GreaterWater_ElementalR.description>-->
+  <!--<TM_LesserWind_ElementalR.race.meatLabel>元素尘埃</TM_LesserWind_ElementalR.race.meatLabel>-->
+  <!--<Corpse_TM_LesserWind_ElementalR.label>小型风元素尸体</Corpse_TM_LesserWind_ElementalR.label>-->
+  <!--<Corpse_TM_LesserWind_ElementalR.description>小型风元素尸体</Corpse_TM_LesserWind_ElementalR.description>-->
+  <!--<TM_Wind_ElementalR.race.meatLabel>元素尘埃</TM_Wind_ElementalR.race.meatLabel>-->
+  <!--<Corpse_TM_Wind_ElementalR.label>风元素尸体</Corpse_TM_Wind_ElementalR.label>-->
+  <!--<Corpse_TM_Wind_ElementalR.description>风元素尸体</Corpse_TM_Wind_ElementalR.description>-->
+  <!--<TM_GreaterWind_ElementalR.race.meatLabel>元素尘埃</TM_GreaterWind_ElementalR.race.meatLabel>-->
+  <!--<Corpse_TM_GreaterWind_ElementalR.label>大型风元素尸体</Corpse_TM_GreaterWind_ElementalR.label>-->
+  <!--<Corpse_TM_GreaterWind_ElementalR.description>大型风元素尸体</Corpse_TM_GreaterWind_ElementalR.description>-->
 
 </LanguageData>

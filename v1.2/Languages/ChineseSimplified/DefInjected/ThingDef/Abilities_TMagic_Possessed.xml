@@ -3,23 +3,23 @@
 
   <!-- Spirit Possession -->
 
-  <Projectile_SpiritPossession.label>灵魂入侵</Projectile_SpiritPossession.label>
+  <!--<Projectile_SpiritPossession.label>灵魂入侵</Projectile_SpiritPossession.label>-->
 
 
   <!-- Distort Spirit -->
 
-  <Projectile_DistortSpirit.label>灵魂扭曲</Projectile_DistortSpirit.label>
+  <!--<Projectile_DistortSpirit.label>灵魂扭曲</Projectile_DistortSpirit.label>-->
 
 
   <!-- Summon Spirit Animal -->
 
-  <Projectile_SummonSpiritAnimals.label>召唤灵魂动物</Projectile_SummonSpiritAnimals.label>
+  <!--<Projectile_SummonSpiritAnimals.label>召唤灵魂动物</Projectile_SummonSpiritAnimals.label>-->
 
 
   <!-- Spirit Storm -->
 
-  <Projectile_SpiritStorm.label>灵魂风暴</Projectile_SpiritStorm.label>
-  <FlyingObject_SpiritStorm.label>灵魂风暴</FlyingObject_SpiritStorm.label>
+  <!--<Projectile_SpiritStorm.label>灵魂风暴</Projectile_SpiritStorm.label>-->
+  <!--<FlyingObject_SpiritStorm.label>灵魂风暴</FlyingObject_SpiritStorm.label>-->
 
 
 </LanguageData>

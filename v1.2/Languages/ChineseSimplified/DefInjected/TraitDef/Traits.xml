@@ -10,18 +10,6 @@
   <TM_BoundlessTD.degreeDatas.0.label>&lt;color=#FF00FF&gt;无边无际&lt;/color&gt;</TM_BoundlessTD.degreeDatas.0.label>
   <TM_BoundlessTD.degreeDatas.0.description>[PAWN_nameDef]擅长战斗,能比其他人能够更频繁地执行40%的战技,但是 [PAWN_possessive] 天赋令[PAWN_pronoun]变得十分傲慢,[PAWN_possessive]经验增益减少了25%,其他战士十分厌恶[PAWN_nameDef] </TM_BoundlessTD.degreeDatas.0.description>
 
-  <TM_FaeBloodTD.degreeDatas.0.label>&lt;color=#A6FFFF&gt;精灵血脉&lt;/color&gt;</TM_FaeBloodTD.degreeDatas.0.label>
-  <TM_FaeBloodTD.degreeDatas.0.description>[PAWN_nameDef] 是精灵族的后裔,与奥术有着天然的联系。 [PAWN_possessive] 法术抗性降低40%,但法力回复和最大法力提高20%,同时法术消耗降低10%。</TM_FaeBloodTD.degreeDatas.0.description>
-
-  <TM_GiantsBloodTD.degreeDatas.0.label>&lt;color=#A6FFFF&gt;巨人后裔&lt;/color&gt;</TM_GiantsBloodTD.degreeDatas.0.label>
-  <TM_GiantsBloodTD.degreeDatas.0.description>[PAWN_nameDef] 是巨人的后裔,被赋予了巨大的力量和耐力,尽管恢复缓慢。 最大耐力增加80%,但耐力回复减少40%。 使用近战武器或出拳时的任何攻击造成额外25%的伤害。</TM_GiantsBloodTD.degreeDatas.0.description>
-
-  <TM_EnlightenedTD.degreeDatas.0.label>&lt;color=#A6FFFF&gt;先哲&lt;/color&gt;</TM_EnlightenedTD.degreeDatas.0.label>
-  <TM_EnlightenedTD.degreeDatas.0.description>[PAWN_nameDef] 天生受到魔法的祝福,能够利用它的力量而不受所有副作用的影响。 心灵敏感性增加50%,任何魔法技能的使用只会导致一半的法力空虚。 </TM_EnlightenedTD.degreeDatas.0.description>
-
-  <TM_CursedTD.degreeDatas.0.label>&lt;color=#A6FFFF&gt;受诅咒者&lt;/color&gt;</TM_CursedTD.degreeDatas.0.label>
-  <TM_CursedTD.degreeDatas.0.description>[PAWN_nameDef] 曾经被魔法所诅咒：持续被 [PAWN_possessive] 内在的魔法能量所折磨,时刻紧绷着精神,并且只能通过消耗自身的法力才可获得缓解。奥术诅咒会慢慢积累,最终会出现精神错乱。使用通常会导致奥术虚弱的魔法能力将会相应地减少奥术诅咒,以及抵消诅咒的效果。</TM_CursedTD.degreeDatas.0.description>
-
   <TM_OKWithDeath.degreeDatas.0.label>&lt;color=#DCDCDC&gt;亡灵&lt;/color&gt;</TM_OKWithDeath.degreeDatas.0.label>
   <TM_OKWithDeath.degreeDatas.0.description>[PAWN_nameDef]已经在轮回中感受到了生命的真谛,当[PAWN_pronoun]目睹生命消逝时再也不会感到沮丧。</TM_OKWithDeath.degreeDatas.0.description>
 
@@ -30,9 +18,6 @@
 
   <TM_Gifted.degreeDatas.0.label>&lt;color=#5CADAD&gt;魔法天赋&lt;/color&gt;</TM_Gifted.degreeDatas.0.label>
   <TM_Gifted.degreeDatas.0.description>[PAWN_nameDef]拥有与生俱来的魔法天赋,[PAWN_pronoun]可以通过学习卷轴中的知识而成为一名高贵的法师。</TM_Gifted.degreeDatas.0.description>
-
-  <TM_Empath.degreeDatas.0.label>&lt;color=#FF00FF&gt;读心师&lt;/color&gt;</TM_Empath.degreeDatas.0.label>
-  <TM_Empath.degreeDatas.0.description>[PAWN_nameDef] 是一名读心师,能够感觉到和操纵周围人的情绪。[PAWN_possessive] 能力与魔法紧密相关,同时也影响着[PAWN_objective] 的内在。通过训练,[PAWN_nameDef] 可以成为一个熟练的魔法使用者。好坏与否,读心师师有一种非常强烈的共感能力,可以很容易地读懂别人的内在；读心能力的有效性与是否能够攻克他人的心理防线密切相关。</TM_Empath.degreeDatas.0.description>
 
   <TM_Wanderer.degreeDatas.0.label>&lt;color=#330000&gt;流浪者&lt;/color&gt;</TM_Wanderer.degreeDatas.0.label>
   <TM_Wanderer.degreeDatas.0.description>[PAWN_nameDef] 是一名流浪者；一名被遗弃的混血法师,经常被称为树篱法师。[PAWN_possessive]无忧无虑的个性让他没有特定的法术.相反[PAWN_pronoun] 学会了提高大量的通用法术 [PAWN_objective] 更喜欢开放的道路,如果在远征队会提升心情,任何远征队内有一个流浪者将会无视山带来的减速。然而,如果流浪者在殖民地停留太久,他们会受到情绪惩罚。</TM_Wanderer.degreeDatas.0.description>
@@ -112,15 +97,6 @@
   <TM_Shaman.degreeDatas.0.label>&lt;color=#330099&gt;萨满&lt;/color&gt;</TM_Shaman.degreeDatas.0.label>
   <TM_Shaman.degreeDatas.0.description>与大多数法师相比,萨满对奥术魔法采取了一种更为和谐的沟通方法,选择一条与魔法的涨落相结合的道路来抵消或加强自然秩序。,[PAWN_nameDef]是灵魂领域的一部分,与自然及其元素协调。</TM_Shaman.degreeDatas.0.description>
 
-  <TM_Golemancer.degreeDatas.0.label>&lt;color=#A6FFFF&gt;傀儡师&lt;/color&gt;</TM_Golemancer.degreeDatas.0.label>
-  <TM_Golemancer.degreeDatas.0.description>傀儡师使喜欢通过强大的符文和秘符来编织他们的魔法,这些符文和秘符能够将目标转化为一个物体。[PAWN_nameDef] 也不例外；[PAWN_pronoun] 可以创造符文,增强基本机械,改变生物中的化学物质,并将奇特材料制作成栩栩如生的怪物,他们发现直接将法力转化为能量更困难,而通过秘符引导魔法时效率会多很多；他们拥有比一般人更高的魔法抗性。大多数傀儡使认为研究石头比人更有趣,也不太关心清洁。</TM_Golemancer.degreeDatas.0.description>
-
-  <TM_Possessed.degreeDatas.0.label>&lt;color=#696969&gt;幽魂行者&lt;/color&gt;</TM_Possessed.degreeDatas.0.label>
-  <TM_Possessed.degreeDatas.0.description>[PAWN_nameDef]的身体被另一个灵魂入侵。当一个身体拥有两个灵魂时,会产生冲突。如果特性一致,这种冲突可以减少,但如果特性相反,这种冲突会进一步加剧,直至完美融合,成为幽魂行者。如果占据死人的身体,不会发生这种冲突,但会慢慢消耗灵魂能量。灵魂能量可以通过冥想、吸收物理伤害和灵魂虹吸来回复。</TM_Possessed.degreeDatas.0.description>
-
-  <TM_Possessor.degreeDatas.0.label>&lt;color=#696969&gt;幽魂&lt;/color&gt;</TM_Possessor.degreeDatas.0.label>
-  <TM_Possessor.degreeDatas.0.description>[PAWN_nameDef]的身体被另一个典当的精神居住。在典当中拥有的灵魂会造成内部冲突,因为两个灵魂之间的身体的功能是在两个灵魂之间共享的。如果个性保持一致,则可以减少这种冲突,但如果对比对比,这种冲突将进一步加剧。拥有死者的典当不会遇到精神冲突,但会慢慢耗尽拥有精神的能量。可以通过冥想或吸收来充电精神。</TM_Possessor.degreeDatas.0.description>
-
 
   <!-- Might Classes -->
 
@@ -129,9 +105,6 @@
 
   <TM_Wayfarer.degreeDatas.0.label>&lt;color=#646464&gt;旅行者&lt;/color&gt;</TM_Wayfarer.degreeDatas.0.label>
   <TM_Wayfarer.degreeDatas.0.description>[PAWN_nameDef]是一名旅行者；一名斗士,擅长诡计和肮脏的战斗。[PAWN_possessive] 有无忧无虑的个性 让他没有特定的战技.相反 [PAWN_pronoun] 学会了提高大量的通用战技[PAWN_objective] 可以适应任何情况。[PAWN_objective]更喜欢开放的道路,如果在远征队会提升心情,任何远征队内有一个旅行者将会提高25%的旅行速度。然而,如果旅行者在殖民地停留太久,他们会受到情绪惩罚。</TM_Wayfarer.degreeDatas.0.description>
-
-  <TM_Apothecary.degreeDatas.0.label>&lt;color=#009900&gt;药剂师&lt;/color&gt;</TM_Apothecary.degreeDatas.0.label>
-  <TM_Apothecary.degreeDatas.0.description>[PAWN_nameDef] 是一名药剂师,在草本、香脂、酊剂和药物方面受过训练。 [PAWN_possessive] 职业具有无私的奉献精神与严格的操守,同时 [PAWN_pronoun] 已经学会应用 [PAWN_possessive] 的各项技能,尽管现在还不精通。通过相应训练,[PAWN_pronoun] 可以在实战中磨练 [PAWN_possessive]技能。</TM_Apothecary.degreeDatas.0.description>
 
   <Gladiator.degreeDatas.0.label>&lt;color=#8080C0&gt;斗士&lt;/color&gt;</Gladiator.degreeDatas.0.label>
   <Gladiator.degreeDatas.0.description>[PAWN_nameDef]曾经学习过角斗士的战斗机巧。</Gladiator.degreeDatas.0.description>
@@ -181,5 +154,24 @@
   <TM_SuperSoldier.degreeDatas.0.label>&lt;color=#8080C0&gt;超级士兵&lt;/color&gt;</TM_SuperSoldier.degreeDatas.0.label>
   <TM_SuperSoldier.degreeDatas.0.description>[PAWN_nameDef]是一名训练有素的士兵,擅长手枪、散弹枪或来复枪。武器专精可以通过一套标准的战斗训练来增强。超级战士被训练成具有攻击性,认为暴力是解决任何争论的唯一方法。</TM_SuperSoldier.degreeDatas.0.description>
 
+
+  <!--<TM_FaeBloodTD.degreeDatas.0.label>&lt;color=#A6FFFF&gt;精灵血脉&lt;/color&gt;</TM_FaeBloodTD.degreeDatas.0.label>-->
+  <!--<TM_FaeBloodTD.degreeDatas.0.description>[PAWN_nameDef] 是精灵族的后裔,与奥术有着天然的联系。 [PAWN_possessive] 法术抗性降低40%,但法力回复和最大法力提高20%,同时法术消耗降低10%。</TM_FaeBloodTD.degreeDatas.0.description>-->
+  <!--<TM_GiantsBloodTD.degreeDatas.0.label>&lt;color=#A6FFFF&gt;巨人后裔&lt;/color&gt;</TM_GiantsBloodTD.degreeDatas.0.label>-->
+  <!--<TM_GiantsBloodTD.degreeDatas.0.description>[PAWN_nameDef] 是巨人的后裔,被赋予了巨大的力量和耐力,尽管恢复缓慢。 最大耐力增加80%,但耐力回复减少40%。 使用近战武器或出拳时的任何攻击造成额外25%的伤害。</TM_GiantsBloodTD.degreeDatas.0.description>-->
+  <!--<TM_EnlightenedTD.degreeDatas.0.label>&lt;color=#A6FFFF&gt;先哲&lt;/color&gt;</TM_EnlightenedTD.degreeDatas.0.label>-->
+  <!--<TM_EnlightenedTD.degreeDatas.0.description>[PAWN_nameDef] 天生受到魔法的祝福,能够利用它的力量而不受所有副作用的影响。 心灵敏感性增加50%,任何魔法技能的使用只会导致一半的法力空虚。 </TM_EnlightenedTD.degreeDatas.0.description>-->
+  <!--<TM_CursedTD.degreeDatas.0.label>&lt;color=#A6FFFF&gt;受诅咒者&lt;/color&gt;</TM_CursedTD.degreeDatas.0.label>-->
+  <!--<TM_CursedTD.degreeDatas.0.description>[PAWN_nameDef] 曾经被魔法所诅咒：持续被 [PAWN_possessive] 内在的魔法能量所折磨,时刻紧绷着精神,并且只能通过消耗自身的法力才可获得缓解。奥术诅咒会慢慢积累,最终会出现精神错乱。使用通常会导致奥术虚弱的魔法能力将会相应地减少奥术诅咒,以及抵消诅咒的效果。</TM_CursedTD.degreeDatas.0.description>-->
+  <!--<TM_Empath.degreeDatas.0.label>&lt;color=#FF00FF&gt;读心师&lt;/color&gt;</TM_Empath.degreeDatas.0.label>-->
+  <!--<TM_Empath.degreeDatas.0.description>[PAWN_nameDef] 是一名读心师,能够感觉到和操纵周围人的情绪。[PAWN_possessive] 能力与魔法紧密相关,同时也影响着[PAWN_objective] 的内在。通过训练,[PAWN_nameDef] 可以成为一个熟练的魔法使用者。好坏与否,读心师师有一种非常强烈的共感能力,可以很容易地读懂别人的内在；读心能力的有效性与是否能够攻克他人的心理防线密切相关。</TM_Empath.degreeDatas.0.description>-->
+  <!--<TM_Golemancer.degreeDatas.0.label>&lt;color=#A6FFFF&gt;傀儡师&lt;/color&gt;</TM_Golemancer.degreeDatas.0.label>-->
+  <!--<TM_Golemancer.degreeDatas.0.description>傀儡师使喜欢通过强大的符文和秘符来编织他们的魔法,这些符文和秘符能够将目标转化为一个物体。[PAWN_nameDef] 也不例外；[PAWN_pronoun] 可以创造符文,增强基本机械,改变生物中的化学物质,并将奇特材料制作成栩栩如生的怪物,他们发现直接将法力转化为能量更困难,而通过秘符引导魔法时效率会多很多；他们拥有比一般人更高的魔法抗性。大多数傀儡使认为研究石头比人更有趣,也不太关心清洁。</TM_Golemancer.degreeDatas.0.description>-->
+  <!--<TM_Possessed.degreeDatas.0.label>&lt;color=#696969&gt;幽魂行者&lt;/color&gt;</TM_Possessed.degreeDatas.0.label>-->
+  <!--<TM_Possessed.degreeDatas.0.description>[PAWN_nameDef]的身体被另一个灵魂入侵。当一个身体拥有两个灵魂时,会产生冲突。如果特性一致,这种冲突可以减少,但如果特性相反,这种冲突会进一步加剧,直至完美融合,成为幽魂行者。如果占据死人的身体,不会发生这种冲突,但会慢慢消耗灵魂能量。灵魂能量可以通过冥想、吸收物理伤害和灵魂虹吸来回复。</TM_Possessed.degreeDatas.0.description>-->
+  <!--<TM_Possessor.degreeDatas.0.label>&lt;color=#696969&gt;幽魂&lt;/color&gt;</TM_Possessor.degreeDatas.0.label>-->
+  <!--<TM_Possessor.degreeDatas.0.description>[PAWN_nameDef]的身体被另一个典当的精神居住。在典当中拥有的灵魂会造成内部冲突,因为两个灵魂之间的身体的功能是在两个灵魂之间共享的。如果个性保持一致,则可以减少这种冲突,但如果对比对比,这种冲突将进一步加剧。拥有死者的典当不会遇到精神冲突,但会慢慢耗尽拥有精神的能量。可以通过冥想或吸收来充电精神。</TM_Possessor.degreeDatas.0.description>-->
+  <!--<TM_Apothecary.degreeDatas.0.label>&lt;color=#009900&gt;药剂师&lt;/color&gt;</TM_Apothecary.degreeDatas.0.label>-->
+  <!--<TM_Apothecary.degreeDatas.0.description>[PAWN_nameDef] 是一名药剂师,在草本、香脂、酊剂和药物方面受过训练。 [PAWN_possessive] 职业具有无私的奉献精神与严格的操守,同时 [PAWN_pronoun] 已经学会应用 [PAWN_possessive] 的各项技能,尽管现在还不精通。通过相应训练,[PAWN_pronoun] 可以在实战中磨练 [PAWN_possessive]技能。</TM_Apothecary.degreeDatas.0.description>-->
 
 </LanguageData>

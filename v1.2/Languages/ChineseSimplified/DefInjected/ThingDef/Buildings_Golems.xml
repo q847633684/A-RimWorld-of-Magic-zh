@@ -1,88 +1,88 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TM_MechaGolem_Workstation.label>休眠的机械傀儡</TM_MechaGolem_Workstation.label>
-  <TM_MechaGolem_Workstation.description>休眠的机械傀儡。机械傀儡的设计将工业工程与魔法属性相结合，使它的结构栩栩如生。这个傀儡可以利用现有的电网来加快充能速度。除了携带某人和清洁等基本任务外，机械傀儡还可以配备采矿激光，以快速钻穿可开采的岩石。机械傀儡将工业和简单武器及装甲结合到它的武器库中。\n\n在休眠期间，傀儡可以会被修改或升级。机械傀儡会自行进行缓慢充能，但获得电源将提高充能速度。当电力不足时，傀儡也可以向电网提供能量。</TM_MechaGolem_Workstation.description>
-  <Blueprint_Install_TM_MechaGolem_Workstation.label>休眠的机械傀儡 (蓝图)</Blueprint_Install_TM_MechaGolem_Workstation.label>
+  <!--<TM_MechaGolem_Workstation.label>休眠的机械傀儡</TM_MechaGolem_Workstation.label>-->
+  <!--<TM_MechaGolem_Workstation.description>休眠的机械傀儡。机械傀儡的设计将工业工程与魔法属性相结合，使它的结构栩栩如生。这个傀儡可以利用现有的电网来加快充能速度。除了携带某人和清洁等基本任务外，机械傀儡还可以配备采矿激光，以快速钻穿可开采的岩石。机械傀儡将工业和简单武器及装甲结合到它的武器库中。\n\n在休眠期间，傀儡可以会被修改或升级。机械傀儡会自行进行缓慢充能，但获得电源将提高充能速度。当电力不足时，傀儡也可以向电网提供能量。</TM_MechaGolem_Workstation.description>-->
+  <!--<Blueprint_Install_TM_MechaGolem_Workstation.label>休眠的机械傀儡 (蓝图)</Blueprint_Install_TM_MechaGolem_Workstation.label>-->
 
-  <TM_UnfinishedMechaGolem.label>未完成的机械傀儡</TM_UnfinishedMechaGolem.label>
-  <TM_UnfinishedMechaGolem.description>未完成的机械傀儡</TM_UnfinishedMechaGolem.description>
+  <!--<TM_UnfinishedMechaGolem.label>未完成的机械傀儡</TM_UnfinishedMechaGolem.label>-->
+  <!--<TM_UnfinishedMechaGolem.description>未完成的机械傀儡</TM_UnfinishedMechaGolem.description>-->
 
-  <TM_UnfinishedMechaGolemUpgrade.label>未完成的机械傀儡升级</TM_UnfinishedMechaGolemUpgrade.label>
-  <TM_UnfinishedMechaGolemUpgrade.description>未完成的机械傀儡升级</TM_UnfinishedMechaGolemUpgrade.description>
+  <!--<TM_UnfinishedMechaGolemUpgrade.label>未完成的机械傀儡升级</TM_UnfinishedMechaGolemUpgrade.label>-->
+  <!--<TM_UnfinishedMechaGolemUpgrade.description>未完成的机械傀儡升级</TM_UnfinishedMechaGolemUpgrade.description>-->
 
-  <TM_FleshGolem_Workstation.label>休眠的血肉傀儡</TM_FleshGolem_Workstation.label>
-  <TM_FleshGolem_Workstation.description>休眠的血肉傀儡。血肉傀儡是一种类似两足动物的有机物质，主要由死去生物的身体部位组成。血肉傀儡是一个可怕的战士，拥有各种各样的攻击和能力来进一步提高其杀伤力。除了搬运和清洁等基本任务外，血肉傀儡还可以使用附带的切割器收割树木或植物\n\n休眠期间，傀儡可以会被修改或升级。血肉傀儡会自己缓慢地重新充能，但提供新鲜的肉会增加能量的充能速度。</TM_FleshGolem_Workstation.description>
-  <Blueprint_Install_TM_FleshGolem_Workstation.label>休眠的空洞傀儡 (蓝图)</Blueprint_Install_TM_FleshGolem_Workstation.label>
+  <!--<TM_FleshGolem_Workstation.label>休眠的血肉傀儡</TM_FleshGolem_Workstation.label>-->
+  <!--<TM_FleshGolem_Workstation.description>休眠的血肉傀儡。血肉傀儡是一种类似两足动物的有机物质，主要由死去生物的身体部位组成。血肉傀儡是一个可怕的战士，拥有各种各样的攻击和能力来进一步提高其杀伤力。除了搬运和清洁等基本任务外，血肉傀儡还可以使用附带的切割器收割树木或植物\n\n休眠期间，傀儡可以会被修改或升级。血肉傀儡会自己缓慢地重新充能，但提供新鲜的肉会增加能量的充能速度。</TM_FleshGolem_Workstation.description>-->
+  <!--<Blueprint_Install_TM_FleshGolem_Workstation.label>休眠的空洞傀儡 (蓝图)</Blueprint_Install_TM_FleshGolem_Workstation.label>-->
 
-  <TM_UnfinishedFleshGolem.label>未完成的血肉傀儡</TM_UnfinishedFleshGolem.label>
-  <TM_UnfinishedFleshGolem.description>未完成的血肉傀儡</TM_UnfinishedFleshGolem.description>
+  <!--<TM_UnfinishedFleshGolem.label>未完成的血肉傀儡</TM_UnfinishedFleshGolem.label>-->
+  <!--<TM_UnfinishedFleshGolem.description>未完成的血肉傀儡</TM_UnfinishedFleshGolem.description>-->
 
-  <TM_UnfinishedFleshGolemUpgrade.label>未完成的血肉傀儡升级</TM_UnfinishedFleshGolemUpgrade.label>
-  <TM_UnfinishedFleshGolemUpgrade.description>未完成的血肉傀儡升级</TM_UnfinishedFleshGolemUpgrade.description>
+  <!--<TM_UnfinishedFleshGolemUpgrade.label>未完成的血肉傀儡升级</TM_UnfinishedFleshGolemUpgrade.label>-->
+  <!--<TM_UnfinishedFleshGolemUpgrade.description>未完成的血肉傀儡升级</TM_UnfinishedFleshGolemUpgrade.description>-->
 
-  <TM_HollowGolem_Workstation.label>休眠的空洞傀儡</TM_HollowGolem_Workstation.label>
-  <TM_HollowGolem_Workstation.description>休眠的空洞傀儡。空洞傀儡是一种法力聚合体，并用各种盔甲捆绑在它身上以保护它。在休眠状态下，空洞傀儡看起来像一套空盔甲。这个傀儡吸取周围环境的法力来为自己提供能量，这会导致所有法师的法力恢复速度降低，甚至降到负数。这种降低加上现有的法师数量和现有的潘希斑构成总体法力回复速度。除了搬运和清洁等基本任务外，空洞傀儡还变成一种设施，以提供光线、增加研究速度，并充当迫击炮。作为一个充满活力的法力生物，他们能够驾驭多种形式的魔法能量，而不受那些人类法师使用魔法的副作用的影响。\n\n休眠期间，傀儡可以被修改或升级。空洞傀儡自己会缓慢地充能，但可以通过切换状态来从附近的法师那里吸取法力。</TM_HollowGolem_Workstation.description>
-  <Blueprint_Install_TM_HollowGolem_Workstation.label>休眠的空洞傀儡 (蓝图)</Blueprint_Install_TM_HollowGolem_Workstation.label>
+  <!--<TM_HollowGolem_Workstation.label>休眠的空洞傀儡</TM_HollowGolem_Workstation.label>-->
+  <!--<TM_HollowGolem_Workstation.description>休眠的空洞傀儡。空洞傀儡是一种法力聚合体，并用各种盔甲捆绑在它身上以保护它。在休眠状态下，空洞傀儡看起来像一套空盔甲。这个傀儡吸取周围环境的法力来为自己提供能量，这会导致所有法师的法力恢复速度降低，甚至降到负数。这种降低加上现有的法师数量和现有的潘希斑构成总体法力回复速度。除了搬运和清洁等基本任务外，空洞傀儡还变成一种设施，以提供光线、增加研究速度，并充当迫击炮。作为一个充满活力的法力生物，他们能够驾驭多种形式的魔法能量，而不受那些人类法师使用魔法的副作用的影响。\n\n休眠期间，傀儡可以被修改或升级。空洞傀儡自己会缓慢地充能，但可以通过切换状态来从附近的法师那里吸取法力。</TM_HollowGolem_Workstation.description>-->
+  <!--<Blueprint_Install_TM_HollowGolem_Workstation.label>休眠的空洞傀儡 (蓝图)</Blueprint_Install_TM_HollowGolem_Workstation.label>-->
 
-  <TM_UnfinishedHollowGolem.label>未完成的空洞傀儡</TM_UnfinishedHollowGolem.label>
-  <TM_UnfinishedHollowGolem.description>未完成的空洞傀儡</TM_UnfinishedHollowGolem.description>
+  <!--<TM_UnfinishedHollowGolem.label>未完成的空洞傀儡</TM_UnfinishedHollowGolem.label>-->
+  <!--<TM_UnfinishedHollowGolem.description>未完成的空洞傀儡</TM_UnfinishedHollowGolem.description>-->
 
-  <TM_UnfinishedHollowGolemUpgrade.label>未完成的空洞傀儡升级</TM_UnfinishedHollowGolemUpgrade.label>
-  <TM_UnfinishedHollowGolemUpgrade.description>未完成的空洞傀儡升级</TM_UnfinishedHollowGolemUpgrade.description>
+  <!--<TM_UnfinishedHollowGolemUpgrade.label>未完成的空洞傀儡升级</TM_UnfinishedHollowGolemUpgrade.label>-->
+  <!--<TM_UnfinishedHollowGolemUpgrade.description>未完成的空洞傀儡升级</TM_UnfinishedHollowGolemUpgrade.description>-->
 
-  <TM_StoneGolem_Workstation.label>休眠的巨岩傀儡</TM_StoneGolem_Workstation.label>
-  <TM_StoneGolem_Workstation.description>休眠的巨岩傀儡，利用傀儡学的基本原理，将将岩石和石头做成人形的简单构造物。 尽管简单而廉价，巨岩傀儡是未经精炼的，并严重依赖魔法符文的移动。岩石的质量和对魔法力量的依赖使石傀儡缓慢，但很难摧毁。 在其休眠状态下，石像可以通过一个岩石魔炉将岩石压碎并将其塑造成砖块。 这个过程需要能量和石头块被放置到傀儡中。\n	\n休眠期间，傀儡可以被修改或升级。空洞傀儡自己会缓慢地充能，需要10秒钟才能被激活</TM_StoneGolem_Workstation.description>
-  <Blueprint_Install_TM_StoneGolem_Workstation.label>休眠的巨岩傀儡 (蓝图)</Blueprint_Install_TM_StoneGolem_Workstation.label>
+  <!--<TM_StoneGolem_Workstation.label>休眠的巨岩傀儡</TM_StoneGolem_Workstation.label>-->
+  <!--<TM_StoneGolem_Workstation.description>休眠的巨岩傀儡，利用傀儡学的基本原理，将将岩石和石头做成人形的简单构造物。 尽管简单而廉价，巨岩傀儡是未经精炼的，并严重依赖魔法符文的移动。岩石的质量和对魔法力量的依赖使石傀儡缓慢，但很难摧毁。 在其休眠状态下，石像可以通过一个岩石魔炉将岩石压碎并将其塑造成砖块。 这个过程需要能量和石头块被放置到傀儡中。\n	\n休眠期间，傀儡可以被修改或升级。空洞傀儡自己会缓慢地充能，需要10秒钟才能被激活</TM_StoneGolem_Workstation.description>-->
+  <!--<Blueprint_Install_TM_StoneGolem_Workstation.label>休眠的巨岩傀儡 (蓝图)</Blueprint_Install_TM_StoneGolem_Workstation.label>-->
 
-  <TM_UnfinishedStoneGolem.label>未完成的巨岩傀儡</TM_UnfinishedStoneGolem.label>
-  <TM_UnfinishedStoneGolem.description>未完成的巨岩傀儡。</TM_UnfinishedStoneGolem.description>
+  <!--<TM_UnfinishedStoneGolem.label>未完成的巨岩傀儡</TM_UnfinishedStoneGolem.label>-->
+  <!--<TM_UnfinishedStoneGolem.description>未完成的巨岩傀儡。</TM_UnfinishedStoneGolem.description>-->
 
-  <TM_UnfinishedStoneGolemUpgrade.label>未完成的巨岩傀儡升级</TM_UnfinishedStoneGolemUpgrade.label>
-  <TM_UnfinishedStoneGolemUpgrade.description>未完成的巨岩傀儡升级，</TM_UnfinishedStoneGolemUpgrade.description>
+  <!--<TM_UnfinishedStoneGolemUpgrade.label>未完成的巨岩傀儡升级</TM_UnfinishedStoneGolemUpgrade.label>-->
+  <!--<TM_UnfinishedStoneGolemUpgrade.description>未完成的巨岩傀儡升级，</TM_UnfinishedStoneGolemUpgrade.description>-->
 
-  <TM_MaharalGolem_Workstation.label>休眠的马哈拉尔傀儡</TM_MaharalGolem_Workstation.label>
-  <TM_MaharalGolem_Workstation.description>休眠的马哈拉尔傀儡，利用傀儡学的基本原理，将将粘土皮革等材料做成人形的简单构造物。马哈拉傀儡能够完成基本任务和防御。 在休眠状态下，马哈拉傀儡可以被强化以提供少量的热量。\n	\n休眠期间，傀儡可以被修改或升级。空洞傀儡自己会缓慢地充能，需要5秒钟才能被激活</TM_MaharalGolem_Workstation.description>
-  <Blueprint_Install_TM_MaharalGolem_Workstation.label>休眠的马哈拉尔傀儡（蓝图）</Blueprint_Install_TM_MaharalGolem_Workstation.label>
+  <!--<TM_MaharalGolem_Workstation.label>休眠的马哈拉尔傀儡</TM_MaharalGolem_Workstation.label>-->
+  <!--<TM_MaharalGolem_Workstation.description>休眠的马哈拉尔傀儡，利用傀儡学的基本原理，将将粘土皮革等材料做成人形的简单构造物。马哈拉傀儡能够完成基本任务和防御。 在休眠状态下，马哈拉傀儡可以被强化以提供少量的热量。\n	\n休眠期间，傀儡可以被修改或升级。空洞傀儡自己会缓慢地充能，需要5秒钟才能被激活</TM_MaharalGolem_Workstation.description>-->
+  <!--<Blueprint_Install_TM_MaharalGolem_Workstation.label>休眠的马哈拉尔傀儡（蓝图）</Blueprint_Install_TM_MaharalGolem_Workstation.label>-->
 
-  <TM_UnfinishedMaharalGolem.label>未完成的马哈拉尔傀儡</TM_UnfinishedMaharalGolem.label>
-  <TM_UnfinishedMaharalGolem.description>未完成的马哈拉尔傀儡</TM_UnfinishedMaharalGolem.description>
+  <!--<TM_UnfinishedMaharalGolem.label>未完成的马哈拉尔傀儡</TM_UnfinishedMaharalGolem.label>-->
+  <!--<TM_UnfinishedMaharalGolem.description>未完成的马哈拉尔傀儡</TM_UnfinishedMaharalGolem.description>-->
 
-  <TM_UnfinishedMaharalGolemUpgrade.label>未完成的马哈拉尔傀儡升级</TM_UnfinishedMaharalGolemUpgrade.label>
-  <TM_UnfinishedMaharalGolemUpgrade.description>未完成的马哈拉尔傀儡升级</TM_UnfinishedMaharalGolemUpgrade.description>
+  <!--<TM_UnfinishedMaharalGolemUpgrade.label>未完成的马哈拉尔傀儡升级</TM_UnfinishedMaharalGolemUpgrade.label>-->
+  <!--<TM_UnfinishedMaharalGolemUpgrade.description>未完成的马哈拉尔傀儡升级</TM_UnfinishedMaharalGolemUpgrade.description>-->
 
-  <TM_StrawGolem_Workstation.label>休眠的稻草傀儡</TM_StrawGolem_Workstation.label>
-  <TM_StrawGolem_Workstation.description>稻草傀儡应用了傀儡术的基本原理，是由木材和干草制成的人形形状的简单结构。稻草傀儡简单又便宜，适合在田野里播种新作物。它的重量轻，结构材料灵活，使其成为保持殖民地没有碎片的绝佳傀儡，但非常易燃。稻草傀儡可以促进附近植物在活跃和休眠状态下的生长
-当休眠时，傀儡可以被修改或升级。稻草傀儡会自行缓慢补充能量。该傀儡最多需要 3 秒才能激活。</TM_StrawGolem_Workstation.description>
-  <Blueprint_Install_TM_StrawGolem_Workstation.label>休眠稻草傀儡（蓝图）</Blueprint_Install_TM_StrawGolem_Workstation.label>
+  <!--<TM_StrawGolem_Workstation.label>休眠的稻草傀儡</TM_StrawGolem_Workstation.label>-->
+  <!--<TM_StrawGolem_Workstation.description>稻草傀儡应用了傀儡术的基本原理，是由木材和干草制成的人形形状的简单结构。稻草傀儡简单又便宜，适合在田野里播种新作物。它的重量轻，结构材料灵活，使其成为保持殖民地没有碎片的绝佳傀儡，但非常易燃。稻草傀儡可以促进附近植物在活跃和休眠状态下的生长
+当休眠时，傀儡可以被修改或升级。稻草傀儡会自行缓慢补充能量。该傀儡最多需要 3 秒才能激活。</TM_StrawGolem_Workstation.description>-->
+  <!--<Blueprint_Install_TM_StrawGolem_Workstation.label>休眠稻草傀儡（蓝图）</Blueprint_Install_TM_StrawGolem_Workstation.label>-->
 
-  <TM_UnfinishedStrawGolem.label>未完成的稻草傀儡</TM_UnfinishedStrawGolem.label>
-  <TM_UnfinishedStrawGolem.description>未完成的稻草傀儡。</TM_UnfinishedStrawGolem.description>
+  <!--<TM_UnfinishedStrawGolem.label>未完成的稻草傀儡</TM_UnfinishedStrawGolem.label>-->
+  <!--<TM_UnfinishedStrawGolem.description>未完成的稻草傀儡。</TM_UnfinishedStrawGolem.description>-->
 
-  <TM_UnfinishedStrawGolemUpgrade.label>未完成的稻草傀儡升级</TM_UnfinishedStrawGolemUpgrade.label>
-  <TM_UnfinishedStrawGolemUpgrade.description>未完成的稻草傀儡升级。</TM_UnfinishedStrawGolemUpgrade.description>
+  <!--<TM_UnfinishedStrawGolemUpgrade.label>未完成的稻草傀儡升级</TM_UnfinishedStrawGolemUpgrade.label>-->
+  <!--<TM_UnfinishedStrawGolemUpgrade.description>未完成的稻草傀儡升级。</TM_UnfinishedStrawGolemUpgrade.description>-->
 
-  <TM_WoodGolem_Workstation.label>休眠木傀儡</TM_WoodGolem_Workstation.label>
-  <TM_WoodGolem_Workstation.description>木傀儡应用了傀儡术的基本原理，是由木材、石头和钢制成的空心球形的简单结构。木傀儡的框架包裹着一个魔法核心。木傀儡能够进行基本的制作、动物护理、烹饪和药物合成。木傀儡简单且廉价的结构使其能够在殖民地的早期阶段发挥多种作用，但效率低下且容易被摧毁。
-当休眠时，傀儡可以被修改或升级。木傀儡会自行缓慢补充能量。该傀儡最多需要 4 秒才能激活。</TM_WoodGolem_Workstation.description>
-  <Blueprint_Install_TM_WoodGolem_Workstation.label>休眠木傀儡（蓝图）</Blueprint_Install_TM_WoodGolem_Workstation.label>
+  <!--<TM_WoodGolem_Workstation.label>休眠木傀儡</TM_WoodGolem_Workstation.label>-->
+  <!--<TM_WoodGolem_Workstation.description>木傀儡应用了傀儡术的基本原理，是由木材、石头和钢制成的空心球形的简单结构。木傀儡的框架包裹着一个魔法核心。木傀儡能够进行基本的制作、动物护理、烹饪和药物合成。木傀儡简单且廉价的结构使其能够在殖民地的早期阶段发挥多种作用，但效率低下且容易被摧毁。
+当休眠时，傀儡可以被修改或升级。木傀儡会自行缓慢补充能量。该傀儡最多需要 4 秒才能激活。</TM_WoodGolem_Workstation.description>-->
+  <!--<Blueprint_Install_TM_WoodGolem_Workstation.label>休眠木傀儡（蓝图）</Blueprint_Install_TM_WoodGolem_Workstation.label>-->
 
-  <TM_UnfinishedWoodGolem.label>未完成的木傀儡</TM_UnfinishedWoodGolem.label>
-  <TM_UnfinishedWoodGolem.description>未完成的木傀儡。</TM_UnfinishedWoodGolem.description>
+  <!--<TM_UnfinishedWoodGolem.label>未完成的木傀儡</TM_UnfinishedWoodGolem.label>-->
+  <!--<TM_UnfinishedWoodGolem.description>未完成的木傀儡。</TM_UnfinishedWoodGolem.description>-->
 
-  <TM_UnfinishedWoodGolemUpgrade.label>未完成的木傀儡升级</TM_UnfinishedWoodGolemUpgrade.label>
-  <TM_UnfinishedWoodGolemUpgrade.description>未完成的木傀儡升级。</TM_UnfinishedWoodGolemUpgrade.description>
+  <!--<TM_UnfinishedWoodGolemUpgrade.label>未完成的木傀儡升级</TM_UnfinishedWoodGolemUpgrade.label>-->
+  <!--<TM_UnfinishedWoodGolemUpgrade.description>未完成的木傀儡升级。</TM_UnfinishedWoodGolemUpgrade.description>-->
 
-  <TM_SilkGolem_Workstation.label>休眠的丝绸傀儡</TM_SilkGolem_Workstation.label>
-  <TM_SilkGolem_Workstation.description>丝绸傀儡应用傀儡术的基本原理，是由布料和丝绸制成的简单结构，使其形状不确定但柔韧。丝傀儡的主要功能是看守和社会任务，但它们不受保护的形式使它们成为苦役或战斗的糟糕选择。
-当休眠时，傀儡可以被修改或升级。丝傀儡会自行缓慢补充能量。该傀儡最多需要 2 秒才能激活。</TM_SilkGolem_Workstation.description>
-  <Blueprint_Install_TM_SilkGolem_Workstation.label>休眠丝绸傀儡（蓝图）</Blueprint_Install_TM_SilkGolem_Workstation.label>
+  <!--<TM_SilkGolem_Workstation.label>休眠的丝绸傀儡</TM_SilkGolem_Workstation.label>-->
+  <!--<TM_SilkGolem_Workstation.description>丝绸傀儡应用傀儡术的基本原理，是由布料和丝绸制成的简单结构，使其形状不确定但柔韧。丝傀儡的主要功能是看守和社会任务，但它们不受保护的形式使它们成为苦役或战斗的糟糕选择。
+当休眠时，傀儡可以被修改或升级。丝傀儡会自行缓慢补充能量。该傀儡最多需要 2 秒才能激活。</TM_SilkGolem_Workstation.description>-->
+  <!--<Blueprint_Install_TM_SilkGolem_Workstation.label>休眠丝绸傀儡（蓝图）</Blueprint_Install_TM_SilkGolem_Workstation.label>-->
 
-  <TM_UnfinishedSilkGolem.label>未完成的丝绸傀儡</TM_UnfinishedSilkGolem.label>
-  <TM_UnfinishedSilkGolem.description>未完成的丝绸傀儡。</TM_UnfinishedSilkGolem.description>
+  <!--<TM_UnfinishedSilkGolem.label>未完成的丝绸傀儡</TM_UnfinishedSilkGolem.label>-->
+  <!--<TM_UnfinishedSilkGolem.description>未完成的丝绸傀儡。</TM_UnfinishedSilkGolem.description>-->
 
-  <TM_UnfinishedSilkGolemUpgrade.label>未完成的丝傀儡升级</TM_UnfinishedSilkGolemUpgrade.label>
-  <TM_UnfinishedSilkGolemUpgrade.description>未完成的丝绸傀儡升级。</TM_UnfinishedSilkGolemUpgrade.description>
+  <!--<TM_UnfinishedSilkGolemUpgrade.label>未完成的丝傀儡升级</TM_UnfinishedSilkGolemUpgrade.label>-->
+  <!--<TM_UnfinishedSilkGolemUpgrade.description>未完成的丝绸傀儡升级。</TM_UnfinishedSilkGolemUpgrade.description>-->
 
 
 </LanguageData>

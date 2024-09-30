@@ -1,46 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TM_BullChargeHD.label>冲锋</TM_BullChargeHD.label>
-  <TM_BullChargeHD.description>冲向战场。</TM_BullChargeHD.description>
-  <TM_BullChargeHD.stages.0.label></TM_BullChargeHD.stages.0.label>
+  <!--<TM_BullChargeHD.label>冲锋</TM_BullChargeHD.label>-->
+  <!--<TM_BullChargeHD.description>冲向战场。</TM_BullChargeHD.description>-->
+  <!--<TM_BullChargeHD.stages.0.label></TM_BullChargeHD.stages.0.label>-->
 
-  <TM_FrailtyCurseHD.label>被诅咒</TM_FrailtyCurseHD.label>
-  <TM_FrailtyCurseHD.description>一只邪恶的眼睛注视着他，这是一种诅咒。</TM_FrailtyCurseHD.description>
-  <TM_FrailtyCurseHD.stages.0.label>虚弱</TM_FrailtyCurseHD.stages.0.label>
-  <TM_FrailtyCurseHD.stages.1.label>受损</TM_FrailtyCurseHD.stages.1.label>
+  <!--<TM_FrailtyCurseHD.label>被诅咒</TM_FrailtyCurseHD.label>-->
+  <!--<TM_FrailtyCurseHD.description>一只邪恶的眼睛注视着他，这是一种诅咒。</TM_FrailtyCurseHD.description>-->
+  <!--<TM_FrailtyCurseHD.stages.0.label>虚弱</TM_FrailtyCurseHD.stages.0.label>-->
+  <!--<TM_FrailtyCurseHD.stages.1.label>受损</TM_FrailtyCurseHD.stages.1.label>-->
 
-  <TM_FleshGolem_SkullPlateHD.label>颅板</TM_FleshGolem_SkullPlateHD.label>
-  <TM_FleshGolem_SkullPlateHD.description>提高颅部周围的护甲。</TM_FleshGolem_SkullPlateHD.description>
-  <TM_FleshGolem_SkullPlateHD.stages.0.label></TM_FleshGolem_SkullPlateHD.stages.0.label>
+  <!--<TM_FleshGolem_SkullPlateHD.label>颅板</TM_FleshGolem_SkullPlateHD.label>-->
+  <!--<TM_FleshGolem_SkullPlateHD.description>提高颅部周围的护甲。</TM_FleshGolem_SkullPlateHD.description>-->
+  <!--<TM_FleshGolem_SkullPlateHD.stages.0.label></TM_FleshGolem_SkullPlateHD.stages.0.label>-->
 
-  <TM_FleshGolem_ShoulderPlatesHD.label>肩板</TM_FleshGolem_ShoulderPlatesHD.label>
-  <TM_FleshGolem_ShoulderPlatesHD.description>提高肩部周围的护甲。</TM_FleshGolem_ShoulderPlatesHD.description>
-  <TM_FleshGolem_ShoulderPlatesHD.stages.0.label></TM_FleshGolem_ShoulderPlatesHD.stages.0.label>
+  <!--<TM_FleshGolem_ShoulderPlatesHD.label>肩板</TM_FleshGolem_ShoulderPlatesHD.label>-->
+  <!--<TM_FleshGolem_ShoulderPlatesHD.description>提高肩部周围的护甲。</TM_FleshGolem_ShoulderPlatesHD.description>-->
+  <!--<TM_FleshGolem_ShoulderPlatesHD.stages.0.label></TM_FleshGolem_ShoulderPlatesHD.stages.0.label>-->
 
-  <TM_FleshGolem_ChestCageHD.label>胸笼</TM_FleshGolem_ChestCageHD.label>
-  <TM_FleshGolem_ChestCageHD.description>转移对胸部和躯干的攻击，对大型武器攻击效果最好。</TM_FleshGolem_ChestCageHD.description>
-  <TM_FleshGolem_ChestCageHD.stages.0.label></TM_FleshGolem_ChestCageHD.stages.0.label>
+  <!--<TM_FleshGolem_ChestCageHD.label>胸笼</TM_FleshGolem_ChestCageHD.label>-->
+  <!--<TM_FleshGolem_ChestCageHD.description>转移对胸部和躯干的攻击，对大型武器攻击效果最好。</TM_FleshGolem_ChestCageHD.description>-->
+  <!--<TM_FleshGolem_ChestCageHD.stages.0.label></TM_FleshGolem_ChestCageHD.stages.0.label>-->
 
-  <TM_FleshGolem_SpineGuardHD.label>脊柱保护</TM_FleshGolem_SpineGuardHD.label>
-  <TM_FleshGolem_SpineGuardHD.description>转移对背部的攻击</TM_FleshGolem_SpineGuardHD.description>
-  <TM_FleshGolem_SpineGuardHD.stages.0.label></TM_FleshGolem_SpineGuardHD.stages.0.label>
+  <!--<TM_FleshGolem_SpineGuardHD.label>脊柱保护</TM_FleshGolem_SpineGuardHD.label>-->
+  <!--<TM_FleshGolem_SpineGuardHD.description>转移对背部的攻击</TM_FleshGolem_SpineGuardHD.description>-->
+  <!--<TM_FleshGolem_SpineGuardHD.stages.0.label></TM_FleshGolem_SpineGuardHD.stages.0.label>-->
 
-  <TM_FleshGolem_LegPlatesHD.label>腿板</TM_FleshGolem_LegPlatesHD.label>
-  <TM_FleshGolem_LegPlatesHD.description>提高腿部周围的护甲。</TM_FleshGolem_LegPlatesHD.description>
-  <TM_FleshGolem_LegPlatesHD.stages.0.label></TM_FleshGolem_LegPlatesHD.stages.0.label>
+  <!--<TM_FleshGolem_LegPlatesHD.label>腿板</TM_FleshGolem_LegPlatesHD.label>-->
+  <!--<TM_FleshGolem_LegPlatesHD.description>提高腿部周围的护甲。</TM_FleshGolem_LegPlatesHD.description>-->
+  <!--<TM_FleshGolem_LegPlatesHD.stages.0.label></TM_FleshGolem_LegPlatesHD.stages.0.label>-->
 
-  <TM_FleshGolem_BracerGuardHD.label>护腕</TM_FleshGolem_BracerGuardHD.label>
-  <TM_FleshGolem_BracerGuardHD.description>概率阻止攻击</TM_FleshGolem_BracerGuardHD.description>
-  <TM_FleshGolem_BracerGuardHD.stages.0.label></TM_FleshGolem_BracerGuardHD.stages.0.label>
+  <!--<TM_FleshGolem_BracerGuardHD.label>护腕</TM_FleshGolem_BracerGuardHD.label>-->
+  <!--<TM_FleshGolem_BracerGuardHD.description>概率阻止攻击</TM_FleshGolem_BracerGuardHD.description>-->
+  <!--<TM_FleshGolem_BracerGuardHD.stages.0.label></TM_FleshGolem_BracerGuardHD.stages.0.label>-->
 
-  <TM_FleshGolem_HasteHD.label>迅捷</TM_FleshGolem_HasteHD.label>
-  <TM_FleshGolem_HasteHD.description>翅膀赋予迅捷。</TM_FleshGolem_HasteHD.description>
-  <TM_FleshGolem_HasteHD.stages.0.label></TM_FleshGolem_HasteHD.stages.0.label>
+  <!--<TM_FleshGolem_HasteHD.label>迅捷</TM_FleshGolem_HasteHD.label>-->
+  <!--<TM_FleshGolem_HasteHD.description>翅膀赋予迅捷。</TM_FleshGolem_HasteHD.description>-->
+  <!--<TM_FleshGolem_HasteHD.stages.0.label></TM_FleshGolem_HasteHD.stages.0.label>-->
 
-  <TM_FleshGolem_EyesT1HD.label>四视</TM_FleshGolem_EyesT1HD.label>
-  <TM_FleshGolem_EyesT1HD.description>用四只眼睛可以提高视力。</TM_FleshGolem_EyesT1HD.description>
-  <TM_FleshGolem_EyesT1HD.stages.0.label></TM_FleshGolem_EyesT1HD.stages.0.label>
+  <!--<TM_FleshGolem_EyesT1HD.label>四视</TM_FleshGolem_EyesT1HD.label>-->
+  <!--<TM_FleshGolem_EyesT1HD.description>用四只眼睛可以提高视力。</TM_FleshGolem_EyesT1HD.description>-->
+  <!--<TM_FleshGolem_EyesT1HD.stages.0.label></TM_FleshGolem_EyesT1HD.stages.0.label>-->
 
 
 </LanguageData>

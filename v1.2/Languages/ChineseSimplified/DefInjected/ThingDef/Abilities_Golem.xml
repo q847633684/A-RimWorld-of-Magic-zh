@@ -3,8 +3,8 @@
 
   <!-- Blazing Power -->
 
-  <Projectile_BlazingEnergy.label>炽热的力量</Projectile_BlazingEnergy.label>
-  <Projectile_FireBlossomBolt.label>烈火箭</Projectile_FireBlossomBolt.label>
+  <!--<Projectile_BlazingEnergy.label>炽热的力量</Projectile_BlazingEnergy.label>-->
+  <!--<Projectile_FireBlossomBolt.label>烈火箭</Projectile_FireBlossomBolt.label>-->
 
 
   <!-- <TorannMagic.TMDefs.TM_GolemAbilityDef>
@@ -60,7 +60,7 @@
 	</autocasting>
   </TorannMagic.TMDefs.TM_GolemAbilityDef> -->
 
-  <Projectile_IceBlossomBolt.label>寒冰箭</Projectile_IceBlossomBolt.label>
+  <!--<Projectile_IceBlossomBolt.label>寒冰箭</Projectile_IceBlossomBolt.label>-->
 
 
   <!-- <TorannMagic.TMDefs.TM_GolemAbilityDef>
@@ -116,8 +116,8 @@
 	</autocasting>
   </TorannMagic.TMDefs.TM_GolemAbilityDef> -->
 
-  <Projectile_DarkBolt.label>黑暗箭</Projectile_DarkBolt.label>
-  <Projectile_ReverseShield.label>反向护盾</Projectile_ReverseShield.label>
+  <!--<Projectile_DarkBolt.label>黑暗箭</Projectile_DarkBolt.label>-->
+  <!--<Projectile_ReverseShield.label>反向护盾</Projectile_ReverseShield.label>-->
 
 
   <!-- <TorannMagic.TMDefs.TM_GolemAbilityDef>

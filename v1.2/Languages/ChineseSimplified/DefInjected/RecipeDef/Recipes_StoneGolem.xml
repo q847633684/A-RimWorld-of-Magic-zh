@@ -3,53 +3,53 @@
 
   <!-- Stone Golem upgrade recipes -->
 
-  <TM_StoneGolem_RepairBlock.label>部位修复</TM_StoneGolem_RepairBlock.label>
-  <TM_StoneGolem_RepairBlock.description>替换不需要升级的缺失傀儡部件。</TM_StoneGolem_RepairBlock.description>
-  <TM_StoneGolem_RepairBlock.jobString>部位修复</TM_StoneGolem_RepairBlock.jobString>
+  <!--<TM_StoneGolem_RepairBlock.label>部位修复</TM_StoneGolem_RepairBlock.label>-->
+  <!--<TM_StoneGolem_RepairBlock.description>替换不需要升级的缺失傀儡部件。</TM_StoneGolem_RepairBlock.description>-->
+  <!--<TM_StoneGolem_RepairBlock.jobString>部位修复</TM_StoneGolem_RepairBlock.jobString>-->
 
-  <TM_StoneGolem_EnergyMax.label>能量核心</TM_StoneGolem_EnergyMax.label>
-  <TM_StoneGolem_EnergyMax.description>创造一个能量核心，每个核心最大增加120蓄能上限。</TM_StoneGolem_EnergyMax.description>
-  <TM_StoneGolem_EnergyMax.jobString>制造能量核心</TM_StoneGolem_EnergyMax.jobString>
+  <!--<TM_StoneGolem_EnergyMax.label>能量核心</TM_StoneGolem_EnergyMax.label>-->
+  <!--<TM_StoneGolem_EnergyMax.description>创造一个能量核心，每个核心最大增加120蓄能上限。</TM_StoneGolem_EnergyMax.description>-->
+  <!--<TM_StoneGolem_EnergyMax.jobString>制造能量核心</TM_StoneGolem_EnergyMax.jobString>-->
 
-  <TM_StoneGolem_EnergyConverter.label>功率转化</TM_StoneGolem_EnergyConverter.label>
-  <TM_StoneGolem_EnergyConverter.description>增加傀儡吸收和使用能量的效率10%。</TM_StoneGolem_EnergyConverter.description>
-  <TM_StoneGolem_EnergyConverter.jobString>能量功率升级</TM_StoneGolem_EnergyConverter.jobString>
+  <!--<TM_StoneGolem_EnergyConverter.label>功率转化</TM_StoneGolem_EnergyConverter.label>-->
+  <!--<TM_StoneGolem_EnergyConverter.description>增加傀儡吸收和使用能量的效率10%。</TM_StoneGolem_EnergyConverter.description>-->
+  <!--<TM_StoneGolem_EnergyConverter.jobString>能量功率升级</TM_StoneGolem_EnergyConverter.jobString>-->
 
-  <TM_StoneGolem_EnergyRegen.label>能量再生</TM_StoneGolem_EnergyRegen.label>
-  <TM_StoneGolem_EnergyRegen.description>每小时增加傀儡4点的能量回复速度。</TM_StoneGolem_EnergyRegen.description>
-  <TM_StoneGolem_EnergyRegen.jobString>能量再生</TM_StoneGolem_EnergyRegen.jobString>
+  <!--<TM_StoneGolem_EnergyRegen.label>能量再生</TM_StoneGolem_EnergyRegen.label>-->
+  <!--<TM_StoneGolem_EnergyRegen.description>每小时增加傀儡4点的能量回复速度。</TM_StoneGolem_EnergyRegen.description>-->
+  <!--<TM_StoneGolem_EnergyRegen.jobString>能量再生</TM_StoneGolem_EnergyRegen.jobString>-->
 
-  <TM_StoneGolem_Armor.label>淬火</TM_StoneGolem_Armor.label>
-  <TM_StoneGolem_Armor.description>每次升级都会增加傀儡的护甲:  \n钝器:	+4%\n利器:	+11%\n热能:	+6%</TM_StoneGolem_Armor.description>
-  <TM_StoneGolem_Armor.jobString>淬火</TM_StoneGolem_Armor.jobString>
+  <!--<TM_StoneGolem_Armor.label>淬火</TM_StoneGolem_Armor.label>-->
+  <!--<TM_StoneGolem_Armor.description>每次升级都会增加傀儡的护甲:  \n钝器:	+4%\n利器:	+11%\n热能:	+6%</TM_StoneGolem_Armor.description>-->
+  <!--<TM_StoneGolem_Armor.jobString>淬火</TM_StoneGolem_Armor.jobString>-->
 
-  <TM_StoneGolem_LifeStage.label>重构</TM_StoneGolem_LifeStage.label>
-  <TM_StoneGolem_LifeStage.description>每次升级都会增加傀儡的性能 [1,2,3]:\n移动速度:	+[10/20/30]%\n生名字:		+[40/70/100]%</TM_StoneGolem_LifeStage.description>
-  <TM_StoneGolem_LifeStage.jobString>重构</TM_StoneGolem_LifeStage.jobString>
+  <!--<TM_StoneGolem_LifeStage.label>重构</TM_StoneGolem_LifeStage.label>-->
+  <!--<TM_StoneGolem_LifeStage.description>每次升级都会增加傀儡的性能 [1,2,3]:\n移动速度:	+[10/20/30]%\n生名字:		+[40/70/100]%</TM_StoneGolem_LifeStage.description>-->
+  <!--<TM_StoneGolem_LifeStage.jobString>重构</TM_StoneGolem_LifeStage.jobString>-->
 
-  <TM_StoneGolem_Compactor.label>岩石魔炉</TM_StoneGolem_Compactor.label>
-  <TM_StoneGolem_Compactor.description>傀儡利用体内的岩石魔炉能够将石头研磨成可用的块砖。</TM_StoneGolem_Compactor.description>
-  <TM_StoneGolem_Compactor.jobString>装载</TM_StoneGolem_Compactor.jobString>
+  <!--<TM_StoneGolem_Compactor.label>岩石魔炉</TM_StoneGolem_Compactor.label>-->
+  <!--<TM_StoneGolem_Compactor.description>傀儡利用体内的岩石魔炉能够将石头研磨成可用的块砖。</TM_StoneGolem_Compactor.description>-->
+  <!--<TM_StoneGolem_Compactor.jobString>装载</TM_StoneGolem_Compactor.jobString>-->
 
-  <TM_StoneGolem_SandstoneBricks.label>研磨砂岩</TM_StoneGolem_SandstoneBricks.label>
-  <TM_StoneGolem_SandstoneBricks.description>将砂岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_SandstoneBricks.description>
-  <TM_StoneGolem_SandstoneBricks.jobString>装载砂岩</TM_StoneGolem_SandstoneBricks.jobString>
+  <!--<TM_StoneGolem_SandstoneBricks.label>研磨砂岩</TM_StoneGolem_SandstoneBricks.label>-->
+  <!--<TM_StoneGolem_SandstoneBricks.description>将砂岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_SandstoneBricks.description>-->
+  <!--<TM_StoneGolem_SandstoneBricks.jobString>装载砂岩</TM_StoneGolem_SandstoneBricks.jobString>-->
 
-  <TM_StoneGolem_GraniteBricks.label>研磨花岗岩</TM_StoneGolem_GraniteBricks.label>
-  <TM_StoneGolem_GraniteBricks.description>将花岗岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_GraniteBricks.description>
-  <TM_StoneGolem_GraniteBricks.jobString>装载砂岩</TM_StoneGolem_GraniteBricks.jobString>
+  <!--<TM_StoneGolem_GraniteBricks.label>研磨花岗岩</TM_StoneGolem_GraniteBricks.label>-->
+  <!--<TM_StoneGolem_GraniteBricks.description>将花岗岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_GraniteBricks.description>-->
+  <!--<TM_StoneGolem_GraniteBricks.jobString>装载砂岩</TM_StoneGolem_GraniteBricks.jobString>-->
 
-  <TM_StoneGolem_LimestoneBricks.label>研磨石灰岩</TM_StoneGolem_LimestoneBricks.label>
-  <TM_StoneGolem_LimestoneBricks.description>将石灰岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_LimestoneBricks.description>
-  <TM_StoneGolem_LimestoneBricks.jobString>装载石灰岩</TM_StoneGolem_LimestoneBricks.jobString>
+  <!--<TM_StoneGolem_LimestoneBricks.label>研磨石灰岩</TM_StoneGolem_LimestoneBricks.label>-->
+  <!--<TM_StoneGolem_LimestoneBricks.description>将石灰岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_LimestoneBricks.description>-->
+  <!--<TM_StoneGolem_LimestoneBricks.jobString>装载石灰岩</TM_StoneGolem_LimestoneBricks.jobString>-->
 
-  <TM_StoneGolem_SlateBricks.label>研磨板岩</TM_StoneGolem_SlateBricks.label>
-  <TM_StoneGolem_SlateBricks.description>将板岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_SlateBricks.description>
-  <TM_StoneGolem_SlateBricks.jobString>装载板岩</TM_StoneGolem_SlateBricks.jobString>
+  <!--<TM_StoneGolem_SlateBricks.label>研磨板岩</TM_StoneGolem_SlateBricks.label>-->
+  <!--<TM_StoneGolem_SlateBricks.description>将板岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_SlateBricks.description>-->
+  <!--<TM_StoneGolem_SlateBricks.jobString>装载板岩</TM_StoneGolem_SlateBricks.jobString>-->
 
-  <TM_StoneGolem_MarbleBricks.label>研磨大理石</TM_StoneGolem_MarbleBricks.label>
-  <TM_StoneGolem_MarbleBricks.description>将大理石置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_MarbleBricks.description>
-  <TM_StoneGolem_MarbleBricks.jobString>装载大理石</TM_StoneGolem_MarbleBricks.jobString>
+  <!--<TM_StoneGolem_MarbleBricks.label>研磨大理石</TM_StoneGolem_MarbleBricks.label>-->
+  <!--<TM_StoneGolem_MarbleBricks.description>将大理石置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_MarbleBricks.description>-->
+  <!--<TM_StoneGolem_MarbleBricks.jobString>装载大理石</TM_StoneGolem_MarbleBricks.jobString>-->
 
 
 </LanguageData>

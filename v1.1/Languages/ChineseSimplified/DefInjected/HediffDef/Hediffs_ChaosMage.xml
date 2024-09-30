@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_ChaosTraditionHD.label>Chaotic Flux</TM_ChaosTraditionHD.label>
+  <TM_ChaosTraditionHD.description>Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.</TM_ChaosTraditionHD.description>
+  <TM_ChaosTraditionHD.stages.0.label>I</TM_ChaosTraditionHD.stages.0.label>
+  <TM_ChaosTraditionHD.stages.1.label>II</TM_ChaosTraditionHD.stages.1.label>
+  <TM_ChaosTraditionHD.stages.2.label>III</TM_ChaosTraditionHD.stages.2.label>
+
+  <TM_ChaoticMindHD.label>Chaotic Mind</TM_ChaoticMindHD.label>
+  <TM_ChaoticMindHD.description>Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.</TM_ChaoticMindHD.description>
+  <TM_ChaoticMindHD.stages.0.label>thought</TM_ChaoticMindHD.stages.0.label>
+
+  <TM_ControlledChaosHD.label>Controlled Chaos</TM_ControlledChaosHD.label>
+  <TM_ControlledChaosHD.description>Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.</TM_ControlledChaosHD.description>
+  <TM_ControlledChaosHD.stages.0.label>CHAOS</TM_ControlledChaosHD.stages.0.label>
+  <TM_ControlledChaosHD.stages.1.label></TM_ControlledChaosHD.stages.1.label>
+
+
+</LanguageData>

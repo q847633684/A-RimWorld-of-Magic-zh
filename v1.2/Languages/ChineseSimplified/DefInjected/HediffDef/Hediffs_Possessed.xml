@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TM_SpiritPossessorHD.label>灵魂</TM_SpiritPossessorHD.label>
-  <TM_SpiritPossessorHD.description>灵魂形态下，无法长时间在物质世界存在，会持续消耗其灵魂能量。</TM_SpiritPossessorHD.description>
-  <TM_SpiritPossessorHD.stages.0.label>I</TM_SpiritPossessorHD.stages.0.label>
-  <TM_SpiritPossessorHD.stages.1.label>II</TM_SpiritPossessorHD.stages.1.label>
-  <TM_SpiritPossessorHD.stages.2.label>III</TM_SpiritPossessorHD.stages.2.label>
-  <TM_SpiritPossessorHD.stages.3.label>IV</TM_SpiritPossessorHD.stages.3.label>
+  <!--<TM_SpiritPossessorHD.label>灵魂</TM_SpiritPossessorHD.label>-->
+  <!--<TM_SpiritPossessorHD.description>灵魂形态下，无法长时间在物质世界存在，会持续消耗其灵魂能量。</TM_SpiritPossessorHD.description>-->
+  <!--<TM_SpiritPossessorHD.stages.0.label>I</TM_SpiritPossessorHD.stages.0.label>-->
+  <!--<TM_SpiritPossessorHD.stages.1.label>II</TM_SpiritPossessorHD.stages.1.label>-->
+  <!--<TM_SpiritPossessorHD.stages.2.label>III</TM_SpiritPossessorHD.stages.2.label>-->
+  <!--<TM_SpiritPossessorHD.stages.3.label>IV</TM_SpiritPossessorHD.stages.3.label>-->
 
-  <TM_SpiritPossessionHD.label>灵魂融合</TM_SpiritPossessionHD.label>
-  <TM_SpiritPossessionHD.description>这具身体里有个外来的灵魂</TM_SpiritPossessionHD.description>
-  <TM_SpiritPossessionHD.stages.0.label>排斥</TM_SpiritPossessionHD.stages.0.label>
-  <TM_SpiritPossessionHD.stages.1.label>冲突</TM_SpiritPossessionHD.stages.1.label>
-  <TM_SpiritPossessionHD.stages.2.label>动荡</TM_SpiritPossessionHD.stages.2.label>
-  <TM_SpiritPossessionHD.stages.3.label>稳定</TM_SpiritPossessionHD.stages.3.label>
-  <TM_SpiritPossessionHD.stages.4.label>融合</TM_SpiritPossessionHD.stages.4.label>
-  <TM_SpiritPossessionHD.stages.5.label>完美</TM_SpiritPossessionHD.stages.5.label>
+  <!--<TM_SpiritPossessionHD.label>灵魂融合</TM_SpiritPossessionHD.label>-->
+  <!--<TM_SpiritPossessionHD.description>这具身体里有个外来的灵魂</TM_SpiritPossessionHD.description>-->
+  <!--<TM_SpiritPossessionHD.stages.0.label>排斥</TM_SpiritPossessionHD.stages.0.label>-->
+  <!--<TM_SpiritPossessionHD.stages.1.label>冲突</TM_SpiritPossessionHD.stages.1.label>-->
+  <!--<TM_SpiritPossessionHD.stages.2.label>动荡</TM_SpiritPossessionHD.stages.2.label>-->
+  <!--<TM_SpiritPossessionHD.stages.3.label>稳定</TM_SpiritPossessionHD.stages.3.label>-->
+  <!--<TM_SpiritPossessionHD.stages.4.label>融合</TM_SpiritPossessionHD.stages.4.label>-->
+  <!--<TM_SpiritPossessionHD.stages.5.label>完美</TM_SpiritPossessionHD.stages.5.label>-->
 
-  <TM_SpiritDrainHD.label>灵魂枯竭</TM_SpiritDrainHD.label>
-  <TM_SpiritDrainHD.description>该人物的灵魂能量枯竭，目前处境十分危险。</TM_SpiritDrainHD.description>
-  <TM_SpiritDrainHD.stages.0.label>恢复</TM_SpiritDrainHD.stages.0.label>
-  <TM_SpiritDrainHD.stages.1.label>轻微</TM_SpiritDrainHD.stages.1.label>
-  <TM_SpiritDrainHD.stages.2.label>低</TM_SpiritDrainHD.stages.2.label>
-  <TM_SpiritDrainHD.stages.3.label>普通</TM_SpiritDrainHD.stages.3.label>
-  <TM_SpiritDrainHD.stages.4.label>严重</TM_SpiritDrainHD.stages.4.label>
-  <TM_SpiritDrainHD.stages.5.label>致命</TM_SpiritDrainHD.stages.5.label>
+  <!--<TM_SpiritDrainHD.label>灵魂枯竭</TM_SpiritDrainHD.label>-->
+  <!--<TM_SpiritDrainHD.description>该人物的灵魂能量枯竭，目前处境十分危险。</TM_SpiritDrainHD.description>-->
+  <!--<TM_SpiritDrainHD.stages.0.label>恢复</TM_SpiritDrainHD.stages.0.label>-->
+  <!--<TM_SpiritDrainHD.stages.1.label>轻微</TM_SpiritDrainHD.stages.1.label>-->
+  <!--<TM_SpiritDrainHD.stages.2.label>低</TM_SpiritDrainHD.stages.2.label>-->
+  <!--<TM_SpiritDrainHD.stages.3.label>普通</TM_SpiritDrainHD.stages.3.label>-->
+  <!--<TM_SpiritDrainHD.stages.4.label>严重</TM_SpiritDrainHD.stages.4.label>-->
+  <!--<TM_SpiritDrainHD.stages.5.label>致命</TM_SpiritDrainHD.stages.5.label>-->
 
-  <TM_SpiritDistortionHD.label>灵魂排斥</TM_SpiritDistortionHD.label>
-  <TM_SpiritDistortionHD.description>由于是外来灵魂，无法与身体完全融合，导致这具身体身体目前很脆弱，自愈力和免疫力极低。</TM_SpiritDistortionHD.description>
-  <TM_SpiritDistortionHD.stages.0.label></TM_SpiritDistortionHD.stages.0.label>
+  <!--<TM_SpiritDistortionHD.label>灵魂排斥</TM_SpiritDistortionHD.label>-->
+  <!--<TM_SpiritDistortionHD.description>由于是外来灵魂，无法与身体完全融合，导致这具身体身体目前很脆弱，自愈力和免疫力极低。</TM_SpiritDistortionHD.description>-->
+  <!--<TM_SpiritDistortionHD.stages.0.label></TM_SpiritDistortionHD.stages.0.label>-->
 
 
 </LanguageData>

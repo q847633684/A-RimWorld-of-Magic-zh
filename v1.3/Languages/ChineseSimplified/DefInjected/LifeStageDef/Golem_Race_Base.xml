@@ -60,29 +60,20 @@
 
 
   <!-- STRAW GOLEM -->
-
-  <TM_StrawGolemLS.label>稻草傀儡</TM_StrawGolemLS.label>
-  <TM_StrawGolemLS1.label>稻草傀儡</TM_StrawGolemLS1.label>
-  <TM_StrawGolemLS2.label>稻草傀儡</TM_StrawGolemLS2.label>
-  <TM_StrawGolemLS3.label>稻草傀儡</TM_StrawGolemLS3.label>
-
-
+  <!--<TM_StrawGolemLS.label>稻草傀儡</TM_StrawGolemLS.label>-->
+  <!--<TM_StrawGolemLS1.label>稻草傀儡</TM_StrawGolemLS1.label>-->
+  <!--<TM_StrawGolemLS2.label>稻草傀儡</TM_StrawGolemLS2.label>-->
+  <!--<TM_StrawGolemLS3.label>稻草傀儡</TM_StrawGolemLS3.label>-->
   <!-- WOOD GOLEM -->
-
-  <TM_WoodGolemLS.label>木傀儡</TM_WoodGolemLS.label>
-  <TM_WoodGolemLS1.label>木傀儡</TM_WoodGolemLS1.label>
-  <TM_WoodGolemLS2.label>木傀儡</TM_WoodGolemLS2.label>
-  <TM_WoodGolemLS3.label>木傀儡</TM_WoodGolemLS3.label>
-
-
+  <!--<TM_WoodGolemLS.label>木傀儡</TM_WoodGolemLS.label>-->
+  <!--<TM_WoodGolemLS1.label>木傀儡</TM_WoodGolemLS1.label>-->
+  <!--<TM_WoodGolemLS2.label>木傀儡</TM_WoodGolemLS2.label>-->
+  <!--<TM_WoodGolemLS3.label>木傀儡</TM_WoodGolemLS3.label>-->
   <!-- SILK GOLEM -->
-
-  <TM_SilkGolemLS.label>丝绸傀儡</TM_SilkGolemLS.label>
-  <TM_SilkGolemLS1.label>丝绸傀儡</TM_SilkGolemLS1.label>
-  <TM_SilkGolemLS2.label>丝绸傀儡</TM_SilkGolemLS2.label>
-  <TM_SilkGolemLS3.label>丝绸傀儡</TM_SilkGolemLS3.label>
-
-
+  <!--<TM_SilkGolemLS.label>丝绸傀儡</TM_SilkGolemLS.label>-->
+  <!--<TM_SilkGolemLS1.label>丝绸傀儡</TM_SilkGolemLS1.label>-->
+  <!--<TM_SilkGolemLS2.label>丝绸傀儡</TM_SilkGolemLS2.label>-->
+  <!--<TM_SilkGolemLS3.label>丝绸傀儡</TM_SilkGolemLS3.label>-->
   <!-- 稻草傀儡 -->
   <!-- 木傀儡 -->
   <!-- 丝绸傀儡 -->

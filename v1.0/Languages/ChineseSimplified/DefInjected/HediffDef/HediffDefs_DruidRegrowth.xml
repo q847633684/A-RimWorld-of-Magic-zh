@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- arms -->
+
+  <TM_ArmRegrowth.label>Regrown Arm</TM_ArmRegrowth.label>
+  <TM_ArmRegrowth.comps.1.tools.0.label>regrown arm</TM_ArmRegrowth.comps.1.tools.0.label>
+  <TM_ArmRegrowth.stages.0.label>stub</TM_ArmRegrowth.stages.0.label>
+  <TM_ArmRegrowth.stages.1.label>fledgling</TM_ArmRegrowth.stages.1.label>
+  <TM_ArmRegrowth.stages.2.label>regrown</TM_ArmRegrowth.stages.2.label>
+  <TM_ArmRegrowth.stages.3.label>wild</TM_ArmRegrowth.stages.3.label>
+
+  <TM_HandRegrowth.label>Regrown Hand</TM_HandRegrowth.label>
+  <TM_HandRegrowth.comps.1.tools.0.label>regrown hand</TM_HandRegrowth.comps.1.tools.0.label>
+  <TM_HandRegrowth.stages.0.label>stub</TM_HandRegrowth.stages.0.label>
+  <TM_HandRegrowth.stages.1.label>fledgling</TM_HandRegrowth.stages.1.label>
+  <TM_HandRegrowth.stages.2.label>regrown</TM_HandRegrowth.stages.2.label>
+  <TM_HandRegrowth.stages.3.label>wild</TM_HandRegrowth.stages.3.label>
+
+  <TM_FingerRegrowth.label>Regrown Finger</TM_FingerRegrowth.label>
+  <TM_FingerRegrowth.stages.0.label>finger stub</TM_FingerRegrowth.stages.0.label>
+  <TM_FingerRegrowth.stages.1.label>regrown</TM_FingerRegrowth.stages.1.label>
+
+  <TM_ToeRegrowth.label>Regrown Toe</TM_ToeRegrowth.label>
+  <TM_ToeRegrowth.stages.0.label>toe stub</TM_ToeRegrowth.stages.0.label>
+  <TM_ToeRegrowth.stages.1.label>regrown</TM_ToeRegrowth.stages.1.label>
+
+  <TM_EyeRegrowth.label>Regrown Eye</TM_EyeRegrowth.label>
+  <TM_EyeRegrowth.stages.0.label>milky</TM_EyeRegrowth.stages.0.label>
+  <TM_EyeRegrowth.stages.1.label>hazy</TM_EyeRegrowth.stages.1.label>
+  <TM_EyeRegrowth.stages.2.label>regrown</TM_EyeRegrowth.stages.2.label>
+  <TM_EyeRegrowth.stages.3.label>enhanced</TM_EyeRegrowth.stages.3.label>
+
+  <TM_EarRegrowth.label>Regrown Ear</TM_EarRegrowth.label>
+  <TM_EarRegrowth.stages.0.label>forming</TM_EarRegrowth.stages.0.label>
+  <TM_EarRegrowth.stages.1.label>developing</TM_EarRegrowth.stages.1.label>
+  <TM_EarRegrowth.stages.2.label>regrown</TM_EarRegrowth.stages.2.label>
+  <TM_EarRegrowth.stages.3.label>enhanced</TM_EarRegrowth.stages.3.label>
+
+  <TM_LegRegrowth.label>Regrown Leg</TM_LegRegrowth.label>
+  <TM_LegRegrowth.stages.0.label>stub</TM_LegRegrowth.stages.0.label>
+  <TM_LegRegrowth.stages.1.label>fledgling</TM_LegRegrowth.stages.1.label>
+  <TM_LegRegrowth.stages.2.label>regrown</TM_LegRegrowth.stages.2.label>
+  <TM_LegRegrowth.stages.3.label>wild</TM_LegRegrowth.stages.3.label>
+
+  <TM_FootRegrowth.label>Regrown Foot</TM_FootRegrowth.label>
+  <TM_FootRegrowth.stages.0.label>stub</TM_FootRegrowth.stages.0.label>
+  <TM_FootRegrowth.stages.1.label>fledgling</TM_FootRegrowth.stages.1.label>
+  <TM_FootRegrowth.stages.2.label>regrown</TM_FootRegrowth.stages.2.label>
+  <TM_FootRegrowth.stages.3.label>wild</TM_FootRegrowth.stages.3.label>
+
+  <TM_StandardRegrowth.label>Regrown Part</TM_StandardRegrowth.label>
+  <TM_StandardRegrowth.stages.0.label>forming</TM_StandardRegrowth.stages.0.label>
+  <TM_StandardRegrowth.stages.1.label>regrown</TM_StandardRegrowth.stages.1.label>
+
+  <TM_JawRegrowth.label>Regrown Jaw</TM_JawRegrowth.label>
+  <TM_JawRegrowth.stages.0.label>forming</TM_JawRegrowth.stages.0.label>
+  <TM_JawRegrowth.stages.1.label>developing</TM_JawRegrowth.stages.1.label>
+  <TM_JawRegrowth.stages.2.label>regrown</TM_JawRegrowth.stages.2.label>
+  <TM_JawRegrowth.stages.3.label>enhanced</TM_JawRegrowth.stages.3.label>
+
+  <TM_HeartRegrowth.label>Heart of the Wild</TM_HeartRegrowth.label>
+  <TM_HeartRegrowth.stages.0.label>re-forming</TM_HeartRegrowth.stages.0.label>
+  <TM_HeartRegrowth.stages.1.label>new development</TM_HeartRegrowth.stages.1.label>
+  <TM_HeartRegrowth.stages.2.label>melding</TM_HeartRegrowth.stages.2.label>
+  <TM_HeartRegrowth.stages.3.label>entwined</TM_HeartRegrowth.stages.3.label>
+
+  <TM_LungRegrowth.label>Regrown Lung</TM_LungRegrowth.label>
+  <TM_LungRegrowth.stages.0.label>forming</TM_LungRegrowth.stages.0.label>
+  <TM_LungRegrowth.stages.1.label>developing</TM_LungRegrowth.stages.1.label>
+  <TM_LungRegrowth.stages.2.label>regrown</TM_LungRegrowth.stages.2.label>
+  <TM_LungRegrowth.stages.3.label>enhanced</TM_LungRegrowth.stages.3.label>
+
+  <TM_KidneyRegrowth.label>Regrown Kidney</TM_KidneyRegrowth.label>
+  <TM_KidneyRegrowth.stages.0.label>forming</TM_KidneyRegrowth.stages.0.label>
+  <TM_KidneyRegrowth.stages.1.label>developing</TM_KidneyRegrowth.stages.1.label>
+  <TM_KidneyRegrowth.stages.2.label>regrown</TM_KidneyRegrowth.stages.2.label>
+  <TM_KidneyRegrowth.stages.3.label>enhanced</TM_KidneyRegrowth.stages.3.label>
+
+  <TM_LiverRegrowth.label>Regrown Liver</TM_LiverRegrowth.label>
+  <TM_LiverRegrowth.stages.0.label>forming</TM_LiverRegrowth.stages.0.label>
+  <TM_LiverRegrowth.stages.1.label>developing</TM_LiverRegrowth.stages.1.label>
+  <TM_LiverRegrowth.stages.2.label>regrown</TM_LiverRegrowth.stages.2.label>
+  <TM_LiverRegrowth.stages.3.label>enhanced</TM_LiverRegrowth.stages.3.label>
+
+  <TM_StomachRegrowth.label>Regrown Stomach</TM_StomachRegrowth.label>
+  <TM_StomachRegrowth.stages.0.label>forming</TM_StomachRegrowth.stages.0.label>
+  <TM_StomachRegrowth.stages.1.label>developing</TM_StomachRegrowth.stages.1.label>
+  <TM_StomachRegrowth.stages.2.label>regrown</TM_StomachRegrowth.stages.2.label>
+
+  <TM_SpineRegrowth.label>Spine Meld</TM_SpineRegrowth.label>
+  <TM_SpineRegrowth.stages.0.label>forming</TM_SpineRegrowth.stages.0.label>
+  <TM_SpineRegrowth.stages.1.label>new growth</TM_SpineRegrowth.stages.1.label>
+  <TM_SpineRegrowth.stages.2.label>melding</TM_SpineRegrowth.stages.2.label>
+  <TM_SpineRegrowth.stages.3.label>entwined</TM_SpineRegrowth.stages.3.label>
+
+
+</LanguageData>

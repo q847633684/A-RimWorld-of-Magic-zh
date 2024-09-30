@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TM_Golem_SilkRepair.label>恢复部分</TM_Golem_SilkRepair.label>
+  <!--<TM_Golem_SilkRepair.label>恢复部分</TM_Golem_SilkRepair.label>-->
 
-  <TM_Golem_SilkMaxEnergy.label>能量存储</TM_Golem_SilkMaxEnergy.label>
-  <TM_Golem_SilkMaxEnergy.description>每级增加最大能量 100。起始最大能量为 300。</TM_Golem_SilkMaxEnergy.description>
+  <!--<TM_Golem_SilkMaxEnergy.label>能量存储</TM_Golem_SilkMaxEnergy.label>-->
+  <!--<TM_Golem_SilkMaxEnergy.description>每级增加最大能量 100。起始最大能量为 300。</TM_Golem_SilkMaxEnergy.description>-->
 
-  <TM_Golem_SilkEnergyEfficiency.label>能源效率</TM_Golem_SilkEnergyEfficiency.label>
-  <TM_Golem_SilkEnergyEfficiency.description>每级能量效率提高 8%。起始能源效率为40%。</TM_Golem_SilkEnergyEfficiency.description>
+  <!--<TM_Golem_SilkEnergyEfficiency.label>能源效率</TM_Golem_SilkEnergyEfficiency.label>-->
+  <!--<TM_Golem_SilkEnergyEfficiency.description>每级能量效率提高 8%。起始能源效率为40%。</TM_Golem_SilkEnergyEfficiency.description>-->
 
-  <TM_Golem_SilkEnergyRate.label>能量再生</TM_Golem_SilkEnergyRate.label>
-  <TM_Golem_SilkEnergyRate.description>每升一级，能量消耗率增加 10%。起始充值率为 20 能量/小时。</TM_Golem_SilkEnergyRate.description>
+  <!--<TM_Golem_SilkEnergyRate.label>能量再生</TM_Golem_SilkEnergyRate.label>-->
+  <!--<TM_Golem_SilkEnergyRate.description>每升一级，能量消耗率增加 10%。起始充值率为 20 能量/小时。</TM_Golem_SilkEnergyRate.description>-->
 
-  <TM_Golem_SilkSkills.label>技能强化</TM_Golem_SilkSkills.label>
-  <TM_Golem_SilkSkills.description>每升一级，守卫的技能等级提高 1 级。起始技能为 7。</TM_Golem_SilkSkills.description>
+  <!--<TM_Golem_SilkSkills.label>技能强化</TM_Golem_SilkSkills.label>-->
+  <!--<TM_Golem_SilkSkills.description>每升一级，守卫的技能等级提高 1 级。起始技能为 7。</TM_Golem_SilkSkills.description>-->
 
-  <TM_Golem_SilkLifeStage.label>框架层</TM_Golem_SilkLifeStage.label>
-  <TM_Golem_SilkLifeStage.description>增加统计数据：
+  <!--<TM_Golem_SilkLifeStage.label>框架层</TM_Golem_SilkLifeStage.label>-->
+  <!--<TM_Golem_SilkLifeStage.description>增加统计数据：
 移动：+[20%/30%/40%]
-生命值：+[20%/40%/60%]</TM_Golem_SilkLifeStage.description>
+生命值：+[20%/40%/60%]</TM_Golem_SilkLifeStage.description>-->
 
 
 </LanguageData>

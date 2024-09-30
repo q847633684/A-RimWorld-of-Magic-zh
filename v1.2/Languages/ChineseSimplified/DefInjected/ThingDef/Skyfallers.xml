@@ -17,7 +17,8 @@
   <TM_Meteorite_I.label>陨石</TM_Meteorite_I.label>
   <TM_Meteorite_II.label>陨石</TM_Meteorite_II.label>
   <TM_Meteorite_III.label>陨石</TM_Meteorite_III.label>
-  <TM_Hail.label>冰雹风暴</TM_Hail.label>
 
+
+  <!--<TM_Hail.label>冰雹风暴</TM_Hail.label>-->
 
 </LanguageData>

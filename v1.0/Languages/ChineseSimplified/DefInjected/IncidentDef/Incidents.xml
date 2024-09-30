@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ArcaneEnemyRaid.label>enemy arcane raiding party</ArcaneEnemyRaid.label>
+
+  <QuestArcaneCamp.label>arcane bandit camp opportunity</QuestArcaneCamp.label>
+  <QuestArcaneCamp.letterText>{0}, {1} of {2}, has sent us a message.\n\nBandits based in a nearby camp have been raiding our caravans and have threatened to attack our village unless we turn over some magical artifacts. {1} humbly requests that you destroy the bandits and their camp, which means eliminating all enemies and turrets.\n\nIf you succeed, we will be in your debt, and we will also give you the artifacts... they have become more trouble than they are worth:\n\n{3}</QuestArcaneCamp.letterText>
+  <QuestArcaneCamp.letterLabel>Arcane bandits</QuestArcaneCamp.letterLabel>
+
+  <MagicCaravanRequest.label>caravan request (arcane)</MagicCaravanRequest.label>
+
+
+</LanguageData>

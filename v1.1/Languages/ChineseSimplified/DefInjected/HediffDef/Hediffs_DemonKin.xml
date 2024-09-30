@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_ShadowHD.label>Shadow</TM_ShadowHD.label>
+  <TM_ShadowHD.description>Shadow damage.</TM_ShadowHD.description>
+  <TM_ShadowHD.comps.0.labelTendedWell>bandaged</TM_ShadowHD.comps.0.labelTendedWell>
+  <TM_ShadowHD.comps.0.labelTendedWellInner>sutured</TM_ShadowHD.comps.0.labelTendedWellInner>
+  <TM_ShadowHD.comps.0.labelSolidTendedWell>set</TM_ShadowHD.comps.0.labelSolidTendedWell>
+  <TM_ShadowHD.injuryProps.destroyedLabel>withered</TM_ShadowHD.injuryProps.destroyedLabel>
+  <TM_ShadowHD.injuryProps.destroyedOutLabel>disintegrated</TM_ShadowHD.injuryProps.destroyedOutLabel>
+
+  <TM_GravitySlowHD.label>Gravity Well</TM_GravitySlowHD.label>
+  <TM_GravitySlowHD.description>Slowed by an unnatural gravitational attraction.</TM_GravitySlowHD.description>
+  <TM_GravitySlowHD.stages.0.label>slowed</TM_GravitySlowHD.stages.0.label>
+
+  <TM_SoulBondPhysicalHD.label>Soul Bond</TM_SoulBondPhysicalHD.label>
+  <TM_SoulBondPhysicalHD.description>Soul bonded to a Succubus.</TM_SoulBondPhysicalHD.description>
+  <TM_SoulBondPhysicalHD.stages.0.label>I</TM_SoulBondPhysicalHD.stages.0.label>
+  <TM_SoulBondPhysicalHD.stages.1.label>II</TM_SoulBondPhysicalHD.stages.1.label>
+  <TM_SoulBondPhysicalHD.stages.2.label>III</TM_SoulBondPhysicalHD.stages.2.label>
+  <TM_SoulBondPhysicalHD.stages.3.label>IV</TM_SoulBondPhysicalHD.stages.3.label>
+
+  <TM_SDSoulBondPhysicalHD.label>Soul Bond</TM_SDSoulBondPhysicalHD.label>
+  <TM_SDSoulBondPhysicalHD.description>Maintaining a soul bond contract with another pawn.</TM_SDSoulBondPhysicalHD.description>
+  <TM_SDSoulBondPhysicalHD.stages.0.label>I</TM_SDSoulBondPhysicalHD.stages.0.label>
+  <TM_SDSoulBondPhysicalHD.stages.1.label>II</TM_SDSoulBondPhysicalHD.stages.1.label>
+  <TM_SDSoulBondPhysicalHD.stages.2.label>III</TM_SDSoulBondPhysicalHD.stages.2.label>
+  <TM_SDSoulBondPhysicalHD.stages.3.label>IV</TM_SDSoulBondPhysicalHD.stages.3.label>
+
+  <TM_SoulBondMentalHD.label>Soul Bond</TM_SoulBondMentalHD.label>
+  <TM_SoulBondMentalHD.description>Soul bonded to a Warlock.</TM_SoulBondMentalHD.description>
+  <TM_SoulBondMentalHD.stages.0.label>I</TM_SoulBondMentalHD.stages.0.label>
+  <TM_SoulBondMentalHD.stages.1.label>II</TM_SoulBondMentalHD.stages.1.label>
+  <TM_SoulBondMentalHD.stages.2.label>III</TM_SoulBondMentalHD.stages.2.label>
+  <TM_SoulBondMentalHD.stages.3.label>IV</TM_SoulBondMentalHD.stages.3.label>
+
+  <TM_WDSoulBondMentalHD.label>Soul Bond</TM_WDSoulBondMentalHD.label>
+  <TM_WDSoulBondMentalHD.description>Maintaining a contract with another pawn that bonds their soul with mine.</TM_WDSoulBondMentalHD.description>
+  <TM_WDSoulBondMentalHD.stages.0.label>I</TM_WDSoulBondMentalHD.stages.0.label>
+  <TM_WDSoulBondMentalHD.stages.1.label>II</TM_WDSoulBondMentalHD.stages.1.label>
+  <TM_WDSoulBondMentalHD.stages.2.label>III</TM_WDSoulBondMentalHD.stages.2.label>
+  <TM_WDSoulBondMentalHD.stages.3.label>IV</TM_WDSoulBondMentalHD.stages.3.label>
+
+  <TM_WDDominateHD.label>Dominate I</TM_WDDominateHD.label>
+  <TM_WDDominateHD.description>Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.</TM_WDDominateHD.description>
+  <TM_WDDominateHD.stages.0.label>fading</TM_WDDominateHD.stages.0.label>
+  <TM_WDDominateHD.stages.1.label>withdrawing</TM_WDDominateHD.stages.1.label>
+  <TM_WDDominateHD.stages.2.label>enveloping</TM_WDDominateHD.stages.2.label>
+  <TM_WDDominateHD.stages.3.label>overwhelming</TM_WDDominateHD.stages.3.label>
+
+  <TM_WDDominateHD_I.label>Dominate II</TM_WDDominateHD_I.label>
+  <TM_WDDominateHD_I.description>Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.</TM_WDDominateHD_I.description>
+  <TM_WDDominateHD_I.stages.0.label>fading</TM_WDDominateHD_I.stages.0.label>
+  <TM_WDDominateHD_I.stages.1.label>withdrawing</TM_WDDominateHD_I.stages.1.label>
+  <TM_WDDominateHD_I.stages.2.label>enveloping</TM_WDDominateHD_I.stages.2.label>
+  <TM_WDDominateHD_I.stages.3.label>overwhelming</TM_WDDominateHD_I.stages.3.label>
+
+  <TM_WDDominateHD_II.label>Dominate III</TM_WDDominateHD_II.label>
+  <TM_WDDominateHD_II.description>Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.</TM_WDDominateHD_II.description>
+  <TM_WDDominateHD_II.stages.0.label>fading</TM_WDDominateHD_II.stages.0.label>
+  <TM_WDDominateHD_II.stages.1.label>withdrawing</TM_WDDominateHD_II.stages.1.label>
+  <TM_WDDominateHD_II.stages.2.label>enveloping</TM_WDDominateHD_II.stages.2.label>
+  <TM_WDDominateHD_II.stages.3.label>overwhelming</TM_WDDominateHD_II.stages.3.label>
+
+  <TM_WDDominateHD_III.label>Dominate IV</TM_WDDominateHD_III.label>
+  <TM_WDDominateHD_III.description>Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.</TM_WDDominateHD_III.description>
+  <TM_WDDominateHD_III.stages.0.label>fading</TM_WDDominateHD_III.stages.0.label>
+  <TM_WDDominateHD_III.stages.1.label>withdrawing</TM_WDDominateHD_III.stages.1.label>
+  <TM_WDDominateHD_III.stages.2.label>enveloping</TM_WDDominateHD_III.stages.2.label>
+  <TM_WDDominateHD_III.stages.3.label>overwhelming</TM_WDDominateHD_III.stages.3.label>
+
+  <TM_SDDominateHD.label>Dominate I</TM_SDDominateHD.label>
+  <TM_SDDominateHD.description>Under the effects of a succubus dominatrix - stunts all physical actions.</TM_SDDominateHD.description>
+  <TM_SDDominateHD.stages.0.label>fading</TM_SDDominateHD.stages.0.label>
+  <TM_SDDominateHD.stages.1.label>withdrawing</TM_SDDominateHD.stages.1.label>
+  <TM_SDDominateHD.stages.2.label>enveloping</TM_SDDominateHD.stages.2.label>
+  <TM_SDDominateHD.stages.3.label>overwhelming</TM_SDDominateHD.stages.3.label>
+
+  <TM_SDDominateHD_I.label>Dominate II</TM_SDDominateHD_I.label>
+  <TM_SDDominateHD_I.description>Under the effects of a succubus dominatrix - stunts all physical actions.</TM_SDDominateHD_I.description>
+  <TM_SDDominateHD_I.stages.0.label>fading</TM_SDDominateHD_I.stages.0.label>
+  <TM_SDDominateHD_I.stages.1.label>withdrawing</TM_SDDominateHD_I.stages.1.label>
+  <TM_SDDominateHD_I.stages.2.label>enveloping</TM_SDDominateHD_I.stages.2.label>
+  <TM_SDDominateHD_I.stages.3.label>overwhelming</TM_SDDominateHD_I.stages.3.label>
+
+  <TM_SDDominateHD_II.label>Dominate III</TM_SDDominateHD_II.label>
+  <TM_SDDominateHD_II.description>Under the effects of a succubus dominatrix - stunts all physical actions.</TM_SDDominateHD_II.description>
+  <TM_SDDominateHD_II.stages.0.label>fading</TM_SDDominateHD_II.stages.0.label>
+  <TM_SDDominateHD_II.stages.1.label>withdrawing</TM_SDDominateHD_II.stages.1.label>
+  <TM_SDDominateHD_II.stages.2.label>enveloping</TM_SDDominateHD_II.stages.2.label>
+  <TM_SDDominateHD_II.stages.3.label>overwhelming</TM_SDDominateHD_II.stages.3.label>
+
+  <TM_SDDominateHD_III.label>Dominate IV</TM_SDDominateHD_III.label>
+  <TM_SDDominateHD_III.description>Under the effects of a succubus dominatrix - stunts all physical actions.</TM_SDDominateHD_III.description>
+  <TM_SDDominateHD_III.stages.0.label>fading</TM_SDDominateHD_III.stages.0.label>
+  <TM_SDDominateHD_III.stages.1.label>withdrawing</TM_SDDominateHD_III.stages.1.label>
+  <TM_SDDominateHD_III.stages.2.label>enveloping</TM_SDDominateHD_III.stages.2.label>
+  <TM_SDDominateHD_III.stages.3.label>overwhelming</TM_SDDominateHD_III.stages.3.label>
+
+  <TM_VitalityDrainHD.label>Vitality Drain</TM_VitalityDrainHD.label>
+  <TM_VitalityDrainHD.description>Physically drained but mentally relaxed through intimacy with a succubus.</TM_VitalityDrainHD.description>
+  <TM_VitalityDrainHD.stages.0.label>Succubus</TM_VitalityDrainHD.stages.0.label>
+
+  <TM_VitalityBoostHD.label>Vitality Boost</TM_VitalityBoostHD.label>
+  <TM_VitalityBoostHD.description>Physical boost acquired by draining the energy from a pawn during intimacy.</TM_VitalityBoostHD.description>
+  <TM_VitalityBoostHD.stages.0.label></TM_VitalityBoostHD.stages.0.label>
+
+  <TM_DemonHD.label>Demonic Flames</TM_DemonHD.label>
+  <TM_DemonHD.description>Demonic flames that swirl and writhe around the form of a demon.</TM_DemonHD.description>
+  <TM_DemonHD.stages.0.label></TM_DemonHD.stages.0.label>
+  <TM_DemonHD.stages.1.label></TM_DemonHD.stages.1.label>
+  <TM_DemonHD.stages.2.label></TM_DemonHD.stages.2.label>
+
+  <TM_DemonicPriceHD.label>Soul Consumption</TM_DemonicPriceHD.label>
+  <TM_DemonicPriceHD.description>Flames of destruction that will never cease until they consume the soul of this pawn.</TM_DemonicPriceHD.description>
+  <TM_DemonicPriceHD.stages.0.label></TM_DemonicPriceHD.stages.0.label>
+
+  <TM_DemonScornHD.label>Demon's Scorn</TM_DemonScornHD.label>
+  <TM_DemonScornHD.description>The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.</TM_DemonScornHD.description>
+  <TM_DemonScornHD.stages.0.label>I</TM_DemonScornHD.stages.0.label>
+
+  <TM_DemonScornHD_I.label>Demon's Scorn</TM_DemonScornHD_I.label>
+  <TM_DemonScornHD_I.description>The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.</TM_DemonScornHD_I.description>
+  <TM_DemonScornHD_I.stages.0.label>II</TM_DemonScornHD_I.stages.0.label>
+
+  <TM_DemonScornHD_II.label>Demon's Scorn</TM_DemonScornHD_II.label>
+  <TM_DemonScornHD_II.description>The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.</TM_DemonScornHD_II.description>
+  <TM_DemonScornHD_II.stages.0.label>III</TM_DemonScornHD_II.stages.0.label>
+
+  <TM_DemonScornHD_III.label>Demon's Scorn</TM_DemonScornHD_III.label>
+  <TM_DemonScornHD_III.description>The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.</TM_DemonScornHD_III.description>
+  <TM_DemonScornHD_III.stages.0.label>IV</TM_DemonScornHD_III.stages.0.label>
+
+
+</LanguageData>

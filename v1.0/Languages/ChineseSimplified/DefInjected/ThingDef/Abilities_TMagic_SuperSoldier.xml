@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- mk203 gl -->
+
+  <Projectile_Mk203GL.label>Grenade</Projectile_Mk203GL.label>
+
+
+  <!-- Buckshot -->
+
+  <Projectile_Buckshot.label>buckshot pellet</Projectile_Buckshot.label>
+
+
+  <!-- Breaching Charge -->
+
+  <Projectile_BreachingCharge.label>breaching charge</Projectile_BreachingCharge.label>
+
+
+  <!-- 60mm Mortar -->
+
+  <TM_PistolSpec_Base0.label>pistol spec weapon</TM_PistolSpec_Base0.label>
+  <TM_PistolSpec_Base0.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base0.description>
+  <TM_PistolSpec_Base0.tools.0.label>pistol whip</TM_PistolSpec_Base0.tools.0.label>
+
+  <TM_PistolSpec_Base1.label>pistol spec weapon</TM_PistolSpec_Base1.label>
+  <TM_PistolSpec_Base1.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base1.description>
+  <TM_PistolSpec_Base1.tools.0.label>pistol whip</TM_PistolSpec_Base1.tools.0.label>
+
+  <TM_PistolSpec_Base2.label>pistol spec weapon</TM_PistolSpec_Base2.label>
+  <TM_PistolSpec_Base2.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base2.description>
+  <TM_PistolSpec_Base2.tools.0.label>pistol whip</TM_PistolSpec_Base2.tools.0.label>
+
+  <TM_PistolSpec_Base3.label>pistol spec weapon</TM_PistolSpec_Base3.label>
+  <TM_PistolSpec_Base3.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base3.description>
+  <TM_PistolSpec_Base3.tools.0.label>pistol whip</TM_PistolSpec_Base3.tools.0.label>
+
+  <TM_PistolSpec_Base4.label>pistol spec weapon</TM_PistolSpec_Base4.label>
+  <TM_PistolSpec_Base4.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base4.description>
+  <TM_PistolSpec_Base4.tools.0.label>pistol whip</TM_PistolSpec_Base4.tools.0.label>
+
+  <TM_PistolSpec_Base5.label>pistol spec weapon</TM_PistolSpec_Base5.label>
+  <TM_PistolSpec_Base5.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base5.description>
+  <TM_PistolSpec_Base5.tools.0.label>pistol whip</TM_PistolSpec_Base5.tools.0.label>
+
+  <TM_PistolSpec_Base6.label>pistol spec weapon</TM_PistolSpec_Base6.label>
+  <TM_PistolSpec_Base6.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base6.description>
+  <TM_PistolSpec_Base6.tools.0.label>pistol whip</TM_PistolSpec_Base6.tools.0.label>
+
+  <TM_PistolSpec_Base7.label>pistol spec weapon</TM_PistolSpec_Base7.label>
+  <TM_PistolSpec_Base7.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base7.description>
+  <TM_PistolSpec_Base7.tools.0.label>pistol whip</TM_PistolSpec_Base7.tools.0.label>
+
+  <TM_PistolSpec_Base8.label>pistol spec weapon</TM_PistolSpec_Base8.label>
+  <TM_PistolSpec_Base8.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base8.description>
+  <TM_PistolSpec_Base8.tools.0.label>pistol whip</TM_PistolSpec_Base8.tools.0.label>
+
+  <TM_PistolSpec_Base9.label>pistol spec weapon</TM_PistolSpec_Base9.label>
+  <TM_PistolSpec_Base9.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base9.description>
+  <TM_PistolSpec_Base9.tools.0.label>pistol whip</TM_PistolSpec_Base9.tools.0.label>
+
+  <TM_PistolSpec_Base10.label>pistol spec weapon</TM_PistolSpec_Base10.label>
+  <TM_PistolSpec_Base10.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base10.description>
+  <TM_PistolSpec_Base10.tools.0.label>pistol whip</TM_PistolSpec_Base10.tools.0.label>
+
+  <TM_PistolSpec_Base11.label>pistol spec weapon</TM_PistolSpec_Base11.label>
+  <TM_PistolSpec_Base11.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base11.description>
+  <TM_PistolSpec_Base11.tools.0.label>pistol whip</TM_PistolSpec_Base11.tools.0.label>
+
+  <TM_PistolSpec_Base12.label>pistol spec weapon</TM_PistolSpec_Base12.label>
+  <TM_PistolSpec_Base12.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base12.description>
+  <TM_PistolSpec_Base12.tools.0.label>pistol whip</TM_PistolSpec_Base12.tools.0.label>
+
+  <TM_PistolSpec_Base13.label>pistol spec weapon</TM_PistolSpec_Base13.label>
+  <TM_PistolSpec_Base13.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base13.description>
+  <TM_PistolSpec_Base13.tools.0.label>pistol whip</TM_PistolSpec_Base13.tools.0.label>
+
+  <TM_PistolSpec_Base14.label>pistol spec weapon</TM_PistolSpec_Base14.label>
+  <TM_PistolSpec_Base14.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base14.description>
+  <TM_PistolSpec_Base14.tools.0.label>pistol whip</TM_PistolSpec_Base14.tools.0.label>
+
+  <TM_PistolSpec_Base15.label>pistol spec weapon</TM_PistolSpec_Base15.label>
+  <TM_PistolSpec_Base15.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base15.description>
+  <TM_PistolSpec_Base15.tools.0.label>pistol whip</TM_PistolSpec_Base15.tools.0.label>
+
+  <TM_PistolSpec_Base16.label>pistol spec weapon</TM_PistolSpec_Base16.label>
+  <TM_PistolSpec_Base16.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base16.description>
+  <TM_PistolSpec_Base16.tools.0.label>pistol whip</TM_PistolSpec_Base16.tools.0.label>
+
+  <TM_PistolSpec_Base17.label>pistol spec weapon</TM_PistolSpec_Base17.label>
+  <TM_PistolSpec_Base17.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base17.description>
+  <TM_PistolSpec_Base17.tools.0.label>pistol whip</TM_PistolSpec_Base17.tools.0.label>
+
+  <TM_PistolSpec_Base18.label>pistol spec weapon</TM_PistolSpec_Base18.label>
+  <TM_PistolSpec_Base18.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base18.description>
+  <TM_PistolSpec_Base18.tools.0.label>pistol whip</TM_PistolSpec_Base18.tools.0.label>
+
+  <TM_PistolSpec_Base19.label>pistol spec weapon</TM_PistolSpec_Base19.label>
+  <TM_PistolSpec_Base19.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base19.description>
+  <TM_PistolSpec_Base19.tools.0.label>pistol whip</TM_PistolSpec_Base19.tools.0.label>
+
+  <TM_RifleSpec_Base0.label>rifle spec weapon</TM_RifleSpec_Base0.label>
+  <TM_RifleSpec_Base0.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base0.description>
+  <TM_RifleSpec_Base0.tools.0.label>rifle stock</TM_RifleSpec_Base0.tools.0.label>
+
+  <TM_RifleSpec_Base1.label>rifle spec weapon</TM_RifleSpec_Base1.label>
+  <TM_RifleSpec_Base1.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base1.description>
+  <TM_RifleSpec_Base1.tools.0.label>rifle stock</TM_RifleSpec_Base1.tools.0.label>
+
+  <TM_RifleSpec_Base2.label>rifle spec weapon</TM_RifleSpec_Base2.label>
+  <TM_RifleSpec_Base2.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base2.description>
+  <TM_RifleSpec_Base2.tools.0.label>rifle stock</TM_RifleSpec_Base2.tools.0.label>
+
+  <TM_RifleSpec_Base3.label>rifle spec weapon</TM_RifleSpec_Base3.label>
+  <TM_RifleSpec_Base3.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base3.description>
+  <TM_RifleSpec_Base3.tools.0.label>rifle stock</TM_RifleSpec_Base3.tools.0.label>
+
+  <TM_RifleSpec_Base4.label>rifle spec weapon</TM_RifleSpec_Base4.label>
+  <TM_RifleSpec_Base4.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base4.description>
+  <TM_RifleSpec_Base4.tools.0.label>rifle stock</TM_RifleSpec_Base4.tools.0.label>
+
+  <TM_RifleSpec_Base5.label>rifle spec weapon</TM_RifleSpec_Base5.label>
+  <TM_RifleSpec_Base5.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base5.description>
+  <TM_RifleSpec_Base5.tools.0.label>rifle stock</TM_RifleSpec_Base5.tools.0.label>
+
+  <TM_RifleSpec_Base6.label>rifle spec weapon</TM_RifleSpec_Base6.label>
+  <TM_RifleSpec_Base6.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base6.description>
+  <TM_RifleSpec_Base6.tools.0.label>rifle stock</TM_RifleSpec_Base6.tools.0.label>
+
+  <TM_RifleSpec_Base7.label>rifle spec weapon</TM_RifleSpec_Base7.label>
+  <TM_RifleSpec_Base7.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base7.description>
+  <TM_RifleSpec_Base7.tools.0.label>rifle stock</TM_RifleSpec_Base7.tools.0.label>
+
+  <TM_RifleSpec_Base8.label>rifle spec weapon</TM_RifleSpec_Base8.label>
+  <TM_RifleSpec_Base8.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base8.description>
+  <TM_RifleSpec_Base8.tools.0.label>rifle stock</TM_RifleSpec_Base8.tools.0.label>
+
+  <TM_RifleSpec_Base9.label>rifle spec weapon</TM_RifleSpec_Base9.label>
+  <TM_RifleSpec_Base9.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base9.description>
+  <TM_RifleSpec_Base9.tools.0.label>rifle stock</TM_RifleSpec_Base9.tools.0.label>
+
+  <TM_RifleSpec_Base10.label>rifle spec weapon</TM_RifleSpec_Base10.label>
+  <TM_RifleSpec_Base10.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base10.description>
+  <TM_RifleSpec_Base10.tools.0.label>rifle stock</TM_RifleSpec_Base10.tools.0.label>
+
+  <TM_RifleSpec_Base11.label>rifle spec weapon</TM_RifleSpec_Base11.label>
+  <TM_RifleSpec_Base11.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base11.description>
+  <TM_RifleSpec_Base11.tools.0.label>rifle stock</TM_RifleSpec_Base11.tools.0.label>
+
+  <TM_RifleSpec_Base12.label>rifle spec weapon</TM_RifleSpec_Base12.label>
+  <TM_RifleSpec_Base12.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base12.description>
+  <TM_RifleSpec_Base12.tools.0.label>rifle stock</TM_RifleSpec_Base12.tools.0.label>
+
+  <TM_RifleSpec_Base13.label>rifle spec weapon</TM_RifleSpec_Base13.label>
+  <TM_RifleSpec_Base13.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base13.description>
+  <TM_RifleSpec_Base13.tools.0.label>rifle stock</TM_RifleSpec_Base13.tools.0.label>
+
+  <TM_RifleSpec_Base14.label>rifle spec weapon</TM_RifleSpec_Base14.label>
+  <TM_RifleSpec_Base14.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base14.description>
+  <TM_RifleSpec_Base14.tools.0.label>rifle stock</TM_RifleSpec_Base14.tools.0.label>
+
+  <TM_RifleSpec_Base15.label>rifle spec weapon</TM_RifleSpec_Base15.label>
+  <TM_RifleSpec_Base15.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base15.description>
+  <TM_RifleSpec_Base15.tools.0.label>rifle stock</TM_RifleSpec_Base15.tools.0.label>
+
+  <TM_RifleSpec_Base16.label>rifle spec weapon</TM_RifleSpec_Base16.label>
+  <TM_RifleSpec_Base16.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base16.description>
+  <TM_RifleSpec_Base16.tools.0.label>rifle stock</TM_RifleSpec_Base16.tools.0.label>
+
+  <TM_RifleSpec_Base17.label>rifle spec weapon</TM_RifleSpec_Base17.label>
+  <TM_RifleSpec_Base17.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base17.description>
+  <TM_RifleSpec_Base17.tools.0.label>rifle stock</TM_RifleSpec_Base17.tools.0.label>
+
+  <TM_RifleSpec_Base18.label>rifle spec weapon</TM_RifleSpec_Base18.label>
+  <TM_RifleSpec_Base18.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base18.description>
+  <TM_RifleSpec_Base18.tools.0.label>rifle stock</TM_RifleSpec_Base18.tools.0.label>
+
+  <TM_RifleSpec_Base19.label>rifle spec weapon</TM_RifleSpec_Base19.label>
+  <TM_RifleSpec_Base19.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base19.description>
+  <TM_RifleSpec_Base19.tools.0.label>rifle stock</TM_RifleSpec_Base19.tools.0.label>
+
+  <TM_ShotgunSpec_Base0.label>shotgun spec weapon</TM_ShotgunSpec_Base0.label>
+  <TM_ShotgunSpec_Base0.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base0.description>
+  <TM_ShotgunSpec_Base0.tools.0.label>weapon smash</TM_ShotgunSpec_Base0.tools.0.label>
+
+  <TM_ShotgunSpec_Base1.label>shotgun spec weapon</TM_ShotgunSpec_Base1.label>
+  <TM_ShotgunSpec_Base1.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base1.description>
+  <TM_ShotgunSpec_Base1.tools.0.label>weapon smash</TM_ShotgunSpec_Base1.tools.0.label>
+
+  <TM_ShotgunSpec_Base2.label>shotgun spec weapon</TM_ShotgunSpec_Base2.label>
+  <TM_ShotgunSpec_Base2.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base2.description>
+  <TM_ShotgunSpec_Base2.tools.0.label>weapon smash</TM_ShotgunSpec_Base2.tools.0.label>
+
+  <TM_ShotgunSpec_Base3.label>shotgun spec weapon</TM_ShotgunSpec_Base3.label>
+  <TM_ShotgunSpec_Base3.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base3.description>
+  <TM_ShotgunSpec_Base3.tools.0.label>weapon smash</TM_ShotgunSpec_Base3.tools.0.label>
+
+  <TM_ShotgunSpec_Base4.label>shotgun spec weapon</TM_ShotgunSpec_Base4.label>
+  <TM_ShotgunSpec_Base4.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base4.description>
+  <TM_ShotgunSpec_Base4.tools.0.label>weapon smash</TM_ShotgunSpec_Base4.tools.0.label>
+
+  <TM_ShotgunSpec_Base5.label>shotgun spec weapon</TM_ShotgunSpec_Base5.label>
+  <TM_ShotgunSpec_Base5.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base5.description>
+  <TM_ShotgunSpec_Base5.tools.0.label>weapon smash</TM_ShotgunSpec_Base5.tools.0.label>
+
+  <TM_ShotgunSpec_Base6.label>shotgun spec weapon</TM_ShotgunSpec_Base6.label>
+  <TM_ShotgunSpec_Base6.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base6.description>
+  <TM_ShotgunSpec_Base6.tools.0.label>weapon smash</TM_ShotgunSpec_Base6.tools.0.label>
+
+  <TM_ShotgunSpec_Base7.label>shotgun spec weapon</TM_ShotgunSpec_Base7.label>
+  <TM_ShotgunSpec_Base7.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base7.description>
+  <TM_ShotgunSpec_Base7.tools.0.label>weapon smash</TM_ShotgunSpec_Base7.tools.0.label>
+
+  <TM_ShotgunSpec_Base8.label>shotgun spec weapon</TM_ShotgunSpec_Base8.label>
+  <TM_ShotgunSpec_Base8.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base8.description>
+  <TM_ShotgunSpec_Base8.tools.0.label>weapon smash</TM_ShotgunSpec_Base8.tools.0.label>
+
+  <TM_ShotgunSpec_Base9.label>shotgun spec weapon</TM_ShotgunSpec_Base9.label>
+  <TM_ShotgunSpec_Base9.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base9.description>
+  <TM_ShotgunSpec_Base9.tools.0.label>weapon smash</TM_ShotgunSpec_Base9.tools.0.label>
+
+  <TM_ShotgunSpec_Base10.label>shotgun spec weapon</TM_ShotgunSpec_Base10.label>
+  <TM_ShotgunSpec_Base10.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base10.description>
+  <TM_ShotgunSpec_Base10.tools.0.label>weapon smash</TM_ShotgunSpec_Base10.tools.0.label>
+
+  <TM_ShotgunSpec_Base11.label>shotgun spec weapon</TM_ShotgunSpec_Base11.label>
+  <TM_ShotgunSpec_Base11.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base11.description>
+  <TM_ShotgunSpec_Base11.tools.0.label>weapon smash</TM_ShotgunSpec_Base11.tools.0.label>
+
+  <TM_ShotgunSpec_Base12.label>shotgun spec weapon</TM_ShotgunSpec_Base12.label>
+  <TM_ShotgunSpec_Base12.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base12.description>
+  <TM_ShotgunSpec_Base12.tools.0.label>weapon smash</TM_ShotgunSpec_Base12.tools.0.label>
+
+  <TM_ShotgunSpec_Base13.label>shotgun spec weapon</TM_ShotgunSpec_Base13.label>
+  <TM_ShotgunSpec_Base13.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base13.description>
+  <TM_ShotgunSpec_Base13.tools.0.label>weapon smash</TM_ShotgunSpec_Base13.tools.0.label>
+
+  <TM_ShotgunSpec_Base14.label>shotgun spec weapon</TM_ShotgunSpec_Base14.label>
+  <TM_ShotgunSpec_Base14.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base14.description>
+  <TM_ShotgunSpec_Base14.tools.0.label>weapon smash</TM_ShotgunSpec_Base14.tools.0.label>
+
+  <TM_ShotgunSpec_Base15.label>shotgun spec weapon</TM_ShotgunSpec_Base15.label>
+  <TM_ShotgunSpec_Base15.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base15.description>
+  <TM_ShotgunSpec_Base15.tools.0.label>weapon smash</TM_ShotgunSpec_Base15.tools.0.label>
+
+  <TM_ShotgunSpec_Base16.label>shotgun spec weapon</TM_ShotgunSpec_Base16.label>
+  <TM_ShotgunSpec_Base16.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base16.description>
+  <TM_ShotgunSpec_Base16.tools.0.label>weapon smash</TM_ShotgunSpec_Base16.tools.0.label>
+
+  <TM_ShotgunSpec_Base17.label>shotgun spec weapon</TM_ShotgunSpec_Base17.label>
+  <TM_ShotgunSpec_Base17.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base17.description>
+  <TM_ShotgunSpec_Base17.tools.0.label>weapon smash</TM_ShotgunSpec_Base17.tools.0.label>
+
+  <TM_ShotgunSpec_Base18.label>shotgun spec weapon</TM_ShotgunSpec_Base18.label>
+  <TM_ShotgunSpec_Base18.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base18.description>
+  <TM_ShotgunSpec_Base18.tools.0.label>weapon smash</TM_ShotgunSpec_Base18.tools.0.label>
+
+  <TM_ShotgunSpec_Base19.label>shotgun spec weapon</TM_ShotgunSpec_Base19.label>
+  <TM_ShotgunSpec_Base19.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base19.description>
+  <TM_ShotgunSpec_Base19.tools.0.label>weapon smash</TM_ShotgunSpec_Base19.tools.0.label>
+
+
+</LanguageData>

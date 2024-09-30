@@ -4,7 +4,6 @@
   <!-- Misc for Golems -->
 
   <JobDriver_GolemDespawn.reportString>休眠</JobDriver_GolemDespawn.reportString>
-  <JobDriver_GolemDespawnWait.reportString>静止</JobDriver_GolemDespawnWait.reportString>
   <JobDriver_GolemSelfTend.reportString>自动治疗</JobDriver_GolemSelfTend.reportString>
   <JobDriver_MechaMine.reportString>挖掘</JobDriver_MechaMine.reportString>
   <JobDriver_FleshHarvest.reportString>收获植物</JobDriver_FleshHarvest.reportString>
@@ -12,5 +11,7 @@
   <JobDriver_GolemAbilityJob.reportString>使用能力</JobDriver_GolemAbilityJob.reportString>
   <JobDriver_GolemAttackStatic.reportString>瞄准TargetA</JobDriver_GolemAttackStatic.reportString>
 
+
+  <!--<JobDriver_GolemDespawnWait.reportString>静止</JobDriver_GolemDespawnWait.reportString>-->
 
 </LanguageData>

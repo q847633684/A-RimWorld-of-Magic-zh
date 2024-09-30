@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mending -->
+
+  <TM_ArtifactMendingHD.label>Mending</TM_ArtifactMendingHD.label>
+  <TM_ArtifactMendingHD.description>Mends and repairs equipped apparel and weapons.</TM_ArtifactMendingHD.description>
+
+
+  <!-- Health Charm -->
+
+  <TM_ArtifactHealthHD.label>Improved Health</TM_ArtifactHealthHD.label>
+  <TM_ArtifactHealthHD.description>Increases natural healing.</TM_ArtifactHealthHD.description>
+
+
+  <!-- Cat Eyes -->
+
+  <TM_ArtifactCatEyesHD.label>Dark Sight</TM_ArtifactCatEyesHD.label>
+  <TM_ArtifactCatEyesHD.description>Improves sight and grants minor night vision.</TM_ArtifactCatEyesHD.description>
+
+
+  <!-- Strength of Stone -->
+
+  <TM_ArtifactStrengthHD.label>Strength of Stone</TM_ArtifactStrengthHD.label>
+  <TM_ArtifactStrengthHD.description>An enchantment that increases manipulation.</TM_ArtifactStrengthHD.description>
+
+
+  <!-- Mind Ward -->
+
+  <TM_ArtifactMindHD.label>Mind Ward</TM_ArtifactMindHD.label>
+  <TM_ArtifactMindHD.description>A unique talisman that helps a pawn compartmentalize their emotions to quickly recover from a mental breakdown.</TM_ArtifactMindHD.description>
+
+
+  <!-- Renewal -->
+
+  <TM_ArtifactRenewalHD.label>Renewal</TM_ArtifactRenewalHD.label>
+  <TM_ArtifactRenewalHD.description>Improves the quality of sleep.</TM_ArtifactRenewalHD.description>
+
+
+  <!-- Arcane Recovery -->
+
+  <TM_ArtifactArcaneRecoveryHD.label>Arcane Recovery</TM_ArtifactArcaneRecoveryHD.label>
+  <TM_ArtifactArcaneRecoveryHD.description>Increases the recovery rate from Arcane Weakness; does not reduce the amount of Arcane Weakness acquired.</TM_ArtifactArcaneRecoveryHD.description>
+
+
+  <!-- Pathfinding -->
+
+  <TM_ArtifactPathfindingHD.label>Pathfinding</TM_ArtifactPathfindingHD.label>
+  <TM_ArtifactPathfindingHD.description>A talisman that uncannily ascertains an easy path across any obstacle; bypasses the movement penalty for obstacles and terrain.</TM_ArtifactPathfindingHD.description>
+
+
+  <!-- Defensive Bracers -->
+
+  <TM_ArtifactBlockHD.label>Blocking</TM_ArtifactBlockHD.label>
+  <TM_ArtifactBlockHD.description>Blocks physical attacks; prevents damage from successfully blocked attacks.</TM_ArtifactBlockHD.description>
+
+  <TM_ArtifactDeflectHD.label>Deflective Blocking</TM_ArtifactDeflectHD.label>
+  <TM_ArtifactDeflectHD.description>Blocks attacks and can deflect projectiles to nearby enemies; prevents damage from a successfully deflected attack.</TM_ArtifactDeflectHD.description>
+
+
+  <!-- Energy Pool Boosts -->
+
+  <TM_Artifact_BloodBoostHD.label>Blood Boost</TM_Artifact_BloodBoostHD.label>
+  <TM_Artifact_BloodBoostHD.description>Increases the maximum blood magic available to a blood mage.</TM_Artifact_BloodBoostHD.description>
+
+  <TM_Artifact_PsionicBoostHD.label>Psionic Boost</TM_Artifact_PsionicBoostHD.label>
+  <TM_Artifact_PsionicBoostHD.description>Increases the maximum psionic energy available to a psionic.</TM_Artifact_PsionicBoostHD.description>
+
+  <TM_Artifact_HateBoostHD.label>Hate Boost</TM_Artifact_HateBoostHD.label>
+  <TM_Artifact_HateBoostHD.description>Increases the maximum hate available to a death knight.</TM_Artifact_HateBoostHD.description>
+
+
+  <!-- soul orb infusion debuff -->
+
+  <TM_TraitInfusionHD.label>Trait Infusion</TM_TraitInfusionHD.label>
+  <TM_TraitInfusionHD.description>A pawn has gained traits through magical infusion; this will affect their sense of self.</TM_TraitInfusionHD.description>
+
+
+</LanguageData>

@@ -3,50 +3,50 @@
 
   <!-- SEVER MAGIC -->
 
-  <TM_Botched_SeverMagicTD.stages.0.label>拙劣的严厉仪式</TM_Botched_SeverMagicTD.stages.0.label>
-  <TM_Botched_SeverMagicTD.stages.0.description>严酷仪式搞砸了，给了法师报复的机会。</TM_Botched_SeverMagicTD.stages.0.description>
+  <!--<TM_Botched_SeverMagicTD.stages.0.label>拙劣的严厉仪式</TM_Botched_SeverMagicTD.stages.0.label>-->
+  <!--<TM_Botched_SeverMagicTD.stages.0.description>严酷仪式搞砸了，给了法师报复的机会。</TM_Botched_SeverMagicTD.stages.0.description>-->
 
-  <TM_Lethal_SeverMagicTD.stages.0.label>致命严酷仪式</TM_Lethal_SeverMagicTD.stages.0.label>
-  <TM_Lethal_SeverMagicTD.stages.0.description>那个仪式缺乏秩序，技术也很糟糕，杀死了法师。</TM_Lethal_SeverMagicTD.stages.0.description>
+  <!--<TM_Lethal_SeverMagicTD.stages.0.label>致命严酷仪式</TM_Lethal_SeverMagicTD.stages.0.label>-->
+  <!--<TM_Lethal_SeverMagicTD.stages.0.description>那个仪式缺乏秩序，技术也很糟糕，杀死了法师。</TM_Lethal_SeverMagicTD.stages.0.description>-->
 
-  <TM_Success_SeverMagicTD.stages.0.label>成功的严酷仪式</TM_Success_SeverMagicTD.stages.0.label>
-  <TM_Success_SeverMagicTD.stages.0.description>严酷仪式成功，将我们从另一位法师的压迫中解放出来。</TM_Success_SeverMagicTD.stages.0.description>
+  <!--<TM_Success_SeverMagicTD.stages.0.label>成功的严酷仪式</TM_Success_SeverMagicTD.stages.0.label>-->
+  <!--<TM_Success_SeverMagicTD.stages.0.description>严酷仪式成功，将我们从另一位法师的压迫中解放出来。</TM_Success_SeverMagicTD.stages.0.description>-->
 
-  <TM_Flawless_SeverMagicTD.stages.0.label>完美的严酷仪式</TM_Flawless_SeverMagicTD.stages.0.label>
-  <TM_Flawless_SeverMagicTD.stages.0.description>合唱的声音，虚空使者的强度，法师脸上不可避免的表情 - 没有什么可以阻止我们的远征！</TM_Flawless_SeverMagicTD.stages.0.description>
+  <!--<TM_Flawless_SeverMagicTD.stages.0.label>完美的严酷仪式</TM_Flawless_SeverMagicTD.stages.0.label>-->
+  <!--<TM_Flawless_SeverMagicTD.stages.0.description>合唱的声音，虚空使者的强度，法师脸上不可避免的表情 - 没有什么可以阻止我们的远征！</TM_Flawless_SeverMagicTD.stages.0.description>-->
 
-  <TM_MagicSeverenceTD.stages.0.label>与魔法隔绝</TM_MagicSeverenceTD.stages.0.label>
-  <TM_MagicSeverenceTD.stages.0.description>我失去了一些曾经定义我是谁的东西； 我感到失望和空虚。</TM_MagicSeverenceTD.stages.0.description>
+  <!--<TM_MagicSeverenceTD.stages.0.label>与魔法隔绝</TM_MagicSeverenceTD.stages.0.label>-->
+  <!--<TM_MagicSeverenceTD.stages.0.description>我失去了一些曾经定义我是谁的东西； 我感到失望和空虚。</TM_MagicSeverenceTD.stages.0.description>-->
 
-  <TM_SeverMagic_ForApproveTD.stages.0.label>允许斩断魔法</TM_SeverMagic_ForApproveTD.stages.0.label>
-  <TM_SeverMagic_ForApproveTD.stages.0.description>我们的殖民地进行了一场切断法师魔法的仪式； 真是卑鄙野蛮的行为。</TM_SeverMagic_ForApproveTD.stages.0.description>
+  <!--<TM_SeverMagic_ForApproveTD.stages.0.label>允许斩断魔法</TM_SeverMagic_ForApproveTD.stages.0.label>-->
+  <!--<TM_SeverMagic_ForApproveTD.stages.0.description>我们的殖民地进行了一场切断法师魔法的仪式； 真是卑鄙野蛮的行为。</TM_SeverMagic_ForApproveTD.stages.0.description>-->
 
-  <TM_SeverMagic_ForVeneratedTD.stages.0.label>允许斩断魔法</TM_SeverMagic_ForVeneratedTD.stages.0.label>
-  <TM_SeverMagic_ForVeneratedTD.stages.0.description>我们的殖民地进行了一场切断法师魔法的仪式； 这种令人发指的野蛮行为是对我们所信仰的一切的侮辱。</TM_SeverMagic_ForVeneratedTD.stages.0.description>
+  <!--<TM_SeverMagic_ForVeneratedTD.stages.0.label>允许斩断魔法</TM_SeverMagic_ForVeneratedTD.stages.0.label>-->
+  <!--<TM_SeverMagic_ForVeneratedTD.stages.0.description>我们的殖民地进行了一场切断法师魔法的仪式； 这种令人发指的野蛮行为是对我们所信仰的一切的侮辱。</TM_SeverMagic_ForVeneratedTD.stages.0.description>-->
 
 
   <!-- BESTOW MAGIC -->
 
-  <TM_Botched_BestowMagicTD.stages.0.label>拙劣的送礼仪式</TM_Botched_BestowMagicTD.stages.0.label>
-  <TM_Botched_BestowMagicTD.stages.0.description>赠送仪式很糟糕，没有授予魔法火花。</TM_Botched_BestowMagicTD.stages.0.description>
+  <!--<TM_Botched_BestowMagicTD.stages.0.label>拙劣的送礼仪式</TM_Botched_BestowMagicTD.stages.0.label>-->
+  <!--<TM_Botched_BestowMagicTD.stages.0.description>赠送仪式很糟糕，没有授予魔法火花。</TM_Botched_BestowMagicTD.stages.0.description>-->
 
-  <TM_Success_BestowMagicTD.stages.0.label>成功送礼仪式</TM_Success_BestowMagicTD.stages.0.label>
-  <TM_Success_BestowMagicTD.stages.0.description>赠送仪式成功赋予魔法火花。</TM_Success_BestowMagicTD.stages.0.description>
+  <!--<TM_Success_BestowMagicTD.stages.0.label>成功送礼仪式</TM_Success_BestowMagicTD.stages.0.label>-->
+  <!--<TM_Success_BestowMagicTD.stages.0.description>赠送仪式成功赋予魔法火花。</TM_Success_BestowMagicTD.stages.0.description>-->
 
-  <TM_Flawless_BestowMagicTD.stages.0.label>开明的礼物仪式</TM_Flawless_BestowMagicTD.stages.0.label>
-  <TM_Flawless_BestowMagicTD.stages.0.description>仿佛天堂打开了祝福仪式，齐声歌唱我们事业的荣耀！</TM_Flawless_BestowMagicTD.stages.0.description>
+  <!--<TM_Flawless_BestowMagicTD.stages.0.label>开明的礼物仪式</TM_Flawless_BestowMagicTD.stages.0.label>-->
+  <!--<TM_Flawless_BestowMagicTD.stages.0.description>仿佛天堂打开了祝福仪式，齐声歌唱我们事业的荣耀！</TM_Flawless_BestowMagicTD.stages.0.description>-->
 
 
   <!-- BESTOW MAGIC CLASS -->
 
-  <TM_Poor_BestowMagicClassTD.stages.0.label>平淡的奥术道路仪式</TM_Poor_BestowMagicClassTD.stages.0.label>
-  <TM_Poor_BestowMagicClassTD.stages.0.description>引导法师走向奥术之路的仪式平淡无奇。</TM_Poor_BestowMagicClassTD.stages.0.description>
+  <!--<TM_Poor_BestowMagicClassTD.stages.0.label>平淡的奥术道路仪式</TM_Poor_BestowMagicClassTD.stages.0.label>-->
+  <!--<TM_Poor_BestowMagicClassTD.stages.0.description>引导法师走向奥术之路的仪式平淡无奇。</TM_Poor_BestowMagicClassTD.stages.0.description>-->
 
-  <TM_Moderate_BestowMagicClassTD.stages.0.label>成功的奥术之路仪式</TM_Moderate_BestowMagicClassTD.stages.0.label>
-  <TM_Moderate_BestowMagicClassTD.stages.0.description>奥术路径选择仪式令人鼓舞且有趣。</TM_Moderate_BestowMagicClassTD.stages.0.description>
+  <!--<TM_Moderate_BestowMagicClassTD.stages.0.label>成功的奥术之路仪式</TM_Moderate_BestowMagicClassTD.stages.0.label>-->
+  <!--<TM_Moderate_BestowMagicClassTD.stages.0.description>奥术路径选择仪式令人鼓舞且有趣。</TM_Moderate_BestowMagicClassTD.stages.0.description>-->
 
-  <TM_Good_BestowMagicClassTD.stages.0.label>鼓舞人心的奥术之路仪式</TM_Good_BestowMagicClassTD.stages.0.label>
-  <TM_Good_BestowMagicClassTD.stages.0.description>奥术之路仪式非常精彩，充满情感和魔法 - 看到有人实现自己的梦想总是很棒！</TM_Good_BestowMagicClassTD.stages.0.description>
+  <!--<TM_Good_BestowMagicClassTD.stages.0.label>鼓舞人心的奥术之路仪式</TM_Good_BestowMagicClassTD.stages.0.label>-->
+  <!--<TM_Good_BestowMagicClassTD.stages.0.description>奥术之路仪式非常精彩，充满情感和魔法 - 看到有人实现自己的梦想总是很棒！</TM_Good_BestowMagicClassTD.stages.0.description>-->
 
 
 </LanguageData>

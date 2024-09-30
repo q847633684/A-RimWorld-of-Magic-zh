@@ -3,16 +3,6 @@
 
   <!-- These are Mote ThingDefs. Remain the same, DO NOT translate them. -->
 
-  <TM_Mote_StormSpinDown.label>Mote</TM_Mote_StormSpinDown.label>
-  <TM_Mote_SDWaveInner.label>Mote</TM_Mote_SDWaveInner.label>
-  <TM_Mote_SDSpin.label>Mote</TM_Mote_SDSpin.label>
-  <TM_Mote_SDSpinUp.label>Mote</TM_Mote_SDSpinUp.label>
-  <TM_Mote_HeatShield.label>Mote</TM_Mote_HeatShield.label>
-  <TM_Mote_ShadowSwirlOut.label>Mote</TM_Mote_ShadowSwirlOut.label>
-  <TM_Mote_ShadowCircleOut.label>Mote</TM_Mote_ShadowCircleOut.label>
-  <TM_Mote_MKWaveInner.label>Mote</TM_Mote_MKWaveInner.label>
-  <TM_Mote_MKWaveMiddle.label>Mote</TM_Mote_MKWaveMiddle.label>
-  <TM_Mote_GlowingRune.label>Mote</TM_Mote_GlowingRune.label>
   <TM_Mote_ExplosionWaveInner.label>Mote</TM_Mote_ExplosionWaveInner.label>
   <TM_Mote_ExplosionWaveOuter.label>Mote</TM_Mote_ExplosionWaveOuter.label>
   <TM_Mote_RageWaveInner.label>Mote</TM_Mote_RageWaveInner.label>
@@ -59,33 +49,12 @@
   <TM_Mote_GiantExplosion.label>Mote</TM_Mote_GiantExplosion.label>
   <TM_Mote_GiantExplosionInner.label>Mote</TM_Mote_GiantExplosionInner.label>
   <TM_Mote_Stoneskin.label>Mote</TM_Mote_Stoneskin.label>
-  <TM_Mote_BullHead.label>Mote</TM_Mote_BullHead.label>
-  <TM_Mote_LightningShield.label>Mote</TM_Mote_LightningShield.label>
-  <TM_Mote_WaterShield.label>Mote</TM_Mote_WaterShield.label>
-  <TM_Mote_FireShield.label>Mote</TM_Mote_FireShield.label>
-  <TM_Mote_EarthShield.label>Mote</TM_Mote_EarthShield.label>
-  <Mote_Golem_LSFA_South.label>Mote</Mote_Golem_LSFA_South.label>
-  <Mote_Golem_LSFA_East.label>Mote</Mote_Golem_LSFA_East.label>
-  <Mote_Golem_LSFA_West.label>Mote</Mote_Golem_LSFA_West.label>
-  <Mote_EvilEye.label>Mote</Mote_EvilEye.label>
-  <Mote_WallSpike.label>Mote</Mote_WallSpike.label>
-  <Mote_GlowingRune.label>Mote</Mote_GlowingRune.label>
-  <Mote_GlowingRuneA.label>Mote</Mote_GlowingRuneA.label>
-  <Mote_ManaVortex.label>Mote</Mote_ManaVortex.label>
-  <Mote_BlueSpireW.label>Mote</Mote_BlueSpireW.label>
-  <Mote_BlueSpireWs.label>Mote</Mote_BlueSpireWs.label>
-  <Mote_BlueSpireEs.label>Mote</Mote_BlueSpireEs.label>
-  <Mote_BlueSpireE.label>Mote</Mote_BlueSpireE.label>
-  <Mote_BlueSwirl.label>Mote</Mote_BlueSwirl.label>
-  <Mote_RedSwirl.label>Mote</Mote_RedSwirl.label>
-  <Mote_Base_Smoke.label>Mote</Mote_Base_Smoke.label>
   <Mote_Healing_Small.label>Mote</Mote_Healing_Small.label>
   <Mote_SpiritWolf_North.label>Mote</Mote_SpiritWolf_North.label>
   <Mote_SpiritWolf_South.label>Mote</Mote_SpiritWolf_South.label>
   <Mote_SpiritWolf_East.label>Mote</Mote_SpiritWolf_East.label>
   <Mote_SpiritWolf_West.label>Mote</Mote_SpiritWolf_West.label>
   <Mote_BlackSmoke.label>Mote</Mote_BlackSmoke.label>
-  <Mote_BlackSmokeLow.label>Mote</Mote_BlackSmokeLow.label>
   <Mote_Hex.label>Mote</Mote_Hex.label>
   <Mote_Flowers.label>Mote</Mote_Flowers.label>
   <Mote_LightBarrier.label>Mote</Mote_LightBarrier.label>
@@ -104,12 +73,9 @@
   <Mote_DragonStrike.label>Mote</Mote_DragonStrike.label>
   <Mote_Cleave.label>Mote</Mote_Cleave.label>
   <Mote_DirectionalDirt.label>Mote</Mote_DirectionalDirt.label>
-  <Mote_DirectionalDirtOverhead.label>Mote</Mote_DirectionalDirtOverhead.label>
   <Mote_Heat.label>Mote</Mote_Heat.label>
   <Mote_ShadowCloud.label>Mote</Mote_ShadowCloud.label>
   <Mote_Ice.label>Mote</Mote_Ice.label>
-  <Mote_WhiteIce.label>Mote</Mote_WhiteIce.label>
-  <Mote_PurpleSmoke.label>Mote</Mote_PurpleSmoke.label>
   <Mote_TechnoShield.label>Mote</Mote_TechnoShield.label>
   <Mote_AlterFate.label>Mote</Mote_AlterFate.label>
   <Mote_Scan.label>Mote</Mote_Scan.label>
@@ -127,9 +93,7 @@
   <Mote_PsiCurrent.label>Mote</Mote_PsiCurrent.label>
   <Mote_Psi_Arcane.label>Mote</Mote_Psi_Arcane.label>
   <Mote_ArcaneStream.label>Mote</Mote_ArcaneStream.label>
-  <Mote_EnergyStream.label>Mote</Mote_EnergyStream.label>
   <Mote_Psi.label>Mote</Mote_Psi.label>
-  <Mote_Psi_Black.label>Mote</Mote_Psi_Black.label>
   <Mote_Psi_Grayscale.label>Mote</Mote_Psi_Grayscale.label>
   <Mote_Psi_Yellow.label>Mote</Mote_Psi_Yellow.label>
   <Mote_Chi_Grayscale.label>Mote</Mote_Chi_Grayscale.label>
@@ -161,7 +125,6 @@
   <Mote_Enchanting.label>Mote</Mote_Enchanting.label>
   <Mote_Casting.label>Mote</Mote_Casting.label>
   <Mote_AntiCasting.label>Mote</Mote_AntiCasting.label>
-  <Mote_SpiritCasting.label>Mote</Mote_SpiritCasting.label>
   <Mote_PowerWave.label>Mote</Mote_PowerWave.label>
   <Mote_Siphon.label>Mote</Mote_Siphon.label>
   <Mote_ArcaneCircle.label>Mote</Mote_ArcaneCircle.label>
@@ -204,6 +167,33 @@
   <!--<TM_Mote_MKWaveInner.label>Mote</TM_Mote_MKWaveInner.label>-->
   <!--<TM_Mote_MKWaveMiddle.label>Mote</TM_Mote_MKWaveMiddle.label>-->
   <!--<TM_Mote_GlowingRune.label>Mote</TM_Mote_GlowingRune.label>-->
+  <!--<TM_Mote_BullHead.label>Mote</TM_Mote_BullHead.label>-->
+  <!--<TM_Mote_LightningShield.label>Mote</TM_Mote_LightningShield.label>-->
+  <!--<TM_Mote_WaterShield.label>Mote</TM_Mote_WaterShield.label>-->
+  <!--<TM_Mote_FireShield.label>Mote</TM_Mote_FireShield.label>-->
+  <!--<TM_Mote_EarthShield.label>Mote</TM_Mote_EarthShield.label>-->
+  <!--<Mote_Golem_LSFA_South.label>Mote</Mote_Golem_LSFA_South.label>-->
+  <!--<Mote_Golem_LSFA_East.label>Mote</Mote_Golem_LSFA_East.label>-->
+  <!--<Mote_Golem_LSFA_West.label>Mote</Mote_Golem_LSFA_West.label>-->
+  <!--<Mote_EvilEye.label>Mote</Mote_EvilEye.label>-->
+  <!--<Mote_WallSpike.label>Mote</Mote_WallSpike.label>-->
+  <!--<Mote_GlowingRune.label>Mote</Mote_GlowingRune.label>-->
+  <!--<Mote_GlowingRuneA.label>Mote</Mote_GlowingRuneA.label>-->
+  <!--<Mote_ManaVortex.label>Mote</Mote_ManaVortex.label>-->
+  <!--<Mote_BlueSpireW.label>Mote</Mote_BlueSpireW.label>-->
+  <!--<Mote_BlueSpireWs.label>Mote</Mote_BlueSpireWs.label>-->
+  <!--<Mote_BlueSpireEs.label>Mote</Mote_BlueSpireEs.label>-->
+  <!--<Mote_BlueSpireE.label>Mote</Mote_BlueSpireE.label>-->
+  <!--<Mote_BlueSwirl.label>Mote</Mote_BlueSwirl.label>-->
+  <!--<Mote_RedSwirl.label>Mote</Mote_RedSwirl.label>-->
+  <!--<Mote_Base_Smoke.label>Mote</Mote_Base_Smoke.label>-->
+  <!--<Mote_BlackSmokeLow.label>Mote</Mote_BlackSmokeLow.label>-->
+  <!--<Mote_DirectionalDirtOverhead.label>Mote</Mote_DirectionalDirtOverhead.label>-->
+  <!--<Mote_WhiteIce.label>Mote</Mote_WhiteIce.label>-->
+  <!--<Mote_PurpleSmoke.label>Mote</Mote_PurpleSmoke.label>-->
+  <!--<Mote_EnergyStream.label>Mote</Mote_EnergyStream.label>-->
+  <!--<Mote_Psi_Black.label>Mote</Mote_Psi_Black.label>-->
+  <!--<Mote_SpiritCasting.label>Mote</Mote_SpiritCasting.label>-->
   <!--<TM_Mote_ExplosionWaveInner.label>Mote</TM_Mote_ExplosionWaveInner.label>-->
   <!--<TM_Mote_ExplosionWaveOuter.label>Mote</TM_Mote_ExplosionWaveOuter.label>-->
   <!--<TM_Mote_RageWaveInner.label>Mote</TM_Mote_RageWaveInner.label>-->
@@ -250,33 +240,12 @@
   <!--<TM_Mote_GiantExplosion.label>Mote</TM_Mote_GiantExplosion.label>-->
   <!--<TM_Mote_GiantExplosionInner.label>Mote</TM_Mote_GiantExplosionInner.label>-->
   <!--<TM_Mote_Stoneskin.label>Mote</TM_Mote_Stoneskin.label>-->
-  <!--<TM_Mote_BullHead.label>Mote</TM_Mote_BullHead.label>-->
-  <!--<TM_Mote_LightningShield.label>Mote</TM_Mote_LightningShield.label>-->
-  <!--<TM_Mote_WaterShield.label>Mote</TM_Mote_WaterShield.label>-->
-  <!--<TM_Mote_FireShield.label>Mote</TM_Mote_FireShield.label>-->
-  <!--<TM_Mote_EarthShield.label>Mote</TM_Mote_EarthShield.label>-->
-  <!--<Mote_Golem_LSFA_South.label>Mote</Mote_Golem_LSFA_South.label>-->
-  <!--<Mote_Golem_LSFA_East.label>Mote</Mote_Golem_LSFA_East.label>-->
-  <!--<Mote_Golem_LSFA_West.label>Mote</Mote_Golem_LSFA_West.label>-->
-  <!--<Mote_EvilEye.label>Mote</Mote_EvilEye.label>-->
-  <!--<Mote_WallSpike.label>Mote</Mote_WallSpike.label>-->
-  <!--<Mote_GlowingRune.label>Mote</Mote_GlowingRune.label>-->
-  <!--<Mote_GlowingRuneA.label>Mote</Mote_GlowingRuneA.label>-->
-  <!--<Mote_ManaVortex.label>Mote</Mote_ManaVortex.label>-->
-  <!--<Mote_BlueSpireW.label>Mote</Mote_BlueSpireW.label>-->
-  <!--<Mote_BlueSpireWs.label>Mote</Mote_BlueSpireWs.label>-->
-  <!--<Mote_BlueSpireEs.label>Mote</Mote_BlueSpireEs.label>-->
-  <!--<Mote_BlueSpireE.label>Mote</Mote_BlueSpireE.label>-->
-  <!--<Mote_BlueSwirl.label>Mote</Mote_BlueSwirl.label>-->
-  <!--<Mote_RedSwirl.label>Mote</Mote_RedSwirl.label>-->
-  <!--<Mote_Base_Smoke.label>Mote</Mote_Base_Smoke.label>-->
   <!--<Mote_Healing_Small.label>Mote</Mote_Healing_Small.label>-->
   <!--<Mote_SpiritWolf_North.label>Mote</Mote_SpiritWolf_North.label>-->
   <!--<Mote_SpiritWolf_South.label>Mote</Mote_SpiritWolf_South.label>-->
   <!--<Mote_SpiritWolf_East.label>Mote</Mote_SpiritWolf_East.label>-->
   <!--<Mote_SpiritWolf_West.label>Mote</Mote_SpiritWolf_West.label>-->
   <!--<Mote_BlackSmoke.label>Mote</Mote_BlackSmoke.label>-->
-  <!--<Mote_BlackSmokeLow.label>Mote</Mote_BlackSmokeLow.label>-->
   <!--<Mote_Hex.label>Mote</Mote_Hex.label>-->
   <!--<Mote_Flowers.label>Mote</Mote_Flowers.label>-->
   <!--<Mote_LightBarrier.label>Mote</Mote_LightBarrier.label>-->
@@ -295,12 +264,9 @@
   <!--<Mote_DragonStrike.label>Mote</Mote_DragonStrike.label>-->
   <!--<Mote_Cleave.label>Mote</Mote_Cleave.label>-->
   <!--<Mote_DirectionalDirt.label>Mote</Mote_DirectionalDirt.label>-->
-  <!--<Mote_DirectionalDirtOverhead.label>Mote</Mote_DirectionalDirtOverhead.label>-->
   <!--<Mote_Heat.label>Mote</Mote_Heat.label>-->
   <!--<Mote_ShadowCloud.label>Mote</Mote_ShadowCloud.label>-->
   <!--<Mote_Ice.label>Mote</Mote_Ice.label>-->
-  <!--<Mote_WhiteIce.label>Mote</Mote_WhiteIce.label>-->
-  <!--<Mote_PurpleSmoke.label>Mote</Mote_PurpleSmoke.label>-->
   <!--<Mote_TechnoShield.label>Mote</Mote_TechnoShield.label>-->
   <!--<Mote_AlterFate.label>Mote</Mote_AlterFate.label>-->
   <!--<Mote_Scan.label>Mote</Mote_Scan.label>-->
@@ -318,9 +284,7 @@
   <!--<Mote_PsiCurrent.label>Mote</Mote_PsiCurrent.label>-->
   <!--<Mote_Psi_Arcane.label>Mote</Mote_Psi_Arcane.label>-->
   <!--<Mote_ArcaneStream.label>Mote</Mote_ArcaneStream.label>-->
-  <!--<Mote_EnergyStream.label>Mote</Mote_EnergyStream.label>-->
   <!--<Mote_Psi.label>Mote</Mote_Psi.label>-->
-  <!--<Mote_Psi_Black.label>Mote</Mote_Psi_Black.label>-->
   <!--<Mote_Psi_Grayscale.label>Mote</Mote_Psi_Grayscale.label>-->
   <!--<Mote_Psi_Yellow.label>Mote</Mote_Psi_Yellow.label>-->
   <!--<Mote_Chi_Grayscale.label>Mote</Mote_Chi_Grayscale.label>-->
@@ -352,7 +316,6 @@
   <!--<Mote_Enchanting.label>Mote</Mote_Enchanting.label>-->
   <!--<Mote_Casting.label>Mote</Mote_Casting.label>-->
   <!--<Mote_AntiCasting.label>Mote</Mote_AntiCasting.label>-->
-  <!--<Mote_SpiritCasting.label>Mote</Mote_SpiritCasting.label>-->
   <!--<Mote_PowerWave.label>Mote</Mote_PowerWave.label>-->
   <!--<Mote_Siphon.label>Mote</Mote_Siphon.label>-->
   <!--<Mote_ArcaneCircle.label>Mote</Mote_ArcaneCircle.label>-->

@@ -5,34 +5,89 @@
 
   <TableGemcutting.label>附魔台</TableGemcutting.label>
   <TableGemcutting.description>一个用来加工附魔石的工作台</TableGemcutting.description>
-  <Blueprint_TableGemcutting.label>附魔台 (蓝图)</Blueprint_TableGemcutting.label>
-  <Blueprint_Install_TableGemcutting.label>附魔台 (蓝图)</Blueprint_Install_TableGemcutting.label>
-  <Frame_TableGemcutting.label>附魔台 (建筑)</Frame_TableGemcutting.label>
-  <Frame_TableGemcutting.description>制作附魔的工作台</Frame_TableGemcutting.description>
+  <TableGemcutting_Blueprint.label>gemcrafting table (blueprint)</TableGemcutting_Blueprint.label>
+  <TableGemcutting_Blueprint_Install.label>gemcrafting table (blueprint)</TableGemcutting_Blueprint_Install.label>
+  <TableGemcutting_Frame.label>gemcrafting table (building)</TableGemcutting_Frame.label>
+  <TableGemcutting_Frame.description>A workbench used for refining enchanting stones</TableGemcutting_Frame.description>
 
   <TableMagicPrinter.label>刻绘架</TableMagicPrinter.label>
   <TableMagicPrinter.description>一个用来制作卷轴籍和卷轴的刻绘架.</TableMagicPrinter.description>
-  <Blueprint_TableMagicPrinter.label>刻绘架 (蓝图)</Blueprint_TableMagicPrinter.label>
-  <Blueprint_Install_TableMagicPrinter.label>刻绘架 (蓝图)</Blueprint_Install_TableMagicPrinter.label>
-  <Frame_TableMagicPrinter.label>刻绘架 (建筑)</Frame_TableMagicPrinter.label>
-  <Frame_TableMagicPrinter.description>用于制作书籍和卷轴的刻绘架.</Frame_TableMagicPrinter.description>
+  <TableMagicPrinter_Blueprint.label>scribing table (blueprint)</TableMagicPrinter_Blueprint.label>
+  <TableMagicPrinter_Blueprint_Install.label>scribing table (blueprint)</TableMagicPrinter_Blueprint_Install.label>
+  <TableMagicPrinter_Frame.label>scribing table (building)</TableMagicPrinter_Frame.label>
+  <TableMagicPrinter_Frame.description>A printing press used to make books and scrolls.</TableMagicPrinter_Frame.description>
 
   <TableArcaneForge.label>奥术熔炉</TableArcaneForge.label>
   <TableArcaneForge.description>只有法师才能使用的奥术熔炉，在奥术熔炉上可以消耗法力来锻造魔法物品。锻造出来的物品质量由法师的智识技能和法师的等级来决定。</TableArcaneForge.description>
-  <Blueprint_TableArcaneForge.label>奥术熔炉 (蓝图)</Blueprint_TableArcaneForge.label>
-  <Blueprint_Install_TableArcaneForge.label>奥术熔炉 (蓝图)</Blueprint_Install_TableArcaneForge.label>
-  <Frame_TableArcaneForge.label>奥术熔炉 (建筑)</Frame_TableArcaneForge.label>
-  <Frame_TableArcaneForge.description>奥术熔炉允许法师运用原始奥术力量来创造物质对象。
+  <TableArcaneForge_Blueprint.label>arcane forge (blueprint)</TableArcaneForge_Blueprint.label>
+  <TableArcaneForge_Blueprint_Install.label>arcane forge (blueprint)</TableArcaneForge_Blueprint_Install.label>
+  <TableArcaneForge_Frame.label>arcane forge (building)</TableArcaneForge_Frame.label>
+  <TableArcaneForge_Frame.description>The arcane forge allows a mage to wield raw arcane power to create material objects. 
+	
+Scientifically, the arcane forge might be described as a matter fabricator, though the exact mechanics have yet to be determined.  Only those possessing the ability to manipulate arcane power are able to use the arcane forge.
 
-从科学上讲，奥术锻造可以被描述为物质制造者，尽管确切的机制尚未确定。 只有那些拥有操纵奥术力量的人才能使用奥术熔炉。
-
-使用奥术锻造可以极大地提高制作速度，但会消耗法力。 物品的品质由法师的智力技能和职业等级决定。</Frame_TableArcaneForge.description>
+Using the arcane forge dramatically increases crafting speed but consumes mana.  Items of quality are determined by the mage's intelligence skill and class level.</TableArcaneForge_Frame.description>
 
   <TableMagicCircle.label>魔法阵</TableMagicCircle.label>
   <TableMagicCircle.description>魔法阵是一个建筑，通过将物理和奥术融合在一起来增强魔法。虽然看起来很简单，但魔法阵的轮廓是用精致的符文勾勒出来的，并且构造得非常精确。法师可以使用魔法阵来增强他们的力量，或者将他们的能量与其他法师结合来创造独特的，强大的效果。这个魔法阵最多可以容纳六个法师。建筑材料的种类直接影响着魔法阵的质量。\n		石头（任何）：没有增强\n		钢铁：没有增强\n		木：没有增强\n		翡翠：成功几率+20%\n		白银：退还材料费的20%\n		玻璃钢：增强+15%\n		金子：事件增强+10%，持续时间+20%\n		铀：持续时间和成功率+15%\n		魔法合金：成功几率+15%，返还25%法力消耗*管理提示：当魔法阵检测到法师能够执行仪式时，它将自己补充燃料。</TableMagicCircle.description>
-  <Blueprint_TableMagicCircle.label>魔法阵 (蓝图)</Blueprint_TableMagicCircle.label>
-  <Frame_TableMagicCircle.label>魔法阵 (建筑)</Frame_TableMagicCircle.label>
-  <Frame_TableMagicCircle.description>魔法阵是一种通过将物理和奥术对齐到一个焦点来增强魔法的构造。 虽然看起来很简单，但这个圆圈是用精致的符文勾勒出来的，并且构造得非常精确。
+  <TableMagicCircle_Blueprint.label>magic circle (blueprint)</TableMagicCircle_Blueprint.label>
+  <TableMagicCircle_Frame.label>magic circle (building)</TableMagicCircle_Frame.label>
+  <TableMagicCircle_Frame.description>The magic circle is a construct that amplifies magic by aligning the physical and arcane into a focal point. While it may seem simple, the circle is outlined with elaborate runes and constructed with detailed precision.
+
+Mages can use the magic circle to augment their power or combine their energy with other mages to create unique, powerful effects. The circle may accomodate up to six mages.
+
+The type of material used in construction directly affects the quality of the magic circle.
+Stone (any): no bonuses
+Steel: no bonus
+Wood: no bonus
+Jade: success chance +30%
+Silver: refunds 25% of material cost
+Plasteel: event points +15%, duration +10%
+Gold: event points +20%, duration +20%, refunds 15% of material cost
+Uranium: duration and success chance +20%
+Arcalleum: success chance +15%, refunds 25% of mana cost
+
+*Admin note: the circle will fuel itself when it detects mages capable of performing the ritual.</TableMagicCircle_Frame.description>
+
+  <TableSmallMagicCircle.label>魔法中心</TableSmallMagicCircle.label>
+  <TableSmallMagicCircle.description>魔法中心是研究魔法雷电和神秘联系产生的副产品。魔法中心能让法师可视化他们与盖亚和其他法师的联系，允许他们与自然、秩序和混乱进行“互动”。魔法中心可以连接两个法师的魔法力量来执行强大的仪式。建筑材料的种类直接影响着魔法中心的质量\n		石头（任意）：无 \n		钢铁：无 \n		木：无 \n		翡翠：成功几率+15% \n		白银：返还材料的15% \n		玻璃钢：事件增强+15% \n		金子：事件增强+10%，持续时间+15%，返还材料的10% \n		铀：持续时间和成功几率+10% \n		魔法合金：成功几率+10%，退还10%的法力消耗\n		*管理提示：当魔法阵检测到法师能够执行仪式时，它将自己补充燃料。法师不能被迫在魔法中心工作，但会在条件满足时执行仪式。</TableSmallMagicCircle.description>
+  <TableSmallMagicCircle_Blueprint.label>magic focal point (blueprint)</TableSmallMagicCircle_Blueprint.label>
+  <TableSmallMagicCircle_Frame.label>magic focal point (building)</TableSmallMagicCircle_Frame.label>
+  <TableSmallMagicCircle_Frame.description>Arcane focal points are the byproduct of research into magical ley lines and arcane interconnectivity. The focal point allows a mage to visualize their connection to gaia and other other mages, allowing them greater interaction with nature, order, and chaos. The focal point can link the arcane power of two mages to perform powerful rituals.
+
+The type of material used in construction directly affects the quality of the magic circle.
+Stone (any): no bonuses
+Steel: no bonus
+Wood: no bonus
+Jade: success chance +15%
+Silver: refunds 15% of material cost
+Plasteel: event points +15%
+Gold: event points +10%, duration +15%, refunds 10% of material cost
+Uranium: duration and success chance +10%
+Arcalleum: success chance +10%, refunds 10% of mana cost
+
+*Admin note: the circle will fuel itself when it detects mages capable of performing the ritual. Mages can not be forced to work at the focal point, but will perform rituals when conditions are met.</TableSmallMagicCircle_Frame.description>
+
+
+  <!--<Blueprint_TableGemcutting.label>附魔台 (蓝图)</Blueprint_TableGemcutting.label>-->
+  <!--<Blueprint_Install_TableGemcutting.label>附魔台 (蓝图)</Blueprint_Install_TableGemcutting.label>-->
+  <!--<Frame_TableGemcutting.label>附魔台 (建筑)</Frame_TableGemcutting.label>-->
+  <!--<Frame_TableGemcutting.description>制作附魔的工作台</Frame_TableGemcutting.description>-->
+  <!--<Blueprint_TableMagicPrinter.label>刻绘架 (蓝图)</Blueprint_TableMagicPrinter.label>-->
+  <!--<Blueprint_Install_TableMagicPrinter.label>刻绘架 (蓝图)</Blueprint_Install_TableMagicPrinter.label>-->
+  <!--<Frame_TableMagicPrinter.label>刻绘架 (建筑)</Frame_TableMagicPrinter.label>-->
+  <!--<Frame_TableMagicPrinter.description>用于制作书籍和卷轴的刻绘架.</Frame_TableMagicPrinter.description>-->
+  <!--<Blueprint_TableArcaneForge.label>奥术熔炉 (蓝图)</Blueprint_TableArcaneForge.label>-->
+  <!--<Blueprint_Install_TableArcaneForge.label>奥术熔炉 (蓝图)</Blueprint_Install_TableArcaneForge.label>-->
+  <!--<Frame_TableArcaneForge.label>奥术熔炉 (建筑)</Frame_TableArcaneForge.label>-->
+  <!--<Frame_TableArcaneForge.description>奥术熔炉允许法师运用原始奥术力量来创造物质对象。
+
+从科学上讲，奥术锻造可以被描述为物质制造者，尽管确切的机制尚未确定。 只有那些拥有操纵奥术力量的人才能使用奥术熔炉。
+
+使用奥术锻造可以极大地提高制作速度，但会消耗法力。 物品的品质由法师的智力技能和职业等级决定。</Frame_TableArcaneForge.description>-->
+  <!--<Blueprint_TableMagicCircle.label>魔法阵 (蓝图)</Blueprint_TableMagicCircle.label>-->
+  <!--<Frame_TableMagicCircle.label>魔法阵 (建筑)</Frame_TableMagicCircle.label>-->
+  <!--<Frame_TableMagicCircle.description>魔法阵是一种通过将物理和奥术对齐到一个焦点来增强魔法的构造。 虽然看起来很简单，但这个圆圈是用精致的符文勾勒出来的，并且构造得非常精确。
 
 法师可以使用魔法阵来增强自己的力量，或者将自己的能量与其他法师结合起来，创造出独特、强大的效果。 这个圆圈最多可容纳六名法师。
 
@@ -47,13 +102,10 @@
 铀：持续时间和成功率+20%
 魔法合金：成功率+15%，返还25%的法力消耗
 
-*管理员注意：当圆圈检测到能够执行仪式的法师时，它会自行充能。</Frame_TableMagicCircle.description>
-
-  <TableSmallMagicCircle.label>魔法中心</TableSmallMagicCircle.label>
-  <TableSmallMagicCircle.description>魔法中心是研究魔法雷电和神秘联系产生的副产品。魔法中心能让法师可视化他们与盖亚和其他法师的联系，允许他们与自然、秩序和混乱进行“互动”。魔法中心可以连接两个法师的魔法力量来执行强大的仪式。建筑材料的种类直接影响着魔法中心的质量\n		石头（任意）：无 \n		钢铁：无 \n		木：无 \n		翡翠：成功几率+15% \n		白银：返还材料的15% \n		玻璃钢：事件增强+15% \n		金子：事件增强+10%，持续时间+15%，返还材料的10% \n		铀：持续时间和成功几率+10% \n		魔法合金：成功几率+10%，退还10%的法力消耗\n		*管理提示：当魔法阵检测到法师能够执行仪式时，它将自己补充燃料。法师不能被迫在魔法中心工作，但会在条件满足时执行仪式。</TableSmallMagicCircle.description>
-  <Blueprint_TableSmallMagicCircle.label>魔法中心 (蓝图)</Blueprint_TableSmallMagicCircle.label>
-  <Frame_TableSmallMagicCircle.label>魔法中心 (建筑)</Frame_TableSmallMagicCircle.label>
-  <Frame_TableSmallMagicCircle.description>奥术焦点是对魔法地脉和奥术互连性研究的副产品。 焦点使法师能够可视化他们与盖亚和其他法师的联系，使他们能够与自然、秩序和混乱进行更多的互动。 焦点可以连接两个法师的奥术力量来执行强大的仪式。
+*管理员注意：当圆圈检测到能够执行仪式的法师时，它会自行充能。</Frame_TableMagicCircle.description>-->
+  <!--<Blueprint_TableSmallMagicCircle.label>魔法中心 (蓝图)</Blueprint_TableSmallMagicCircle.label>-->
+  <!--<Frame_TableSmallMagicCircle.label>魔法中心 (建筑)</Frame_TableSmallMagicCircle.label>-->
+  <!--<Frame_TableSmallMagicCircle.description>奥术焦点是对魔法地脉和奥术互连性研究的副产品。 焦点使法师能够可视化他们与盖亚和其他法师的联系，使他们能够与自然、秩序和混乱进行更多的互动。 焦点可以连接两个法师的奥术力量来执行强大的仪式。
 
 建造材料的种类直接影响到法阵的品质。
 石头（任意）：无加成
@@ -66,7 +118,6 @@
 铀：持续时间和成功率+10%
 魔法合金：成功率+10%，返还10%的法力消耗
 
-*管理员注意：当圆圈检测到能够执行仪式的法师时，它会自行充能。 法师不能被迫在此处工作，但在满足条件时会进行仪式。</Frame_TableSmallMagicCircle.description>
-
+*管理员注意：当圆圈检测到能够执行仪式的法师时，它会自行充能。 法师不能被迫在此处工作，但在满足条件时会进行仪式。</Frame_TableSmallMagicCircle.description>-->
 
 </LanguageData>

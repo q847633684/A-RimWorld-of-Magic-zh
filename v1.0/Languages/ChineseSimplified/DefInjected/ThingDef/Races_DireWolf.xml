@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dire Wolf -->
+
+  <TM_Dire_WolfR.label>dire wolf</TM_Dire_WolfR.label>
+  <TM_Dire_WolfR.description>Dire wolves roam the north in great packs and fear neither man nor megasloth. A savage predator armed with razor sharp teeth and a coat like steel thread, dire wolves are as fierce as any known creature. They are often tied to mythical lore and are said to possess a unique link to arcane powers.</TM_Dire_WolfR.description>
+  <TM_Dire_WolfR.tools.0.label>left claw</TM_Dire_WolfR.tools.0.label>
+  <TM_Dire_WolfR.tools.1.label>right claw</TM_Dire_WolfR.tools.1.label>
+  <TM_Dire_WolfR.tools.3.label>head</TM_Dire_WolfR.tools.3.label>
+  <TM_Dire_WolfR_Leather.label>dire wolf leather</TM_Dire_WolfR_Leather.label>
+  <TM_Dire_WolfR_Leather.description>dire wolf leather</TM_Dire_WolfR_Leather.description>
+  <TM_Dire_WolfR_Leather.stuffProps.stuffAdjective>dire wolf leather</TM_Dire_WolfR_Leather.stuffProps.stuffAdjective>
+  <TM_Dire_WolfR_Meat.label>wolfmeat</TM_Dire_WolfR_Meat.label>
+  <TM_Dire_WolfR_Meat.description>wolfmeat</TM_Dire_WolfR_Meat.description>
+  <TM_Dire_WolfR_Corpse.label>dire wolf corpse</TM_Dire_WolfR_Corpse.label>
+  <TM_Dire_WolfR_Corpse.description>dire wolf corpse</TM_Dire_WolfR_Corpse.description>
+
+
+</LanguageData>

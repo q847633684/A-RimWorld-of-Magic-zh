@@ -3,196 +3,196 @@
 
   <!-- STONE GOLEM -->
 
-  <TM_StoneGolem.label>巨岩傀儡</TM_StoneGolem.label>
-  <TM_StoneGolem.description>一个由魔法与岩石构成的简易傀儡</TM_StoneGolem.description>
-  <TM_StoneGolem.tools.0.label>粉碎</TM_StoneGolem.tools.0.label>
-  <TM_StoneGolem.tools.1.label>左拳</TM_StoneGolem.tools.1.label>
-  <TM_StoneGolem.tools.2.label>右拳</TM_StoneGolem.tools.2.label>
+  <!--<TM_StoneGolem.label>巨岩傀儡</TM_StoneGolem.label>-->
+  <!--<TM_StoneGolem.description>一个由魔法与岩石构成的简易傀儡</TM_StoneGolem.description>-->
+  <!--<TM_StoneGolem.tools.0.label>粉碎</TM_StoneGolem.tools.0.label>-->
+  <!--<TM_StoneGolem.tools.1.label>左拳</TM_StoneGolem.tools.1.label>-->
+  <!--<TM_StoneGolem.tools.2.label>右拳</TM_StoneGolem.tools.2.label>-->
   <!-- Use Meat From: Human -->
-  <TM_StoneGolem_Corpse.label>巨岩傀儡尸体</TM_StoneGolem_Corpse.label>
-  <TM_StoneGolem_Corpse.description>巨岩傀儡尸体</TM_StoneGolem_Corpse.description>
-  <TM_StoneGolem_Leather.label>巨岩傀儡皮革</TM_StoneGolem_Leather.label>
-  <TM_StoneGolem_Leather.description>巨岩傀儡皮革</TM_StoneGolem_Leather.description>
-  <TM_StoneGolem_Leather.stuffProps.stuffAdjective>巨岩傀儡皮革</TM_StoneGolem_Leather.stuffProps.stuffAdjective>
+  <!--<TM_StoneGolem_Corpse.label>巨岩傀儡尸体</TM_StoneGolem_Corpse.label>-->
+  <!--<TM_StoneGolem_Corpse.description>巨岩傀儡尸体</TM_StoneGolem_Corpse.description>-->
+  <!--<TM_StoneGolem_Leather.label>巨岩傀儡皮革</TM_StoneGolem_Leather.label>-->
+  <!--<TM_StoneGolem_Leather.description>巨岩傀儡皮革</TM_StoneGolem_Leather.description>-->
+  <!--<TM_StoneGolem_Leather.stuffProps.stuffAdjective>巨岩傀儡皮革</TM_StoneGolem_Leather.stuffProps.stuffAdjective>-->
 
 
   <!-- STONE GOLEM -->
 
-  <TM_SandstoneGolem.label>砂岩巨岩傀儡</TM_SandstoneGolem.label>
-  <TM_SandstoneGolem.description>一个由魔法与岩石构成的简易傀儡</TM_SandstoneGolem.description>
-  <TM_SandstoneGolem.tools.0.label>粉碎</TM_SandstoneGolem.tools.0.label>
-  <TM_SandstoneGolem.tools.1.label>左拳</TM_SandstoneGolem.tools.1.label>
-  <TM_SandstoneGolem.tools.2.label>右拳</TM_SandstoneGolem.tools.2.label>
+  <!--<TM_SandstoneGolem.label>砂岩巨岩傀儡</TM_SandstoneGolem.label>-->
+  <!--<TM_SandstoneGolem.description>一个由魔法与岩石构成的简易傀儡</TM_SandstoneGolem.description>-->
+  <!--<TM_SandstoneGolem.tools.0.label>粉碎</TM_SandstoneGolem.tools.0.label>-->
+  <!--<TM_SandstoneGolem.tools.1.label>左拳</TM_SandstoneGolem.tools.1.label>-->
+  <!--<TM_SandstoneGolem.tools.2.label>右拳</TM_SandstoneGolem.tools.2.label>-->
   <!-- Use Meat From: Human -->
-  <TM_SandstoneGolem_Corpse.label>砂岩巨岩傀儡尸体</TM_SandstoneGolem_Corpse.label>
-  <TM_SandstoneGolem_Corpse.description>砂岩巨岩傀儡尸体</TM_SandstoneGolem_Corpse.description>
-  <TM_SandstoneGolem_Leather.label>砂岩巨岩傀儡皮革</TM_SandstoneGolem_Leather.label>
-  <TM_SandstoneGolem_Leather.description>砂岩巨岩傀儡皮革</TM_SandstoneGolem_Leather.description>
+  <!--<TM_SandstoneGolem_Corpse.label>砂岩巨岩傀儡尸体</TM_SandstoneGolem_Corpse.label>-->
+  <!--<TM_SandstoneGolem_Corpse.description>砂岩巨岩傀儡尸体</TM_SandstoneGolem_Corpse.description>-->
+  <!--<TM_SandstoneGolem_Leather.label>砂岩巨岩傀儡皮革</TM_SandstoneGolem_Leather.label>-->
+  <!--<TM_SandstoneGolem_Leather.description>砂岩巨岩傀儡皮革</TM_SandstoneGolem_Leather.description>-->
 
 
-  <TM_SandstoneGolem_Leather.stuffProps.stuffAdjective>砂岩巨岩傀儡皮革</TM_SandstoneGolem_Leather.stuffProps.stuffAdjective>
+  <!--<TM_SandstoneGolem_Leather.stuffProps.stuffAdjective>砂岩巨岩傀儡皮革</TM_SandstoneGolem_Leather.stuffProps.stuffAdjective>-->
   <!-- STONE GOLEM -->
 
-  <TM_LimestoneGolem.label>石灰岩傀儡</TM_LimestoneGolem.label>
-  <TM_LimestoneGolem.description>一个由魔法与岩石构成的简易傀儡</TM_LimestoneGolem.description>
-  <TM_LimestoneGolem.tools.0.label>粉碎</TM_LimestoneGolem.tools.0.label>
-  <TM_LimestoneGolem.tools.1.label>左拳</TM_LimestoneGolem.tools.1.label>
-  <TM_LimestoneGolem.tools.2.label>右拳</TM_LimestoneGolem.tools.2.label>
+  <!--<TM_LimestoneGolem.label>石灰岩傀儡</TM_LimestoneGolem.label>-->
+  <!--<TM_LimestoneGolem.description>一个由魔法与岩石构成的简易傀儡</TM_LimestoneGolem.description>-->
+  <!--<TM_LimestoneGolem.tools.0.label>粉碎</TM_LimestoneGolem.tools.0.label>-->
+  <!--<TM_LimestoneGolem.tools.1.label>左拳</TM_LimestoneGolem.tools.1.label>-->
+  <!--<TM_LimestoneGolem.tools.2.label>右拳</TM_LimestoneGolem.tools.2.label>-->
   <!-- Use Meat From: Human -->
-  <TM_LimestoneGolem_Corpse.label>石灰岩傀儡尸体</TM_LimestoneGolem_Corpse.label>
-  <TM_LimestoneGolem_Corpse.description>石灰岩傀儡尸体</TM_LimestoneGolem_Corpse.description>
-  <TM_LimestoneGolem_Leather.label>石灰岩傀儡皮革</TM_LimestoneGolem_Leather.label>
-  <TM_LimestoneGolem_Leather.description>石灰岩傀儡皮革</TM_LimestoneGolem_Leather.description>
-  <TM_LimestoneGolem_Leather.stuffProps.stuffAdjective>石灰岩傀儡皮革</TM_LimestoneGolem_Leather.stuffProps.stuffAdjective>
-
-
-  <!-- STONE GOLEM -->
-
-  <TM_GraniteGolem.label>花岗岩傀儡</TM_GraniteGolem.label>
-  <TM_GraniteGolem.description>一个由魔法与岩石构成的简易傀儡</TM_GraniteGolem.description>
-  <TM_GraniteGolem.tools.0.label>粉碎</TM_GraniteGolem.tools.0.label>
-  <TM_GraniteGolem.tools.1.label>左拳</TM_GraniteGolem.tools.1.label>
-  <TM_GraniteGolem.tools.2.label>右拳</TM_GraniteGolem.tools.2.label>
-  <!-- Use Meat From: Human -->
-  <TM_GraniteGolem_Corpse.label>花岗岩傀儡尸体</TM_GraniteGolem_Corpse.label>
-  <TM_GraniteGolem_Corpse.description>花岗岩傀儡尸体</TM_GraniteGolem_Corpse.description>
-  <TM_GraniteGolem_Leather.label>花岗岩傀儡皮革</TM_GraniteGolem_Leather.label>
-  <TM_GraniteGolem_Leather.description>花岗岩傀儡皮革</TM_GraniteGolem_Leather.description>
-  <TM_GraniteGolem_Leather.stuffProps.stuffAdjective>花岗岩傀儡皮革</TM_GraniteGolem_Leather.stuffProps.stuffAdjective>
-  
-
-  <!-- STONE GOLEM -->
-
-  <TM_SlateGolem.label>板岩傀儡</TM_SlateGolem.label>
-  <TM_SlateGolem.description>一个由魔法与岩石构成的简易傀儡</TM_SlateGolem.description>
-  <TM_SlateGolem.tools.0.label>粉碎</TM_SlateGolem.tools.0.label>
-  <TM_SlateGolem.tools.1.label>左拳</TM_SlateGolem.tools.1.label>
-  <TM_SlateGolem.tools.2.label>右拳</TM_SlateGolem.tools.2.label>
-  <!-- Use Meat From: Human -->
-  <TM_SlateGolem_Corpse.label>板岩傀儡尸体</TM_SlateGolem_Corpse.label>
-  <TM_SlateGolem_Corpse.description>板岩傀儡尸体</TM_SlateGolem_Corpse.description>
-  <TM_SlateGolem_Leather.label>板岩傀儡皮革</TM_SlateGolem_Leather.label>
-  <TM_SlateGolem_Leather.description>板岩傀儡皮革</TM_SlateGolem_Leather.description>
-  <TM_SlateGolem_Leather.stuffProps.stuffAdjective>板岩傀儡皮革</TM_SlateGolem_Leather.stuffProps.stuffAdjective>
+  <!--<TM_LimestoneGolem_Corpse.label>石灰岩傀儡尸体</TM_LimestoneGolem_Corpse.label>-->
+  <!--<TM_LimestoneGolem_Corpse.description>石灰岩傀儡尸体</TM_LimestoneGolem_Corpse.description>-->
+  <!--<TM_LimestoneGolem_Leather.label>石灰岩傀儡皮革</TM_LimestoneGolem_Leather.label>-->
+  <!--<TM_LimestoneGolem_Leather.description>石灰岩傀儡皮革</TM_LimestoneGolem_Leather.description>-->
+  <!--<TM_LimestoneGolem_Leather.stuffProps.stuffAdjective>石灰岩傀儡皮革</TM_LimestoneGolem_Leather.stuffProps.stuffAdjective>-->
 
 
   <!-- STONE GOLEM -->
 
-  <TM_MarbleGolem.label>大理石傀儡</TM_MarbleGolem.label>
-  <TM_MarbleGolem.description>一个由魔法与岩石构成的简易傀儡</TM_MarbleGolem.description>
-  <TM_MarbleGolem.tools.0.label>粉碎</TM_MarbleGolem.tools.0.label>
-  <TM_MarbleGolem.tools.1.label>左拳</TM_MarbleGolem.tools.1.label>
-  <TM_MarbleGolem.tools.2.label>右拳</TM_MarbleGolem.tools.2.label>
+  <!--<TM_GraniteGolem.label>花岗岩傀儡</TM_GraniteGolem.label>-->
+  <!--<TM_GraniteGolem.description>一个由魔法与岩石构成的简易傀儡</TM_GraniteGolem.description>-->
+  <!--<TM_GraniteGolem.tools.0.label>粉碎</TM_GraniteGolem.tools.0.label>-->
+  <!--<TM_GraniteGolem.tools.1.label>左拳</TM_GraniteGolem.tools.1.label>-->
+  <!--<TM_GraniteGolem.tools.2.label>右拳</TM_GraniteGolem.tools.2.label>-->
   <!-- Use Meat From: Human -->
-  <TM_MarbleGolem_Corpse.label>大理石傀傀儡尸体</TM_MarbleGolem_Corpse.label>
-  <TM_MarbleGolem_Corpse.description>大理石傀傀儡尸体</TM_MarbleGolem_Corpse.description>
-  <TM_MarbleGolem_Leather.label>大理石傀儡皮革</TM_MarbleGolem_Leather.label>
-  <TM_MarbleGolem_Leather.description>大理石傀儡皮革</TM_MarbleGolem_Leather.description>
-  <TM_MarbleGolem_Leather.stuffProps.stuffAdjective>大理石傀儡皮革</TM_MarbleGolem_Leather.stuffProps.stuffAdjective>
+  <!--<TM_GraniteGolem_Corpse.label>花岗岩傀儡尸体</TM_GraniteGolem_Corpse.label>-->
+  <!--<TM_GraniteGolem_Corpse.description>花岗岩傀儡尸体</TM_GraniteGolem_Corpse.description>-->
+  <!--<TM_GraniteGolem_Leather.label>花岗岩傀儡皮革</TM_GraniteGolem_Leather.label>-->
+  <!--<TM_GraniteGolem_Leather.description>花岗岩傀儡皮革</TM_GraniteGolem_Leather.description>-->
+  <!--<TM_GraniteGolem_Leather.stuffProps.stuffAdjective>花岗岩傀儡皮革</TM_GraniteGolem_Leather.stuffProps.stuffAdjective>-->
+
+
+  <!-- STONE GOLEM -->
+
+  <!--<TM_SlateGolem.label>板岩傀儡</TM_SlateGolem.label>-->
+  <!--<TM_SlateGolem.description>一个由魔法与岩石构成的简易傀儡</TM_SlateGolem.description>-->
+  <!--<TM_SlateGolem.tools.0.label>粉碎</TM_SlateGolem.tools.0.label>-->
+  <!--<TM_SlateGolem.tools.1.label>左拳</TM_SlateGolem.tools.1.label>-->
+  <!--<TM_SlateGolem.tools.2.label>右拳</TM_SlateGolem.tools.2.label>-->
+  <!-- Use Meat From: Human -->
+  <!--<TM_SlateGolem_Corpse.label>板岩傀儡尸体</TM_SlateGolem_Corpse.label>-->
+  <!--<TM_SlateGolem_Corpse.description>板岩傀儡尸体</TM_SlateGolem_Corpse.description>-->
+  <!--<TM_SlateGolem_Leather.label>板岩傀儡皮革</TM_SlateGolem_Leather.label>-->
+  <!--<TM_SlateGolem_Leather.description>板岩傀儡皮革</TM_SlateGolem_Leather.description>-->
+  <!--<TM_SlateGolem_Leather.stuffProps.stuffAdjective>板岩傀儡皮革</TM_SlateGolem_Leather.stuffProps.stuffAdjective>-->
+
+
+  <!-- STONE GOLEM -->
+
+  <!--<TM_MarbleGolem.label>大理石傀儡</TM_MarbleGolem.label>-->
+  <!--<TM_MarbleGolem.description>一个由魔法与岩石构成的简易傀儡</TM_MarbleGolem.description>-->
+  <!--<TM_MarbleGolem.tools.0.label>粉碎</TM_MarbleGolem.tools.0.label>-->
+  <!--<TM_MarbleGolem.tools.1.label>左拳</TM_MarbleGolem.tools.1.label>-->
+  <!--<TM_MarbleGolem.tools.2.label>右拳</TM_MarbleGolem.tools.2.label>-->
+  <!-- Use Meat From: Human -->
+  <!--<TM_MarbleGolem_Corpse.label>大理石傀傀儡尸体</TM_MarbleGolem_Corpse.label>-->
+  <!--<TM_MarbleGolem_Corpse.description>大理石傀傀儡尸体</TM_MarbleGolem_Corpse.description>-->
+  <!--<TM_MarbleGolem_Leather.label>大理石傀儡皮革</TM_MarbleGolem_Leather.label>-->
+  <!--<TM_MarbleGolem_Leather.description>大理石傀儡皮革</TM_MarbleGolem_Leather.description>-->
+  <!--<TM_MarbleGolem_Leather.stuffProps.stuffAdjective>大理石傀儡皮革</TM_MarbleGolem_Leather.stuffProps.stuffAdjective>-->
 
 
   <!-- MECHA GOLEM -->
 
-  <TM_MechaGolem.label>机械傀儡</TM_MechaGolem.label>
-  <TM_MechaGolem.description>一种傀儡，由原金属制成，通过电路和魔法的结合给予基本的自我意识。</TM_MechaGolem.description>
-  <TM_MechaGolem.tools.0.label>身体粉碎</TM_MechaGolem.tools.0.label>
-  <TM_MechaGolem.tools.1.label>左拳</TM_MechaGolem.tools.1.label>
-  <TM_MechaGolem.tools.2.label>机甲斧</TM_MechaGolem.tools.2.label>
-  <TM_MechaGolem.tools.3.label>机甲剑</TM_MechaGolem.tools.3.label>
-  <TM_MechaGolem.tools.4.label>右拳</TM_MechaGolem.tools.4.label>
-  <TM_MechaGolem.tools.5.label>机甲锤</TM_MechaGolem.tools.5.label>
-  <Meat_TM_MechaGolem.label>机械傀儡肉</Meat_TM_MechaGolem.label>
-  <Meat_TM_MechaGolem.description>机械傀儡肉</Meat_TM_MechaGolem.description>
+  <!--<TM_MechaGolem.label>机械傀儡</TM_MechaGolem.label>-->
+  <!--<TM_MechaGolem.description>一种傀儡，由原金属制成，通过电路和魔法的结合给予基本的自我意识。</TM_MechaGolem.description>-->
+  <!--<TM_MechaGolem.tools.0.label>身体粉碎</TM_MechaGolem.tools.0.label>-->
+  <!--<TM_MechaGolem.tools.1.label>左拳</TM_MechaGolem.tools.1.label>-->
+  <!--<TM_MechaGolem.tools.2.label>机甲斧</TM_MechaGolem.tools.2.label>-->
+  <!--<TM_MechaGolem.tools.3.label>机甲剑</TM_MechaGolem.tools.3.label>-->
+  <!--<TM_MechaGolem.tools.4.label>右拳</TM_MechaGolem.tools.4.label>-->
+  <!--<TM_MechaGolem.tools.5.label>机甲锤</TM_MechaGolem.tools.5.label>-->
+  <!--<Meat_TM_MechaGolem.label>机械傀儡肉</Meat_TM_MechaGolem.label>-->
+  <!--<Meat_TM_MechaGolem.description>机械傀儡肉</Meat_TM_MechaGolem.description>-->
   <!-- No Leather: Butcher Products -->
-  <TM_MechaGolem_Meat.label>机械傀儡肉</TM_MechaGolem_Meat.label>
-  <TM_MechaGolem_Meat.description>机械傀儡肉</TM_MechaGolem_Meat.description>
-  <TM_MechaGolem_Corpse.label>机械傀儡尸体</TM_MechaGolem_Corpse.label>
-  <TM_MechaGolem_Corpse.description>机械傀儡尸体</TM_MechaGolem_Corpse.description>
+  <!--<TM_MechaGolem_Meat.label>机械傀儡肉</TM_MechaGolem_Meat.label>-->
+  <!--<TM_MechaGolem_Meat.description>机械傀儡肉</TM_MechaGolem_Meat.description>-->
+  <!--<TM_MechaGolem_Corpse.label>机械傀儡尸体</TM_MechaGolem_Corpse.label>-->
+  <!--<TM_MechaGolem_Corpse.description>机械傀儡尸体</TM_MechaGolem_Corpse.description>-->
 
 
   <!-- FLESH GOLEM -->
 
-  <TM_FleshGolem.label>血肉傀儡</TM_FleshGolem.label>
-  <TM_FleshGolem.description>一种由其他生物的肉、骨和器官制成的傀儡，通过生物工程和魔法的结合给予基本的自我意识。</TM_FleshGolem.description>
-  <TM_FleshGolem.tools.0.label>血块</TM_FleshGolem.tools.0.label>
-  <TM_FleshGolem.tools.1.label>獠牙</TM_FleshGolem.tools.1.label>
-  <TM_FleshGolem.tools.2.label>左拳</TM_FleshGolem.tools.2.label>
-  <TM_FleshGolem.tools.3.label>左后卫</TM_FleshGolem.tools.3.label>
-  <TM_FleshGolem.tools.4.label>左切肉刀</TM_FleshGolem.tools.4.label>
-  <TM_FleshGolem.tools.5.label>右拳</TM_FleshGolem.tools.5.label>
-  <TM_FleshGolem.tools.6.label>右后卫</TM_FleshGolem.tools.6.label>
-  <TM_FleshGolem.tools.7.label>右切肉刀</TM_FleshGolem.tools.7.label>
-  <TM_FleshGolem_Leather.label>血肉傀儡皮革</TM_FleshGolem_Leather.label>
-  <TM_FleshGolem_Leather.description>血肉傀儡皮革</TM_FleshGolem_Leather.description>
-  <TM_FleshGolem_Leather.stuffProps.stuffAdjective>血肉傀儡皮革</TM_FleshGolem_Leather.stuffProps.stuffAdjective>
-  
+  <!--<TM_FleshGolem.label>血肉傀儡</TM_FleshGolem.label>-->
+  <!--<TM_FleshGolem.description>一种由其他生物的肉、骨和器官制成的傀儡，通过生物工程和魔法的结合给予基本的自我意识。</TM_FleshGolem.description>-->
+  <!--<TM_FleshGolem.tools.0.label>血块</TM_FleshGolem.tools.0.label>-->
+  <!--<TM_FleshGolem.tools.1.label>獠牙</TM_FleshGolem.tools.1.label>-->
+  <!--<TM_FleshGolem.tools.2.label>左拳</TM_FleshGolem.tools.2.label>-->
+  <!--<TM_FleshGolem.tools.3.label>左后卫</TM_FleshGolem.tools.3.label>-->
+  <!--<TM_FleshGolem.tools.4.label>左切肉刀</TM_FleshGolem.tools.4.label>-->
+  <!--<TM_FleshGolem.tools.5.label>右拳</TM_FleshGolem.tools.5.label>-->
+  <!--<TM_FleshGolem.tools.6.label>右后卫</TM_FleshGolem.tools.6.label>-->
+  <!--<TM_FleshGolem.tools.7.label>右切肉刀</TM_FleshGolem.tools.7.label>-->
+  <!--<TM_FleshGolem_Leather.label>血肉傀儡皮革</TM_FleshGolem_Leather.label>-->
+  <!--<TM_FleshGolem_Leather.description>血肉傀儡皮革</TM_FleshGolem_Leather.description>-->
+  <!--<TM_FleshGolem_Leather.stuffProps.stuffAdjective>血肉傀儡皮革</TM_FleshGolem_Leather.stuffProps.stuffAdjective>-->
+
   <!-- Use Meat From: Human -->
-  <TM_FleshGolem_Corpse.label>血肉傀儡尸体</TM_FleshGolem_Corpse.label>
-  <TM_FleshGolem_Corpse.description>血肉傀儡尸体</TM_FleshGolem_Corpse.description>
+  <!--<TM_FleshGolem_Corpse.label>血肉傀儡尸体</TM_FleshGolem_Corpse.label>-->
+  <!--<TM_FleshGolem_Corpse.description>血肉傀儡尸体</TM_FleshGolem_Corpse.description>-->
 
 
   <!-- HOLLOW GOLEM -->
 
-  <TM_HollowGolem.label>空洞傀儡</TM_HollowGolem.label>
-  <TM_HollowGolem.description>由魔法精华和奥术催化剂制成的傀儡。空洞傀儡周围的盔甲将魔法核心固定在物理位置，以保护其身体的完整性。空洞傀儡能够利用巨量的魔法能量用于各种用途，使其成为迄今为止最灵活的傀儡之一。空洞傀儡从大气中吸收魔法能量，很像潘希斑，一个傀儡造成的地域法力回复速度减少量相当于10个潘希斑。</TM_HollowGolem.description>
-  <TM_HollowGolem.verbs.0.label>燃烧的能量</TM_HollowGolem.verbs.0.label>
-  <TM_HollowGolem.verbs.1.label>火弩箭</TM_HollowGolem.verbs.1.label>
-  <TM_HollowGolem.verbs.2.label>冰片</TM_HollowGolem.verbs.2.label>
-  <TM_HollowGolem.verbs.3.label>暗箭</TM_HollowGolem.verbs.3.label>
-  <TM_HollowGolem.tools.0.label>爪</TM_HollowGolem.tools.0.label>
-  <TM_HollowGolem.tools.1.label>衰减触摸</TM_HollowGolem.tools.1.label>
-  <TM_HollowGolem.tools.2.label>空洞斧头</TM_HollowGolem.tools.2.label>
-  <TM_HollowGolem.tools.3.label>空洞棒</TM_HollowGolem.tools.3.label>
+  <!--<TM_HollowGolem.label>空洞傀儡</TM_HollowGolem.label>-->
+  <!--<TM_HollowGolem.description>由魔法精华和奥术催化剂制成的傀儡。空洞傀儡周围的盔甲将魔法核心固定在物理位置，以保护其身体的完整性。空洞傀儡能够利用巨量的魔法能量用于各种用途，使其成为迄今为止最灵活的傀儡之一。空洞傀儡从大气中吸收魔法能量，很像潘希斑，一个傀儡造成的地域法力回复速度减少量相当于10个潘希斑。</TM_HollowGolem.description>-->
+  <!--<TM_HollowGolem.verbs.0.label>燃烧的能量</TM_HollowGolem.verbs.0.label>-->
+  <!--<TM_HollowGolem.verbs.1.label>火弩箭</TM_HollowGolem.verbs.1.label>-->
+  <!--<TM_HollowGolem.verbs.2.label>冰片</TM_HollowGolem.verbs.2.label>-->
+  <!--<TM_HollowGolem.verbs.3.label>暗箭</TM_HollowGolem.verbs.3.label>-->
+  <!--<TM_HollowGolem.tools.0.label>爪</TM_HollowGolem.tools.0.label>-->
+  <!--<TM_HollowGolem.tools.1.label>衰减触摸</TM_HollowGolem.tools.1.label>-->
+  <!--<TM_HollowGolem.tools.2.label>空洞斧头</TM_HollowGolem.tools.2.label>-->
+  <!--<TM_HollowGolem.tools.3.label>空洞棒</TM_HollowGolem.tools.3.label>-->
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <TM_HollowGolem_Corpse.label>空洞傀儡尸体</TM_HollowGolem_Corpse.label>
-  <TM_HollowGolem_Corpse.description>空洞傀儡尸体</TM_HollowGolem_Corpse.description>
+  <!--<TM_HollowGolem_Corpse.label>空洞傀儡尸体</TM_HollowGolem_Corpse.label>-->
+  <!--<TM_HollowGolem_Corpse.description>空洞傀儡尸体</TM_HollowGolem_Corpse.description>-->
 
 
   <!-- MAHARAL GOLEM -->
 
-  <TM_MaharalGolem.label>马哈拉尔傀儡</TM_MaharalGolem.label>
-  <TM_MaharalGolem.description>一个由魔法、皮革稻草构成的简易傀儡</TM_MaharalGolem.description>
-  <TM_MaharalGolem.tools.0.label>左拳</TM_MaharalGolem.tools.0.label>
-  <TM_MaharalGolem.tools.1.label>右拳</TM_MaharalGolem.tools.1.label>
+  <!--<TM_MaharalGolem.label>马哈拉尔傀儡</TM_MaharalGolem.label>-->
+  <!--<TM_MaharalGolem.description>一个由魔法、皮革稻草构成的简易傀儡</TM_MaharalGolem.description>-->
+  <!--<TM_MaharalGolem.tools.0.label>左拳</TM_MaharalGolem.tools.0.label>-->
+  <!--<TM_MaharalGolem.tools.1.label>右拳</TM_MaharalGolem.tools.1.label>-->
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <TM_MaharalGolem_Corpse.label>马哈拉尔傀儡尸体</TM_MaharalGolem_Corpse.label>
-  <TM_MaharalGolem_Corpse.description>马哈拉尔傀儡尸体</TM_MaharalGolem_Corpse.description>
+  <!--<TM_MaharalGolem_Corpse.label>马哈拉尔傀儡尸体</TM_MaharalGolem_Corpse.label>-->
+  <!--<TM_MaharalGolem_Corpse.description>马哈拉尔傀儡尸体</TM_MaharalGolem_Corpse.description>-->
 
 
   <!-- STRAW GOLEM -->
 
-  <TM_StrawGolem.label>稻草傀儡</TM_StrawGolem.label>
-  <TM_StrawGolem.description>由基本材料混合物制成的傀儡，形成人形。</TM_StrawGolem.description>
-  <TM_StrawGolem.tools.0.label>左拳</TM_StrawGolem.tools.0.label>
-  <TM_StrawGolem.tools.1.label>右拳</TM_StrawGolem.tools.1.label>
+  <!--<TM_StrawGolem.label>稻草傀儡</TM_StrawGolem.label>-->
+  <!--<TM_StrawGolem.description>由基本材料混合物制成的傀儡，形成人形。</TM_StrawGolem.description>-->
+  <!--<TM_StrawGolem.tools.0.label>左拳</TM_StrawGolem.tools.0.label>-->
+  <!--<TM_StrawGolem.tools.1.label>右拳</TM_StrawGolem.tools.1.label>-->
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <TM_StrawGolem_Corpse.label>稻草傀儡尸体</TM_StrawGolem_Corpse.label>
-  <TM_StrawGolem_Corpse.description>稻草傀儡尸体</TM_StrawGolem_Corpse.description>
+  <!--<TM_StrawGolem_Corpse.label>稻草傀儡尸体</TM_StrawGolem_Corpse.label>-->
+  <!--<TM_StrawGolem_Corpse.description>稻草傀儡尸体</TM_StrawGolem_Corpse.description>-->
 
 
   <!-- WOOD GOLEM -->
 
-  <TM_WoodGolem.label>木傀儡</TM_WoodGolem.label>
-  <TM_WoodGolem.description>魔法能量注入木头和石头的结构中。</TM_WoodGolem.description>
-  <TM_WoodGolem.tools.0.label>精神力</TM_WoodGolem.tools.0.label>
-  <TM_WoodGolem.tools.1.label>框架粉碎</TM_WoodGolem.tools.1.label>
+  <!--<TM_WoodGolem.label>木傀儡</TM_WoodGolem.label>-->
+  <!--<TM_WoodGolem.description>魔法能量注入木头和石头的结构中。</TM_WoodGolem.description>-->
+  <!--<TM_WoodGolem.tools.0.label>精神力</TM_WoodGolem.tools.0.label>-->
+  <!--<TM_WoodGolem.tools.1.label>框架粉碎</TM_WoodGolem.tools.1.label>-->
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <TM_WoodGolem_Corpse.label>木傀儡尸体</TM_WoodGolem_Corpse.label>
-  <TM_WoodGolem_Corpse.description>木傀儡尸体</TM_WoodGolem_Corpse.description>
+  <!--<TM_WoodGolem_Corpse.label>木傀儡尸体</TM_WoodGolem_Corpse.label>-->
+  <!--<TM_WoodGolem_Corpse.description>木傀儡尸体</TM_WoodGolem_Corpse.description>-->
 
 
   <!-- SILK GOLEM -->
 
-  <TM_SilkGolem.label>丝绸傀儡</TM_SilkGolem.label>
-  <TM_SilkGolem.description>大量布和线构造成鼻涕虫形状，唯一的显着特征是其友好、富有表现力的面孔。</TM_SilkGolem.description>
-  <TM_SilkGolem.tools.0.label>bash</TM_SilkGolem.tools.0.label>
+  <!--<TM_SilkGolem.label>丝绸傀儡</TM_SilkGolem.label>-->
+  <!--<TM_SilkGolem.description>大量布和线构造成鼻涕虫形状，唯一的显着特征是其友好、富有表现力的面孔。</TM_SilkGolem.description>-->
+  <!--<TM_SilkGolem.tools.0.label>bash</TM_SilkGolem.tools.0.label>-->
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <TM_SilkGolem_Corpse.label>丝傀儡尸体</TM_SilkGolem_Corpse.label>
-  <TM_SilkGolem_Corpse.description>丝傀儡尸体</TM_SilkGolem_Corpse.description>
+  <!--<TM_SilkGolem_Corpse.label>丝傀儡尸体</TM_SilkGolem_Corpse.label>-->
+  <!--<TM_SilkGolem_Corpse.description>丝傀儡尸体</TM_SilkGolem_Corpse.description>-->
 
 </LanguageData>

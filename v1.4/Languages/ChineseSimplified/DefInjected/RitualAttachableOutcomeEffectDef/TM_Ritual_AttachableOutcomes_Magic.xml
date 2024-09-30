@@ -2,7 +2,9 @@
 <LanguageData>
 
   <TM_RechargeMana.label>恢复法力</TM_RechargeMana.label>
-  <TM_RechargeMana.effectDesc>为所有参与的法师恢复 50 到 100 点法力。</TM_RechargeMana.effectDesc>
-  <TM_RechargeMana.letterInfoText>所有参与的法师都已恢复 {AMOUNT} 点法力。</TM_RechargeMana.letterInfoText>
+
+
+  <!--<TM_RechargeMana.effectDesc>为所有参与的法师恢复 50 到 100 点法力。</TM_RechargeMana.effectDesc>-->
+  <!--<TM_RechargeMana.letterInfoText>所有参与的法师都已恢复 {AMOUNT} 点法力。</TM_RechargeMana.letterInfoText>-->
 
 </LanguageData>

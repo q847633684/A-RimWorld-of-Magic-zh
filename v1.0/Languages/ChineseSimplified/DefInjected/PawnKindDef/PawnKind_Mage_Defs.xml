@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <PawnKindDef ParentName="BasePlayerPawnKind">
+		<defName>TM_Undead</defName>
+		<label>undead</label>
+		<race>Human</race>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Equipment/ancientmail_Fat</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>1.5</drawSize>
+					<shadowData>
+						<volume>(0.4, 0.8, 0.4)</volume>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef> -->
+
+  <SeerDefender.label>Magic Protector</SeerDefender.label>
+  <SeerDefender.labelPlural>magic protectors</SeerDefender.labelPlural>
+
+  <SeerSpearman.label>Guardsman</SeerSpearman.label>
+  <SeerSpearman.labelPlural>Guardsmen</SeerSpearman.labelPlural>
+
+  <SeerBowman.label>Seer Archer</SeerBowman.label>
+  <SeerBowman.labelPlural>Seer Archers</SeerBowman.labelPlural>
+
+  <SeerElite.label>Seer Elite</SeerElite.label>
+  <SeerElite.labelPlural>Seer Elite</SeerElite.labelPlural>
+
+
+</LanguageData>

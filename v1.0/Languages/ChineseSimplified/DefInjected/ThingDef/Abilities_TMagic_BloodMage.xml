@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ignite Blood -->
+
+  <Projectile_IgniteBlood.label>Ignite blood</Projectile_IgniteBlood.label>
+
+
+  <!-- Blood Moon -->
+
+  <Projectile_BloodMoon.label>projectile bloodmoon</Projectile_BloodMoon.label>
+  <Projectile_BloodMoon_I.label>Blood Moon projectile</Projectile_BloodMoon_I.label>
+  <Projectile_BloodMoon_II.label>BloodMoon projectile</Projectile_BloodMoon_II.label>
+  <Projectile_BloodMoon_III.label>BloodMoon projectile</Projectile_BloodMoon_III.label>
+
+
+</LanguageData>

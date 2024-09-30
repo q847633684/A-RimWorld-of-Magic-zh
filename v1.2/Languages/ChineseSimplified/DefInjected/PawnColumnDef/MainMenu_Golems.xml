@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TM_GolemAge.label>年龄</TM_GolemAge.label>
-  <TM_GolemActive.headerTip>激活</TM_GolemActive.headerTip>
-  <TM_GolemNeeds.label>能量</TM_GolemNeeds.label>
-  <TM_GolemMaster.label>分配给:</TM_GolemMaster.label>
-  <TM_GolemThreatRange.headerTip></TM_GolemThreatRange.headerTip>
-  <TM_GolemRestPercent.headerTip></TM_GolemRestPercent.headerTip>
-  <TM_GolemAwakenPercent.headerTip></TM_GolemAwakenPercent.headerTip>
+  <!--<TM_GolemAge.label>年龄</TM_GolemAge.label>-->
+  <!--<TM_GolemActive.headerTip>激活</TM_GolemActive.headerTip>-->
+  <!--<TM_GolemNeeds.label>能量</TM_GolemNeeds.label>-->
+  <!--<TM_GolemMaster.label>分配给:</TM_GolemMaster.label>-->
+  <!--<TM_GolemThreatRange.headerTip></TM_GolemThreatRange.headerTip>-->
+  <!--<TM_GolemRestPercent.headerTip></TM_GolemRestPercent.headerTip>-->
+  <!--<TM_GolemAwakenPercent.headerTip></TM_GolemAwakenPercent.headerTip>-->
 
 
 </LanguageData>

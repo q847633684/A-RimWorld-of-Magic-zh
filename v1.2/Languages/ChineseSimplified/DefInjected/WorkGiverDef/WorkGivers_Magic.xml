@@ -41,10 +41,8 @@
 
 
   <!-- Golem Work Related -->
-
-  <DoBillsGolemBuilding.label>在傀儡上工作</DoBillsGolemBuilding.label>
-  <DoBillsGolemBuilding.verb>傀儡工作</DoBillsGolemBuilding.verb>
-  <DoBillsGolemBuilding.gerund>正在傀儡上工作</DoBillsGolemBuilding.gerund>
-
+  <!--<DoBillsGolemBuilding.label>在傀儡上工作</DoBillsGolemBuilding.label>-->
+  <!--<DoBillsGolemBuilding.verb>傀儡工作</DoBillsGolemBuilding.verb>-->
+  <!--<DoBillsGolemBuilding.gerund>正在傀儡上工作</DoBillsGolemBuilding.gerund>-->
 
 </LanguageData>

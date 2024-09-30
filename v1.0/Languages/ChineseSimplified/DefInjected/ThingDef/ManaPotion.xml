@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ManaPotion.label>Mana Potion</ManaPotion.label>
+  <ManaPotion.description>A magical supplement that allows arcane users to rapidly recover mana. Mana potions work by acting as a natural suppressant to the bodies mana absorption resistances \n\nUsers are warned, bypassing natural resistances can cause mental and sensory damage.</ManaPotion.description>
+  <ManaPotion.ingestible.ingestCommandString>Consume {0}</ManaPotion.ingestible.ingestCommandString>
+  <ManaPotion.ingestible.ingestReportString>Consuming {0}.</ManaPotion.ingestible.ingestReportString>
+
+
+</LanguageData>

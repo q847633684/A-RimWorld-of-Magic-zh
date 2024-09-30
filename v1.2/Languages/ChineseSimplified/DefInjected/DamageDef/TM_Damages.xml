@@ -72,9 +72,6 @@
   <TM_Firestorm_Large.label>火系魔法</TM_Firestorm_Large.label>
   <TM_Firestorm_Large.deathMessage>{0} 葬身火海。</TM_Firestorm_Large.deathMessage>
 
-  <TM_HailDD.label>冰雹</TM_HailDD.label>
-  <TM_HailDD.deathMessage>{0}死于暴风雪中的冰雹。</TM_HailDD.deathMessage>
-
   <TM_Blizzard_Small.label>冰系魔法</TM_Blizzard_Small.label>
   <TM_Blizzard_Small.deathMessage>{0} 在暴风雪中被冻成冰块。</TM_Blizzard_Small.deathMessage>
 
@@ -192,19 +189,17 @@
   <TM_PersonnelBombDD.label>炸弹</TM_PersonnelBombDD.label>
   <TM_PersonnelBombDD.deathMessage>{0}化为焰火。</TM_PersonnelBombDD.deathMessage>
 
-  <TM_Dismember.label>撕裂</TM_Dismember.label>
-  <TM_Dismember.deathMessage>{0}被分为好几块。</TM_Dismember.deathMessage>
 
-  <TM_PartRemoval.label>移除</TM_PartRemoval.label>
-  <TM_PartRemoval.deathMessage>{0}被移除。</TM_PartRemoval.deathMessage>
-
-  <TM_DecayDD.label>腐朽</TM_DecayDD.label>
-  <TM_DecayDD.deathMessage>{0}的躯体腐烂成尘。</TM_DecayDD.deathMessage>
-
-  <TM_SymbiosisDD.label>思维共生反噬</TM_SymbiosisDD.label>
-  <TM_SymbiosisDD.deathMessage>{0}受反噬而死。</TM_SymbiosisDD.deathMessage>
-
-  <TM_FreezingWindsDD.deathMessage>{0} 被冻死。</TM_FreezingWindsDD.deathMessage>
-
+  <!--<TM_HailDD.label>冰雹</TM_HailDD.label>-->
+  <!--<TM_HailDD.deathMessage>{0}死于暴风雪中的冰雹。</TM_HailDD.deathMessage>-->
+  <!--<TM_Dismember.label>撕裂</TM_Dismember.label>-->
+  <!--<TM_Dismember.deathMessage>{0}被分为好几块。</TM_Dismember.deathMessage>-->
+  <!--<TM_PartRemoval.label>移除</TM_PartRemoval.label>-->
+  <!--<TM_PartRemoval.deathMessage>{0}被移除。</TM_PartRemoval.deathMessage>-->
+  <!--<TM_DecayDD.label>腐朽</TM_DecayDD.label>-->
+  <!--<TM_DecayDD.deathMessage>{0}的躯体腐烂成尘。</TM_DecayDD.deathMessage>-->
+  <!--<TM_SymbiosisDD.label>思维共生反噬</TM_SymbiosisDD.label>-->
+  <!--<TM_SymbiosisDD.deathMessage>{0}受反噬而死。</TM_SymbiosisDD.deathMessage>-->
+  <!--<TM_FreezingWindsDD.deathMessage>{0} 被冻死。</TM_FreezingWindsDD.deathMessage>-->
 
 </LanguageData>

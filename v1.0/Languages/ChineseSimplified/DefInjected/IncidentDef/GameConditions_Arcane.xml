@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ManaDrain.label>mana drain</ManaDrain.label>
+  <ManaDrain.letterText>The planet's celestial alignment is shifting, causing an ebb in mana.\n\n  All creatures attuned with magical powers will slowly lose mana.\n\nCreatures may become physical ill if they have no mana remaining.</ManaDrain.letterText>
+  <ManaDrain.letterLabel>Mana drain</ManaDrain.letterLabel>
+
+  <ManaSurge.label>mana surge</ManaSurge.label>
+  <ManaSurge.letterText>The planet's celestial alignment has shifted, causing a surge in mana.  All creatures attuned with magical powers will gain mana at an increased rate.</ManaSurge.letterText>
+  <ManaSurge.letterLabel>Mana surge</ManaSurge.letterLabel>
+
+  <Disease_ManaSickness.label>mana sickness</Disease_ManaSickness.label>
+  <Disease_ManaSickness.letterText>{0} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.  During this period {0} will be unable to gain mana.</Disease_ManaSickness.letterText>
+  <Disease_ManaSickness.letterLabel>Mana Sickness</Disease_ManaSickness.letterLabel>
+
+  <ElementalAssault.label>elemental assault</ElementalAssault.label>
+  <ElementalAssault.letterText>Hostile elementals have created a breach into your world and are preparing to send assault teams through the rift!\n\nRifts cause mayhem in the atmosphere as energy leaks through the rift into your world. The following effects occur for each rift element:\n\nFire Rift: meteor showers and heat waves.\nEarth Rift: toxic fumes and causes animals to go berserk\nIce Rift: hailstorms and rapid decline in temperature\nAir Rift: lightning storms\n\nDestroy the rift to end this nightmare!</ElementalAssault.letterText>
+  <ElementalAssault.letterLabel>elemental assault</ElementalAssault.letterLabel>
+
+  <WanderingLich.label>Wandering lich</WanderingLich.label>
+  <WanderingLich.letterText>An ancient lich has wandered into the area and is preparing to assault your colony.\n\nLichs are powerful creatures by themselves, but their true strength resides in their ability to create animated undead from the corpses of the deceased.\n\nThis lich is an ancient being that despises all life, and your merry band of living -things- has so far resisted being snuffed out. It will actively seek to end your story of survival by creating a horde of undead to overwhelm your defenses.\n\nThe lich will periodically create new skeleton warriors to attack the colony; allowing the lich to complete a ritual near an exposed corpse will increase the chance skeleton giants are created. Ultimately, the lich will assault the colony itself, if waves of undead are unable to complete the task first.</WanderingLich.letterText>
+  <WanderingLich.letterLabel>Wandering lich</WanderingLich.letterLabel>
+
+
+</LanguageData>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TM_RuneCarvingEfficiency.label>符文雕刻技能</TM_RuneCarvingEfficiency.label>
-  <TM_RuneCarvingEfficiency.description>成功将符文刻在身体部位的概率。</TM_RuneCarvingEfficiency.description>
+  <!--<TM_RuneCarvingEfficiency.label>符文雕刻技能</TM_RuneCarvingEfficiency.label>-->
+  <!--<TM_RuneCarvingEfficiency.description>成功将符文刻在身体部位的概率。</TM_RuneCarvingEfficiency.description>-->
 
 
 </LanguageData>

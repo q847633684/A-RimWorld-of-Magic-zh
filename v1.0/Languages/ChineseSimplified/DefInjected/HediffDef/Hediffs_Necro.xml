@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_UndeadHD.label>Undead</TM_UndeadHD.label>
+  <TM_UndeadHD.stages.0.label>I</TM_UndeadHD.stages.0.label>
+  <TM_UndeadHD.stages.1.label>II</TM_UndeadHD.stages.1.label>
+  <TM_UndeadHD.stages.2.label>III</TM_UndeadHD.stages.2.label>
+  <TM_UndeadHD.stages.3.label>IV</TM_UndeadHD.stages.3.label>
+
+  <TM_LichHD.label>Lich</TM_LichHD.label>
+  <TM_LichHD.stages.0.label>Undead</TM_LichHD.stages.0.label>
+
+  <TM_UndeadAnimalHD.label>Undead</TM_UndeadAnimalHD.label>
+  <TM_UndeadAnimalHD.stages.0.label>I</TM_UndeadAnimalHD.stages.0.label>
+  <TM_UndeadAnimalHD.stages.1.label>II</TM_UndeadAnimalHD.stages.1.label>
+  <TM_UndeadAnimalHD.stages.2.label>III</TM_UndeadAnimalHD.stages.2.label>
+  <TM_UndeadAnimalHD.stages.3.label>IV</TM_UndeadAnimalHD.stages.3.label>
+
+  <TM_DeathMarkHD.label>Death Mark</TM_DeathMarkHD.label>
+
+  <TM_DeathMarkCurse.label>Death Mark</TM_DeathMarkCurse.label>
+  <TM_DeathMarkCurse.stages.0.label>clumsy</TM_DeathMarkCurse.stages.0.label>
+  <TM_DeathMarkCurse.stages.1.label>fumbling</TM_DeathMarkCurse.stages.1.label>
+  <TM_DeathMarkCurse.stages.2.label>cursed</TM_DeathMarkCurse.stages.2.label>
+
+  <TM_TormentHD.label>Torment</TM_TormentHD.label>
+  <TM_TormentHD.comps.0.labelTendedWell>bandaged</TM_TormentHD.comps.0.labelTendedWell>
+  <TM_TormentHD.comps.0.labelTendedWellInner>sutured</TM_TormentHD.comps.0.labelTendedWellInner>
+  <TM_TormentHD.comps.0.labelSolidTendedWell>set</TM_TormentHD.comps.0.labelSolidTendedWell>
+  <TM_TormentHD.injuryProps.destroyedLabel>melted off</TM_TormentHD.injuryProps.destroyedLabel>
+  <TM_TormentHD.injuryProps.destroyedOutLabel>melted</TM_TormentHD.injuryProps.destroyedOutLabel>
+
+  <TM_DeathBoltHD.label>death bolt</TM_DeathBoltHD.label>
+  <TM_DeathBoltHD.comps.0.labelTendedWell>bandaged</TM_DeathBoltHD.comps.0.labelTendedWell>
+  <TM_DeathBoltHD.comps.0.labelTendedWellInner>sutured</TM_DeathBoltHD.comps.0.labelTendedWellInner>
+  <TM_DeathBoltHD.comps.0.labelSolidTendedWell>set</TM_DeathBoltHD.comps.0.labelSolidTendedWell>
+  <TM_DeathBoltHD.injuryProps.destroyedLabel>melted off</TM_DeathBoltHD.injuryProps.destroyedLabel>
+  <TM_DeathBoltHD.injuryProps.destroyedOutLabel>melted</TM_DeathBoltHD.injuryProps.destroyedOutLabel>
+
+  <TM_Torment_HD.label>Tormented</TM_Torment_HD.label>
+  <TM_Torment_HD.stages.0.label>pain</TM_Torment_HD.stages.0.label>
+  <TM_Torment_HD.stages.1.label>agony</TM_Torment_HD.stages.1.label>
+  <TM_Torment_HD.stages.2.label>torment</TM_Torment_HD.stages.2.label>
+
+  <TM_UndeadStageHD.label>Body stage</TM_UndeadStageHD.label>
+  <TM_UndeadStageHD.stages.0.label>Rotting</TM_UndeadStageHD.stages.0.label>
+  <TM_UndeadStageHD.stages.1.label>Dessicated</TM_UndeadStageHD.stages.1.label>
+
+
+</LanguageData>

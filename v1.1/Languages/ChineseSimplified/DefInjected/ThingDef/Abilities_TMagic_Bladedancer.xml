@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- blade focus -->
+
+  <Projectile_BladeFocus.label>Blade focus</Projectile_BladeFocus.label>
+
+
+  <!-- blade art start -->
+
+  <Projectile_BladeArt.label>Body Training</Projectile_BladeArt.label>
+
+
+  <!-- BladeSpin Start -->
+
+  <Projectile_BladeSpin.label>Blade Spin</Projectile_BladeSpin.label>
+
+
+  <!-- Seismic Slash Start -->
+
+  <Projectile_SeismicSlash.label>Seismic Slash</Projectile_SeismicSlash.label>
+
+
+  <!-- Phase Strike Start -->
+
+  <Projectile_PhaseStrike.label>Phase Strike</Projectile_PhaseStrike.label>
+
+
+</LanguageData>

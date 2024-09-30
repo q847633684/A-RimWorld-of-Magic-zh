@@ -45,9 +45,6 @@
   <TM_ConsumeCorpse_III.label>吞噬尸体（IV）</TM_ConsumeCorpse_III.label>
   <TM_ConsumeCorpse_III.description>吞噬一具尸体或一名亡灵的剩余价值来恢复法力。除了属于尸体的所有物质(肉/皮)会被毁灭，其他的东西例如装备物品等都会被保留下来。\n		\n法力消耗: 1.5\n范围: 80\n冷却时间: 15s\n施法时间: 1.2s</TM_ConsumeCorpse_III.description>
 
-  <TM_ConsumeCorpse_Mass.label>吞噬尸体: 大量</TM_ConsumeCorpse_Mass.label>
-  <TM_ConsumeCorpse_Mass.description>吞噬一群尸体或亡灵来补充法力。除了属于尸体的所有物质(肉/皮)会被毁灭，其他的东西例如装备物品等都会被保留下来。</TM_ConsumeCorpse_Mass.description>
-
 
   <!-- corpse explosion -->
 
@@ -84,5 +81,8 @@
   <TM_DeathBolt_III.label>死亡螺旋（IV）</TM_DeathBolt_III.label>
   <TM_DeathBolt_III.description>激活伴随死亡之力的螺旋能量，对冲击范围内的所有生物造成极大的痛苦。\n\n爆炸半径: 2.4m\n冷却时间: 12s\n螺旋数量: 3\n范围: 50</TM_DeathBolt_III.description>
 
+
+  <!--<TM_ConsumeCorpse_Mass.label>吞噬尸体: 大量</TM_ConsumeCorpse_Mass.label>-->
+  <!--<TM_ConsumeCorpse_Mass.description>吞噬一群尸体或亡灵来补充法力。除了属于尸体的所有物质(肉/皮)会被毁灭，其他的东西例如装备物品等都会被保留下来。</TM_ConsumeCorpse_Mass.description>-->
 
 </LanguageData>

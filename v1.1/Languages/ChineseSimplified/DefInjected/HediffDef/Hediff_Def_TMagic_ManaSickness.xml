@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_ManaSickness.label>mana sickness</TM_ManaSickness.label>
+  <TM_ManaSickness.description>Mana sickness affects mages when they have 0 mana and their regeneration is negative. Mana sickness will eventually kill a mage if it is not reversed. Players may evaluate a mage's mana regeneration in the Magic Tab while hovering over the Mana regeneration value to display a tooltip showing contributors affecting mana regeneration.</TM_ManaSickness.description>
+  <TM_ManaSickness.stages.0.label>weakened</TM_ManaSickness.stages.0.label>
+  <TM_ManaSickness.stages.1.label>ailing</TM_ManaSickness.stages.1.label>
+  <TM_ManaSickness.stages.2.label>near death</TM_ManaSickness.stages.2.label>
+
+  <TM_ArcaneSickness.label>arcane sickness</TM_ArcaneSickness.label>
+  <TM_ArcaneSickness.description>A sickness caused by tainted magic.</TM_ArcaneSickness.description>
+  <TM_ArcaneSickness.stages.0.label>minor</TM_ArcaneSickness.stages.0.label>
+  <TM_ArcaneSickness.stages.1.label>minor</TM_ArcaneSickness.stages.1.label>
+  <TM_ArcaneSickness.stages.2.label>moderate</TM_ArcaneSickness.stages.2.label>
+  <TM_ArcaneSickness.stages.3.label>major</TM_ArcaneSickness.stages.3.label>
+  <TM_ArcaneSickness.stages.4.label>extreme</TM_ArcaneSickness.stages.4.label>
+  <TM_ArcaneSickness.stages.5.label>extreme</TM_ArcaneSickness.stages.5.label>
+
+
+</LanguageData>

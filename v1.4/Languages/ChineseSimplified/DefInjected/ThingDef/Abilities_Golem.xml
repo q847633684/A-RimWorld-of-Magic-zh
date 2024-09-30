@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Blazing Power -->
-
-  <Projectile_BlazingEnergy.label>炽热的力量</Projectile_BlazingEnergy.label>
   <Projectile_FireBlossomBolt.label>烈火箭</Projectile_FireBlossomBolt.label>
 
 
@@ -120,6 +117,8 @@
   <Projectile_ReverseShield.label>反向护盾</Projectile_ReverseShield.label>
 
 
+  <!-- Blazing Power -->
+  <!--<Projectile_BlazingEnergy.label>炽热的力量</Projectile_BlazingEnergy.label>-->
   <!-- <TorannMagic.TMDefs.TM_GolemAbilityDef>
 	<defName>TM_HollowGolem_Job_FireBlossom</defName>
 	<label>fire blossom</label>

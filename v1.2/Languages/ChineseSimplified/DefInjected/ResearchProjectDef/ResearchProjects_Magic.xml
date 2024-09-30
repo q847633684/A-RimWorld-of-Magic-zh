@@ -3,9 +3,6 @@
 
   <!-- Research into magic -->
 
-  <TM_PlantCultivation.label>魔法栽培</TM_PlantCultivation.label>
-  <TM_PlantCultivation.description>研究植物学以了解如何培养具有与魔法属性的植物，并利用它们来补充长法力和制造魔法物品。</TM_PlantCultivation.description>
-
   <TM_ArcaneConstruction.label>魔法设施</TM_ArcaneConstruction.label>
   <TM_ArcaneConstruction.description>允许研究各种设施和工作台，使创造独特的魔法物品和效果。</TM_ArcaneConstruction.description>
 
@@ -21,20 +18,23 @@
   <TM_ManaStorage.label>法力存储</TM_ManaStorage.label>
   <TM_ManaStorage.description>开发储存法力的方法。</TM_ManaStorage.description>
 
+  <TM_PlantCultivation.label>魔法栽培</TM_PlantCultivation.label>
+  <TM_PlantCultivation.description>研究植物学以了解如何培养具有与魔法属性的植物，并利用它们来补充长法力和制造魔法物品。</TM_PlantCultivation.description>
+
   <TM_ArcaneForging.label>奥法锻造</TM_ArcaneForging.label>
   <TM_ArcaneForging.description>开发用奥术力量制作各种物品和设备的方法。这项研究的完成也将教会殖民地如何织造魔纹布，这是一种独特的魔法材料。</TM_ArcaneForging.description>
 
   <TM_ForgeReplication.label>复制锻造</TM_ForgeReplication.label>
   <TM_ForgeReplication.description>使用一种技术增强奥术锻造，该技术允许它从任何可加工物品中提取设计图并制作复制品。</TM_ForgeReplication.description>
 
-  <TM_ArcaneCrafting.label>初级奥术铸造</TM_ArcaneCrafting.label>
-  <TM_ArcaneCrafting.description>允许铸造初级的魔法装备及洞察宝石。</TM_ArcaneCrafting.description>
+  <TM_Enchanting.label>初级附魔</TM_Enchanting.label>
+  <TM_Enchanting.description>允许建造附魔台以及打造初级的附魔宝石。</TM_Enchanting.description>
 
-  <TM_ArcaneApparel.label>中级奥术铸造</TM_ArcaneApparel.label>
-  <TM_ArcaneApparel.description>允许铸造更高级的魔法装备。</TM_ArcaneApparel.description>
+  <TM_AdvancedEnchanting.label>中级附魔</TM_AdvancedEnchanting.label>
+  <TM_AdvancedEnchanting.description>允许打造中级的附魔宝石。</TM_AdvancedEnchanting.description>
 
-  <TM_ArcaneArtifacts.label>高级奥术铸造</TM_ArcaneArtifacts.label>
-  <TM_ArcaneArtifacts.description>允许铸造传奇的魔法装备。</TM_ArcaneArtifacts.description>
+  <TM_ExpertEnchanting.label>高级附魔</TM_ExpertEnchanting.label>
+  <TM_ExpertEnchanting.description>允许打造高级的附魔宝石。</TM_ExpertEnchanting.description>
 
   <TM_MagicyteRefining.label>魔药学</TM_MagicyteRefining.label>
   <TM_MagicyteRefining.description>允许殖民地制作魔法药剂。</TM_MagicyteRefining.description>
@@ -48,38 +48,31 @@
   <TM_MasterScribing.label>高级刻绘</TM_MasterScribing.label>
   <TM_MasterScribing.description>允许刻绘终极技能卷轴.</TM_MasterScribing.description>
 
-  <TM_Enchanting.label>初级附魔</TM_Enchanting.label>
-  <TM_Enchanting.description>允许建造附魔台以及打造初级的附魔宝石。</TM_Enchanting.description>
+  <TM_ArcaneCrafting.label>初级奥术铸造</TM_ArcaneCrafting.label>
+  <TM_ArcaneCrafting.description>允许铸造初级的魔法装备及洞察宝石。</TM_ArcaneCrafting.description>
 
-  <TM_AdvancedEnchanting.label>中级附魔</TM_AdvancedEnchanting.label>
-  <TM_AdvancedEnchanting.description>允许打造中级的附魔宝石。</TM_AdvancedEnchanting.description>
+  <TM_ArcaneApparel.label>中级奥术铸造</TM_ArcaneApparel.label>
+  <TM_ArcaneApparel.description>允许铸造更高级的魔法装备。</TM_ArcaneApparel.description>
 
-  <TM_ExpertEnchanting.label>高级附魔</TM_ExpertEnchanting.label>
-  <TM_ExpertEnchanting.description>允许打造高级的附魔宝石。</TM_ExpertEnchanting.description>
+  <TM_ArcaneArtifacts.label>高级奥术铸造</TM_ArcaneArtifacts.label>
+  <TM_ArcaneArtifacts.description>允许铸造传奇的魔法装备。</TM_ArcaneArtifacts.description>
 
-  <TM_GolemCraftRD.label>傀儡学说</TM_GolemCraftRD.label>
-  <TM_GolemCraftRD.description>傀儡工艺是一种附魔技术，它与被动强化不同，研究为主动操纵魔法附魔的理论。这项研究将发展成如何应用附魔创造神奇生物的概念。</TM_GolemCraftRD.description>
 
-  <TM_HollowGolemRD.label>空洞傀儡</TM_HollowGolemRD.label>
-  <TM_HollowGolemRD.description>一种研究如何用活跃的原始能量制作傀儡的神奇方法。制造这种傀儡需要奥术熔炉。</TM_HollowGolemRD.description>
-
-  <TM_HollowGolemEquipmentRD.label>空洞械器</TM_HollowGolemEquipmentRD.label>
-  <TM_HollowGolemEquipmentRD.description>研究可以连接到空洞傀儡上的武器和盔甲，以进一步增强傀儡或其能力。</TM_HollowGolemEquipmentRD.description>
-
-  <TM_HollowGolemArtifactsRD.label>空洞造物</TM_HollowGolemArtifactsRD.label>
-  <TM_HollowGolemArtifactsRD.description>通过研究奥术人工制品与傀儡行为的结合使空洞傀儡可以用自己的魔法能量为魔法人工制品提供燃料。</TM_HollowGolemArtifactsRD.description>
-
-  <TM_MechaGolemRD.label>机械傀儡</TM_MechaGolemRD.label>
-  <TM_MechaGolemRD.description>将电气和机械工程与傀儡工艺相结合，创建一个机械傀儡。预计需要一个机械加工台来制作机械傀儡的部件。</TM_MechaGolemRD.description>
-
-  <TM_MechaGolemEquipmentRD.label>机械附件</TM_MechaGolemEquipmentRD.label>
-  <TM_MechaGolemEquipmentRD.description>研究制作附件和盔甲的方法，以进一步增强机械傀儡。</TM_MechaGolemEquipmentRD.description>
-
-  <TM_FleshGolemRD.label>血肉傀儡</TM_FleshGolemRD.label>
-  <TM_FleshGolemRD.description>研究如何将死去的生物的肉和骨头塑造成两足的具有生机的傀儡的生物学方法。一个简单的屠宰桌应该足以制作一个血肉傀儡。</TM_FleshGolemRD.description>
-
-  <TM_FleshGolemEquipmentRD.label>血肉附件</TM_FleshGolemEquipmentRD.label>
-  <TM_FleshGolemEquipmentRD.description>研究可以连接到血肉傀儡上的武器和盔甲，以进一步增强傀儡或其能力。</TM_FleshGolemEquipmentRD.description>
-
+  <!--<TM_GolemCraftRD.label>傀儡学说</TM_GolemCraftRD.label>-->
+  <!--<TM_GolemCraftRD.description>傀儡工艺是一种附魔技术，它与被动强化不同，研究为主动操纵魔法附魔的理论。这项研究将发展成如何应用附魔创造神奇生物的概念。</TM_GolemCraftRD.description>-->
+  <!--<TM_HollowGolemRD.label>空洞傀儡</TM_HollowGolemRD.label>-->
+  <!--<TM_HollowGolemRD.description>一种研究如何用活跃的原始能量制作傀儡的神奇方法。制造这种傀儡需要奥术熔炉。</TM_HollowGolemRD.description>-->
+  <!--<TM_HollowGolemEquipmentRD.label>空洞械器</TM_HollowGolemEquipmentRD.label>-->
+  <!--<TM_HollowGolemEquipmentRD.description>研究可以连接到空洞傀儡上的武器和盔甲，以进一步增强傀儡或其能力。</TM_HollowGolemEquipmentRD.description>-->
+  <!--<TM_HollowGolemArtifactsRD.label>空洞造物</TM_HollowGolemArtifactsRD.label>-->
+  <!--<TM_HollowGolemArtifactsRD.description>通过研究奥术人工制品与傀儡行为的结合使空洞傀儡可以用自己的魔法能量为魔法人工制品提供燃料。</TM_HollowGolemArtifactsRD.description>-->
+  <!--<TM_MechaGolemRD.label>机械傀儡</TM_MechaGolemRD.label>-->
+  <!--<TM_MechaGolemRD.description>将电气和机械工程与傀儡工艺相结合，创建一个机械傀儡。预计需要一个机械加工台来制作机械傀儡的部件。</TM_MechaGolemRD.description>-->
+  <!--<TM_MechaGolemEquipmentRD.label>机械附件</TM_MechaGolemEquipmentRD.label>-->
+  <!--<TM_MechaGolemEquipmentRD.description>研究制作附件和盔甲的方法，以进一步增强机械傀儡。</TM_MechaGolemEquipmentRD.description>-->
+  <!--<TM_FleshGolemRD.label>血肉傀儡</TM_FleshGolemRD.label>-->
+  <!--<TM_FleshGolemRD.description>研究如何将死去的生物的肉和骨头塑造成两足的具有生机的傀儡的生物学方法。一个简单的屠宰桌应该足以制作一个血肉傀儡。</TM_FleshGolemRD.description>-->
+  <!--<TM_FleshGolemEquipmentRD.label>血肉附件</TM_FleshGolemEquipmentRD.label>-->
+  <!--<TM_FleshGolemEquipmentRD.description>研究可以连接到血肉傀儡上的武器和盔甲，以进一步增强傀儡或其能力。</TM_FleshGolemEquipmentRD.description>-->
 
 </LanguageData>

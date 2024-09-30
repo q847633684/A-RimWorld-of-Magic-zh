@@ -19,8 +19,6 @@
   <TM_ArcaneHD.comps.0.labelSolidTendedWell>已固定</TM_ArcaneHD.comps.0.labelSolidTendedWell>
   <TM_ArcaneHD.injuryProps.destroyedLabel>毁坏</TM_ArcaneHD.injuryProps.destroyedLabel>
   <TM_ArcaneHD.injuryProps.destroyedOutLabel>毁掉</TM_ArcaneHD.injuryProps.destroyedOutLabel>
-  <TM_ArcaneHD.comps.HediffComp_GetsPermanent.permanentLabel>被奥术力量摧毁</TM_ArcaneHD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_ArcaneHD.labelNounPretty>{1} 中的 {0}</TM_ArcaneHD.labelNounPretty>
 
   <TM_ThrumboCleave.label>顺劈斩</TM_ThrumboCleave.label>
   <TM_ThrumboCleave.description>足以穿透多个物体的攻击。</TM_ThrumboCleave.description>
@@ -30,8 +28,6 @@
   <TM_ThrumboCleave.injuryProps.destroyedLabel>切坏</TM_ThrumboCleave.injuryProps.destroyedLabel>
   <TM_ThrumboCleave.injuryProps.destroyedOutLabel>切掉</TM_ThrumboCleave.injuryProps.destroyedOutLabel>
   <TM_ThrumboCleave.labelNoun>巨大伤口</TM_ThrumboCleave.labelNoun>
-  <TM_ThrumboCleave.comps.HediffComp_GetsPermanent.permanentLabel>瘢痕</TM_ThrumboCleave.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_ThrumboCleave.labelNounPretty>{1} 中的 {0}</TM_ThrumboCleave.labelNounPretty>
 
   <TM_BlazingPowerHD.label>闪耀之力</TM_BlazingPowerHD.label>
   <TM_BlazingPowerHD.description>通过聚焦集中的魔法能量.</TM_BlazingPowerHD.description>
@@ -40,8 +36,6 @@
   <TM_BlazingPowerHD.comps.0.labelSolidTendedWell>已固定</TM_BlazingPowerHD.comps.0.labelSolidTendedWell>
   <TM_BlazingPowerHD.injuryProps.destroyedLabel>毁坏</TM_BlazingPowerHD.injuryProps.destroyedLabel>
   <TM_BlazingPowerHD.injuryProps.destroyedOutLabel>毁掉</TM_BlazingPowerHD.injuryProps.destroyedOutLabel>
-  <TM_BlazingPowerHD.comps.HediffComp_GetsPermanent.permanentLabel>被炽热的力量摧毁</TM_BlazingPowerHD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_BlazingPowerHD.labelNounPretty>{1} 中的 {0}</TM_BlazingPowerHD.labelNounPretty>
 
   <TM_Holy.label>神罚天降</TM_Holy.label>
   <TM_Holy.description>来自破坏之光的能量.</TM_Holy.description>
@@ -50,8 +44,6 @@
   <TM_Holy.comps.0.labelSolidTendedWell>已固定</TM_Holy.comps.0.labelSolidTendedWell>
   <TM_Holy.injuryProps.destroyedLabel>燃坏</TM_Holy.injuryProps.destroyedLabel>
   <TM_Holy.injuryProps.destroyedOutLabel>烧尽</TM_Holy.injuryProps.destroyedOutLabel>
-  <TM_Holy.comps.HediffComp_GetsPermanent.permanentLabel>被神圣力量摧毁</TM_Holy.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_Holy.labelNounPretty>{1} 中的 {0}</TM_Holy.labelNounPretty>
 
   <TM_SpiritHD.label>特性</TM_SpiritHD.label>
   <TM_SpiritHD.description>有害的精神能量.</TM_SpiritHD.description>
@@ -60,8 +52,6 @@
   <TM_SpiritHD.comps.0.labelSolidTendedWell>已固定</TM_SpiritHD.comps.0.labelSolidTendedWell>
   <TM_SpiritHD.injuryProps.destroyedLabel>毁坏</TM_SpiritHD.injuryProps.destroyedLabel>
   <TM_SpiritHD.injuryProps.destroyedOutLabel>毁掉</TM_SpiritHD.injuryProps.destroyedOutLabel>
-  <TM_SpiritHD.comps.HediffComp_GetsPermanent.permanentLabel>精疲力尽</TM_SpiritHD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_SpiritHD.labelNounPretty>{1} 中的 {0}</TM_SpiritHD.labelNounPretty>
 
   <TM_MagicMissile.label>魔法飞弹</TM_MagicMissile.label>
   <TM_MagicMissile.description>奥术能量投射在并集中一个球体中爆发出来。</TM_MagicMissile.description>
@@ -70,8 +60,6 @@
   <TM_MagicMissile.comps.0.labelSolidTendedWell>已固定</TM_MagicMissile.comps.0.labelSolidTendedWell>
   <TM_MagicMissile.injuryProps.destroyedLabel>毁坏</TM_MagicMissile.injuryProps.destroyedLabel>
   <TM_MagicMissile.injuryProps.destroyedOutLabel>切断</TM_MagicMissile.injuryProps.destroyedOutLabel>
-  <TM_MagicMissile.comps.HediffComp_GetsPermanent.permanentLabel>被奥术所触动</TM_MagicMissile.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_MagicMissile.labelNounPretty>{1} 中的 {0}</TM_MagicMissile.labelNounPretty>
 
   <TM_ManaMine.label>法力爆发</TM_ManaMine.label>
   <TM_ManaMine.description>爆炸性地释放所含法力。</TM_ManaMine.description>
@@ -80,8 +68,6 @@
   <TM_ManaMine.comps.0.labelSolidTendedWell>已固定</TM_ManaMine.comps.0.labelSolidTendedWell>
   <TM_ManaMine.injuryProps.destroyedLabel>枯萎</TM_ManaMine.injuryProps.destroyedLabel>
   <TM_ManaMine.injuryProps.destroyedOutLabel>烧坏</TM_ManaMine.injuryProps.destroyedOutLabel>
-  <TM_ManaMine.comps.HediffComp_GetsPermanent.permanentLabel>被法力爆炸摧毁</TM_ManaMine.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_ManaMine.labelNounPretty>{1} 中的 {0}</TM_ManaMine.labelNounPretty>
 
   <TM_Firebolt.label>燃烧之箭</TM_Firebolt.label>
   <TM_Firebolt.description>元素之火被投影在一个箭中。</TM_Firebolt.description>
@@ -90,8 +76,6 @@
   <TM_Firebolt.comps.0.labelSolidTendedWell>已固定</TM_Firebolt.comps.0.labelSolidTendedWell>
   <TM_Firebolt.injuryProps.destroyedLabel>烧掉</TM_Firebolt.injuryProps.destroyedLabel>
   <TM_Firebolt.injuryProps.destroyedOutLabel>烧坏</TM_Firebolt.injuryProps.destroyedOutLabel>
-  <TM_Firebolt.comps.HediffComp_GetsPermanent.permanentLabel>烧伤疤痕</TM_Firebolt.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_Firebolt.labelNounPretty>{1} 中的 {0}</TM_Firebolt.labelNounPretty>
 
   <TM_LightningCloud.label>天丛云雷</TM_LightningCloud.label>
   <TM_LightningCloud.description>带电粒子引起的环境放电.</TM_LightningCloud.description>
@@ -100,8 +84,6 @@
   <TM_LightningCloud.comps.0.labelSolidTendedWell>已固定</TM_LightningCloud.comps.0.labelSolidTendedWell>
   <TM_LightningCloud.injuryProps.destroyedLabel>融化</TM_LightningCloud.injuryProps.destroyedLabel>
   <TM_LightningCloud.injuryProps.destroyedOutLabel>烧坏</TM_LightningCloud.injuryProps.destroyedOutLabel>
-  <TM_LightningCloud.comps.HediffComp_GetsPermanent.permanentLabel>触电</TM_LightningCloud.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_LightningCloud.labelNounPretty>{1} 中的 {0}</TM_LightningCloud.labelNounPretty>
 
   <TM_Lightning.label>闪电冲击</TM_Lightning.label>
   <TM_Lightning.description>强电.</TM_Lightning.description>
@@ -110,8 +92,6 @@
   <TM_Lightning.comps.0.labelSolidTendedWell>已固定</TM_Lightning.comps.0.labelSolidTendedWell>
   <TM_Lightning.injuryProps.destroyedLabel>融化</TM_Lightning.injuryProps.destroyedLabel>
   <TM_Lightning.injuryProps.destroyedOutLabel>烧坏</TM_Lightning.injuryProps.destroyedOutLabel>
-  <TM_Lightning.comps.HediffComp_GetsPermanent.permanentLabel>被闪电击中</TM_Lightning.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_Lightning.labelNounPretty>{1} 中的 {0}</TM_Lightning.labelNounPretty>
 
   <FrostRay.label>霜冻之寒</FrostRay.label>
   <FrostRay.description>顶级的元素之冰.</FrostRay.description>
@@ -120,8 +100,6 @@
   <FrostRay.comps.0.labelSolidTendedWell>已固定</FrostRay.comps.0.labelSolidTendedWell>
   <FrostRay.injuryProps.destroyedLabel>冻坏</FrostRay.injuryProps.destroyedLabel>
   <FrostRay.injuryProps.destroyedOutLabel>破碎</FrostRay.injuryProps.destroyedOutLabel>
-  <FrostRay.comps.HediffComp_GetsPermanent.permanentLabel>冻伤疤痕</FrostRay.comps.HediffComp_GetsPermanent.permanentLabel>
-  <FrostRay.labelNounPretty>{1} 中的 {0}</FrostRay.labelNounPretty>
 
   <Snowball.label>雪球术</Snowball.label>
   <Snowball.description>冰天雪地.</Snowball.description>
@@ -130,8 +108,6 @@
   <Snowball.comps.0.labelSolidTendedWell>已固定</Snowball.comps.0.labelSolidTendedWell>
   <Snowball.injuryProps.destroyedLabel>冻坏</Snowball.injuryProps.destroyedLabel>
   <Snowball.injuryProps.destroyedOutLabel>破碎</Snowball.injuryProps.destroyedOutLabel>
-  <Snowball.comps.HediffComp_GetsPermanent.permanentLabel>冻伤疤痕</Snowball.comps.HediffComp_GetsPermanent.permanentLabel>
-  <Snowball.labelNounPretty>{1} 中的 {0}</Snowball.labelNounPretty>
 
   <Blizzard.label>暴风雪</Blizzard.label>
   <Blizzard.description>暴风雪.</Blizzard.description>
@@ -140,8 +116,6 @@
   <Blizzard.comps.0.labelSolidTendedWell>已固定</Blizzard.comps.0.labelSolidTendedWell>
   <Blizzard.injuryProps.destroyedLabel>冰冻</Blizzard.injuryProps.destroyedLabel>
   <Blizzard.injuryProps.destroyedOutLabel>破碎</Blizzard.injuryProps.destroyedOutLabel>
-  <Blizzard.comps.HediffComp_GetsPermanent.permanentLabel>毁于暴风雪</Blizzard.comps.HediffComp_GetsPermanent.permanentLabel>
-  <Blizzard.labelNounPretty>{1} 中的 {0}</Blizzard.labelNounPretty>
 
   <Iceshard.label>冰晶碎片</Iceshard.label>
   <Iceshard.description>元素之冰投射为边缘十分锋利的冰晶.</Iceshard.description>
@@ -150,8 +124,6 @@
   <Iceshard.comps.0.labelSolidTendedWell>已固定</Iceshard.comps.0.labelSolidTendedWell>
   <Iceshard.injuryProps.destroyedLabel>切碎</Iceshard.injuryProps.destroyedLabel>
   <Iceshard.injuryProps.destroyedOutLabel>切掉</Iceshard.injuryProps.destroyedOutLabel>
-  <Iceshard.comps.HediffComp_GetsPermanent.permanentLabel>冰晶疤痕</Iceshard.comps.HediffComp_GetsPermanent.permanentLabel>
-  <Iceshard.labelNounPretty>{1} 中的 {0}</Iceshard.labelNounPretty>
 
   <TM_GrapplingHook.label>抓钩</TM_GrapplingHook.label>
   <TM_GrapplingHook.description>拉近目标.</TM_GrapplingHook.description>
@@ -160,8 +132,6 @@
   <TM_GrapplingHook.comps.0.labelSolidTendedWell>已固定</TM_GrapplingHook.comps.0.labelSolidTendedWell>
   <TM_GrapplingHook.injuryProps.destroyedLabel>撕破</TM_GrapplingHook.injuryProps.destroyedLabel>
   <TM_GrapplingHook.injuryProps.destroyedOutLabel>扯下</TM_GrapplingHook.injuryProps.destroyedOutLabel>
-  <TM_GrapplingHook.comps.HediffComp_GetsPermanent.permanentLabel>撕掉</TM_GrapplingHook.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_GrapplingHook.labelNounPretty>{1} 中的 {0}</TM_GrapplingHook.labelNounPretty>
 
   <TM_Whirlwind_Knockdown.label>旋风斩</TM_Whirlwind_Knockdown.label>
   <TM_Whirlwind_Knockdown.description>让人在一系列的攻击中不知所措.</TM_Whirlwind_Knockdown.description>
@@ -170,8 +140,6 @@
   <TM_Whirlwind_Knockdown.comps.0.labelSolidTendedWell>已固定</TM_Whirlwind_Knockdown.comps.0.labelSolidTendedWell>
   <TM_Whirlwind_Knockdown.injuryProps.destroyedLabel>切开</TM_Whirlwind_Knockdown.injuryProps.destroyedLabel>
   <TM_Whirlwind_Knockdown.injuryProps.destroyedOutLabel>切断</TM_Whirlwind_Knockdown.injuryProps.destroyedOutLabel>
-  <TM_Whirlwind_Knockdown.comps.HediffComp_GetsPermanent.permanentLabel>切掉</TM_Whirlwind_Knockdown.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_Whirlwind_Knockdown.labelNounPretty>{1} 中的 {0}</TM_Whirlwind_Knockdown.labelNounPretty>
 
   <TM_DisablingShot_HD.label>残废射击</TM_DisablingShot_HD.label>
   <TM_DisablingShot_HD.description>一种设计成使人丧失能力而不是杀人的炮弹。</TM_DisablingShot_HD.description>
@@ -180,8 +148,6 @@
   <TM_DisablingShot_HD.comps.0.labelSolidTendedWell>已固定</TM_DisablingShot_HD.comps.0.labelSolidTendedWell>
   <TM_DisablingShot_HD.injuryProps.destroyedLabel>射伤</TM_DisablingShot_HD.injuryProps.destroyedLabel>
   <TM_DisablingShot_HD.injuryProps.destroyedOutLabel>射毁</TM_DisablingShot_HD.injuryProps.destroyedOutLabel>
-  <TM_DisablingShot_HD.comps.HediffComp_GetsPermanent.permanentLabel>射击</TM_DisablingShot_HD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_DisablingShot_HD.labelNounPretty>{1} 中的 {0}</TM_DisablingShot_HD.labelNounPretty>
 
   <TM_arcaneSpectre.label>灵魂切割</TM_arcaneSpectre.label>
   <TM_arcaneSpectre.description>幽灵造成的精神伤害。</TM_arcaneSpectre.description>
@@ -191,8 +157,6 @@
   <TM_arcaneSpectre.injuryProps.destroyedLabel>切开</TM_arcaneSpectre.injuryProps.destroyedLabel>
   <TM_arcaneSpectre.injuryProps.destroyedOutLabel>切断</TM_arcaneSpectre.injuryProps.destroyedOutLabel>
   <TM_arcaneSpectre.labelNoun>伤口</TM_arcaneSpectre.labelNoun>
-  <TM_arcaneSpectre.comps.HediffComp_GetsPermanent.permanentLabel>苍白的疤痕</TM_arcaneSpectre.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_arcaneSpectre.labelNounPretty>{1} 中的 {0}</TM_arcaneSpectre.labelNounPretty>
 
   <TM_BloodyCutHD.label>出血</TM_BloodyCutHD.label>
   <TM_BloodyCutHD.description>大量出血的伤口.</TM_BloodyCutHD.description>
@@ -202,8 +166,6 @@
   <TM_BloodyCutHD.injuryProps.destroyedLabel>切开</TM_BloodyCutHD.injuryProps.destroyedLabel>
   <TM_BloodyCutHD.injuryProps.destroyedOutLabel>切断</TM_BloodyCutHD.injuryProps.destroyedOutLabel>
   <TM_BloodyCutHD.labelNoun>流血伤口</TM_BloodyCutHD.labelNoun>
-  <TM_BloodyCutHD.comps.HediffComp_GetsPermanent.permanentLabel>割伤疤痕</TM_BloodyCutHD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_BloodyCutHD.labelNounPretty>{1} 中的 {0}</TM_BloodyCutHD.labelNounPretty>
 
   <TM_DisablingBlowHD.label>致残打击</TM_DisablingBlowHD.label>
   <TM_DisablingBlowHD.description>一种近战打击，意在使人丧失能力而不是杀人。</TM_DisablingBlowHD.description>
@@ -212,8 +174,6 @@
   <TM_DisablingBlowHD.comps.0.labelSolidTendedWell>已固定</TM_DisablingBlowHD.comps.0.labelSolidTendedWell>
   <TM_DisablingBlowHD.injuryProps.destroyedLabel>切开</TM_DisablingBlowHD.injuryProps.destroyedLabel>
   <TM_DisablingBlowHD.injuryProps.destroyedOutLabel>切断</TM_DisablingBlowHD.injuryProps.destroyedOutLabel>
-  <TM_DisablingBlowHD.comps.HediffComp_GetsPermanent.permanentLabel>砸碎</TM_DisablingBlowHD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_DisablingBlowHD.labelNounPretty>{1} 中的 {0}</TM_DisablingBlowHD.labelNounPretty>
 
   <TM_ChiBurnHD.label>真气</TM_ChiBurnHD.label>
   <TM_ChiBurnHD.description>真气爆发造成的伤害。</TM_ChiBurnHD.description>
@@ -222,8 +182,6 @@
   <TM_ChiBurnHD.comps.0.labelSolidTendedWell>已固定</TM_ChiBurnHD.comps.0.labelSolidTendedWell>
   <TM_ChiBurnHD.injuryProps.destroyedLabel>毁坏</TM_ChiBurnHD.injuryProps.destroyedLabel>
   <TM_ChiBurnHD.injuryProps.destroyedOutLabel>毁掉</TM_ChiBurnHD.injuryProps.destroyedOutLabel>
-  <TM_ChiBurnHD.comps.HediffComp_GetsPermanent.permanentLabel>被摧毁</TM_ChiBurnHD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_ChiBurnHD.labelNounPretty>{1} 中的 {0}</TM_ChiBurnHD.labelNounPretty>
 
   <TM_ChiFistHD.label>击打</TM_ChiFistHD.label>
   <TM_ChiFistHD.description>僧侣的近战一击。</TM_ChiFistHD.description>
@@ -232,8 +190,6 @@
   <TM_ChiFistHD.comps.0.labelSolidTendedWell>已固定</TM_ChiFistHD.comps.0.labelSolidTendedWell>
   <TM_ChiFistHD.injuryProps.destroyedLabel>毁坏</TM_ChiFistHD.injuryProps.destroyedLabel>
   <TM_ChiFistHD.injuryProps.destroyedOutLabel>毁掉</TM_ChiFistHD.injuryProps.destroyedOutLabel>
-  <TM_ChiFistHD.comps.HediffComp_GetsPermanent.permanentLabel>被摧毁</TM_ChiFistHD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_ChiFistHD.labelNounPretty>{1} 中的 {0}</TM_ChiFistHD.labelNounPretty>
 
   <TM_ToxinHD.label>毒素</TM_ToxinHD.label>
   <TM_ToxinHD.description>毒素造成的损害。</TM_ToxinHD.description>
@@ -242,8 +198,6 @@
   <TM_ToxinHD.comps.0.labelSolidTendedWell>照顾</TM_ToxinHD.comps.0.labelSolidTendedWell>
   <TM_ToxinHD.injuryProps.destroyedLabel>毁灭</TM_ToxinHD.injuryProps.destroyedLabel>
   <TM_ToxinHD.labelNoun>毒素</TM_ToxinHD.labelNoun>
-  <TM_ToxinHD.comps.HediffComp_GetsPermanent.permanentLabel>有毒组织</TM_ToxinHD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_ToxinHD.labelNounPretty>{1} 中的 {0}</TM_ToxinHD.labelNounPretty>
 
   <TM_LightDD.label>光</TM_LightDD.label>
   <TM_LightDD.description>来自破坏性光的能量.</TM_LightDD.description>
@@ -252,8 +206,7 @@
   <TM_LightDD.comps.0.labelSolidTendedWell>已固定</TM_LightDD.comps.0.labelSolidTendedWell>
   <TM_LightDD.injuryProps.destroyedLabel>烧毁</TM_LightDD.injuryProps.destroyedLabel>
   <TM_LightDD.injuryProps.destroyedOutLabel>烧毁</TM_LightDD.injuryProps.destroyedOutLabel>
-  <TM_LightDD.comps.HediffComp_GetsPermanent.permanentLabel>被光烧伤</TM_LightDD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_LightDD.labelNounPretty>{1} 中的 {0}</TM_LightDD.labelNounPretty>
+
   <TM_Dismember.label>撕裂</TM_Dismember.label>
   <TM_Dismember.description>撕裂对方的身体。</TM_Dismember.description>
   <TM_Dismember.comps.0.labelTendedWell>已包扎</TM_Dismember.comps.0.labelTendedWell>
@@ -262,13 +215,13 @@
   <TM_Dismember.injuryProps.destroyedLabel>撕裂</TM_Dismember.injuryProps.destroyedLabel>
   <TM_Dismember.injuryProps.destroyedOutLabel>撕裂</TM_Dismember.injuryProps.destroyedOutLabel>
   <TM_Dismember.labelNoun>巨大的伤口</TM_Dismember.labelNoun>
-  <TM_Dismember.labelNounPretty>{1} 中的 {0}</TM_Dismember.labelNounPretty>
+
   <TM_PartRemovalHD.label>缺失</TM_PartRemovalHD.label>
   <TM_PartRemovalHD.description>缺失身体部件。</TM_PartRemovalHD.description>
   <TM_PartRemovalHD.injuryProps.destroyedLabel>缺失</TM_PartRemovalHD.injuryProps.destroyedLabel>
   <TM_PartRemovalHD.injuryProps.destroyedOutLabel>缺失</TM_PartRemovalHD.injuryProps.destroyedOutLabel>
   <TM_PartRemovalHD.labelNoun>缺失</TM_PartRemovalHD.labelNoun>
-  <TM_PartRemovalHD.labelNounPretty>{1} 中的 {0}</TM_PartRemovalHD.labelNounPretty>
+
   <TM_DecayDamage.label>腐朽之触</TM_DecayDamage.label>
   <TM_DecayDamage.description>腐朽</TM_DecayDamage.description>
   <TM_DecayDamage.comps.0.labelTendedWell>已包扎</TM_DecayDamage.comps.0.labelTendedWell>
@@ -276,8 +229,7 @@
   <TM_DecayDamage.comps.0.labelSolidTendedWell>处理</TM_DecayDamage.comps.0.labelSolidTendedWell>
   <TM_DecayDamage.injuryProps.destroyedLabel>毫无生气</TM_DecayDamage.injuryProps.destroyedLabel>
   <TM_DecayDamage.injuryProps.destroyedOutLabel>腐烂的</TM_DecayDamage.injuryProps.destroyedOutLabel>
-  <TM_DecayDamage.comps.HediffComp_GetsPermanent.permanentLabel>lifeless</TM_DecayDamage.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_DecayDamage.labelNounPretty>{1} 中的 {0}</TM_DecayDamage.labelNounPretty>
+
   <TM_SymbiosisDamage.label>思维共生</TM_SymbiosisDamage.label>
   <TM_SymbiosisDamage.description>思维共生的反噬</TM_SymbiosisDamage.description>
   <TM_SymbiosisDamage.comps.0.labelTendedWell>照顾</TM_SymbiosisDamage.comps.0.labelTendedWell>
@@ -286,8 +238,7 @@
   <TM_SymbiosisDamage.injuryProps.destroyedLabel>毁掉</TM_SymbiosisDamage.injuryProps.destroyedLabel>
   <TM_SymbiosisDamage.injuryProps.destroyedOutLabel>切断</TM_SymbiosisDamage.injuryProps.destroyedOutLabel>
   <TM_SymbiosisDamage.labelNoun>反噬</TM_SymbiosisDamage.labelNoun>
-  <TM_SymbiosisDamage.comps.HediffComp_GetsPermanent.permanentLabel>残余损伤</TM_SymbiosisDamage.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_SymbiosisDamage.labelNounPretty>{1} 中的 {0}</TM_SymbiosisDamage.labelNounPretty>
+
   <TM_Frozen.label>寒冬之击</TM_Frozen.label>
   <TM_Frozen.description>寒冬之击</TM_Frozen.description>
   <TM_Frozen.comps.0.labelTendedWell>照顾</TM_Frozen.comps.0.labelTendedWell>
@@ -295,9 +246,64 @@
   <TM_Frozen.comps.0.labelSolidTendedWell>照顾</TM_Frozen.comps.0.labelSolidTendedWell>
   <TM_Frozen.injuryProps.destroyedLabel>冷冻</TM_Frozen.injuryProps.destroyedLabel>
   <TM_Frozen.injuryProps.destroyedOutLabel>冷冻</TM_Frozen.injuryProps.destroyedOutLabel>
-  <TM_Frozen.comps.HediffComp_GetsPermanent.permanentLabel>冻疮</TM_Frozen.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_Frozen.labelNounPretty>{1} 中的 {0}</TM_Frozen.labelNounPretty>
 
+
+  <!--<TM_ArcaneHD.comps.HediffComp_GetsPermanent.permanentLabel>被奥术力量摧毁</TM_ArcaneHD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_ArcaneHD.labelNounPretty>{1} 中的 {0}</TM_ArcaneHD.labelNounPretty>-->
+  <!--<TM_ThrumboCleave.comps.HediffComp_GetsPermanent.permanentLabel>瘢痕</TM_ThrumboCleave.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_ThrumboCleave.labelNounPretty>{1} 中的 {0}</TM_ThrumboCleave.labelNounPretty>-->
+  <!--<TM_BlazingPowerHD.comps.HediffComp_GetsPermanent.permanentLabel>被炽热的力量摧毁</TM_BlazingPowerHD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_BlazingPowerHD.labelNounPretty>{1} 中的 {0}</TM_BlazingPowerHD.labelNounPretty>-->
+  <!--<TM_Holy.comps.HediffComp_GetsPermanent.permanentLabel>被神圣力量摧毁</TM_Holy.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_Holy.labelNounPretty>{1} 中的 {0}</TM_Holy.labelNounPretty>-->
+  <!--<TM_SpiritHD.comps.HediffComp_GetsPermanent.permanentLabel>精疲力尽</TM_SpiritHD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_SpiritHD.labelNounPretty>{1} 中的 {0}</TM_SpiritHD.labelNounPretty>-->
+  <!--<TM_MagicMissile.comps.HediffComp_GetsPermanent.permanentLabel>被奥术所触动</TM_MagicMissile.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_MagicMissile.labelNounPretty>{1} 中的 {0}</TM_MagicMissile.labelNounPretty>-->
+  <!--<TM_ManaMine.comps.HediffComp_GetsPermanent.permanentLabel>被法力爆炸摧毁</TM_ManaMine.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_ManaMine.labelNounPretty>{1} 中的 {0}</TM_ManaMine.labelNounPretty>-->
+  <!--<TM_Firebolt.comps.HediffComp_GetsPermanent.permanentLabel>烧伤疤痕</TM_Firebolt.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_Firebolt.labelNounPretty>{1} 中的 {0}</TM_Firebolt.labelNounPretty>-->
+  <!--<TM_LightningCloud.comps.HediffComp_GetsPermanent.permanentLabel>触电</TM_LightningCloud.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_LightningCloud.labelNounPretty>{1} 中的 {0}</TM_LightningCloud.labelNounPretty>-->
+  <!--<TM_Lightning.comps.HediffComp_GetsPermanent.permanentLabel>被闪电击中</TM_Lightning.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_Lightning.labelNounPretty>{1} 中的 {0}</TM_Lightning.labelNounPretty>-->
+  <!--<FrostRay.comps.HediffComp_GetsPermanent.permanentLabel>冻伤疤痕</FrostRay.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<FrostRay.labelNounPretty>{1} 中的 {0}</FrostRay.labelNounPretty>-->
+  <!--<Snowball.comps.HediffComp_GetsPermanent.permanentLabel>冻伤疤痕</Snowball.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<Snowball.labelNounPretty>{1} 中的 {0}</Snowball.labelNounPretty>-->
+  <!--<Blizzard.comps.HediffComp_GetsPermanent.permanentLabel>毁于暴风雪</Blizzard.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<Blizzard.labelNounPretty>{1} 中的 {0}</Blizzard.labelNounPretty>-->
+  <!--<Iceshard.comps.HediffComp_GetsPermanent.permanentLabel>冰晶疤痕</Iceshard.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<Iceshard.labelNounPretty>{1} 中的 {0}</Iceshard.labelNounPretty>-->
+  <!--<TM_GrapplingHook.comps.HediffComp_GetsPermanent.permanentLabel>撕掉</TM_GrapplingHook.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_GrapplingHook.labelNounPretty>{1} 中的 {0}</TM_GrapplingHook.labelNounPretty>-->
+  <!--<TM_Whirlwind_Knockdown.comps.HediffComp_GetsPermanent.permanentLabel>切掉</TM_Whirlwind_Knockdown.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_Whirlwind_Knockdown.labelNounPretty>{1} 中的 {0}</TM_Whirlwind_Knockdown.labelNounPretty>-->
+  <!--<TM_DisablingShot_HD.comps.HediffComp_GetsPermanent.permanentLabel>射击</TM_DisablingShot_HD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_DisablingShot_HD.labelNounPretty>{1} 中的 {0}</TM_DisablingShot_HD.labelNounPretty>-->
+  <!--<TM_arcaneSpectre.comps.HediffComp_GetsPermanent.permanentLabel>苍白的疤痕</TM_arcaneSpectre.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_arcaneSpectre.labelNounPretty>{1} 中的 {0}</TM_arcaneSpectre.labelNounPretty>-->
+  <!--<TM_BloodyCutHD.comps.HediffComp_GetsPermanent.permanentLabel>割伤疤痕</TM_BloodyCutHD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_BloodyCutHD.labelNounPretty>{1} 中的 {0}</TM_BloodyCutHD.labelNounPretty>-->
+  <!--<TM_DisablingBlowHD.comps.HediffComp_GetsPermanent.permanentLabel>砸碎</TM_DisablingBlowHD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_DisablingBlowHD.labelNounPretty>{1} 中的 {0}</TM_DisablingBlowHD.labelNounPretty>-->
+  <!--<TM_ChiBurnHD.comps.HediffComp_GetsPermanent.permanentLabel>被摧毁</TM_ChiBurnHD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_ChiBurnHD.labelNounPretty>{1} 中的 {0}</TM_ChiBurnHD.labelNounPretty>-->
+  <!--<TM_ChiFistHD.comps.HediffComp_GetsPermanent.permanentLabel>被摧毁</TM_ChiFistHD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_ChiFistHD.labelNounPretty>{1} 中的 {0}</TM_ChiFistHD.labelNounPretty>-->
+  <!--<TM_ToxinHD.comps.HediffComp_GetsPermanent.permanentLabel>有毒组织</TM_ToxinHD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_ToxinHD.labelNounPretty>{1} 中的 {0}</TM_ToxinHD.labelNounPretty>-->
+  <!--<TM_LightDD.comps.HediffComp_GetsPermanent.permanentLabel>被光烧伤</TM_LightDD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_LightDD.labelNounPretty>{1} 中的 {0}</TM_LightDD.labelNounPretty>-->
+  <!--<TM_Dismember.labelNounPretty>{1} 中的 {0}</TM_Dismember.labelNounPretty>-->
+  <!--<TM_PartRemovalHD.labelNounPretty>{1} 中的 {0}</TM_PartRemovalHD.labelNounPretty>-->
+  <!--<TM_DecayDamage.comps.HediffComp_GetsPermanent.permanentLabel>lifeless</TM_DecayDamage.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_DecayDamage.labelNounPretty>{1} 中的 {0}</TM_DecayDamage.labelNounPretty>-->
+  <!--<TM_SymbiosisDamage.comps.HediffComp_GetsPermanent.permanentLabel>残余损伤</TM_SymbiosisDamage.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_SymbiosisDamage.labelNounPretty>{1} 中的 {0}</TM_SymbiosisDamage.labelNounPretty>-->
+  <!--<TM_Frozen.comps.HediffComp_GetsPermanent.permanentLabel>冻疮</TM_Frozen.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_Frozen.labelNounPretty>{1} 中的 {0}</TM_Frozen.labelNounPretty>-->
   <!-- <HediffDef ParentName="TM_InjuryBase" Name="CleaveInjuryBase" Abstract="True">
     <hediffClass>TorannMagic.Hediff_CleaveInjury</hediffClass>
     <tendable>true</tendable>

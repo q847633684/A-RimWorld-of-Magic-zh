@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <HediffDef >
+    <defName>TM_ShapeshiftHD</defName>
+	<hediffClass>HediffWithComps</hediffClass>
+	<label>Shape shifter</label>
+	<description>Improves the power of any animal form taken by a shape shifter.</description>
+    <defaultLabelColor>(0.6,0.8,1)</defaultLabelColor>
+    <scenarioCanAdd>false</scenarioCanAdd>
+	<makesSickThought>false</makesSickThought>
+	<tendable>false</tendable>
+    <makesAlert>false</makesAlert>
+	<minSeverity>0.001</minSeverity>
+	<maxSeverity>4.0</maxSeverity>
+	<isBad>false</isBad>
+	<initialSeverity>.5</initialSeverity>
+	<comps>
+	  <li>
+        <compClass>TorannMagic.HediffComp_Shapeshift</compClass>
+      </li>	  
+    </comps>
+	<stages>
+      <li>
+        <label></label>
+        <minSeverity>0.001</minSeverity>
+		<becomeVisible>true</becomeVisible>
+      </li>	  
+	</stages>
+  </HediffDef> -->
+
+  <TM_EnchantedBodyHD.label>Enchanted Body</TM_EnchantedBodyHD.label>
+  <TM_EnchantedBodyHD.description>Creation of enchanted body parts to enhance physical capability.</TM_EnchantedBodyHD.description>
+  <TM_EnchantedBodyHD.stages.0.label>Arm</TM_EnchantedBodyHD.stages.0.label>
+  <TM_EnchantedBodyHD.stages.1.label>Two Arms</TM_EnchantedBodyHD.stages.1.label>
+  <TM_EnchantedBodyHD.stages.2.label>Arms and Eye</TM_EnchantedBodyHD.stages.2.label>
+  <TM_EnchantedBodyHD.stages.3.label>Arms and Eye ++</TM_EnchantedBodyHD.stages.3.label>
+
+  <TM_EnchantedAuraHD.label>Enchanted Aura</TM_EnchantedAuraHD.label>
+  <TM_EnchantedAuraHD.description>An enchanted aspect surrounds the pawn enhancing qualities considered for beauty, endearment, and attraction.</TM_EnchantedAuraHD.description>
+  <TM_EnchantedAuraHD.stages.0.label>I</TM_EnchantedAuraHD.stages.0.label>
+  <TM_EnchantedAuraHD.stages.1.label>II</TM_EnchantedAuraHD.stages.1.label>
+  <TM_EnchantedAuraHD.stages.2.label>III</TM_EnchantedAuraHD.stages.2.label>
+  <TM_EnchantedAuraHD.stages.3.label>IV</TM_EnchantedAuraHD.stages.3.label>
+
+  <TM_ShapeshiftHD.label>Shapeshifter</TM_ShapeshiftHD.label>
+  <TM_ShapeshiftHD.description>Improves the power of any animal form taken by a shape shifter.</TM_ShapeshiftHD.description>
+  <TM_ShapeshiftHD.stages.0.label>I</TM_ShapeshiftHD.stages.0.label>
+  <TM_ShapeshiftHD.stages.1.label>II</TM_ShapeshiftHD.stages.1.label>
+  <TM_ShapeshiftHD.stages.2.label>III</TM_ShapeshiftHD.stages.2.label>
+  <TM_ShapeshiftHD.stages.3.label>IV</TM_ShapeshiftHD.stages.3.label>
+
+  <TM_WeaponEnchantment_FireHD.label>Enchanted Weapon</TM_WeaponEnchantment_FireHD.label>
+  <TM_WeaponEnchantment_FireHD.description>Enchants the currently equipped weapon with elemental fire that can burn or set fire to an object. This enchantment will end if the weapon is unequipped or swapped.</TM_WeaponEnchantment_FireHD.description>
+  <TM_WeaponEnchantment_FireHD.stages.0.label>Fire (I)</TM_WeaponEnchantment_FireHD.stages.0.label>
+  <TM_WeaponEnchantment_FireHD.stages.1.label>Fire (II)</TM_WeaponEnchantment_FireHD.stages.1.label>
+  <TM_WeaponEnchantment_FireHD.stages.2.label>Fire (III)</TM_WeaponEnchantment_FireHD.stages.2.label>
+  <TM_WeaponEnchantment_FireHD.stages.3.label>Fire (IV)</TM_WeaponEnchantment_FireHD.stages.3.label>
+
+  <TM_WeaponEnchantment_IceHD.label>Enchanted Weapon</TM_WeaponEnchantment_IceHD.label>
+  <TM_WeaponEnchantment_IceHD.description>Enchants the currently equipped weapon with elemental ice that inflicts frostbite. This enchantment will end if the weapon is unequipped or swapped.</TM_WeaponEnchantment_IceHD.description>
+  <TM_WeaponEnchantment_IceHD.stages.0.label>Ice (I)</TM_WeaponEnchantment_IceHD.stages.0.label>
+  <TM_WeaponEnchantment_IceHD.stages.1.label>Ice (II)</TM_WeaponEnchantment_IceHD.stages.1.label>
+  <TM_WeaponEnchantment_IceHD.stages.2.label>Ice (III)</TM_WeaponEnchantment_IceHD.stages.2.label>
+  <TM_WeaponEnchantment_IceHD.stages.3.label>Ice (IV)</TM_WeaponEnchantment_IceHD.stages.3.label>
+
+  <TM_WeaponEnchantment_LitHD.label>Enchanted Weapon</TM_WeaponEnchantment_LitHD.label>
+  <TM_WeaponEnchantment_LitHD.description>Enchants the currently equipped weapon with elemental lightning that sends stunning shockwaves through an object. This enchantment will end if the weapon is unequipped or swapped.</TM_WeaponEnchantment_LitHD.description>
+  <TM_WeaponEnchantment_LitHD.stages.0.label>Stun (I)</TM_WeaponEnchantment_LitHD.stages.0.label>
+  <TM_WeaponEnchantment_LitHD.stages.1.label>Stun (II)</TM_WeaponEnchantment_LitHD.stages.1.label>
+  <TM_WeaponEnchantment_LitHD.stages.2.label>Stun (III)</TM_WeaponEnchantment_LitHD.stages.2.label>
+  <TM_WeaponEnchantment_LitHD.stages.3.label>Stun (IV)</TM_WeaponEnchantment_LitHD.stages.3.label>
+
+  <TM_WeaponEnchantment_DarkHD.label>Enchanted Weapon</TM_WeaponEnchantment_DarkHD.label>
+  <TM_WeaponEnchantment_DarkHD.description>Enchants the currently equipped weapon with a touch of darkness that causes blindness. This enchantment will end if the weapon is unequipped or swapped.</TM_WeaponEnchantment_DarkHD.description>
+  <TM_WeaponEnchantment_DarkHD.stages.0.label>Dark (I)</TM_WeaponEnchantment_DarkHD.stages.0.label>
+  <TM_WeaponEnchantment_DarkHD.stages.1.label>Dark (II)</TM_WeaponEnchantment_DarkHD.stages.1.label>
+  <TM_WeaponEnchantment_DarkHD.stages.2.label>Dark (III)</TM_WeaponEnchantment_DarkHD.stages.2.label>
+  <TM_WeaponEnchantment_DarkHD.stages.3.label>Dark (IV)</TM_WeaponEnchantment_DarkHD.stages.3.label>
+
+
+</LanguageData>

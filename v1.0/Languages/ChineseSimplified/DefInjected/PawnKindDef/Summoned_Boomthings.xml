@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Torann Magic poppi thingdef -->
+
+  <TM_Poppi.label>poppi</TM_Poppi.label>
+  <TM_Poppi.labelPlural>poppis</TM_Poppi.labelPlural>
+  <TM_Poppi.lifeStages.0.label>poppi</TM_Poppi.lifeStages.0.label>
+  <TM_Poppi.lifeStages.0.labelPlural>poppi</TM_Poppi.lifeStages.0.labelPlural>
+  <TM_Poppi.lifeStages.0.labelMale>male poppi</TM_Poppi.lifeStages.0.labelMale>
+  <TM_Poppi.lifeStages.0.labelMalePlural>male poppis</TM_Poppi.lifeStages.0.labelMalePlural>
+  <TM_Poppi.lifeStages.0.labelFemale>female poppi</TM_Poppi.lifeStages.0.labelFemale>
+  <TM_Poppi.lifeStages.0.labelFemalePlural>female poppis</TM_Poppi.lifeStages.0.labelFemalePlural>
+  <TM_Poppi.lifeStages.1.label>poppi</TM_Poppi.lifeStages.1.label>
+  <TM_Poppi.lifeStages.1.labelPlural>poppi</TM_Poppi.lifeStages.1.labelPlural>
+  <TM_Poppi.lifeStages.1.labelMale>male poppi</TM_Poppi.lifeStages.1.labelMale>
+  <TM_Poppi.lifeStages.1.labelMalePlural>male poppis</TM_Poppi.lifeStages.1.labelMalePlural>
+  <TM_Poppi.lifeStages.1.labelFemale>female poppi</TM_Poppi.lifeStages.1.labelFemale>
+  <TM_Poppi.lifeStages.1.labelFemalePlural>female poppis</TM_Poppi.lifeStages.1.labelFemalePlural>
+  <TM_Poppi.lifeStages.2.label>poppi</TM_Poppi.lifeStages.2.label>
+  <TM_Poppi.lifeStages.2.labelPlural>poppi</TM_Poppi.lifeStages.2.labelPlural>
+  <TM_Poppi.lifeStages.2.labelMale>male poppi</TM_Poppi.lifeStages.2.labelMale>
+  <TM_Poppi.lifeStages.2.labelMalePlural>male poppis</TM_Poppi.lifeStages.2.labelMalePlural>
+  <TM_Poppi.lifeStages.2.labelFemale>female poppi</TM_Poppi.lifeStages.2.labelFemale>
+  <TM_Poppi.lifeStages.2.labelFemalePlural>female poppis</TM_Poppi.lifeStages.2.labelFemalePlural>
+  <TM_Poppi.labelMale>male poppi</TM_Poppi.labelMale>
+  <TM_Poppi.labelMalePlural>male poppis</TM_Poppi.labelMalePlural>
+  <TM_Poppi.labelFemale>female poppi</TM_Poppi.labelFemale>
+  <TM_Poppi.labelFemalePlural>female poppis</TM_Poppi.labelFemalePlural>
+
+
+</LanguageData>

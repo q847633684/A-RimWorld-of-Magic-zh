@@ -310,28 +310,25 @@
   <TM_SeverityHasteHD.description>攻击率加倍。</TM_SeverityHasteHD.description>
   <TM_SeverityHasteHD.stages.0.label></TM_SeverityHasteHD.stages.0.label>
 
-  <TM_HeatShieldHD.label>热能屏障</TM_HeatShieldHD.label>
-  <TM_HeatShieldHD.description>对热能伤害提供保护加成并防止着火。</TM_HeatShieldHD.description>
-  <TM_HeatShieldHD.stages.0.label></TM_HeatShieldHD.stages.0.label>
 
-  <TM_EvasionHD.label>闪避</TM_EvasionHD.label>
-  <TM_EvasionHD.description>可以闪避非爆炸性伤害。</TM_EvasionHD.description>
-  <TM_EvasionHD.stages.0.label></TM_EvasionHD.stages.0.label>
-
-  <TM_AdrenalineHD.label>肾上腺素</TM_AdrenalineHD.label>
-  <TM_AdrenalineHD.description>提高一定能力。</TM_AdrenalineHD.description>
-  <TM_AdrenalineHD.stages.0.label></TM_AdrenalineHD.stages.0.label>
-  <TM_AdrenalineHD.stages.1.label></TM_AdrenalineHD.stages.1.label>
-  <TM_AdrenalineHD.stages.2.label></TM_AdrenalineHD.stages.2.label>
-  <TM_AdrenalineHD.stages.3.label></TM_AdrenalineHD.stages.3.label>
-
-  <TM_UndeadShroudHD.label>亡灵裹尸布</TM_UndeadShroudHD.label>
-  <TM_UndeadShroudHD.description>不死之力依附于此。</TM_UndeadShroudHD.description>
-  <TM_UndeadShroudHD.stages.0.label></TM_UndeadShroudHD.stages.0.label>
-  <TM_UndeadShroudHD.stages.1.label></TM_UndeadShroudHD.stages.1.label>
-  <TM_UndeadShroudHD.stages.2.label></TM_UndeadShroudHD.stages.2.label>
-  <TM_UndeadShroudHD.stages.3.label></TM_UndeadShroudHD.stages.3.label>
-  <TM_UndeadShroudHD.stages.4.label></TM_UndeadShroudHD.stages.4.label>
-
+  <!--<TM_HeatShieldHD.label>热能屏障</TM_HeatShieldHD.label>-->
+  <!--<TM_HeatShieldHD.description>对热能伤害提供保护加成并防止着火。</TM_HeatShieldHD.description>-->
+  <!--<TM_HeatShieldHD.stages.0.label></TM_HeatShieldHD.stages.0.label>-->
+  <!--<TM_EvasionHD.label>闪避</TM_EvasionHD.label>-->
+  <!--<TM_EvasionHD.description>可以闪避非爆炸性伤害。</TM_EvasionHD.description>-->
+  <!--<TM_EvasionHD.stages.0.label></TM_EvasionHD.stages.0.label>-->
+  <!--<TM_AdrenalineHD.label>肾上腺素</TM_AdrenalineHD.label>-->
+  <!--<TM_AdrenalineHD.description>提高一定能力。</TM_AdrenalineHD.description>-->
+  <!--<TM_AdrenalineHD.stages.0.label></TM_AdrenalineHD.stages.0.label>-->
+  <!--<TM_AdrenalineHD.stages.1.label></TM_AdrenalineHD.stages.1.label>-->
+  <!--<TM_AdrenalineHD.stages.2.label></TM_AdrenalineHD.stages.2.label>-->
+  <!--<TM_AdrenalineHD.stages.3.label></TM_AdrenalineHD.stages.3.label>-->
+  <!--<TM_UndeadShroudHD.label>亡灵裹尸布</TM_UndeadShroudHD.label>-->
+  <!--<TM_UndeadShroudHD.description>不死之力依附于此。</TM_UndeadShroudHD.description>-->
+  <!--<TM_UndeadShroudHD.stages.0.label></TM_UndeadShroudHD.stages.0.label>-->
+  <!--<TM_UndeadShroudHD.stages.1.label></TM_UndeadShroudHD.stages.1.label>-->
+  <!--<TM_UndeadShroudHD.stages.2.label></TM_UndeadShroudHD.stages.2.label>-->
+  <!--<TM_UndeadShroudHD.stages.3.label></TM_UndeadShroudHD.stages.3.label>-->
+  <!--<TM_UndeadShroudHD.stages.4.label></TM_UndeadShroudHD.stages.4.label>-->
 
 </LanguageData>

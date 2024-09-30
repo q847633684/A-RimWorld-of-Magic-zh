@@ -230,21 +230,13 @@
 
 
   <!-- magic warddrobe -->
-
-  <TM_MagicWardrobe.label>魔法衣橱</TM_MagicWardrobe.label>
-  <TM_MagicWardrobe.description>一个简单的魔法，一个空间口袋在存储所有装备的衣服。 当再次使用时，可以切换存储的装备。 适用于所有服装，但不适用于武器或持有的物品。</TM_MagicWardrobe.description>
-
-
+  <!--<TM_MagicWardrobe.label>魔法衣橱</TM_MagicWardrobe.label>-->
+  <!--<TM_MagicWardrobe.description>一个简单的魔法，一个空间口袋在存储所有装备的衣服。 当再次使用时，可以切换存储的装备。 适用于所有服装，但不适用于武器或持有的物品。</TM_MagicWardrobe.description>-->
   <!-- heat shield -->
-
-  <TM_HeatShield.label>热能屏障</TM_HeatShield.label>
-  <TM_HeatShield.description>在盟友身上施展一个热能屏障，对热伤害提供75%的加成保护并防止着火。 影响最多6个目标，持续约30秒。</TM_HeatShield.description>
-
-
+  <!--<TM_HeatShield.label>热能屏障</TM_HeatShield.label>-->
+  <!--<TM_HeatShield.description>在盟友身上施展一个热能屏障，对热伤害提供75%的加成保护并防止着火。 影响最多6个目标，持续约30秒。</TM_HeatShield.description>-->
   <!-- alter storm -->
-
-  <TM_AlterStorm.label>雨云更迭</TM_AlterStorm.label>
-  <TM_AlterStorm.description>改变天气，创造新的环境。 雨天时将会变成治愈性的雨水。雪天时，雪将会将变成冰雹对敌人进行阻碍，但一旦这种天气开始将不受控制，无法被唤雨者技能影响。</TM_AlterStorm.description>
-
+  <!--<TM_AlterStorm.label>雨云更迭</TM_AlterStorm.label>-->
+  <!--<TM_AlterStorm.description>改变天气，创造新的环境。 雨天时将会变成治愈性的雨水。雪天时，雪将会将变成冰雹对敌人进行阻碍，但一旦这种天气开始将不受控制，无法被唤雨者技能影响。</TM_AlterStorm.description>-->
 
 </LanguageData>

@@ -8,9 +8,7 @@
 
 
   <!-- winter's reign -->
-
-  <TM_Weapon_WintersFury.label>凛冬之怒</TM_Weapon_WintersFury.label>
-  <TM_Weapon_WintersFury.description>波涛汹涌的乌云笼罩着大地，呼啸的暴风雪，如同凛冬的怒吼！</TM_Weapon_WintersFury.description>
-
+  <!--<TM_Weapon_WintersFury.label>凛冬之怒</TM_Weapon_WintersFury.label>-->
+  <!--<TM_Weapon_WintersFury.description>波涛汹涌的乌云笼罩着大地，呼啸的暴风雪，如同凛冬的怒吼！</TM_Weapon_WintersFury.description>-->
 
 </LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shadow start -->
+
+  <Buff_Shadow.label>Shadow</Buff_Shadow.label>
+
+
+  <!-- Magic Missile -->
+
+  <Projectile_MagicMissile.label>Magic Missile</Projectile_MagicMissile.label>
+
+
+  <!-- Teleport start -->
+
+  <Projectile_Teleport.label>Teleport</Projectile_Teleport.label>
+
+
+  <!-- Blink Start -->
+
+  <Projectile_Blink.label>Blink</Projectile_Blink.label>
+
+
+  <!-- Summon Start -->
+
+  <Projectile_Summon.label>Summon</Projectile_Summon.label>
+  <TM_SummonedPawn.label>flying object</TM_SummonedPawn.label>
+  <MovingObject.label>moving object</MovingObject.label>
+
+
+  <!-- Fold Reality -->
+
+  <Projectile_FoldReality.label>fold reality</Projectile_FoldReality.label>
+
+
+</LanguageData>

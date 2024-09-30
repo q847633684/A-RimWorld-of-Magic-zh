@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TM_HeatWaveMR example contains all possible fields with default values
+  mageCount can be any value, but there is only designated room for 6 mages
+  manaCost is divided by mageCount to determine how much mana each mage must have to perform the ritual; this is the amount of mana subtracted following the ritual -->
+
+  <TM_HeatWaveMR.label>Alteration: Heatwave</TM_HeatWaveMR.label>
+  <TM_HeatWaveMR.description>A heat wave envelops the map
+Casters: 3
+Mana: 50 ea.
+Fail chance: 5%
+Fail backlash: 0</TM_HeatWaveMR.description>
+  <TM_HeatWaveMR.jobString>summoning heat wave</TM_HeatWaveMR.jobString>
+
+  <TM_ColdSnapMR.label>Alteration: Cold snap</TM_ColdSnapMR.label>
+  <TM_ColdSnapMR.description>A cold snap envelops the map
+Casters: 3
+Mana: 50 ea.
+Fail chance: 5%
+Fail backlash: 0</TM_ColdSnapMR.description>
+  <TM_ColdSnapMR.jobString>summoning cold wave</TM_ColdSnapMR.jobString>
+
+  <TM_PsychicSootheMR.label>Alteration: Psychic Soothe</TM_PsychicSootheMR.label>
+  <TM_PsychicSootheMR.description>Create soothing psychic emanations
+Casters: 3
+Mana: 50 ea.
+Fail chance: 20%
+Fail backlash: 10</TM_PsychicSootheMR.description>
+  <TM_PsychicSootheMR.jobString>creating psychic soothe</TM_PsychicSootheMR.jobString>
+
+  <TM_MeteorFallMR.label>Conjuration: Attract meteors</TM_MeteorFallMR.label>
+  <TM_MeteorFallMR.description>Causes multiple meteors to impact nearby
+Casters: 3
+Mana: 60 ea.
+Fail chance: 8%
+Fail backlash: 0</TM_MeteorFallMR.description>
+  <TM_MeteorFallMR.jobString>summoning meteors</TM_MeteorFallMR.jobString>
+
+  <TM_CreateGiantSkeletonMR.label>Conjuration: Giant skeleton</TM_CreateGiantSkeletonMR.label>
+  <TM_CreateGiantSkeletonMR.description>Creates a giant, animated skeleton from a pile of corpses; the skeleton will defend the colony for 5 days or until destroyed.
+Casters: 4
+Mana: 50 ea.
+Fail chance: 10%
+Fail backlash: 8</TM_CreateGiantSkeletonMR.description>
+  <TM_CreateGiantSkeletonMR.jobString>animating skeleton</TM_CreateGiantSkeletonMR.jobString>
+
+  <TM_ArcaneAugmentationMR.label>Enchantment: Arcane Augmentation</TM_ArcaneAugmentationMR.label>
+  <TM_ArcaneAugmentationMR.description>Applies numerous arcane buffs to colonists.
+Casters: 3
+Target max: 10
+Mana: 40 ea.
+Fail chance: 15%
+Fail backlash: 6</TM_ArcaneAugmentationMR.description>
+  <TM_ArcaneAugmentationMR.jobString>applying arcane augmentations</TM_ArcaneAugmentationMR.jobString>
+
+  <TM_BlightWildlifeMR.label>Enchantment: Blight wildlife</TM_BlightWildlifeMR.label>
+  <TM_BlightWildlifeMR.description>Blights all wildlife with the plague.
+Casters: 3
+Mana: 40 ea.
+Fail chance: 15%
+Fail backlash: 6</TM_BlightWildlifeMR.description>
+  <TM_BlightWildlifeMR.jobString>applying arcane augmentations</TM_BlightWildlifeMR.jobString>
+
+
+</LanguageData>

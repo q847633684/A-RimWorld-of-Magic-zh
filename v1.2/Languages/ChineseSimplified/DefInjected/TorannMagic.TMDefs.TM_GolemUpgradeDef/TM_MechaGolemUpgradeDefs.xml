@@ -1,49 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TM_Golem_MechaRepair.label>维修部位</TM_Golem_MechaRepair.label>
+  <!--<TM_Golem_MechaRepair.label>维修部位</TM_Golem_MechaRepair.label>-->
 
-  <TM_Golem_MechaMaxEnergy.label>能量电池</TM_Golem_MechaMaxEnergy.label>
-  <TM_Golem_MechaMaxEnergy.description>将最大能量提高到每个级别500。开始最大能量为1000。</TM_Golem_MechaMaxEnergy.description>
+  <!--<TM_Golem_MechaMaxEnergy.label>能量电池</TM_Golem_MechaMaxEnergy.label>-->
+  <!--<TM_Golem_MechaMaxEnergy.description>将最大能量提高到每个级别500。开始最大能量为1000。</TM_Golem_MechaMaxEnergy.description>-->
 
-  <TM_Golem_MechaEnergyEfficiency.label>能量转换器</TM_Golem_MechaEnergyEfficiency.label>
-  <TM_Golem_MechaEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_MechaEnergyEfficiency.description>
+  <!--<TM_Golem_MechaEnergyEfficiency.label>能量转换器</TM_Golem_MechaEnergyEfficiency.label>-->
+  <!--<TM_Golem_MechaEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_MechaEnergyEfficiency.description>-->
 
-  <TM_Golem_MechaEnergyRate.label>电神经核</TM_Golem_MechaEnergyRate.label>
-  <TM_Golem_MechaEnergyRate.description>每个水平的能源充电率提高20％。与电网断开连接时，启动充电率为50能量/小时。连接到功率研磨会增加充值速率。</TM_Golem_MechaEnergyRate.description>
+  <!--<TM_Golem_MechaEnergyRate.label>电神经核</TM_Golem_MechaEnergyRate.label>-->
+  <!--<TM_Golem_MechaEnergyRate.description>每个水平的能源充电率提高20％。与电网断开连接时，启动充电率为50能量/小时。连接到功率研磨会增加充值速率。</TM_Golem_MechaEnergyRate.description>-->
 
-  <TM_Golem_MechaExtinguisher.label>灭火器</TM_Golem_MechaExtinguisher.label>
-  <TM_Golem_MechaExtinguisher.description>添加了快速开火的能力。</TM_Golem_MechaExtinguisher.description>
+  <!--<TM_Golem_MechaExtinguisher.label>灭火器</TM_Golem_MechaExtinguisher.label>-->
+  <!--<TM_Golem_MechaExtinguisher.description>添加了快速开火的能力。</TM_Golem_MechaExtinguisher.description>-->
 
-  <TM_Golem_MechaBallisticPlate.label>弹道板</TM_Golem_MechaBallisticPlate.label>
-  <TM_Golem_MechaBallisticPlate.description>增加装甲但减少每个级别的运动：
+  <!--<TM_Golem_MechaBallisticPlate.label>弹道板</TM_Golem_MechaBallisticPlate.label>-->
+  <!--<TM_Golem_MechaBallisticPlate.description>增加装甲但减少每个级别的运动：
 钝器:	+[24,37,49]%
 利器:	+[35,53,68]%
 热能:	+[40,60,75]%
-移动速度:	-[.3c,.5c,.6c]%</TM_Golem_MechaBallisticPlate.description>
+移动速度:	-[.3c,.5c,.6c]%</TM_Golem_MechaBallisticPlate.description>-->
 
-  <TM_Golem_MechaAxe.label>机械斧</TM_Golem_MechaAxe.label>
-  <TM_Golem_MechaAxe.description>增加了快速切割攻击，可用于减少未武装的质量。</TM_Golem_MechaAxe.description>
+  <!--<TM_Golem_MechaAxe.label>机械斧</TM_Golem_MechaAxe.label>-->
+  <!--<TM_Golem_MechaAxe.description>增加了快速切割攻击，可用于减少未武装的质量。</TM_Golem_MechaAxe.description>-->
 
-  <TM_Golem_MechaSword.label>机械剑</TM_Golem_MechaSword.label>
-  <TM_Golem_MechaSword.description>增加了强大的切割攻击，可用于打破防御和肢体切断。</TM_Golem_MechaSword.description>
+  <!--<TM_Golem_MechaSword.label>机械剑</TM_Golem_MechaSword.label>-->
+  <!--<TM_Golem_MechaSword.description>增加了强大的切割攻击，可用于打破防御和肢体切断。</TM_Golem_MechaSword.description>-->
 
-  <TM_Golem_MechaHammer.label>机械锤子</TM_Golem_MechaHammer.label>
-  <TM_Golem_MechaHammer.description>添加了无情的钝器攻击，比魔像拳头更强大。</TM_Golem_MechaHammer.description>
+  <!--<TM_Golem_MechaHammer.label>机械锤子</TM_Golem_MechaHammer.label>-->
+  <!--<TM_Golem_MechaHammer.description>添加了无情的钝器攻击，比魔像拳头更强大。</TM_Golem_MechaHammer.description>-->
 
-  <TM_Golem_MechaGatlingCannon.label>加特林大炮</TM_Golem_MechaGatlingCannon.label>
-  <TM_Golem_MechaGatlingCannon.description>发射12轮枪声。
+  <!--<TM_Golem_MechaGatlingCannon.label>加特林大炮</TM_Golem_MechaGatlingCannon.label>-->
+  <!--<TM_Golem_MechaGatlingCannon.description>发射12轮枪声。
 冷却:	5s
 能源成本:	40
-范围: 		40</TM_Golem_MechaGatlingCannon.description>
+范围: 		40</TM_Golem_MechaGatlingCannon.description>-->
 
-  <TM_Golem_MechaMiningLaser.label>采矿激光</TM_Golem_MechaMiningLaser.label>
-  <TM_Golem_MechaMiningLaser.description>允许傀儡开采指定的墙段。
+  <!--<TM_Golem_MechaMiningLaser.label>采矿激光</TM_Golem_MechaMiningLaser.label>-->
+  <!--<TM_Golem_MechaMiningLaser.description>允许傀儡开采指定的墙段。
 能源成本: [20,18,16,14]
-激光功率: [40,50,60,70]</TM_Golem_MechaMiningLaser.description>
+激光功率: [40,50,60,70]</TM_Golem_MechaMiningLaser.description>-->
 
-  <TM_Golem_MechaFlameCore.label>火焰核芯</TM_Golem_MechaFlameCore.label>
-  <TM_Golem_MechaFlameCore.description>增加傀儡属性，并增加一个技能，燃烧附近的污秽。
+  <!--<TM_Golem_MechaFlameCore.label>火焰核芯</TM_Golem_MechaFlameCore.label>-->
+  <!--<TM_Golem_MechaFlameCore.description>增加傀儡属性，并增加一个技能，燃烧附近的污秽。
 移动速度:	+[0.5c/0.9c/1.2c]
 处理能力: 	+[10%/20%/30%]
 技能伤害:	+[10%/20%/30%]
@@ -52,10 +52,10 @@
 清洁协议
 冷却:	6s
 范围:	2c
-能源成本:	4 每个污垢</TM_Golem_MechaFlameCore.description>
+能源成本:	4 每个污垢</TM_Golem_MechaFlameCore.description>-->
 
-  <TM_Golem_MechaWaterCore.label>水核芯</TM_Golem_MechaWaterCore.label>
-  <TM_Golem_MechaWaterCore.description>被动地增加魔像统计数据并增加了自主修复机制。
+  <!--<TM_Golem_MechaWaterCore.label>水核芯</TM_Golem_MechaWaterCore.label>-->
+  <!--<TM_Golem_MechaWaterCore.description>被动地增加魔像统计数据并增加了自主修复机制。
 护甲:		+[5%/10%/15%]
 技能冷却:	-[10%/20%/30%]
 维修系数:	+[100%/200%/300%]
@@ -64,10 +64,10 @@
 自动维修
 冷却:	3s
 蓄能消耗:	10(D), 30(A)
-治疗量:	8</TM_Golem_MechaWaterCore.description>
+治疗量:	8</TM_Golem_MechaWaterCore.description>-->
 
-  <TM_Golem_MechaEarthCore.label>土核芯</TM_Golem_MechaEarthCore.label>
-  <TM_Golem_MechaEarthCore.description>被动地增加魔像统计数据，并增加了提供盾牌的能力。
+  <!--<TM_Golem_MechaEarthCore.label>土核芯</TM_Golem_MechaEarthCore.label>-->
+  <!--<TM_Golem_MechaEarthCore.description>被动地增加魔像统计数据，并增加了提供盾牌的能力。
 护甲:		+[10%/18%/25%]
 技能冷却:	+[5%/10%/15%]
 维修系数:	+[60%/120%/180%]
@@ -77,32 +77,32 @@
 盾牌协议
 冷却:	10s
 蓄能消耗:	10
-护盾值:	120</TM_Golem_MechaEarthCore.description>
+护盾值:	120</TM_Golem_MechaEarthCore.description>-->
 
-  <TM_Golem_MechaLightningCore.label>闪电核心</TM_Golem_MechaLightningCore.label>
-  <TM_Golem_MechaLightningCore.description>被动地增加了魔像的统计数据，并在魔像的外壳中增加了反身涂层，该涂层产生了电动发射，使近战攻击者震惊。
+  <!--<TM_Golem_MechaLightningCore.label>闪电核心</TM_Golem_MechaLightningCore.label>-->
+  <!--<TM_Golem_MechaLightningCore.description>被动地增加了魔像的统计数据，并在魔像的外壳中增加了反身涂层，该涂层产生了电动发射，使近战攻击者震惊。
 移动速度:	+[1.2c/1.8c/2.2c]
 技能冷却:	-[15%/30%/45%]
 蓄能消耗:	+[10%/20%/30%]
-处理能力: 	-[5%/10%/15%]</TM_Golem_MechaLightningCore.description>
+处理能力: 	-[5%/10%/15%]</TM_Golem_MechaLightningCore.description>-->
 
-  <TM_Golem_MechaFlameShard.label>火焰碎片</TM_Golem_MechaFlameShard.label>
-  <TM_Golem_MechaFlameShard.description>增加了魔像统计：
+  <!--<TM_Golem_MechaFlameShard.label>火焰碎片</TM_Golem_MechaFlameShard.label>-->
+  <!--<TM_Golem_MechaFlameShard.description>增加了魔像统计：
 移动速度:	+[15%/30%/40%]
-生命值:		+[15%/30%/40%]</TM_Golem_MechaFlameShard.description>
+生命值:		+[15%/30%/40%]</TM_Golem_MechaFlameShard.description>-->
 
-  <TM_Golem_MechaWaterShard.label>水碎片</TM_Golem_MechaWaterShard.label>
-  <TM_Golem_MechaWaterShard.description>增加了魔像统计：
+  <!--<TM_Golem_MechaWaterShard.label>水碎片</TM_Golem_MechaWaterShard.label>-->
+  <!--<TM_Golem_MechaWaterShard.description>增加了魔像统计：
 移动速度:	+[10%/15%/20%]
-生命值:		+[30%/50%/70%]</TM_Golem_MechaWaterShard.description>
+生命值:		+[30%/50%/70%]</TM_Golem_MechaWaterShard.description>-->
 
-  <TM_Golem_MechaEarthShard.label>土碎片</TM_Golem_MechaEarthShard.label>
-  <TM_Golem_MechaEarthShard.description>增加了魔像统计：
-生命值:		+[40%/80%/120%]</TM_Golem_MechaEarthShard.description>
+  <!--<TM_Golem_MechaEarthShard.label>土碎片</TM_Golem_MechaEarthShard.label>-->
+  <!--<TM_Golem_MechaEarthShard.description>增加了魔像统计：
+生命值:		+[40%/80%/120%]</TM_Golem_MechaEarthShard.description>-->
 
-  <TM_Golem_MechaLightningShard.label>闪电碎片</TM_Golem_MechaLightningShard.label>
-  <TM_Golem_MechaLightningShard.description>增加了魔像统计：
-移动速度:	+[25%/50%/75%]</TM_Golem_MechaLightningShard.description>
+  <!--<TM_Golem_MechaLightningShard.label>闪电碎片</TM_Golem_MechaLightningShard.label>-->
+  <!--<TM_Golem_MechaLightningShard.description>增加了魔像统计：
+移动速度:	+[25%/50%/75%]</TM_Golem_MechaLightningShard.description>-->
 
 
 </LanguageData>

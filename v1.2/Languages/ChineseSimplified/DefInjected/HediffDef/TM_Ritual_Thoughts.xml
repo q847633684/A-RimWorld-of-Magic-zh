@@ -3,16 +3,16 @@
 
   <!-- SEVER MAGIC -->
 
-  <TM_MagicSeverenceHD.label>斩断魔法</TM_MagicSeverenceHD.label>
-  <TM_MagicSeverenceHD.description>这个生物最近失去了与魔法的联系，并失去了方向和目的，直到他们可以用另一个目的来填补空白。</TM_MagicSeverenceHD.description>
-  <TM_MagicSeverenceHD.stages.0.label></TM_MagicSeverenceHD.stages.0.label>
+  <!--<TM_MagicSeverenceHD.label>斩断魔法</TM_MagicSeverenceHD.label>-->
+  <!--<TM_MagicSeverenceHD.description>这个生物最近失去了与魔法的联系，并失去了方向和目的，直到他们可以用另一个目的来填补空白。</TM_MagicSeverenceHD.description>-->
+  <!--<TM_MagicSeverenceHD.stages.0.label></TM_MagicSeverenceHD.stages.0.label>-->
 
 
   <!-- BESTOW MAGIC -->
 
-  <TM_BestowMagicClassHD.label>魔法之礼</TM_BestowMagicClassHD.label>
-  <TM_BestowMagicClassHD.description>这个生物最近被赋予了魔法之源。</TM_BestowMagicClassHD.description>
-  <TM_BestowMagicClassHD.stages.0.label></TM_BestowMagicClassHD.stages.0.label>
+  <!--<TM_BestowMagicClassHD.label>魔法之礼</TM_BestowMagicClassHD.label>-->
+  <!--<TM_BestowMagicClassHD.description>这个生物最近被赋予了魔法之源。</TM_BestowMagicClassHD.description>-->
+  <!--<TM_BestowMagicClassHD.stages.0.label></TM_BestowMagicClassHD.stages.0.label>-->
 
 
 </LanguageData>

@@ -3,84 +3,84 @@
 
   <!-- STONE GOLEM -->
 
-  <TM_StoneGolemLS.label>巨岩傀儡</TM_StoneGolemLS.label>
-  <TM_StoneGolemLS1.label>巨岩傀儡</TM_StoneGolemLS1.label>
-  <TM_StoneGolemLS2.label>巨岩傀儡</TM_StoneGolemLS2.label>
-  <TM_StoneGolemLS3.label>巨岩傀儡</TM_StoneGolemLS3.label>
+  <!--<TM_StoneGolemLS.label>巨岩傀儡</TM_StoneGolemLS.label>-->
+  <!--<TM_StoneGolemLS1.label>巨岩傀儡</TM_StoneGolemLS1.label>-->
+  <!--<TM_StoneGolemLS2.label>巨岩傀儡</TM_StoneGolemLS2.label>-->
+  <!--<TM_StoneGolemLS3.label>巨岩傀儡</TM_StoneGolemLS3.label>-->
 
 
   <!-- MECHA GOLEM -->
 
-  <TM_MechaGolemLS.label>机械傀儡</TM_MechaGolemLS.label>
-  <TM_MechaGolemLS_FS1.label>火之碎片机械傀儡</TM_MechaGolemLS_FS1.label>
-  <TM_MechaGolemLS_FS2.label>火之碎片机械傀儡</TM_MechaGolemLS_FS2.label>
-  <TM_MechaGolemLS_FS3.label>火之碎片机械傀儡</TM_MechaGolemLS_FS3.label>
-  <TM_MechaGolemLS_WS1.label>水之碎片机械傀儡</TM_MechaGolemLS_WS1.label>
-  <TM_MechaGolemLS_WS2.label>水之碎片机械傀儡</TM_MechaGolemLS_WS2.label>
-  <TM_MechaGolemLS_WS3.label>水之碎片机械傀儡</TM_MechaGolemLS_WS3.label>
-  <TM_MechaGolemLS_ES1.label>土之碎片机械傀儡</TM_MechaGolemLS_ES1.label>
-  <TM_MechaGolemLS_ES2.label>土之碎片机械傀儡</TM_MechaGolemLS_ES2.label>
-  <TM_MechaGolemLS_ES3.label>土之碎片机械傀儡</TM_MechaGolemLS_ES3.label>
-  <TM_MechaGolemLS_LS1.label>雷之碎片机械傀儡</TM_MechaGolemLS_LS1.label>
-  <TM_MechaGolemLS_LS2.label>雷之碎片机械傀儡</TM_MechaGolemLS_LS2.label>
-  <TM_MechaGolemLS_LS3.label>雷之碎片机械傀儡</TM_MechaGolemLS_LS3.label>
+  <!--<TM_MechaGolemLS.label>机械傀儡</TM_MechaGolemLS.label>-->
+  <!--<TM_MechaGolemLS_FS1.label>火之碎片机械傀儡</TM_MechaGolemLS_FS1.label>-->
+  <!--<TM_MechaGolemLS_FS2.label>火之碎片机械傀儡</TM_MechaGolemLS_FS2.label>-->
+  <!--<TM_MechaGolemLS_FS3.label>火之碎片机械傀儡</TM_MechaGolemLS_FS3.label>-->
+  <!--<TM_MechaGolemLS_WS1.label>水之碎片机械傀儡</TM_MechaGolemLS_WS1.label>-->
+  <!--<TM_MechaGolemLS_WS2.label>水之碎片机械傀儡</TM_MechaGolemLS_WS2.label>-->
+  <!--<TM_MechaGolemLS_WS3.label>水之碎片机械傀儡</TM_MechaGolemLS_WS3.label>-->
+  <!--<TM_MechaGolemLS_ES1.label>土之碎片机械傀儡</TM_MechaGolemLS_ES1.label>-->
+  <!--<TM_MechaGolemLS_ES2.label>土之碎片机械傀儡</TM_MechaGolemLS_ES2.label>-->
+  <!--<TM_MechaGolemLS_ES3.label>土之碎片机械傀儡</TM_MechaGolemLS_ES3.label>-->
+  <!--<TM_MechaGolemLS_LS1.label>雷之碎片机械傀儡</TM_MechaGolemLS_LS1.label>-->
+  <!--<TM_MechaGolemLS_LS2.label>雷之碎片机械傀儡</TM_MechaGolemLS_LS2.label>-->
+  <!--<TM_MechaGolemLS_LS3.label>雷之碎片机械傀儡</TM_MechaGolemLS_LS3.label>-->
 
 
   <!-- FLESH GOLEM -->
 
-  <TM_FleshGolemLS.label>血肉傀儡</TM_FleshGolemLS.label>
-  <TM_FleshGolemLS1.label>血肉傀儡</TM_FleshGolemLS1.label>
-  <TM_FleshGolemLS2.label>血肉傀儡</TM_FleshGolemLS2.label>
-  <TM_FleshGolemLS3.label>血肉傀儡</TM_FleshGolemLS3.label>
+  <!--<TM_FleshGolemLS.label>血肉傀儡</TM_FleshGolemLS.label>-->
+  <!--<TM_FleshGolemLS1.label>血肉傀儡</TM_FleshGolemLS1.label>-->
+  <!--<TM_FleshGolemLS2.label>血肉傀儡</TM_FleshGolemLS2.label>-->
+  <!--<TM_FleshGolemLS3.label>血肉傀儡</TM_FleshGolemLS3.label>-->
 
 
   <!-- HOLLOW GOLEM -->
 
-  <TM_HollowGolemLS.label>空洞傀儡</TM_HollowGolemLS.label>
-  <TM_HollowGolemLS_FA1.label>火焰亲和 I</TM_HollowGolemLS_FA1.label>
-  <TM_HollowGolemLS_FA2.label>火焰亲和 II</TM_HollowGolemLS_FA2.label>
-  <TM_HollowGolemLS_FA3.label>火焰亲和 III</TM_HollowGolemLS_FA3.label>
-  <TM_HollowGolemLS_IA1.label>流水亲和 I</TM_HollowGolemLS_IA1.label>
-  <TM_HollowGolemLS_IA2.label>流水亲和 II</TM_HollowGolemLS_IA2.label>
-  <TM_HollowGolemLS_IA3.label>流水亲和 III</TM_HollowGolemLS_IA3.label>
-  <TM_HollowGolemLS_AA1.label>神秘亲和 I</TM_HollowGolemLS_AA1.label>
-  <TM_HollowGolemLS_AA2.label>神秘亲和 II</TM_HollowGolemLS_AA2.label>
-  <TM_HollowGolemLS_AA3.label>神秘亲和 III</TM_HollowGolemLS_AA3.label>
-  <TM_HollowGolemLS_DA1.label>死亡亲和 I</TM_HollowGolemLS_DA1.label>
-  <TM_HollowGolemLS_DA2.label>死亡亲和 II</TM_HollowGolemLS_DA2.label>
-  <TM_HollowGolemLS_DA3.label>死亡亲和 III</TM_HollowGolemLS_DA3.label>
+  <!--<TM_HollowGolemLS.label>空洞傀儡</TM_HollowGolemLS.label>-->
+  <!--<TM_HollowGolemLS_FA1.label>火焰亲和 I</TM_HollowGolemLS_FA1.label>-->
+  <!--<TM_HollowGolemLS_FA2.label>火焰亲和 II</TM_HollowGolemLS_FA2.label>-->
+  <!--<TM_HollowGolemLS_FA3.label>火焰亲和 III</TM_HollowGolemLS_FA3.label>-->
+  <!--<TM_HollowGolemLS_IA1.label>流水亲和 I</TM_HollowGolemLS_IA1.label>-->
+  <!--<TM_HollowGolemLS_IA2.label>流水亲和 II</TM_HollowGolemLS_IA2.label>-->
+  <!--<TM_HollowGolemLS_IA3.label>流水亲和 III</TM_HollowGolemLS_IA3.label>-->
+  <!--<TM_HollowGolemLS_AA1.label>神秘亲和 I</TM_HollowGolemLS_AA1.label>-->
+  <!--<TM_HollowGolemLS_AA2.label>神秘亲和 II</TM_HollowGolemLS_AA2.label>-->
+  <!--<TM_HollowGolemLS_AA3.label>神秘亲和 III</TM_HollowGolemLS_AA3.label>-->
+  <!--<TM_HollowGolemLS_DA1.label>死亡亲和 I</TM_HollowGolemLS_DA1.label>-->
+  <!--<TM_HollowGolemLS_DA2.label>死亡亲和 II</TM_HollowGolemLS_DA2.label>-->
+  <!--<TM_HollowGolemLS_DA3.label>死亡亲和 III</TM_HollowGolemLS_DA3.label>-->
 
 
   <!-- MAHARAL GOLEM -->
 
-  <TM_MaharalGolemLS.label>马哈拉尔傀儡</TM_MaharalGolemLS.label>
-  <TM_MaharalGolemLS1.label>马哈拉尔傀儡</TM_MaharalGolemLS1.label>
-  <TM_MaharalGolemLS2.label>马哈拉尔傀儡</TM_MaharalGolemLS2.label>
-  <TM_MaharalGolemLS3.label>马哈拉尔傀儡</TM_MaharalGolemLS3.label>
+  <!--<TM_MaharalGolemLS.label>马哈拉尔傀儡</TM_MaharalGolemLS.label>-->
+  <!--<TM_MaharalGolemLS1.label>马哈拉尔傀儡</TM_MaharalGolemLS1.label>-->
+  <!--<TM_MaharalGolemLS2.label>马哈拉尔傀儡</TM_MaharalGolemLS2.label>-->
+  <!--<TM_MaharalGolemLS3.label>马哈拉尔傀儡</TM_MaharalGolemLS3.label>-->
 
 
   <!-- STRAW GOLEM -->
 
-  <TM_StrawGolemLS.label>稻草傀儡</TM_StrawGolemLS.label>
-  <TM_StrawGolemLS1.label>稻草傀儡</TM_StrawGolemLS1.label>
-  <TM_StrawGolemLS2.label>稻草傀儡</TM_StrawGolemLS2.label>
-  <TM_StrawGolemLS3.label>稻草傀儡</TM_StrawGolemLS3.label>
+  <!--<TM_StrawGolemLS.label>稻草傀儡</TM_StrawGolemLS.label>-->
+  <!--<TM_StrawGolemLS1.label>稻草傀儡</TM_StrawGolemLS1.label>-->
+  <!--<TM_StrawGolemLS2.label>稻草傀儡</TM_StrawGolemLS2.label>-->
+  <!--<TM_StrawGolemLS3.label>稻草傀儡</TM_StrawGolemLS3.label>-->
 
 
   <!-- WOOD GOLEM -->
 
-  <TM_WoodGolemLS.label>木傀儡</TM_WoodGolemLS.label>
-  <TM_WoodGolemLS1.label>木傀儡</TM_WoodGolemLS1.label>
-  <TM_WoodGolemLS2.label>木傀儡</TM_WoodGolemLS2.label>
-  <TM_WoodGolemLS3.label>木傀儡</TM_WoodGolemLS3.label>
+  <!--<TM_WoodGolemLS.label>木傀儡</TM_WoodGolemLS.label>-->
+  <!--<TM_WoodGolemLS1.label>木傀儡</TM_WoodGolemLS1.label>-->
+  <!--<TM_WoodGolemLS2.label>木傀儡</TM_WoodGolemLS2.label>-->
+  <!--<TM_WoodGolemLS3.label>木傀儡</TM_WoodGolemLS3.label>-->
 
 
   <!-- SILK GOLEM -->
 
-  <TM_SilkGolemLS.label>丝绸傀儡</TM_SilkGolemLS.label>
-  <TM_SilkGolemLS1.label>丝绸傀儡</TM_SilkGolemLS1.label>
-  <TM_SilkGolemLS2.label>丝绸傀儡</TM_SilkGolemLS2.label>
-  <TM_SilkGolemLS3.label>丝绸傀儡</TM_SilkGolemLS3.label>
+  <!--<TM_SilkGolemLS.label>丝绸傀儡</TM_SilkGolemLS.label>-->
+  <!--<TM_SilkGolemLS1.label>丝绸傀儡</TM_SilkGolemLS1.label>-->
+  <!--<TM_SilkGolemLS2.label>丝绸傀儡</TM_SilkGolemLS2.label>-->
+  <!--<TM_SilkGolemLS3.label>丝绸傀儡</TM_SilkGolemLS3.label>-->
 
 
   <!-- 稻草傀儡 -->

@@ -10,8 +10,8 @@
   <TM_SkeletonLichR.tools.2.label>死亡凝视</TM_SkeletonLichR.tools.2.label>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_SkeletonLichR.label>骷髅巫妖尸体</Corpse_TM_SkeletonLichR.label>
-  <Corpse_TM_SkeletonLichR.description>骷髅巫妖尸体</Corpse_TM_SkeletonLichR.description>
+  <TM_SkeletonLichR_Corpse.label>skeleton lich corpse</TM_SkeletonLichR_Corpse.label>
+  <TM_SkeletonLichR_Corpse.description>skeleton lich corpse</TM_SkeletonLichR_Corpse.description>
 
 
   <!-- special attack manuevers -->
@@ -23,8 +23,8 @@
   <TM_GiantSkeletonR.tools.2.label>牙齿</TM_GiantSkeletonR.tools.2.label>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_GiantSkeletonR.label>巨型骷髅尸体</Corpse_TM_GiantSkeletonR.label>
-  <Corpse_TM_GiantSkeletonR.description>巨型骷髅尸体</Corpse_TM_GiantSkeletonR.description>
+  <TM_GiantSkeletonR_Corpse.label>Giant skeleton corpse</TM_GiantSkeletonR_Corpse.label>
+  <TM_GiantSkeletonR_Corpse.description>Giant skeleton corpse</TM_GiantSkeletonR_Corpse.description>
 
 
   <!-- special attack manuevers -->
@@ -36,8 +36,15 @@
   <TM_SkeletonR.tools.2.label>牙齿</TM_SkeletonR.tools.2.label>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_SkeletonR.label>骷髅尸体</Corpse_TM_SkeletonR.label>
-  <Corpse_TM_SkeletonR.description>骷髅尸体</Corpse_TM_SkeletonR.description>
+  <TM_SkeletonR_Corpse.label>Skeleton corpse</TM_SkeletonR_Corpse.label>
+  <TM_SkeletonR_Corpse.description>Skeleton corpse</TM_SkeletonR_Corpse.description>
 
+
+  <!--<Corpse_TM_SkeletonLichR.label>骷髅巫妖尸体</Corpse_TM_SkeletonLichR.label>-->
+  <!--<Corpse_TM_SkeletonLichR.description>骷髅巫妖尸体</Corpse_TM_SkeletonLichR.description>-->
+  <!--<Corpse_TM_GiantSkeletonR.label>巨型骷髅尸体</Corpse_TM_GiantSkeletonR.label>-->
+  <!--<Corpse_TM_GiantSkeletonR.description>巨型骷髅尸体</Corpse_TM_GiantSkeletonR.description>-->
+  <!--<Corpse_TM_SkeletonR.label>骷髅尸体</Corpse_TM_SkeletonR.label>-->
+  <!--<Corpse_TM_SkeletonR.description>骷髅尸体</Corpse_TM_SkeletonR.description>-->
 
 </LanguageData>

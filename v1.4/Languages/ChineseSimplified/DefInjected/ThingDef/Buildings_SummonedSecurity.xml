@@ -27,10 +27,7 @@
 
   <Launcher_DefensePylon.label>能量焦点</Launcher_DefensePylon.label>
   <Launcher_DefensePylon.description>奥术防御塔的焦点， 可以收集和发射爆炸魔法能量射线。</Launcher_DefensePylon.description>
-  <Launcher_DefensePylon.verbs.Verb_ShootCE.label>能量焦点</Launcher_DefensePylon.verbs.Verb_ShootCE.label>
-  <Launcher_DefensePylon_I.verbs.Verb_ShootCE.label>能量焦点I</Launcher_DefensePylon_I.verbs.Verb_ShootCE.label>
-  <Launcher_DefensePylon_II.verbs.Verb_ShootCE.label>能量焦点II</Launcher_DefensePylon_II.verbs.Verb_ShootCE.label>
-  <Launcher_DefensePylon_III.verbs.Verb_ShootCE.label>能量焦点III</Launcher_DefensePylon_III.verbs.Verb_ShootCE.label>
+
   <Bullet_DefensePylon.label>魔法能量聚集</Bullet_DefensePylon.label>
 
 
@@ -82,13 +79,13 @@
 
   <Gun_Mark-IV.label>Mark-IV武器系统</Gun_Mark-IV.label>
   <Gun_Mark-IV.description>Mark-IV 武器系统枪管和射击控制。</Gun_Mark-IV.description>
-  <Gun_Mark-IV.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV.verbs.Verb_ShootCE.label>
+
   <Gun_Mark-IV_RL.label>Mark-IV武器系统</Gun_Mark-IV_RL.label>
   <Gun_Mark-IV_RL.description>Mark-IV 武器系统枪管和射击控制。</Gun_Mark-IV_RL.description>
-  <Gun_Mark-IV_RL.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV_RL.verbs.Verb_ShootCE.label>
+
   <Gun_Mark-IV_RL_MTR.label>Mark-IV武器系统</Gun_Mark-IV_RL_MTR.label>
   <Gun_Mark-IV_RL_MTR.description>Mark-IV 武器系统枪管和射击控制。</Gun_Mark-IV_RL_MTR.description>
-  <Gun_Mark-IV_RL_MTR.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV_RL_MTR.verbs.Verb_ShootCE.label>
+
   <FlyingObject_RocketSmall.label>小型火箭</FlyingObject_RocketSmall.label>
   <Bullet_Shell_TechnoTurretExplosive.label>氦壳</Bullet_Shell_TechnoTurretExplosive.label>
 
@@ -119,5 +116,14 @@
 
   <TM_EarthTotem.label>大地图腾</TM_EarthTotem.label>
   <TM_EarthTotem.description>一种萨满图腾，用对称的雕刻装饰，散发出团结的感觉。图腾与大地的联系使它能够引起地震波，使附近的敌人眩晕。</TM_EarthTotem.description>
+
+
+  <!--<Launcher_DefensePylon.verbs.Verb_ShootCE.label>能量焦点</Launcher_DefensePylon.verbs.Verb_ShootCE.label>-->
+  <!--<Launcher_DefensePylon_I.verbs.Verb_ShootCE.label>能量焦点I</Launcher_DefensePylon_I.verbs.Verb_ShootCE.label>-->
+  <!--<Launcher_DefensePylon_II.verbs.Verb_ShootCE.label>能量焦点II</Launcher_DefensePylon_II.verbs.Verb_ShootCE.label>-->
+  <!--<Launcher_DefensePylon_III.verbs.Verb_ShootCE.label>能量焦点III</Launcher_DefensePylon_III.verbs.Verb_ShootCE.label>-->
+  <!--<Gun_Mark-IV.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV.verbs.Verb_ShootCE.label>-->
+  <!--<Gun_Mark-IV_RL.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV_RL.verbs.Verb_ShootCE.label>-->
+  <!--<Gun_Mark-IV_RL_MTR.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV_RL_MTR.verbs.Verb_ShootCE.label>-->
 
 </LanguageData>

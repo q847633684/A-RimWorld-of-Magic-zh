@@ -3,62 +3,62 @@
 
   <!-- Golemancy -->
 
-  <TM_Golemancy.label>傀儡学</TM_Golemancy.label>
-  <TM_Golemancy.description>傀儡学是一门通过使用符文或刻印将魔法能量注入物体的艺术，这些符文或刻印会创造目标与施法者的链接。此能量链接通常用于实现对象活化、能量转换或信息收集的目的。\n当傀儡和傀儡使配对时，他们的能力都会得到提升。一个傀儡只能分配给一个傀儡使，但多个傀儡可以分配给一个傀儡使。傀儡技能的好处只适用于指定的傀儡。</TM_Golemancy.description>
+  <!--<TM_Golemancy.label>傀儡学</TM_Golemancy.label>-->
+  <!--<TM_Golemancy.description>傀儡学是一门通过使用符文或刻印将魔法能量注入物体的艺术，这些符文或刻印会创造目标与施法者的链接。此能量链接通常用于实现对象活化、能量转换或信息收集的目的。\n当傀儡和傀儡使配对时，他们的能力都会得到提升。一个傀儡只能分配给一个傀儡使，但多个傀儡可以分配给一个傀儡使。傀儡技能的好处只适用于指定的傀儡。</TM_Golemancy.description>-->
 
 
   <!-- Rune Carving -->
 
-  <TM_RuneCarving.label>符文雕刻</TM_RuneCarving.label>
-  <TM_RuneCarving.description>符文雕刻是一种魔法艺术，用于永久性地向物体灌输魔法力量。这一过程长期以来一直被用来在装备和武器上刻符文以赋予魔法属性。傀儡使使用类似但更精细的符文来提高身体部位的能力。虽然只有特定的部分可以通过符文雕刻得到增强，但这些部分的任何变化都可以得到增强。\n符文雕刻需要额外的材料：225个魔法原石，2个法力药剂和1个药物。成功的符文雕刻取决于傀儡使的制作、艺术和符文雕刻技能。由于符文雕刻是一种医疗操作，施法者也必须启用医疗工作。如果制作或艺术技能无法使用，符文雕刻将永远不会成功。</TM_RuneCarving.description>
+  <!--<TM_RuneCarving.label>符文雕刻</TM_RuneCarving.label>-->
+  <!--<TM_RuneCarving.description>符文雕刻是一种魔法艺术，用于永久性地向物体灌输魔法力量。这一过程长期以来一直被用来在装备和武器上刻符文以赋予魔法属性。傀儡使使用类似但更精细的符文来提高身体部位的能力。虽然只有特定的部分可以通过符文雕刻得到增强，但这些部分的任何变化都可以得到增强。\n符文雕刻需要额外的材料：225个魔法原石，2个法力药剂和1个药物。成功的符文雕刻取决于傀儡使的制作、艺术和符文雕刻技能。由于符文雕刻是一种医疗操作，施法者也必须启用医疗工作。如果制作或艺术技能无法使用，符文雕刻将永远不会成功。</TM_RuneCarving.description>-->
 
 
   <!-- Branding -->
 
-  <TM_Branding.label>刻印</TM_Branding.label>
-  <TM_Branding.description>用于在一个生物上创建一个临时的魔法标记，链接施法者和受印者。一个生物上可以放置多个刻印，当然必须每个刻印的类型不同。一个施法者可以创造任意多的刻印，但每个刻印都会消耗施法者法力再生能力。如果施法者耗尽法力，刻印将处于休眠状态。刻印是一种独特的咒语，每种刻印技能都必须单独学习。刻印技能影响所有类型的刻印。</TM_Branding.description>
+  <!--<TM_Branding.label>刻印</TM_Branding.label>-->
+  <!--<TM_Branding.description>用于在一个生物上创建一个临时的魔法标记，链接施法者和受印者。一个生物上可以放置多个刻印，当然必须每个刻印的类型不同。一个施法者可以创造任意多的刻印，但每个刻印都会消耗施法者法力再生能力。如果施法者耗尽法力，刻印将处于休眠状态。刻印是一种独特的咒语，每种刻印技能都必须单独学习。刻印技能影响所有类型的刻印。</TM_Branding.description>-->
 
-  <TM_SiphonBrand.label>刻印：虹吸</TM_SiphonBrand.label>
-  <TM_SiphonBrand.description>虹吸刻印可以授予另一个法师，使其定期将法力转移给施法者。\n刻印是一种半永久性的魔法存在，通常是某种形式的标记或雕刻，就像魔法纹身一样，在两个生物之间建立联系。刻印需要持续的法力来维持，但是，如果施法者无法维持该法术，刻印只会处于休眠状态。如果施法者死亡或选择驱散该刻印，则该刻印将被移除。</TM_SiphonBrand.description>
+  <!--<TM_SiphonBrand.label>刻印：虹吸</TM_SiphonBrand.label>-->
+  <!--<TM_SiphonBrand.description>虹吸刻印可以授予另一个法师，使其定期将法力转移给施法者。\n刻印是一种半永久性的魔法存在，通常是某种形式的标记或雕刻，就像魔法纹身一样，在两个生物之间建立联系。刻印需要持续的法力来维持，但是，如果施法者无法维持该法术，刻印只会处于休眠状态。如果施法者死亡或选择驱散该刻印，则该刻印将被移除。</TM_SiphonBrand.description>-->
 
-  <TM_FitnessBrand.label>刻印：健康</TM_FitnessBrand.label>
-  <TM_FitnessBrand.description>健康刻印可以授予另一个小人上以提高其身体能力。\n刻印是一种半永久性的魔法存在，通常是某种形式的标记或雕刻，就像魔法纹身一样，在两个生物之间建立联系。刻印需要持续的法力来维持，但是，如果施法者无法维持该法术，刻印只会处于休眠状态。如果施法者死亡或选择驱散该刻印，则该刻印将被移除。</TM_FitnessBrand.description>
+  <!--<TM_FitnessBrand.label>刻印：健康</TM_FitnessBrand.label>-->
+  <!--<TM_FitnessBrand.description>健康刻印可以授予另一个小人上以提高其身体能力。\n刻印是一种半永久性的魔法存在，通常是某种形式的标记或雕刻，就像魔法纹身一样，在两个生物之间建立联系。刻印需要持续的法力来维持，但是，如果施法者无法维持该法术，刻印只会处于休眠状态。如果施法者死亡或选择驱散该刻印，则该刻印将被移除。</TM_FitnessBrand.description>-->
 
-  <TM_EmotionBrand.label>刻印：情感</TM_EmotionBrand.label>
-  <TM_EmotionBrand.description>情感刻印可以授予另一个小人，使他心情愉悦。\n刻印是一种半永久性的魔法存在，通常是某种形式的标记或雕刻，就像魔法纹身一样，在两个生物之间建立联系。刻印需要持续的法力来维持，但是，如果施法者无法维持该法术，刻印只会处于休眠状态。如果施法者死亡或选择驱散该刻印，则该刻印将被移除。</TM_EmotionBrand.description>
+  <!--<TM_EmotionBrand.label>刻印：情感</TM_EmotionBrand.label>-->
+  <!--<TM_EmotionBrand.description>情感刻印可以授予另一个小人，使他心情愉悦。\n刻印是一种半永久性的魔法存在，通常是某种形式的标记或雕刻，就像魔法纹身一样，在两个生物之间建立联系。刻印需要持续的法力来维持，但是，如果施法者无法维持该法术，刻印只会处于休眠状态。如果施法者死亡或选择驱散该刻印，则该刻印将被移除。</TM_EmotionBrand.description>-->
 
-  <TM_VitalityBrand.label>刻印：生命</TM_VitalityBrand.label>
-  <TM_VitalityBrand.description>生命刻印可以授予另一个小人，以提高其整体健康、愈合和抗病能力。\n刻印是一种半永久性的魔法存在，通常是某种形式的标记或雕刻，就像魔法纹身一样，在两个生物之间建立联系。刻印需要持续的法力来维持，但是，如果施法者无法维持该法术，刻印只会处于休眠状态。如果施法者死亡或选择驱散该刻印，则该刻印将被移除。</TM_VitalityBrand.description>
+  <!--<TM_VitalityBrand.label>刻印：生命</TM_VitalityBrand.label>-->
+  <!--<TM_VitalityBrand.description>生命刻印可以授予另一个小人，以提高其整体健康、愈合和抗病能力。\n刻印是一种半永久性的魔法存在，通常是某种形式的标记或雕刻，就像魔法纹身一样，在两个生物之间建立联系。刻印需要持续的法力来维持，但是，如果施法者无法维持该法术，刻印只会处于休眠状态。如果施法者死亡或选择驱散该刻印，则该刻印将被移除。</TM_VitalityBrand.description>-->
 
-  <TM_ProtectionBrand.label>刻印：保护</TM_ProtectionBrand.label>
-  <TM_ProtectionBrand.description>保护刻印可以授予另一个小人上以吸收攻击。保护刻印会定期自我充能。\n刻印是一种半永久性的魔法存在，通常是某种形式的标记或雕刻，就像魔法纹身一样，在两个生物之间建立联系。刻印需要持续的法力来维持，但是，如果施法者无法维持该法术，刻印只会处于休眠状态。如果施法者死亡或选择驱散该刻印，则该刻印将被移除。</TM_ProtectionBrand.description>
+  <!--<TM_ProtectionBrand.label>刻印：保护</TM_ProtectionBrand.label>-->
+  <!--<TM_ProtectionBrand.description>保护刻印可以授予另一个小人上以吸收攻击。保护刻印会定期自我充能。\n刻印是一种半永久性的魔法存在，通常是某种形式的标记或雕刻，就像魔法纹身一样，在两个生物之间建立联系。刻印需要持续的法力来维持，但是，如果施法者无法维持该法术，刻印只会处于休眠状态。如果施法者死亡或选择驱散该刻印，则该刻印将被移除。</TM_ProtectionBrand.description>-->
 
-  <TM_AwarenessBrand.label>刻印：感知</TM_AwarenessBrand.label>
-  <TM_AwarenessBrand.description>保护刻印可以授予另一个小人上以提高其听力、视力和意识以及智力。\n刻印是一种半永久性的魔法存在，通常是某种形式的标记或雕刻，就像魔法纹身一样，在两个生物之间建立联系。刻印需要持续的法力来维持，但是，如果施法者无法维持该法术，刻印只会处于休眠状态。如果施法者死亡或选择驱散该刻印，则该刻印将被移除。</TM_AwarenessBrand.description>
+  <!--<TM_AwarenessBrand.label>刻印：感知</TM_AwarenessBrand.label>-->
+  <!--<TM_AwarenessBrand.description>保护刻印可以授予另一个小人上以提高其听力、视力和意识以及智力。\n刻印是一种半永久性的魔法存在，通常是某种形式的标记或雕刻，就像魔法纹身一样，在两个生物之间建立联系。刻印需要持续的法力来维持，但是，如果施法者无法维持该法术，刻印只会处于休眠状态。如果施法者死亡或选择驱散该刻印，则该刻印将被移除。</TM_AwarenessBrand.description>-->
 
-  <TM_DispelBranding.label>祛除刻印</TM_DispelBranding.label>
-  <TM_DispelBranding.description>祛除所有被激活了的刻印。</TM_DispelBranding.description>
+  <!--<TM_DispelBranding.label>祛除刻印</TM_DispelBranding.label>-->
+  <!--<TM_DispelBranding.description>祛除所有被激活了的刻印。</TM_DispelBranding.description>-->
 
 
   <!-- Sigil surge -->
 
-  <TM_SigilSurge.label>刻印汹涌</TM_SigilSurge.label>
-  <TM_SigilSurge.description>激活此能力会使所有刻印都变为“汹涌”状态。这种能力会给傀儡使带来中度疼痛，并使每个刻印的能量消耗增加三倍。再次使用该能力停止汹涌。</TM_SigilSurge.description>
+  <!--<TM_SigilSurge.label>刻印汹涌</TM_SigilSurge.label>-->
+  <!--<TM_SigilSurge.description>激活此能力会使所有刻印都变为“汹涌”状态。这种能力会给傀儡使带来中度疼痛，并使每个刻印的能量消耗增加三倍。再次使用该能力停止汹涌。</TM_SigilSurge.description>-->
 
 
   <!-- Sigil drain -->
 
-  <TM_SigilDrain.label>刻印枯竭</TM_SigilDrain.label>
-  <TM_SigilDrain.description>激活此能力会使所有刻印反转效果，使其给予施法者加成而不是受印者。这个技能会对受印者造成中度疼痛，并对其控制的每个刻印的施法者产生加成。再次使用此能力停止枯竭。</TM_SigilDrain.description>
+  <!--<TM_SigilDrain.label>刻印枯竭</TM_SigilDrain.label>-->
+  <!--<TM_SigilDrain.description>激活此能力会使所有刻印反转效果，使其给予施法者加成而不是受印者。这个技能会对受印者造成中度疼痛，并对其控制的每个刻印的施法者产生加成。再次使用此能力停止枯竭。</TM_SigilDrain.description>-->
 
 
   <!-- Living Wall -->
 
-  <TM_LivingWall.label>鲜活之墙</TM_LivingWall.label>
-  <TM_LivingWall.description>有目的地附魔一堵墙，让它获得正常人一半的智能。这座鲜活之壁将向触手可及的敌人发起攻击，并在受损时自行修复。墙内的生物可以移动到墙的任何相邻部分，并将墙群的整个连接部分视为自身的延伸。鲜活之壁将尝试移动到最靠近敌人的最近墙壁。鲜活之壁不能在断开连接的墙之间移动，只能移动到相邻的另一段墙。一个施法者只能维持一个鲜活之壁，不管它占据的墙有多大。多个鲜活之壁可以占用一个墙。</TM_LivingWall.description>
+  <!--<TM_LivingWall.label>鲜活之墙</TM_LivingWall.label>-->
+  <!--<TM_LivingWall.description>有目的地附魔一堵墙，让它获得正常人一半的智能。这座鲜活之壁将向触手可及的敌人发起攻击，并在受损时自行修复。墙内的生物可以移动到墙的任何相邻部分，并将墙群的整个连接部分视为自身的延伸。鲜活之壁将尝试移动到最靠近敌人的最近墙壁。鲜活之壁不能在断开连接的墙之间移动，只能移动到相邻的另一段墙。一个施法者只能维持一个鲜活之壁，不管它占据的墙有多大。多个鲜活之壁可以占用一个墙。</TM_LivingWall.description>-->
 
-  <TM_DispelLivingWall.label>驱散鲜活之墙</TM_DispelLivingWall.label>
-  <TM_DispelLivingWall.description>驱散鲜活之墙。</TM_DispelLivingWall.description>
+  <!--<TM_DispelLivingWall.label>驱散鲜活之墙</TM_DispelLivingWall.label>-->
+  <!--<TM_DispelLivingWall.description>驱散鲜活之墙。</TM_DispelLivingWall.description>-->
 
 
 </LanguageData>

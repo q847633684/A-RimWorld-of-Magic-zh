@@ -3,9 +3,9 @@
 
   <!-- These go in natural parts, but don't replace them -->
 
-  <TM_GolemHD.label>傀儡</TM_GolemHD.label>
-  <TM_GolemHD.description>适用于所有傀儡的健康效果。</TM_GolemHD.description>
-  <TM_GolemHD.stages.0.label></TM_GolemHD.stages.0.label>
+  <!--<TM_GolemHD.label>傀儡</TM_GolemHD.label>-->
+  <!--<TM_GolemHD.description>适用于所有傀儡的健康效果。</TM_GolemHD.description>-->
+  <!--<TM_GolemHD.stages.0.label></TM_GolemHD.stages.0.label>-->
 
 
 </LanguageData>

@@ -77,15 +77,10 @@
 
 
   <!-- Winter's Staff -->
-
-  <TM_WinterStaffHD.label>寒气</TM_WinterStaffHD.label>
-  <TM_WinterStaffHD.description>排出身体的热量和能量，可以防止中暑。魔法师使用时，可降低室内温度。</TM_WinterStaffHD.description>
-
-
+  <!--<TM_WinterStaffHD.label>寒气</TM_WinterStaffHD.label>-->
+  <!--<TM_WinterStaffHD.description>排出身体的热量和能量，可以防止中暑。魔法师使用时，可降低室内温度。</TM_WinterStaffHD.description>-->
   <!-- Shroud of Undead (Shroud of Soulreaper buff) -->
-
-  <TM_ShroudOfUndeathHD.label>亡灵裹尸布</TM_ShroudOfUndeathHD.label>
-  <TM_ShroudOfUndeathHD.description>减少此死灵法师对亡灵的维持费用并增加附近亡灵的移动力和攻击力。</TM_ShroudOfUndeathHD.description>
-
+  <!--<TM_ShroudOfUndeathHD.label>亡灵裹尸布</TM_ShroudOfUndeathHD.label>-->
+  <!--<TM_ShroudOfUndeathHD.description>减少此死灵法师对亡灵的维持费用并增加附近亡灵的移动力和攻击力。</TM_ShroudOfUndeathHD.description>-->
 
 </LanguageData>

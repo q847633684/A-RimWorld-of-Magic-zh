@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Raise Undead -->
+
+  <Projectile_RaiseUndead.label>Raise undead</Projectile_RaiseUndead.label>
+
+
+  <!-- death mark -->
+
+  <Projectile_DeathMark.label>Death mark</Projectile_DeathMark.label>
+
+
+  <!-- fog of torment -->
+
+  <Projectile_FogOfTorment.label>fog of torment</Projectile_FogOfTorment.label>
+
+
+  <!-- consume corpse -->
+
+  <Projectile_ConsumeCorpse.label>consume corpse</Projectile_ConsumeCorpse.label>
+
+
+  <!-- corpse explosion -->
+
+  <Projectile_CorpseExplosion.label>corpse explosion</Projectile_CorpseExplosion.label>
+
+
+  <!-- Death Bolt -->
+
+  <Projectile_DeathBolt.label>deathbolt</Projectile_DeathBolt.label>
+  <Projectile_DeathBolt_I.label>deathbolt</Projectile_DeathBolt_I.label>
+  <Projectile_DeathBolt_II.label>deathbolt</Projectile_DeathBolt_II.label>
+  <Projectile_DeathBolt_III.label>deathbolt</Projectile_DeathBolt_III.label>
+  <FlyingObject_DeathBolt.label>explosion</FlyingObject_DeathBolt.label>
+
+
+</LanguageData>

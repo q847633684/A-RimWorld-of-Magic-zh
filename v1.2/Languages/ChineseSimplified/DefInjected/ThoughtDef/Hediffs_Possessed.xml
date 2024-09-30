@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TM_SpiritPossessedTD.stages.0.label>幽魂行者</TM_SpiritPossessedTD.stages.0.label>
-  <TM_SpiritPossessedTD.stages.0.description>我的身体被另一个灵魂入侵了。</TM_SpiritPossessedTD.stages.0.description>
+  <!--<TM_SpiritPossessedTD.stages.0.label>幽魂行者</TM_SpiritPossessedTD.stages.0.label>-->
+  <!--<TM_SpiritPossessedTD.stages.0.description>我的身体被另一个灵魂入侵了。</TM_SpiritPossessedTD.stages.0.description>-->
 
-  <TM_SpiritDrainTD.stages.0.label>精神流失</TM_SpiritDrainTD.stages.0.label>
-  <TM_SpiritDrainTD.stages.0.description>精神耗尽。</TM_SpiritDrainTD.stages.0.description>
+  <!--<TM_SpiritDrainTD.stages.0.label>精神流失</TM_SpiritDrainTD.stages.0.label>-->
+  <!--<TM_SpiritDrainTD.stages.0.description>精神耗尽。</TM_SpiritDrainTD.stages.0.description>-->
 
 
 </LanguageData>

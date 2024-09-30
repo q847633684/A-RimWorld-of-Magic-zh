@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Straw Golem upgrade recipes -->
+  <!-- Maharal Golem upgrade recipes -->
 
   <TM_MaharalGolem_RepairBlock.label>部位修复</TM_MaharalGolem_RepairBlock.label>
   <TM_MaharalGolem_RepairBlock.description>替换不需要升级的缺失傀儡部件。</TM_MaharalGolem_RepairBlock.description>
@@ -36,6 +36,6 @@
   <TM_MaharalGolem_Heat.jobString>制作傀儡升级</TM_MaharalGolem_Heat.jobString>
 
 
-  <!-- Maharal Golem upgrade recipes -->
+  <!-- Straw Golem upgrade recipes -->
 
 </LanguageData>

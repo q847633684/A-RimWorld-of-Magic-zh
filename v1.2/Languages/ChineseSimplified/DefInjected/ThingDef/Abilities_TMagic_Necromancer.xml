@@ -19,7 +19,6 @@
   <!-- consume corpse -->
 
   <Projectile_ConsumeCorpse.label>吞噬尸体</Projectile_ConsumeCorpse.label>
-  <Projectile_ConsumeCorpse_Mass.label>吞噬尸体（范围）</Projectile_ConsumeCorpse_Mass.label>
 
 
   <!-- corpse explosion -->
@@ -35,5 +34,7 @@
   <Projectile_DeathBolt_III.label>死亡螺旋</Projectile_DeathBolt_III.label>
   <FlyingObject_DeathBolt.label>爆发</FlyingObject_DeathBolt.label>
 
+
+  <!--<Projectile_ConsumeCorpse_Mass.label>吞噬尸体（范围）</Projectile_ConsumeCorpse_Mass.label>-->
 
 </LanguageData>

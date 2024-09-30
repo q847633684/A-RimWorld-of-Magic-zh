@@ -93,14 +93,6 @@
 失败反噬伤害: 12</TM_CreateGiantSkeletonMR.description>
   <TM_CreateGiantSkeletonMR.jobString>召唤:巨型骷髅</TM_CreateGiantSkeletonMR.jobString>
 
-  <TM_SummonSpiritMR.label>召唤: 灵魂</TM_SummonSpiritMR.label>
-  <TM_SummonSpiritMR.description>召唤一种流浪的精神。
-施法者: 3
-法力: 40 ea.
-失败机率: 25%
-失败反噬伤害: 15</TM_SummonSpiritMR.description>
-  <TM_SummonSpiritMR.jobString>灵魂</TM_SummonSpiritMR.jobString>
-
   <TM_RuunbledMR.label>召唤:神秘武器</TM_RuunbledMR.label>
   <TM_RuunbledMR.description>召唤一把神秘武器
 施法者: 3
@@ -166,5 +158,13 @@ Target max: 10
 失败反噬伤害: 20</TM_SummonWanderingLichMR.description>
   <TM_SummonWanderingLichMR.jobString>召唤巫妖</TM_SummonWanderingLichMR.jobString>
 
+
+  <!--<TM_SummonSpiritMR.label>召唤: 灵魂</TM_SummonSpiritMR.label>-->
+  <!--<TM_SummonSpiritMR.description>召唤一种流浪的精神。
+施法者: 3
+法力: 40 ea.
+失败机率: 25%
+失败反噬伤害: 15</TM_SummonSpiritMR.description>-->
+  <!--<TM_SummonSpiritMR.jobString>灵魂</TM_SummonSpiritMR.jobString>-->
 
 </LanguageData>

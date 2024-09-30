@@ -84,10 +84,6 @@
   <Torn_BookOfShamanism.description>教会有一个有天赋的生物如何成为一位萨满,部落领袖专注于仪式魔法,施放强大的诅咒和魔法,并通过图腾扩展他们的影响力.这种手稿并不完整,阅读者并不能从中学到萨满的全部能力.</Torn_BookOfShamanism.description>
   <Torn_BookOfShamanism.comps.1.useLabel>TM_Read</Torn_BookOfShamanism.comps.1.useLabel>
 
-  <Torn_BookOfGolemancy.label>转职残卷:傀儡使</Torn_BookOfGolemancy.label>
-  <Torn_BookOfGolemancy.description>教会有一个有天赋的生物如何成为一位傀儡使,一种避世法师,使用印记和符文将奥术能量注入普通物体.\n这种手稿并不完整,阅读者并不能从中学傀儡使的全部魔法.</Torn_BookOfGolemancy.description>
-  <Torn_BookOfGolemancy.comps.1.useLabel>TM_Read</Torn_BookOfGolemancy.comps.1.useLabel>
-
 
   <!-- Arcane Scripts -->
 
@@ -167,10 +163,6 @@
   <BookOfShamanism.description>教会有一个有天赋的生物如何成为一位萨满,部落领袖专注于仪式魔法,施放强大的诅咒和魔法,并通过图腾扩展他们的影响力.</BookOfShamanism.description>
   <BookOfShamanism.comps.1.useLabel>TM_Read</BookOfShamanism.comps.1.useLabel>
 
-  <BookOfGolemancy.label>奥术典籍:傀儡使</BookOfGolemancy.label>
-  <BookOfGolemancy.description>教会有一个有天赋的生物如何成为一位傀儡使,一种避世法师,使用印记和符文将奥术能量注入普通物体.</BookOfGolemancy.description>
-  <BookOfGolemancy.comps.1.useLabel>TM_Read</BookOfGolemancy.comps.1.useLabel>
-
 
   <!-- Combat Forms -->
 
@@ -221,10 +213,6 @@
   <BookOfShadow.description>教会有一个有天赋的生物如何成为一位影行者,在夜深人静的时候,恐惧在刀锋的倒影中显露出来——暗影(影行者)苏醒了.</BookOfShadow.description>
   <BookOfShadow.comps.1.useLabel>TM_Read</BookOfShadow.comps.1.useLabel>
 
-  <BookOfApothecary.label>战斗指南:药剂师</BookOfApothecary.label>
-  <BookOfApothecary.description>教一个可以熟练运用身体能力的生物如何成为一名药剂师.</BookOfApothecary.description>
-  <BookOfApothecary.comps.1.useLabel>TM_Read</BookOfApothecary.comps.1.useLabel>
-
 
   <!-- Magic Spells - Single -->
 
@@ -260,10 +248,6 @@
   <SpellOf_Heal.description>教会一名魔法师如何奇妙地操控奥术能量来治愈伤口.</SpellOf_Heal.description>
   <SpellOf_Heal.comps.1.useLabel>TM_Learn</SpellOf_Heal.comps.1.useLabel>
 
-  <SpellOf_HeatShield.label>火系魔法卷轴:热能屏障</SpellOf_HeatShield.label>
-  <SpellOf_HeatShield.description>教会一个火系法师如何创造一个抵御火焰和热能的屏障.</SpellOf_HeatShield.description>
-  <SpellOf_HeatShield.comps.1.useLabel>TM_Learn</SpellOf_HeatShield.comps.1.useLabel>
-
   <SpellOf_Heater.label>法术卷轴:魔法热源</SpellOf_Heater.label>
   <SpellOf_Heater.description>教会一名魔法师如何创造一个连接火元素位面的窗口,创建一个临时的热源.</SpellOf_Heater.description>
   <SpellOf_Heater.comps.1.useLabel>TM_Learn</SpellOf_Heater.comps.1.useLabel>
@@ -296,30 +280,6 @@
   <SpellOf_Sunlight.description>教会一名魔法师如何创建足以种植植物的阳光.阳光必须由创造它的法师维持,并且会降低最大法力和法力再生率.</SpellOf_Sunlight.description>
   <SpellOf_Sunlight.comps.1.useLabel>TM_Learn</SpellOf_Sunlight.comps.1.useLabel>
 
-  <SpellOf_BrandSiphon.label>傀儡使咒语:虹吸印记</SpellOf_BrandSiphon.label>
-  <SpellOf_BrandSiphon.description>教会一位傀儡使如何刻画虹吸印记.</SpellOf_BrandSiphon.description>
-  <SpellOf_BrandSiphon.comps.1.useLabel>TM_Learn</SpellOf_BrandSiphon.comps.1.useLabel>
-
-  <SpellOf_BrandFitness.label>傀儡使咒语:健康印记</SpellOf_BrandFitness.label>
-  <SpellOf_BrandFitness.description>教会一位傀儡使如何刻画健康印记.</SpellOf_BrandFitness.description>
-  <SpellOf_BrandFitness.comps.1.useLabel>TM_Learn</SpellOf_BrandFitness.comps.1.useLabel>
-
-  <SpellOf_BrandEmotion.label>傀儡使咒语:情感印记</SpellOf_BrandEmotion.label>
-  <SpellOf_BrandEmotion.description>教会一位傀儡使如何刻画情感印记.</SpellOf_BrandEmotion.description>
-  <SpellOf_BrandEmotion.comps.1.useLabel>TM_Learn</SpellOf_BrandEmotion.comps.1.useLabel>
-
-  <SpellOf_BrandVitality.label>傀儡使咒语:生命印记</SpellOf_BrandVitality.label>
-  <SpellOf_BrandVitality.description>教会一位傀儡使如何刻画生命印记.</SpellOf_BrandVitality.description>
-  <SpellOf_BrandVitality.comps.1.useLabel>TM_Learn</SpellOf_BrandVitality.comps.1.useLabel>
-
-  <SpellOf_BrandProtection.label>傀儡使咒语:保护印记</SpellOf_BrandProtection.label>
-  <SpellOf_BrandProtection.description>教会一位傀儡使如何刻画保护印记.</SpellOf_BrandProtection.description>
-  <SpellOf_BrandProtection.comps.1.useLabel>TM_Learn</SpellOf_BrandProtection.comps.1.useLabel>
-
-  <SpellOf_BrandAwareness.label>傀儡使咒语:知识印记</SpellOf_BrandAwareness.label>
-  <SpellOf_BrandAwareness.description>教会一位傀儡使如何刻画知识印记.</SpellOf_BrandAwareness.description>
-  <SpellOf_BrandAwareness.comps.1.useLabel>TM_Learn</SpellOf_BrandAwareness.comps.1.useLabel>
-
   <SpellOf_ChargeBattery.label>雷系法术卷轴:电池充能</SpellOf_ChargeBattery.label>
   <SpellOf_ChargeBattery.description>教会一名雷系魔法师如何通过灌输魔法能量给电池充能.产生400Wd.</SpellOf_ChargeBattery.description>
   <SpellOf_ChargeBattery.comps.1.useLabel>TM_Learn</SpellOf_ChargeBattery.comps.1.useLabel>
@@ -327,10 +287,6 @@
   <SpellOf_CauterizeWound.label>火系法术卷轴:烧灼伤口</SpellOf_CauterizeWound.label>
   <SpellOf_CauterizeWound.description>教会一名火系魔法师如何运用火元素清洁和封闭伤口-可能会留下烧伤疤痕.</SpellOf_CauterizeWound.description>
   <SpellOf_CauterizeWound.comps.1.useLabel>TM_Learn</SpellOf_CauterizeWound.comps.1.useLabel>
-
-  <SpellOf_ConsumeCorpse_Mass.label>死灵法术卷轴:吞噬尸体（范围）</SpellOf_ConsumeCorpse_Mass.label>
-  <SpellOf_ConsumeCorpse_Mass.description>榨干一定范围内的尸体或亡灵的剩余价值来恢复法力.除了属于尸体的所有物质(肉/皮)会被毁灭,其他的东西例如装备物品等都会被保留下来.</SpellOf_ConsumeCorpse_Mass.description>
-  <SpellOf_ConsumeCorpse_Mass.comps.1.useLabel>TM_Learn</SpellOf_ConsumeCorpse_Mass.comps.1.useLabel>
 
   <SpellOf_Discord.label>吟游诗人卷轴:纪声</SpellOf_Discord.label>
   <SpellOf_Discord.description>教导吟游诗人如何扭曲目标生物的精神和谐.</SpellOf_Discord.description>
@@ -346,10 +302,6 @@
 
 
   <!-- Advanced Scribing -->
-
-  <SpellOf_MagicWardrobe.label>法术卷轴:魔法衣橱</SpellOf_MagicWardrobe.label>
-  <SpellOf_MagicWardrobe.description>教会一名法师如何创建一个空间口袋来存储一套装备.</SpellOf_MagicWardrobe.description>
-  <SpellOf_MagicWardrobe.comps.1.useLabel>TM_Learn</SpellOf_MagicWardrobe.comps.1.useLabel>
 
   <SpellOf_Invisibility.label>法术卷轴:隐形</SpellOf_Invisibility.label>
   <SpellOf_Invisibility.description>教会一名法师如何隐身.</SpellOf_Invisibility.description>
@@ -387,10 +339,6 @@
   <SpellOf_TransferMana.description>教会一名魔法师如何将法力转移给其他魔法师.如果这些魔法能量被灌输在一个没有魔力的受术者身上,受术者的物理属性将会得到暂时性的增强.</SpellOf_TransferMana.description>
   <SpellOf_TransferMana.comps.1.useLabel>TM_Learn</SpellOf_TransferMana.comps.1.useLabel>
 
-  <SpellOf_FadeEmotions.label>读心术卷轴:记忆消褪</SpellOf_FadeEmotions.label>
-  <SpellOf_FadeEmotions.description>教会一名读心师如何消耗自身与目标的心情,以摆脱目标的负面记忆,以便其能从回忆中解脱.</SpellOf_FadeEmotions.description>
-  <SpellOf_FadeEmotions.comps.1.useLabel>TM_Learn</SpellOf_FadeEmotions.comps.1.useLabel>
-
   <SpellOf_BlankMind.label>附魔师卷轴:消除记忆</SpellOf_BlankMind.label>
   <SpellOf_BlankMind.description>教会一名附魔师如何清除记忆和打破一个生物的精神状态给敌人造成长期的晕眩.</SpellOf_BlankMind.description>
   <SpellOf_BlankMind.comps.1.useLabel>TM_Learn</SpellOf_BlankMind.comps.1.useLabel>
@@ -402,10 +350,6 @@
   <SpellOf_FertileLands.label>德鲁伊卷轴:大地祝福</SpellOf_FertileLands.label>
   <SpellOf_FertileLands.description>教会一名德鲁伊如何祝福一片土地使其肥沃度增加.</SpellOf_FertileLands.description>
   <SpellOf_FertileLands.comps.1.useLabel>TM_Learn</SpellOf_FertileLands.comps.1.useLabel>
-
-  <SpellOf_AlterStorm.label>冰系法术卷轴:雨云更迭</SpellOf_AlterStorm.label>
-  <SpellOf_AlterStorm.description>教会一名冰系魔法师如何改变雨雪天来产生不同的气候.</SpellOf_AlterStorm.description>
-  <SpellOf_AlterStorm.comps.1.useLabel>TM_Learn</SpellOf_AlterStorm.comps.1.useLabel>
 
   <SpellOf_MechaniteReprogramming.label>机械师卷轴:机械重组</SpellOf_MechaniteReprogramming.label>
   <SpellOf_MechaniteReprogramming.description>教会一名机械师如何以纳米纤维增强属性的方式重新编程纳米纤维或纳米感官机械.</SpellOf_MechaniteReprogramming.description>
@@ -461,10 +405,6 @@
   <SpellOf_LichForm.label>死灵法术卷轴:巫妖形态</SpellOf_LichForm.label>
   <SpellOf_LichForm.description>教会一名死灵法师如何转换成为巫妖形态.</SpellOf_LichForm.description>
   <SpellOf_LichForm.comps.1.useLabel>TM_Learn</SpellOf_LichForm.comps.1.useLabel>
-
-  <SpellOf_LivingWall.label>傀儡使咒语:鲜活之墙</SpellOf_LivingWall.label>
-  <SpellOf_LivingWall.description>教会一位傀儡使如何给予一堵墙自我意志.</SpellOf_LivingWall.description>
-  <SpellOf_LivingWall.comps.1.useLabel>TM_Learn</SpellOf_LivingWall.comps.1.useLabel>
 
   <SpellOf_Meteor.label>地脉卷轴:陨石天降</SpellOf_Meteor.label>
   <SpellOf_Meteor.description>教会一名地卜师如何召唤一颗巨大的流星将一个地区埋在岩石和碎片中.</SpellOf_Meteor.description>
@@ -561,14 +501,6 @@
   <SkillOf_ThickSkin.description>教会一名战士如何使护甲变得更为坚硬并略微提升适宜温度.</SkillOf_ThickSkin.description>
   <SkillOf_ThickSkin.comps.1.useLabel>TM_Learn</SkillOf_ThickSkin.comps.1.useLabel>
 
-  <SkillOf_HerbalBliss.label>药剂师配方:“极乐”</SkillOf_HerbalBliss.label>
-  <SkillOf_HerbalBliss.description>教会一名药剂师如何调配一种混合药物,让使用者处于极乐状态,能够掩盖几乎所有的情绪和痛苦.但会有严重的学习障碍副作用.</SkillOf_HerbalBliss.description>
-  <SkillOf_HerbalBliss.comps.1.useLabel>TM_Learn</SkillOf_HerbalBliss.comps.1.useLabel>
-
-  <SkillOf_HerbalClarity.label>药剂师配方:清醒剂</SkillOf_HerbalClarity.label>
-  <SkillOf_HerbalClarity.description>教会一名药剂师如何调配一种混合药物,帮助食用者挖掘自身的秘能.法力回复提高到300%,心灵敏感度提高到50%,同时影响食用者的心理.</SkillOf_HerbalClarity.description>
-  <SkillOf_HerbalClarity.comps.1.useLabel>TM_Learn</SkillOf_HerbalClarity.comps.1.useLabel>
-
 
   <!-- Gems of Insight -->
 
@@ -581,6 +513,57 @@
   <GemstoneOfInsight_Might.comps.1.useLabel>TM_Use</GemstoneOfInsight_Might.comps.1.useLabel>
 
 
+  <!--<Torn_BookOfGolemancy.label>转职残卷:傀儡使</Torn_BookOfGolemancy.label>-->
+  <!--<Torn_BookOfGolemancy.description>教会有一个有天赋的生物如何成为一位傀儡使,一种避世法师,使用印记和符文将奥术能量注入普通物体.\n这种手稿并不完整,阅读者并不能从中学傀儡使的全部魔法.</Torn_BookOfGolemancy.description>-->
+  <!--<Torn_BookOfGolemancy.comps.1.useLabel>TM_Read</Torn_BookOfGolemancy.comps.1.useLabel>-->
+  <!--<BookOfGolemancy.label>奥术典籍:傀儡使</BookOfGolemancy.label>-->
+  <!--<BookOfGolemancy.description>教会有一个有天赋的生物如何成为一位傀儡使,一种避世法师,使用印记和符文将奥术能量注入普通物体.</BookOfGolemancy.description>-->
+  <!--<BookOfGolemancy.comps.1.useLabel>TM_Read</BookOfGolemancy.comps.1.useLabel>-->
+  <!--<BookOfApothecary.label>战斗指南:药剂师</BookOfApothecary.label>-->
+  <!--<BookOfApothecary.description>教一个可以熟练运用身体能力的生物如何成为一名药剂师.</BookOfApothecary.description>-->
+  <!--<BookOfApothecary.comps.1.useLabel>TM_Read</BookOfApothecary.comps.1.useLabel>-->
+  <!--<SpellOf_HeatShield.label>火系魔法卷轴:热能屏障</SpellOf_HeatShield.label>-->
+  <!--<SpellOf_HeatShield.description>教会一个火系法师如何创造一个抵御火焰和热能的屏障.</SpellOf_HeatShield.description>-->
+  <!--<SpellOf_HeatShield.comps.1.useLabel>TM_Learn</SpellOf_HeatShield.comps.1.useLabel>-->
+  <!--<SpellOf_BrandSiphon.label>傀儡使咒语:虹吸印记</SpellOf_BrandSiphon.label>-->
+  <!--<SpellOf_BrandSiphon.description>教会一位傀儡使如何刻画虹吸印记.</SpellOf_BrandSiphon.description>-->
+  <!--<SpellOf_BrandSiphon.comps.1.useLabel>TM_Learn</SpellOf_BrandSiphon.comps.1.useLabel>-->
+  <!--<SpellOf_BrandFitness.label>傀儡使咒语:健康印记</SpellOf_BrandFitness.label>-->
+  <!--<SpellOf_BrandFitness.description>教会一位傀儡使如何刻画健康印记.</SpellOf_BrandFitness.description>-->
+  <!--<SpellOf_BrandFitness.comps.1.useLabel>TM_Learn</SpellOf_BrandFitness.comps.1.useLabel>-->
+  <!--<SpellOf_BrandEmotion.label>傀儡使咒语:情感印记</SpellOf_BrandEmotion.label>-->
+  <!--<SpellOf_BrandEmotion.description>教会一位傀儡使如何刻画情感印记.</SpellOf_BrandEmotion.description>-->
+  <!--<SpellOf_BrandEmotion.comps.1.useLabel>TM_Learn</SpellOf_BrandEmotion.comps.1.useLabel>-->
+  <!--<SpellOf_BrandVitality.label>傀儡使咒语:生命印记</SpellOf_BrandVitality.label>-->
+  <!--<SpellOf_BrandVitality.description>教会一位傀儡使如何刻画生命印记.</SpellOf_BrandVitality.description>-->
+  <!--<SpellOf_BrandVitality.comps.1.useLabel>TM_Learn</SpellOf_BrandVitality.comps.1.useLabel>-->
+  <!--<SpellOf_BrandProtection.label>傀儡使咒语:保护印记</SpellOf_BrandProtection.label>-->
+  <!--<SpellOf_BrandProtection.description>教会一位傀儡使如何刻画保护印记.</SpellOf_BrandProtection.description>-->
+  <!--<SpellOf_BrandProtection.comps.1.useLabel>TM_Learn</SpellOf_BrandProtection.comps.1.useLabel>-->
+  <!--<SpellOf_BrandAwareness.label>傀儡使咒语:知识印记</SpellOf_BrandAwareness.label>-->
+  <!--<SpellOf_BrandAwareness.description>教会一位傀儡使如何刻画知识印记.</SpellOf_BrandAwareness.description>-->
+  <!--<SpellOf_BrandAwareness.comps.1.useLabel>TM_Learn</SpellOf_BrandAwareness.comps.1.useLabel>-->
+  <!--<SpellOf_ConsumeCorpse_Mass.label>死灵法术卷轴:吞噬尸体（范围）</SpellOf_ConsumeCorpse_Mass.label>-->
+  <!--<SpellOf_ConsumeCorpse_Mass.description>榨干一定范围内的尸体或亡灵的剩余价值来恢复法力.除了属于尸体的所有物质(肉/皮)会被毁灭,其他的东西例如装备物品等都会被保留下来.</SpellOf_ConsumeCorpse_Mass.description>-->
+  <!--<SpellOf_ConsumeCorpse_Mass.comps.1.useLabel>TM_Learn</SpellOf_ConsumeCorpse_Mass.comps.1.useLabel>-->
+  <!--<SpellOf_MagicWardrobe.label>法术卷轴:魔法衣橱</SpellOf_MagicWardrobe.label>-->
+  <!--<SpellOf_MagicWardrobe.description>教会一名法师如何创建一个空间口袋来存储一套装备.</SpellOf_MagicWardrobe.description>-->
+  <!--<SpellOf_MagicWardrobe.comps.1.useLabel>TM_Learn</SpellOf_MagicWardrobe.comps.1.useLabel>-->
+  <!--<SpellOf_FadeEmotions.label>读心术卷轴:记忆消褪</SpellOf_FadeEmotions.label>-->
+  <!--<SpellOf_FadeEmotions.description>教会一名读心师如何消耗自身与目标的心情,以摆脱目标的负面记忆,以便其能从回忆中解脱.</SpellOf_FadeEmotions.description>-->
+  <!--<SpellOf_FadeEmotions.comps.1.useLabel>TM_Learn</SpellOf_FadeEmotions.comps.1.useLabel>-->
+  <!--<SpellOf_AlterStorm.label>冰系法术卷轴:雨云更迭</SpellOf_AlterStorm.label>-->
+  <!--<SpellOf_AlterStorm.description>教会一名冰系魔法师如何改变雨雪天来产生不同的气候.</SpellOf_AlterStorm.description>-->
+  <!--<SpellOf_AlterStorm.comps.1.useLabel>TM_Learn</SpellOf_AlterStorm.comps.1.useLabel>-->
+  <!--<SpellOf_LivingWall.label>傀儡使咒语:鲜活之墙</SpellOf_LivingWall.label>-->
+  <!--<SpellOf_LivingWall.description>教会一位傀儡使如何给予一堵墙自我意志.</SpellOf_LivingWall.description>-->
+  <!--<SpellOf_LivingWall.comps.1.useLabel>TM_Learn</SpellOf_LivingWall.comps.1.useLabel>-->
+  <!--<SkillOf_HerbalBliss.label>药剂师配方:“极乐”</SkillOf_HerbalBliss.label>-->
+  <!--<SkillOf_HerbalBliss.description>教会一名药剂师如何调配一种混合药物,让使用者处于极乐状态,能够掩盖几乎所有的情绪和痛苦.但会有严重的学习障碍副作用.</SkillOf_HerbalBliss.description>-->
+  <!--<SkillOf_HerbalBliss.comps.1.useLabel>TM_Learn</SkillOf_HerbalBliss.comps.1.useLabel>-->
+  <!--<SkillOf_HerbalClarity.label>药剂师配方:清醒剂</SkillOf_HerbalClarity.label>-->
+  <!--<SkillOf_HerbalClarity.description>教会一名药剂师如何调配一种混合药物,帮助食用者挖掘自身的秘能.法力回复提高到300%,心灵敏感度提高到50%,同时影响食用者的心理.</SkillOf_HerbalClarity.description>-->
+  <!--<SkillOf_HerbalClarity.comps.1.useLabel>TM_Learn</SkillOf_HerbalClarity.comps.1.useLabel>-->
   <!--<BookOfQuestion.comps.0.useLabel>使用</BookOfQuestion.comps.0.useLabel>-->
   <!--<Torn_BookOfInnerFire.comps.0.useLabel>使用</Torn_BookOfInnerFire.comps.0.useLabel>-->
   <!--<Torn_BookOfHeartOfFrost.comps.0.useLabel>使用</Torn_BookOfHeartOfFrost.comps.0.useLabel>-->

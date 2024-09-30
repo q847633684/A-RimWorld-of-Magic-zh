@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Tranquilizer_HD.label>Sedated</TM_Tranquilizer_HD.label>
+  <TM_Tranquilizer_HD.description>Effects of a tranquilizer.</TM_Tranquilizer_HD.description>
+  <TM_Tranquilizer_HD.stages.0.label>Slowed</TM_Tranquilizer_HD.stages.0.label>
+  <TM_Tranquilizer_HD.stages.1.label>Sedated</TM_Tranquilizer_HD.stages.1.label>
+  <TM_Tranquilizer_HD.stages.2.label>Paralytic</TM_Tranquilizer_HD.stages.2.label>
+
+  <TM_Slow_HD.label>Slowed</TM_Slow_HD.label>
+  <TM_Slow_HD.description>Effects of an ability that reduces physical and mental agility.</TM_Slow_HD.description>
+  <TM_Slow_HD.stages.0.label>minor</TM_Slow_HD.stages.0.label>
+  <TM_Slow_HD.stages.1.label>major</TM_Slow_HD.stages.1.label>
+  <TM_Slow_HD.stages.2.label>extreme</TM_Slow_HD.stages.2.label>
+
+
+</LanguageData>

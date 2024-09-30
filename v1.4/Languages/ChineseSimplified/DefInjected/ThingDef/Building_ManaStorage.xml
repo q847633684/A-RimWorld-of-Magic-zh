@@ -3,27 +3,46 @@
 
   <TM_ArcaneCapacitor.label>奥术电池</TM_ArcaneCapacitor.label>
   <TM_ArcaneCapacitor.description>奥术电池能够储存多余的法力供法师在需要的时候吸取。执行魔法工作且法力值在90%以上的法师会自动给电池充能，直到电池达到设定的电量。法力值低于25%的法师无法为电池充能。\n  电池会自动为范围内被征召且法力值低于90%的法师补充法力。在法力释放的过程中会损耗一些法力值。\n  \n效率: 71%</TM_ArcaneCapacitor.description>
-  <Blueprint_TM_ArcaneCapacitor.label>奥术电池（蓝图）</Blueprint_TM_ArcaneCapacitor.label>
-  <Frame_TM_ArcaneCapacitor.label>奥术电池（建筑）</Frame_TM_ArcaneCapacitor.label>
-  <Frame_TM_ArcaneCapacitor.description>奥术电容器能够将法力作为一种势能的形式存储，而法师可以在以后可以借鉴。分配给魔术任务的法师将为电池充电，直到达到设置填充水平为止。法师只有在其法术力级别超过其最大的90％时才能执行此任务。
+  <TM_ArcaneCapacitor_Blueprint.label>Arcane Capacitor (blueprint)</TM_ArcaneCapacitor_Blueprint.label>
+  <TM_ArcaneCapacitor_Frame.label>Arcane Capacitor (building)</TM_ArcaneCapacitor_Frame.label>
+  <TM_ArcaneCapacitor_Frame.description>The Arcane Capacitor is able to store mana as a form of potential energy that mages can draw upon at a later time. Mages assigned to magic tasks will charge the battery until it reaches its set fill level. A mage will only perform this task if their mana level is above 90% of their maximum.
+
+The arcane capacitor will discharge mana to any undrafted pawn in range if the mana ratio of the capacitor is greater than 250% of the mage. Drafted mages will forcibly draw mana from the capacitor until the capacitor is empty or the mage has 90% or more mana.
+
+Some mana is lost during the discharging process.
+Efficiency: 71%</TM_ArcaneCapacitor_Frame.description>
+
+  <TM_DimensionalManaPocket.label>维度法球</TM_DimensionalManaPocket.label>
+  <TM_DimensionalManaPocket.description>维度法球可以储存比电池更多的法力且拥有更大的释放范围。执行魔法工作且法力值在90%以上的法师会自动给法球充能，直到法球达到设定的电量。法力值低于40%的法师无法为法球充能。\n  法球会自动为范围内被征召且法力值低于80%的法师补充法力。在法力释放的过程中会损耗一些法力值。\n\n效率: 80%</TM_DimensionalManaPocket.description>
+  <TM_DimensionalManaPocket_Blueprint.label>Dimensional Mana Pocket (blueprint)</TM_DimensionalManaPocket_Blueprint.label>
+  <TM_DimensionalManaPocket_Frame.label>Dimensional Mana Pocket (building)</TM_DimensionalManaPocket_Frame.label>
+  <TM_DimensionalManaPocket_Frame.description>The dimensional mana pocket stores a tremendous amount of mana and has a large distribution coverage area but is slower than the arcane capacitor to redistribute mana when it's needed
+	
+Mages assigned to magic tasks will store mana in the dimensional pocket until it reaches its set fill level. A mage will only perform this task if their mana level is above 90% of their maximum.
+
+The dimensional pocket will discharge mana to any undrafted pawn in range if their mana is below 40% and to any drafted mage with mana lower than 80%.
+
+Some mana is lost during both the charging and discharging process.
+Efficiency: 80%</TM_DimensionalManaPocket_Frame.description>
+
+
+  <!--<Blueprint_TM_ArcaneCapacitor.label>奥术电池（蓝图）</Blueprint_TM_ArcaneCapacitor.label>-->
+  <!--<Frame_TM_ArcaneCapacitor.label>奥术电池（建筑）</Frame_TM_ArcaneCapacitor.label>-->
+  <!--<Frame_TM_ArcaneCapacitor.description>奥术电容器能够将法力作为一种势能的形式存储，而法师可以在以后可以借鉴。分配给魔术任务的法师将为电池充电，直到达到设置填充水平为止。法师只有在其法术力级别超过其最大的90％时才能执行此任务。
 
 如果电容器的法术力大于法师的250％，则奥术电容器将使法力值将法力值排放到任何未起草的典当。起草的法师将强行从电容器中绘制法力值，直到电容器为空，否则法师的法术力是90％或更多的法术力。
 
 在放电过程中，一些法力损失。
-效率：71％</Frame_TM_ArcaneCapacitor.description>
-
-  <TM_DimensionalManaPocket.label>维度法球</TM_DimensionalManaPocket.label>
-  <TM_DimensionalManaPocket.description>维度法球可以储存比电池更多的法力且拥有更大的释放范围。执行魔法工作且法力值在90%以上的法师会自动给法球充能，直到法球达到设定的电量。法力值低于40%的法师无法为法球充能。\n  法球会自动为范围内被征召且法力值低于80%的法师补充法力。在法力释放的过程中会损耗一些法力值。\n\n效率: 80%</TM_DimensionalManaPocket.description>
-  <Blueprint_TM_DimensionalManaPocket.label>维度法球 (蓝图)</Blueprint_TM_DimensionalManaPocket.label>
-  <Frame_TM_DimensionalManaPocket.label>维度法球 (建筑)</Frame_TM_DimensionalManaPocket.label>
-  <Frame_TM_DimensionalManaPocket.description>维度法球存储了大量的法力值，并具有较大的分配覆盖面积，但比奥术电容器慢于需要时重新分配法力。
+效率：71％</Frame_TM_ArcaneCapacitor.description>-->
+  <!--<Blueprint_TM_DimensionalManaPocket.label>维度法球 (蓝图)</Blueprint_TM_DimensionalManaPocket.label>-->
+  <!--<Frame_TM_DimensionalManaPocket.label>维度法球 (建筑)</Frame_TM_DimensionalManaPocket.label>-->
+  <!--<Frame_TM_DimensionalManaPocket.description>维度法球存储了大量的法力值，并具有较大的分配覆盖面积，但比奥术电容器慢于需要时重新分配法力。
 
 分配给魔术任务的法师将将法力存储在维度袋中，直到达到设置填充水平为止。法师只有在其法术力级别超过其最大的90％时才能执行此任务。
 
 如果尺寸的口袋将使法术力的法术力在40％以下，并且具有法术力的任何选秀法师低于80％，则将其范围内的任何未起草的典当。
 
 在充电过程和排放过程中，一些法力都损失了。
-效率：80％</Frame_TM_DimensionalManaPocket.description>
-
+效率：80％</Frame_TM_DimensionalManaPocket.description>-->
 
 </LanguageData>

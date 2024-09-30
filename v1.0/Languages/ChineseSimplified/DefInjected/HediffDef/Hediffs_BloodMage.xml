@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_BloodHD.label>Blood Magic</TM_BloodHD.label>
+  <TM_BloodHD.stages.0.label></TM_BloodHD.stages.0.label>
+
+  <TM_RendHD.label>Hemorrhaging</TM_RendHD.label>
+  <TM_RendHD.stages.0.label></TM_RendHD.stages.0.label>
+
+  <TM_BloodForBloodHD.label>Blood Drain</TM_BloodForBloodHD.label>
+  <TM_BloodForBloodHD.stages.0.label></TM_BloodForBloodHD.stages.0.label>
+
+  <TM_BloodShieldHD.label>Blood Shield</TM_BloodShieldHD.label>
+  <TM_BloodShieldHD.stages.0.label></TM_BloodShieldHD.stages.0.label>
+
+
+</LanguageData>

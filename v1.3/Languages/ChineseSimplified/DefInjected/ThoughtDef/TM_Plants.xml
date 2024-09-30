@@ -10,8 +10,11 @@
 
   <!-- Syrrium addiction -->
 
+  <TM_SyrriumWithdrawalTD.stages.1.label>syrrium withdrawal</TM_SyrriumWithdrawalTD.stages.1.label>
+  <TM_SyrriumWithdrawalTD.stages.1.description>My mind feels muddled. With syrrium I was brilliant, I'm sure everyone was impressed with my intellect. That's who I am, I need to have that!</TM_SyrriumWithdrawalTD.stages.1.description>
 
-  <TM_SyrriumWithdrawalTD.stages.0.label>波莫纳糖浆戒断</TM_SyrriumWithdrawalTD.stages.0.label>
-  <TM_SyrriumWithdrawalTD.stages.0.description>我好像有些混乱...等等,再给我来一瓶波莫纳糖浆</TM_SyrriumWithdrawalTD.stages.0.description>
+
+  <!--<TM_SyrriumWithdrawalTD.stages.0.label>波莫纳糖浆戒断</TM_SyrriumWithdrawalTD.stages.0.label>-->
+  <!--<TM_SyrriumWithdrawalTD.stages.0.description>我好像有些混乱...等等,再给我来一瓶波莫纳糖浆</TM_SyrriumWithdrawalTD.stages.0.description>-->
 
 </LanguageData>

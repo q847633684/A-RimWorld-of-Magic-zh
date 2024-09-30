@@ -83,9 +83,7 @@
 
 
   <!-- Shroud of Undead (Shroud of Soulreaper buff) -->
-
-  <TM_ShroudOfUndeathHD.label>亡灵裹尸布</TM_ShroudOfUndeathHD.label>
-  <TM_ShroudOfUndeathHD.description>减少此死灵法师对亡灵的维持费用并增加附近亡灵的移动力和攻击力。</TM_ShroudOfUndeathHD.description>
-
+  <!--<TM_ShroudOfUndeathHD.label>亡灵裹尸布</TM_ShroudOfUndeathHD.label>-->
+  <!--<TM_ShroudOfUndeathHD.description>减少此死灵法师对亡灵的维持费用并增加附近亡灵的移动力和攻击力。</TM_ShroudOfUndeathHD.description>-->
 
 </LanguageData>

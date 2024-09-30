@@ -8,8 +8,6 @@
   <TM_ShadowHD.comps.0.labelSolidTendedWell>已固定</TM_ShadowHD.comps.0.labelSolidTendedWell>
   <TM_ShadowHD.injuryProps.destroyedLabel>枯萎</TM_ShadowHD.injuryProps.destroyedLabel>
   <TM_ShadowHD.injuryProps.destroyedOutLabel>瓦解</TM_ShadowHD.injuryProps.destroyedOutLabel>
-  <TM_ShadowHD.comps.HediffComp_GetsPermanent.permanentLabel>被影子伤害</TM_ShadowHD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_ShadowHD.labelNounPretty>{1} 中的 {0}</TM_ShadowHD.labelNounPretty>
 
   <TM_GravitySlowHD.label>引力陷阱</TM_GravitySlowHD.label>
   <TM_GravitySlowHD.description>受到引力的影响。</TM_GravitySlowHD.description>
@@ -133,5 +131,8 @@
   <TM_DemonScornHD_III.description>恶魔化，增加免伤和伤害。</TM_DemonScornHD_III.description>
   <TM_DemonScornHD_III.stages.0.label>IV</TM_DemonScornHD_III.stages.0.label>
 
+
+  <!--<TM_ShadowHD.comps.HediffComp_GetsPermanent.permanentLabel>被影子伤害</TM_ShadowHD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_ShadowHD.labelNounPretty>{1} 中的 {0}</TM_ShadowHD.labelNounPretty>-->
 
 </LanguageData>

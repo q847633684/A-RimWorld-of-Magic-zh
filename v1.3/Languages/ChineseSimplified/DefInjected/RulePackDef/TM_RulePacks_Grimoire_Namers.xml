@@ -3,197 +3,197 @@
 
   <!-- Grimoires -->
 
-  <TM_Namer_Grimoire.rulePack.rulesStrings.0>title->[titleBasic]</TM_Namer_Grimoire.rulePack.rulesStrings.0>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.1>title(p=2)->[titleAuthored]</TM_Namer_Grimoire.rulePack.rulesStrings.1>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.2>title(p=2)->[titleAuthoredNoSubject]</TM_Namer_Grimoire.rulePack.rulesStrings.2>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.3>title(length_subject_primary[less_than]20,p=4)->[titleAuthoredOneSubject]</TM_Namer_Grimoire.rulePack.rulesStrings.3>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.4>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleBasicTwoSubjects]</TM_Namer_Grimoire.rulePack.rulesStrings.4>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.5>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleAuthoredTwoSubjects]</TM_Namer_Grimoire.rulePack.rulesStrings.5>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.6>titleBasic(p=6)->[TM_randAdjective_Magic] [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.6>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.7>titleBasic(p=6)->[TM_randTopic_Magic] 的 [TM_randNoun_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.7>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.8>titleBasic->[TM_randTopic_Magic] 中的课程</TM_Namer_Grimoire.rulePack.rulesStrings.8>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.9>titleBasic->控制 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.9>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.10>titleBasic->魔术师 [TM_bookType] 至 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.10>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.11>titleBasic->掌握 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.11>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.12>titleBasic->[TM_randTopic_Magic] 的神秘艺术</TM_Namer_Grimoire.rulePack.rulesStrings.12>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.13>titleBasic->[TM_randTopic_Magic] 中的高级技术</TM_Namer_Grimoire.rulePack.rulesStrings.13>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.14>titleBasic->释放 [TM_randTopic_Magic] 的力量</TM_Namer_Grimoire.rulePack.rulesStrings.14>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.15>titleBasic->实用[TM_bookType]到[TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.15>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.16>titleBasic->探索 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.16>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.17>titleBasic->了解 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.17>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.18>titleBasic->[TM_randTopic_Magic] 之旅</TM_Namer_Grimoire.rulePack.rulesStrings.18>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.19>titleBasic->[TM_randTopic_Magic]之道</TM_Namer_Grimoire.rulePack.rulesStrings.19>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.20>titleBasic->洞察 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.20>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.21>titleBasic->解开 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.21>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.22>titleBasic->[TM_randTopic_Magic] 的秘密</TM_Namer_Grimoire.rulePack.rulesStrings.22>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.23>titleBasic->掌握 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.23>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.24>titleBasic->[TM_randTopic_Magic] 古代研究</TM_Namer_Grimoire.rulePack.rulesStrings.24>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.25>titleBasic->[TM_randTopic_Magic] 的奥术 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.25>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.26>titleBasic->[TM_randTopic_Magic] 的星体 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.26>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.27>titleBasic->[TM_randTopic_Magic] 上的魔法师 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.27>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.28>titleBasic->[TM_randTopic_Magic] 的向导 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.28>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.29>titleBasic->[TM_randTopic_Magic] 的古代 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.29>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.30>titleBasic->[TM_randTopic_Magic] 的 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.30>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.31>titleBasic->[TM_randTopic_Magic] 的古代理论</TM_Namer_Grimoire.rulePack.rulesStrings.31>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.32>titleBasic->[TM_randTopic_Magic] 的恐怖研究</TM_Namer_Grimoire.rulePack.rulesStrings.32>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.33>titleBasic->女巫的[TM_bookType] [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.33>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.34>titleBasic->[TM_randTopic_Magic]的隐藏秘密</TM_Namer_Grimoire.rulePack.rulesStrings.34>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.35>titleBasic->[ANYPAWN_nameIndef] 的禁忌之谜</TM_Namer_Grimoire.rulePack.rulesStrings.35>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.36>titleBasic->[ANYPAWN_nameIndef]之书</TM_Namer_Grimoire.rulePack.rulesStrings.36>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.37>titleBasic->[ANYPAWN_nameIndef] 的 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.37>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.38>titleBasic->[ANYPAWN_nameIndef] 的秘密</TM_Namer_Grimoire.rulePack.rulesStrings.38>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.39>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的研究</TM_Namer_Grimoire.rulePack.rulesStrings.39>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.40>titleAuthoredNoSubject->[ANYPAWN_nameIndef]的 [TM_randAdjective_Magic] 研究</TM_Namer_Grimoire.rulePack.rulesStrings.40>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.41>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的思考</TM_Namer_Grimoire.rulePack.rulesStrings.41>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.42>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的遗产</TM_Namer_Grimoire.rulePack.rulesStrings.42>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.43>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的 [TM_randAdjective_Magic] [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.43>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.44>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.44>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.45>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.45>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.46>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的可怕 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.46>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.47>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的遗产</TM_Namer_Grimoire.rulePack.rulesStrings.47>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.48>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的沉思</TM_Namer_Grimoire.rulePack.rulesStrings.48>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.49>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的编年史</TM_Namer_Grimoire.rulePack.rulesStrings.49>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.50>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的秘密</TM_Namer_Grimoire.rulePack.rulesStrings.50>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.51>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [TM_randTopic_Magic] 的见解</TM_Namer_Grimoire.rulePack.rulesStrings.51>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.52>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [TM_randTopic_Magic] 的看法</TM_Namer_Grimoire.rulePack.rulesStrings.52>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.53>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [TM_randTopic_Magic] 的研究</TM_Namer_Grimoire.rulePack.rulesStrings.53>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.54>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [TM_randTopic_Magic] 的研究</TM_Namer_Grimoire.rulePack.rulesStrings.54>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.55>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [TM_randTopic_Magic] 上的 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.55>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.56>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [TM_randTopic_Magic] 上的 [TM_randAdjective_Magic] [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.56>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.57>titleAuthoredOneSubject->[subject_tuple] 上的[ANYPAWN_nameIndef]</TM_Namer_Grimoire.rulePack.rulesStrings.57>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.58>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 的 [TM_bookType] 到 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.58>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.59>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的见解</TM_Namer_Grimoire.rulePack.rulesStrings.59>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.60>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的看法</TM_Namer_Grimoire.rulePack.rulesStrings.60>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.61>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的分析</TM_Namer_Grimoire.rulePack.rulesStrings.61>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.62>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 的 [subject_tuple] 方法</TM_Namer_Grimoire.rulePack.rulesStrings.62>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.63>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [subject_tuple] 中的发现</TM_Namer_Grimoire.rulePack.rulesStrings.63>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.64>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的思考</TM_Namer_Grimoire.rulePack.rulesStrings.64>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.65>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的研究</TM_Namer_Grimoire.rulePack.rulesStrings.65>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.66>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的调查</TM_Namer_Grimoire.rulePack.rulesStrings.66>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.67>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的研究</TM_Namer_Grimoire.rulePack.rulesStrings.67>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.68>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [subject_tuple] 上的 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.68>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.69>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [subject_tuple] 上的 [TM_randAdjective_Magic] [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.69>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.70>titleBasicTwoSubjects->[subjectsTuple]</TM_Namer_Grimoire.rulePack.rulesStrings.70>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.71>titleBasicTwoSubjects->[subject_tuple] 中的课程</TM_Namer_Grimoire.rulePack.rulesStrings.71>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.72>titleBasicTwoSubjects->控制 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.72>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.73>titleBasicTwoSubjects->[subject_tuple] 魔术师指南</TM_Namer_Grimoire.rulePack.rulesStrings.73>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.74>titleBasicTwoSubjects->掌握 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.74>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.75>titleBasicTwoSubjects->[subject_tuple] 的神秘艺术</TM_Namer_Grimoire.rulePack.rulesStrings.75>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.76>titleBasicTwoSubjects->[subject_tuple] 中的高级技术</TM_Namer_Grimoire.rulePack.rulesStrings.76>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.77>titleBasicTwoSubjects->解锁 [subject_tuple] 的力量</TM_Namer_Grimoire.rulePack.rulesStrings.77>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.78>titleBasicTwoSubjects->[subject_tuple]实用指南</TM_Namer_Grimoire.rulePack.rulesStrings.78>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.79>titleBasicTwoSubjects->探索 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.79>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.80>titleBasicTwoSubjects->了解 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.80>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.81>titleBasicTwoSubjects->[subject_tuple] 之旅</TM_Namer_Grimoire.rulePack.rulesStrings.81>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.82>titleBasicTwoSubjects->[subject_tuple]之道</TM_Namer_Grimoire.rulePack.rulesStrings.82>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.83>titleBasicTwoSubjects->[subject_tuple] 见解</TM_Namer_Grimoire.rulePack.rulesStrings.83>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.84>titleBasicTwoSubjects->解开 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.84>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.85>titleBasicTwoSubjects->[subject_tuple] 的秘密</TM_Namer_Grimoire.rulePack.rulesStrings.85>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.86>titleBasicTwoSubjects->掌握 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.86>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.87>titleBasicTwoSubjects->[subject_tuple] 的古代研究</TM_Namer_Grimoire.rulePack.rulesStrings.87>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.88>titleBasicTwoSubjects->[subject_tuple]奥术纲要</TM_Namer_Grimoire.rulePack.rulesStrings.88>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.89>titleBasicTwoSubjects->关于 [subject_tuple] 的巫师论文</TM_Namer_Grimoire.rulePack.rulesStrings.89>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.90>titleBasicTwoSubjects->[subject_tuple]的巫师宝典</TM_Namer_Grimoire.rulePack.rulesStrings.90>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.91>titleBasicTwoSubjects->[subject_tuple] 古书</TM_Namer_Grimoire.rulePack.rulesStrings.91>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.92>titleBasicTwoSubjects->[subject_tuple] 的魔法书</TM_Namer_Grimoire.rulePack.rulesStrings.92>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.93>titleBasicTwoSubjects->关于 [subject_tuple] 的古代理论</TM_Namer_Grimoire.rulePack.rulesStrings.93>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.94>titleBasicTwoSubjects->[subject_tuple] 的恐怖研究</TM_Namer_Grimoire.rulePack.rulesStrings.94>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.95>titleBasicTwoSubjects->女巫的 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.95>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.96>titleBasicTwoSubjects->[subject_tuple] 的隐藏秘密</TM_Namer_Grimoire.rulePack.rulesStrings.96>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.97>subjectsTuple(has_subject_secondary==true,p=6)->[TM_randTopic_Magic] 和 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.97>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.98>subjectsTuple->[TM_randTopic_Magic], [TM_randTopic_Magic], 和 [TM_randTheme_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.98>
-  <TM_Namer_Grimoire.rulePack.rulesStrings.99>subjectsTuple->[TM_randTopic_Magic] 和[TM_randTheme_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.99>
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.0>title->[titleBasic]</TM_Namer_Grimoire.rulePack.rulesStrings.0>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.1>title(p=2)->[titleAuthored]</TM_Namer_Grimoire.rulePack.rulesStrings.1>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.2>title(p=2)->[titleAuthoredNoSubject]</TM_Namer_Grimoire.rulePack.rulesStrings.2>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.3>title(length_subject_primary[less_than]20,p=4)->[titleAuthoredOneSubject]</TM_Namer_Grimoire.rulePack.rulesStrings.3>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.4>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleBasicTwoSubjects]</TM_Namer_Grimoire.rulePack.rulesStrings.4>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.5>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleAuthoredTwoSubjects]</TM_Namer_Grimoire.rulePack.rulesStrings.5>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.6>titleBasic(p=6)->[TM_randAdjective_Magic] [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.6>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.7>titleBasic(p=6)->[TM_randTopic_Magic] 的 [TM_randNoun_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.7>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.8>titleBasic->[TM_randTopic_Magic] 中的课程</TM_Namer_Grimoire.rulePack.rulesStrings.8>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.9>titleBasic->控制 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.9>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.10>titleBasic->魔术师 [TM_bookType] 至 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.10>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.11>titleBasic->掌握 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.11>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.12>titleBasic->[TM_randTopic_Magic] 的神秘艺术</TM_Namer_Grimoire.rulePack.rulesStrings.12>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.13>titleBasic->[TM_randTopic_Magic] 中的高级技术</TM_Namer_Grimoire.rulePack.rulesStrings.13>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.14>titleBasic->释放 [TM_randTopic_Magic] 的力量</TM_Namer_Grimoire.rulePack.rulesStrings.14>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.15>titleBasic->实用[TM_bookType]到[TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.15>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.16>titleBasic->探索 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.16>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.17>titleBasic->了解 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.17>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.18>titleBasic->[TM_randTopic_Magic] 之旅</TM_Namer_Grimoire.rulePack.rulesStrings.18>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.19>titleBasic->[TM_randTopic_Magic]之道</TM_Namer_Grimoire.rulePack.rulesStrings.19>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.20>titleBasic->洞察 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.20>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.21>titleBasic->解开 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.21>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.22>titleBasic->[TM_randTopic_Magic] 的秘密</TM_Namer_Grimoire.rulePack.rulesStrings.22>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.23>titleBasic->掌握 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.23>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.24>titleBasic->[TM_randTopic_Magic] 古代研究</TM_Namer_Grimoire.rulePack.rulesStrings.24>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.25>titleBasic->[TM_randTopic_Magic] 的奥术 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.25>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.26>titleBasic->[TM_randTopic_Magic] 的星体 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.26>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.27>titleBasic->[TM_randTopic_Magic] 上的魔法师 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.27>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.28>titleBasic->[TM_randTopic_Magic] 的向导 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.28>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.29>titleBasic->[TM_randTopic_Magic] 的古代 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.29>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.30>titleBasic->[TM_randTopic_Magic] 的 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.30>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.31>titleBasic->[TM_randTopic_Magic] 的古代理论</TM_Namer_Grimoire.rulePack.rulesStrings.31>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.32>titleBasic->[TM_randTopic_Magic] 的恐怖研究</TM_Namer_Grimoire.rulePack.rulesStrings.32>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.33>titleBasic->女巫的[TM_bookType] [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.33>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.34>titleBasic->[TM_randTopic_Magic]的隐藏秘密</TM_Namer_Grimoire.rulePack.rulesStrings.34>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.35>titleBasic->[ANYPAWN_nameIndef] 的禁忌之谜</TM_Namer_Grimoire.rulePack.rulesStrings.35>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.36>titleBasic->[ANYPAWN_nameIndef]之书</TM_Namer_Grimoire.rulePack.rulesStrings.36>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.37>titleBasic->[ANYPAWN_nameIndef] 的 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.37>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.38>titleBasic->[ANYPAWN_nameIndef] 的秘密</TM_Namer_Grimoire.rulePack.rulesStrings.38>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.39>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的研究</TM_Namer_Grimoire.rulePack.rulesStrings.39>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.40>titleAuthoredNoSubject->[ANYPAWN_nameIndef]的 [TM_randAdjective_Magic] 研究</TM_Namer_Grimoire.rulePack.rulesStrings.40>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.41>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的思考</TM_Namer_Grimoire.rulePack.rulesStrings.41>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.42>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的遗产</TM_Namer_Grimoire.rulePack.rulesStrings.42>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.43>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的 [TM_randAdjective_Magic] [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.43>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.44>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.44>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.45>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.45>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.46>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的可怕 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.46>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.47>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的遗产</TM_Namer_Grimoire.rulePack.rulesStrings.47>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.48>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的沉思</TM_Namer_Grimoire.rulePack.rulesStrings.48>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.49>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的编年史</TM_Namer_Grimoire.rulePack.rulesStrings.49>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.50>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的秘密</TM_Namer_Grimoire.rulePack.rulesStrings.50>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.51>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [TM_randTopic_Magic] 的见解</TM_Namer_Grimoire.rulePack.rulesStrings.51>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.52>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [TM_randTopic_Magic] 的看法</TM_Namer_Grimoire.rulePack.rulesStrings.52>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.53>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [TM_randTopic_Magic] 的研究</TM_Namer_Grimoire.rulePack.rulesStrings.53>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.54>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [TM_randTopic_Magic] 的研究</TM_Namer_Grimoire.rulePack.rulesStrings.54>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.55>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [TM_randTopic_Magic] 上的 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.55>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.56>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [TM_randTopic_Magic] 上的 [TM_randAdjective_Magic] [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.56>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.57>titleAuthoredOneSubject->[subject_tuple] 上的[ANYPAWN_nameIndef]</TM_Namer_Grimoire.rulePack.rulesStrings.57>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.58>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 的 [TM_bookType] 到 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.58>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.59>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的见解</TM_Namer_Grimoire.rulePack.rulesStrings.59>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.60>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的看法</TM_Namer_Grimoire.rulePack.rulesStrings.60>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.61>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的分析</TM_Namer_Grimoire.rulePack.rulesStrings.61>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.62>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 的 [subject_tuple] 方法</TM_Namer_Grimoire.rulePack.rulesStrings.62>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.63>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [subject_tuple] 中的发现</TM_Namer_Grimoire.rulePack.rulesStrings.63>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.64>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的思考</TM_Namer_Grimoire.rulePack.rulesStrings.64>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.65>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的研究</TM_Namer_Grimoire.rulePack.rulesStrings.65>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.66>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的调查</TM_Namer_Grimoire.rulePack.rulesStrings.66>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.67>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的研究</TM_Namer_Grimoire.rulePack.rulesStrings.67>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.68>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [subject_tuple] 上的 [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.68>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.69>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [subject_tuple] 上的 [TM_randAdjective_Magic] [TM_bookType]</TM_Namer_Grimoire.rulePack.rulesStrings.69>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.70>titleBasicTwoSubjects->[subjectsTuple]</TM_Namer_Grimoire.rulePack.rulesStrings.70>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.71>titleBasicTwoSubjects->[subject_tuple] 中的课程</TM_Namer_Grimoire.rulePack.rulesStrings.71>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.72>titleBasicTwoSubjects->控制 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.72>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.73>titleBasicTwoSubjects->[subject_tuple] 魔术师指南</TM_Namer_Grimoire.rulePack.rulesStrings.73>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.74>titleBasicTwoSubjects->掌握 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.74>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.75>titleBasicTwoSubjects->[subject_tuple] 的神秘艺术</TM_Namer_Grimoire.rulePack.rulesStrings.75>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.76>titleBasicTwoSubjects->[subject_tuple] 中的高级技术</TM_Namer_Grimoire.rulePack.rulesStrings.76>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.77>titleBasicTwoSubjects->解锁 [subject_tuple] 的力量</TM_Namer_Grimoire.rulePack.rulesStrings.77>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.78>titleBasicTwoSubjects->[subject_tuple]实用指南</TM_Namer_Grimoire.rulePack.rulesStrings.78>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.79>titleBasicTwoSubjects->探索 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.79>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.80>titleBasicTwoSubjects->了解 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.80>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.81>titleBasicTwoSubjects->[subject_tuple] 之旅</TM_Namer_Grimoire.rulePack.rulesStrings.81>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.82>titleBasicTwoSubjects->[subject_tuple]之道</TM_Namer_Grimoire.rulePack.rulesStrings.82>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.83>titleBasicTwoSubjects->[subject_tuple] 见解</TM_Namer_Grimoire.rulePack.rulesStrings.83>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.84>titleBasicTwoSubjects->解开 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.84>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.85>titleBasicTwoSubjects->[subject_tuple] 的秘密</TM_Namer_Grimoire.rulePack.rulesStrings.85>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.86>titleBasicTwoSubjects->掌握 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.86>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.87>titleBasicTwoSubjects->[subject_tuple] 的古代研究</TM_Namer_Grimoire.rulePack.rulesStrings.87>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.88>titleBasicTwoSubjects->[subject_tuple]奥术纲要</TM_Namer_Grimoire.rulePack.rulesStrings.88>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.89>titleBasicTwoSubjects->关于 [subject_tuple] 的巫师论文</TM_Namer_Grimoire.rulePack.rulesStrings.89>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.90>titleBasicTwoSubjects->[subject_tuple]的巫师宝典</TM_Namer_Grimoire.rulePack.rulesStrings.90>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.91>titleBasicTwoSubjects->[subject_tuple] 古书</TM_Namer_Grimoire.rulePack.rulesStrings.91>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.92>titleBasicTwoSubjects->[subject_tuple] 的魔法书</TM_Namer_Grimoire.rulePack.rulesStrings.92>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.93>titleBasicTwoSubjects->关于 [subject_tuple] 的古代理论</TM_Namer_Grimoire.rulePack.rulesStrings.93>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.94>titleBasicTwoSubjects->[subject_tuple] 的恐怖研究</TM_Namer_Grimoire.rulePack.rulesStrings.94>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.95>titleBasicTwoSubjects->女巫的 [subject_tuple]</TM_Namer_Grimoire.rulePack.rulesStrings.95>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.96>titleBasicTwoSubjects->[subject_tuple] 的隐藏秘密</TM_Namer_Grimoire.rulePack.rulesStrings.96>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.97>subjectsTuple(has_subject_secondary==true,p=6)->[TM_randTopic_Magic] 和 [TM_randTopic_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.97>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.98>subjectsTuple->[TM_randTopic_Magic], [TM_randTopic_Magic], 和 [TM_randTheme_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.98>-->
+  <!--<TM_Namer_Grimoire.rulePack.rulesStrings.99>subjectsTuple->[TM_randTopic_Magic] 和[TM_randTheme_Magic]</TM_Namer_Grimoire.rulePack.rulesStrings.99>-->
 
 
   <!-- Combat Techniques -->
 
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.0>title->[titleBasic]</TM_Namer_CombatTechniques.rulePack.rulesStrings.0>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.1>title(p=2)->[titleAuthored]</TM_Namer_CombatTechniques.rulePack.rulesStrings.1>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.2>title(p=2)->[titleAuthoredNoSubject]</TM_Namer_CombatTechniques.rulePack.rulesStrings.2>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.3>title(length_subject_primary[less_than]20,p=4)->[titleAuthoredOneSubject]</TM_Namer_CombatTechniques.rulePack.rulesStrings.3>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.4>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleBasicTwoSubjects]</TM_Namer_CombatTechniques.rulePack.rulesStrings.4>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.5>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleAuthoredTwoSubjects]</TM_Namer_CombatTechniques.rulePack.rulesStrings.5>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.6>titleBasic(p=6)->[TM_randAdjective_Might] [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.6>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.7>titleBasic(p=6)->[TM_randTopic_Might] 的 [TM_randNoun_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.7>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.8>titleBasic->[TM_randTopic_Might] 中的课程</TM_Namer_CombatTechniques.rulePack.rulesStrings.8>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.9>titleBasic->战士的[TM_teachingType] [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.9>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.10>titleBasic->掌握 [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.10>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.11>titleBasic->[TM_randTopic_Might] 的武术</TM_Namer_CombatTechniques.rulePack.rulesStrings.11>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.12>titleBasic->[TM_randTopic_Might] 中的高级技术</TM_Namer_CombatTechniques.rulePack.rulesStrings.12>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.13>titleBasic->解锁 [TM_randTopic_Might] 的力量</TM_Namer_CombatTechniques.rulePack.rulesStrings.13>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.14>titleBasic->实用 [TM_teachingType] 到 [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.14>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.15>titleBasic->[TM_randTopic_Might]之道</TM_Namer_CombatTechniques.rulePack.rulesStrings.15>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.16>titleBasic->[TM_randTopic_Might] 见解</TM_Namer_CombatTechniques.rulePack.rulesStrings.16>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.17>titleBasic->解开 [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.17>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.18>titleBasic->[TM_randTopic_Might]的秘密</TM_Namer_CombatTechniques.rulePack.rulesStrings.18>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.19>titleBasic->掌握 [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.19>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.20>titleBasic->英雄的 [TM_randTopic_Might] 的 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.20>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.21>titleBasic->军阀的 [TM_randTopic_Might] 的 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.21>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.22>titleBasic->[TM_randTopic_Might] 上的战士 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.22>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.23>titleBasic->[TM_randTopic_Might] 的战士 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.23>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.24>titleBasic->[TM_randTopic_Might]的古代[TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.24>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.25>titleBasic->[TM_randTopic_Might] 的[TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.25>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.26>titleBasic->关于 [TM_randTopic_Might] 的古老理论</TM_Namer_CombatTechniques.rulePack.rulesStrings.26>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.27>titleBasic->战士对[TM_randTopic_Might]的研究</TM_Namer_CombatTechniques.rulePack.rulesStrings.27>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.28>titleBasic->战士的 [TM_teachingType] [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.28>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.29>titleBasic->[TM_randTopic_Might]的隐藏技术</TM_Namer_CombatTechniques.rulePack.rulesStrings.29>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.30>titleBasic->[ANYPAWN_nameIndef] 的禁忌技术</TM_Namer_CombatTechniques.rulePack.rulesStrings.30>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.31>titleBasic->[ANYPAWN_nameIndef] 的生存</TM_Namer_CombatTechniques.rulePack.rulesStrings.31>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.32>titleBasic->[ANYPAWN_nameIndef] 的 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.32>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.33>titleBasic->成为 [ANYPAWN_nameIndef]</TM_Namer_CombatTechniques.rulePack.rulesStrings.33>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.34>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的战斗</TM_Namer_CombatTechniques.rulePack.rulesStrings.34>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.35>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的 [TM_randAdjective_Might] 战斗</TM_Namer_CombatTechniques.rulePack.rulesStrings.35>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.36>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的策略</TM_Namer_CombatTechniques.rulePack.rulesStrings.36>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.37>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的遗产</TM_Namer_CombatTechniques.rulePack.rulesStrings.37>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.38>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的 [TM_randAdjective_Might] [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.38>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.39>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.39>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.40>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.40>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.41>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的武术 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.41>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.42>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的遗产</TM_Namer_CombatTechniques.rulePack.rulesStrings.42>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.43>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的编年史</TM_Namer_CombatTechniques.rulePack.rulesStrings.43>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.44>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的秘密</TM_Namer_CombatTechniques.rulePack.rulesStrings.44>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.45>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [TM_randTopic_Might] 的看法</TM_Namer_CombatTechniques.rulePack.rulesStrings.45>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.46>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [TM_randTopic_Might] 上的 [TM_bteachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.46>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.47>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [TM_randTopic_Might] 上的 [TM_randAdjective_Might] [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.47>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.48>titleAuthoredOneSubject->[subject_tuple] 上的 [ANYPAWN_nameIndef]</TM_Namer_CombatTechniques.rulePack.rulesStrings.48>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.49>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 的 [TM_teachingType] 到 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.49>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.50>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的见解</TM_Namer_CombatTechniques.rulePack.rulesStrings.50>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.51>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的看法</TM_Namer_CombatTechniques.rulePack.rulesStrings.51>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.52>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的分析</TM_Namer_CombatTechniques.rulePack.rulesStrings.52>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.53>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 的 [subject_tuple] 方法</TM_Namer_CombatTechniques.rulePack.rulesStrings.53>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.54>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [subject_tuple] 中的发现</TM_Namer_CombatTechniques.rulePack.rulesStrings.54>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.55>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的思考</TM_Namer_CombatTechniques.rulePack.rulesStrings.55>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.56>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的研究</TM_Namer_CombatTechniques.rulePack.rulesStrings.56>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.57>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的调查</TM_Namer_CombatTechniques.rulePack.rulesStrings.57>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.58>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的研究</TM_Namer_CombatTechniques.rulePack.rulesStrings.58>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.59>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [subject_tuple] 上的 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.59>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.60>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [subject_tuple] 上的 [TM_randAdjective_Might] [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.60>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.61>titleBasicTwoSubjects->[subjectsTuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.61>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.62>titleBasicTwoSubjects->[subject_tuple] 中的课程</TM_Namer_CombatTechniques.rulePack.rulesStrings.62>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.63>titleBasicTwoSubjects->控制 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.63>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.64>titleBasicTwoSubjects->[subject_tuple] 战士指南</TM_Namer_CombatTechniques.rulePack.rulesStrings.64>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.65>titleBasicTwoSubjects->掌握 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.65>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.66>titleBasicTwoSubjects->[subject_tuple] 的武术</TM_Namer_CombatTechniques.rulePack.rulesStrings.66>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.67>titleBasicTwoSubjects->[subject_tuple] 中的高级技术</TM_Namer_CombatTechniques.rulePack.rulesStrings.67>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.68>titleBasicTwoSubjects->解锁 [subject_tuple] 的力量</TM_Namer_CombatTechniques.rulePack.rulesStrings.68>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.69>titleBasicTwoSubjects->[subject_tuple]实用指南</TM_Namer_CombatTechniques.rulePack.rulesStrings.69>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.70>titleBasicTwoSubjects->探索 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.70>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.71>titleBasicTwoSubjects->了解 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.71>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.72>titleBasicTwoSubjects->[subject_tuple] 之旅</TM_Namer_CombatTechniques.rulePack.rulesStrings.72>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.73>titleBasicTwoSubjects->[subject_tuple]之道</TM_Namer_CombatTechniques.rulePack.rulesStrings.73>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.74>titleBasicTwoSubjects->[subject_tuple] 见解</TM_Namer_CombatTechniques.rulePack.rulesStrings.74>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.75>titleBasicTwoSubjects->解开 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.75>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.76>titleBasicTwoSubjects->[subject_tuple] 的秘密</TM_Namer_CombatTechniques.rulePack.rulesStrings.76>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.77>titleBasicTwoSubjects->掌握 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.77>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.78>titleBasicTwoSubjects->关于 [subject_tuple] 的战士论文</TM_Namer_CombatTechniques.rulePack.rulesStrings.78>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.79>titleBasicTwoSubjects->[subject_tuple] 的战士之书</TM_Namer_CombatTechniques.rulePack.rulesStrings.79>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.80>titleBasicTwoSubjects->关于 [subject_tuple] 的古代理论</TM_Namer_CombatTechniques.rulePack.rulesStrings.80>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.81>titleBasicTwoSubjects->战士对 [subject_tuple] 的研究</TM_Namer_CombatTechniques.rulePack.rulesStrings.81>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.82>titleBasicTwoSubjects->战士的 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.82>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.83>titleBasicTwoSubjects->[subject_tuple] 的隐藏秘密</TM_Namer_CombatTechniques.rulePack.rulesStrings.83>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.84>subjectsTuple(has_subject_secondary==true,p=6)->[TM_randTopic_Might] 和 [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.84>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.85>subjectsTuple->[TM_randTopic_Might]、[TM_randTopic_Might] 和 [TM_randTheme_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.85>
-  <TM_Namer_CombatTechniques.rulePack.rulesStrings.86>subjectsTuple->[TM_randTopic_Might] 和 [TM_randTheme_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.86>
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.0>title->[titleBasic]</TM_Namer_CombatTechniques.rulePack.rulesStrings.0>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.1>title(p=2)->[titleAuthored]</TM_Namer_CombatTechniques.rulePack.rulesStrings.1>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.2>title(p=2)->[titleAuthoredNoSubject]</TM_Namer_CombatTechniques.rulePack.rulesStrings.2>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.3>title(length_subject_primary[less_than]20,p=4)->[titleAuthoredOneSubject]</TM_Namer_CombatTechniques.rulePack.rulesStrings.3>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.4>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleBasicTwoSubjects]</TM_Namer_CombatTechniques.rulePack.rulesStrings.4>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.5>title(length_subject_primary[less_than]20,has_subject_secondary==true,length_subject_secondary[less_than]20,p=4)->[titleAuthoredTwoSubjects]</TM_Namer_CombatTechniques.rulePack.rulesStrings.5>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.6>titleBasic(p=6)->[TM_randAdjective_Might] [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.6>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.7>titleBasic(p=6)->[TM_randTopic_Might] 的 [TM_randNoun_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.7>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.8>titleBasic->[TM_randTopic_Might] 中的课程</TM_Namer_CombatTechniques.rulePack.rulesStrings.8>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.9>titleBasic->战士的[TM_teachingType] [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.9>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.10>titleBasic->掌握 [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.10>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.11>titleBasic->[TM_randTopic_Might] 的武术</TM_Namer_CombatTechniques.rulePack.rulesStrings.11>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.12>titleBasic->[TM_randTopic_Might] 中的高级技术</TM_Namer_CombatTechniques.rulePack.rulesStrings.12>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.13>titleBasic->解锁 [TM_randTopic_Might] 的力量</TM_Namer_CombatTechniques.rulePack.rulesStrings.13>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.14>titleBasic->实用 [TM_teachingType] 到 [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.14>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.15>titleBasic->[TM_randTopic_Might]之道</TM_Namer_CombatTechniques.rulePack.rulesStrings.15>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.16>titleBasic->[TM_randTopic_Might] 见解</TM_Namer_CombatTechniques.rulePack.rulesStrings.16>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.17>titleBasic->解开 [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.17>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.18>titleBasic->[TM_randTopic_Might]的秘密</TM_Namer_CombatTechniques.rulePack.rulesStrings.18>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.19>titleBasic->掌握 [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.19>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.20>titleBasic->英雄的 [TM_randTopic_Might] 的 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.20>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.21>titleBasic->军阀的 [TM_randTopic_Might] 的 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.21>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.22>titleBasic->[TM_randTopic_Might] 上的战士 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.22>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.23>titleBasic->[TM_randTopic_Might] 的战士 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.23>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.24>titleBasic->[TM_randTopic_Might]的古代[TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.24>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.25>titleBasic->[TM_randTopic_Might] 的[TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.25>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.26>titleBasic->关于 [TM_randTopic_Might] 的古老理论</TM_Namer_CombatTechniques.rulePack.rulesStrings.26>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.27>titleBasic->战士对[TM_randTopic_Might]的研究</TM_Namer_CombatTechniques.rulePack.rulesStrings.27>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.28>titleBasic->战士的 [TM_teachingType] [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.28>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.29>titleBasic->[TM_randTopic_Might]的隐藏技术</TM_Namer_CombatTechniques.rulePack.rulesStrings.29>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.30>titleBasic->[ANYPAWN_nameIndef] 的禁忌技术</TM_Namer_CombatTechniques.rulePack.rulesStrings.30>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.31>titleBasic->[ANYPAWN_nameIndef] 的生存</TM_Namer_CombatTechniques.rulePack.rulesStrings.31>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.32>titleBasic->[ANYPAWN_nameIndef] 的 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.32>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.33>titleBasic->成为 [ANYPAWN_nameIndef]</TM_Namer_CombatTechniques.rulePack.rulesStrings.33>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.34>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的战斗</TM_Namer_CombatTechniques.rulePack.rulesStrings.34>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.35>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的 [TM_randAdjective_Might] 战斗</TM_Namer_CombatTechniques.rulePack.rulesStrings.35>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.36>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的策略</TM_Namer_CombatTechniques.rulePack.rulesStrings.36>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.37>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的遗产</TM_Namer_CombatTechniques.rulePack.rulesStrings.37>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.38>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的 [TM_randAdjective_Might] [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.38>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.39>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.39>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.40>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.40>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.41>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的武术 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.41>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.42>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的遗产</TM_Namer_CombatTechniques.rulePack.rulesStrings.42>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.43>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的编年史</TM_Namer_CombatTechniques.rulePack.rulesStrings.43>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.44>titleAuthoredNoSubject->[ANYPAWN_nameIndef] 的秘密</TM_Namer_CombatTechniques.rulePack.rulesStrings.44>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.45>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [TM_randTopic_Might] 的看法</TM_Namer_CombatTechniques.rulePack.rulesStrings.45>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.46>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [TM_randTopic_Might] 上的 [TM_bteachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.46>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.47>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [TM_randTopic_Might] 上的 [TM_randAdjective_Might] [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.47>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.48>titleAuthoredOneSubject->[subject_tuple] 上的 [ANYPAWN_nameIndef]</TM_Namer_CombatTechniques.rulePack.rulesStrings.48>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.49>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 的 [TM_teachingType] 到 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.49>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.50>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的见解</TM_Namer_CombatTechniques.rulePack.rulesStrings.50>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.51>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的看法</TM_Namer_CombatTechniques.rulePack.rulesStrings.51>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.52>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的分析</TM_Namer_CombatTechniques.rulePack.rulesStrings.52>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.53>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 的 [subject_tuple] 方法</TM_Namer_CombatTechniques.rulePack.rulesStrings.53>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.54>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [subject_tuple] 中的发现</TM_Namer_CombatTechniques.rulePack.rulesStrings.54>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.55>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的思考</TM_Namer_CombatTechniques.rulePack.rulesStrings.55>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.56>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的研究</TM_Namer_CombatTechniques.rulePack.rulesStrings.56>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.57>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的调查</TM_Namer_CombatTechniques.rulePack.rulesStrings.57>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.58>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 对 [subject_tuple] 的研究</TM_Namer_CombatTechniques.rulePack.rulesStrings.58>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.59>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [subject_tuple] 上的 [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.59>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.60>titleAuthoredOneSubject->[ANYPAWN_nameIndef] 在 [subject_tuple] 上的 [TM_randAdjective_Might] [TM_teachingType]</TM_Namer_CombatTechniques.rulePack.rulesStrings.60>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.61>titleBasicTwoSubjects->[subjectsTuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.61>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.62>titleBasicTwoSubjects->[subject_tuple] 中的课程</TM_Namer_CombatTechniques.rulePack.rulesStrings.62>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.63>titleBasicTwoSubjects->控制 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.63>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.64>titleBasicTwoSubjects->[subject_tuple] 战士指南</TM_Namer_CombatTechniques.rulePack.rulesStrings.64>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.65>titleBasicTwoSubjects->掌握 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.65>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.66>titleBasicTwoSubjects->[subject_tuple] 的武术</TM_Namer_CombatTechniques.rulePack.rulesStrings.66>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.67>titleBasicTwoSubjects->[subject_tuple] 中的高级技术</TM_Namer_CombatTechniques.rulePack.rulesStrings.67>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.68>titleBasicTwoSubjects->解锁 [subject_tuple] 的力量</TM_Namer_CombatTechniques.rulePack.rulesStrings.68>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.69>titleBasicTwoSubjects->[subject_tuple]实用指南</TM_Namer_CombatTechniques.rulePack.rulesStrings.69>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.70>titleBasicTwoSubjects->探索 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.70>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.71>titleBasicTwoSubjects->了解 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.71>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.72>titleBasicTwoSubjects->[subject_tuple] 之旅</TM_Namer_CombatTechniques.rulePack.rulesStrings.72>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.73>titleBasicTwoSubjects->[subject_tuple]之道</TM_Namer_CombatTechniques.rulePack.rulesStrings.73>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.74>titleBasicTwoSubjects->[subject_tuple] 见解</TM_Namer_CombatTechniques.rulePack.rulesStrings.74>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.75>titleBasicTwoSubjects->解开 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.75>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.76>titleBasicTwoSubjects->[subject_tuple] 的秘密</TM_Namer_CombatTechniques.rulePack.rulesStrings.76>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.77>titleBasicTwoSubjects->掌握 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.77>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.78>titleBasicTwoSubjects->关于 [subject_tuple] 的战士论文</TM_Namer_CombatTechniques.rulePack.rulesStrings.78>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.79>titleBasicTwoSubjects->[subject_tuple] 的战士之书</TM_Namer_CombatTechniques.rulePack.rulesStrings.79>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.80>titleBasicTwoSubjects->关于 [subject_tuple] 的古代理论</TM_Namer_CombatTechniques.rulePack.rulesStrings.80>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.81>titleBasicTwoSubjects->战士对 [subject_tuple] 的研究</TM_Namer_CombatTechniques.rulePack.rulesStrings.81>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.82>titleBasicTwoSubjects->战士的 [subject_tuple]</TM_Namer_CombatTechniques.rulePack.rulesStrings.82>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.83>titleBasicTwoSubjects->[subject_tuple] 的隐藏秘密</TM_Namer_CombatTechniques.rulePack.rulesStrings.83>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.84>subjectsTuple(has_subject_secondary==true,p=6)->[TM_randTopic_Might] 和 [TM_randTopic_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.84>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.85>subjectsTuple->[TM_randTopic_Might]、[TM_randTopic_Might] 和 [TM_randTheme_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.85>-->
+  <!--<TM_Namer_CombatTechniques.rulePack.rulesStrings.86>subjectsTuple->[TM_randTopic_Might] 和 [TM_randTheme_Might]</TM_Namer_CombatTechniques.rulePack.rulesStrings.86>-->
 
 
 </LanguageData>

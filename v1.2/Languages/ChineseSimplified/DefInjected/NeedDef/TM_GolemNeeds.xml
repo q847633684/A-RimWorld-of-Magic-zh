@@ -3,11 +3,11 @@
 
   <!-- Golem Needs are added using a harmony patch for matching thing defs -->
 
-  <TM_GolemEnergy.label>能量</TM_GolemEnergy.label>
-  <TM_GolemEnergy.description>傀儡能量等级。</TM_GolemEnergy.description>
+  <!--<TM_GolemEnergy.label>能量</TM_GolemEnergy.label>-->
+  <!--<TM_GolemEnergy.description>傀儡能量等级。</TM_GolemEnergy.description>-->
 
-  <TM_GolemRage.label>愤怒</TM_GolemRage.label>
-  <TM_GolemRage.description>傀儡愤怒等级。</TM_GolemRage.description>
+  <!--<TM_GolemRage.label>愤怒</TM_GolemRage.label>-->
+  <!--<TM_GolemRage.description>傀儡愤怒等级。</TM_GolemRage.description>-->
 
 
 </LanguageData>

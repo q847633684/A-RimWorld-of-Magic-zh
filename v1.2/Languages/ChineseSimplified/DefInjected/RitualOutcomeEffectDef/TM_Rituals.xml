@@ -1,50 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TM_SeverMagic.description>监督时奴隶将会被100%压制。根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}和{MAXMOOD}之间的情绪。</TM_SeverMagic.description>
-  <TM_SeverMagic.outcomeChances.0.label>拙劣</TM_SeverMagic.outcomeChances.0.label>
-  <TM_SeverMagic.outcomeChances.0.description>{0}被弄糟了。法师在恐惧和绝望中进行了报复。</TM_SeverMagic.outcomeChances.0.description>
-  <TM_SeverMagic.outcomeChances.1.label>致命</TM_SeverMagic.outcomeChances.1.label>
-  <TM_SeverMagic.outcomeChances.1.description>{0}是致命的。这个仪式的目的是将法师从魔法中分离出来，而不是杀死法师。</TM_SeverMagic.outcomeChances.1.description>
-  <TM_SeverMagic.outcomeChances.2.label>成功</TM_SeverMagic.outcomeChances.2.label>
-  <TM_SeverMagic.outcomeChances.2.description>{0}成功了。寻虚者有效地斩断了法师与魔法的联系。</TM_SeverMagic.outcomeChances.2.description>
-  <TM_SeverMagic.outcomeChances.3.label>无瑕</TM_SeverMagic.outcomeChances.3.label>
-  <TM_SeverMagic.outcomeChances.3.description>{0}完美无瑕 - 仪式给法师带来了同情和自由。</TM_SeverMagic.outcomeChances.3.description>
-  <TM_SeverMagic.comps.1.label>道德指引者</TM_SeverMagic.comps.1.label>
-  <TM_SeverMagic.comps.2.label>参与者人数</TM_SeverMagic.comps.2.label>
-  <TM_SeverMagic.comps.3.label>从祭坛或表意文字开始</TM_SeverMagic.comps.3.label>
-  <TM_SeverMagic.comps.4.label>房间印象</TM_SeverMagic.comps.4.label>
+  <!--<TM_SeverMagic.description>监督时奴隶将会被100%压制。根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}和{MAXMOOD}之间的情绪。</TM_SeverMagic.description>-->
+  <!--<TM_SeverMagic.outcomeChances.0.label>拙劣</TM_SeverMagic.outcomeChances.0.label>-->
+  <!--<TM_SeverMagic.outcomeChances.0.description>{0}被弄糟了。法师在恐惧和绝望中进行了报复。</TM_SeverMagic.outcomeChances.0.description>-->
+  <!--<TM_SeverMagic.outcomeChances.1.label>致命</TM_SeverMagic.outcomeChances.1.label>-->
+  <!--<TM_SeverMagic.outcomeChances.1.description>{0}是致命的。这个仪式的目的是将法师从魔法中分离出来，而不是杀死法师。</TM_SeverMagic.outcomeChances.1.description>-->
+  <!--<TM_SeverMagic.outcomeChances.2.label>成功</TM_SeverMagic.outcomeChances.2.label>-->
+  <!--<TM_SeverMagic.outcomeChances.2.description>{0}成功了。寻虚者有效地斩断了法师与魔法的联系。</TM_SeverMagic.outcomeChances.2.description>-->
+  <!--<TM_SeverMagic.outcomeChances.3.label>无瑕</TM_SeverMagic.outcomeChances.3.label>-->
+  <!--<TM_SeverMagic.outcomeChances.3.description>{0}完美无瑕 - 仪式给法师带来了同情和自由。</TM_SeverMagic.outcomeChances.3.description>-->
+  <!--<TM_SeverMagic.comps.1.label>道德指引者</TM_SeverMagic.comps.1.label>-->
+  <!--<TM_SeverMagic.comps.2.label>参与者人数</TM_SeverMagic.comps.2.label>-->
+  <!--<TM_SeverMagic.comps.3.label>从祭坛或表意文字开始</TM_SeverMagic.comps.3.label>-->
+  <!--<TM_SeverMagic.comps.4.label>房间印象</TM_SeverMagic.comps.4.label>-->
 
 
   <!-- Bestow Magic -->
 
-  <TM_BestowMagic.description>监督时奴隶将会被100%压制。根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}和{MAXMOOD}之间的情绪。</TM_BestowMagic.description>
-  <TM_BestowMagic.outcomeChances.0.label>失败</TM_BestowMagic.outcomeChances.0.label>
-  <TM_BestowMagic.outcomeChances.0.description>{0}搞砸了。寻虚者无法建立起神秘联系。</TM_BestowMagic.outcomeChances.0.description>
-  <TM_BestowMagic.outcomeChances.1.label>成功</TM_BestowMagic.outcomeChances.1.label>
-  <TM_BestowMagic.outcomeChances.1.description>{0}成功了。寻虚者赐予了魔法的火花。</TM_BestowMagic.outcomeChances.1.description>
-  <TM_BestowMagic.outcomeChances.2.label>创造性的</TM_BestowMagic.outcomeChances.2.label>
-  <TM_BestowMagic.outcomeChances.2.description>{0}完美无瑕——仪式重申了我们的信仰，带来了魔法的礼物，并赋予了灵感。</TM_BestowMagic.outcomeChances.2.description>
-  <TM_BestowMagic.comps.1.label>道德指引者</TM_BestowMagic.comps.1.label>
-  <TM_BestowMagic.comps.2.label>参与者人数</TM_BestowMagic.comps.2.label>
-  <TM_BestowMagic.comps.3.label>从祭坛或表意文字开始</TM_BestowMagic.comps.3.label>
-  <TM_BestowMagic.comps.4.label>房间印象</TM_BestowMagic.comps.4.label>
+  <!--<TM_BestowMagic.description>监督时奴隶将会被100%压制。根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}和{MAXMOOD}之间的情绪。</TM_BestowMagic.description>-->
+  <!--<TM_BestowMagic.outcomeChances.0.label>失败</TM_BestowMagic.outcomeChances.0.label>-->
+  <!--<TM_BestowMagic.outcomeChances.0.description>{0}搞砸了。寻虚者无法建立起神秘联系。</TM_BestowMagic.outcomeChances.0.description>-->
+  <!--<TM_BestowMagic.outcomeChances.1.label>成功</TM_BestowMagic.outcomeChances.1.label>-->
+  <!--<TM_BestowMagic.outcomeChances.1.description>{0}成功了。寻虚者赐予了魔法的火花。</TM_BestowMagic.outcomeChances.1.description>-->
+  <!--<TM_BestowMagic.outcomeChances.2.label>创造性的</TM_BestowMagic.outcomeChances.2.label>-->
+  <!--<TM_BestowMagic.outcomeChances.2.description>{0}完美无瑕——仪式重申了我们的信仰，带来了魔法的礼物，并赋予了灵感。</TM_BestowMagic.outcomeChances.2.description>-->
+  <!--<TM_BestowMagic.comps.1.label>道德指引者</TM_BestowMagic.comps.1.label>-->
+  <!--<TM_BestowMagic.comps.2.label>参与者人数</TM_BestowMagic.comps.2.label>-->
+  <!--<TM_BestowMagic.comps.3.label>从祭坛或表意文字开始</TM_BestowMagic.comps.3.label>-->
+  <!--<TM_BestowMagic.comps.4.label>房间印象</TM_BestowMagic.comps.4.label>-->
 
 
   <!-- Arcane Pathway -->
 
-  <TM_BestowMagicClass.description>监督时奴隶将会被100%压制。根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}和{MAXMOOD}之间的情绪。</TM_BestowMagicClass.description>
-  <TM_BestowMagicClass.outcomeChances.0.label>平淡</TM_BestowMagicClass.outcomeChances.0.label>
-  <TM_BestowMagicClass.outcomeChances.0.description>{0}成功了，但缺乏任何真正的情感或能量。</TM_BestowMagicClass.outcomeChances.0.description>
-  <TM_BestowMagicClass.outcomeChances.1.label>鼓舞人心</TM_BestowMagicClass.outcomeChances.1.label>
-  <TM_BestowMagicClass.outcomeChances.1.description>{0}成功了，一个有天赋的人朝着成为我们殖民地更强大的资产迈出了一大步。</TM_BestowMagicClass.outcomeChances.1.description>
-  <TM_BestowMagicClass.outcomeChances.2.label>启发</TM_BestowMagicClass.outcomeChances.2.label>
-  <TM_BestowMagicClass.outcomeChances.2.description>{0}具有启发性 - 通过神秘和情感能量的壮观景象，殖民地获得了又一位强大的法师。</TM_BestowMagicClass.outcomeChances.2.description>
-  <TM_BestowMagicClass.comps.1.label>道德指引者</TM_BestowMagicClass.comps.1.label>
-  <TM_BestowMagicClass.comps.2.label>参与者人数</TM_BestowMagicClass.comps.2.label>
-  <TM_BestowMagicClass.comps.3.label>从祭坛或表意文字开始</TM_BestowMagicClass.comps.3.label>
-  <TM_BestowMagicClass.comps.4.label>房间印象</TM_BestowMagicClass.comps.4.label>
-  <TM_BestowMagicClass.comps.3.expectedThingLabelTip>祭坛或表意文字</TM_BestowMagicClass.comps.3.expectedThingLabelTip>
+  <!--<TM_BestowMagicClass.description>监督时奴隶将会被100%压制。根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}和{MAXMOOD}之间的情绪。</TM_BestowMagicClass.description>-->
+  <!--<TM_BestowMagicClass.outcomeChances.0.label>平淡</TM_BestowMagicClass.outcomeChances.0.label>-->
+  <!--<TM_BestowMagicClass.outcomeChances.0.description>{0}成功了，但缺乏任何真正的情感或能量。</TM_BestowMagicClass.outcomeChances.0.description>-->
+  <!--<TM_BestowMagicClass.outcomeChances.1.label>鼓舞人心</TM_BestowMagicClass.outcomeChances.1.label>-->
+  <!--<TM_BestowMagicClass.outcomeChances.1.description>{0}成功了，一个有天赋的人朝着成为我们殖民地更强大的资产迈出了一大步。</TM_BestowMagicClass.outcomeChances.1.description>-->
+  <!--<TM_BestowMagicClass.outcomeChances.2.label>启发</TM_BestowMagicClass.outcomeChances.2.label>-->
+  <!--<TM_BestowMagicClass.outcomeChances.2.description>{0}具有启发性 - 通过神秘和情感能量的壮观景象，殖民地获得了又一位强大的法师。</TM_BestowMagicClass.outcomeChances.2.description>-->
+  <!--<TM_BestowMagicClass.comps.1.label>道德指引者</TM_BestowMagicClass.comps.1.label>-->
+  <!--<TM_BestowMagicClass.comps.2.label>参与者人数</TM_BestowMagicClass.comps.2.label>-->
+  <!--<TM_BestowMagicClass.comps.3.label>从祭坛或表意文字开始</TM_BestowMagicClass.comps.3.label>-->
+  <!--<TM_BestowMagicClass.comps.4.label>房间印象</TM_BestowMagicClass.comps.4.label>-->
+  <!--<TM_BestowMagicClass.comps.3.expectedThingLabelTip>祭坛或表意文字</TM_BestowMagicClass.comps.3.expectedThingLabelTip>-->
 
 
 </LanguageData>

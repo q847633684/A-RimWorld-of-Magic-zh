@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TM_Golem_StoneRepair.label>维修部位</TM_Golem_StoneRepair.label>
+  <!--<TM_Golem_StoneRepair.label>维修部位</TM_Golem_StoneRepair.label>-->
 
-  <TM_Golem_StoneMaxEnergy.label>储能</TM_Golem_StoneMaxEnergy.label>
-  <TM_Golem_StoneMaxEnergy.description>将最大能量增加120个水平。开始最大能量为800。</TM_Golem_StoneMaxEnergy.description>
+  <!--<TM_Golem_StoneMaxEnergy.label>储能</TM_Golem_StoneMaxEnergy.label>-->
+  <!--<TM_Golem_StoneMaxEnergy.description>将最大能量增加120个水平。开始最大能量为800。</TM_Golem_StoneMaxEnergy.description>-->
 
-  <TM_Golem_StoneEnergyEfficiency.label>能源效率</TM_Golem_StoneEnergyEfficiency.label>
-  <TM_Golem_StoneEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_StoneEnergyEfficiency.description>
+  <!--<TM_Golem_StoneEnergyEfficiency.label>能源效率</TM_Golem_StoneEnergyEfficiency.label>-->
+  <!--<TM_Golem_StoneEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_StoneEnergyEfficiency.description>-->
 
-  <TM_Golem_StoneEnergyRate.label>能量再生</TM_Golem_StoneEnergyRate.label>
-  <TM_Golem_StoneEnergyRate.description>每个水平的能源充电率提高20％。开始充电率为20能量/小时。</TM_Golem_StoneEnergyRate.description>
+  <!--<TM_Golem_StoneEnergyRate.label>能量再生</TM_Golem_StoneEnergyRate.label>-->
+  <!--<TM_Golem_StoneEnergyRate.description>每个水平的能源充电率提高20％。开始充电率为20能量/小时。</TM_Golem_StoneEnergyRate.description>-->
 
-  <TM_Golem_StoneHardening.label>硬化</TM_Golem_StoneHardening.label>
-  <TM_Golem_StoneHardening.description>增加总体保护：
+  <!--<TM_Golem_StoneHardening.label>硬化</TM_Golem_StoneHardening.label>-->
+  <!--<TM_Golem_StoneHardening.description>增加总体保护：
 钝器： +[4,8,12]％
 利器:	+[11,22,33]%
-热能:	+[6,12,18]%</TM_Golem_StoneHardening.description>
+热能:	+[6,12,18]%</TM_Golem_StoneHardening.description>-->
 
-  <TM_Golem_StoneCompactor.label>石材压实器</TM_Golem_StoneCompactor.label>
-  <TM_Golem_StoneCompactor.description>允许魔像将石块块粉碎成可用的砖块的能力。在将石块沉积到魔像之后，此过程自行发生，并要求魔像处于处于休眠状态。</TM_Golem_StoneCompactor.description>
+  <!--<TM_Golem_StoneCompactor.label>石材压实器</TM_Golem_StoneCompactor.label>-->
+  <!--<TM_Golem_StoneCompactor.description>允许魔像将石块块粉碎成可用的砖块的能力。在将石块沉积到魔像之后，此过程自行发生，并要求魔像处于处于休眠状态。</TM_Golem_StoneCompactor.description>-->
 
-  <TM_Golem_StoneToBricks.label>制作</TM_Golem_StoneToBricks.label>
-  <TM_Golem_StoneToBricks.description>随着时间的流逝，将石头摇晃转换为砖头</TM_Golem_StoneToBricks.description>
+  <!--<TM_Golem_StoneToBricks.label>制作</TM_Golem_StoneToBricks.label>-->
+  <!--<TM_Golem_StoneToBricks.description>随着时间的流逝，将石头摇晃转换为砖头</TM_Golem_StoneToBricks.description>-->
 
-  <TM_Golem_StoneLifeStage.label>重构</TM_Golem_StoneLifeStage.label>
-  <TM_Golem_StoneLifeStage.description>增加统计数据：
+  <!--<TM_Golem_StoneLifeStage.label>重构</TM_Golem_StoneLifeStage.label>-->
+  <!--<TM_Golem_StoneLifeStage.description>增加统计数据：
 移动速度:	+[20%/35%/50%]
-生命值:		+[40%/70%/100%]</TM_Golem_StoneLifeStage.description>
+生命值:		+[40%/70%/100%]</TM_Golem_StoneLifeStage.description>-->
 
 
 </LanguageData>

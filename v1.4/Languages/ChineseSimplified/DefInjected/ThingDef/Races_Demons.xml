@@ -8,11 +8,10 @@
   <TM_DemonR.tools.0.label>左爪</TM_DemonR.tools.0.label>
   <TM_DemonR.tools.1.label>右爪</TM_DemonR.tools.1.label>
   <TM_DemonR.tools.2.label>蹄</TM_DemonR.tools.2.label>
-  <TM_DemonR.race.meatLabel>恶魔之肉</TM_DemonR.race.meatLabel>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_DemonR.label>恶魔尸体</Corpse_TM_DemonR.label>
-  <Corpse_TM_DemonR.description>恶魔尸体</Corpse_TM_DemonR.description>
+  <TM_DemonR_Corpse.label>Demon corpse</TM_DemonR_Corpse.label>
+  <TM_DemonR_Corpse.description>Demon corpse</TM_DemonR_Corpse.description>
 
 
   <!-- demon special attack manuevers -->
@@ -22,11 +21,17 @@
   <TM_LesserDemonR.tools.0.label>左爪</TM_LesserDemonR.tools.0.label>
   <TM_LesserDemonR.tools.1.label>右爪</TM_LesserDemonR.tools.1.label>
   <TM_LesserDemonR.tools.2.label>蹄</TM_LesserDemonR.tools.2.label>
-  <TM_LesserDemonR.race.meatLabel>恶魔之肉</TM_LesserDemonR.race.meatLabel>
   <!-- No Leather: Butcher Products -->
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_LesserDemonR.label>小恶魔尸体</Corpse_TM_LesserDemonR.label>
-  <Corpse_TM_LesserDemonR.description>小恶魔尸体</Corpse_TM_LesserDemonR.description>
+  <TM_LesserDemonR_Corpse.label>Lesser Demon corpse</TM_LesserDemonR_Corpse.label>
+  <TM_LesserDemonR_Corpse.description>Lesser Demon corpse</TM_LesserDemonR_Corpse.description>
 
+
+  <!--<TM_DemonR.race.meatLabel>恶魔之肉</TM_DemonR.race.meatLabel>-->
+  <!--<Corpse_TM_DemonR.label>恶魔尸体</Corpse_TM_DemonR.label>-->
+  <!--<Corpse_TM_DemonR.description>恶魔尸体</Corpse_TM_DemonR.description>-->
+  <!--<TM_LesserDemonR.race.meatLabel>恶魔之肉</TM_LesserDemonR.race.meatLabel>-->
+  <!--<Corpse_TM_LesserDemonR.label>小恶魔尸体</Corpse_TM_LesserDemonR.label>-->
+  <!--<Corpse_TM_LesserDemonR.description>小恶魔尸体</Corpse_TM_LesserDemonR.description>-->
 
 </LanguageData>

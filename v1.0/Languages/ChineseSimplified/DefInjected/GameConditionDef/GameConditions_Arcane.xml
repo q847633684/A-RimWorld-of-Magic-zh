@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ManaDrain.label>mana drain</ManaDrain.label>
+  <ManaDrain.description>The planet's celestial alignment is causing an ebb in mana.  All creatures attuned with magical powers will slowly lose power.</ManaDrain.description>
+  <ManaDrain.endMessage>Magic is returning to normal.</ManaDrain.endMessage>
+
+  <ManaSurge.label>mana surge</ManaSurge.label>
+  <ManaSurge.description>The planet's celestial alignment is causing a surge in mana.  All creatures attuned with magical powers will gain mana at an increased rate.</ManaSurge.description>
+  <ManaSurge.endMessage>Magic is returning to normal.</ManaSurge.endMessage>
+
+  <ElementalAssault.label>elemental assault</ElementalAssault.label>
+  <ElementalAssault.description>Hostile elementals have created a breach into your world and are preparing to send assault teams through the rift!\n\nRifts cause mayhem in the atmosphere as energy leaks through the rift into your world. The following effects occur for each rift element:\n\nFire Rift: meteor showers and heat waves.\nEarth Rift: toxic fumes and causes animals to go berserk\nIce Rift: hailstorms and rapid decline in temperature\nAir Rift: lightning storms</ElementalAssault.description>
+  <ElementalAssault.endMessage>The rift has closed.</ElementalAssault.endMessage>
+
+  <WanderingLich.label>Wandering lich</WanderingLich.label>
+  <WanderingLich.description>An ancient lich has wandered into the area and is preparing to assault your colony.\n\nLichs are powerful creatures by themselves, but their true strength resides in their ability to create animated undead from the corpses of the deceased.\n\nThis lich is an ancient being that despises all life, and your merry band of living -things- has so far resisted being snuffed out. It will actively seek to end your story of survival by creating a horde of undead to overwhelm your defenses.\n\nThe lich will periodically create new skeleton warriors to attack the colony; allowing the lich to complete a ritual near an exposed corpse will increase the chance skeleton giants are created. Ultimately, the lich will assault the colony itself, if waves of undead are unable to complete the task first.</WanderingLich.description>
+  <WanderingLich.endMessage>The lich's assault it ending.</WanderingLich.endMessage>
+
+  <DarkClouds.label>dark clouds</DarkClouds.label>
+  <DarkClouds.description>A foreboding shadow has been cast over the land; there is an ominous presence in the dark shadow of these clouds that curses the living.</DarkClouds.description>
+  <DarkClouds.endMessage>The dark clouds are dispersing.</DarkClouds.endMessage>
+
+  <DarkThunderstorm.label>Violent Storm</DarkThunderstorm.label>
+  <DarkThunderstorm.description>There is a malicious energy hidden within these dark clouds.</DarkThunderstorm.description>
+  <DarkThunderstorm.endMessage>The violent thunderstorm is receding.</DarkThunderstorm.endMessage>
+
+
+</LanguageData>

@@ -8,11 +8,19 @@
   <TM_Dire_WolfR.tools.0.label>左爪</TM_Dire_WolfR.tools.0.label>
   <TM_Dire_WolfR.tools.1.label>右爪</TM_Dire_WolfR.tools.1.label>
   <TM_Dire_WolfR.tools.3.label>头</TM_Dire_WolfR.tools.3.label>
-  <TM_Dire_WolfR.race.meatLabel>狼肉</TM_Dire_WolfR.race.meatLabel>
-  <Meat_TM_Dire_WolfR.label>狼肉</Meat_TM_Dire_WolfR.label>
-  <Meat_TM_Dire_WolfR.description>狼肉</Meat_TM_Dire_WolfR.description>
-  <Corpse_TM_Dire_WolfR.label>冰原狼尸体</Corpse_TM_Dire_WolfR.label>
-  <Corpse_TM_Dire_WolfR.description>冰原狼尸体</Corpse_TM_Dire_WolfR.description>
+  <TM_Dire_WolfR_Leather.label>dire wolf leather</TM_Dire_WolfR_Leather.label>
+  <TM_Dire_WolfR_Leather.description>dire wolf leather</TM_Dire_WolfR_Leather.description>
+  <TM_Dire_WolfR_Leather.stuffProps.stuffAdjective>dire wolf leather</TM_Dire_WolfR_Leather.stuffProps.stuffAdjective>
+  <TM_Dire_WolfR_Meat.label>wolfmeat</TM_Dire_WolfR_Meat.label>
+  <TM_Dire_WolfR_Meat.description>wolfmeat</TM_Dire_WolfR_Meat.description>
+  <TM_Dire_WolfR_Corpse.label>dire wolf corpse</TM_Dire_WolfR_Corpse.label>
+  <TM_Dire_WolfR_Corpse.description>dire wolf corpse</TM_Dire_WolfR_Corpse.description>
 
+
+  <!--<TM_Dire_WolfR.race.meatLabel>狼肉</TM_Dire_WolfR.race.meatLabel>-->
+  <!--<Meat_TM_Dire_WolfR.label>狼肉</Meat_TM_Dire_WolfR.label>-->
+  <!--<Meat_TM_Dire_WolfR.description>狼肉</Meat_TM_Dire_WolfR.description>-->
+  <!--<Corpse_TM_Dire_WolfR.label>冰原狼尸体</Corpse_TM_Dire_WolfR.label>-->
+  <!--<Corpse_TM_Dire_WolfR.description>冰原狼尸体</Corpse_TM_Dire_WolfR.description>-->
 
 </LanguageData>

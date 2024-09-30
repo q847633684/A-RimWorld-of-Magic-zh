@@ -11,8 +11,6 @@
   <TM_PsionicInjuryHD.comps.0.labelSolidTendedWell>已固定</TM_PsionicInjuryHD.comps.0.labelSolidTendedWell>
   <TM_PsionicInjuryHD.injuryProps.destroyedLabel>爆发</TM_PsionicInjuryHD.injuryProps.destroyedLabel>
   <TM_PsionicInjuryHD.injuryProps.destroyedOutLabel>爆炸</TM_PsionicInjuryHD.injuryProps.destroyedOutLabel>
-  <TM_PsionicInjuryHD.comps.HediffComp_GetsPermanent.permanentLabel>被灵能摧毁</TM_PsionicInjuryHD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_PsionicInjuryHD.labelNounPretty>{1} 中的 {0}</TM_PsionicInjuryHD.labelNounPretty>
 
   <TM_PsionicSpeedHD.label>灵能加速</TM_PsionicSpeedHD.label>
   <TM_PsionicSpeedHD.description>通过灵能来强化移动能力。</TM_PsionicSpeedHD.description>
@@ -46,5 +44,8 @@
   <TM_PsionicManipulationHD_III.description>通过灵能增强身体机能。</TM_PsionicManipulationHD_III.description>
   <TM_PsionicManipulationHD_III.stages.0.label>IV</TM_PsionicManipulationHD_III.stages.0.label>
 
+
+  <!--<TM_PsionicInjuryHD.comps.HediffComp_GetsPermanent.permanentLabel>被灵能摧毁</TM_PsionicInjuryHD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_PsionicInjuryHD.labelNounPretty>{1} 中的 {0}</TM_PsionicInjuryHD.labelNounPretty>-->
 
 </LanguageData>

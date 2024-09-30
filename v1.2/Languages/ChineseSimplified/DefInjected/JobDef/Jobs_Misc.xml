@@ -18,7 +18,8 @@
   <JobDriver_TM_Command.reportString>激励殖民者</JobDriver_TM_Command.reportString>
   <JobDriver_GotoAndCast.reportString>做魔法工作</JobDriver_GotoAndCast.reportString>
   <JobDriver_Discord.reportString>演凑“纪声”</JobDriver_Discord.reportString>
-  <JobDriver_SpiritDrain.reportString>摄取灵魂</JobDriver_SpiritDrain.reportString>
 
+
+  <!--<JobDriver_SpiritDrain.reportString>摄取灵魂</JobDriver_SpiritDrain.reportString>-->
 
 </LanguageData>

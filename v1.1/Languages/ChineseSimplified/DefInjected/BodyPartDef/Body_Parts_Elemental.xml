@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ele_Body.label>body</Ele_Body.label>
+  <Ele_Head.label>head</Ele_Head.label>
+  <Ele_Skull.label>skull</Ele_Skull.label>
+  <Ele_Brain.label>brain</Ele_Brain.label>
+  <Ele_Heart.label>heart</Ele_Heart.label>
+  <Ele_LeftArm.label>left arm</Ele_LeftArm.label>
+  <Ele_RightArm.label>right arm</Ele_RightArm.label>
+  <Ele_Horn.label>horn</Ele_Horn.label>
+  <Ele_Eye.label>eye</Ele_Eye.label>
+  <Ele_LeftEar.label>left ear</Ele_LeftEar.label>
+  <Ele_RightEar.label>right ear</Ele_RightEar.label>
+  <Ele_Jaw.label>jaw</Ele_Jaw.label>
+  <Ele_Neck.label>neck</Ele_Neck.label>
+  <Ele_Spine.label>spine</Ele_Spine.label>
+  <Ele_Abdomen.label>abdomen</Ele_Abdomen.label>
+  <Ele_Chest.label>chest</Ele_Chest.label>
+  <Ele_Base.label>elemental movement base</Ele_Base.label>
+
+
+</LanguageData>

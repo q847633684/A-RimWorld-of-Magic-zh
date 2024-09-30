@@ -3,31 +3,31 @@
 
   <!-- Silk Golem upgrade recipes -->
 
-  <TM_SilkGolem_RepairBlock.label>零件修复</TM_SilkGolem_RepairBlock.label>
-  <TM_SilkGolem_RepairBlock.description>替换不需要升级的缺失魔像部件。</TM_SilkGolem_RepairBlock.description>
-  <TM_SilkGolem_RepairBlock.jobString>制作傀儡零件</TM_SilkGolem_RepairBlock.jobString>
+  <!--<TM_SilkGolem_RepairBlock.label>零件修复</TM_SilkGolem_RepairBlock.label>-->
+  <!--<TM_SilkGolem_RepairBlock.description>替换不需要升级的缺失魔像部件。</TM_SilkGolem_RepairBlock.description>-->
+  <!--<TM_SilkGolem_RepairBlock.jobString>制作傀儡零件</TM_SilkGolem_RepairBlock.jobString>-->
 
-  <TM_SilkGolem_EnergyMax.label>能量电池</TM_SilkGolem_EnergyMax.label>
-  <TM_SilkGolem_EnergyMax.description>创建一个能量单元，每个单元的最大能量增加 100。</TM_SilkGolem_EnergyMax.description>
-  <TM_SilkGolem_EnergyMax.jobString>创建能量单元</TM_SilkGolem_EnergyMax.jobString>
+  <!--<TM_SilkGolem_EnergyMax.label>能量电池</TM_SilkGolem_EnergyMax.label>-->
+  <!--<TM_SilkGolem_EnergyMax.description>创建一个能量单元，每个单元的最大能量增加 100。</TM_SilkGolem_EnergyMax.description>-->
+  <!--<TM_SilkGolem_EnergyMax.jobString>创建能量单元</TM_SilkGolem_EnergyMax.jobString>-->
 
-  <TM_SilkGolem_EnergyConverter.label>能量转换器</TM_SilkGolem_EnergyConverter.label>
-  <TM_SilkGolem_EnergyConverter.description>魔像吸收和使用能量的效率提高8%。</TM_SilkGolem_EnergyConverter.description>
-  <TM_SilkGolem_EnergyConverter.jobString>构建能量转换器</TM_SilkGolem_EnergyConverter.jobString>
+  <!--<TM_SilkGolem_EnergyConverter.label>能量转换器</TM_SilkGolem_EnergyConverter.label>-->
+  <!--<TM_SilkGolem_EnergyConverter.description>魔像吸收和使用能量的效率提高8%。</TM_SilkGolem_EnergyConverter.description>-->
+  <!--<TM_SilkGolem_EnergyConverter.jobString>构建能量转换器</TM_SilkGolem_EnergyConverter.jobString>-->
 
-  <TM_SilkGolem_EnergyRegen.label>能量发生器</TM_SilkGolem_EnergyRegen.label>
-  <TM_SilkGolem_EnergyRegen.description>傀儡能量回复率提高10%。</TM_SilkGolem_EnergyRegen.description>
-  <TM_SilkGolem_EnergyRegen.jobString>构建能量发生器</TM_SilkGolem_EnergyRegen.jobString>
+  <!--<TM_SilkGolem_EnergyRegen.label>能量发生器</TM_SilkGolem_EnergyRegen.label>-->
+  <!--<TM_SilkGolem_EnergyRegen.description>傀儡能量回复率提高10%。</TM_SilkGolem_EnergyRegen.description>-->
+  <!--<TM_SilkGolem_EnergyRegen.jobString>构建能量发生器</TM_SilkGolem_EnergyRegen.jobString>-->
 
-  <TM_SilkGolem_LifeStage.label>框架层</TM_SilkGolem_LifeStage.label>
-  <TM_SilkGolem_LifeStage.description>每个级别都会改进和细化魔像的框架 [1,2,3]：
+  <!--<TM_SilkGolem_LifeStage.label>框架层</TM_SilkGolem_LifeStage.label>-->
+  <!--<TM_SilkGolem_LifeStage.description>每个级别都会改进和细化魔像的框架 [1,2,3]：
 移动：+[20/30/40]%
-生命值：+[20/40/60]%</TM_SilkGolem_LifeStage.description>
-  <TM_SilkGolem_LifeStage.jobString>改善傀儡框架</TM_SilkGolem_LifeStage.jobString>
+生命值：+[20/40/60]%</TM_SilkGolem_LifeStage.description>-->
+  <!--<TM_SilkGolem_LifeStage.jobString>改善傀儡框架</TM_SilkGolem_LifeStage.jobString>-->
 
-  <TM_SilkGolem_Skills.label>技能</TM_SilkGolem_Skills.label>
-  <TM_SilkGolem_Skills.description>丝绸傀儡提高1个技能点的看守质量。</TM_SilkGolem_Skills.description>
-  <TM_SilkGolem_Skills.jobString>制作傀儡升级</TM_SilkGolem_Skills.jobString>
+  <!--<TM_SilkGolem_Skills.label>技能</TM_SilkGolem_Skills.label>-->
+  <!--<TM_SilkGolem_Skills.description>丝绸傀儡提高1个技能点的看守质量。</TM_SilkGolem_Skills.description>-->
+  <!--<TM_SilkGolem_Skills.jobString>制作傀儡升级</TM_SilkGolem_Skills.jobString>-->
 
 
 </LanguageData>

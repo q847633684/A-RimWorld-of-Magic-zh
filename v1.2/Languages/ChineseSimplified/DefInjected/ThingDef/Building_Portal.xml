@@ -3,15 +3,18 @@
 
   <TM_Portal.label>传送门</TM_Portal.label>
   <TM_Portal.description>通过传送门可以瞬间旅行到任意一个地方。</TM_Portal.description>
-  <Blueprint_TM_Portal.label>传送门(蓝图)</Blueprint_TM_Portal.label>
-  <Frame_TM_Portal.label>传送门 (建筑)</Frame_TM_Portal.label>
-  <Frame_TM_Portal.description>两个传送门之间的即时旅行。</Frame_TM_Portal.description>
+  <TM_Portal_Blueprint.label>Portal (blueprint)</TM_Portal_Blueprint.label>
+  <TM_Portal_Frame.label>Portal (building)</TM_Portal_Frame.label>
+  <TM_Portal_Frame.description>Instant travel between two portals.</TM_Portal_Frame.description>
 
   <TM_ElementalRift.label>元素裂隙</TM_ElementalRift.label>
   <TM_ElementalRift.description>裂隙由凶猛的元素生物们造成。</TM_ElementalRift.description>
 
-  <TM_ElementalRift_Defenders.label>元素裂缝</TM_ElementalRift_Defenders.label>
-  <TM_ElementalRift_Defenders.description>裂隙由寻虚者造成。</TM_ElementalRift_Defenders.description>
 
+  <!--<Blueprint_TM_Portal.label>传送门(蓝图)</Blueprint_TM_Portal.label>-->
+  <!--<Frame_TM_Portal.label>传送门 (建筑)</Frame_TM_Portal.label>-->
+  <!--<Frame_TM_Portal.description>两个传送门之间的即时旅行。</Frame_TM_Portal.description>-->
+  <!--<TM_ElementalRift_Defenders.label>元素裂缝</TM_ElementalRift_Defenders.label>-->
+  <!--<TM_ElementalRift_Defenders.description>裂隙由寻虚者造成。</TM_ElementalRift_Defenders.description>-->
 
 </LanguageData>

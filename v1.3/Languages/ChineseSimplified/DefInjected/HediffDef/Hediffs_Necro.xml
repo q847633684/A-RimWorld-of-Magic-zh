@@ -35,8 +35,6 @@
   <TM_TormentHD.comps.0.labelSolidTendedWell>已固定</TM_TormentHD.comps.0.labelSolidTendedWell>
   <TM_TormentHD.injuryProps.destroyedLabel>熔化</TM_TormentHD.injuryProps.destroyedLabel>
   <TM_TormentHD.injuryProps.destroyedOutLabel>融化</TM_TormentHD.injuryProps.destroyedOutLabel>
-  <TM_TormentHD.comps.HediffComp_GetsPermanent.permanentLabel>烂</TM_TormentHD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_TormentHD.labelNounPretty>{1} 中的 {0}</TM_TormentHD.labelNounPretty>
 
   <TM_DeathBoltHD.label>死亡螺旋</TM_DeathBoltHD.label>
   <TM_DeathBoltHD.description>杀死所有生物的破坏性能量。</TM_DeathBoltHD.description>
@@ -45,8 +43,6 @@
   <TM_DeathBoltHD.comps.0.labelSolidTendedWell>已固定</TM_DeathBoltHD.comps.0.labelSolidTendedWell>
   <TM_DeathBoltHD.injuryProps.destroyedLabel>融化掉</TM_DeathBoltHD.injuryProps.destroyedLabel>
   <TM_DeathBoltHD.injuryProps.destroyedOutLabel>融化</TM_DeathBoltHD.injuryProps.destroyedOutLabel>
-  <TM_DeathBoltHD.comps.HediffComp_GetsPermanent.permanentLabel>融化了</TM_DeathBoltHD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_DeathBoltHD.labelNounPretty>{1} 中的 {0}</TM_DeathBoltHD.labelNounPretty>
 
   <TM_Torment_HD.label>饱受折磨</TM_Torment_HD.label>
   <TM_Torment_HD.description>被黑魔法折磨得痛苦不堪。</TM_Torment_HD.description>
@@ -71,5 +67,10 @@
   <TM_SlaggedHD.stages.1.label>II</TM_SlaggedHD.stages.1.label>
   <TM_SlaggedHD.stages.2.label>III</TM_SlaggedHD.stages.2.label>
 
+
+  <!--<TM_TormentHD.comps.HediffComp_GetsPermanent.permanentLabel>烂</TM_TormentHD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_TormentHD.labelNounPretty>{1} 中的 {0}</TM_TormentHD.labelNounPretty>-->
+  <!--<TM_DeathBoltHD.comps.HediffComp_GetsPermanent.permanentLabel>融化了</TM_DeathBoltHD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_DeathBoltHD.labelNounPretty>{1} 中的 {0}</TM_DeathBoltHD.labelNounPretty>-->
 
 </LanguageData>

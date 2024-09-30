@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- special attack manuevers -->
+
+  <TM_SkeletonLich.label>skeleton lich</TM_SkeletonLich.label>
+  <TM_SkeletonLich.labelPlural>skeleton lichs</TM_SkeletonLich.labelPlural>
+  <TM_SkeletonLich.lifeStages.0.label>skeleton lich</TM_SkeletonLich.lifeStages.0.label>
+  <TM_SkeletonLich.lifeStages.0.labelPlural>skeletal lich</TM_SkeletonLich.lifeStages.0.labelPlural>
+
+  <TM_GiantSkeleton.label>giant skeleton</TM_GiantSkeleton.label>
+  <TM_GiantSkeleton.labelPlural>giant skeletons</TM_GiantSkeleton.labelPlural>
+  <TM_GiantSkeleton.lifeStages.0.label>giant skeleton</TM_GiantSkeleton.lifeStages.0.label>
+  <TM_GiantSkeleton.lifeStages.0.labelPlural>skeletal</TM_GiantSkeleton.lifeStages.0.labelPlural>
+
+  <TM_Skeleton.label>skeleton</TM_Skeleton.label>
+  <TM_Skeleton.labelPlural>skeletons</TM_Skeleton.labelPlural>
+  <TM_Skeleton.lifeStages.0.label>skeleton</TM_Skeleton.lifeStages.0.label>
+  <TM_Skeleton.lifeStages.0.labelPlural>skeletal</TM_Skeleton.lifeStages.0.labelPlural>
+
+
+</LanguageData>

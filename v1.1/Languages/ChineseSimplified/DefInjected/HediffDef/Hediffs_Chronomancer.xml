@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_AccelerateTimeHD.label>Aging</TM_AccelerateTimeHD.label>
+  <TM_AccelerateTimeHD.description>Rapidly ages a pawn. Any other conditions affecting the pawn will also accelerate their natural tendencies. Pawns aged beyond their typical lifespan are frequently beset by age related illnesses or conditions.</TM_AccelerateTimeHD.description>
+  <TM_AccelerateTimeHD.stages.0.label>I</TM_AccelerateTimeHD.stages.0.label>
+  <TM_AccelerateTimeHD.stages.1.label>II</TM_AccelerateTimeHD.stages.1.label>
+  <TM_AccelerateTimeHD.stages.2.label>III</TM_AccelerateTimeHD.stages.2.label>
+  <TM_AccelerateTimeHD.stages.3.label>IV</TM_AccelerateTimeHD.stages.3.label>
+
+  <TM_ReverseTimeBadHD.label>Reverse Aging</TM_ReverseTimeBadHD.label>
+  <TM_ReverseTimeBadHD.description>Rapidly reverses the age of a pawn. Any other conditions affecting the pawn will also reverse their natural tendencies. Conditions reversed beyond the point in time that they were acquired will cease to exist. Pawns reversed before the point int time that they were spawned will also cease to exist.</TM_ReverseTimeBadHD.description>
+  <TM_ReverseTimeBadHD.stages.0.label>I</TM_ReverseTimeBadHD.stages.0.label>
+  <TM_ReverseTimeBadHD.stages.1.label>II</TM_ReverseTimeBadHD.stages.1.label>
+  <TM_ReverseTimeBadHD.stages.2.label>III</TM_ReverseTimeBadHD.stages.2.label>
+  <TM_ReverseTimeBadHD.stages.3.label>IV</TM_ReverseTimeBadHD.stages.3.label>
+
+  <TM_ReverseTimeHD.label>Reverse Aging</TM_ReverseTimeHD.label>
+  <TM_ReverseTimeHD.description>Rapidly reverses the age of a pawn. Any other conditions affecting the pawn will also reverse their natural tendencies. Conditions reversed beyond the point in time that they were acquired will cease to exist. Pawns reversed before the point int time that they were spawned will also cease to exist.</TM_ReverseTimeHD.description>
+  <TM_ReverseTimeHD.stages.0.label>I</TM_ReverseTimeHD.stages.0.label>
+  <TM_ReverseTimeHD.stages.1.label>II</TM_ReverseTimeHD.stages.1.label>
+  <TM_ReverseTimeHD.stages.2.label>III</TM_ReverseTimeHD.stages.2.label>
+  <TM_ReverseTimeHD.stages.3.label>IV</TM_ReverseTimeHD.stages.3.label>
+
+  <TM_PredictionHD.label>Prediction</TM_PredictionHD.label>
+  <TM_PredictionHD.description>Allows the prediction of future events or actions.
+	
+	Admin note: this ability predicts and delays any event. Some mods use these types of events as triggers for effects or outcomes, this can cause errors if the situation changes and certain objects, items, or conditions are no longer valid when a predicted event occurs.</TM_PredictionHD.description>
+  <TM_PredictionHD.stages.0.label>I</TM_PredictionHD.stages.0.label>
+  <TM_PredictionHD.stages.1.label>II</TM_PredictionHD.stages.1.label>
+  <TM_PredictionHD.stages.2.label>III</TM_PredictionHD.stages.2.label>
+  <TM_PredictionHD.stages.3.label>IV</TM_PredictionHD.stages.3.label>
+  <TM_PredictionHD.stages.4.label>V</TM_PredictionHD.stages.4.label>
+  <TM_PredictionHD.stages.5.label>VI</TM_PredictionHD.stages.5.label>
+
+
+</LanguageData>

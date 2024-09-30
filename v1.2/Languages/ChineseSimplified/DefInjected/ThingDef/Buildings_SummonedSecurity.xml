@@ -19,22 +19,13 @@
   <TM_ManaMine_III.label>魔法地雷</TM_ManaMine_III.label>
   <TM_ManaMine_III.description>将魔力与物质压缩造成极强的爆炸. 心灵之蔓的力量会从地雷中扩展; 当一个受害者惊扰到这些心灵之蔓， 它将会瓦解领域内的一切并触发地雷。4.7米 爆炸半径。</TM_ManaMine_III.description>
 
-
-  <!-- Level 0 -->
-
   <DefensePylon.label>魔法防御塔</DefensePylon.label>
   <DefensePylon.description>一个魔法防御塔. 通过魔法能量局限化来组建一个底座， 然后将奥术能量聚集于焦点发射爆炸能量射线。</DefensePylon.description>
 
   <Launcher_DefensePylon.label>能量焦点</Launcher_DefensePylon.label>
   <Launcher_DefensePylon.description>奥术防御塔的焦点， 可以收集和发射爆炸魔法能量射线。</Launcher_DefensePylon.description>
-  <Launcher_DefensePylon.verbs.Verb_ShootCE.label>能量焦点</Launcher_DefensePylon.verbs.Verb_ShootCE.label>
-  <Launcher_DefensePylon_I.verbs.Verb_ShootCE.label>能量焦点I</Launcher_DefensePylon_I.verbs.Verb_ShootCE.label>
-  <Launcher_DefensePylon_II.verbs.Verb_ShootCE.label>能量焦点II</Launcher_DefensePylon_II.verbs.Verb_ShootCE.label>
-  <Launcher_DefensePylon_III.verbs.Verb_ShootCE.label>能量焦点III</Launcher_DefensePylon_III.verbs.Verb_ShootCE.label>
+
   <Bullet_DefensePylon.label>魔法能量聚集</Bullet_DefensePylon.label>
-
-
-  <!-- Level 1 -->
 
   <DefensePylon_I.label>魔法防御塔 (I)</DefensePylon_I.label>
   <DefensePylon_I.description>一个魔法防御塔. 通过魔法能量局限化来组建一个底座， 然后将奥术能量聚集于焦点发射爆炸能量射线。</DefensePylon_I.description>
@@ -42,17 +33,11 @@
   <Launcher_DefensePylon_I.label>能量焦点</Launcher_DefensePylon_I.label>
   <Launcher_DefensePylon_I.description>量聚集于焦点发射爆奥术防御塔的焦点， 可以收集和发射爆炸魔法能量射线。</Launcher_DefensePylon_I.description>
 
-
-  <!-- Level 2 -->
-
   <DefensePylon_II.label>魔法防御塔 (II)</DefensePylon_II.label>
   <DefensePylon_II.description>一个魔法防御塔. 通过魔法能量局限化来组建一个底座， 然后将奥术能量聚集于焦点发射爆炸能量射线。</DefensePylon_II.description>
 
   <Launcher_DefensePylon_II.label>能量焦点</Launcher_DefensePylon_II.label>
   <Launcher_DefensePylon_II.description>量聚集于焦点发射爆奥术防御塔的焦点， 可以收集和发射爆炸魔法能量射线。</Launcher_DefensePylon_II.description>
-
-
-  <!-- Level 3 -->
 
   <DefensePylon_III.label>魔法防御塔 (III)</DefensePylon_III.label>
   <DefensePylon_III.description>魔法防御塔. 通过魔法能量局限化来组建一个底座， 然后将奥术能量聚集于焦点发射爆炸能量射线。</DefensePylon_III.description>
@@ -82,13 +67,13 @@
 
   <Gun_Mark-IV.label>Mark-IV武器系统</Gun_Mark-IV.label>
   <Gun_Mark-IV.description>Mark-IV 武器系统枪管和射击控制。</Gun_Mark-IV.description>
-  <Gun_Mark-IV.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV.verbs.Verb_ShootCE.label>
+
   <Gun_Mark-IV_RL.label>Mark-IV武器系统</Gun_Mark-IV_RL.label>
   <Gun_Mark-IV_RL.description>Mark-IV 武器系统枪管和射击控制。</Gun_Mark-IV_RL.description>
-  <Gun_Mark-IV_RL.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV_RL.verbs.Verb_ShootCE.label>
+
   <Gun_Mark-IV_RL_MTR.label>Mark-IV武器系统</Gun_Mark-IV_RL_MTR.label>
   <Gun_Mark-IV_RL_MTR.description>Mark-IV 武器系统枪管和射击控制。</Gun_Mark-IV_RL_MTR.description>
-  <Gun_Mark-IV_RL_MTR.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV_RL_MTR.verbs.Verb_ShootCE.label>
+
   <FlyingObject_RocketSmall.label>小型火箭</FlyingObject_RocketSmall.label>
   <Bullet_Shell_TechnoTurretExplosive.label>氦壳</Bullet_Shell_TechnoTurretExplosive.label>
 
@@ -119,5 +104,18 @@
 
   <TM_EarthTotem.label>大地图腾</TM_EarthTotem.label>
   <TM_EarthTotem.description>一种萨满图腾，用对称的雕刻装饰，散发出团结的感觉。图腾与大地的联系使它能够引起地震波，使附近的敌人眩晕。</TM_EarthTotem.description>
+
+
+  <!-- Level 0 -->
+  <!--<Launcher_DefensePylon.verbs.Verb_ShootCE.label>能量焦点</Launcher_DefensePylon.verbs.Verb_ShootCE.label>-->
+  <!--<Launcher_DefensePylon_I.verbs.Verb_ShootCE.label>能量焦点I</Launcher_DefensePylon_I.verbs.Verb_ShootCE.label>-->
+  <!--<Launcher_DefensePylon_II.verbs.Verb_ShootCE.label>能量焦点II</Launcher_DefensePylon_II.verbs.Verb_ShootCE.label>-->
+  <!--<Launcher_DefensePylon_III.verbs.Verb_ShootCE.label>能量焦点III</Launcher_DefensePylon_III.verbs.Verb_ShootCE.label>-->
+  <!-- Level 1 -->
+  <!-- Level 2 -->
+  <!-- Level 3 -->
+  <!--<Gun_Mark-IV.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV.verbs.Verb_ShootCE.label>-->
+  <!--<Gun_Mark-IV_RL.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV_RL.verbs.Verb_ShootCE.label>-->
+  <!--<Gun_Mark-IV_RL_MTR.verbs.Verb_ShootCE.label>Mark-IV 武器系统</Gun_Mark-IV_RL_MTR.verbs.Verb_ShootCE.label>-->
 
 </LanguageData>

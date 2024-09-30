@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Firestorm_Large.label>firestorm (large)</TM_Firestorm_Large.label>
+  <TM_Firestorm_Small.label>firestorm (small)</TM_Firestorm_Small.label>
+  <TM_Firestorm_Tiny.label>firestorm (tiny)</TM_Firestorm_Tiny.label>
+  <TM_Blizzard_Tiny.label>blizzard(tiny)</TM_Blizzard_Tiny.label>
+  <TM_Blizzard_Small.label>blizzard(small)</TM_Blizzard_Small.label>
+  <TM_Blizzard_Large.label>Blizzard (large)</TM_Blizzard_Large.label>
+  <TM_ArrowStorm.label>arrow storm</TM_ArrowStorm.label>
+  <TM_ScornLeaving.label>scorn leaving</TM_ScornLeaving.label>
+  <TM_ScornIncoming.label>scorn incoming</TM_ScornIncoming.label>
+  <TM_Meteorite.label>meteorite</TM_Meteorite.label>
+  <TM_Meteorite_I.label>meteorite</TM_Meteorite_I.label>
+  <TM_Meteorite_II.label>meteorite</TM_Meteorite_II.label>
+  <TM_Meteorite_III.label>meteorite</TM_Meteorite_III.label>
+
+
+</LanguageData>

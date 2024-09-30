@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Totems -->
+
+  <TM_Totems.label>Totems</TM_Totems.label>
+  <TM_Totems.description>Totems are a form of magic that anchors an elemental spirit to the physical world and allows it to influence objects near the totem. This ability increases control over all types of totems.</TM_Totems.description>
+
+
+  <!-- Chain Lightning -->
+
+  <TM_ChainLightning.label>Chain Lightning</TM_ChainLightning.label>
+  <TM_ChainLightning.description>Bolt of lightning that forks after striking its first target.</TM_ChainLightning.description>
+
+
+  <!-- Enrage -->
+
+  <TM_Enrage.label>Enrage</TM_Enrage.label>
+  <TM_Enrage.description>Enrage
+
+Max targets: 4
+Radius: 3
+Range: 36
+Cast time: 3s</TM_Enrage.description>
+
+
+  <!-- Hex -->
+
+  <TM_Hex.label>Hex</TM_Hex.label>
+  <TM_Hex.description>Hex
+
+Max targets: 4
+Radius: 3
+Range: 36
+Cast time: 3s</TM_Hex.description>
+
+
+  <!-- Spirit Wolves -->
+
+  <TM_SpiritWolves.label>Spirit Wolves</TM_SpiritWolves.label>
+  <TM_SpiritWolves.description>Calls a pack of spirit wolves into battle.</TM_SpiritWolves.description>
+
+  <TM_SpiritWolves_I.label>Spirit Wolves (I)</TM_SpiritWolves_I.label>
+  <TM_SpiritWolves_I.description>Calls a pack of spirit wolves into battle.</TM_SpiritWolves_I.description>
+
+  <TM_SpiritWolves_II.label>Spirit Wolves (II)</TM_SpiritWolves_II.label>
+  <TM_SpiritWolves_II.description>Calls a pack of spirit wolves into battle.</TM_SpiritWolves_II.description>
+
+  <TM_SpiritWolves_III.label>Spirit Wolves (III)</TM_SpiritWolves_III.label>
+  <TM_SpiritWolves_III.description>Calls a pack of spirit wolves into battle.</TM_SpiritWolves_III.description>
+
+
+  <!-- Guardian Spirit -->
+
+  <TM_GuardianSpirit.label>Guardian Spirit</TM_GuardianSpirit.label>
+  <TM_GuardianSpirit.description>Summons a guardian spirit for a limited duration.</TM_GuardianSpirit.description>
+
+  <TM_DismissGuardianSpirit.label>Dismiss Guardian Spirit</TM_DismissGuardianSpirit.label>
+  <TM_DismissGuardianSpirit.description>All guardian spirits maintained by this pawn return to the spirit realm.</TM_DismissGuardianSpirit.description>
+
+
+</LanguageData>

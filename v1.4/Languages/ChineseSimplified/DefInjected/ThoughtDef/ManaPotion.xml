@@ -7,7 +7,11 @@
 
   <!-- Mana potion addiction -->
 
-  <ManaPotionWithdrawal.stages.0.label>法力流失</ManaPotionWithdrawal.stages.0.label>
-  <ManaPotionWithdrawal.stages.0.description>额啊... 一切都是如此的模糊. 我似乎连自己的身体都无法掌控了, 我感觉我正与现实世界分离,我需要集中一万分的精力才能感受到体内的法力。</ManaPotionWithdrawal.stages.0.description>
+  <ManaPotionWithdrawal.stages.1.label>mana withdrawal</ManaPotionWithdrawal.stages.1.label>
+  <ManaPotionWithdrawal.stages.1.description>Ugh... everything is a blur. I can't seem to focus or control my body, I feel separated from reality. I need to feel mana flowing into my soul.</ManaPotionWithdrawal.stages.1.description>
+
+
+  <!--<ManaPotionWithdrawal.stages.0.label>法力流失</ManaPotionWithdrawal.stages.0.label>-->
+  <!--<ManaPotionWithdrawal.stages.0.description>额啊... 一切都是如此的模糊. 我似乎连自己的身体都无法掌控了, 我感觉我正与现实世界分离,我需要集中一万分的精力才能感受到体内的法力。</ManaPotionWithdrawal.stages.0.description>-->
 
 </LanguageData>

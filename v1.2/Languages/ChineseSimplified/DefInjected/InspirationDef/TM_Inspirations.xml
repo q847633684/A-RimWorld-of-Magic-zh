@@ -43,11 +43,11 @@
   <ID_Enlightened.baseInspectLine>灵感：启发</ID_Enlightened.baseInspectLine>
   <ID_Enlightened.beginLetterLabel>灵感：启发</ID_Enlightened.beginLetterLabel>
 
-  <ID_ArcanePathways.label>神秘之路</ID_ArcanePathways.label>
-  <ID_ArcanePathways.beginLetter>{0}看到了一个神秘天赋的幻象。[PAWN_pronoun]可以在寻虚者的帮助下获得{1}的力量。这个仪式必须在两天内完成，否则灵感就会丢失。</ID_ArcanePathways.beginLetter>
-  <ID_ArcanePathways.endMessage>{0}无法再通过灵感到达{1}的神秘之路。</ID_ArcanePathways.endMessage>
-  <ID_ArcanePathways.baseInspectLine>灵感：神秘之路</ID_ArcanePathways.baseInspectLine>
-  <ID_ArcanePathways.beginLetterLabel>灵感：神秘之路</ID_ArcanePathways.beginLetterLabel>
 
+  <!--<ID_ArcanePathways.label>神秘之路</ID_ArcanePathways.label>-->
+  <!--<ID_ArcanePathways.beginLetter>{0}看到了一个神秘天赋的幻象。[PAWN_pronoun]可以在寻虚者的帮助下获得{1}的力量。这个仪式必须在两天内完成，否则灵感就会丢失。</ID_ArcanePathways.beginLetter>-->
+  <!--<ID_ArcanePathways.endMessage>{0}无法再通过灵感到达{1}的神秘之路。</ID_ArcanePathways.endMessage>-->
+  <!--<ID_ArcanePathways.baseInspectLine>灵感：神秘之路</ID_ArcanePathways.baseInspectLine>-->
+  <!--<ID_ArcanePathways.beginLetterLabel>灵感：神秘之路</ID_ArcanePathways.beginLetterLabel>-->
 
 </LanguageData>

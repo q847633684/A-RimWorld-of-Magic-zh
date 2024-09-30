@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_EnrageHD.label>Enrage</TM_EnrageHD.label>
+  <TM_EnrageHD.description>Transforms a pawn into a nearly unstoppable, berserk monster. Enrage enhances melee; ranged weapons will be discarded.</TM_EnrageHD.description>
+  <TM_EnrageHD.stages.0.label></TM_EnrageHD.stages.0.label>
+
+  <TM_HexHD.label>Hexed</TM_HexHD.label>
+  <TM_HexHD.description>Under the effects of a hex.</TM_HexHD.description>
+  <TM_HexHD.stages.0.label></TM_HexHD.stages.0.label>
+
+
+</LanguageData>

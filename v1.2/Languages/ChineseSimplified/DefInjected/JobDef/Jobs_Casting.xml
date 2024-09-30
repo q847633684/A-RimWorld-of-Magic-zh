@@ -3,7 +3,8 @@
 
   <TMCastAbilityVerb.reportString>施法</TMCastAbilityVerb.reportString>
   <TMCastAbilitySelf.reportString>施法</TMCastAbilitySelf.reportString>
-  <TMCastIdeoAbility.reportString>做一些事情</TMCastIdeoAbility.reportString>
 
+
+  <!--<TMCastIdeoAbility.reportString>做一些事情</TMCastIdeoAbility.reportString>-->
 
 </LanguageData>

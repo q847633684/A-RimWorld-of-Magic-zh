@@ -8,10 +8,16 @@
   <TM_SpiritWolfR.tools.0.label>左爪</TM_SpiritWolfR.tools.0.label>
   <TM_SpiritWolfR.tools.1.label>右爪</TM_SpiritWolfR.tools.1.label>
   <TM_SpiritWolfR.tools.3.label>头</TM_SpiritWolfR.tools.3.label>
-  <TM_SpiritWolfR.race.meatLabel>肉</TM_SpiritWolfR.race.meatLabel>
+  <TM_SpiritWolfR_Leather.label>spirit wolf leather</TM_SpiritWolfR_Leather.label>
+  <TM_SpiritWolfR_Leather.description>spirit wolf leather</TM_SpiritWolfR_Leather.description>
+  <TM_SpiritWolfR_Leather.stuffProps.stuffAdjective>spirit wolf leather</TM_SpiritWolfR_Leather.stuffProps.stuffAdjective>
   <!-- Meat Amount: 0 -->
-  <Corpse_TM_SpiritWolfR.label>幽灵狼尸体</Corpse_TM_SpiritWolfR.label>
-  <Corpse_TM_SpiritWolfR.description>幽灵狼尸体</Corpse_TM_SpiritWolfR.description>
+  <TM_SpiritWolfR_Corpse.label>spirit wolf corpse</TM_SpiritWolfR_Corpse.label>
+  <TM_SpiritWolfR_Corpse.description>spirit wolf corpse</TM_SpiritWolfR_Corpse.description>
 
+
+  <!--<TM_SpiritWolfR.race.meatLabel>肉</TM_SpiritWolfR.race.meatLabel>-->
+  <!--<Corpse_TM_SpiritWolfR.label>幽灵狼尸体</Corpse_TM_SpiritWolfR.label>-->
+  <!--<Corpse_TM_SpiritWolfR.description>幽灵狼尸体</Corpse_TM_SpiritWolfR.description>-->
 
 </LanguageData>

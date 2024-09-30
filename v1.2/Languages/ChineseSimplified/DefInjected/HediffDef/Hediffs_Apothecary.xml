@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TM_ApothecaryHerbsHD.label>药剂师草药</TM_ApothecaryHerbsHD.label>
-  <TM_ApothecaryHerbsHD.description>药剂师用来调制各种物品的药草、种子和其他什么东西。</TM_ApothecaryHerbsHD.description>
-  <TM_ApothecaryHerbsHD.stages.0.label></TM_ApothecaryHerbsHD.stages.0.label>
+  <!--<TM_ApothecaryHerbsHD.label>药剂师草药</TM_ApothecaryHerbsHD.label>-->
+  <!--<TM_ApothecaryHerbsHD.description>药剂师用来调制各种物品的药草、种子和其他什么东西。</TM_ApothecaryHerbsHD.description>-->
+  <!--<TM_ApothecaryHerbsHD.stages.0.label></TM_ApothecaryHerbsHD.stages.0.label>-->
 
-  <TM_HerbalElixirHD.label>草药：回生丹</TM_HerbalElixirHD.label>
-  <TM_HerbalElixirHD.description>回生丹，可以促进身体再生和抵抗疾病；还可以改善心情，减少疲劳。</TM_HerbalElixirHD.description>
-  <TM_HerbalElixirHD.stages.0.label>衰退</TM_HerbalElixirHD.stages.0.label>
-  <TM_HerbalElixirHD.stages.1.label>活跃</TM_HerbalElixirHD.stages.1.label>
-  <TM_HerbalElixirHD.stages.2.label>浓厚</TM_HerbalElixirHD.stages.2.label>
+  <!--<TM_HerbalElixirHD.label>草药：回生丹</TM_HerbalElixirHD.label>-->
+  <!--<TM_HerbalElixirHD.description>回生丹，可以促进身体再生和抵抗疾病；还可以改善心情，减少疲劳。</TM_HerbalElixirHD.description>-->
+  <!--<TM_HerbalElixirHD.stages.0.label>衰退</TM_HerbalElixirHD.stages.0.label>-->
+  <!--<TM_HerbalElixirHD.stages.1.label>活跃</TM_HerbalElixirHD.stages.1.label>-->
+  <!--<TM_HerbalElixirHD.stages.2.label>浓厚</TM_HerbalElixirHD.stages.2.label>-->
 
-  <TM_SoothingBalmHD.label>舒缓药膏</TM_SoothingBalmHD.label>
-  <TM_SoothingBalmHD.description>用于止血、愈合伤口和减轻疼痛的只对局部作用的药膏。舒缓药膏作为一种温和的麻醉剂，会降低患者的意识。</TM_SoothingBalmHD.description>
+  <!--<TM_SoothingBalmHD.label>舒缓药膏</TM_SoothingBalmHD.label>-->
+  <!--<TM_SoothingBalmHD.description>用于止血、愈合伤口和减轻疼痛的只对局部作用的药膏。舒缓药膏作为一种温和的麻醉剂，会降低患者的意识。</TM_SoothingBalmHD.description>-->
 
-  <TM_HerbalClarityHD.label>清醒剂</TM_HerbalClarityHD.label>
-  <TM_HerbalClarityHD.description>调配一种混合药物，帮助食用者挖掘自身的秘能。</TM_HerbalClarityHD.description>
-  <TM_HerbalClarityHD.stages.0.label>衰退</TM_HerbalClarityHD.stages.0.label>
-  <TM_HerbalClarityHD.stages.1.label>活跃</TM_HerbalClarityHD.stages.1.label>
-  <TM_HerbalClarityHD.stages.2.label>浓厚</TM_HerbalClarityHD.stages.2.label>
+  <!--<TM_HerbalClarityHD.label>清醒剂</TM_HerbalClarityHD.label>-->
+  <!--<TM_HerbalClarityHD.description>调配一种混合药物，帮助食用者挖掘自身的秘能。</TM_HerbalClarityHD.description>-->
+  <!--<TM_HerbalClarityHD.stages.0.label>衰退</TM_HerbalClarityHD.stages.0.label>-->
+  <!--<TM_HerbalClarityHD.stages.1.label>活跃</TM_HerbalClarityHD.stages.1.label>-->
+  <!--<TM_HerbalClarityHD.stages.2.label>浓厚</TM_HerbalClarityHD.stages.2.label>-->
 
-  <TM_HerbalBlissHD.label>“极乐”</TM_HerbalBlissHD.label>
-  <TM_HerbalBlissHD.description>让使用者到达极乐状态的混合药剂，能够几乎完全掩盖情绪和痛苦。这种药物会使使用者慢慢流逝已学习的技能，在药物作用下其学习能力受到严重抑制。</TM_HerbalBlissHD.description>
-  <TM_HerbalBlissHD.stages.0.label></TM_HerbalBlissHD.stages.0.label>
+  <!--<TM_HerbalBlissHD.label>“极乐”</TM_HerbalBlissHD.label>-->
+  <!--<TM_HerbalBlissHD.description>让使用者到达极乐状态的混合药剂，能够几乎完全掩盖情绪和痛苦。这种药物会使使用者慢慢流逝已学习的技能，在药物作用下其学习能力受到严重抑制。</TM_HerbalBlissHD.description>-->
+  <!--<TM_HerbalBlissHD.stages.0.label></TM_HerbalBlissHD.stages.0.label>-->
 
 
 </LanguageData>

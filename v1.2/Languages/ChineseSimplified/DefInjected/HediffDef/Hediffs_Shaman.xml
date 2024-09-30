@@ -20,8 +20,6 @@
   <TM_PainHD.comps.0.labelSolidTendedWell>已固定</TM_PainHD.comps.0.labelSolidTendedWell>
   <TM_PainHD.injuryProps.destroyedLabel>已幻灭</TM_PainHD.injuryProps.destroyedLabel>
   <TM_PainHD.injuryProps.destroyedOutLabel>已幻灭</TM_PainHD.injuryProps.destroyedOutLabel>
-  <TM_PainHD.comps.HediffComp_GetsPermanent.permanentLabel>withered</TM_PainHD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_PainHD.labelNounPretty>{1} 中的 {0}</TM_PainHD.labelNounPretty>
 
   <TM_Hex_CriticalFailHD.label>不幸</TM_Hex_CriticalFailHD.label>
   <TM_Hex_CriticalFailHD.description>被危险的厄运所诅咒。</TM_Hex_CriticalFailHD.description>
@@ -52,5 +50,8 @@
   <TM_BirdflightHD.stages.0.label></TM_BirdflightHD.stages.0.label>
   <TM_BirdflightHD.stages.1.label></TM_BirdflightHD.stages.1.label>
 
+
+  <!--<TM_PainHD.comps.HediffComp_GetsPermanent.permanentLabel>withered</TM_PainHD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_PainHD.labelNounPretty>{1} 中的 {0}</TM_PainHD.labelNounPretty>-->
 
 </LanguageData>

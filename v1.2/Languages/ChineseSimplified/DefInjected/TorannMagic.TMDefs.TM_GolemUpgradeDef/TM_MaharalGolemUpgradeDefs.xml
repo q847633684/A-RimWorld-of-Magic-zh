@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TM_Golem_MaharalRepair.label>维修部位</TM_Golem_MaharalRepair.label>
+  <!--<TM_Golem_MaharalRepair.label>维修部位</TM_Golem_MaharalRepair.label>-->
 
-  <TM_Golem_MaharalMaxEnergy.label>能量核心</TM_Golem_MaharalMaxEnergy.label>
-  <TM_Golem_MaharalMaxEnergy.description>将最大能量增加100级。开始最大能量为800。</TM_Golem_MaharalMaxEnergy.description>
+  <!--<TM_Golem_MaharalMaxEnergy.label>能量核心</TM_Golem_MaharalMaxEnergy.label>-->
+  <!--<TM_Golem_MaharalMaxEnergy.description>将最大能量增加100级。开始最大能量为800。</TM_Golem_MaharalMaxEnergy.description>-->
 
-  <TM_Golem_MaharalEnergyEfficiency.label>能源效率</TM_Golem_MaharalEnergyEfficiency.label>
-  <TM_Golem_MaharalEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_MaharalEnergyEfficiency.description>
+  <!--<TM_Golem_MaharalEnergyEfficiency.label>能源效率</TM_Golem_MaharalEnergyEfficiency.label>-->
+  <!--<TM_Golem_MaharalEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_MaharalEnergyEfficiency.description>-->
 
-  <TM_Golem_MaharalEnergyRate.label>能量再生</TM_Golem_MaharalEnergyRate.label>
-  <TM_Golem_MaharalEnergyRate.description>每个水平的能源充电率提高20％。开始充电率为30能量/小时。</TM_Golem_MaharalEnergyRate.description>
+  <!--<TM_Golem_MaharalEnergyRate.label>能量再生</TM_Golem_MaharalEnergyRate.label>-->
+  <!--<TM_Golem_MaharalEnergyRate.description>每个水平的能源充电率提高20％。开始充电率为30能量/小时。</TM_Golem_MaharalEnergyRate.description>-->
 
-  <TM_Golem_MaharalArmor.label>盔甲</TM_Golem_MaharalArmor.label>
-  <TM_Golem_MaharalArmor.description>增加总体保护：
+  <!--<TM_Golem_MaharalArmor.label>盔甲</TM_Golem_MaharalArmor.label>-->
+  <!--<TM_Golem_MaharalArmor.description>增加总体保护：
 钝器:	+[9,16,21]%
 利器:	+[13,22,29]%
-热能:	+[8,14,18]%</TM_Golem_MaharalArmor.description>
+热能:	+[8,14,18]%</TM_Golem_MaharalArmor.description>-->
 
-  <TM_Golem_MaharalPower.label>能源</TM_Golem_MaharalPower.label>
-  <TM_Golem_MaharalPower.description>使傀儡在休眠时产生过多的功率。</TM_Golem_MaharalPower.description>
+  <!--<TM_Golem_MaharalPower.label>能源</TM_Golem_MaharalPower.label>-->
+  <!--<TM_Golem_MaharalPower.description>使傀儡在休眠时产生过多的功率。</TM_Golem_MaharalPower.description>-->
 
-  <TM_Golem_MaharalHeat.label>热</TM_Golem_MaharalHeat.label>
-  <TM_Golem_MaharalHeat.description>使魔像在休眠时产生热量的能力。</TM_Golem_MaharalHeat.description>
+  <!--<TM_Golem_MaharalHeat.label>热</TM_Golem_MaharalHeat.label>-->
+  <!--<TM_Golem_MaharalHeat.description>使魔像在休眠时产生热量的能力。</TM_Golem_MaharalHeat.description>-->
 
-  <TM_Golem_MaharalLifeStage.label>重构</TM_Golem_MaharalLifeStage.label>
-  <TM_Golem_MaharalLifeStage.description>增加傀儡的性能：：
+  <!--<TM_Golem_MaharalLifeStage.label>重构</TM_Golem_MaharalLifeStage.label>-->
+  <!--<TM_Golem_MaharalLifeStage.description>增加傀儡的性能：：
 移动速度:	+[20%/30%/40%]
-生命:		+[20%/40%/50%]</TM_Golem_MaharalLifeStage.description>
+生命:		+[20%/40%/50%]</TM_Golem_MaharalLifeStage.description>-->
 
 
 </LanguageData>

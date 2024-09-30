@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_ProvisionerAuraHD.label>Provisioner Aura</TM_ProvisionerAuraHD.label>
+  <TM_ProvisionerAuraHD.description>Improves the availability of provisions for nearby pawns.</TM_ProvisionerAuraHD.description>
+  <TM_ProvisionerAuraHD.stages.0.label></TM_ProvisionerAuraHD.stages.0.label>
+
+  <TM_TaskMasterAuraHD.label>Task Master Aura</TM_TaskMasterAuraHD.label>
+  <TM_TaskMasterAuraHD.description>Manages the tasks and priorities of nearby pawns, increasing diligence but reduces mood.</TM_TaskMasterAuraHD.description>
+  <TM_TaskMasterAuraHD.stages.0.label></TM_TaskMasterAuraHD.stages.0.label>
+
+  <TM_CommanderAuraHD.label>Commander Aura</TM_CommanderAuraHD.label>
+  <TM_CommanderAuraHD.description>Inspires nearby pawns with charisma and leadership.</TM_CommanderAuraHD.description>
+  <TM_CommanderAuraHD.stages.0.label></TM_CommanderAuraHD.stages.0.label>
+
+  <TM_StayAlertHD.label>Alert</TM_StayAlertHD.label>
+  <TM_StayAlertHD.description>Received an order to invigorate alert levels.</TM_StayAlertHD.description>
+  <TM_StayAlertHD.stages.0.label></TM_StayAlertHD.stages.0.label>
+
+  <TM_MoveOutHD.label>Double Time</TM_MoveOutHD.label>
+  <TM_MoveOutHD.description>Received an order to move quickly.</TM_MoveOutHD.description>
+  <TM_MoveOutHD.stages.0.label>Recovering</TM_MoveOutHD.stages.0.label>
+  <TM_MoveOutHD.stages.1.label></TM_MoveOutHD.stages.1.label>
+  <TM_MoveOutHD.stages.2.label></TM_MoveOutHD.stages.2.label>
+  <TM_MoveOutHD.stages.3.label></TM_MoveOutHD.stages.3.label>
+  <TM_MoveOutHD.stages.4.label></TM_MoveOutHD.stages.4.label>
+
+  <TM_HoldTheLineHD.label>Defensive stance</TM_HoldTheLineHD.label>
+  <TM_HoldTheLineHD.description>Received an order to hold position and fight bravely.</TM_HoldTheLineHD.description>
+  <TM_HoldTheLineHD.stages.0.label></TM_HoldTheLineHD.stages.0.label>
+  <TM_HoldTheLineHD.stages.1.label></TM_HoldTheLineHD.stages.1.label>
+  <TM_HoldTheLineHD.stages.2.label></TM_HoldTheLineHD.stages.2.label>
+  <TM_HoldTheLineHD.stages.3.label></TM_HoldTheLineHD.stages.3.label>
+
+  <TM_HTLShieldHD.label>HTL Shield</TM_HTLShieldHD.label>
+  <TM_HTLShieldHD.description>Increased fortitude from being ordered to hold the line.</TM_HTLShieldHD.description>
+  <TM_HTLShieldHD.stages.0.label></TM_HTLShieldHD.stages.0.label>
+
+  <TM_CommanderHD.label>Emotionally Inspired (I)</TM_CommanderHD.label>
+  <TM_CommanderHD.description>Inspired by a Commander.</TM_CommanderHD.description>
+  <TM_CommanderHD.stages.0.label>Commander</TM_CommanderHD.stages.0.label>
+
+  <TM_CommanderHD_I.label>Emotionally Inspired (II)</TM_CommanderHD_I.label>
+  <TM_CommanderHD_I.description>Inspired by a Commander.</TM_CommanderHD_I.description>
+  <TM_CommanderHD_I.stages.0.label></TM_CommanderHD_I.stages.0.label>
+
+  <TM_CommanderHD_II.label>Emotionally Inspired (III)</TM_CommanderHD_II.label>
+  <TM_CommanderHD_II.description>Inspired by a Commander.</TM_CommanderHD_II.description>
+  <TM_CommanderHD_II.stages.0.label></TM_CommanderHD_II.stages.0.label>
+
+  <TM_CommanderHD_III.label>Emotionally Inspired (IV)</TM_CommanderHD_III.label>
+  <TM_CommanderHD_III.description>Inspired by a Commander.</TM_CommanderHD_III.description>
+  <TM_CommanderHD_III.stages.0.label></TM_CommanderHD_III.stages.0.label>
+
+  <TM_ProvisionerHD.label>Provisions</TM_ProvisionerHD.label>
+  <TM_ProvisionerHD.description>Acquired supplies and information from a Commander.</TM_ProvisionerHD.description>
+  <TM_ProvisionerHD.stages.0.label>I</TM_ProvisionerHD.stages.0.label>
+  <TM_ProvisionerHD.stages.1.label>II</TM_ProvisionerHD.stages.1.label>
+  <TM_ProvisionerHD.stages.2.label>III</TM_ProvisionerHD.stages.2.label>
+  <TM_ProvisionerHD.stages.3.label>IV</TM_ProvisionerHD.stages.3.label>
+
+  <TM_TaskMasterHD.label>Task Master</TM_TaskMasterHD.label>
+  <TM_TaskMasterHD.description>Tasks and priorities are being controlled by a Commander.</TM_TaskMasterHD.description>
+  <TM_TaskMasterHD.stages.0.label>I</TM_TaskMasterHD.stages.0.label>
+  <TM_TaskMasterHD.stages.1.label>II</TM_TaskMasterHD.stages.1.label>
+  <TM_TaskMasterHD.stages.2.label>III</TM_TaskMasterHD.stages.2.label>
+  <TM_TaskMasterHD.stages.3.label>IV</TM_TaskMasterHD.stages.3.label>
+
+
+</LanguageData>

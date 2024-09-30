@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_DisguiseHD.label>Deception</TM_DisguiseHD.label>
+  <TM_DisguiseHD.description>Wrapped in a clever disguise to deceive opponents.</TM_DisguiseHD.description>
+  <TM_DisguiseHD.stages.0.label>I</TM_DisguiseHD.stages.0.label>
+
+  <TM_DisguiseHD_I.label>Deception</TM_DisguiseHD_I.label>
+  <TM_DisguiseHD_I.description>Wrapped in a clever disguise to deceive opponents.</TM_DisguiseHD_I.description>
+  <TM_DisguiseHD_I.stages.0.label>II</TM_DisguiseHD_I.stages.0.label>
+
+  <TM_DisguiseHD_II.label>Deception</TM_DisguiseHD_II.label>
+  <TM_DisguiseHD_II.description>Wrapped in a clever disguise to deceive opponents.</TM_DisguiseHD_II.description>
+  <TM_DisguiseHD_II.stages.0.label>III</TM_DisguiseHD_II.stages.0.label>
+
+  <TM_DisguiseHD_III.label>Deception</TM_DisguiseHD_III.label>
+  <TM_DisguiseHD_III.description>Wrapped in a clever disguise to deceive opponents.</TM_DisguiseHD_III.description>
+  <TM_DisguiseHD_III.stages.0.label>IV</TM_DisguiseHD_III.stages.0.label>
+
+  <TM_ReversalHD.label>Reversal Stance</TM_ReversalHD.label>
+  <TM_ReversalHD.description>Turns the energy of attack back on the attacker.</TM_ReversalHD.description>
+  <TM_ReversalHD.stages.0.label>I</TM_ReversalHD.stages.0.label>
+
+  <TM_PossessionHD.label>Possessed</TM_PossessionHD.label>
+  <TM_PossessionHD.description>Actions are being influenced by a master of deception.</TM_PossessionHD.description>
+  <TM_PossessionHD.stages.0.label>I</TM_PossessionHD.stages.0.label>
+
+  <TM_PossessionHD_I.label>Possessed</TM_PossessionHD_I.label>
+  <TM_PossessionHD_I.description>Actions are being influenced by a master of deception.</TM_PossessionHD_I.description>
+  <TM_PossessionHD_I.stages.0.label>II</TM_PossessionHD_I.stages.0.label>
+
+  <TM_PossessionHD_II.label>Possessed</TM_PossessionHD_II.label>
+  <TM_PossessionHD_II.description>Actions are being influenced by a master of deception.</TM_PossessionHD_II.description>
+  <TM_PossessionHD_II.stages.0.label>III</TM_PossessionHD_II.stages.0.label>
+
+  <TM_PossessionHD_III.label>Possessed</TM_PossessionHD_III.label>
+  <TM_PossessionHD_III.description>Actions are being influenced by a master of deception.</TM_PossessionHD_III.description>
+  <TM_PossessionHD_III.stages.0.label>IV</TM_PossessionHD_III.stages.0.label>
+
+  <TM_CoOpPossessionHD.label>Possessed</TM_CoOpPossessionHD.label>
+  <TM_CoOpPossessionHD.description>Actions are being influenced by a master of deception.</TM_CoOpPossessionHD.description>
+  <TM_CoOpPossessionHD.stages.0.label>I</TM_CoOpPossessionHD.stages.0.label>
+
+  <TM_CoOpPossessionHD_I.label>Possessed</TM_CoOpPossessionHD_I.label>
+  <TM_CoOpPossessionHD_I.description>Actions are being influenced by a master of deception.</TM_CoOpPossessionHD_I.description>
+  <TM_CoOpPossessionHD_I.stages.0.label>II</TM_CoOpPossessionHD_I.stages.0.label>
+
+  <TM_CoOpPossessionHD_II.label>Possessed</TM_CoOpPossessionHD_II.label>
+  <TM_CoOpPossessionHD_II.description>Actions are being influenced by a master of deception.</TM_CoOpPossessionHD_II.description>
+  <TM_CoOpPossessionHD_II.stages.0.label>III</TM_CoOpPossessionHD_II.stages.0.label>
+
+  <TM_CoOpPossessionHD_III.label>Possessed</TM_CoOpPossessionHD_III.label>
+  <TM_CoOpPossessionHD_III.description>Actions are being influenced by a master of deception.</TM_CoOpPossessionHD_III.description>
+  <TM_CoOpPossessionHD_III.stages.0.label>IV</TM_CoOpPossessionHD_III.stages.0.label>
+
+  <TM_DisorientedVomit.label>disoriented</TM_DisorientedVomit.label>
+  <TM_DisorientedVomit.description>Disoriented after swapping positions with another pawn.</TM_DisorientedVomit.description>
+  <TM_DisorientedVomit.stages.0.label>I</TM_DisorientedVomit.stages.0.label>
+
+
+</LanguageData>

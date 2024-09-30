@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_LightCapacitanceHD.label>Light power</TM_LightCapacitanceHD.label>
+  <TM_LightCapacitanceHD.description>The amount of stored light power available to a mage - acts as a catalyst for light magic.</TM_LightCapacitanceHD.description>
+  <TM_LightCapacitanceHD.stages.0.label></TM_LightCapacitanceHD.stages.0.label>
+
+  <TM_LightBurstHD.label>Blinding Flash</TM_LightBurstHD.label>
+  <TM_LightBurstHD.description>Pain, blindness and disorientation as a result of intense light effecting sensory organs. Disoriented pawns are unable to distinguish enemies from allies.</TM_LightBurstHD.description>
+  <TM_LightBurstHD.stages.0.label>dim vision</TM_LightBurstHD.stages.0.label>
+  <TM_LightBurstHD.stages.1.label>blinded</TM_LightBurstHD.stages.1.label>
+  <TM_LightBurstHD.stages.2.label>disoriented</TM_LightBurstHD.stages.2.label>
+
+
+</LanguageData>

@@ -126,28 +126,23 @@
 
 
   <!-- STRAW GOLEM -->
-
-  <Straw_Face.label>脸</Straw_Face.label>
-  <Straw_Core.label>稻草傀儡核心</Straw_Core.label>
-  <Straw_SlotA.label>稻草之心(a)</Straw_SlotA.label>
-  <Straw_SlotB.label>稻草之心(b)</Straw_SlotB.label>
-
-
+  <!--<Straw_Face.label>脸</Straw_Face.label>-->
+  <!--<Straw_Core.label>稻草傀儡核心</Straw_Core.label>-->
+  <!--<Straw_SlotA.label>稻草之心(a)</Straw_SlotA.label>-->
+  <!--<Straw_SlotB.label>稻草之心(b)</Straw_SlotB.label>-->
   <!-- WOOD GOLEM -->
-
-  <TM_Wood_Body.label>身体</TM_Wood_Body.label>
-  <TM_Wood_Back.label>背板</TM_Wood_Back.label>
-  <TM_Wood_Chest.label>胸板</TM_Wood_Chest.label>
-  <TM_Wood_Core.label>魔法核心</TM_Wood_Core.label>
-  <TM_Wood_Focus.label>意识源</TM_Wood_Focus.label>
-  <TM_Wood_Reserves.label>能量储备</TM_Wood_Reserves.label>
-  <Wood_SlotA.label>木芯（a）</Wood_SlotA.label>
-  <Wood_SlotB.label>木芯（b）</Wood_SlotB.label>
-  <TM_Wood_Manipulator.label>力量投影仪</TM_Wood_Manipulator.label>
-  <TM_Wood_Base.label>移动基座</TM_Wood_Base.label>
-  <TM_Silk_Core.label>魔力核心</TM_Silk_Core.label>
-  <Silk_SlotA.label>丝芯（a）</Silk_SlotA.label>
-  <Silk_SlotB.label>丝芯（b）</Silk_SlotB.label>
-
+  <!--<TM_Wood_Body.label>身体</TM_Wood_Body.label>-->
+  <!--<TM_Wood_Back.label>背板</TM_Wood_Back.label>-->
+  <!--<TM_Wood_Chest.label>胸板</TM_Wood_Chest.label>-->
+  <!--<TM_Wood_Core.label>魔法核心</TM_Wood_Core.label>-->
+  <!--<TM_Wood_Focus.label>意识源</TM_Wood_Focus.label>-->
+  <!--<TM_Wood_Reserves.label>能量储备</TM_Wood_Reserves.label>-->
+  <!--<Wood_SlotA.label>木芯（a）</Wood_SlotA.label>-->
+  <!--<Wood_SlotB.label>木芯（b）</Wood_SlotB.label>-->
+  <!--<TM_Wood_Manipulator.label>力量投影仪</TM_Wood_Manipulator.label>-->
+  <!--<TM_Wood_Base.label>移动基座</TM_Wood_Base.label>-->
+  <!--<TM_Silk_Core.label>魔力核心</TM_Silk_Core.label>-->
+  <!--<Silk_SlotA.label>丝芯（a）</Silk_SlotA.label>-->
+  <!--<Silk_SlotB.label>丝芯（b）</Silk_SlotB.label>-->
 
 </LanguageData>

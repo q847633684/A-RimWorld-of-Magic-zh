@@ -4,8 +4,8 @@
   <TM_HealingRainWD.label>疗伤雨</TM_HealingRainWD.label>
   <TM_HealingRainWD.description>一场具有治疗作用的小雨。任何暴露在疗伤雨中的生物都会慢慢恢复伤口。</TM_HealingRainWD.description>
 
-  <TM_HailstormWD.label>冰雹风暴</TM_HailstormWD.label>
-  <TM_HailstormWD.description>一场猛烈的冰雹，以致命的冰波覆盖着陆地。 移动和准确性受到严重阻碍。</TM_HailstormWD.description>
 
+  <!--<TM_HailstormWD.label>冰雹风暴</TM_HailstormWD.label>-->
+  <!--<TM_HailstormWD.description>一场猛烈的冰雹，以致命的冰波覆盖着陆地。 移动和准确性受到严重阻碍。</TM_HailstormWD.description>-->
 
 </LanguageData>

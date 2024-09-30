@@ -25,9 +25,9 @@
   <DemonAssault.letterText>一切都会终结!-一个狂暴的恶魔正在攻击你的殖民地！\n\n这个地狱生物有各种各样的攻击方式，而且他会使用充满挑战性的战术。\n火焰和灰烬将从天而降。\n但是，恶魔无法在这个殖民地中停留很长时间，将会被迫在大约3小时内返回他们的世界。击败他或熬过这场噩梦。\n没有多少时间准备了。\n\n祝你好运！</DemonAssault.letterText>
   <DemonAssault.letterLabel>狂暴的恶魔</DemonAssault.letterLabel>
 
-  <TM_ManaStorm.label>法力风暴</TM_ManaStorm.label>
-  <TM_ManaStorm.letterText>混乱的力量正在造成危险的法力风暴。\n\n在法力风暴期间，任何试图使用法力的行为将对施法者造成与法术法力消耗成正比的伤害。这施法前便会造成伤害。未成形魔法的使用和魔法的内部使用，如闪烁魔法或驱散附魔，不受影响。法力风暴时不能使用魔术阵或魔法中心。当法力风暴来临时，所有的能量消耗减半，法力的上限减少将会被移除。</TM_ManaStorm.letterText>
-  <TM_ManaStorm.letterLabel>法力风暴</TM_ManaStorm.letterLabel>
 
+  <!--<TM_ManaStorm.label>法力风暴</TM_ManaStorm.label>-->
+  <!--<TM_ManaStorm.letterText>混乱的力量正在造成危险的法力风暴。\n\n在法力风暴期间，任何试图使用法力的行为将对施法者造成与法术法力消耗成正比的伤害。这施法前便会造成伤害。未成形魔法的使用和魔法的内部使用，如闪烁魔法或驱散附魔，不受影响。法力风暴时不能使用魔术阵或魔法中心。当法力风暴来临时，所有的能量消耗减半，法力的上限减少将会被移除。</TM_ManaStorm.letterText>-->
+  <!--<TM_ManaStorm.letterLabel>法力风暴</TM_ManaStorm.letterLabel>-->
 
 </LanguageData>

@@ -49,15 +49,10 @@
 
 
   <!-- STRAW GOLEM -->
-
-  <Straw_Arms.label>武器</Straw_Arms.label>
-
-
+  <!--<Straw_Arms.label>武器</Straw_Arms.label>-->
   <!-- WOOD GOLEM -->
-
-  <TM_Wood_Manipulator.label>中心力量</TM_Wood_Manipulator.label>
-  <TM_Wood_Base.label>运动基地</TM_Wood_Base.label>
-  <TM_Silk_Arms.label>武器</TM_Silk_Arms.label>
-
+  <!--<TM_Wood_Manipulator.label>中心力量</TM_Wood_Manipulator.label>-->
+  <!--<TM_Wood_Base.label>运动基地</TM_Wood_Base.label>-->
+  <!--<TM_Silk_Arms.label>武器</TM_Silk_Arms.label>-->
 
 </LanguageData>

@@ -8,14 +8,15 @@
   <TM_Poison_HD.comps.0.labelSolidTendedWell>已缝合</TM_Poison_HD.comps.0.labelSolidTendedWell>
   <TM_Poison_HD.injuryProps.destroyedLabel>凋零</TM_Poison_HD.injuryProps.destroyedLabel>
   <TM_Poison_HD.injuryProps.destroyedOutLabel>凋零</TM_Poison_HD.injuryProps.destroyedOutLabel>
-  <TM_Poison_HD.comps.HediffComp_GetsPermanent.permanentLabel>枯萎了</TM_Poison_HD.comps.HediffComp_GetsPermanent.permanentLabel>
-  <TM_Poison_HD.labelNounPretty>{1} 中的 {0}</TM_Poison_HD.labelNounPretty>
-  
+
   <TM_Poisoned_HD.label>中毒</TM_Poisoned_HD.label>
   <TM_Poisoned_HD.description>毒药的副作用。</TM_Poisoned_HD.description>
   <TM_Poisoned_HD.stages.0.label>小</TM_Poisoned_HD.stages.0.label>
   <TM_Poisoned_HD.stages.1.label>中</TM_Poisoned_HD.stages.1.label>
   <TM_Poisoned_HD.stages.2.label>大</TM_Poisoned_HD.stages.2.label>
 
+
+  <!--<TM_Poison_HD.comps.HediffComp_GetsPermanent.permanentLabel>枯萎了</TM_Poison_HD.comps.HediffComp_GetsPermanent.permanentLabel>-->
+  <!--<TM_Poison_HD.labelNounPretty>{1} 中的 {0}</TM_Poison_HD.labelNounPretty>-->
 
 </LanguageData>

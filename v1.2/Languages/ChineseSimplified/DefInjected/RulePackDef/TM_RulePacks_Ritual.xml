@@ -1,40 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NamerRitualGifting.rulePack.rulesStrings.0>r_ritualName->[keyDeity]的[ritNoun]</NamerRitualGifting.rulePack.rulesStrings.0>
-  <NamerRitualGifting.rulePack.rulesStrings.1>r_ritualName->[chosenTheme]的[ritNoun]</NamerRitualGifting.rulePack.rulesStrings.1>
-  <NamerRitualGifting.rulePack.rulesStrings.2>r_ritualName->[memeConcept]的[ritNoun]</NamerRitualGifting.rulePack.rulesStrings.2>
-  <NamerRitualGifting.rulePack.rulesStrings.3>r_ritualName->[memeAdjective] [ritNoun]</NamerRitualGifting.rulePack.rulesStrings.3>
-  <NamerRitualGifting.rulePack.rulesStrings.4>ritNoun->赠送</NamerRitualGifting.rulePack.rulesStrings.4>
-  <NamerRitualGifting.rulePack.rulesStrings.5>ritNoun->升序</NamerRitualGifting.rulePack.rulesStrings.5>
-  <NamerRitualGifting.rulePack.rulesStrings.6>ritNoun->成为</NamerRitualGifting.rulePack.rulesStrings.6>
-  <NamerRitualGifting.rulePack.rulesStrings.7>ritNoun->启蒙</NamerRitualGifting.rulePack.rulesStrings.7>
-  <NamerRitualGifting.rulePack.rulesStrings.8>ritNoun->桥接</NamerRitualGifting.rulePack.rulesStrings.8>
-  <NamerRitualGifting.rulePack.rulesStrings.9>ritNoun->链接</NamerRitualGifting.rulePack.rulesStrings.9>
-  <NamerRitualGifting.rulePack.rulesStrings.10>ritNoun->融合</NamerRitualGifting.rulePack.rulesStrings.10>
-  <NamerRitualGifting.rulePack.rulesStrings.11>ritNoun->调用</NamerRitualGifting.rulePack.rulesStrings.11>
-  <NamerRitualGifting.rulePack.rulesStrings.12>ritNoun->清晰</NamerRitualGifting.rulePack.rulesStrings.12>
-  <NamerRitualGifting.rulePack.rulesStrings.13>ritNoun->上升</NamerRitualGifting.rulePack.rulesStrings.13>
-  <NamerRitualGifting.rulePack.rulesStrings.14>ritNoun->觉醒</NamerRitualGifting.rulePack.rulesStrings.14>
-  <NamerRitualGifting.rulePack.rulesStrings.15>ritNoun->唤起</NamerRitualGifting.rulePack.rulesStrings.15>
+  <!--<NamerRitualGifting.rulePack.rulesStrings.0>r_ritualName->[keyDeity]的[ritNoun]</NamerRitualGifting.rulePack.rulesStrings.0>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.1>r_ritualName->[chosenTheme]的[ritNoun]</NamerRitualGifting.rulePack.rulesStrings.1>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.2>r_ritualName->[memeConcept]的[ritNoun]</NamerRitualGifting.rulePack.rulesStrings.2>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.3>r_ritualName->[memeAdjective] [ritNoun]</NamerRitualGifting.rulePack.rulesStrings.3>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.4>ritNoun->赠送</NamerRitualGifting.rulePack.rulesStrings.4>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.5>ritNoun->升序</NamerRitualGifting.rulePack.rulesStrings.5>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.6>ritNoun->成为</NamerRitualGifting.rulePack.rulesStrings.6>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.7>ritNoun->启蒙</NamerRitualGifting.rulePack.rulesStrings.7>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.8>ritNoun->桥接</NamerRitualGifting.rulePack.rulesStrings.8>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.9>ritNoun->链接</NamerRitualGifting.rulePack.rulesStrings.9>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.10>ritNoun->融合</NamerRitualGifting.rulePack.rulesStrings.10>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.11>ritNoun->调用</NamerRitualGifting.rulePack.rulesStrings.11>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.12>ritNoun->清晰</NamerRitualGifting.rulePack.rulesStrings.12>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.13>ritNoun->上升</NamerRitualGifting.rulePack.rulesStrings.13>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.14>ritNoun->觉醒</NamerRitualGifting.rulePack.rulesStrings.14>-->
+  <!--<NamerRitualGifting.rulePack.rulesStrings.15>ritNoun->唤起</NamerRitualGifting.rulePack.rulesStrings.15>-->
 
-  <NamerRitualMindMutilation.rulePack.rulesStrings.0>r_ritualName->[keyDeity]的[ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.0>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.1>r_ritualName->[chosenTheme]的[ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.1>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.2>r_ritualName->[memeConcept]的[ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.2>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.3>r_ritualName->[memeAdjective] [ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.3>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.4>ritNoun->精神残害</NamerRitualMindMutilation.rulePack.rulesStrings.4>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.5>ritNoun->灵魂切割</NamerRitualMindMutilation.rulePack.rulesStrings.5>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.6>ritNoun->灵魂切片</NamerRitualMindMutilation.rulePack.rulesStrings.6>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.7>ritNoun->切断</NamerRitualMindMutilation.rulePack.rulesStrings.7>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.8>ritNoun->铭记</NamerRitualMindMutilation.rulePack.rulesStrings.8>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.9>ritNoun->心灵撕裂</NamerRitualMindMutilation.rulePack.rulesStrings.9>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.10>ritNoun->灵魂破坏</NamerRitualMindMutilation.rulePack.rulesStrings.10>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.11>ritNoun->心灵雕刻</NamerRitualMindMutilation.rulePack.rulesStrings.11>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.12>ritNoun->精神割伤</NamerRitualMindMutilation.rulePack.rulesStrings.12>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.13>ritNoun->灵魂撕裂</NamerRitualMindMutilation.rulePack.rulesStrings.13>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.14>ritNoun->沉默</NamerRitualMindMutilation.rulePack.rulesStrings.14>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.15>ritNoun->安静</NamerRitualMindMutilation.rulePack.rulesStrings.15>
-  <NamerRitualMindMutilation.rulePack.rulesStrings.16>ritNoun->镇压</NamerRitualMindMutilation.rulePack.rulesStrings.16>
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.0>r_ritualName->[keyDeity]的[ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.0>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.1>r_ritualName->[chosenTheme]的[ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.1>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.2>r_ritualName->[memeConcept]的[ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.2>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.3>r_ritualName->[memeAdjective] [ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.3>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.4>ritNoun->精神残害</NamerRitualMindMutilation.rulePack.rulesStrings.4>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.5>ritNoun->灵魂切割</NamerRitualMindMutilation.rulePack.rulesStrings.5>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.6>ritNoun->灵魂切片</NamerRitualMindMutilation.rulePack.rulesStrings.6>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.7>ritNoun->切断</NamerRitualMindMutilation.rulePack.rulesStrings.7>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.8>ritNoun->铭记</NamerRitualMindMutilation.rulePack.rulesStrings.8>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.9>ritNoun->心灵撕裂</NamerRitualMindMutilation.rulePack.rulesStrings.9>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.10>ritNoun->灵魂破坏</NamerRitualMindMutilation.rulePack.rulesStrings.10>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.11>ritNoun->心灵雕刻</NamerRitualMindMutilation.rulePack.rulesStrings.11>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.12>ritNoun->精神割伤</NamerRitualMindMutilation.rulePack.rulesStrings.12>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.13>ritNoun->灵魂撕裂</NamerRitualMindMutilation.rulePack.rulesStrings.13>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.14>ritNoun->沉默</NamerRitualMindMutilation.rulePack.rulesStrings.14>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.15>ritNoun->安静</NamerRitualMindMutilation.rulePack.rulesStrings.15>-->
+  <!--<NamerRitualMindMutilation.rulePack.rulesStrings.16>ritNoun->镇压</NamerRitualMindMutilation.rulePack.rulesStrings.16>-->
 
 
 </LanguageData>
