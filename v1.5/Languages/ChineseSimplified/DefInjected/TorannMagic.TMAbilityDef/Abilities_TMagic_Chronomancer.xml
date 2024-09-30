@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Prediction -->
+
+  <TM_Prediction.label>预言术</TM_Prediction.label>
+  <TM_Prediction.description>切换预言能力，一种可以破译未来事件的能力。 预言由两个组成部分。\n\n第一个部分是强化贤者的意识和直觉，这使得贤者非常难以受到外界的伤害，然而，这会分散贤者的注意力并降低他们的敏捷和速度。\n\n第二个部分是对时间长河里的重大事件的预测。 诸如敌人袭击，有毒尘埃，风暴等事件，贤者将看到时间长河里所有的时间线。\n\n这两种方法都不是百分百的，但经验可以提高预测的准确性并减少维持预测所需的法力。\n\n此技能使法力回复减少50％。</TM_Prediction.description>
+
+
+  <!-- Alter Fate -->
+
+  <TM_AlterFate.label>逆天改命</TM_AlterFate.label>
+  <TM_AlterFate.description>改变时间流程以避免预测到的灾难。这种能力依靠强大的法则来改变未来。即使在未来已经发生的时间段，一名强大贤者的也能逆转未来。\n\n\n\n逆天改命对自然灾害最为有效。然而，这种能力可能会适得其反，导致事件变得更为严重，或者触发臭名昭著的“蝴蝶效应”。</TM_AlterFate.description>
+
+
+  <!-- Accelerate Time -->
+
+  <TM_AccelerateTime.label>加速时空</TM_AccelerateTime.label>
+  <TM_AccelerateTime.description>加速时间在目标周围形成一个力场，所有在立场里的物品都会迅速老化。\n\n\n\n当应用于无生命的物体时，物品会迅速老化；这可能会导致物品分解为其基本组件。此技能没有区域效果，只有最中心的对象会受到影响。\n\n\n\n有生命的物体不会被分解，任何受影响的小人都会增加移动速度和操作能力而植物将加速生长。\n\n\n\n当在某个地点或对敌方使用时，该区域内的所有敌人都会因快速老化而受到诅咒。这将消耗目标的精力和能量，加速他的伤口恶化，并可能造成与年龄相关的疾病。\n\n\n\n当用于友军时，没有区域效果，只有主要目标会受到影响。友军小人的老化过程更为缓慢，可能会被逆转未来抵消。</TM_AccelerateTime.description>
+
+
+  <!-- Reverse Time -->
+
+  <TM_ReverseTime.label>逆转未来</TM_ReverseTime.label>
+  <TM_ReverseTime.description>逆转未来在目标周围形成一个力场，立场内的所有物质都会受到影响。逆转未来的施法更困难——它比加速时空需要更多的法力，并且一次只能应用于一个目标。\n\n\n\n当应用于无生命的物体时，将重新生成物品并将材料恢复到以前的状态。逆转未来可以用来恢复腐烂的食物、损坏的的设备和被污染的材料。\n\n\n\n有生命的物体不会被分解。任何受影响的小人都会降低移动速度和操作能力，其生物体征也会发生逆转。如将身体器官逆转到生病前，这可以消除最近引起的许多疾病；这包括在这之前发生的伤口和疾病。\n\n\n\n逆转未来可以通过用加速时空抵消。</TM_ReverseTime.description>
+
+
+  <!-- Chronostatic Field -->
+
+  <TM_ChronostaticField.label>时间力场（I）</TM_ChronostaticField.label>
+  <TM_ChronostaticField.description>时间立场将切断时间长河，受影响区域内的所有生物与时间流动不同步。无法与受影响的物体交互，直到他们回到现实的时间流。\n\n作用半径：3\n\n施法范围：40\n\n施法时间：1s</TM_ChronostaticField.description>
+
+  <TM_ChronostaticField_I.label>时间力场（II）</TM_ChronostaticField_I.label>
+  <TM_ChronostaticField_I.description>时间立场将切断时间长河，受影响区域内的所有生物与时间流动不同步。无法与受影响的物体交互，直到他们回到现实的时间流。\n\n作用半径：3.5\n\n施法范围：44\n\n施法时间：0.8s</TM_ChronostaticField_I.description>
+
+  <TM_ChronostaticField_II.label>时间力场（III）</TM_ChronostaticField_II.label>
+  <TM_ChronostaticField_II.description>时间立场将切断时间长河，受影响区域内的所有生物与时间流动不同步。无法与受影响的物体交互，直到他们回到现实的时间流。\n\n作用半径：4\n\n施法范围：48\n\n施法时间：0.6s</TM_ChronostaticField_II.description>
+
+  <TM_ChronostaticField_III.label>时间力场（IV）</TM_ChronostaticField_III.label>
+  <TM_ChronostaticField_III.description>时间立场将切断时间长河，受影响区域内的所有生物与时间流动不同步。无法与受影响的物体交互，直到他们回到现实的时间流。\n\n作用半径：4.5\n\n施法范围：50\n\n施法时间：0.5s</TM_ChronostaticField_III.description>
+
+
+  <!-- Time Mark (set recall point) -->
+
+  <TM_TimeMark.label>时间标记</TM_TimeMark.label>
+  <TM_TimeMark.description>贤者能够捕获它们在特定时间节点的状态，并将自己返回到该时间节点。这种能力不会改变时间也不会影响除了贤者之外的任何其他东西。事件标记将保留在激活时所拥有的任何记忆;受到致命一击的贤者会精神崩溃，因为他们会记住他们的死亡。\n\n\n\n时间标记的有效时间有限(约1天)，过期后必须重新标记。当时间标记激活时，最大法力值减少40法力值，法力回复减少30%。\n\n\n\n当设置为自动施法时，贤者将保持一个标记-—这不会影响激活标记(已关闭/已死亡)，如果学习了技能并标记了时间，标记将始终运行。\n\n\n\n为了在召回过程中保持身体的凝聚力，施法者将保留所有的永久性状态(缺少或增加的身体部分，永久性伤害)。除回溯本身外，所有的法术都在回溯后重置。</TM_TimeMark.description>
+
+
+  <!-- Activate Recall -->
+
+  <TM_Recall.label>回溯</TM_Recall.label>
+  <TM_Recall.description>将贤者返回到先前的时间点。没有活动时间标记时该技能不能使用.</TM_Recall.description>
+
+
+</LanguageData>

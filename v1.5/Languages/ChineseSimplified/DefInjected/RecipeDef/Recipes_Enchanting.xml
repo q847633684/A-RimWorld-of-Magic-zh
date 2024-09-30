@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gem Recipes -->
+
+  <CutMinorMPGem.label>制作初级奥术附魔石</CutMinorMPGem.label>
+  <CutMinorMPGem.description>加工魔法原石成为附魔宝石用来提高能量储备。</CutMinorMPGem.description>
+  <CutMinorMPGem.jobString>加工初级宝石</CutMinorMPGem.jobString>
+
+  <CutMPGem.label>制作中级奥术附魔石</CutMPGem.label>
+  <CutMPGem.description>加工并切割魔法原石成为附魔宝石用来提高能量储备。</CutMPGem.description>
+  <CutMPGem.jobString>加工初级宝石</CutMPGem.jobString>
+
+  <CutMajorMPGem.label>制作高级奥术附魔石</CutMajorMPGem.label>
+  <CutMajorMPGem.description>加工并切割魔法原石成为附魔宝石用来提高能量储备。</CutMajorMPGem.description>
+  <CutMajorMPGem.jobString>加工高级支持宝石</CutMajorMPGem.jobString>
+
+  <CutMinorCoolDownGem.label>制作初级加速附魔石</CutMinorCoolDownGem.label>
+  <CutMinorCoolDownGem.description>加工并切割魔法原石成为附魔宝石用来降低技能冷却时间。</CutMinorCoolDownGem.description>
+  <CutMinorCoolDownGem.jobString>加工初级加速宝石</CutMinorCoolDownGem.jobString>
+
+  <CutCoolDownGem.label>制作中级加速附魔石</CutCoolDownGem.label>
+  <CutCoolDownGem.description>加工并切割魔法原石成为附魔宝石用来降低技能冷却时间。</CutCoolDownGem.description>
+  <CutCoolDownGem.jobString>加工加速宝石</CutCoolDownGem.jobString>
+
+  <CutMajorCoolDownGem.label>制作高级加速附魔石</CutMajorCoolDownGem.label>
+  <CutMajorCoolDownGem.description>加工并切割魔法原石成为附魔宝石用来降低技能冷却时间。</CutMajorCoolDownGem.description>
+  <CutMajorCoolDownGem.jobString>加工高级加速宝石</CutMajorCoolDownGem.jobString>
+
+  <CutMinorMPCostGem.label>制作初级保存附魔石</CutMinorMPCostGem.label>
+  <CutMinorMPCostGem.description>加工并切割魔法原石成为附魔宝石用来降低技能消耗。</CutMinorMPCostGem.description>
+  <CutMinorMPCostGem.jobString>加工初级保存宝石</CutMinorMPCostGem.jobString>
+
+  <CutMPCostGem.label>制作中级保存附魔石</CutMPCostGem.label>
+  <CutMPCostGem.description>加工并切割魔法原石成为附魔宝石用来降低技能消耗。</CutMPCostGem.description>
+  <CutMPCostGem.jobString>加工保存附魔石</CutMPCostGem.jobString>
+
+  <CutMajorMPCostGem.label>制作高级保存附魔石</CutMajorMPCostGem.label>
+  <CutMajorMPCostGem.description>加工并切割魔法原石成为附魔宝石用来降低技能消耗。</CutMajorMPCostGem.description>
+  <CutMajorMPCostGem.jobString>加工高级保存附魔石</CutMajorMPCostGem.jobString>
+
+  <CutMinorMPRegenRateGem.label>制作初级再生附魔石</CutMinorMPRegenRateGem.label>
+  <CutMinorMPRegenRateGem.description>加工并切割魔法原石成为附魔宝石用来提升能量回复速度。</CutMinorMPRegenRateGem.description>
+  <CutMinorMPRegenRateGem.jobString>加工初级再生附魔石</CutMinorMPRegenRateGem.jobString>
+
+  <CutMPRegenRateGem.label>制作中级再生附魔石</CutMPRegenRateGem.label>
+  <CutMPRegenRateGem.description>加工并切割魔法原石成为附魔宝石用来提升能量回复速度。</CutMPRegenRateGem.description>
+  <CutMPRegenRateGem.jobString>加工再生附魔石</CutMPRegenRateGem.jobString>
+
+  <CutMajorMPRegenRateGem.label>制作高级再生附魔石</CutMajorMPRegenRateGem.label>
+  <CutMajorMPRegenRateGem.description>加工并切割魔法原石成为附魔宝石用来提升能量回复速度。</CutMajorMPRegenRateGem.description>
+  <CutMajorMPRegenRateGem.jobString>加工高级再生附魔石</CutMajorMPRegenRateGem.jobString>
+
+  <CutMinorXPGainGem.label>制作初级知识附魔石</CutMinorXPGainGem.label>
+  <CutMinorXPGainGem.description>加工并切割魔法原石成为附魔宝石用来提升经验获取量。</CutMinorXPGainGem.description>
+  <CutMinorXPGainGem.jobString>加工初级知识附魔石</CutMinorXPGainGem.jobString>
+
+  <CutXPGainGem.label>制作中级知识附魔石</CutXPGainGem.label>
+  <CutXPGainGem.description>加工并切割魔法原石成为附魔宝石用来提升经验获取量。</CutXPGainGem.description>
+  <CutXPGainGem.jobString>加工知识附魔石</CutXPGainGem.jobString>
+
+  <CutMajorXPGainGem.label>制作高级知识附魔石</CutMajorXPGainGem.label>
+  <CutMajorXPGainGem.description>加工并切割魔法原石成为附魔宝石用来提升经验获取量。</CutMajorXPGainGem.description>
+  <CutMajorXPGainGem.jobString>加工高级知识附魔石</CutMajorXPGainGem.jobString>
+
+  <CutMinorArcaneResGem.label>制作初级抗性附魔石</CutMinorArcaneResGem.label>
+  <CutMinorArcaneResGem.description>加工并切割魔法原石成为附魔宝石用来削弱受到的技能攻击。</CutMinorArcaneResGem.description>
+  <CutMinorArcaneResGem.jobString>加工初级抗性附魔石</CutMinorArcaneResGem.jobString>
+
+  <CutArcaneResGem.label>制作中级抗性附魔石</CutArcaneResGem.label>
+  <CutArcaneResGem.description>加工并切割魔法原石成为附魔宝石用来削弱受到的技能攻击。</CutArcaneResGem.description>
+  <CutArcaneResGem.jobString>加工抗性附魔石</CutArcaneResGem.jobString>
+
+  <CutMajorArcaneResGem.label>制作高级抗性附魔石</CutMajorArcaneResGem.label>
+  <CutMajorArcaneResGem.description>加工并切割魔法原石成为附魔宝石用来削弱受到的技能攻击。</CutMajorArcaneResGem.description>
+  <CutMajorArcaneResGem.jobString>加工高级抗性附魔石</CutMajorArcaneResGem.jobString>
+
+  <CutMinorArcaneDmgGem.label>制作初级力量附魔石</CutMinorArcaneDmgGem.label>
+  <CutMinorArcaneDmgGem.description>加工并切割魔法原石成为附魔宝石用来增加技能攻击的强度。</CutMinorArcaneDmgGem.description>
+  <CutMinorArcaneDmgGem.jobString>加工初级力量附魔石</CutMinorArcaneDmgGem.jobString>
+
+  <CutArcaneDmgGem.label>制作中级力量附魔石</CutArcaneDmgGem.label>
+  <CutArcaneDmgGem.description>加工并切割魔法原石成为附魔宝石用来增加技能攻击的强度。</CutArcaneDmgGem.description>
+  <CutArcaneDmgGem.jobString>加工力量附魔石</CutArcaneDmgGem.jobString>
+
+  <CutMajorArcaneDmgGem.label>制作高级力量附魔石</CutMajorArcaneDmgGem.label>
+  <CutMajorArcaneDmgGem.description>加工并切割魔法原石成为附魔宝石用来增加技能攻击的强度。</CutMajorArcaneDmgGem.description>
+  <CutMajorArcaneDmgGem.jobString>加工高级力量附魔石</CutMajorArcaneDmgGem.jobString>
+
+  <CutMinorArcaneWonderGem.label>制作初级奇迹附魔石</CutMinorArcaneWonderGem.label>
+  <CutMinorArcaneWonderGem.description>加工并切割魔法原石成为附魔宝石用来驾驭各种各样的魔法。</CutMinorArcaneWonderGem.description>
+  <CutMinorArcaneWonderGem.jobString>加工初级奇迹附魔石</CutMinorArcaneWonderGem.jobString>
+
+  <CutArcaneWonderGem.label>制作中级奇迹附魔石</CutArcaneWonderGem.label>
+  <CutArcaneWonderGem.description>加工并切割魔法原石成为附魔宝石用来驾驭各种各样的魔法。</CutArcaneWonderGem.description>
+  <CutArcaneWonderGem.jobString>加工奇迹附魔石</CutArcaneWonderGem.jobString>
+
+  <CutMajorArcaneWonderGem.label>制作高级奇迹附魔石</CutMajorArcaneWonderGem.label>
+  <CutMajorArcaneWonderGem.description>加工并切割魔法原石成为附魔宝石用来驾驭各种各样的魔法。</CutMajorArcaneWonderGem.description>
+  <CutMajorArcaneWonderGem.jobString>加工高级奇迹附魔石</CutMajorArcaneWonderGem.jobString>
+
+
+  <!-- Refinement Recipes -->
+
+  <ManaPotion_Refined.label>魔法药剂</ManaPotion_Refined.label>
+  <ManaPotion_Refined.description>用活力水与加工过的魔法石可以生产两瓶魔法药剂。</ManaPotion_Refined.description>
+  <ManaPotion_Refined.jobString>正在生产魔法药剂</ManaPotion_Refined.jobString>
+
+
+</LanguageData>

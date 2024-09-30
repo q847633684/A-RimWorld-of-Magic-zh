@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Material Resource Recipes -->
+
+  <TM_MakeManaweave.label>编织魔纹布</TM_MakeManaweave.label>
+  <TM_MakeManaweave.description>将法力, 魔法原石和布编织成魔纹布</TM_MakeManaweave.description>
+  <TM_MakeManaweave.jobString>编织魔纹布</TM_MakeManaweave.jobString>
+
+  <TM_MakeArcalleum.label>熔炼魔法合金</TM_MakeArcalleum.label>
+  <TM_MakeArcalleum.description>把钢铁、翡翠、白银和魔法原石熔化成魔法合金</TM_MakeArcalleum.description>
+  <TM_MakeArcalleum.jobString>熔炼魔法合金</TM_MakeArcalleum.jobString>
+
+
+</LanguageData>

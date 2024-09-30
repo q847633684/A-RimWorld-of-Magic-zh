@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Poison_HD.label>中毒</TM_Poison_HD.label>
+  <TM_Poison_HD.description>这人已经中毒.</TM_Poison_HD.description>
+  <TM_Poison_HD.comps.0.labelTendedWell>已简单固定</TM_Poison_HD.comps.0.labelTendedWell>
+  <TM_Poison_HD.comps.0.labelTendedWellInner>已包扎</TM_Poison_HD.comps.0.labelTendedWellInner>
+  <TM_Poison_HD.comps.0.labelSolidTendedWell>已缝合</TM_Poison_HD.comps.0.labelSolidTendedWell>
+  <TM_Poison_HD.injuryProps.destroyedLabel>凋零</TM_Poison_HD.injuryProps.destroyedLabel>
+  <TM_Poison_HD.injuryProps.destroyedOutLabel>凋零</TM_Poison_HD.injuryProps.destroyedOutLabel>
+  <TM_Poison_HD.comps.HediffComp_GetsPermanent.permanentLabel>枯萎了</TM_Poison_HD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <TM_Poison_HD.labelNounPretty>{1} 中的 {0}</TM_Poison_HD.labelNounPretty>
+  
+  <TM_Poisoned_HD.label>中毒</TM_Poisoned_HD.label>
+  <TM_Poisoned_HD.description>毒药的副作用。</TM_Poisoned_HD.description>
+  <TM_Poisoned_HD.stages.0.label>小</TM_Poisoned_HD.stages.0.label>
+  <TM_Poisoned_HD.stages.1.label>中</TM_Poisoned_HD.stages.1.label>
+  <TM_Poisoned_HD.stages.2.label>大</TM_Poisoned_HD.stages.2.label>
+
+
+</LanguageData>

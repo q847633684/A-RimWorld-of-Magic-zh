@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- demon special attack manuevers -->
+
+  <TM_Demon.label>恶魔</TM_Demon.label>
+  <TM_Demon.labelPlural>恶魔群</TM_Demon.labelPlural>
+  <TM_Demon.lifeStages.0.label>恶魔</TM_Demon.lifeStages.0.label>
+  <TM_Demon.lifeStages.0.labelPlural>恶魔群</TM_Demon.lifeStages.0.labelPlural>
+
+  <TM_LesserDemon.label>小恶魔</TM_LesserDemon.label>
+  <TM_LesserDemon.labelPlural>小恶魔群</TM_LesserDemon.labelPlural>
+  <TM_LesserDemon.lifeStages.0.label>小恶魔</TM_LesserDemon.lifeStages.0.label>
+  <TM_LesserDemon.lifeStages.0.labelPlural>小恶魔群</TM_LesserDemon.lifeStages.0.labelPlural>
+
+
+</LanguageData>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Soothe start -->
+
+  <TM_Soothe.label>抚慰之风（I）</TM_Soothe.label>
+  <TM_Soothe.description>在施法者周围创造一个舒缓的光环，周期性地增强一个盟友。\n  \n舒缓微风:奥术强化，帮助工人减轻疼痛和疲劳，提高专注力。\n \n触发频率: 80-90s \n持续时间: 200-223s\n操纵: +10%\n意识: +5%\n心情降低: +2\n休息，饥饿和疼痛: -10%\n\n需要40点法力维持，减少30%法力回复;再次施法失效。施法者对目标使用法术获得经验值。</TM_Soothe.description>
+
+  <TM_Soothe_I.label>抚慰之风（II）</TM_Soothe_I.label>
+  <TM_Soothe_I.description>在施法者周围创造一个舒缓的光环，周期性地增强一个盟友。\n  \n舒缓微风:奥术强化，帮助工人减轻疼痛和疲劳，提高专注力。\n \n触发频率: 80-90s \n持续时间: 200-223s\n操纵: +15%\n意识: +10%\n心情降低: +3\n休息，饥饿和疼痛: -15%\n\n需要40点法力维持，减少30%法力回复;再次施法失效。施法者对目标使用法术获得经验值。</TM_Soothe_I.description>
+
+  <TM_Soothe_II.label>抚慰之风（III）</TM_Soothe_II.label>
+  <TM_Soothe_II.description>在施法者周围创造一个舒缓的光环，周期性地增强一个盟友。\n  \n舒缓微风:奥术强化，帮助工人减轻疼痛和疲劳，提高专注力。\n \n触发频率: 80-90s \n持续时间: 500-600s\n操纵: +20%\n意识 +15%\n心情降低: +4\n休息，饥饿和疼痛: -20%\n\n需要40点法力维持，减少30%法力回复;再次施法失效。施法者对目标使用法术获得经验值。</TM_Soothe_II.description>
+
+  <TM_Soothe_III.label>抚慰之风（IV）</TM_Soothe_III.label>
+  <TM_Soothe_III.description>在施法者周围创造一个舒缓的光环，周期性地增强一个盟友。\n  \n舒缓微风:奥术强化，帮助工人减轻疼痛和疲劳，提高专注力。\n \n触发频率: 80-90s \n持续时间: 500-600s\n操纵: +25%\n意识: +20%\n心情降低: +5\n休息，饥饿和疼痛: -25%\n\n需要40点法力维持，减少30%法力回复;再次施法失效。施法者对目标使用法术获得经验值。</TM_Soothe_III.description>
+
+
+  <!-- FrostRay -->
+
+  <TM_FrostRay.label>霜冻之寒（I）</TM_FrostRay.label>
+  <TM_FrostRay.description>射一股极寒粒子射线伤害并冰冻目标。\n  \n充能时间15s\n范围: 28\n攻击次数: 1</TM_FrostRay.description>
+
+  <TM_FrostRay_I.label>霜冻之寒（II）</TM_FrostRay_I.label>
+  <TM_FrostRay_I.description>发射一股极寒粒子射线伤害并冰冻目标。\n  \n充能时间12s\n范围: 30\n攻击次数: 1</TM_FrostRay_I.description>
+
+  <TM_FrostRay_II.label>霜冻之寒（III）</TM_FrostRay_II.label>
+  <TM_FrostRay_II.description>发射一股极寒粒子射线伤害并冰冻目标。\n  \n充能时间10s\n范围: 32\n攻击次数: 2</TM_FrostRay_II.description>
+
+  <TM_FrostRay_III.label>霜冻之寒（IV）</TM_FrostRay_III.label>
+  <TM_FrostRay_III.description>发射一股极寒粒子射线伤害并冰冻目标。\n  \n充能时间10s\n范围: 34\n攻击次数: 3</TM_FrostRay_III.description>
+
+
+  <!-- Snowball -->
+
+  <TM_Snowball.label>冰雪术</TM_Snowball.label>
+  <TM_Snowball.description>发射一个由冰雪组成的魔法球体并在到达目标区域时造成伤害和冰冻效果。</TM_Snowball.description>
+
+
+  <!-- Icebolt -->
+
+  <TM_Icebolt.label>冰箭术</TM_Icebolt.label>
+  <TM_Icebolt.description>将冰元素凝结为箭射向敌人，会如同玻璃一般切割并刺穿敌人的身体，在较小区域内造成伤害和流血效果。</TM_Icebolt.description>
+
+
+  <!-- Rainmaker Start -->
+
+  <TM_Rainmaker.label>唤雨者</TM_Rainmaker.label>
+  <TM_Rainmaker.description>更改大气的环境从而达到下雨的目的。</TM_Rainmaker.description>
+
+
+  <!-- Blizzard -->
+
+  <TM_Blizzard.label>暴风雪</TM_Blizzard.label>
+  <TM_Blizzard.description>召唤死亡的暴风雪降临将你的敌人埋葬在冰雪中。</TM_Blizzard.description>
+
+
+</LanguageData>

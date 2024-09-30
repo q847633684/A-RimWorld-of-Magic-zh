@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_LightCapacitanceHD.label>光能</TM_LightCapacitanceHD.label>
+  <TM_LightCapacitanceHD.description>一个法师可以使用的储存光能量的数量-作为光之魔法的催化剂.</TM_LightCapacitanceHD.description>
+  <TM_LightCapacitanceHD.stages.0.label></TM_LightCapacitanceHD.stages.0.label>
+
+  <TM_LightBurstHD.label>眩目之光</TM_LightBurstHD.label>
+  <TM_LightBurstHD.description>由于强光影响感觉器官而引起的疼痛、失明和迷失方向。迷失方向的人无法区分敌人和盟友.</TM_LightBurstHD.description>
+  <TM_LightBurstHD.stages.0.label>视力模糊</TM_LightBurstHD.stages.0.label>
+  <TM_LightBurstHD.stages.1.label>失明</TM_LightBurstHD.stages.1.label>
+  <TM_LightBurstHD.stages.2.label>昏迷</TM_LightBurstHD.stages.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Golem_StrawRepair.label>恢复部分</TM_Golem_StrawRepair.label>
+
+  <TM_Golem_StrawMaxEnergy.label>能量存储</TM_Golem_StrawMaxEnergy.label>
+  <TM_Golem_StrawMaxEnergy.description>每级增加最大能量 100。起始最大能量为 300。</TM_Golem_StrawMaxEnergy.description>
+
+  <TM_Golem_StrawEnergyEfficiency.label>能源效率</TM_Golem_StrawEnergyEfficiency.label>
+  <TM_Golem_StrawEnergyEfficiency.description>每级能源效率提高 6%。起始能源效率为30%。</TM_Golem_StrawEnergyEfficiency.description>
+
+  <TM_Golem_StrawEnergyRate.label>能量再生</TM_Golem_StrawEnergyRate.label>
+  <TM_Golem_StrawEnergyRate.description>每级能量消耗率增加 20%。起始充能率为 20 能量/小时。</TM_Golem_StrawEnergyRate.description>
+
+  <TM_Golem_StrawArmor.label>盔甲</TM_Golem_StrawArmor.label>
+  <TM_Golem_StrawArmor.description>增强整体保护：
+钝化：+[6,11,15]%
+锐利：+[5,9,13]%
+热量：+[4,7,10]%</TM_Golem_StrawArmor.description>
+
+  <TM_Golem_StrawScarecrow.label>稻草人</TM_Golem_StrawScarecrow.label>
+  <TM_Golem_StrawScarecrow.description>赶走不需要的害虫。提高 6 个单元半径内的作物生长速度。</TM_Golem_StrawScarecrow.description>
+
+  <TM_Golem_StrawSeed.label>农业</TM_Golem_StrawSeed.label>
+  <TM_Golem_StrawSeed.description>每升一级，傀儡的植物技能提高 2 点。开始种植技能为0。</TM_Golem_StrawSeed.description>
+
+  <TM_Golem_StrawLifeStage.label>框架层</TM_Golem_StrawLifeStage.label>
+  <TM_Golem_StrawLifeStage.description>增加统计数据：
+移动：+[20%/30%/40%]
+生命值：+[20%/40%/50%]</TM_Golem_StrawLifeStage.description>
+
+
+</LanguageData>

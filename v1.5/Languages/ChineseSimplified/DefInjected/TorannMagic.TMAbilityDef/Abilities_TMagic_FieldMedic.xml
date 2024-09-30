@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medic supply -->
+
+  <TM_MedicalSupply.label>再补给</TM_MedicalSupply.label>
+  <TM_MedicalSupply.description>补给战地医生的医疗物资。\n战地医生将使用目标储备中的一个物品，并将其转换为个人医疗用品，以增强自己的能力。\n获得的供应量等于该物品药效的20倍平方：\n药品-20个医疗用品\n草药-4.9医疗用品\n闪耀世界药品-51.2医疗用品\n战地医生可以通过训练将他的装备转换成普通的药品</TM_MedicalSupply.description>
+
+  <TM_Emergency.label>紧急情况</TM_Emergency.label>
+  <TM_Emergency.description>战地医生急忙地去医疗他们的病人。\n战地医生获得基础移动速度加成，医疗速度和医疗质量加成，并让病人减少疼痛30秒。</TM_Emergency.description>
+
+  <TM_Medigel.label>伤口愈合凝胶</TM_Medigel.label>
+  <TM_Medigel.description>在目标的伤口上涂抹一种愈合凝胶，可以加速恢复并对抗感染。伤口会慢慢愈合。伤口愈合凝胶会轻微减轻伤口疼痛。</TM_Medigel.description>
+
+  <TM_CombatDrugs.label>战斗药物</TM_CombatDrugs.label>
+  <TM_CombatDrugs.description>给一个盟友提供战斗药物\n战地医生会向一个盟友扔一个注射器，里面装着简易的战斗药物。\n效果总是正面的加成，但可能会有所不同。</TM_CombatDrugs.description>
+
+
+</LanguageData>

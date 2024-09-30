@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Artifact_Silver.label>镀银垂饰</TM_Artifact_Silver.label>
+  <TM_Artifact_Silver.description>用银制成的垂饰。这种昂贵的手工艺品据说可以增加佩戴者的敏捷性。</TM_Artifact_Silver.description>
+
+  <TM_Artifact_Slate.label>修补垂饰</TM_Artifact_Slate.label>
+  <TM_Artifact_Slate.description>镶嵌着板岩精华的垂饰。修补垂饰将缓慢恢复所有磨损装备的耐久性。</TM_Artifact_Slate.description>
+
+  <TM_Artifact_Medicine.label>健康垂饰</TM_Artifact_Medicine.label>
+  <TM_Artifact_Medicine.description>镶嵌着草药精华的这种垂饰改善了携带者的健康，增强了对疾病的免疫力，帮助伤口更快愈合。</TM_Artifact_Medicine.description>
+
+  <TM_Artifact_Limestone.label>猫眼垂饰</TM_Artifact_Limestone.label>
+  <TM_Artifact_Limestone.description>镶嵌着石灰石精华的垂饰。这个垂饰发出柔和的光芒，提高佩戴者视力，可以在黑暗中看到。</TM_Artifact_Limestone.description>
+
+  <TM_Artifact_Granite.label>工匠之戒</TM_Artifact_Granite.label>
+  <TM_Artifact_Granite.description>镶嵌着花岗岩精华的戒指。这枚戒指赋予佩戴者更大的承载能力和操控能力。</TM_Artifact_Granite.description>
+
+  <TM_Artifact_Marble.label>心灵垂饰</TM_Artifact_Marble.label>
+  <TM_Artifact_Marble.description>镶嵌着大理石精华所迷住的垂饰。这个垂饰改善了佩戴者的精神状态。</TM_Artifact_Marble.description>
+
+  <TM_Artifact_Sandstone.label>安眠垂饰</TM_Artifact_Sandstone.label>
+  <TM_Artifact_Sandstone.description>镶嵌着砂岩精华的垂饰。这个垂饰提高了佩戴者的休息质量，防止路人打扰他们的睡眠。</TM_Artifact_Sandstone.description>
+
+  <TM_Artifact_Steel.label>钢制护符</TM_Artifact_Steel.label>
+  <TM_Artifact_Steel.description>钢制的护符。这个护符神奇地提高了佩戴者的防御能力。</TM_Artifact_Steel.description>
+
+  <TM_Artifact_Iron.label>铁制护符</TM_Artifact_Iron.label>
+  <TM_Artifact_Iron.description>铁制的护符。这个护符神奇地提高了佩戴者的防御能力。</TM_Artifact_Iron.description>
+
+  <TM_Artifact_Jade.label>法力回复戒指</TM_Artifact_Jade.label>
+  <TM_Artifact_Jade.description>镶嵌着翡翠精华的戒指。这个戒指增加了佩戴者回复法力的速度。</TM_Artifact_Jade.description>
+
+  <TM_Artifact_Gold.label>威严之戒</TM_Artifact_Gold.label>
+  <TM_Artifact_Gold.description>用黄金制成的戒指。这枚戒指提高了佩戴者的谈判技巧。</TM_Artifact_Gold.description>
+
+  <TM_Artifact_Magicyte.label>知识之戒</TM_Artifact_Magicyte.label>
+  <TM_Artifact_Magicyte.description>用魔法石制成的戒指。这个魔戒提高了佩戴者的学习速度。</TM_Artifact_Magicyte.description>
+
+  <TM_Artifact_Wood.label>探路者之戒</TM_Artifact_Wood.label>
+  <TM_Artifact_Wood.description>木制的戒指。佩戴这枚戒指的人不会因为地形而减速，而且在远征队中时获取当地的食物会增加。</TM_Artifact_Wood.description>
+
+
+  <!-- Craftable Artifacts -->
+
+  <TM_Artifact_BracersOfThePacifist.label>和平主义者的护腕</TM_Artifact_BracersOfThePacifist.label>
+  <TM_Artifact_BracersOfThePacifist.description>这些护腕看起来只不过是用皮革包裹的薄布，它们非凡的力量被不起眼的外表掩盖。此物品只能由拒绝使用暴力的生物使用。\n\n附魔:\n提升最大能量值 +40%\n提升技能回复速度 +40%\n技能抗性 +50%\n奥术恢复 - 减少从法力虚弱中恢复的时间</TM_Artifact_BracersOfThePacifist.description>
+
+  <TM_Artifact_BracersOfDefense.label>防御护腕</TM_Artifact_BracersOfDefense.label>
+  <TM_Artifact_BracersOfDefense.description>护腕采用硬性材料制成，可以格挡近身攻击。40%的格挡几率。\n附魔:\n技能抗性 10%</TM_Artifact_BracersOfDefense.description>
+
+  <TM_Artifact_BracersOfDeflection.label>偏转护腕</TM_Artifact_BracersOfDeflection.label>
+  <TM_Artifact_BracersOfDeflection.description>护腕采用活性材料制成，可以偏转远程攻击。30%的偏转几率，所有被阻挡的攻击都会在转移到8格内的敌人身上。\n附魔:\n技能抗性 10%</TM_Artifact_BracersOfDeflection.description>
+
+  <TM_Artifact_RingOfKeenIntellect.label>智慧之戒</TM_Artifact_RingOfKeenIntellect.label>
+  <TM_Artifact_RingOfKeenIntellect.description>一个提高精神敏锐度但增加精神压力的戒指。\n附魔:\n增加经验值获取 +25%</TM_Artifact_RingOfKeenIntellect.description>
+
+  <TM_Artifact_RingOfBlood.label>吸血之戒</TM_Artifact_RingOfBlood.label>
+  <TM_Artifact_RingOfBlood.description>镶嵌着深红色石头的戒指；深红色和黑色的水流在其表面旋转。这种戒指最初是由一个古老的吸血鬼创造的，以增加血液储备，并且可以被血法师用来储存血魔法。\n\n吸血之戒的力量取决于它的佩戴者的名声，并且会随着每个人被击倒或杀死而成长</TM_Artifact_RingOfBlood.description>
+
+  <TM_Artifact_RingOfEternalBlue.label>灵能戒指</TM_Artifact_RingOfEternalBlue.label>
+  <TM_Artifact_RingOfEternalBlue.description>这枚戒指散发出柔和的蓝光脉冲。蓝宝石戒指将增幅灵能者的力量。</TM_Artifact_RingOfEternalBlue.description>
+
+  <TM_Artifact_RingOfMalice.label>怨恨之戒</TM_Artifact_RingOfMalice.label>
+  <TM_Artifact_RingOfMalice.description>这枚戒指散发出黑暗的波动，摸起来总是很冷。怨恨之戒增加了死亡骑士的最大怨恨上限。怨恨之戒的力量取决于它的佩戴者，并且会随着每一次伤害的承受而成长。</TM_Artifact_RingOfMalice.description>
+
+  <TM_Artifact_OrbOfConviction.label>信念法球</TM_Artifact_OrbOfConviction.label>
+  <TM_Artifact_OrbOfConviction.description>也被称为叛徒的小饰品，精神错乱的宝珠，和盗取心灵的贼-信念法球是一个强大而危险的神器。当充满了施法者的信念和魔法时，它可以用在另一个施法者身上。如果成功，目标将立即加入施法者派系，但会受到心灵冲击的影响。只有最强大的法师才能使用这个神器的力量，即使那样，它也会付出沉重的代价。法术施放后，球体将内爆，只能使用一次。</TM_Artifact_OrbOfConviction.description>
+
+  <TM_Artifact_OrbOfSouls.label>灵魂之球 (空)</TM_Artifact_OrbOfSouls.label>
+  <TM_Artifact_OrbOfSouls.description>灵魂之球是一个强大而危险的神器。它可以提取出一个拥有特性的生物的灵魂。如果成功，灵魂之球将从目标身上吸收最多三个特性；目标将失去被吸收的特性。这个过程几乎是致命的。一旦被填满，灵魂之球就可以将被吸收的特性转移到另一个人身上。</TM_Artifact_OrbOfSouls.description>
+
+  <TM_Artifact_OrbOfSouls_Full.label>灵魂之球 (满)</TM_Artifact_OrbOfSouls_Full.label>
+  <TM_Artifact_OrbOfSouls_Full.description>灵魂之球是一个强大而危险的神器。这个球体吸收了一些特性，可以用来把这些特性注入一个类似人类的生物中。冲突的特征永远不会转移到目标生物身上。如果目标拥有7个以上的特征，那么有75%的几率，一个随机的、现有的特性将被注入的特征所取代。一旦特性被释放，球体将内爆并被摧毁。</TM_Artifact_OrbOfSouls_Full.description>
+
+  <TM_Artifact_OrbOfEternal.label>再生宝珠</TM_Artifact_OrbOfEternal.label>
+  <TM_Artifact_OrbOfEternal.description>一次性输注神奇的能量，用于治疗伤口，恢复肢体和治疗疾病。 治疗能量将治愈某人的最严重的健康状况。\n再生宝珠已经被法师，统治者和精英们用来延长生命。 由于制作球体的工艺神秘，这些球体非常的昂贵和少见。</TM_Artifact_OrbOfEternal.description>
+  <TM_Artifact_OrbOfEternal.comps.1.useLabel>使用再生宝珠</TM_Artifact_OrbOfEternal.comps.1.useLabel>
+
+  <TM_Artifact_NecroticOrb.label>死灵宝珠</TM_Artifact_NecroticOrb.label>
+  <TM_Artifact_NecroticOrb.description>一种神器，能够容纳维持不死生物所需的法力。死灵宝珠的功能很像一个电池；当它被一个亡灵装备时，它从一个死灵法师身上吸收能量，就好像它也是一个不死生物一样。当亡灵法师没有能量时，它会分散能量来维持亡灵。\n一个亡灵只能装备一个球。死灵宝珠只有在装备时才会生效。</TM_Artifact_NecroticOrb.description>
+
+
+</LanguageData>
