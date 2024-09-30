@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Spirit Bear -->
+
+  <TM_SpiritBearR.label>灵熊</TM_SpiritBearR.label>
+  <TM_SpiritBearR.description>灵熊征着稳定和力量。一直以来，这种动物一直受到人们的赞赏，认为它能给那些需要勇气面对逆境的人带来强大的灵感。灵熊的强大指引可以获得体力和体质，并将积极保护它的幼崽。</TM_SpiritBearR.description>
+  <TM_SpiritBearR.tools.0.label>左爪</TM_SpiritBearR.tools.0.label>
+  <TM_SpiritBearR.tools.1.label>右爪</TM_SpiritBearR.tools.1.label>
+  <TM_SpiritBearR.tools.2.label>痛苦</TM_SpiritBearR.tools.2.label>
+  <TM_SpiritBearR.tools.3.label>头</TM_SpiritBearR.tools.3.label>
+  <Meat_TM_SpiritBearR.label>灵熊肉</Meat_TM_SpiritBearR.label>
+  <Meat_TM_SpiritBearR.description>灵熊肉</Meat_TM_SpiritBearR.description>
+  <Corpse_TM_SpiritBearR.label>灵熊尸体</Corpse_TM_SpiritBearR.label>
+  <Corpse_TM_SpiritBearR.description>灵熊尸体</Corpse_TM_SpiritBearR.description>
+
+
+  <!-- Spirit Mongoose -->
+
+  <TM_SpiritMongooseR.label>灵猫鼬</TM_SpiritMongooseR.label>
+  <TM_SpiritMongooseR.description>灵之猫鼬十分聪明，适应性强。它代表着人们对周围世界的永不满足的好奇心，同时拥有在行动之前先看一看的能力。灵之猫鼬利用它们的狡猾和敏捷迅速对敌人发动致命打击或迅速运送资源。灵之猫鼬也是最好玩的精神动物。</TM_SpiritMongooseR.description>
+  <TM_SpiritMongooseR.tools.0.label>左爪</TM_SpiritMongooseR.tools.0.label>
+  <TM_SpiritMongooseR.tools.1.label>右爪</TM_SpiritMongooseR.tools.1.label>
+  <TM_SpiritMongooseR.tools.3.label>头</TM_SpiritMongooseR.tools.3.label>
+  <Meat_TM_SpiritMongooseR.label>灵猫鼬肉</Meat_TM_SpiritMongooseR.label>
+  <Meat_TM_SpiritMongooseR.description>灵猫鼬肉</Meat_TM_SpiritMongooseR.description>
+  <Corpse_TM_SpiritMongooseR.label>灵猫鼬尸体</Corpse_TM_SpiritMongooseR.label>
+  <Corpse_TM_SpiritMongooseR.description>灵猫鼬尸体</Corpse_TM_SpiritMongooseR.description>
+
+
+  <!-- Spirit Crow -->
+
+  <TM_SpiritCrowR.label>灵乌鸦</TM_SpiritCrowR.label>
+  <TM_SpiritCrowR.description>灵乌鸦是一种与生命奥秘和魔法有关的精神动物。灵乌鸦提供洞察和支持意图的手段。它也是财富的象征，尽管并不总是好运。如果乌鸦选择你作为你的灵魂或图腾动物，它会帮助你获得视力、变形和魔法连接的力量，并将在你努力获得这些能力中提供帮助。</TM_SpiritCrowR.description>
+  <TM_SpiritCrowR.tools.0.label>爪</TM_SpiritCrowR.tools.0.label>
+  <TM_SpiritCrowR.tools.1.label>喙</TM_SpiritCrowR.tools.1.label>
+  <TM_SpiritCrowR.tools.2.label>头</TM_SpiritCrowR.tools.2.label>
+  <Meat_TM_SpiritCrowR.label>灵乌鸦肉</Meat_TM_SpiritCrowR.label>
+  <Meat_TM_SpiritCrowR.description>灵乌鸦肉</Meat_TM_SpiritCrowR.description>
+  <Corpse_TM_SpiritCrowR.label>灵乌鸦尸体</Corpse_TM_SpiritCrowR.label>
+  <Corpse_TM_SpiritCrowR.description>灵乌鸦尸体</Corpse_TM_SpiritCrowR.description>
+
+
+</LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Disguise start -->
+
+  <TM_Disguise.label>欺骗</TM_Disguise.label>
+  <TM_Disguise.description>无面者通过操纵光影使任何看到他们的人潜意识的忽略他们。本质上就是让无脸者隐形。\n  \n无法欺骗已经把无面者视为威胁的单位。</TM_Disguise.description>
+
+
+  <!-- Mimic start -->
+
+  <TM_Mimic.label>模仿</TM_Mimic.label>
+  <TM_Mimic.description>无面者可以从法师或战士身上复制一个随机能力。一次只能存储一个能力，重复使用会替代之前的技能。</TM_Mimic.description>
+
+
+  <!-- Reversal Start -->
+
+  <TM_Reversal.label>倒转</TM_Reversal.label>
+  <TM_Reversal.description>在短时间内逆转所有近战和远程攻击。无脸者不会受到这些攻击的伤害。不能逆转技能和爆炸攻击。</TM_Reversal.description>
+
+
+  <!-- Transpose Start -->
+
+  <TM_Transpose.label>转移（I）</TM_Transpose.label>
+  <TM_Transpose.description>与目标单位交换位置。无脸者和目标在换位后将在短时间内迷茫。\n  \n施法时间: 0.8s\n范围: 40\n冷却时间: 15</TM_Transpose.description>
+
+  <TM_Transpose_I.label>转移（II）</TM_Transpose_I.label>
+  <TM_Transpose_I.description>与目标单位交换位置。无脸者和目标在换位后将在短时间内迷茫。\n  \n施法时间: 0.6s\n范围: 44\n冷却时间: 13</TM_Transpose_I.description>
+
+  <TM_Transpose_II.label>转移（III）</TM_Transpose_II.label>
+  <TM_Transpose_II.description>与目标单位交换位置。无脸者和目标在换位后将在短时间内迷茫。\n  \n施法时间: 0.4s\n范围: 47\n冷却时间: 11</TM_Transpose_II.description>
+
+  <TM_Transpose_III.label>转移（IV）</TM_Transpose_III.label>
+  <TM_Transpose_III.description>与目标单位交换位置。无脸者和目标在换位后将在短时间内迷茫。\n  \n施法时间: 0.2s\n范围: 50\n冷却时间: 9</TM_Transpose_III.description>
+
+
+  <!-- Possess -->
+
+  <TM_Possess.label>占据</TM_Possess.label>
+  <TM_Possess.description>就像木偶大师精神和身体的无表情运用会对目标生物产生极端的自我怀疑——这让他们能够通过心理暗示和胁迫来控制目标。		\n  \n附近的敌人除非看到可疑活动，否则不太可能立即发现藏匿物。如果被发现，中立和友好的派系会将被附身的单位的侵略行为视为敌对行为。\n\n只有具有类似人类的能够自我怀疑的头脑的生物才能被拥有。</TM_Possess.description>
+
+
+</LanguageData>

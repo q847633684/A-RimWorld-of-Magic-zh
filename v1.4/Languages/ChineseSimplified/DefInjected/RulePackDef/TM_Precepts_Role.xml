@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Base -->
+
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.0>r_roleName(p=7)->[firstPart][&gt;secondPart]</TM_NamerRoleVoidseeker.rulePack.rulesStrings.0>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.1>firstPart->虚空-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.1>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.2>firstPart->虚无-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.2>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.3>firstPart->隐秘-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.3>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.4>firstPart->星号-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.4>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.5>firstPart->星辰-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.5>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.6>firstPart->灵魂-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.6>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.7>firstPart->精神-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.7>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.8>firstPart->神智-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.8>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.9>secondPart->大师</TM_NamerRoleVoidseeker.rulePack.rulesStrings.9>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.10>secondPart->寻觅者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.10>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.11>secondPart->疯癫之人</TM_NamerRoleVoidseeker.rulePack.rulesStrings.11>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.12>secondPart->呼唤者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.12>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.13>secondPart->搜索者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.13>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.14>secondPart->操纵者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.14>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.15>secondPart->挑选者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.15>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.16>secondPart->抹除者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.16>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.17>secondPart->头脑</TM_NamerRoleVoidseeker.rulePack.rulesStrings.17>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.18>secondPart->耳语者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.18>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.19>secondPart->使者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.19>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.20>secondPart->发言者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.20>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.21>secondPart->管家</TM_NamerRoleVoidseeker.rulePack.rulesStrings.21>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.22>secondPart->从属</TM_NamerRoleVoidseeker.rulePack.rulesStrings.22>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.23>secondPart->存在</TM_NamerRoleVoidseeker.rulePack.rulesStrings.23>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.24>secondPart->一个</TM_NamerRoleVoidseeker.rulePack.rulesStrings.24>
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.25>secondPart->引导</TM_NamerRoleVoidseeker.rulePack.rulesStrings.25>
+
+
+</LanguageData>

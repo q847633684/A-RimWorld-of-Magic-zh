@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ah, the memories -->
+
+  <TM_TakingOrdersTD.stages.0.label>接受命令</TM_TakingOrdersTD.stages.0.label>
+  <TM_TakingOrdersTD.stages.0.description>另一个人给了我命令。这可能会变得烦人。</TM_TakingOrdersTD.stages.0.description>
+
+  <RangerSoldBondedPet.stages.0.label>契约动物被贩卖</RangerSoldBondedPet.stages.0.label>
+  <RangerSoldBondedPet.stages.0.description>我默许了我的契约动物被卖掉, 短时间内我无法再与动物们建立联系了。 (当此状态激活时动物契约会被解除)</RangerSoldBondedPet.stages.0.description>
+
+  <RangerPetDied.stages.0.label>契约动物死亡</RangerPetDied.stages.0.label>
+  <RangerPetDied.stages.0.description>我忠诚的动物伙伴去世了。 我感觉就像失去了一部分灵魂。</RangerPetDied.stages.0.description>
+
+  <Polymorphed.stages.0.label>厌恶变形</Polymorphed.stages.0.label>
+  <Polymorphed.stages.0.description>我被变形了，被迫生活在一个动物的身体里，多么没有人性啊。</Polymorphed.stages.0.description>
+
+  <Polymorphed_Transhumanist.stages.0.label>变形术!</Polymorphed_Transhumanist.stages.0.label>
+  <Polymorphed_Transhumanist.stages.0.description>我被变成了一只动物——这太神奇了！</Polymorphed_Transhumanist.stages.0.description>
+
+  <WarlockEmpathy.stages.0.label>共鸣</WarlockEmpathy.stages.0.label>
+  <WarlockEmpathy.stages.0.description>我能感觉到周围人的情绪。</WarlockEmpathy.stages.0.description>
+
+  <PsychicEmpathy.stages.0.label>共鸣</PsychicEmpathy.stages.0.label>
+  <PsychicEmpathy.stages.0.description>我无法解释为什么我感觉到这些强烈的情绪。</PsychicEmpathy.stages.0.description>
+
+  <TM_MemoryWipe.stages.0.label>新的开始</TM_MemoryWipe.stages.0.label>
+  <TM_MemoryWipe.stages.0.description>我不记得过去几天发生的事情了，也许这样也不错？</TM_MemoryWipe.stages.0.description>
+
+  <AteMysteryMeatDirect.stages.0.label>吃仆从肉</AteMysteryMeatDirect.stages.0.label>
+  <AteMysteryMeatDirect.stages.0.description>我吃了一个令人恶心的神秘肉。它与污泥和其他我无法识别的腐烂的东西一起捣碎。那是指甲吗？呕....。</AteMysteryMeatDirect.stages.0.description>
+
+  <AteMysteryMeatAsIngredient.stages.0.label>吃煮的仆从肉</AteMysteryMeatAsIngredient.stages.0.label>
+  <AteMysteryMeatAsIngredient.stages.0.description>我吃了一顿用仆从煮熟的饭。没有任何调味料或香料可以阻止我吃些令人恶心的印象。</AteMysteryMeatAsIngredient.stages.0.description>
+
+  <TM_PhantomLimb.stages.0.label>幻肢</TM_PhantomLimb.stages.0.label>
+  <TM_PhantomLimb.stages.0.description>这些身体部位真的是我的吗？我觉得自己是个外来者。</TM_PhantomLimb.stages.0.description>
+
+  <TM_PleasantDreamsTD.stages.0.label>美梦</TM_PleasantDreamsTD.stages.0.label>
+  <TM_PleasantDreamsTD.stages.0.description>我的梦里充满了让我快乐的回忆和事件。</TM_PleasantDreamsTD.stages.0.description>
+
+  <TM_BrightDayTD.stages.0.label>晴朗的一天</TM_BrightDayTD.stages.0.label>
+  <TM_BrightDayTD.stages.0.description>明亮的阳光照亮了我的一天。</TM_BrightDayTD.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AdministerShardOfExtraction.label>施行灵魂提取碎片</AdministerShardOfExtraction.label>
+  <AdministerShardOfExtraction.description>从小人中提取战斗或魔法的精华。这是一个不可逆的过程，将永久删除小人的职业，并将其转化为本质。本质可以被消耗以获得职业经验。碎片在提取后会销毁。</AdministerShardOfExtraction.description>
+  <AdministerShardOfExtraction.jobString>使用灵魂提取碎片</AdministerShardOfExtraction.jobString>
+
+
+</LanguageData>

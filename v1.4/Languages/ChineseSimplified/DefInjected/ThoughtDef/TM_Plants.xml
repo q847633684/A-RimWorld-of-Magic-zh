@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_PomanaSenseTD.stages.0.label>波莫纳糖浆</TM_PomanaSenseTD.stages.0.label>
+  <TM_PomanaSenseTD.stages.0.description>我的思想很放松,我的想法很清楚,我更加意识到并且对我在宇宙中的位置感到满意。</TM_PomanaSenseTD.stages.0.description>
+
+  <TM_SyrriumSenseTD.stages.0.label>波莫纳糖浆</TM_SyrriumSenseTD.stages.0.label>
+  <TM_SyrriumSenseTD.stages.0.description>我的思想放松了,答案似乎向我流动,好像我在宇宙中抚摸着。</TM_SyrriumSenseTD.stages.0.description>
+
+
+  <!-- Syrrium addiction -->
+
+
+  <TM_SyrriumWithdrawalTD.stages.0.label>波莫纳糖浆戒断</TM_SyrriumWithdrawalTD.stages.0.label>
+  <TM_SyrriumWithdrawalTD.stages.0.description>我好像有些混乱...等等,再给我来一瓶波莫纳糖浆</TM_SyrriumWithdrawalTD.stages.0.description>
+
+</LanguageData>

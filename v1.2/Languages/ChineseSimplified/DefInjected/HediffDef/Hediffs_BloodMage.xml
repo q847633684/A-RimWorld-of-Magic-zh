@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_BloodHD.label>血魔法</TM_BloodHD.label>
+  <TM_BloodHD.description>鲜血法师特有的能量。</TM_BloodHD.description>
+  <TM_BloodHD.stages.0.label></TM_BloodHD.stages.0.label>
+
+  <TM_RendHD.label>出血</TM_RendHD.label>
+  <TM_RendHD.description>造成大出血。</TM_RendHD.description>
+  <TM_RendHD.stages.0.label></TM_RendHD.stages.0.label>
+
+  <TM_BloodForBloodHD.label>血液流失</TM_BloodForBloodHD.label>
+  <TM_BloodForBloodHD.description>该目标的鲜血流向血法师，并治愈施法者。</TM_BloodForBloodHD.description>
+  <TM_BloodForBloodHD.stages.0.label></TM_BloodForBloodHD.stages.0.label>
+
+  <TM_BloodShieldHD.label>血魄护盾</TM_BloodShieldHD.label>
+  <TM_BloodShieldHD.description>用施法者的血液能量形成的屏障包围目标。来自护盾的能量将缓慢地再生它所保护的单位。</TM_BloodShieldHD.description>
+  <TM_BloodShieldHD.stages.0.label></TM_BloodShieldHD.stages.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- consolidated enchantments -->
+
+  <TM_HediffEnchantment_maxEnergy.label>最大能量:</TM_HediffEnchantment_maxEnergy.label>
+  <TM_HediffEnchantment_maxEnergy.description>能量容量。</TM_HediffEnchantment_maxEnergy.description>
+  <TM_HediffEnchantment_maxEnergy.stages.0.label></TM_HediffEnchantment_maxEnergy.stages.0.label>
+
+  <TM_HediffEnchantment_coolDown.label>冷却时间:</TM_HediffEnchantment_coolDown.label>
+  <TM_HediffEnchantment_coolDown.description>魔法和战技的冷却时间。</TM_HediffEnchantment_coolDown.description>
+  <TM_HediffEnchantment_coolDown.stages.0.label></TM_HediffEnchantment_coolDown.stages.0.label>
+
+  <TM_HediffEnchantment_energyCost.label>能量消耗:</TM_HediffEnchantment_energyCost.label>
+  <TM_HediffEnchantment_energyCost.description>降低使用魔法的能量消耗的能力。</TM_HediffEnchantment_energyCost.description>
+  <TM_HediffEnchantment_energyCost.stages.0.label></TM_HediffEnchantment_energyCost.stages.0.label>
+
+  <TM_HediffEnchantment_energyRegen.label>能量再生:</TM_HediffEnchantment_energyRegen.label>
+  <TM_HediffEnchantment_energyRegen.description>魔法能量再生。</TM_HediffEnchantment_energyRegen.description>
+  <TM_HediffEnchantment_energyRegen.stages.0.label></TM_HediffEnchantment_energyRegen.stages.0.label>
+
+  <TM_HediffEnchantment_xpGain.label>经验获取:</TM_HediffEnchantment_xpGain.label>
+  <TM_HediffEnchantment_xpGain.description>附魔:提高经验增益。</TM_HediffEnchantment_xpGain.description>
+  <TM_HediffEnchantment_xpGain.stages.0.label></TM_HediffEnchantment_xpGain.stages.0.label>
+
+  <TM_HediffEnchantment_dmgResistance.label>技能抗性:</TM_HediffEnchantment_dmgResistance.label>
+  <TM_HediffEnchantment_dmgResistance.description>抵抗战技和法术效果和减少魔法攻击伤害的能力。</TM_HediffEnchantment_dmgResistance.description>
+  <TM_HediffEnchantment_dmgResistance.stages.0.label></TM_HediffEnchantment_dmgResistance.stages.0.label>
+
+  <TM_HediffEnchantment_dmgBonus.label>技能强度:</TM_HediffEnchantment_dmgBonus.label>
+  <TM_HediffEnchantment_dmgBonus.description>增加技能的效果。</TM_HediffEnchantment_dmgBonus.description>
+  <TM_HediffEnchantment_dmgBonus.stages.0.label></TM_HediffEnchantment_dmgBonus.stages.0.label>
+
+  <TM_HediffEnchantment_arcalleumCooldown.label>魔法合金冷却</TM_HediffEnchantment_arcalleumCooldown.label>
+  <TM_HediffEnchantment_arcalleumCooldown.description>一种可以立即刷新技能冷却时间的能力。</TM_HediffEnchantment_arcalleumCooldown.description>
+  <TM_HediffEnchantment_arcalleumCooldown.stages.0.label></TM_HediffEnchantment_arcalleumCooldown.stages.0.label>
+
+
+  <!-- legacy enchantments -->
+
+  <TM_HediffEnchantment_maxMP.label>魔法 - 最大法力值:</TM_HediffEnchantment_maxMP.label>
+  <TM_HediffEnchantment_maxMP.description>法力容量。</TM_HediffEnchantment_maxMP.description>
+  <TM_HediffEnchantment_maxMP.stages.0.label></TM_HediffEnchantment_maxMP.stages.0.label>
+
+  <TM_HediffEnchantment_maxSP.label>战技 - 最大体力:</TM_HediffEnchantment_maxSP.label>
+  <TM_HediffEnchantment_maxSP.description>体力容量。</TM_HediffEnchantment_maxSP.description>
+  <TM_HediffEnchantment_maxSP.stages.0.label></TM_HediffEnchantment_maxSP.stages.0.label>
+
+  <TM_HediffEnchantment_spCoolDown.label>战技 - 冷却时间:</TM_HediffEnchantment_spCoolDown.label>
+  <TM_HediffEnchantment_spCoolDown.description>减少战技冷却时间的附魔。</TM_HediffEnchantment_spCoolDown.description>
+  <TM_HediffEnchantment_spCoolDown.stages.0.label></TM_HediffEnchantment_spCoolDown.stages.0.label>
+
+  <TM_HediffEnchantment_mpCost.label>魔法 - 法力消耗:</TM_HediffEnchantment_mpCost.label>
+  <TM_HediffEnchantment_mpCost.description>魔法能量消耗。</TM_HediffEnchantment_mpCost.description>
+  <TM_HediffEnchantment_mpCost.stages.0.label></TM_HediffEnchantment_mpCost.stages.0.label>
+
+  <TM_HediffEnchantment_spCost.label>战技 - 体力消耗:</TM_HediffEnchantment_spCost.label>
+  <TM_HediffEnchantment_spCost.description>调整使用战技的能量消耗的魔法。</TM_HediffEnchantment_spCost.description>
+  <TM_HediffEnchantment_spCost.stages.0.label></TM_HediffEnchantment_spCost.stages.0.label>
+
+  <TM_HediffEnchantment_mpRegenRate.label>魔法 - 法力回复:</TM_HediffEnchantment_mpRegenRate.label>
+  <TM_HediffEnchantment_mpRegenRate.description>魔法能量再生。</TM_HediffEnchantment_mpRegenRate.description>
+  <TM_HediffEnchantment_mpRegenRate.stages.0.label></TM_HediffEnchantment_mpRegenRate.stages.0.label>
+
+  <TM_HediffEnchantment_spRegenRate.label>战技 - 体力回复:</TM_HediffEnchantment_spRegenRate.label>
+  <TM_HediffEnchantment_spRegenRate.description>体力能量再生。</TM_HediffEnchantment_spRegenRate.description>
+  <TM_HediffEnchantment_spRegenRate.stages.0.label></TM_HediffEnchantment_spRegenRate.stages.0.label>
+
+  <TM_HediffEnchantment_arcaneRes.label>技能抗性:</TM_HediffEnchantment_arcaneRes.label>
+  <TM_HediffEnchantment_arcaneRes.description>抵抗技能的影响。</TM_HediffEnchantment_arcaneRes.description>
+  <TM_HediffEnchantment_arcaneRes.stages.0.label></TM_HediffEnchantment_arcaneRes.stages.0.label>
+
+  <TM_HediffEnchantment_arcaneDmg.label>技能强度:</TM_HediffEnchantment_arcaneDmg.label>
+  <TM_HediffEnchantment_arcaneDmg.description>增加技能的效果。</TM_HediffEnchantment_arcaneDmg.description>
+  <TM_HediffEnchantment_arcaneDmg.stages.0.label></TM_HediffEnchantment_arcaneDmg.stages.0.label>
+
+  <TM_HediffEnchantment_combatDmg.label>战技-战技强度:</TM_HediffEnchantment_combatDmg.label>
+  <TM_HediffEnchantment_combatDmg.description>增加战技的效果。</TM_HediffEnchantment_combatDmg.description>
+  <TM_HediffEnchantment_combatDmg.stages.0.label></TM_HediffEnchantment_combatDmg.stages.0.label>
+
+  <TM_HediffEnchantment_arcaneSpectre.label>魔法幽魂</TM_HediffEnchantment_arcaneSpectre.label>
+  <TM_HediffEnchantment_arcaneSpectre.description>一种魔法，可以在任何攻击中增加额外的精神伤害。</TM_HediffEnchantment_arcaneSpectre.description>
+  <TM_HediffEnchantment_arcaneSpectre.stages.0.label></TM_HediffEnchantment_arcaneSpectre.stages.0.label>
+
+  <TM_HediffEnchantment_phantomShift.label>幽魂转换</TM_HediffEnchantment_phantomShift.label>
+  <TM_HediffEnchantment_phantomShift.description>将所有伤害从攻击转移到阴间的魔法。</TM_HediffEnchantment_phantomShift.description>
+  <TM_HediffEnchantment_phantomShift.stages.0.label></TM_HediffEnchantment_phantomShift.stages.0.label>
+
+  <TM_HediffEnchantment_fireImmunity.label>火免</TM_HediffEnchantment_fireImmunity.label>
+  <TM_HediffEnchantment_fireImmunity.description>仍然可以受到基于火的伤害，但不能再着火。</TM_HediffEnchantment_fireImmunity.description>
+  <TM_HediffEnchantment_fireImmunity.stages.0.label></TM_HediffEnchantment_fireImmunity.stages.0.label>
+
+
+</LanguageData>

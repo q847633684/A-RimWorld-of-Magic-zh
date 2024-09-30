@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- wave of fear -->
+
+  <Projectile_WaveOfFear.label>恐惧之波</Projectile_WaveOfFear.label>
+
+
+  <!-- Spite -->
+
+  <Projectile_Spite.label>恶意</Projectile_Spite.label>
+
+
+  <!-- grave blade -->
+
+  <Projectile_GraveBlade.label>唤灵冲击</Projectile_GraveBlade.label>
+  <Projectile_GraveBlade_I.label>唤灵冲击</Projectile_GraveBlade_I.label>
+  <Projectile_GraveBlade_II.label>唤灵冲击</Projectile_GraveBlade_II.label>
+  <Projectile_GraveBlade_III.label>唤灵冲击</Projectile_GraveBlade_III.label>
+
+
+</LanguageData>

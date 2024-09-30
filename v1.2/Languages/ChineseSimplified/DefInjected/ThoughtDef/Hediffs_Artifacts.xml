@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mind Ward -->
+
+  <MarbleMindTD.stages.0.label>心灵防护</MarbleMindTD.stages.0.label>
+  <MarbleMindTD.stages.0.description>我的心灵已经坚强起来，可以抵御即将到来的麻烦。</MarbleMindTD.stages.0.description>
+
+
+  <!-- soul orb infusion debuff -->
+
+  <TM_TraitInfusion.stages.0.label>吸收特性</TM_TraitInfusion.stages.0.label>
+  <TM_TraitInfusion.stages.0.description>这些变化让我感觉自己像个陌生人，需要一些时间才能重新发现我是谁。</TM_TraitInfusion.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Spirit Possession -->
+
+  <TM_SpiritPossession.label>灵魂入侵</TM_SpiritPossession.label>
+  <TM_SpiritPossession.description>灵魂不能长期存在于物质世界，因为会持续消耗灵魂能量，当耗尽使，灵魂将会消散，而占据肉体后可降低灵魂能量的消耗速度。可以占据尸体、动物和活人的身体，不过只有占据活人的身体后，在灵魂能量低于某个限度时，才会自动回复灵魂能量，然而，这也会因为一具身体因为拥有两个灵魂而造成冲突。占据动物和尸体时，灵魂能量降低到一定程度后会自动脱离，而占据动物时可以主动脱离。脱离后占据的身体会回复到原来的状态。灵魂能量可以通过吸收物理伤害，使用灵魂虹吸取和冥想来回复。当灵魂虹吸杀死目标时，会最大效率的获取灵魂能量。被附身的人物没有自愈和免疫能力，只有在获取灵魂能量时才能自愈伤口和疾病。</TM_SpiritPossession.description>
+
+
+  <!-- Spirit Drain -->
+
+  <TM_SpiritDrain.label>灵魂虹吸</TM_SpiritDrain.label>
+  <TM_SpiritDrain.description>摄取他人的灵魂，填补自己的灵魂能量。</TM_SpiritDrain.description>
+
+
+  <!-- Distort Spirit -->
+
+  <TM_DistortSpirit.label>灵魂扭曲（I）</TM_DistortSpirit.label>
+  <TM_DistortSpirit.description>扭曲目标的灵魂，使之灵魂和身体产生冲突。施法者对受到灵魂扭曲目标所造成的伤害提高20%。\n	\n范围: 35\n施法时间: 3s\n充能时间: 60s</TM_DistortSpirit.description>
+
+  <TM_DistortSpirit_I.label>灵魂扭曲（II）</TM_DistortSpirit_I.label>
+  <TM_DistortSpirit_I.description>扭曲目标的灵魂，使之灵魂和身体产生冲突。施法者对受到灵魂扭曲目标所造成的伤害提高20%。\n	\n范围: 40\n施法时间: 2s\n充能时间: 45s</TM_DistortSpirit_I.description>
+
+  <TM_DistortSpirit_II.label>灵魂扭曲（III）</TM_DistortSpirit_II.label>
+  <TM_DistortSpirit_II.description>扭曲目标的灵魂，使之灵魂和身体产生冲突。施法者对受到灵魂扭曲目标所造成的伤害提高20%。\n	\n范围: 45\n施法时间: 1.5s\n充能时间: 30s</TM_DistortSpirit_II.description>
+
+  <TM_DistortSpirit_III.label>灵魂扭曲（IV）</TM_DistortSpirit_III.label>
+  <TM_DistortSpirit_III.description>扭曲目标的灵魂，使之灵魂和身体产生冲突。施法者对受到灵魂扭曲目标所造成的伤害提高20%。\n	\n范围: 50\n施法时间: 1s\n充能时间: 20s</TM_DistortSpirit_III.description>
+
+
+  <!-- Summon Spirit Animal -->
+
+  <TM_SummonSpiritAnimalMass.label>唤灵：兽灵</TM_SummonSpiritAnimalMass.label>
+  <TM_SummonSpiritAnimalMass.description>召唤三种兽灵各一只，为你战斗一段时间。</TM_SummonSpiritAnimalMass.description>
+
+
+  <!-- Spirit Rally -->
+
+  <TM_SpiritRally.label>塑灵：狼灵（I）</TM_SpiritRally.label>
+  <TM_SpiritRally.description>通过施法，将附近尸体中剩余的灵魂提取出来并塑造成幽灵狼。每具尸体都可以产生一个幽灵狼。\n\n施法时间: 2s\n冷却时间: 45s</TM_SpiritRally.description>
+
+  <TM_SpiritRally_I.label>塑灵：狼灵（II）</TM_SpiritRally_I.label>
+  <TM_SpiritRally_I.description>通过施法，将附近尸体中剩余的灵魂提取出来并塑造成幽灵狼。每具尸体都可以产生一个幽灵狼。\n\n施法时间: 1s\n冷却时间: 30s</TM_SpiritRally_I.description>
+
+  <TM_SpiritRally_II.label>塑灵：狼灵（III）</TM_SpiritRally_II.label>
+  <TM_SpiritRally_II.description>通过施法，将附近尸体中剩余的灵魂提取出来并塑造成幽灵狼。每具尸体都可以产生一个幽灵狼。\n\n施法时间: 0.5s\n冷却时间: 20s</TM_SpiritRally_II.description>
+
+  <TM_SpiritRally_III.label>塑灵：狼灵（IV）</TM_SpiritRally_III.label>
+  <TM_SpiritRally_III.description>通过施法，将附近尸体中剩余的灵魂提取出来并塑造成幽灵狼。每具尸体都可以产生一个幽灵狼。\n\n施法时间: 0s\n冷却时间: 15s。</TM_SpiritRally_III.description>
+
+
+  <!-- Spirit Storm -->
+
+  <TM_SpiritStorm.label>灵魂风暴</TM_SpiritStorm.label>
+  <TM_SpiritStorm.description>使用灵魂能量创造一个锚点，捕获周围和灵魂界那些充满负面情绪的灵魂。这些愤怒的灵魂群将迅速发展成一个漩涡，撕裂笼罩的一切生灵。可以在持续时间内控制灵魂风暴的移动方向。</TM_SpiritStorm.description>
+
+  <TM_ControlSpiritStorm.label>引导灵魂风暴</TM_ControlSpiritStorm.label>
+  <TM_ControlSpiritStorm.description>引导灵魂风暴到指定地点。</TM_ControlSpiritStorm.description>
+
+
+  <!-- EN: Distorts the balance between spirit and body of living pawns in a wide area.
+  Pawns suffering from spirit distortion will take 20% more damage from all sources.\n	\n范围: 35\nCast time: 3s\nRecharge: 60s -->
+  <!-- EN: Possess a physical body, either dead or living.
+  Possessing a body decreases how quickly spirit energy is lost.
+  Deceased bodies or animals may be freely possessed, but do not generate spirit energy on their own,
+  only another body with an existing spirit host will generate spirit energy. However,
+  a body that is already occupied is more difficult to possess and the possessing spirit may struggle with the original spirit of the host.
+  If the spirit still has energy, then it will extract from the body and become a wandering spirit once again.
+  If a spirit's energy is completely drained, then it will cease to exist.
+  When a spirit leaves a body, then the body will return to its original state or owner.
+  Spirit Energy may be gained by siphoning energy through physical harm, using Spirit Drain, or through meditation.
+  Killing another pawn with spirit drain absorbs a large amount of spirit. The body of a possessed pawn will not recover naturally,
+  and only heals wounds and maladies when it gains spirit energy. -->
+  <!-- EN: Enlists the aid of recently deceased pawns to inhabit the form of a spirit wolf and assist the caster for a short time.
+  Spirit Rally is only effective when cast in the proximity of corpses.
+  Each corpse may generate a spirit.\n\nCast time: 2s\nCooldown: 45s -->
+
+</LanguageData>

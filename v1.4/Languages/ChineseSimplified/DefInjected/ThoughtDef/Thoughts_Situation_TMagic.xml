@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- affecting opinion -->
+
+  <TM_Undead.stages.0.label>亡灵</TM_Undead.stages.0.label>
+  <TM_Necromancer.stages.0.label>死灵法师</TM_Necromancer.stages.0.label>
+  <TM_OpinionOfBoundless.stages.0.label>无限的傲慢</TM_OpinionOfBoundless.stages.0.label>
+  <TM_Lich.stages.0.label>巫妖</TM_Lich.stages.0.label>
+  <TM_HolierThanThou.stages.0.label>自以为是的法师</TM_HolierThanThou.stages.0.label>
+
+  <TM_FemaleOpinionOfSuccubus.stages.0.label>羡慕魅魔</TM_FemaleOpinionOfSuccubus.stages.0.label>
+  <TM_FemaleOpinionOfSuccubus.stages.0.description>大家关注她都是因为她的颜值，其他的就不重要了吗？</TM_FemaleOpinionOfSuccubus.stages.0.description>
+  <TM_FemaleOpinionOfSuccubus.stages.1.label>不自然的美</TM_FemaleOpinionOfSuccubus.stages.1.label>
+  <TM_FemaleOpinionOfSuccubus.stages.1.description>她有一种我永远不会拥有的吸引力……我因此而讨厌她。</TM_FemaleOpinionOfSuccubus.stages.1.description>
+
+  <TM_MaleOpinionOfSuccubus.stages.0.label>美丽的幻觉</TM_MaleOpinionOfSuccubus.stages.0.label>
+  <TM_MaleOpinionOfSuccubus.stages.0.description>战斗艺术的经验揭示了她的形态和动作中的谎言，但有时更容易接受欺骗</TM_MaleOpinionOfSuccubus.stages.0.description>
+  <TM_MaleOpinionOfSuccubus.stages.1.label>极具吸引力</TM_MaleOpinionOfSuccubus.stages.1.label>
+  <TM_MaleOpinionOfSuccubus.stages.1.description>我可以看出她使用恶魔力量来让自己变得更有吸引力，但这一知识并不能减弱这种效果</TM_MaleOpinionOfSuccubus.stages.1.description>
+  <TM_MaleOpinionOfSuccubus.stages.2.label>诱人</TM_MaleOpinionOfSuccubus.stages.2.label>
+  <TM_MaleOpinionOfSuccubus.stages.2.description>她身上有一种不可否认的、压倒性的吸引力</TM_MaleOpinionOfSuccubus.stages.2.description>
+
+  <Thought_EnchantedAura.stages.0.label>迷人</Thought_EnchantedAura.stages.0.label>
+  <Thought_EnchantedAura.stages.0.description>拥有迷人的存在。</Thought_EnchantedAura.stages.0.description>
+  <Thought_EnchantedAura.stages.1.label>迷人</Thought_EnchantedAura.stages.1.label>
+  <Thought_EnchantedAura.stages.1.description>拥有迷人的光环。</Thought_EnchantedAura.stages.1.description>
+  <Thought_EnchantedAura.stages.2.label>强大的诱惑力</Thought_EnchantedAura.stages.2.label>
+  <Thought_EnchantedAura.stages.2.description>具有强大的诱惑力。</Thought_EnchantedAura.stages.2.description>
+  <Thought_EnchantedAura.stages.3.label>积极迷人</Thought_EnchantedAura.stages.3.label>
+  <Thought_EnchantedAura.stages.3.description>非常迷人。</Thought_EnchantedAura.stages.3.description>
+
+  <Thought_EnchantedBody.stages.0.label>第三只手臂</Thought_EnchantedBody.stages.0.label>
+  <Thought_EnchantedBody.stages.0.description>有第三只手臂...看起来不舒服而且不自然。</Thought_EnchantedBody.stages.0.description>
+  <Thought_EnchantedBody.stages.1.label>四只手臂</Thought_EnchantedBody.stages.1.label>
+  <Thought_EnchantedBody.stages.1.description>我不在乎这些额外的手臂是否具有魔法，它太奇怪了。</Thought_EnchantedBody.stages.1.description>
+  <Thought_EnchantedBody.stages.2.label>奇怪的成长</Thought_EnchantedBody.stages.2.label>
+  <Thought_EnchantedBody.stages.2.description>仅仅开始长出额外的身体部位是不合理的； 好像第三只眼一直在盯着我。</Thought_EnchantedBody.stages.2.description>
+  <Thought_EnchantedBody.stages.3.label>突变</Thought_EnchantedBody.stages.3.label>
+  <Thought_EnchantedBody.stages.3.description>接下来是什么，另一个头？ 这已经太过分了。</Thought_EnchantedBody.stages.3.description>
+  <Thought_EnchantedBody.stages.4.label>钦佩超人类主义者</Thought_EnchantedBody.stages.4.label>
+  <Thought_EnchantedBody.stages.4.description>能够将自己变成任何你想要的东西 - 多么惊人的能力！</Thought_EnchantedBody.stages.4.description>
+  <Thought_EnchantedBody.stages.5.label>可恶的身体纯粹主义者</Thought_EnchantedBody.stages.5.label>
+  <Thought_EnchantedBody.stages.5.description>真是个怪胎，我觉得太恶心了。</Thought_EnchantedBody.stages.5.description>
+
+
+  <!-- affecting mood -->
+
+  <Thought_ObservedUndead.stages.0.label>观察到的不死生物</Thought_ObservedUndead.stages.0.label>
+  <Thought_ObservedUndead.stages.0.description>我讨厌和不死生物在一起。 我不禁想……我死后会发生这种事吗？</Thought_ObservedUndead.stages.0.description>
+
+  <Thought_WearingDemonhide.stages.0.label>恶魔皮 {0}</Thought_WearingDemonhide.stages.0.label>
+  <Thought_WearingDemonhide.stages.0.description>穿着恶魔皮制成的服装让我感觉更加自信。</Thought_WearingDemonhide.stages.0.description>
+  <Thought_WearingDemonhide.stages.1.label>恶魔皮 {0} (+1)</Thought_WearingDemonhide.stages.1.label>
+  <Thought_WearingDemonhide.stages.1.description>魔皮服装是我精英身份的象征。</Thought_WearingDemonhide.stages.1.description>
+  <Thought_WearingDemonhide.stages.2.label>恶魔皮 {0} (+2)</Thought_WearingDemonhide.stages.2.label>
+  <Thought_WearingDemonhide.stages.2.description>我披着恶魔的皮衣； 我的状态和安全得到了保证。</Thought_WearingDemonhide.stages.2.description>
+
+
+</LanguageData>

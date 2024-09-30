@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Grimoire.label>魔法书</TM_Grimoire.label>
+  <TM_Grimoire.description>一本预言魔法之谜的书。这些卷可以帮助读者利用神秘的力量。</TM_Grimoire.description>
+
+  <TM_CombatManual.label>战斗手册</TM_CombatManual.label>
+  <TM_CombatManual.description>描述各种战斗技巧的手册。</TM_CombatManual.description>
+
+
+</LanguageData>

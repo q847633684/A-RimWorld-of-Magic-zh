@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Skeletal.label>骷髅</TM_Skeletal.label>
+  <TM_Skeletal.corePart.parts.1.customLabel>颈骨</TM_Skeletal.corePart.parts.1.customLabel>
+  <TM_Skeletal.corePart.parts.1.parts.0.customLabel>头骨</TM_Skeletal.corePart.parts.1.parts.0.customLabel>
+  <TM_Skeletal.corePart.parts.1.parts.0.parts.0.customLabel>下巴</TM_Skeletal.corePart.parts.1.parts.0.parts.0.customLabel>
+  <TM_Skeletal.corePart.parts.2.customLabel>左肩</TM_Skeletal.corePart.parts.2.customLabel>
+  <TM_Skeletal.corePart.parts.2.parts.0.customLabel>左锁骨</TM_Skeletal.corePart.parts.2.parts.0.customLabel>
+  <TM_Skeletal.corePart.parts.2.parts.1.customLabel>左臂区域</TM_Skeletal.corePart.parts.2.parts.1.customLabel>
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.0.customLabel>左肱骨</TM_Skeletal.corePart.parts.2.parts.1.parts.0.customLabel>
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.1.customLabel>左半径</TM_Skeletal.corePart.parts.2.parts.1.parts.1.customLabel>
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.2.customLabel>左手骨骼</TM_Skeletal.corePart.parts.2.parts.1.parts.2.customLabel>
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.0.customLabel>左小指骨</TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.0.customLabel>
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.1.customLabel>左无名指骨头</TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.1.customLabel>
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.2.customLabel>左中指骨头</TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.2.customLabel>
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.3.customLabel>左食指骨头</TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.3.customLabel>
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.4.customLabel>左拇指骨</TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.4.customLabel>
+  <TM_Skeletal.corePart.parts.3.customLabel>右肩</TM_Skeletal.corePart.parts.3.customLabel>
+  <TM_Skeletal.corePart.parts.3.parts.0.customLabel>右锁骨</TM_Skeletal.corePart.parts.3.parts.0.customLabel>
+  <TM_Skeletal.corePart.parts.3.parts.1.customLabel>右臂区域</TM_Skeletal.corePart.parts.3.parts.1.customLabel>
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.0.customLabel>右肱骨</TM_Skeletal.corePart.parts.3.parts.1.parts.0.customLabel>
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.1.customLabel>右半径</TM_Skeletal.corePart.parts.3.parts.1.parts.1.customLabel>
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.2.customLabel>右手骨骼</TM_Skeletal.corePart.parts.3.parts.1.parts.2.customLabel>
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.0.customLabel>右小指骨</TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.0.customLabel>
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.1.customLabel>右手无名指骨头</TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.1.customLabel>
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.2.customLabel>右手中指骨头</TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.2.customLabel>
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.3.customLabel>右手食指骨头</TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.3.customLabel>
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.4.customLabel>右手拇指骨</TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.4.customLabel>
+  <TM_Skeletal.corePart.parts.4.customLabel>左腿</TM_Skeletal.corePart.parts.4.customLabel>
+  <TM_Skeletal.corePart.parts.4.parts.0.customLabel>左股骨</TM_Skeletal.corePart.parts.4.parts.0.customLabel>
+  <TM_Skeletal.corePart.parts.4.parts.1.customLabel>左胫骨</TM_Skeletal.corePart.parts.4.parts.1.customLabel>
+  <TM_Skeletal.corePart.parts.4.parts.2.customLabel>左脚骨骼</TM_Skeletal.corePart.parts.4.parts.2.customLabel>
+  <TM_Skeletal.corePart.parts.4.parts.2.parts.0.customLabel>左小脚趾骨</TM_Skeletal.corePart.parts.4.parts.2.parts.0.customLabel>
+  <TM_Skeletal.corePart.parts.4.parts.2.parts.1.customLabel>左第四趾骨</TM_Skeletal.corePart.parts.4.parts.2.parts.1.customLabel>
+  <TM_Skeletal.corePart.parts.4.parts.2.parts.2.customLabel>左中脚趾骨</TM_Skeletal.corePart.parts.4.parts.2.parts.2.customLabel>
+  <TM_Skeletal.corePart.parts.4.parts.2.parts.3.customLabel>左第二脚趾骨</TM_Skeletal.corePart.parts.4.parts.2.parts.3.customLabel>
+  <TM_Skeletal.corePart.parts.4.parts.2.parts.4.customLabel>左大脚趾骨</TM_Skeletal.corePart.parts.4.parts.2.parts.4.customLabel>
+  <TM_Skeletal.corePart.parts.5.customLabel>右腿</TM_Skeletal.corePart.parts.5.customLabel>
+  <TM_Skeletal.corePart.parts.5.parts.0.customLabel>右股骨</TM_Skeletal.corePart.parts.5.parts.0.customLabel>
+  <TM_Skeletal.corePart.parts.5.parts.1.customLabel>右胫骨</TM_Skeletal.corePart.parts.5.parts.1.customLabel>
+  <TM_Skeletal.corePart.parts.5.parts.2.customLabel>右脚骨骼</TM_Skeletal.corePart.parts.5.parts.2.customLabel>
+  <TM_Skeletal.corePart.parts.5.parts.2.parts.0.customLabel>右小脚趾骨</TM_Skeletal.corePart.parts.5.parts.2.parts.0.customLabel>
+  <TM_Skeletal.corePart.parts.5.parts.2.parts.1.customLabel>右第四趾骨</TM_Skeletal.corePart.parts.5.parts.2.parts.1.customLabel>
+  <TM_Skeletal.corePart.parts.5.parts.2.parts.2.customLabel>右中脚趾骨</TM_Skeletal.corePart.parts.5.parts.2.parts.2.customLabel>
+  <TM_Skeletal.corePart.parts.5.parts.2.parts.3.customLabel>右第二脚趾骨</TM_Skeletal.corePart.parts.5.parts.2.parts.3.customLabel>
+  <TM_Skeletal.corePart.parts.5.parts.2.parts.4.customLabel>右大脚趾骨</TM_Skeletal.corePart.parts.5.parts.2.parts.4.customLabel>
+  <TM_Skeletal.corePart.customLabel>胸腔</TM_Skeletal.corePart.customLabel>
+
+
+</LanguageData>

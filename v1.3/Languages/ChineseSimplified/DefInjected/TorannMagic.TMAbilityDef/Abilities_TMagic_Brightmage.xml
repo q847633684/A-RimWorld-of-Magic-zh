@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Light Lance -->
+
+  <TM_LightLance.label>光矛</TM_LightLance.label>
+  <TM_LightLance.description>把光聚焦成一束强烈的光束，燃烧它经过所有的东西。这种能力是由储存的光赋予的。</TM_LightLance.description>
+
+
+  <!-- Sunfire -->
+
+  <TM_Sunfire.label>阳火（I）</TM_Sunfire.label>
+  <TM_Sunfire.description>使目标区域布满燃烧的光带。这种能力是由储存的光赋予的。\n		施法时间：3s\n		范围：50\n		冷却时间：60s\n		半径：5\n		总数：13</TM_Sunfire.description>
+
+  <TM_Sunfire_I.label>阳火（II）</TM_Sunfire_I.label>
+  <TM_Sunfire_I.description>使目标区域布满燃烧的光带。这种能力是由储存的光赋予的。\n		施法时间：2.7s\n		范围：55\n		冷却时间：55s\n		半径：6\n		总数：14</TM_Sunfire_I.description>
+
+  <TM_Sunfire_II.label>阳火（III）</TM_Sunfire_II.label>
+  <TM_Sunfire_II.description>使目标区域布满燃烧的光带。这种能力是由储存的光赋予的。\n		施法时间：2.4s\n		范围：60\n		冷却时间：50s\n		半径：7\n		总数：15</TM_Sunfire_II.description>
+
+  <TM_Sunfire_III.label>阳火（IV）</TM_Sunfire_III.label>
+  <TM_Sunfire_III.description>使目标区域布满燃烧的光带。这种能力是由储存的光赋予的。\n		施法时间：2.2s\n		范围：65\n		冷却时间：45s\n		半径：8\n		总数：16</TM_Sunfire_III.description>
+
+
+  <!-- Light Burst -->
+
+  <TM_LightBurst.label>光爆</TM_LightBurst.label>
+  <TM_LightBurst.description>产生光爆，使那些被爆炸炸到的人失明和迷失方向。迷失方向的人将无法分辨敌友，并可能向附近的友军开火。这种能力是由储存的光赋予的。</TM_LightBurst.description>
+
+
+  <!-- Light Skip -->
+
+  <TM_LightSkip.label>光行</TM_LightSkip.label>
+  <TM_LightSkip.description>施法者乘着光波进行近乎瞬间的移动。施法者的位置和目标的位置上都不能被封顶。</TM_LightSkip.description>
+
+
+  <!-- Mass Light Skip -->
+
+  <TM_LightSkipMass.label>范围光行</TM_LightSkipMass.label>
+  <TM_LightSkipMass.description>施法者和方圆5格范围内的所有友方单位乘着光波进行近乎瞬间的旅行。屋檐下的人是不会被运送的。</TM_LightSkipMass.description>
+
+
+  <!-- Global Light Skip -->
+
+  <TM_LightSkipGlobal.label>全球光行</TM_LightSkipGlobal.label>
+  <TM_LightSkipGlobal.description>施法者和方圆5格范围内的所有友方单位乘着光波进行近乎瞬间的旅行。屋檐下的人是不会被运送的。</TM_LightSkipGlobal.description>
+
+
+  <!-- Refraction -->
+
+  <TM_Refraction.label>折射</TM_Refraction.label>
+  <TM_Refraction.description>创建一道光墙，当物体穿过光墙时，光墙会影响它们。敌人的炮弹可能会偏离其预定目标。友军的炮弹可以使用一部分光能来产生炮弹的镜像反射。这堵墙将持续大约25秒，或者直到能量耗尽。这种能力是由储存的光赋予的。</TM_Refraction.description>
+
+
+  <!-- Spirit of Light (SoL) -->
+
+  <TM_SpiritOfLight.label>光之精灵</TM_SpiritOfLight.label>
+  <TM_SpiritOfLight.description>召唤一个光之灵来帮助和保护施法者。此技能需要60点法力才能维持，并减少75%的法力回复。再次使用此魔法来驱散灵魂。光之灵能够储存光能并利用光能来执行攻击。光之灵可以自主地帮助施法者，\n		并将执行以下动作：\n		o偏转攻击；烧灼被击倒的人的伤口；\n		o攻击敌人（仅在被征召时）；\n		o改善附近盟友的情绪；\n		o制造出一阵喜悦；\n		o保护施法者的梦想</TM_SpiritOfLight.description>
+
+
+  <!-- Create Light -->
+
+  <TM_SoL_CreateLight.label>创造光源</TM_SoL_CreateLight.label>
+  <TM_SoL_CreateLight.description>引导光之灵在一个区域内创造光源。这将减少光之灵的光能的70%再生速度。在任何位置再次使用此能力来关闭光源。</TM_SoL_CreateLight.description>
+
+
+  <!-- Equalize -->
+
+  <TM_SoL_Equalize.label>均衡</TM_SoL_Equalize.label>
+  <TM_SoL_Equalize.description>在光之灵和施法者之间平衡光能。</TM_SoL_Equalize.description>
+
+
+</LanguageData>

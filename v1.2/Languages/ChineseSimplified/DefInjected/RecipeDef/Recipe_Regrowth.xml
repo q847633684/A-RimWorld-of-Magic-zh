@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <RecipeDef Abstract="True" Name="SurgeryFlesh">
+		<effectWorking>Surgery</effectWorking>
+		<soundWorking>Recipe_Surgery</soundWorking>
+		<workSpeedStat>MedicalOperationSpeed</workSpeedStat>
+		<workSkill>Medicine</workSkill>
+		<workSkillLearnFactor>20</workSkillLearnFactor>
+	</RecipeDef> -->
+
+  <Regrowth.label>肢体再生 (限定德鲁伊, 需要消耗90%法力)</Regrowth.label>
+  <Regrowth.description>使用德鲁伊的神力再生肢体。</Regrowth.description>
+  <Regrowth.jobString>再生肢体。</Regrowth.jobString>
+
+  <UniversalRegrowth.label>重新生长身体部位（仅德鲁伊，需要90%的法力）</UniversalRegrowth.label>
+  <UniversalRegrowth.description>使用德鲁伊的力量再生身体部位。</UniversalRegrowth.description>
+  <UniversalRegrowth.jobString>再生身体部位。</UniversalRegrowth.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SoulBond -->
+
+  <TM_SoulBond.label>灵魂契约</TM_SoulBond.label>
+  <TM_SoulBond.description>恶魔或者那些拥有恶魔力量的人，可以与一个生物建立灵魂契约。灵魂契约将宿主灵魂的能量提供给恶魔，允许双向召唤。\n		\n灵魂契约可以通过重复使用取消。与另一个宿主建立灵魂契约将取消之前的契约。任一方死亡，契约也将终止。\n\n魅魔和术士形成了不同类型的灵魂契约——术士带来精神上的互惠，而魅魔则提高肉体的欢愉。一个宿主只能维持单一的灵魂契约（精神/肉体）</TM_SoulBond.description>
+
+
+  <!-- ShadowCall -->
+
+  <TM_ShadowCall.label>阴影的召唤</TM_ShadowCall.label>
+  <TM_ShadowCall.description>召唤契约对象到达你的位置。</TM_ShadowCall.description>
+
+
+  <!-- ShadowStep -->
+
+  <TM_ShadowStep.label>幽影步</TM_ShadowStep.label>
+  <TM_ShadowStep.description>穿过阴影到达契约对象的位置</TM_ShadowStep.description>
+
+
+  <!-- ShadowBolt -->
+
+  <TM_ShadowBolt.label>暗影箭（I）</TM_ShadowBolt.label>
+  <TM_ShadowBolt.description>发射暗影箭。任何在路上被抓住的生物都会被影子碰触。当受到冲击时，阴影能量在猛烈的黑暗波浪中释放。\n		\n施法时间: 2s\n冷却时间 : 20s\n范围: 40</TM_ShadowBolt.description>
+
+
+  <!-- ShadowBolt_I -->
+
+  <TM_ShadowBolt_I.label>暗影箭（II）</TM_ShadowBolt_I.label>
+  <TM_ShadowBolt_I.description>发射暗影箭。任何在路上被抓住的生物都会被影子碰触。当受到冲击时，阴影能量在猛烈的黑暗波浪中释放。\n		\n施法时间: 1.8s\n冷却时间 : 18s\n范围: 45</TM_ShadowBolt_I.description>
+
+
+  <!-- ShadowBolt_II -->
+
+  <TM_ShadowBolt_II.label>暗影箭（III）</TM_ShadowBolt_II.label>
+  <TM_ShadowBolt_II.description>发射暗影箭。任何在路上被抓住的生物都会被影子碰触。当受到冲击时，阴影能量在猛烈的黑暗波浪中释放。\n		\n施法时间: 1.6s\n冷却时间 : 16s\n范围: 50</TM_ShadowBolt_II.description>
+
+
+  <!-- ShadowBolt_III -->
+
+  <TM_ShadowBolt_III.label>暗影箭（IV）</TM_ShadowBolt_III.label>
+  <TM_ShadowBolt_III.description>发射暗影箭。任何在路上被抓住的生物都会被影子碰触。当受到冲击时，阴影能量在猛烈的黑暗波浪中释放。\n		\n施法时间: 1.5s\n冷却时间 : 15s\n范围: 55</TM_ShadowBolt_III.description>
+
+
+  <!-- Dominate -->
+
+  <TM_Dominate.label>支配</TM_Dominate.label>
+  <TM_Dominate.description>召唤阴影让你的敌人陷入恐惧的噩梦中。被控制的单位周围的敌人也可能屈服于恐惧，让阴影控制他们自己的思想。\n\n术士和魅魔以不同的方式控制他们的敌人。术士会试图打破敌人的思想，而魅魔会降低受害者的体力。</TM_Dominate.description>
+
+
+  <!-- Attraction -->
+
+  <TM_Attraction.label>引力陷阱（I）</TM_Attraction.label>
+  <TM_Attraction.description>创建一个巨大的阴影井，吸附附近所有的单位到它的中心。阴影会附着在任何受到吸引力影响的生物上，在短时间内大幅降低它们的移动速度。\n \n施法时间: 3s\n范围: 40\n冷却时间: 60</TM_Attraction.description>
+
+
+  <!-- Attraction_I -->
+
+  <TM_Attraction_I.label>引力陷阱（II）</TM_Attraction_I.label>
+  <TM_Attraction_I.description>创建一个巨大的阴影井，吸附附近所有的单位到它的中心。阴影会附着在任何受到吸引力影响的生物上，在短时间内大幅降低它们的移动速度。\n\n施法时间: 2.6s\n范围: 45\n冷却时间: 55</TM_Attraction_I.description>
+
+
+  <!-- Attraction_II -->
+
+  <TM_Attraction_II.label>引力陷阱（III）</TM_Attraction_II.label>
+  <TM_Attraction_II.description>创建一个巨大的阴影井，吸附附近所有的单位到它的中心。阴影会附着在任何受到吸引力影响的生物上，在短时间内大幅降低它们的移动速度。\n\n施法时间: 2.3s\n范围: 50\n冷却时间: 50</TM_Attraction_II.description>
+
+
+  <!-- Attraction_III -->
+
+  <TM_Attraction_III.label>引力陷阱（IV）</TM_Attraction_III.label>
+  <TM_Attraction_III.description>创建一个巨大的阴影井，吸附附近所有的单位到它的中心。阴影会附着在任何受到吸引力影响的生物上，在短时间内大幅降低它们的移动速度。\n\n施法时间: 2s\n范围: 55\n冷却时间: 45</TM_Attraction_III.description>
+
+
+  <!-- Repulsion -->
+
+  <TM_Repulsion.label>抗拒光环（I）</TM_Repulsion.label>
+  <TM_Repulsion.description>术士产生能量爆发推开附近的生物。\n\n施法时间: 1s\n范围: 40\n冷却时间: 30s\n半径: 5</TM_Repulsion.description>
+
+
+  <!-- Repulsion_I -->
+
+  <TM_Repulsion_I.label>抗拒光环（II）</TM_Repulsion_I.label>
+  <TM_Repulsion_I.description>术士产生能量爆发推开附近的生物。\n\n施法时间: 8s\n范围: 47\n冷却时间: 25s\n半径: 6</TM_Repulsion_I.description>
+
+
+  <!-- Repulsion_II -->
+
+  <TM_Repulsion_II.label>抗拒光环（III）</TM_Repulsion_II.label>
+  <TM_Repulsion_II.description>术士产生能量爆发推开附近的生物。\n\n施法时间: 6s\n范围: 54\n冷却时间: 20s\n半径: 7</TM_Repulsion_II.description>
+
+
+  <!-- Repulsion_III -->
+
+  <TM_Repulsion_III.label>抗拒光环（IV）</TM_Repulsion_III.label>
+  <TM_Repulsion_III.description>术士产生能量爆发推开附近的生物。\n\n施法时间: 5s\n范围: 60\n冷却时间: 15s\n半径: 8</TM_Repulsion_III.description>
+
+
+  <!-- Scorn -->
+
+  <TM_Scorn.label>厄运化身</TM_Scorn.label>
+  <TM_Scorn.description>魅魔使用她的恶魔力量转化成一个长翅膀的恶魔，在黑暗狂暴的洪流中粉碎她的敌人。</TM_Scorn.description>
+
+
+  <!-- PsychicShock -->
+
+  <TM_PsychicShock.label>魂飞魄散</TM_PsychicShock.label>
+  <TM_PsychicShock.description>术士释放出强大的精神能量波。任何被捕获的单位都将受到心灵力量的狂轰烂炸，并将短暂地服从术士的意志。\n		\n术士会利用别人的思想来传播心灵波动。术士也会尝试摧毁任何被触动的敌人的心灵。受到这种精神攻击会使目标在短时间内迷失方向，如果术士受到精神能量反射的影响，他甚至也会迷失方向。心灵冲击在术士灵能感应的基础上得到加值，在心灵感应降低的情况下，可能无法作用于生物。</TM_PsychicShock.description>
+
+
+  <!-- SummonDemon -->
+
+  <TM_SummonDemon.label>召唤恶魔</TM_SummonDemon.label>
+  <TM_SummonDemon.description>通过操纵肉体和精神的灵魂纽带来真正的恶魔力量。这种黑暗力量需要付出沉重的代价，只能在最可怕的情况下考虑使用它。\n  \n召唤开始于魅魔献祭祭品，结束于术士完成了恶魔契约的条款。</TM_SummonDemon.description>
+
+
+</LanguageData>

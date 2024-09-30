@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lesser Sentinel -->
+
+  <TM_Lesser_SentinelR.label>小型石像鬼</TM_Lesser_SentinelR.label>
+  <TM_Lesser_SentinelR.description>这块没有生命的石头现在正在凶猛地捍卫着它的地盘。看起来像石头融合在一起的四肢开始活动了，并且撕裂了大地和肉体。</TM_Lesser_SentinelR.description>
+  <TM_Lesser_SentinelR.tools.0.label>爪子</TM_Lesser_SentinelR.tools.0.label>
+  <TM_Lesser_SentinelR.tools.1.label>牙齿</TM_Lesser_SentinelR.tools.1.label>
+  <TM_Lesser_SentinelR.race.meatLabel>石头</TM_Lesser_SentinelR.race.meatLabel>
+  <!-- Meat Amount: 0 -->
+  <Corpse_TM_Lesser_SentinelR.label>小型石像鬼尸体</Corpse_TM_Lesser_SentinelR.label>
+  <Corpse_TM_Lesser_SentinelR.description>小型石像鬼尸体</Corpse_TM_Lesser_SentinelR.description>
+
+
+  <!-- Sentinel -->
+
+  <TM_SentinelR.label>石像鬼</TM_SentinelR.label>
+  <TM_SentinelR.description>这块没有生命的石头现在正在凶猛地捍卫着它的地盘。看起来像石头融合在一起的四肢开始活动了，并且撕裂了大地和肉体。</TM_SentinelR.description>
+  <TM_SentinelR.tools.0.label>爪子</TM_SentinelR.tools.0.label>
+  <TM_SentinelR.tools.1.label>牙齿</TM_SentinelR.tools.1.label>
+  <TM_SentinelR.race.meatLabel>石头</TM_SentinelR.race.meatLabel>
+  <!-- Meat Amount: 0 -->
+  <Corpse_TM_SentinelR.label>石像尸体</Corpse_TM_SentinelR.label>
+  <Corpse_TM_SentinelR.description>石像尸体</Corpse_TM_SentinelR.description>
+
+
+  <!-- Greater Sentinel -->
+
+  <TM_Greater_SentinelR.label>大型石像鬼</TM_Greater_SentinelR.label>
+  <TM_Greater_SentinelR.description>这块没有生命的石头现在正在凶猛地捍卫着它的地盘。看起来像石头融合在一起的四肢开始活动了，并且撕裂了大地和肉体。</TM_Greater_SentinelR.description>
+  <TM_Greater_SentinelR.tools.0.label>爪子</TM_Greater_SentinelR.tools.0.label>
+  <TM_Greater_SentinelR.tools.1.label>牙齿</TM_Greater_SentinelR.tools.1.label>
+  <TM_Greater_SentinelR.race.meatLabel>石头</TM_Greater_SentinelR.race.meatLabel>
+  <!-- Meat Amount: 0 -->
+  <Corpse_TM_Greater_SentinelR.label>大型石像尸体</Corpse_TM_Greater_SentinelR.label>
+  <Corpse_TM_Greater_SentinelR.description>大型石像尸体</Corpse_TM_Greater_SentinelR.description>
+
+
+</LanguageData>

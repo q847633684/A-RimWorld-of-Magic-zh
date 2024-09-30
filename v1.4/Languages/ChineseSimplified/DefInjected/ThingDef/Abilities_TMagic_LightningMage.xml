@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- AMP start -->
+
+  <Buff_AMP.label>安普</Buff_AMP.label>
+
+
+  <!-- Lightning Cloud -->
+
+  <Projectile_LightningCloud.label>天丛云雷</Projectile_LightningCloud.label>
+
+
+  <!-- Lightning Bolt -->
+
+  <Laser_LightningBolt.label>电闪雷鸣</Laser_LightningBolt.label>
+
+
+  <!-- Lightning Storm -->
+
+  <Projectile_LightningStorm.label>闪电风暴</Projectile_LightningStorm.label>
+
+
+  <!-- Eye of the Storm -->
+
+  <FlyingObject_EyeOfTheStorm.label>飞行目标</FlyingObject_EyeOfTheStorm.label>
+  <Projectile_EyeOfTheStorm.label>风暴之眼</Projectile_EyeOfTheStorm.label>
+
+
+</LanguageData>

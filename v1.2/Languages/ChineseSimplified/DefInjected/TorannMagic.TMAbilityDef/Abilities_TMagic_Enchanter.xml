@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Enchanted Body -->
+
+  <TM_EnchantedBody.label>附魔:魔力之躯</TM_EnchantedBody.label>
+  <TM_EnchantedBody.description>增加额外的肢体来提高操控能力和战斗速度。这种附魔会让附魔者看起来非常可怕，并且会吓到其他的兵。此法术持续有效，最大mp减少20点，法力回复减少30%。	\n  \n当魔法激活时使用此技能将驱散该魔法。同时只能有一种附魔状态生效。\n\n*所有魔力肢体都适用于附魔:魅力</TM_EnchantedBody.description>
+
+
+  <!-- Enchanted aura -->
+
+  <TM_EnchantedAura.label>附魔:迷人魅力</TM_EnchantedAura.label>
+  <TM_EnchantedAura.description>散发迷人的光环，解除社会障碍，改善社交活动。此法术持续有效，最大mp减少20点，法力回复减少30%。\n  \n当魔法激活时使用此技能将驱散该魔法。同时只能有一种附魔状态生效。</TM_EnchantedAura.description>
+
+
+  <!-- Transmutate -->
+
+  <TM_Transmutate.label>质变</TM_Transmutate.label>
+  <TM_Transmutate.description>使一种材料转变成另一种具有同等或更大价值的材料。用创造的新材料的数量以旧材料的为基础;在转换过程中会消耗一些材料。\n  \n默认情况下，此能力只能作用于原始资源和砖块，但可以升级为变形其他材料。材料永远不会变成砖，但砖可以变成其他材料。\n\n检查技能描述以获得更多细节。</TM_Transmutate.description>
+
+
+  <!-- Enchanter Stone -->
+
+  <TM_EnchanterStone.label>魔法饰品</TM_EnchanterStone.label>
+  <TM_EnchanterStone.description>将足量的材料变成刻印着魔力纹章的饰品并将力量授予任何装备了该物品的单位。附魔师可以创造任意数量的魔法饰品但是每个减少附魔师的MP最大值。\n  \n魔法饰品有很多类型:小玩意，饰品，传家宝，甚至是工艺品。</TM_EnchanterStone.description>
+
+  <TM_DismissEnchanterStones.label>解除魔法饰品</TM_DismissEnchanterStones.label>
+  <TM_DismissEnchanterStones.description>解除最早的魔法饰品</TM_DismissEnchanterStones.description>
+
+
+  <!-- Enchant Weapon -->
+
+  <TM_EnchantWeapon.label>武器附魔</TM_EnchantWeapon.label>
+  <TM_EnchantWeapon.description>目标单位装备的近战武器获得元素魔法属性。\n\n火焰造成额外的灼伤伤害，并可能使目标着火。\n冰可以使减速。\n闪电可以使敌人昏迷。\n黑暗可能使敌人失明。\n		\n被施魔法的武器需要一定的魔法值来维持。武器附魔的数量只受附魔师法力的限制。\n只有当单位持有武器时，该魔法才会持续有效。如果它掉落或者被另一件武器取代，魔法将被驱散。武器附魔只影响近战武器。</TM_EnchantWeapon.description>
+
+  <TM_DispelEnchantWeapon.label>驱散锐化武器</TM_DispelEnchantWeapon.label>
+  <TM_DispelEnchantWeapon.description>移除此施法者维持的所有锐化武器。</TM_DispelEnchantWeapon.description>
+
+
+  <!-- Polymorph -->
+
+  <TM_Polymorph.label>变羊术（I）</TM_Polymorph.label>
+  <TM_Polymorph.description>将目标区域内的生物变为随机的野兽。变形后的生物仍将保留足够的原始自我并被变形术激怒。盟友可以被控制，但仍然会表现出“动物”行为。附魔师不能使用此方法变形。\n\n对已经受到变形术影响的生物使用变形术将结束现有的魔法。如果变形生物死亡，变形魔法将被解除。\n\n当一个目标被变形时，他们的新形态不会保留任何已经存在的伤害，然而，当他们恢复到原来的形态时，除了变形过程中受到的伤害外，他们还会受到所有原有的伤害。\n最大目标: 3\n半径: 3\n范围: 36\n施法时间: 3s</TM_Polymorph.description>
+
+  <TM_Polymorph_I.label>变羊术（II）</TM_Polymorph_I.label>
+  <TM_Polymorph_I.description>将目标区域内的生物变为随机的野兽。变形后的生物仍将保留足够的原始自我并被变形术激怒。盟友可以被控制，但仍然会表现出“动物”行为。附魔师不能使用此方法变形。\n\n对已经受到变形术影响的生物使用变形术将结束现有的魔法。如果变形生物死亡，变形魔法将被解除。\n\n当一个目标被变形时，他们的新形态不会保留任何已经存在的伤害，然而，当他们恢复到原来的形态时，除了变形过程中受到的伤害外，他们还会受到所有原有的伤害。\n最大目标: 4\n半径: 3\n范围: 38\n施法时间: 2.8s</TM_Polymorph_I.description>
+
+  <TM_Polymorph_II.label>变羊术（III）</TM_Polymorph_II.label>
+  <TM_Polymorph_II.description>将目标区域内的生物变为随机的野兽。变形后的生物仍将保留足够的原始自我并被变形术激怒。盟友可以被控制，但仍然会表现出“动物”行为。附魔师不能使用此方法变形。\n\n对已经受到变形术影响的生物使用变形术将结束现有的魔法。如果变形生物死亡，变形魔法将被解除。\n\n当一个目标被变形时，他们的新形态不会保留任何已经存在的伤害，然而，当他们恢复到原来的形态时，除了变形过程中受到的伤害外，他们还会受到所有原有的伤害。\n最大目标: 4\n半径: 4\n范围: 40\n施法时间: 2.6s</TM_Polymorph_II.description>
+
+  <TM_Polymorph_III.label>变羊术（IV）</TM_Polymorph_III.label>
+  <TM_Polymorph_III.description>将目标区域内的生物变为随机的野兽。变形后的生物仍将保留足够的原始自我并被变形术激怒。盟友可以被控制，但仍然会表现出“动物”行为。附魔师不能使用此方法变形。\n\n对已经受到变形术影响的生物使用变形术将结束现有的魔法。如果变形生物死亡，变形魔法将被解除。\n\n当一个目标被变形时，他们的新形态不会保留任何已经存在的伤害，然而，当他们恢复到原来的形态时，除了变形过程中受到的伤害外，他们还会受到所有原有的伤害。\n\n最大目标: 5\n半径: 4\n范围: 42\n施法时间: 2.4s</TM_Polymorph_III.description>
+
+
+  <!-- Shapeshift -->
+
+  <TM_Shapeshift.label>变身</TM_Shapeshift.label>
+  <TM_Shapeshift.description>变身为随机生物，仍将保留他们的自我意识。变身时所受的伤害将在恢复到初始形态后按相同比例转移给魔法师。\n  \n变身成动物会使其继承动物的本能和行为，如果他们没有得到具体的指示，他们会到处游荡或做其他动物通常会做的事。</TM_Shapeshift.description>
+
+
+  <!-- Enchanted aura -->
+
+  <TM_ShapeshiftDW.label>恐惧魔狼</TM_ShapeshiftDW.label>
+  <TM_ShapeshiftDW.description>变成了一只恐惧魔狼，仍将保留他们的自我意识。变身时所受的伤害将在恢复到初始形态后按相同比例转移给魔法师。\n  \n变身成动物会使其继承动物的本能和行为，如果他们没有得到具体的指示，他们会到处游荡或做其他动物通常会做的事。\n\n恐惧魔狼是一种与魔法有着特殊联系的独特动物。而在恐惧魔狼形态下，魔法师短暂地离开现实。</TM_ShapeshiftDW.description>
+
+
+</LanguageData>

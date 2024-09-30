@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MagicArtifact_RerollSpiritBond.label>精神绑定卷轴</MagicArtifact_RerollSpiritBond.label>
+  <MagicArtifact_RerollSpiritBond.description>这个卷轴可以用来改变精神契约。新的契约将随机选择一种新的守护之灵来绑定。</MagicArtifact_RerollSpiritBond.description>
+  <MagicArtifact_RerollSpiritBond.comps.3.useLabel>使用</MagicArtifact_RerollSpiritBond.comps.3.useLabel>
+
+  <TM_Artifact_ClassExtraction.label>灵魂提取碎片</TM_Artifact_ClassExtraction.label>
+  <TM_Artifact_ClassExtraction.description>这个神秘的碎片能够提取一个小人的战斗或魔法天赋并将其转化为“本质”。碎片使用后被销毁。\n*注意：这个碎片会完全删除一个小人的职业和任何相关的能力和技能。灵魂提取后,小人可以学习另一个职业。</TM_Artifact_ClassExtraction.description>
+  <TM_Artifact_ClassExtraction.comps.3.useLabel>使用灵魂提取碎片</TM_Artifact_ClassExtraction.comps.3.useLabel>
+
+  <TM_MagicArtifact_MightEssence.label>力量的本质</TM_MagicArtifact_MightEssence.label>
+  <TM_MagicArtifact_MightEssence.description>原始力量的本质。格斗技巧，吸取精华可获得战技经验。</TM_MagicArtifact_MightEssence.description>
+  <TM_MagicArtifact_MightEssence.comps.1.useLabel>使用力量精华</TM_MagicArtifact_MightEssence.comps.1.useLabel>
+
+  <TM_MagicArtifact_MagicEssence.label>魔法的本质</TM_MagicArtifact_MagicEssence.label>
+  <TM_MagicArtifact_MagicEssence.description>原始魔法的本质。魔法技巧，吸取精华可获得魔法经验。</TM_MagicArtifact_MagicEssence.description>
+  <TM_MagicArtifact_MagicEssence.comps.1.useLabel>使用魔法精华</TM_MagicArtifact_MagicEssence.comps.1.useLabel>
+
+
+  <!--<MagicArtifact_RerollSpiritBond.comps.2.useLabel>使用</MagicArtifact_RerollSpiritBond.comps.2.useLabel>-->
+  <!--<TM_MagicArtifact_MightEssence.comps.0.useLabel>吸取力量精华</TM_MagicArtifact_MightEssence.comps.0.useLabel>-->
+  <!--<TM_MagicArtifact_MagicEssence.comps.0.useLabel>吸取魔法精华</TM_MagicArtifact_MagicEssence.comps.0.useLabel>-->
+
+</LanguageData>

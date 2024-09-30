@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_ProvisionerAuraHD.label>补给光环</TM_ProvisionerAuraHD.label>
+  <TM_ProvisionerAuraHD.description>周期性为周围盟友提供补给</TM_ProvisionerAuraHD.description>
+  <TM_ProvisionerAuraHD.stages.0.label></TM_ProvisionerAuraHD.stages.0.label>
+
+  <TM_TaskMasterAuraHD.label>奋斗光环</TM_TaskMasterAuraHD.label>
+  <TM_TaskMasterAuraHD.description>周期性激励盟友努力奋斗。</TM_TaskMasterAuraHD.description>
+  <TM_TaskMasterAuraHD.stages.0.label></TM_TaskMasterAuraHD.stages.0.label>
+
+  <TM_CommanderAuraHD.label>指挥官光环</TM_CommanderAuraHD.label>
+  <TM_CommanderAuraHD.description>周期性激励附近的盟友。</TM_CommanderAuraHD.description>
+  <TM_CommanderAuraHD.stages.0.label></TM_CommanderAuraHD.stages.0.label>
+
+  <TM_StayAlertHD.label>警惕</TM_StayAlertHD.label>
+  <TM_StayAlertHD.description>接受命令，保持警惕。</TM_StayAlertHD.description>
+  <TM_StayAlertHD.stages.0.label></TM_StayAlertHD.stages.0.label>
+
+  <TM_MoveOutHD.label>两倍时间</TM_MoveOutHD.label>
+  <TM_MoveOutHD.description>接到命令，迅速行动。</TM_MoveOutHD.description>
+  <TM_MoveOutHD.stages.0.label>恢复</TM_MoveOutHD.stages.0.label>
+  <TM_MoveOutHD.stages.1.label></TM_MoveOutHD.stages.1.label>
+  <TM_MoveOutHD.stages.2.label></TM_MoveOutHD.stages.2.label>
+  <TM_MoveOutHD.stages.3.label></TM_MoveOutHD.stages.3.label>
+  <TM_MoveOutHD.stages.4.label></TM_MoveOutHD.stages.4.label>
+
+  <TM_HoldTheLineHD.label>防御!</TM_HoldTheLineHD.label>
+  <TM_HoldTheLineHD.description>接到了坚守阵地的作战的命令。</TM_HoldTheLineHD.description>
+  <TM_HoldTheLineHD.stages.0.label>恢复</TM_HoldTheLineHD.stages.0.label>
+  <TM_HoldTheLineHD.stages.1.label></TM_HoldTheLineHD.stages.1.label>
+  <TM_HoldTheLineHD.stages.2.label></TM_HoldTheLineHD.stages.2.label>
+  <TM_HoldTheLineHD.stages.3.label></TM_HoldTheLineHD.stages.3.label>
+
+  <TM_HTLShieldHD.label>HTL盾</TM_HTLShieldHD.label>
+  <TM_HTLShieldHD.description>奉命坚守阵地，增强毅力。</TM_HTLShieldHD.description>
+  <TM_HTLShieldHD.stages.0.label></TM_HTLShieldHD.stages.0.label>
+
+  <TM_CommanderHD.label>鼓舞 (I)</TM_CommanderHD.label>
+  <TM_CommanderHD.description>受到指挥官的鼓舞。</TM_CommanderHD.description>
+  <TM_CommanderHD.stages.0.label>指挥官</TM_CommanderHD.stages.0.label>
+
+  <TM_CommanderHD_I.label>鼓舞 (II)</TM_CommanderHD_I.label>
+  <TM_CommanderHD_I.description>受到指挥官的鼓舞。</TM_CommanderHD_I.description>
+  <TM_CommanderHD_I.stages.0.label></TM_CommanderHD_I.stages.0.label>
+
+  <TM_CommanderHD_II.label>鼓舞 (III)</TM_CommanderHD_II.label>
+  <TM_CommanderHD_II.description>受到指挥官的鼓舞。</TM_CommanderHD_II.description>
+  <TM_CommanderHD_II.stages.0.label></TM_CommanderHD_II.stages.0.label>
+
+  <TM_CommanderHD_III.label>鼓舞(IV)</TM_CommanderHD_III.label>
+  <TM_CommanderHD_III.description>受到指挥官的鼓舞。</TM_CommanderHD_III.description>
+  <TM_CommanderHD_III.stages.0.label></TM_CommanderHD_III.stages.0.label>
+
+  <TM_ProvisionerHD.label>补给</TM_ProvisionerHD.label>
+  <TM_ProvisionerHD.description>从指挥官哪里接收到补给。</TM_ProvisionerHD.description>
+  <TM_ProvisionerHD.stages.0.label>I</TM_ProvisionerHD.stages.0.label>
+  <TM_ProvisionerHD.stages.1.label>II</TM_ProvisionerHD.stages.1.label>
+  <TM_ProvisionerHD.stages.2.label>III</TM_ProvisionerHD.stages.2.label>
+  <TM_ProvisionerHD.stages.3.label>IV</TM_ProvisionerHD.stages.3.label>
+
+  <TM_TaskMasterHD.label>奋斗</TM_TaskMasterHD.label>
+  <TM_TaskMasterHD.description>受到指挥官的激励。</TM_TaskMasterHD.description>
+  <TM_TaskMasterHD.stages.0.label>I</TM_TaskMasterHD.stages.0.label>
+  <TM_TaskMasterHD.stages.1.label>II</TM_TaskMasterHD.stages.1.label>
+  <TM_TaskMasterHD.stages.2.label>III</TM_TaskMasterHD.stages.2.label>
+  <TM_TaskMasterHD.stages.3.label>IV</TM_TaskMasterHD.stages.3.label>
+
+
+</LanguageData>

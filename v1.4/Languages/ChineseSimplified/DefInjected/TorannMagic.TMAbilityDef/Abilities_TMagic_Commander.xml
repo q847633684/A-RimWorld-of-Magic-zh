@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Provisioner Aura -->
+
+  <TM_ProvisionerAura.label>补给光环</TM_ProvisionerAura.label>
+  <TM_ProvisionerAura.description>切换至供给者光环:提高休息值，减少附近殖民者的饥饿感。可以改善和修复设备，提高自然愈合率，并促进能量再生。这个光环需要60点体力来维持。</TM_ProvisionerAura.description>
+
+
+  <!-- Task Master Aura -->
+
+  <TM_TaskMasterAura.label>任务大师</TM_TaskMasterAura.label>
+  <TM_TaskMasterAura.description>切换至任务大师光环:增加工作速度、进食速度和携带能力，但会降低殖民者的社交能力。在一个有任务大师光环的殖民者监督下的殖民者将获得一个情绪惩罚。这个光环需要70点体力来维持。</TM_TaskMasterAura.description>
+
+
+  <!-- Commander Aura -->
+
+  <TM_CommanderAura.label>指挥官光环</TM_CommanderAura.label>
+  <TM_CommanderAura.description>切换至指挥官光环:改善附近所有殖民者的情绪，但降低他们的效率。当这个光环被激活的时候，指挥官会找出那些因为精神压力而崩溃的殖民者，并给他们一个激励演讲来克服崩溃。用这种方式来克服精神上的崩溃的殖民者将不会得到净化。这个光环需要80点体力才能维持。</TM_CommanderAura.description>
+
+
+  <!-- Stay Alert -->
+
+  <TM_StayAlert.label>保持警惕!</TM_StayAlert.label>
+  <TM_StayAlert.description>发出命令，让附近所有的殖民者保持高度警惕。受影响的殖民者将立即得到休息值的增加和增强视力。\n冷却时间:120秒\n最大的目标数量:10\n范围:14\n当指挥官的社交技能低于10时，殖民者可以拒绝命令;5的社会技能将有50%的机会被范围内的每个殖民者拒绝。\n命令会导致情绪障碍;每个命令都增加了情绪障碍的严重性。\n命令不影响指挥官。</TM_StayAlert.description>
+
+  <TM_StayAlert_I.label>保持警惕!</TM_StayAlert_I.label>
+  <TM_StayAlert_I.description>发出命令，让附近所有的殖民者保持高度警惕。受影响的殖民者将立即得到休息值的增加和增强视力。\n冷却时间:110秒\n最大的目标数量:12\n范围:16\n当指挥官的社交技能低于10时，殖民者可以拒绝命令;5的社会技能将有50%的机会被范围内的每个殖民者拒绝。\n命令会导致情绪障碍;每个命令都增加了情绪障碍的严重性。\n命令不影响指挥官</TM_StayAlert_I.description>
+
+  <TM_StayAlert_II.label>保持警惕!</TM_StayAlert_II.label>
+  <TM_StayAlert_II.description>发出命令，让附近所有的殖民者保持高度警惕。受影响的殖民者将立即得到休息值的增加和增强视力。\n冷却时间:100秒\n最大的目标数量:14\n范围:18\n当指挥官的社交技能低于10时，殖民者可以拒绝命令;5的社会技能将有50%的机会被范围内的每个殖民者拒绝。\n命令会导致情绪障碍;每个命令都增加了情绪障碍的严重性。\n命令不影响指挥官。</TM_StayAlert_II.description>
+
+  <TM_StayAlert_III.label>保持警惕!</TM_StayAlert_III.label>
+  <TM_StayAlert_III.description>发出命令，让附近所有的殖民者保持高度警惕。受影响的殖民者将立即得到休息值的增加和增强视力。\n\n冷却时间: 90秒\n最大的目标数量: 15\n范围: 20\n当指挥官的社交技能低于10时，殖民者可以拒绝命令;5的社会技能将有50%的机会被范围内的每个殖民者拒绝。\n命令会导致情绪障碍;每个命令都增加了情绪障碍的严重性。\n命令不影响指挥官。</TM_StayAlert_III.description>
+
+
+  <!-- Move Out -->
+
+  <TM_MoveOut.label>加速移动!</TM_MoveOut.label>
+  <TM_MoveOut.description>发出命令，让附近所有的殖民者快速移动。受影响的殖民者将立即获得增加的移动，并防止殖民者被错开或昏迷。殖民者在命令结束时减少移动来恢复能量。\n冷却时间:120秒\n最大的目标数量:10\n范围:14\n当指挥官的社交技能低于10时，殖民者可以拒绝命令;5的社会技能将有50%的机会被范围内的每个殖民者拒绝。\n命令会导致情绪障碍;每个命令都增加了情绪障碍的严重性。\n命令不影响指挥官。</TM_MoveOut.description>
+
+  <TM_MoveOut_I.label>加速移动!</TM_MoveOut_I.label>
+  <TM_MoveOut_I.description>发出命令，让附近所有的殖民者快速移动。受影响的殖民者将立即获得增加的移动，并防止殖民者被错开或昏迷。殖民者在命令结束时减少移动来恢复能量。\n	\n冷却时间: 110秒\n最大的目标数量: 12\n范围: 16\n当指挥官的社交技能低于10时，殖民者可以拒绝命令;5的社会技能将有50%的机会被范围内的每个殖民者拒绝。\n命令会导致情绪障碍;每个命令都增加了情绪障碍的严重性。\n命令不影响指挥官。</TM_MoveOut_I.description>
+
+  <TM_MoveOut_II.label>加速移动!</TM_MoveOut_II.label>
+  <TM_MoveOut_II.description>发出命令，让附近所有的殖民者快速移动。受影响的殖民者将立即获得增加的移动，并防止殖民者被错开或昏迷。殖民者在命令结束时减少移动来恢复能量。\n\n冷却时间: 100秒\n最大的目标数量: 14\n范围: 18\n当指挥官的社交技能低于10时，殖民者可以拒绝命令;5的社会技能将有50%的机会被范围内的每个殖民者拒绝。\n命令会导致情绪障碍;每个命令都增加了情绪障碍的严重性。\n命令不影响指挥官。</TM_MoveOut_II.description>
+
+  <TM_MoveOut_III.label>加速移动!</TM_MoveOut_III.label>
+  <TM_MoveOut_III.description>发出命令，让附近所有的殖民者快速移动。受影响的殖民者将立即获得增加的移动，并防止殖民者被错开或昏迷。殖民者在命令结束时减少移动来恢复能量。\n\n冷却时间: 90秒\n最大的目标数量: 15\n范围: 20\n当指挥官的社交技能低于10时，殖民者可以拒绝命令;5的社会技能将有50%的机会被范围内的每个殖民者拒绝。\n命令会导致情绪障碍;每个命令都增加了情绪障碍的严重性。\n命令不影响指挥官。</TM_MoveOut_III.description>
+
+
+  <!-- Hold The Line -->
+
+  <TM_HoldTheLine.label>防御!</TM_HoldTheLine.label>
+  <TM_HoldTheLine.description>发出命令，让附近所有的殖民者都守住这条线。受影响的殖民者将获得伤害抗性、疼痛耐受力、精神稳定性和增加射击速度，但会减少移动。\n\n冷却时间: 200s\n最大的目标数量: 7\n范围: 10\n当指挥官的社交技能低于10时，殖民者可以拒绝命令;5的社会技能将有50%的机会被范围内的每个殖民者拒绝。\n命令会导致情绪障碍;每个命令都增加了情绪障碍的严重性。\n命令不影响指挥官。</TM_HoldTheLine.description>
+
+  <TM_HoldTheLine_I.label>防御! </TM_HoldTheLine_I.label>
+  <TM_HoldTheLine_I.description>发出命令，让附近所有的殖民者都守住这条线。受影响的殖民者将获得伤害抗性、疼痛耐受力、精神稳定性和增加射击速度，但会减少移动。\n\n冷却时间: 180s\n最大的目标数量: 8\n范围: 12\n当指挥官的社交技能低于10时，殖民者可以拒绝命令;5的社会技能将有50%的机会被范围内的每个殖民者拒绝。\n命令会导致情绪障碍;每个命令都增加了情绪障碍的严重性。\n命令不影响指挥官</TM_HoldTheLine_I.description>
+
+  <TM_HoldTheLine_II.label>防御! </TM_HoldTheLine_II.label>
+  <TM_HoldTheLine_II.description>发出命令，让附近所有的殖民者都守住这条线。受影响的殖民者将获得伤害抗性、疼痛耐受力、精神稳定性和增加射击速度，但会减少移动。\n\n冷却时间: 160s\n最大的目标数量: 9\n范围: 14\n当指挥官的社交技能低于10时，殖民者可以拒绝命令;5的社会技能将有50%的机会被范围内的每个殖民者拒绝。\n命令会导致情绪障碍;每个命令都增加了情绪障碍的严重性。\n命令不影响指挥官。</TM_HoldTheLine_II.description>
+
+  <TM_HoldTheLine_III.label>防御! </TM_HoldTheLine_III.label>
+  <TM_HoldTheLine_III.description>发出命令，让附近所有的殖民者都守住这条线。受影响的殖民者将获得伤害抗性、疼痛耐受力、精神稳定性和增加射击速度，但会减少移动。\n\n冷却时间: 150s\n最大的目标数量: 10\n范围: 15\n当指挥官的社交技能低于10时，殖民者可以拒绝命令;5的社会技能将有50%的机会被范围内的每个殖民者拒绝。\n命令会导致情绪障碍;每个命令都增加了情绪障碍的严重性。\n命令不影响指挥官。</TM_HoldTheLine_III.description>
+
+
+</LanguageData>

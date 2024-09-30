@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- special attack manuevers -->
+
+  <TM_SkeletonLichR.label>骷髅巫妖</TM_SkeletonLichR.label>
+  <TM_SkeletonLichR.description>一位古代巫妖.它有枯萎和褪色的骨头，而且心灵十分恶毒.以杀死所有活人为执念.它的目的；无论是谁，或是什么，这个存在都不再存在；它的唯一目的是毁灭所有的生命，以不死代替它。</TM_SkeletonLichR.description>
+  <TM_SkeletonLichR.tools.0.label>左手</TM_SkeletonLichR.tools.0.label>
+  <TM_SkeletonLichR.tools.1.label>右手</TM_SkeletonLichR.tools.1.label>
+  <TM_SkeletonLichR.tools.2.label>死亡凝视</TM_SkeletonLichR.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Corpse_TM_SkeletonLichR.label>骷髅巫妖尸体</Corpse_TM_SkeletonLichR.label>
+  <Corpse_TM_SkeletonLichR.description>骷髅巫妖尸体</Corpse_TM_SkeletonLichR.description>
+
+
+  <!-- special attack manuevers -->
+
+  <TM_GiantSkeletonR.label>巨型骷髅</TM_GiantSkeletonR.label>
+  <TM_GiantSkeletonR.description>巨大的骷髅这种邪恶的东西要么是由一个巨大生物的骨头而诞生的，要么是由较小生物的骨头合成的。这具骷髅以法力为动力，\n  以一种在世界上游荡多年的复仇精神为执念——足够长的时间发展出一种对生命的简单的感情、专一的仇恨。</TM_GiantSkeletonR.description>
+  <TM_GiantSkeletonR.tools.0.label>左拳</TM_GiantSkeletonR.tools.0.label>
+  <TM_GiantSkeletonR.tools.1.label>右拳</TM_GiantSkeletonR.tools.1.label>
+  <TM_GiantSkeletonR.tools.2.label>牙齿</TM_GiantSkeletonR.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Corpse_TM_GiantSkeletonR.label>巨型骷髅尸体</Corpse_TM_GiantSkeletonR.label>
+  <Corpse_TM_GiantSkeletonR.description>巨型骷髅尸体</Corpse_TM_GiantSkeletonR.description>
+
+
+  <!-- special attack manuevers -->
+
+  <TM_SkeletonR.label>骷髅</TM_SkeletonR.label>
+  <TM_SkeletonR.description>通过魔法的力量而复活的亡灵；它们唯一的本能是服从主人并毁灭所有的生命。</TM_SkeletonR.description>
+  <TM_SkeletonR.tools.0.label>左拳</TM_SkeletonR.tools.0.label>
+  <TM_SkeletonR.tools.1.label>右拳</TM_SkeletonR.tools.1.label>
+  <TM_SkeletonR.tools.2.label>牙齿</TM_SkeletonR.tools.2.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Corpse_TM_SkeletonR.label>骷髅尸体</Corpse_TM_SkeletonR.label>
+  <Corpse_TM_SkeletonR.description>骷髅尸体</Corpse_TM_SkeletonR.description>
+
+
+</LanguageData>

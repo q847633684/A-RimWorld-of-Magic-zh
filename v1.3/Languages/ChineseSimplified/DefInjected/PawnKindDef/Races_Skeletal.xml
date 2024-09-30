@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- special attack manuevers -->
+
+  <TM_SkeletonLich.label>骷髅巫妖</TM_SkeletonLich.label>
+  <TM_SkeletonLich.labelPlural>骷髅巫妖群</TM_SkeletonLich.labelPlural>
+  <TM_SkeletonLich.lifeStages.0.label>骷髅巫妖</TM_SkeletonLich.lifeStages.0.label>
+  <TM_SkeletonLich.lifeStages.0.labelPlural>骷髅巫妖</TM_SkeletonLich.lifeStages.0.labelPlural>
+
+  <TM_GiantSkeleton.label>巨型骷髅</TM_GiantSkeleton.label>
+  <TM_GiantSkeleton.labelPlural>巨型骷髅群</TM_GiantSkeleton.labelPlural>
+  <TM_GiantSkeleton.lifeStages.0.label>巨型骷髅</TM_GiantSkeleton.lifeStages.0.label>
+  <TM_GiantSkeleton.lifeStages.0.labelPlural>骨架</TM_GiantSkeleton.lifeStages.0.labelPlural>
+
+  <TM_Skeleton.label>骷髅</TM_Skeleton.label>
+  <TM_Skeleton.labelPlural>骷髅群</TM_Skeleton.labelPlural>
+  <TM_Skeleton.lifeStages.0.label>骷髅</TM_Skeleton.lifeStages.0.label>
+  <TM_Skeleton.lifeStages.0.labelPlural>骨架</TM_Skeleton.lifeStages.0.labelPlural>
+
+
+</LanguageData>

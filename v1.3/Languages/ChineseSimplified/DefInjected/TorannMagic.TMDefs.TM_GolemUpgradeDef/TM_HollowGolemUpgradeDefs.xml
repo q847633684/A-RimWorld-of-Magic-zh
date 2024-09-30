@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Golem_HollowRestore.label>维修部位</TM_Golem_HollowRestore.label>
+
+  <TM_Golem_HollowMaxEnergy.label>法力细胞</TM_Golem_HollowMaxEnergy.label>
+  <TM_Golem_HollowMaxEnergy.description>将最大能量提高到每个级别500。开始最大能量为2500。</TM_Golem_HollowMaxEnergy.description>
+
+  <TM_Golem_HollowEnergyEfficiency.label>法力转换器</TM_Golem_HollowEnergyEfficiency.label>
+  <TM_Golem_HollowEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_HollowEnergyEfficiency.description>
+
+  <TM_Golem_HollowEnergyRate.label>法力极性</TM_Golem_HollowEnergyRate.label>
+  <TM_Golem_HollowEnergyRate.description>每个水平的能源充电率提高20％。开始充电率为30能量/小时。</TM_Golem_HollowEnergyRate.description>
+
+  <TM_Golem_HollowAxe.label>空洞之斧</TM_Golem_HollowAxe.label>
+  <TM_Golem_HollowAxe.description>装备一个巨大的战斧,每一次挥舞就能砍穿多个对手。空洞之斧占据了武器槽; 傀儡只能装备一种武器。</TM_Golem_HollowAxe.description>
+
+  <TM_Golem_HollowStaff.label>空洞之杖</TM_Golem_HollowStaff.label>
+  <TM_Golem_HollowStaff.description>装备发射魔法飞弹而不消耗能量的法杖。空洞之杖占据了武器槽; 傀儡只能装备一种武器。</TM_Golem_HollowStaff.description>
+
+  <TM_Golem_HollowBreastPlate.label>空洞胸甲</TM_Golem_HollowBreastPlate.label>
+  <TM_Golem_HollowBreastPlate.description>为傀儡安装胸部装甲:
+钝器:	+21%
+利器:	+32%
+热能:	+14%</TM_Golem_HollowBreastPlate.description>
+
+  <TM_Golem_HollowHelm.label>空洞之盔</TM_Golem_HollowHelm.label>
+  <TM_Golem_HollowHelm.description>为傀儡安装头盔以保护头部:
+钝器:	+22%
+利器:	+7%
+热能:	+9%</TM_Golem_HollowHelm.description>
+
+  <TM_Golem_HollowShoulders.label>空洞护肩</TM_Golem_HollowShoulders.label>
+  <TM_Golem_HollowShoulders.description>为傀儡安装护肩以保护脖子锁骨以及两肩:
+钝器:	+8%
+利器:	+19%
+热能:	+6%</TM_Golem_HollowShoulders.description>
+
+  <TM_Golem_HollowCrown.label>觉醒之冠</TM_Golem_HollowCrown.label>
+  <TM_Golem_HollowCrown.description>被动地加强佩戴者的意志，以防止神奇的攻击并提供少量的物理保护。主动能力检测并消除了其他咒语的魔力。
+
+咒语反射
+蓄能消耗:	50
+冷却时间:	6.6s
+范围:	100c
+损坏和半径根据反射咒语的法力成本而变化</TM_Golem_HollowCrown.description>
+
+  <TM_Golem_HollowCloak.label>褪色斗篷</TM_Golem_HollowCloak.label>
+  <TM_Golem_HollowCloak.description>淡出的斗篷被动地提高了佩戴者的基本运动速度，同时提供了少量的保护。它还允许佩戴者通过消耗能量立即移动到地图上的另一个位置。如果佩戴者逐渐消失到敌人附近的位置，则腐烂的爆炸将击中目的地附近的每个敌人。
+
+钝器:	+10%
+利器:	+5%
+热能:	+15%
+链接强度: +5%
+移动速度: +.4c/s
+
+褪色的腐烂
+蓄能消耗:	30
+冷却时间:	20s
+最小范围:	10c
+最大范围:	200c
+衰减半径:	4c
+命中率:	80%</TM_Golem_HollowCloak.description>
+
+  <TM_HollowGolem_CoAFire.label>纹章: 火</TM_HollowGolem_CoAFire.label>
+  <TM_HollowGolem_CoAFire.description>被动地增加统计数据并改善衰减触摸以交易奖金10 + 5*级别的燃烧伤害：
+移动速度:	+[0.2c/0.3c/0.35c]
+热能护甲:	+[30%/50%/60%]
+技能冷却时间:	-[10%/20%/30%]
+处理能力:	+[10%/20%/30%]
+
+吸收火焰
+蓄能消耗:	0
+冷却时间:	4.2s
+范围:	2c
+每次吸收火恢复的健康值: 7</TM_HollowGolem_CoAFire.description>
+
+  <TM_HollowGolem_CoAIce.label>纹章: 水</TM_HollowGolem_CoAIce.label>
+  <TM_HollowGolem_CoAIce.description>被动地增加统计数据并改善衰减触摸,以治愈8 + 4*水平的魔像,而附近的另一个典当则以相同的量。
+盔甲：		+[5%/10%/15%]
+冷却时间:	-[10%/20%/30%]
+处理能力:	+[10%/20%/30%]</TM_HollowGolem_CoAIce.description>
+
+  <TM_HollowGolem_CoAArcane.label>纹章: 奥术</TM_HollowGolem_CoAArcane.label>
+  <TM_HollowGolem_CoAArcane.description>被动地增加统计数据并改善衰减触摸以恢复每次点击的20 + 5*水平能量。
+技能冷却时间:	-[12%/24%/36%]
+技能伤害:		+[10%/20%/30%]
+处理能力:		+[15%/30%/45%]</TM_HollowGolem_CoAArcane.description>
+
+  <TM_HollowGolem_CoADeath.label>纹章: 死亡</TM_HollowGolem_CoADeath.label>
+  <TM_HollowGolem_CoADeath.description>被动地增加统计数据,并提高衰减触感,提高50％,并两次罢工。
+装甲： +[5％/10％/15％]
+技能冷却时间:	-[8%/16%/24%]
+技能伤害:	+[10%/20%/30%]
+处理能力:	+[15%/30%/45%]</TM_HollowGolem_CoADeath.description>
+
+  <TM_Golem_HollowPGFire.label>保护宝石: 火</TM_Golem_HollowPGFire.label>
+  <TM_Golem_HollowPGFire.description>防火宝石使魔像可以用燃烧的愤怒盾牌将自己包裹在火中。燃烧的愤怒可减少35％的伤害,使所有攻击减少,刺伤伤口,防止交错并在敌人附近烧伤。
+
+蓄能消耗: 120
+冷却时间: 1200s
+持续时间: 100s</TM_Golem_HollowPGFire.description>
+
+  <TM_Golem_HollowPGIce.label>保护宝石: 水</TM_Golem_HollowPGIce.label>
+  <TM_Golem_HollowPGIce.description>防水宝石允许魔像逃避传入的攻击。逃避攻击的机会与魔像的能量百分比成正比。每次逃避都将魔像的能量降低5。只要魔像能量阈值高于使用能力所需的最小值。</TM_Golem_HollowPGIce.description>
+
+  <TM_Golem_HollowPGArcane.label>保护宝石: 奥术</TM_Golem_HollowPGArcane.label>
+  <TM_Golem_HollowPGArcane.description>奥术保护的宝石使魔像可以用一个被称为绝望的反向盾牌包围敌人远程攻击者。绝望允许弹丸进入,但会阻止所有弹丸。
+
+蓄能消耗:	60
+冷却时间:	480
+范围:		50
+持续时间:	20s</TM_Golem_HollowPGArcane.description>
+
+  <TM_Golem_HollowPGDeath.label>保护宝石: 死亡</TM_Golem_HollowPGDeath.label>
+  <TM_Golem_HollowPGDeath.description>死亡保护宝石用诅咒的光环围绕着魔像。15个牢房内的敌人可能会因诅咒而遭受损害,从而降低意志力和战斗能力。能源成本始终为10,而不管受到多少敌人的影响。
+
+影响范围:	15
+脉冲频率:	12s
+蓄能消耗:	10 每脉冲能量</TM_Golem_HollowPGDeath.description>
+
+  <TM_Golem_HollowPGDoom.label>保护宝石:死亡深渊</TM_Golem_HollowPGDoom.label>
+  <TM_Golem_HollowPGDoom.description>死亡的深渊保护宝石以死亡的重量诅咒敌人。36个细胞中的敌人可能会以减慢诅咒的运动来击中。
+
+影响范围:	36
+脉冲频率:	10s
+蓄能消耗:	8 每个人物的能量</TM_Golem_HollowPGDoom.description>
+
+  <TM_Golem_HollowFGFire.label>聚焦宝石:火</TM_Golem_HollowFGFire.label>
+  <TM_Golem_HollowFGFire.description>火焦点宝石使魔像将元素大火集中在猛烈的燃烧爆发中。在一个目标的8个牢房内,向敌人发射16个火螺栓。
+
+蓄能消耗: 40
+最小范围: 6
+最大范围: 50</TM_Golem_HollowFGFire.description>
+
+  <TM_Golem_HollowFGIce.label>聚焦宝石:冰</TM_Golem_HollowFGIce.label>
+  <TM_Golem_HollowFGIce.description>冰重点宝石使魔像可以将元素冰浓缩到冰螺栓的快速流中。在目标的12个牢房内的敌人发射16次冰螺栓。
+
+蓄能消耗: 60
+最小范围: 10
+最大范围: 70</TM_Golem_HollowFGIce.description>
+
+  <TM_Golem_HollowFGArcane.label>聚焦宝石:奥术</TM_Golem_HollowFGArcane.label>
+  <TM_Golem_HollowFGArcane.description>奥术焦点宝石使魔像将深色能量浓缩为巨大的阴影螺栓。在目标上启动一个单一的爆炸影螺栓。极端范围。
+
+蓄能消耗: 50
+最小范围: 10
+最大范围: 150</TM_Golem_HollowFGArcane.description>
+
+  <TM_Golem_HollowFGDeath.label>聚焦宝石:死亡</TM_Golem_HollowFGDeath.label>
+  <TM_Golem_HollowFGDeath.description>死亡焦点宝石围绕着魔像的田地辐射死亡能量。定期罢工附近的敌人。当任何典当在魔像的10个细胞内死亡时,获得奖励打击。
+
+蓄能消耗: 20
+范围: 10</TM_Golem_HollowFGDeath.description>
+
+  <TM_Golem_HollowAffinityFire.label>火亲和力</TM_Golem_HollowAffinityFire.label>
+  <TM_Golem_HollowAffinityFire.description>空心魔像中的奥术能与元素火联系在一起。每个魔像只允许一个亲和力。这种亲和力使魔像的眼睛发光了橙色。火相关授予魔像的其他统计数据：
+移动速度: +[25/40/50]%
+生命值: 	+[40/60/75]%</TM_Golem_HollowAffinityFire.description>
+
+  <TM_Golem_HollowAffinityIce.label>水亲和力</TM_Golem_HollowAffinityIce.label>
+  <TM_Golem_HollowAffinityIce.description>空心魔像中的奥术能与元素水缠绕在一起。每个魔像只允许一个亲和力。这种亲和力使魔像的眼睛变成浅蓝色。水亲和力授予魔像的其他统计数据：
+移动速度: +[20/30/35]%
+生命值: 	+[50/75/90]%</TM_Golem_HollowAffinityIce.description>
+
+  <TM_Golem_HollowAffinityArcane.label>奥术亲和力</TM_Golem_HollowAffinityArcane.label>
+  <TM_Golem_HollowAffinityArcane.description>空心魔像中的奥术能进一步增强。每个魔像只允许一个亲和力。这种亲和力使魔像的眼睛变得洋红色。奥术亲和力授予魔像的其他统计数据：
+移动速度: +[15/25/30]%
+生命值: 	+[55/85/100]%</TM_Golem_HollowAffinityArcane.description>
+
+  <TM_Golem_HollowAffinityDeath.label>死亡亲和力</TM_Golem_HollowAffinityDeath.label>
+  <TM_Golem_HollowAffinityDeath.description>空心魔像中的奥术能量与死亡魔法缠绕在一起。每个魔像只允许一个亲和力。这种亲和力使魔像的眼睛变绿色。死亡亲和力授予魔像的其他统计数据：
+移动速度: +[10/15/20]%
+生命值: 	+[65/90/110]%</TM_Golem_HollowAffinityDeath.description>
+
+  <TM_Golem_HollowOrbOfExtinguishedFlames.label>熄灭火焰之球</TM_Golem_HollowOrbOfExtinguishedFlames.label>
+  <TM_Golem_HollowOrbOfExtinguishedFlames.description>在地图上杀死的每一个小人,积极的研究技术的增益将增加。也可以切换球体以检测并消耗25个牢房内的任何火,并发出微弱的银光。这些效果仅在空心魔像处于休眠状态时有效。</TM_Golem_HollowOrbOfExtinguishedFlames.description>
+
+  <TM_Golem_HollowFlamesOfDevouringApathy.label>吞噬冷漠之火</TM_Golem_HollowFlamesOfDevouringApathy.label>
+  <TM_Golem_HollowFlamesOfDevouringApathy.description>积极调节温度并破坏25个细胞内的任何污垢。发出微弱的神秘之光。这些效果仅在空心魔像处于休眠状态时有效。</TM_Golem_HollowFlamesOfDevouringApathy.description>
+
+
+</LanguageData>

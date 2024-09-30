@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_MagicItems.label>魔法物品</TM_MagicItems.label>
+  <TM_SkillBooks.label>技能书</TM_SkillBooks.label>
+  <TM_Scrolls.label>卷轴</TM_Scrolls.label>
+  <TM_Magicyte.label>魔法原石</TM_Magicyte.label>
+  <TM_MagicEquipment.label>魔法装备</TM_MagicEquipment.label>
+  <TM_MagicArtifacts.label>魔法制品</TM_MagicArtifacts.label>
+  <TM_MagicApparel.label>魔法服装</TM_MagicApparel.label>
+  <TM_MagicWeapons.label>魔法武器</TM_MagicWeapons.label>
+  <TM_MagicWeaponsMelee.label>近战</TM_MagicWeaponsMelee.label>
+  <TM_MagicWeaponsRanged.label>远程</TM_MagicWeaponsRanged.label>
+  <TM_MagicWeaponsFoci.label>魔法核心</TM_MagicWeaponsFoci.label>
+
+
+</LanguageData>

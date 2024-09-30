@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Golem_WoodRepair.label>恢复部分</TM_Golem_WoodRepair.label>
+
+  <TM_Golem_WoodMaxEnergy.label>能量存储</TM_Golem_WoodMaxEnergy.label>
+  <TM_Golem_WoodMaxEnergy.description>每级增加最大能量 100。起始最大能量为 400。</TM_Golem_WoodMaxEnergy.description>
+
+  <TM_Golem_WoodEnergyEfficiency.label>能源效率</TM_Golem_WoodEnergyEfficiency.label>
+  <TM_Golem_WoodEnergyEfficiency.description>每级能源效率提高 5%。起始能源效率为25%。</TM_Golem_WoodEnergyEfficiency.description>
+
+  <TM_Golem_WoodEnergyRate.label>能量再生</TM_Golem_WoodEnergyRate.label>
+  <TM_Golem_WoodEnergyRate.description>每级能量消耗率增加 15%。起始充能率为 25 能量/小时。</TM_Golem_WoodEnergyRate.description>
+
+  <TM_Golem_WoodArmor.label>盔甲</TM_Golem_WoodArmor.label>
+  <TM_Golem_WoodArmor.description>增强整体防护：
+钝：+[9,17,23]%
+锐利：+[8,15,21]%
+热量：+[4,7,10]%</TM_Golem_WoodArmor.description>
+
+  <TM_Golem_WoodSkills.label>技能增强</TM_Golem_WoodSkills.label>
+  <TM_Golem_WoodSkills.description>每升一级，建造和搬运的技能等级提高 2 级，每升一级，烹饪的技能等级提高 1 级。</TM_Golem_WoodSkills.description>
+
+  <TM_Golem_WoodLifeStage.label>框架层</TM_Golem_WoodLifeStage.label>
+  <TM_Golem_WoodLifeStage.description>增加统计数据：
+移动：+[20%/30%/40%]
+生命值：+[20%/40%/60%]</TM_Golem_WoodLifeStage.description>
+
+
+</LanguageData>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_UndeadChildBS.title>「边魔」亡灵</TM_UndeadChildBS.title>
+  <TM_UndeadChildBS.titleShort>亡灵</TM_UndeadChildBS.titleShort>
+  <TM_UndeadChildBS.baseDesc>[PAWN_nameDef]已经死亡，灵魂已经消散，现在是一具由死灵魔法所操控的尸体。</TM_UndeadChildBS.baseDesc>
+  <TM_UndeadChildBS.description>[PAWN_nameDef]现在是不死生物，之前居住在这具身体里的典当的故事已经被冲走——取而代之的是死灵法师的意志。</TM_UndeadChildBS.description>
+
+  <TM_UndeadAdultBS_GhostEye.title>「边魔」亡灵射手</TM_UndeadAdultBS_GhostEye.title>
+  <TM_UndeadAdultBS_GhostEye.titleShort>亡灵射手</TM_UndeadAdultBS_GhostEye.titleShort>
+  <TM_UndeadAdultBS_GhostEye.baseDesc>这种亡灵，擅长射击，不擅长格斗。</TM_UndeadAdultBS_GhostEye.baseDesc>
+  <TM_UndeadAdultBS_GhostEye.description>鬼眼是一种独特的不死生物变种，具有一定的射击技能，但在近战和采矿方面受到惩罚。</TM_UndeadAdultBS_GhostEye.description>
+   
+  <TM_UndeadAdultBS_GhostMind.title>「边魔」亡灵工匠</TM_UndeadAdultBS_GhostMind.title>
+  <TM_UndeadAdultBS_GhostMind.titleShort>亡灵工匠</TM_UndeadAdultBS_GhostMind.titleShort>
+  <TM_UndeadAdultBS_GhostMind.baseDesc>这种亡灵，擅长手工和烹饪，不擅长格斗和挖矿。</TM_UndeadAdultBS_GhostMind.baseDesc>
+  <TM_UndeadAdultBS_GhostMind.description>鬼魂是一种独特的不死生物变体，具有更高的制作和烹饪技能，但对近战和采矿有惩罚。</TM_UndeadAdultBS_GhostMind.description>
+    
+  <TM_UndeadAdultBS_Brute.title>「边魔」亡灵战士</TM_UndeadAdultBS_Brute.title>
+  <TM_UndeadAdultBS_Brute.titleShort>亡灵战士</TM_UndeadAdultBS_Brute.titleShort>
+  <TM_UndeadAdultBS_Brute.baseDesc>这种亡灵，擅长格斗和挖矿，不擅长手工和烹饪。</TM_UndeadAdultBS_Brute.baseDesc>
+  <TM_UndeadAdultBS_Brute.description>亡灵蛮族是一种独特的亡灵变种，增加了近战和采矿能力，但其手艺太差，以至于制作和烹饪任务几乎是不可能的。</TM_UndeadAdultBS_Brute.description>
+    
+  <TM_UndeadAdultBS_Servant.title>「边魔」亡灵劳工</TM_UndeadAdultBS_Servant.title>
+  <TM_UndeadAdultBS_Servant.titleShort>亡灵劳工</TM_UndeadAdultBS_Servant.titleShort>
+  <TM_UndeadAdultBS_Servant.baseDesc>这种亡灵，擅长建造，种植，手工和烹饪，不适于格斗。</TM_UndeadAdultBS_Servant.baseDesc>
+  <TM_UndeadAdultBS_Servant.description>亡灵仆人是一种独特的亡灵变种，特别适合劳动，在战斗中处于严重劣势。</TM_UndeadAdultBS_Servant.description>
+  
+  <TM_UndeadAdultBS.title>「边魔」亡灵</TM_UndeadAdultBS.title>
+  <TM_UndeadAdultBS.titleShort>亡灵</TM_UndeadAdultBS.titleShort>
+  <TM_UndeadAdultBS.baseDesc>[PAWN_nameDef]已经死亡，灵魂已经消散，现在是一具由死灵魔法所操控的尸体。</TM_UndeadAdultBS.baseDesc>
+  <TM_UndeadAdultBS.description>[PAWN_nameDef]是一个基线不死生物，没有任何异常。</TM_UndeadAdultBS.description>
+
+  <TM_GolemChildBS.title>「边魔」傀儡</TM_GolemChildBS.title>
+  <TM_GolemChildBS.titleShort>傀儡</TM_GolemChildBS.titleShort>
+  <TM_GolemChildBS.baseDesc>[PAWN_nameDef]是一个傀儡，由魔法驱动。</TM_GolemChildBS.baseDesc>
+  <TM_GolemChildBS.description>[PAWN_nameDef] 是一个傀儡，由原材料制成并带有魔法动画.</TM_GolemChildBS.description>
+
+  <TM_GolemAdultBS.title>「边魔」傀儡</TM_GolemAdultBS.title>
+  <TM_GolemAdultBS.titleShort>傀儡</TM_GolemAdultBS.titleShort>
+  <TM_GolemAdultBS.baseDesc>[PAWN_nameDef]是一个傀儡，由魔法驱动。</TM_GolemAdultBS.baseDesc>
+  <TM_GolemAdultBS.description>[PAWN_nameDef] 是一个傀儡，由原材料制成，并带有魔法动画。</TM_GolemAdultBS.description>
+
+  <TM_SpiritChildBS.title>「边魔」幽魂</TM_SpiritChildBS.title>
+  <TM_SpiritChildBS.titleShort>幽魂</TM_SpiritChildBS.titleShort>
+  <TM_SpiritChildBS.baseDesc>[PAWN_nameDef]是一个游荡的灵魂，被某种未知的力量锚定在物质世界。关于灵魂的过去和未来会做什么，我们并不清楚，但[PAWN_possessive]力量足以让[PAWN_objective]完成[PAWN_objective]想做的一切。</TM_SpiritChildBS.baseDesc>
+  <TM_SpiritChildBS.description>[PAWN_nameDef] 是一个游荡的灵魂，通过某种未知的力量锚定在这个领域。围绕[PAWN_possessive]起源的事件尚不清楚，但其威力足以导致[PAWN_objective]向生者寻求答案、正义或救赎。</TM_SpiritChildBS.description>
+
+  <TM_AncientSpiritAdultBS.title>「边魔」远古的幽魂</TM_AncientSpiritAdultBS.title>
+  <TM_AncientSpiritAdultBS.titleShort>远古的幽魂</TM_AncientSpiritAdultBS.titleShort>
+  <TM_AncientSpiritAdultBS.baseDesc>[PAWN_nameDef]已经存在了无数个世纪，时间久到已经遗失了很多记忆。但是这漫长的时间也使它的灵魂格外强大，最大灵魂值提高50。</TM_AncientSpiritAdultBS.baseDesc>
+  <TM_AncientSpiritAdultBS.description>[PAWN_nameDef] 已经存在了无数年，并且它不再记得 [PAWN_possessive] 的目的。远古神灵追求自己的目的，并成为控制灵气的高手。最大灵气增加50。</TM_AncientSpiritAdultBS.description>
+
+  <TM_VengefulSpiritAdultBS.title>「边魔」复仇的幽魂</TM_VengefulSpiritAdultBS.title>
+  <TM_VengefulSpiritAdultBS.titleShort>复仇的幽魂</TM_VengefulSpiritAdultBS.titleShort>
+  <TM_VengefulSpiritAdultBS.baseDesc>[PAWN_nameDef]的心中充满了怨恨和愤怒，只希望把[PAWN_possessive]痛苦施加给其它生灵。复仇的灵魂在释放灵魂扭曲和灵魂风暴时能够发挥更强的力量，但在入侵一个身体时会造成更大的冲突。灵魂风暴的攻击率提高25%，灵魂扭曲的伤害加成提高6%。灵魂兼容性降低1。</TM_VengefulSpiritAdultBS.baseDesc>
+  <TM_VengefulSpiritAdultBS.description>[PAWN_nameDef] 是一个复仇之魂，充满怨恨和仇恨，只想将自己的痛苦加诸生者身上。复仇之魂在精神扭曲和精神风暴时能够发挥出更多的力量，但在拥有生命体时更难以协调。精神风暴攻击力提升25%，扭曲精神伤害加成6%。兼容性降低 1。</TM_VengefulSpiritAdultBS.description>
+
+  <TM_LostSpiritAdultBS.title>「边魔」迷茫的幽魂</TM_LostSpiritAdultBS.title>
+  <TM_LostSpiritAdultBS.titleShort>迷茫的幽魂</TM_LostSpiritAdultBS.titleShort>
+  <TM_LostSpiritAdultBS.baseDesc>一个迷茫徘徊的灵魂，它忘记了过去，失去了未来。迷茫的灵魂在入侵时有更高的兼容性，在特性相似时，融合的更快。增强塑灵：狼灵的能力。持续时间，半径，最大目标加成提高10%。灵魂兼容性提高2。</TM_LostSpiritAdultBS.baseDesc>
+  <TM_LostSpiritAdultBS.description>迷失的灵魂在存在的痛苦中持续徘徊，无法察觉自己的目的。失落的人很容易将自己投入到他人的事业中，并且更容易与志趣相投的人和谐相处。还能够增强集结魂技的威力。灵魂集结的持续时间、半径、最大目标和奖励增加 10%。兼容性提高 2。</TM_LostSpiritAdultBS.description>
+
+  <TM_RegretSpiritAdultBS.title>「边魔」懊悔的幽魂</TM_RegretSpiritAdultBS.title>
+  <TM_RegretSpiritAdultBS.titleShort>懊悔的幽魂</TM_RegretSpiritAdultBS.titleShort>
+  <TM_RegretSpiritAdultBS.baseDesc>懊悔的灵魂仍然能够记住它们的过去，但它们无法纠正它们曾经犯下的错误。现在，它们像幽灵一样在世界上游荡，充满了悲伤和遗憾，仍然在寻找某种方式来弥补曾经的错误。灵魂虹吸的能力提高20%</TM_RegretSpiritAdultBS.baseDesc>
+  <TM_RegretSpiritAdultBS.description>遗憾之灵仍然能够记住自己作为灵体的目的，但无法在为时已晚之前纠正自己的错误。现在，他们以灵魂的形式在世界上徘徊，充满悲伤和遗憾，仍在寻找实现其目的的方法。悔恨之魂使汲取魂技增强20%。</TM_RegretSpiritAdultBS.description>
+
+</LanguageData>

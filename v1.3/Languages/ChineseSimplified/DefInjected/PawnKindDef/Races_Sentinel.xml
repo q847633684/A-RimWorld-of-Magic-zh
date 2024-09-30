@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lesser Sentinel -->
+
+  <TM_Lesser_Sentinel.label>小型哨兵</TM_Lesser_Sentinel.label>
+  <TM_Lesser_Sentinel.labelPlural>小型哨兵</TM_Lesser_Sentinel.labelPlural>
+  <TM_Lesser_Sentinel.lifeStages.0.label>小型哨兵</TM_Lesser_Sentinel.lifeStages.0.label>
+  <TM_Lesser_Sentinel.lifeStages.0.labelPlural>石哨兵</TM_Lesser_Sentinel.lifeStages.0.labelPlural>
+
+
+  <!-- Sentinel -->
+
+  <TM_Sentinel.label>哨兵</TM_Sentinel.label>
+  <TM_Sentinel.labelPlural>哨兵</TM_Sentinel.labelPlural>
+  <TM_Sentinel.lifeStages.0.label>哨兵</TM_Sentinel.lifeStages.0.label>
+  <TM_Sentinel.lifeStages.0.labelPlural>石哨兵</TM_Sentinel.lifeStages.0.labelPlural>
+
+
+  <!-- Greater Sentinel -->
+
+  <TM_Greater_Sentinel.label>大型哨兵</TM_Greater_Sentinel.label>
+  <TM_Greater_Sentinel.labelPlural>大型哨兵</TM_Greater_Sentinel.labelPlural>
+  <TM_Greater_Sentinel.lifeStages.0.label>大型哨兵</TM_Greater_Sentinel.lifeStages.0.label>
+  <TM_Greater_Sentinel.lifeStages.0.labelPlural>石哨兵</TM_Greater_Sentinel.lifeStages.0.labelPlural>
+
+
+</LanguageData>

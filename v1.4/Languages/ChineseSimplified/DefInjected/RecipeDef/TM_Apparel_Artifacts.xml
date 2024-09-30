@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Craftable Artifacts -->
+
+  <AdministerOrbOfTheEternal.label>应用永恒之球。</AdministerOrbOfTheEternal.label>
+  <AdministerOrbOfTheEternal.description>应用永恒之球的力量。这是一种一次性的法力灌注，可以治愈伤口，再生四肢，治疗疾病。疗愈能量将在任何特定的时间针对并治疗影响某人的单一最严重的健康状况。</AdministerOrbOfTheEternal.description>
+  <AdministerOrbOfTheEternal.jobString>使用永恒之球。</AdministerOrbOfTheEternal.jobString>
+
+
+</LanguageData>

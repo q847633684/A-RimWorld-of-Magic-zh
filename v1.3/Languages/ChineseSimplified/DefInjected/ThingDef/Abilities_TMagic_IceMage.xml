@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Soothe start -->
+
+  <Buff_Soothe.label>抚慰之风</Buff_Soothe.label>
+
+
+  <!-- FrostRay -->
+
+  <Laser_FrostRay.label>冰冻射线</Laser_FrostRay.label>
+
+
+  <!-- Snowball -->
+
+  <Projectile_Snowball.label>雪球术</Projectile_Snowball.label>
+
+
+  <!-- Icebolt -->
+
+  <Projectile_Icebolt.label>冰箭术</Projectile_Icebolt.label>
+
+
+  <!-- Rainmaker Start -->
+
+  <Projectile_Rainmaker.label>唤雨者</Projectile_Rainmaker.label>
+
+
+  <!-- Blizzard -->
+
+  <Projectile_Blizzard.label>暴风雪</Projectile_Blizzard.label>
+
+
+</LanguageData>

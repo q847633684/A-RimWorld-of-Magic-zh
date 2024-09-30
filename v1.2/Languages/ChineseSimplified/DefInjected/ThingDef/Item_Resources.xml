@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Manaweave -->
+
+  <TM_Manaweave.label>魔纹布</TM_Manaweave.label>
+  <TM_Manaweave.description>魔纹布是一种布，它与魔法融合在了一起，精心地融入了魔法的符号。魔纹布继承了布料的许多物理特性，但获得了对魔法的额外反应。这种织物之所以独一无二，是因为它能够作为法力的指挥员，增强魔法的效果，并自然地给予光明和黑暗魔法的保护。\n  \n有非常困难和繁重的制作过程，只有天才的法师并且拥有无数的知识才可以制作这种材料。</TM_Manaweave.description>
+  <TM_Manaweave.stuffProps.stuffAdjective>魔纹布</TM_Manaweave.stuffProps.stuffAdjective>
+
+
+  <!-- Arcalleum -->
+
+  <TM_Arcalleum.label>魔法合金</TM_Arcalleum.label>
+  <TM_Arcalleum.description>一种金属合金，由钢铁、翡翠、白银和魔法原石组成。它独特的组成赋予了它神秘的特性，增加了弹性，并增加了任何通过它传递的法力的反应。合金的弹性使其成为钝性防护的最佳选择，但在武器中使用是不合格的。魔法合金很难制造，需要一个能够液化和结合合金所有成分的锻造炉。\n\n\n虽然魔法合金因其增强的防御能力而备受追捧，但它也因其取消任何技能冷却的能力而受到战士和法师的推崇。每佩戴一公斤魔法合金，使用后技能冷却失效的几率增加1%（最多50%）。</TM_Arcalleum.description>
+  <TM_Arcalleum.stuffProps.stuffAdjective>魔法合金</TM_Arcalleum.stuffProps.stuffAdjective>
+
+
+  <!-- Demonhide -->
+
+  <TM_Demonhide.label>恶魔皮</TM_Demonhide.label>
+  <TM_Demonhide.description>恶魔的皮。这种材料是难以置信的坚韧而且上面有很多微孔能够迅速扩散热量和缓冲打击,比大多数非金属材料更好。恶魔皮对魔法有抗性，用恶魔皮制成的武器可以吸收这种抗性。任何被刻进恶魔皮制作的物品的附魔都会被自然地增强。这种材料只有两个缺点——第一，它只能从恶魔的尸体上获得，这使得它既稀有又昂贵；第二，它是一种可怕的隔热体。</TM_Demonhide.description>
+  <TM_Demonhide.stuffProps.stuffAdjective>恶魔皮</TM_Demonhide.stuffProps.stuffAdjective>
+
+
+  <!-- Demon Scale -->
+
+  <TM_Demonscale.label>恶魔鳞片</TM_Demonscale.label>
+  <TM_Demonscale.description>从恶魔身上剥下的这些鳞片具有轻和多功能的特性，可以抵御各种形式的攻击。恶魔鳞片是魔法的天然屏障，可以很好的抑制热和火；一个拥有足够的恶魔鳞片制作的盔甲的战士甚至可以免疫火，但最强烈的火除外。恶魔鳞可以熔炼，用这种精炼的金属锻造的武器是非常好的武器。蚀刻在恶魔鳞片装备上的附魔会被自然地增强。</TM_Demonscale.description>
+  <TM_Demonscale.stuffProps.stuffAdjective>恶魔鳞片</TM_Demonscale.stuffProps.stuffAdjective>
+
+
+</LanguageData>

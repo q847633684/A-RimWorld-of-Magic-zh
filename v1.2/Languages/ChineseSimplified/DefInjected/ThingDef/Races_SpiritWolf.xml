@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dire Wolf -->
+
+  <TM_SpiritWolfR.label>幽灵狼</TM_SpiritWolfR.label>
+  <TM_SpiritWolfR.description>在一个强大的萨满的命令下，幽灵狼在物质世界里联合起来。狼是一种危险的哺乳动物，但在群居狩猎时，狼是一种令人害怕的力量。幽灵狼会在一段短暂的时间后或者如果它被击败，它们会回到以太中。</TM_SpiritWolfR.description>
+  <TM_SpiritWolfR.tools.0.label>左爪</TM_SpiritWolfR.tools.0.label>
+  <TM_SpiritWolfR.tools.1.label>右爪</TM_SpiritWolfR.tools.1.label>
+  <TM_SpiritWolfR.tools.3.label>头</TM_SpiritWolfR.tools.3.label>
+  <TM_SpiritWolfR.race.meatLabel>肉</TM_SpiritWolfR.race.meatLabel>
+  <!-- Meat Amount: 0 -->
+  <Corpse_TM_SpiritWolfR.label>幽灵狼尸体</Corpse_TM_SpiritWolfR.label>
+  <Corpse_TM_SpiritWolfR.description>幽灵狼尸体</Corpse_TM_SpiritWolfR.description>
+
+
+</LanguageData>
