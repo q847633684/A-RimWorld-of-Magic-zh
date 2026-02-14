@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- These go in natural parts, but don't replace them -->
+  <!--原中文: '傀儡', 原英文: '无' -> 新英文: 'Golem',更新于2026-02-14-->
+  <!--EN: Golem-->
+  <TM_GolemHD.label>傀儡</TM_GolemHD.label>
+  <!--原中文: '适用于所有傀儡的健康效果。', 原英文: '无' -> 新英文: 'Health effects applied to all golems.',更新于2026-02-14-->
+  <!--EN: Health effects applied to all golems.-->
+  <TM_GolemHD.description>适用于所有傀儡的健康效果。</TM_GolemHD.description>
+</LanguageData>

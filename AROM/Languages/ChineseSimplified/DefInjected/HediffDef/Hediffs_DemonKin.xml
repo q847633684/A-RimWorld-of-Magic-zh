@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '如影随形', 原英文: '无' -> 新英文: 'Shadow',更新于2026-02-14-->
+  <!--EN: Shadow-->
+  <TM_ShadowHD.label>如影随形</TM_ShadowHD.label>
+  <!--原中文: '暗影伤害。', 原英文: '无' -> 新英文: 'Shadow damage.',更新于2026-02-14-->
+  <!--EN: Shadow damage.-->
+  <TM_ShadowHD.description>暗影伤害。</TM_ShadowHD.description>
+  <!--原中文: '已包扎', 原英文: '无' -> 新英文: 'bandaged',更新于2026-02-14-->
+  <!--EN: bandaged-->
+  <TM_ShadowHD.comps.0.labelTendedWell>已包扎</TM_ShadowHD.comps.0.labelTendedWell>
+  <!--原中文: '已缝合', 原英文: '无' -> 新英文: 'sutured',更新于2026-02-14-->
+  <!--EN: sutured-->
+  <TM_ShadowHD.comps.0.labelTendedWellInner>已缝合</TM_ShadowHD.comps.0.labelTendedWellInner>
+  <!--原中文: '已固定', 原英文: '无' -> 新英文: 'set',更新于2026-02-14-->
+  <!--EN: set-->
+  <TM_ShadowHD.comps.0.labelSolidTendedWell>已固定</TM_ShadowHD.comps.0.labelSolidTendedWell>
+  <!--原中文: '枯萎', 原英文: '无' -> 新英文: 'withered',更新于2026-02-14-->
+  <!--EN: withered-->
+  <TM_ShadowHD.injuryProps.destroyedLabel>枯萎</TM_ShadowHD.injuryProps.destroyedLabel>
+  <!--原中文: '瓦解', 原英文: '无' -> 新英文: 'disintegrated',更新于2026-02-14-->
+  <!--EN: disintegrated-->
+  <TM_ShadowHD.injuryProps.destroyedOutLabel>瓦解</TM_ShadowHD.injuryProps.destroyedOutLabel>
+  <!--原中文: '引力陷阱', 原英文: '无' -> 新英文: 'Gravity Well',更新于2026-02-14-->
+  <!--EN: Gravity Well-->
+  <TM_GravitySlowHD.label>引力陷阱</TM_GravitySlowHD.label>
+  <!--原中文: '受到引力的影响。', 原英文: '无' -> 新英文: 'Slowed by an unnatural gravitational attraction.',更新于2026-02-14-->
+  <!--EN: Slowed by an unnatural gravitational attraction.-->
+  <TM_GravitySlowHD.description>受到引力的影响。</TM_GravitySlowHD.description>
+  <!--原中文: '放慢', 原英文: '无' -> 新英文: 'slowed',更新于2026-02-14-->
+  <!--EN: slowed-->
+  <TM_GravitySlowHD.stages.0.label>放慢</TM_GravitySlowHD.stages.0.label>
+  <!--原中文: '灵魂契约', 原英文: '无' -> 新英文: 'Soul Bond',更新于2026-02-14-->
+  <!--EN: Soul Bond-->
+  <TM_SoulBondPhysicalHD.label>灵魂契约</TM_SoulBondPhysicalHD.label>
+  <!--原中文: '与魅魔签订契约。', 原英文: '无' -> 新英文: 'Soul bonded to a Succubus.',更新于2026-02-14-->
+  <!--EN: Soul bonded to a Succubus.-->
+  <TM_SoulBondPhysicalHD.description>与魅魔签订契约。</TM_SoulBondPhysicalHD.description>
+  <TM_SoulBondPhysicalHD.stages.0.label>I</TM_SoulBondPhysicalHD.stages.0.label>
+  <TM_SoulBondPhysicalHD.stages.1.label>II</TM_SoulBondPhysicalHD.stages.1.label>
+  <TM_SoulBondPhysicalHD.stages.2.label>III</TM_SoulBondPhysicalHD.stages.2.label>
+  <TM_SoulBondPhysicalHD.stages.3.label>IV</TM_SoulBondPhysicalHD.stages.3.label>
+  <!--原中文: '灵魂契约', 原英文: '无' -> 新英文: 'Soul Bond',更新于2026-02-14-->
+  <!--EN: Soul Bond-->
+  <TM_SDSoulBondPhysicalHD.label>灵魂契约</TM_SDSoulBondPhysicalHD.label>
+  <!--原中文: '已与他人签订灵魂契约。', 原英文: '无' -> 新英文: 'Maintaining a soul bond contract with another pawn.',更新于2026-02-14-->
+  <!--EN: Maintaining a soul bond contract with another pawn.-->
+  <TM_SDSoulBondPhysicalHD.description>已与他人签订灵魂契约。</TM_SDSoulBondPhysicalHD.description>
+  <TM_SDSoulBondPhysicalHD.stages.0.label>I</TM_SDSoulBondPhysicalHD.stages.0.label>
+  <TM_SDSoulBondPhysicalHD.stages.1.label>II</TM_SDSoulBondPhysicalHD.stages.1.label>
+  <TM_SDSoulBondPhysicalHD.stages.2.label>III</TM_SDSoulBondPhysicalHD.stages.2.label>
+  <TM_SDSoulBondPhysicalHD.stages.3.label>IV</TM_SDSoulBondPhysicalHD.stages.3.label>
+  <!--原中文: '灵魂契约', 原英文: '无' -> 新英文: 'Soul Bond',更新于2026-02-14-->
+  <!--EN: Soul Bond-->
+  <TM_SoulBondMentalHD.label>灵魂契约</TM_SoulBondMentalHD.label>
+  <!--原中文: '与术士签订契约。', 原英文: '无' -> 新英文: 'Soul bonded to a Warlock.',更新于2026-02-14-->
+  <!--EN: Soul bonded to a Warlock.-->
+  <TM_SoulBondMentalHD.description>与术士签订契约。</TM_SoulBondMentalHD.description>
+  <TM_SoulBondMentalHD.stages.0.label>I</TM_SoulBondMentalHD.stages.0.label>
+  <TM_SoulBondMentalHD.stages.1.label>II</TM_SoulBondMentalHD.stages.1.label>
+  <TM_SoulBondMentalHD.stages.2.label>III</TM_SoulBondMentalHD.stages.2.label>
+  <TM_SoulBondMentalHD.stages.3.label>IV</TM_SoulBondMentalHD.stages.3.label>
+  <!--原中文: '灵魂契约', 原英文: '无' -> 新英文: 'Soul Bond',更新于2026-02-14-->
+  <!--EN: Soul Bond-->
+  <TM_WDSoulBondMentalHD.label>灵魂契约</TM_WDSoulBondMentalHD.label>
+  <!--原中文: '已与他人签订灵魂契约。', 原英文: '无' -> 新英文: 'Maintaining a contract with another pawn that bonds their soul with mine.',更新于2026-02-14-->
+  <!--EN: Maintaining a contract with another pawn that bonds their soul with mine.-->
+  <TM_WDSoulBondMentalHD.description>已与他人签订灵魂契约。</TM_WDSoulBondMentalHD.description>
+  <TM_WDSoulBondMentalHD.stages.0.label>I</TM_WDSoulBondMentalHD.stages.0.label>
+  <TM_WDSoulBondMentalHD.stages.1.label>II</TM_WDSoulBondMentalHD.stages.1.label>
+  <TM_WDSoulBondMentalHD.stages.2.label>III</TM_WDSoulBondMentalHD.stages.2.label>
+  <TM_WDSoulBondMentalHD.stages.3.label>IV</TM_WDSoulBondMentalHD.stages.3.label>
+  <!--原中文: '支配 I', 原英文: '无' -> 新英文: 'Dominate I',更新于2026-02-14-->
+  <!--EN: Dominate I-->
+  <TM_WDDominateHD.label>支配 I</TM_WDDominateHD.label>
+  <!--原中文: '受到魔法力量的影响，精神受到影响，思维逐渐混乱。', 原英文: '无' -> 新英文: 'Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.',更新于2026-02-14-->
+  <!--EN: Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.-->
+  <TM_WDDominateHD.description>受到魔法力量的影响，精神受到影响，思维逐渐混乱。</TM_WDDominateHD.description>
+  <!--原中文: '衰退', 原英文: '无' -> 新英文: 'fading',更新于2026-02-14-->
+  <!--EN: fading-->
+  <TM_WDDominateHD.stages.0.label>衰退</TM_WDDominateHD.stages.0.label>
+  <!--原中文: '退缩', 原英文: '无' -> 新英文: 'withdrawing',更新于2026-02-14-->
+  <!--EN: withdrawing-->
+  <TM_WDDominateHD.stages.1.label>退缩</TM_WDDominateHD.stages.1.label>
+  <!--原中文: '笼罩', 原英文: '无' -> 新英文: 'enveloping',更新于2026-02-14-->
+  <!--EN: enveloping-->
+  <TM_WDDominateHD.stages.2.label>笼罩</TM_WDDominateHD.stages.2.label>
+  <!--原中文: '压倒', 原英文: '无' -> 新英文: 'overwhelming',更新于2026-02-14-->
+  <!--EN: overwhelming-->
+  <TM_WDDominateHD.stages.3.label>压倒</TM_WDDominateHD.stages.3.label>
+  <!--原中文: '支配 II', 原英文: '无' -> 新英文: 'Dominate II',更新于2026-02-14-->
+  <!--EN: Dominate II-->
+  <TM_WDDominateHD_I.label>支配 II</TM_WDDominateHD_I.label>
+  <!--原中文: '受到魔法力量的影响，精神受到影响，思维逐渐混乱。', 原英文: '无' -> 新英文: 'Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.',更新于2026-02-14-->
+  <!--EN: Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.-->
+  <TM_WDDominateHD_I.description>受到魔法力量的影响，精神受到影响，思维逐渐混乱。</TM_WDDominateHD_I.description>
+  <!--原中文: '衰退', 原英文: '无' -> 新英文: 'fading',更新于2026-02-14-->
+  <!--EN: fading-->
+  <TM_WDDominateHD_I.stages.0.label>衰退</TM_WDDominateHD_I.stages.0.label>
+  <!--原中文: '退缩', 原英文: '无' -> 新英文: 'withdrawing',更新于2026-02-14-->
+  <!--EN: withdrawing-->
+  <TM_WDDominateHD_I.stages.1.label>退缩</TM_WDDominateHD_I.stages.1.label>
+  <!--原中文: '笼罩', 原英文: '无' -> 新英文: 'enveloping',更新于2026-02-14-->
+  <!--EN: enveloping-->
+  <TM_WDDominateHD_I.stages.2.label>笼罩</TM_WDDominateHD_I.stages.2.label>
+  <!--原中文: '压倒', 原英文: '无' -> 新英文: 'overwhelming',更新于2026-02-14-->
+  <!--EN: overwhelming-->
+  <TM_WDDominateHD_I.stages.3.label>压倒</TM_WDDominateHD_I.stages.3.label>
+  <!--原中文: '支配 III', 原英文: '无' -> 新英文: 'Dominate III',更新于2026-02-14-->
+  <!--EN: Dominate III-->
+  <TM_WDDominateHD_II.label>支配 III</TM_WDDominateHD_II.label>
+  <!--原中文: '受到魔法力量的影响，精神受到影响，思维逐渐混乱。', 原英文: '无' -> 新英文: 'Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.',更新于2026-02-14-->
+  <!--EN: Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.-->
+  <TM_WDDominateHD_II.description>受到魔法力量的影响，精神受到影响，思维逐渐混乱。</TM_WDDominateHD_II.description>
+  <!--原中文: '衰退', 原英文: '无' -> 新英文: 'fading',更新于2026-02-14-->
+  <!--EN: fading-->
+  <TM_WDDominateHD_II.stages.0.label>衰退</TM_WDDominateHD_II.stages.0.label>
+  <!--原中文: '退缩', 原英文: '无' -> 新英文: 'withdrawing',更新于2026-02-14-->
+  <!--EN: withdrawing-->
+  <TM_WDDominateHD_II.stages.1.label>退缩</TM_WDDominateHD_II.stages.1.label>
+  <!--原中文: '笼罩', 原英文: '无' -> 新英文: 'enveloping',更新于2026-02-14-->
+  <!--EN: enveloping-->
+  <TM_WDDominateHD_II.stages.2.label>笼罩</TM_WDDominateHD_II.stages.2.label>
+  <!--原中文: '压倒', 原英文: '无' -> 新英文: 'overwhelming',更新于2026-02-14-->
+  <!--EN: overwhelming-->
+  <TM_WDDominateHD_II.stages.3.label>压倒</TM_WDDominateHD_II.stages.3.label>
+  <!--原中文: '支配 IV', 原英文: '无' -> 新英文: 'Dominate IV',更新于2026-02-14-->
+  <!--EN: Dominate IV-->
+  <TM_WDDominateHD_III.label>支配 IV</TM_WDDominateHD_III.label>
+  <!--原中文: '受到魔法力量的影响，精神受到影响，思维逐渐混乱。', 原英文: '无' -> 新英文: 'Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.',更新于2026-02-14-->
+  <!--EN: Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.-->
+  <TM_WDDominateHD_III.description>受到魔法力量的影响，精神受到影响，思维逐渐混乱。</TM_WDDominateHD_III.description>
+  <!--原中文: '衰退', 原英文: '无' -> 新英文: 'fading',更新于2026-02-14-->
+  <!--EN: fading-->
+  <TM_WDDominateHD_III.stages.0.label>衰退</TM_WDDominateHD_III.stages.0.label>
+  <!--原中文: '退缩', 原英文: '无' -> 新英文: 'withdrawing',更新于2026-02-14-->
+  <!--EN: withdrawing-->
+  <TM_WDDominateHD_III.stages.1.label>退缩</TM_WDDominateHD_III.stages.1.label>
+  <!--原中文: '笼罩', 原英文: '无' -> 新英文: 'enveloping',更新于2026-02-14-->
+  <!--EN: enveloping-->
+  <TM_WDDominateHD_III.stages.2.label>笼罩</TM_WDDominateHD_III.stages.2.label>
+  <!--原中文: '压倒', 原英文: '无' -> 新英文: 'overwhelming',更新于2026-02-14-->
+  <!--EN: overwhelming-->
+  <TM_WDDominateHD_III.stages.3.label>压倒</TM_WDDominateHD_III.stages.3.label>
+  <!--原中文: '支配 I', 原英文: '无' -> 新英文: 'Dominate I',更新于2026-02-14-->
+  <!--EN: Dominate I-->
+  <TM_SDDominateHD.label>支配 I</TM_SDDominateHD.label>
+  <!--原中文: '受到魔法力量的影响，力量受到削弱，体力逐渐流失。', 原英文: '无' -> 新英文: 'Under the effects of a succubus dominatrix - stunts all physical actions.',更新于2026-02-14-->
+  <!--EN: Under the effects of a succubus dominatrix - stunts all physical actions.-->
+  <TM_SDDominateHD.description>受到魔法力量的影响，力量受到削弱，体力逐渐流失。</TM_SDDominateHD.description>
+  <!--原中文: '衰退', 原英文: '无' -> 新英文: 'fading',更新于2026-02-14-->
+  <!--EN: fading-->
+  <TM_SDDominateHD.stages.0.label>衰退</TM_SDDominateHD.stages.0.label>
+  <!--原中文: '退缩', 原英文: '无' -> 新英文: 'withdrawing',更新于2026-02-14-->
+  <!--EN: withdrawing-->
+  <TM_SDDominateHD.stages.1.label>退缩</TM_SDDominateHD.stages.1.label>
+  <!--原中文: '笼罩', 原英文: '无' -> 新英文: 'enveloping',更新于2026-02-14-->
+  <!--EN: enveloping-->
+  <TM_SDDominateHD.stages.2.label>笼罩</TM_SDDominateHD.stages.2.label>
+  <!--原中文: '压倒', 原英文: '无' -> 新英文: 'overwhelming',更新于2026-02-14-->
+  <!--EN: overwhelming-->
+  <TM_SDDominateHD.stages.3.label>压倒</TM_SDDominateHD.stages.3.label>
+  <!--原中文: '支配 II', 原英文: '无' -> 新英文: 'Dominate II',更新于2026-02-14-->
+  <!--EN: Dominate II-->
+  <TM_SDDominateHD_I.label>支配 II</TM_SDDominateHD_I.label>
+  <!--原中文: '受到魔法力量的影响，力量受到削弱，体力逐渐流失。', 原英文: '无' -> 新英文: 'Under the effects of a succubus dominatrix - stunts all physical actions.',更新于2026-02-14-->
+  <!--EN: Under the effects of a succubus dominatrix - stunts all physical actions.-->
+  <TM_SDDominateHD_I.description>受到魔法力量的影响，力量受到削弱，体力逐渐流失。</TM_SDDominateHD_I.description>
+  <!--原中文: '衰退', 原英文: '无' -> 新英文: 'fading',更新于2026-02-14-->
+  <!--EN: fading-->
+  <TM_SDDominateHD_I.stages.0.label>衰退</TM_SDDominateHD_I.stages.0.label>
+  <!--原中文: '退缩', 原英文: '无' -> 新英文: 'withdrawing',更新于2026-02-14-->
+  <!--EN: withdrawing-->
+  <TM_SDDominateHD_I.stages.1.label>退缩</TM_SDDominateHD_I.stages.1.label>
+  <!--原中文: '笼罩', 原英文: '无' -> 新英文: 'enveloping',更新于2026-02-14-->
+  <!--EN: enveloping-->
+  <TM_SDDominateHD_I.stages.2.label>笼罩</TM_SDDominateHD_I.stages.2.label>
+  <!--原中文: '压倒', 原英文: '无' -> 新英文: 'overwhelming',更新于2026-02-14-->
+  <!--EN: overwhelming-->
+  <TM_SDDominateHD_I.stages.3.label>压倒</TM_SDDominateHD_I.stages.3.label>
+  <!--原中文: '支配 III', 原英文: '无' -> 新英文: 'Dominate III',更新于2026-02-14-->
+  <!--EN: Dominate III-->
+  <TM_SDDominateHD_II.label>支配 III</TM_SDDominateHD_II.label>
+  <!--原中文: '受到魔法力量的影响，力量受到削弱，体力逐渐流失。', 原英文: '无' -> 新英文: 'Under the effects of a succubus dominatrix - stunts all physical actions.',更新于2026-02-14-->
+  <!--EN: Under the effects of a succubus dominatrix - stunts all physical actions.-->
+  <TM_SDDominateHD_II.description>受到魔法力量的影响，力量受到削弱，体力逐渐流失。</TM_SDDominateHD_II.description>
+  <!--原中文: '衰退', 原英文: '无' -> 新英文: 'fading',更新于2026-02-14-->
+  <!--EN: fading-->
+  <TM_SDDominateHD_II.stages.0.label>衰退</TM_SDDominateHD_II.stages.0.label>
+  <!--原中文: '退缩', 原英文: '无' -> 新英文: 'withdrawing',更新于2026-02-14-->
+  <!--EN: withdrawing-->
+  <TM_SDDominateHD_II.stages.1.label>退缩</TM_SDDominateHD_II.stages.1.label>
+  <!--原中文: '笼罩', 原英文: '无' -> 新英文: 'enveloping',更新于2026-02-14-->
+  <!--EN: enveloping-->
+  <TM_SDDominateHD_II.stages.2.label>笼罩</TM_SDDominateHD_II.stages.2.label>
+  <!--原中文: '压倒', 原英文: '无' -> 新英文: 'overwhelming',更新于2026-02-14-->
+  <!--EN: overwhelming-->
+  <TM_SDDominateHD_II.stages.3.label>压倒</TM_SDDominateHD_II.stages.3.label>
+  <!--原中文: '支配 IV', 原英文: '无' -> 新英文: 'Dominate IV',更新于2026-02-14-->
+  <!--EN: Dominate IV-->
+  <TM_SDDominateHD_III.label>支配 IV</TM_SDDominateHD_III.label>
+  <!--原中文: '受到魔法力量的影响，力量受到削弱，体力逐渐流失。', 原英文: '无' -> 新英文: 'Under the effects of a succubus dominatrix - stunts all physical actions.',更新于2026-02-14-->
+  <!--EN: Under the effects of a succubus dominatrix - stunts all physical actions.-->
+  <TM_SDDominateHD_III.description>受到魔法力量的影响，力量受到削弱，体力逐渐流失。</TM_SDDominateHD_III.description>
+  <!--原中文: '衰退', 原英文: '无' -> 新英文: 'fading',更新于2026-02-14-->
+  <!--EN: fading-->
+  <TM_SDDominateHD_III.stages.0.label>衰退</TM_SDDominateHD_III.stages.0.label>
+  <!--原中文: '退缩', 原英文: '无' -> 新英文: 'withdrawing',更新于2026-02-14-->
+  <!--EN: withdrawing-->
+  <TM_SDDominateHD_III.stages.1.label>退缩</TM_SDDominateHD_III.stages.1.label>
+  <!--原中文: '笼罩', 原英文: '无' -> 新英文: 'enveloping',更新于2026-02-14-->
+  <!--EN: enveloping-->
+  <TM_SDDominateHD_III.stages.2.label>笼罩</TM_SDDominateHD_III.stages.2.label>
+  <!--原中文: '压倒', 原英文: '无' -> 新英文: 'overwhelming',更新于2026-02-14-->
+  <!--EN: overwhelming-->
+  <TM_SDDominateHD_III.stages.3.label>压倒</TM_SDDominateHD_III.stages.3.label>
+  <!--原中文: '活力消耗', 原英文: '无' -> 新英文: 'Vitality Drain',更新于2026-02-14-->
+  <!--EN: Vitality Drain-->
+  <TM_VitalityDrainHD.label>活力消耗</TM_VitalityDrainHD.label>
+  <!--原中文: '在“亲密”的联系中，虽然体力被吸取，但是也得到了极大的愉悦。', 原英文: '无' -> 新英文: 'Physically drained but mentally relaxed through intimacy with a succubus.',更新于2026-02-14-->
+  <!--EN: Physically drained but mentally relaxed through intimacy with a succubus.-->
+  <TM_VitalityDrainHD.description>在“亲密”的联系中，虽然体力被吸取，但是也得到了极大的愉悦。</TM_VitalityDrainHD.description>
+  <!--原中文: '魅魔', 原英文: '无' -> 新英文: 'Succubus',更新于2026-02-14-->
+  <!--EN: Succubus-->
+  <TM_VitalityDrainHD.stages.0.label>魅魔</TM_VitalityDrainHD.stages.0.label>
+  <!--原中文: '活力提升', 原英文: '无' -> 新英文: 'Vitality Boost',更新于2026-02-14-->
+  <!--EN: Vitality Boost-->
+  <TM_VitalityBoostHD.label>活力提升</TM_VitalityBoostHD.label>
+  <!--原中文: '在“亲密”的联系中，通过消耗别人的能量来获得身体上的提升。', 原英文: '无' -> 新英文: 'Physical boost acquired by draining the energy from a pawn during intimacy.',更新于2026-02-14-->
+  <!--EN: Physical boost acquired by draining the energy from a pawn during intimacy.-->
+  <TM_VitalityBoostHD.description>在“亲密”的联系中，通过消耗别人的能量来获得身体上的提升。</TM_VitalityBoostHD.description>
+  <!--原中文: '恶魔火焰', 原英文: '无' -> 新英文: 'Demonic Flames',更新于2026-02-14-->
+  <!--EN: Demonic Flames-->
+  <TM_DemonHD.label>恶魔火焰</TM_DemonHD.label>
+  <!--原中文: '恶魔火焰围绕着恶魔旋转和扭曲。', 原英文: '无' -> 新英文: 'Demonic flames that swirl and writhe around the form of a demon.',更新于2026-02-14-->
+  <!--EN: Demonic flames that swirl and writhe around the form of a demon.-->
+  <TM_DemonHD.description>恶魔火焰围绕着恶魔旋转和扭曲。</TM_DemonHD.description>
+  <!--原中文: '灵魂消耗', 原英文: '无' -> 新英文: 'Soul Consumption',更新于2026-02-14-->
+  <!--EN: Soul Consumption-->
+  <TM_DemonicPriceHD.label>灵魂消耗</TM_DemonicPriceHD.label>
+  <!--原中文: '毁灭的烈焰灼烧着灵魂。', 原英文: '无' -> 新英文: 'Flames of destruction that will never cease until they consume the soul of this pawn.',更新于2026-02-14-->
+  <!--EN: Flames of destruction that will never cease until they consume the soul of this pawn.-->
+  <TM_DemonicPriceHD.description>毁灭的烈焰灼烧着灵魂。</TM_DemonicPriceHD.description>
+  <!--原中文: '恶魔的蔑视', 原英文: '无' -> 新英文: 'Demon's Scorn',更新于2026-02-14-->
+  <!--EN: Demon's Scorn-->
+  <TM_DemonScornHD.label>恶魔的蔑视</TM_DemonScornHD.label>
+  <!--原中文: '恶魔化，增加免伤和伤害。', 原英文: '无' -> 新英文: 'The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.',更新于2026-02-14-->
+  <!--EN: The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.-->
+  <TM_DemonScornHD.description>恶魔化，增加免伤和伤害。</TM_DemonScornHD.description>
+  <TM_DemonScornHD.stages.0.label>I</TM_DemonScornHD.stages.0.label>
+  <!--原中文: '恶魔的蔑视', 原英文: '无' -> 新英文: 'Demon's Scorn',更新于2026-02-14-->
+  <!--EN: Demon's Scorn-->
+  <TM_DemonScornHD_I.label>恶魔的蔑视</TM_DemonScornHD_I.label>
+  <!--原中文: '恶魔化，增加免伤和伤害。', 原英文: '无' -> 新英文: 'The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.',更新于2026-02-14-->
+  <!--EN: The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.-->
+  <TM_DemonScornHD_I.description>恶魔化，增加免伤和伤害。</TM_DemonScornHD_I.description>
+  <TM_DemonScornHD_I.stages.0.label>II</TM_DemonScornHD_I.stages.0.label>
+  <!--原中文: '恶魔的蔑视', 原英文: '无' -> 新英文: 'Demon's Scorn',更新于2026-02-14-->
+  <!--EN: Demon's Scorn-->
+  <TM_DemonScornHD_II.label>恶魔的蔑视</TM_DemonScornHD_II.label>
+  <!--原中文: '恶魔化，增加免伤和伤害。', 原英文: '无' -> 新英文: 'The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.',更新于2026-02-14-->
+  <!--EN: The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.-->
+  <TM_DemonScornHD_II.description>恶魔化，增加免伤和伤害。</TM_DemonScornHD_II.description>
+  <TM_DemonScornHD_II.stages.0.label>III</TM_DemonScornHD_II.stages.0.label>
+  <!--原中文: '恶魔的蔑视', 原英文: '无' -> 新英文: 'Demon's Scorn',更新于2026-02-14-->
+  <!--EN: Demon's Scorn-->
+  <TM_DemonScornHD_III.label>恶魔的蔑视</TM_DemonScornHD_III.label>
+  <!--原中文: '恶魔化，增加免伤和伤害。', 原英文: '无' -> 新英文: 'The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.',更新于2026-02-14-->
+  <!--EN: The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.-->
+  <TM_DemonScornHD_III.description>恶魔化，增加免伤和伤害。</TM_DemonScornHD_III.description>
+  <TM_DemonScornHD_III.stages.0.label>IV</TM_DemonScornHD_III.stages.0.label>
+</LanguageData>

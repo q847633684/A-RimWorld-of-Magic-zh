@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Spirit Bear -->
+  <!--原中文: '灵熊', 原英文: '无' -> 新英文: 'spirit bear',更新于2026-02-14-->
+  <!--EN: spirit bear-->
+  <TM_SpiritBearR.label>灵熊</TM_SpiritBearR.label>
+  <!--原中文: '灵熊征着稳定和力量。一直以来，这种动物一直受到人们的赞赏，认为它能给那些需要勇气面对逆境的人带来强大的灵感。灵熊的强大指引可以获得体力和体质，并将积极保护它的幼崽。', 原英文: '无' -> 新英文: 'The spirit bear is emblematic of stability and strength. This animal has been admired throughout time as a powerful inspiration for those who need courage to stand up against adversity. The spirit bear is a powerful guide to support physical strength and constitution and will actively protect its young.',更新于2026-02-14-->
+  <!--EN: The spirit bear is emblematic of stability and strength. This animal has been admired throughout time as a powerful inspiration for those who need courage to stand up against adversity. The spirit bear is a powerful guide to support physical strength and constitution and will actively protect its young.-->
+  <TM_SpiritBearR.description>灵熊征着稳定和力量。一直以来，这种动物一直受到人们的赞赏，认为它能给那些需要勇气面对逆境的人带来强大的灵感。灵熊的强大指引可以获得体力和体质，并将积极保护它的幼崽。</TM_SpiritBearR.description>
+  <!--原中文: '左爪', 原英文: '无' -> 新英文: 'left paw',更新于2026-02-14-->
+  <!--EN: left paw-->
+  <TM_SpiritBearR.tools.0.label>左爪</TM_SpiritBearR.tools.0.label>
+  <!--原中文: '右爪', 原英文: '无' -> 新英文: 'right paw',更新于2026-02-14-->
+  <!--EN: right paw-->
+  <TM_SpiritBearR.tools.1.label>右爪</TM_SpiritBearR.tools.1.label>
+  <!--原中文: '痛苦', 原英文: '无' -> 新英文: 'mauled',更新于2026-02-14-->
+  <!--EN: mauled-->
+  <TM_SpiritBearR.tools.2.label>痛苦</TM_SpiritBearR.tools.2.label>
+  <!--原中文: '头', 原英文: '无' -> 新英文: 'head',更新于2026-02-14-->
+  <!--EN: head-->
+  <TM_SpiritBearR.tools.3.label>头</TM_SpiritBearR.tools.3.label>
+  <!-- Spirit Mongoose -->
+  <!--原中文: '灵猫鼬', 原英文: '无' -> 新英文: 'spirit mongoose',更新于2026-02-14-->
+  <!--EN: spirit mongoose-->
+  <TM_SpiritMongooseR.label>灵猫鼬</TM_SpiritMongooseR.label>
+  <!--原中文: '灵之猫鼬十分聪明，适应性强。它代表着人们对周围世界的永不满足的好奇心，同时拥有在行动之前先看一看的能力。灵之猫鼬利用它们的狡猾和敏捷迅速对敌人发动致命打击或迅速运送资源。灵之猫鼬也是最好玩的精神动物。', 原英文: '无' -> 新英文: 'The mongoose spirit animal is clever and adaptable. It represents an insatiable curiosity about the world around them while possessing the wherewithal to know to look before they leap. The mongoose uses their cunning and agility to quickly deliver lethal strikes against an enemy or swiftly deliver resources. The mongoose is also the most playful of spirit animals.',更新于2026-02-14-->
+  <!--EN: The mongoose spirit animal is clever and adaptable. It represents an insatiable curiosity about the world around them while possessing the wherewithal to know to look before they leap. The mongoose uses their cunning and agility to quickly deliver lethal strikes against an enemy or swiftly deliver resources. The mongoose is also the most playful of spirit animals.-->
+  <TM_SpiritMongooseR.description>灵之猫鼬十分聪明，适应性强。它代表着人们对周围世界的永不满足的好奇心，同时拥有在行动之前先看一看的能力。灵之猫鼬利用它们的狡猾和敏捷迅速对敌人发动致命打击或迅速运送资源。灵之猫鼬也是最好玩的精神动物。</TM_SpiritMongooseR.description>
+  <!--原中文: '左爪', 原英文: '无' -> 新英文: 'left claw',更新于2026-02-14-->
+  <!--EN: left claw-->
+  <TM_SpiritMongooseR.tools.0.label>左爪</TM_SpiritMongooseR.tools.0.label>
+  <!--原中文: '右爪', 原英文: '无' -> 新英文: 'right claw',更新于2026-02-14-->
+  <!--EN: right claw-->
+  <TM_SpiritMongooseR.tools.1.label>右爪</TM_SpiritMongooseR.tools.1.label>
+  <!--原中文: '头', 原英文: '无' -> 新英文: 'head',更新于2026-02-14-->
+  <!--EN: head-->
+  <TM_SpiritMongooseR.tools.3.label>头</TM_SpiritMongooseR.tools.3.label>
+  <!-- Spirit Crow -->
+  <!--原中文: '灵乌鸦', 原英文: '无' -> 新英文: 'spirit crow',更新于2026-02-14-->
+  <!--EN: spirit crow-->
+  <TM_SpiritCrowR.label>灵乌鸦</TM_SpiritCrowR.label>
+  <!--原中文: '灵乌鸦是一种与生命奥秘和魔法有关的精神动物。灵乌鸦提供洞察和支持意图的手段。它也是财富的象征，尽管并不总是好运。如果乌鸦选择你作为你的灵魂或图腾动物，它会帮助你获得视力、变形和魔法连接的力量，并将在你努力获得这些能力中提供帮助。', 原英文: '无' -> 新英文: 'The crow is a spirit animal associated with life mysteries and magic. The spirit crow provides insight and means of supporting intentions. It is also a sign of fortune, though not always good fortune. If the crow has chosen you as your spirit or totem animal, it supports you in developing the power of sight, transformation, and connection with magic and will assist in these endeavors.',更新于2026-02-14-->
+  <!--EN: The crow is a spirit animal associated with life mysteries and magic. The spirit crow provides insight and means of supporting intentions. It is also a sign of fortune, though not always good fortune. If the crow has chosen you as your spirit or totem animal, it supports you in developing the power of sight, transformation, and connection with magic and will assist in these endeavors.-->
+  <TM_SpiritCrowR.description>灵乌鸦是一种与生命奥秘和魔法有关的精神动物。灵乌鸦提供洞察和支持意图的手段。它也是财富的象征，尽管并不总是好运。如果乌鸦选择你作为你的灵魂或图腾动物，它会帮助你获得视力、变形和魔法连接的力量，并将在你努力获得这些能力中提供帮助。</TM_SpiritCrowR.description>
+  <!--原中文: '爪', 原英文: '无' -> 新英文: 'claws',更新于2026-02-14-->
+  <!--EN: claws-->
+  <TM_SpiritCrowR.tools.0.label>爪</TM_SpiritCrowR.tools.0.label>
+  <!--原中文: '喙', 原英文: '无' -> 新英文: 'beak',更新于2026-02-14-->
+  <!--EN: beak-->
+  <TM_SpiritCrowR.tools.1.label>喙</TM_SpiritCrowR.tools.1.label>
+  <!--原中文: '头', 原英文: '无' -> 新英文: 'head',更新于2026-02-14-->
+  <!--EN: head-->
+  <TM_SpiritCrowR.tools.2.label>头</TM_SpiritCrowR.tools.2.label>
+</LanguageData>

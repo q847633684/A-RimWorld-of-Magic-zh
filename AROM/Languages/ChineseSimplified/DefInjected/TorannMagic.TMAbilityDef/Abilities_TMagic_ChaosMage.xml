@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Chaos Tradition -->
+  <!--原中文: '混沌思维', 原英文: '无' -> 新英文: 'Chaos Tradition',更新于2026-02-14-->
+  <!--EN: Chaos Tradition-->
+  <TM_ChaosTradition.label>混沌思维</TM_ChaosTradition.label>
+  <!--原中文: '混沌思维是一种猜想，在这种猜想中，混沌法师重新定义了他们的思维过程，以交换他们可用的魔法能力。学习的能力是无法控制的，将随机选择。混沌法师施放的每一个法术都有机会受到奥术波动的影响。', 原英文: '无' -> 新英文: 'Chaos Tradition is the practice in which chaos mages redefines their thought process to exchange their available magic abilities. True to its name, the abilities learned cannot be controlled and will be randomly selected. Every ability cast by a chaos mage has a chance to be affected by arcane fluctuations.',更新于2026-02-14-->
+  <!--EN: Chaos Tradition is the practice in which chaos mages redefines their thought process to exchange their available magic abilities. True to its name, the abilities learned cannot be controlled and will be randomly selected. Every ability cast by a chaos mage has a chance to be affected by arcane fluctuations.-->
+  <TM_ChaosTradition.description>混沌思维是一种猜想，在这种猜想中，混沌法师重新定义了他们的思维过程，以交换他们可用的魔法能力。学习的能力是无法控制的，将随机选择。混沌法师施放的每一个法术都有机会受到奥术波动的影响。</TM_ChaosTradition.description>
+</LanguageData>

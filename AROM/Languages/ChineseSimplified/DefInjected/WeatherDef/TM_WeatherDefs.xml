@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '疗伤雨', 原英文: '无' -> 新英文: 'healing rain',更新于2026-02-14-->
+  <!--EN: healing rain-->
+  <TM_HealingRainWD.label>疗伤雨</TM_HealingRainWD.label>
+  <!--原中文: '一场具有治疗作用的小雨。任何暴露在疗伤雨中的生物都会慢慢恢复伤口。', 原英文: '无' -> 新英文: 'A gentle rain with healing properties. Any creature exposed to healing rain will slowly regenerate their wounds.',更新于2026-02-14-->
+  <!--EN: A gentle rain with healing properties. Any creature exposed to healing rain will slowly regenerate their wounds.-->
+  <TM_HealingRainWD.description>一场具有治疗作用的小雨。任何暴露在疗伤雨中的生物都会慢慢恢复伤口。</TM_HealingRainWD.description>
+  <!--原中文: '冰雹风暴', 原英文: '无' -> 新英文: 'hail storm',更新于2026-02-14-->
+  <!--EN: hail storm-->
+  <TM_HailstormWD.label>冰雹风暴</TM_HailstormWD.label>
+  <!--原中文: '一场猛烈的冰雹，以致命的冰波覆盖着陆地。 移动和准确性受到严重阻碍。', 原英文: '无' -> 新英文: 'A fierce hailstorm that sheets swathes of land in deadly waves of ice. Movement and accuracy are severely hampered.',更新于2026-02-14-->
+  <!--EN: A fierce hailstorm that sheets swathes of land in deadly waves of ice. Movement and accuracy are severely hampered.-->
+  <TM_HailstormWD.description>一场猛烈的冰雹，以致命的冰波覆盖着陆地。 移动和准确性受到严重阻碍。</TM_HailstormWD.description>
+</LanguageData>

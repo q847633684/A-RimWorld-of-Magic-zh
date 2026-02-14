@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Straw Golem upgrade recipes -->
+  <!--原中文: '零件修复', 原英文: '无' -> 新英文: 'Part restoration',更新于2026-02-14-->
+  <!--EN: Part restoration-->
+  <TM_StrawGolem_RepairBlock.label>零件修复</TM_StrawGolem_RepairBlock.label>
+  <!--原中文: '替换不需要升级的缺失魔像部件。', 原英文: '无' -> 新英文: 'Replaces missing golem parts that do not require an upgrade.',更新于2026-02-14-->
+  <!--EN: Replaces missing golem parts that do not require an upgrade.-->
+  <TM_StrawGolem_RepairBlock.description>替换不需要升级的缺失魔像部件。</TM_StrawGolem_RepairBlock.description>
+  <!--原中文: '制作傀儡零件', 原英文: '无' -> 新英文: 'crafting golem part',更新于2026-02-14-->
+  <!--EN: crafting golem part-->
+  <TM_StrawGolem_RepairBlock.jobString>制作傀儡零件</TM_StrawGolem_RepairBlock.jobString>
+  <!--原中文: '能量电池', 原英文: '无' -> 新英文: 'energy cell',更新于2026-02-14-->
+  <!--EN: energy cell-->
+  <TM_StrawGolem_EnergyMax.label>能量电池</TM_StrawGolem_EnergyMax.label>
+  <!--原中文: '创建一个能量单元，每个单元的最大能量增加 100。', 原英文: '无' -> 新英文: 'Creates an energy cell that increases maximum energy by 100 per cell.',更新于2026-02-14-->
+  <!--EN: Creates an energy cell that increases maximum energy by 100 per cell.-->
+  <TM_StrawGolem_EnergyMax.description>创建一个能量单元，每个单元的最大能量增加 100。</TM_StrawGolem_EnergyMax.description>
+  <!--原中文: '创建能量单元', 原英文: '无' -> 新英文: 'creating energy cell',更新于2026-02-14-->
+  <!--EN: creating energy cell-->
+  <TM_StrawGolem_EnergyMax.jobString>创建能量单元</TM_StrawGolem_EnergyMax.jobString>
+  <!--原中文: '能量转换器', 原英文: '无' -> 新英文: 'energy converter',更新于2026-02-14-->
+  <!--EN: energy converter-->
+  <TM_StrawGolem_EnergyConverter.label>能量转换器</TM_StrawGolem_EnergyConverter.label>
+  <!--原中文: '魔像吸收和使用能量的效率提高 6%。', 原英文: '无' -> 新英文: 'Increases the efficiency of energy absorbed and used by the golem by 6%.',更新于2026-02-14-->
+  <!--EN: Increases the efficiency of energy absorbed and used by the golem by 6%.-->
+  <TM_StrawGolem_EnergyConverter.description>魔像吸收和使用能量的效率提高 6%。</TM_StrawGolem_EnergyConverter.description>
+  <!--原中文: '构建能量转换器', 原英文: '无' -> 新英文: 'constructing energy converter',更新于2026-02-14-->
+  <!--EN: constructing energy converter-->
+  <TM_StrawGolem_EnergyConverter.jobString>构建能量转换器</TM_StrawGolem_EnergyConverter.jobString>
+  <!--原中文: '能量发生器', 原英文: '无' -> 新英文: 'energy generator',更新于2026-02-14-->
+  <!--EN: energy generator-->
+  <TM_StrawGolem_EnergyRegen.label>能量发生器</TM_StrawGolem_EnergyRegen.label>
+  <!--原中文: '傀儡能量回复率提高20%。', 原英文: '无' -> 新英文: 'Increases the energy regeneration rate of the golem by 20%.',更新于2026-02-14-->
+  <!--EN: Increases the energy regeneration rate of the golem by 20%.-->
+  <TM_StrawGolem_EnergyRegen.description>傀儡能量回复率提高20%。</TM_StrawGolem_EnergyRegen.description>
+  <!--原中文: '构建能量发生器', 原英文: '无' -> 新英文: 'constructing energy generator',更新于2026-02-14-->
+  <!--EN: constructing energy generator-->
+  <TM_StrawGolem_EnergyRegen.jobString>构建能量发生器</TM_StrawGolem_EnergyRegen.jobString>
+  <!--原中文: '盔甲', 原英文: '无' -> 新英文: 'Armor',更新于2026-02-14-->
+  <!--EN: Armor-->
+  <TM_StrawGolem_Armor.label>盔甲</TM_StrawGolem_Armor.label>
+  <!--原中文: '每次升级都会增加魔像每级的护甲值 [1,2,3]：
+钝化：+[6,11,15]%
+锐利：+[5,9,13]%
+热量：+[4,7,10]%', 原英文: '无' -> 新英文: 'Each upgrade increases the armor of the golem per level [1,2,3]:
+Blunt:	+[6,11,15]%
+Sharp:	+[5,9,13]%
+Heat:	+[4,7,10]%',更新于2026-02-14-->
+  <!--EN: Each upgrade increases the armor of the golem per level [1,2,3]:
+Blunt:	+[6,11,15]%
+Sharp:	+[5,9,13]%
+Heat:	+[4,7,10]%-->
+  <TM_StrawGolem_Armor.description>每次升级都会增加魔像每级的护甲值 [1,2,3]：
+钝化：+[6,11,15]%
+锐利：+[5,9,13]%
+热量：+[4,7,10]%</TM_StrawGolem_Armor.description>
+  <!--原中文: '制作傀儡零件', 原英文: '无' -> 新英文: 'crafting golem part',更新于2026-02-14-->
+  <!--EN: crafting golem part-->
+  <TM_StrawGolem_Armor.jobString>制作傀儡零件</TM_StrawGolem_Armor.jobString>
+  <!--原中文: '框架层', 原英文: '无' -> 新英文: 'frame tier',更新于2026-02-14-->
+  <!--EN: frame tier-->
+  <TM_StrawGolem_LifeStage.label>框架层</TM_StrawGolem_LifeStage.label>
+  <!--原中文: '在每个级别改进和细化魔像的框架 [1,2,3]：
+移动：+[20/30/40]%
+生命值：+[20/40/50]%', 原英文: '无' -> 新英文: 'Improves and refines the golem's frame each level [1,2,3]:
+Movement:	+[20/30/40]%
+Health:		+[20/40/50]%',更新于2026-02-14-->
+  <!--EN: Improves and refines the golem's frame each level [1,2,3]:
+Movement:	+[20/30/40]%
+Health:		+[20/40/50]%-->
+  <TM_StrawGolem_LifeStage.description>在每个级别改进和细化魔像的框架 [1,2,3]：
+移动：+[20/30/40]%
+生命值：+[20/40/50]%</TM_StrawGolem_LifeStage.description>
+  <!--原中文: '改善傀儡框架', 原英文: '无' -> 新英文: 'improving golem frame',更新于2026-02-14-->
+  <!--EN: improving golem frame-->
+  <TM_StrawGolem_LifeStage.jobString>改善傀儡框架</TM_StrawGolem_LifeStage.jobString>
+  <!--原中文: '稻草人', 原英文: '无' -> 新英文: 'Scarecrow',更新于2026-02-14-->
+  <!--EN: Scarecrow-->
+  <TM_StrawGolem_Scarecrow.label>稻草人</TM_StrawGolem_Scarecrow.label>
+  <!--原中文: '稻草傀儡可以抵御有害害虫，从而提高附近植物的生长速度。', 原英文: '无' -> 新英文: 'The straw golem wards off unwanted pests to increase the growing speed of nearby plants.',更新于2026-02-14-->
+  <!--EN: The straw golem wards off unwanted pests to increase the growing speed of nearby plants.-->
+  <TM_StrawGolem_Scarecrow.description>稻草傀儡可以抵御有害害虫，从而提高附近植物的生长速度。</TM_StrawGolem_Scarecrow.description>
+  <!--原中文: '制作傀儡升级', 原英文: '无' -> 新英文: 'crafting golem upgrade',更新于2026-02-14-->
+  <!--EN: crafting golem upgrade-->
+  <TM_StrawGolem_Scarecrow.jobString>制作傀儡升级</TM_StrawGolem_Scarecrow.jobString>
+  <!--原中文: '农业', 原英文: '无' -> 新英文: 'Farming',更新于2026-02-14-->
+  <!--EN: Farming-->
+  <TM_StrawGolem_Seed.label>农业</TM_StrawGolem_Seed.label>
+  <!--原中文: '傀儡的农业（植物）技能提高2点。', 原英文: '无' -> 新英文: 'Enhances the farming (plants) skill of the golem by 2.',更新于2026-02-14-->
+  <!--EN: Enhances the farming (plants) skill of the golem by 2.-->
+  <TM_StrawGolem_Seed.description>傀儡的农业（植物）技能提高2点。</TM_StrawGolem_Seed.description>
+  <!--原中文: '制作傀儡升级', 原英文: '无' -> 新英文: 'crafting golem upgrade',更新于2026-02-14-->
+  <!--EN: crafting golem upgrade-->
+  <TM_StrawGolem_Seed.jobString>制作傀儡升级</TM_StrawGolem_Seed.jobString>
+</LanguageData>

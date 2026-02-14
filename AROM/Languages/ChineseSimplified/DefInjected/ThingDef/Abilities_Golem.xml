@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Blazing Power -->
+  <!--原中文: '炽热的力量', 原英文: '无' -> 新英文: 'blazing power',更新于2026-02-14-->
+  <!--EN: blazing power-->
+  <Projectile_BlazingEnergy.label>炽热的力量</Projectile_BlazingEnergy.label>
+  <!--原中文: '烈火箭', 原英文: '无' -> 新英文: 'Firebolt',更新于2026-02-14-->
+  <!--EN: Firebolt-->
+  <Projectile_FireBlossomBolt.label>烈火箭</Projectile_FireBlossomBolt.label>
+  <!-- <TorannMagic.TMDefs.TM_GolemAbilityDef>
+	<defName>TM_HollowGolem_Job_FireBlossom</defName>
+	<label>fire blossom</label>	
+	<warmupTicks>0</warmupTicks>
+	<cooldownTicks>600</cooldownTicks>
+	<warmupStuns>false</warmupStuns>
+	<burstCount>1</burstCount>
+	<ticksBetweenBurstShots>0</ticksBetweenBurstShots>
+	<requiredNeed>TM_GolemEnergy</requiredNeed>
+	<needCost>60</needCost>
+	<tickMote>Mote_Casting</tickMote>
+	<tickMoteFrequency>7</tickMoteFrequency>
+	<tickMoteSize>2.2</tickMoteSize>
+	<effects>
+	  <li Class="TorannMagic.Golems.CompProperties_GolemAbilityEffect_CreateJob" />
+	</effects>
+	<interruptsJob>true</interruptsJob>
+	<jobDef>JobDriver_GolemAbilityJob</jobDef>
+	<jobDuration>150</jobDuration>
+	<jobBurstCount>4</jobBurstCount>
+	<jobTicksBetweenBursts>2</jobTicksBetweenBursts>
+	<jobEffect>
+		<li Class="TorannMagic.Golems.GolemAbilityEffect_AdvancedLaunch">
+			<projectileDef>Projectile_FireBlossomBolt</projectileDef>
+			<projectilesPerBurst>4</projectilesPerBurst>
+			<varianceMin>5</varianceMin>
+			<varianceMax>80</varianceMax>
+			<flySpeedMin>20</flySpeedMin>
+			<flySpeedMax>30</flySpeedMax>
+			<explosionRadius>1</explosionRadius>
+			<missRadius>2</missRadius>
+			<damageMin>12</damageMin>
+			<damageMax>20</damageMax>
+			<damageType>Bomb</damageType>
+			<accuracy>.6</accuracy>
+			<rangeAroundTarget>8</rangeAroundTarget>
+		</li>
+	</jobEffect>
+	<priority>5</priority>
+	<autocasting>
+	  <type>OnNearby</type>
+	  <targetType>Pawn</targetType>
+	  <minRange>10</minRange>
+	  <maxRange>50</maxRange>
+	  <undrafted>false</undrafted>
+	  <drafted>true</drafted>
+	  <targetNeutral>false</targetNeutral>
+	  <targetEnemy>true</targetEnemy>
+	  <requiresLoS>true</requiresLoS>	
+	  <includeSelf>false</includeSelf>
+	</autocasting>
+  </TorannMagic.TMDefs.TM_GolemAbilityDef> -->
+  <!--原中文: '寒冰箭', 原英文: '无' -> 新英文: 'Icebolt',更新于2026-02-14-->
+  <!--EN: Icebolt-->
+  <Projectile_IceBlossomBolt.label>寒冰箭</Projectile_IceBlossomBolt.label>
+  <!-- <TorannMagic.TMDefs.TM_GolemAbilityDef>
+	<defName>TM_HollowGolem_Job_IceBlossom</defName>
+	<label>ice blossom</label>	
+	<warmupTicks>0</warmupTicks>
+	<cooldownTicks>900</cooldownTicks>
+	<warmupStuns>false</warmupStuns>
+	<burstCount>1</burstCount>
+	<ticksBetweenBurstShots>0</ticksBetweenBurstShots>
+	<requiredNeed>TM_GolemEnergy</requiredNeed>
+	<needCost>60</needCost>
+	<tickMote>Mote_Casting</tickMote>
+	<tickMoteFrequency>7</tickMoteFrequency>
+	<tickMoteSize>2.2</tickMoteSize>
+	<effects>
+	  <li Class="TorannMagic.Golems.CompProperties_GolemAbilityEffect_CreateJob" />
+	</effects>
+	<interruptsJob>true</interruptsJob>
+	<jobDef>JobDriver_GolemAbilityJob</jobDef>
+	<jobDuration>180</jobDuration>
+	<jobBurstCount>5</jobBurstCount>
+	<jobTicksBetweenBursts>3</jobTicksBetweenBursts>
+	<jobEffect>
+		<li Class="TorannMagic.Golems.GolemAbilityEffect_AdvancedLaunch">
+			<projectileDef>Projectile_IceBlossomBolt</projectileDef>
+			<projectilesPerBurst>5</projectilesPerBurst>
+			<varianceMin>2</varianceMin>
+			<varianceMax>60</varianceMax>
+			<flySpeedMin>30</flySpeedMin>
+			<flySpeedMax>40</flySpeedMax>
+			<explosionRadius>.5</explosionRadius>
+			<missRadius>1</missRadius>
+			<damageMin>12</damageMin>
+			<damageMax>20</damageMax>
+			<damageType>Cut</damageType>
+			<accuracy>.8</accuracy>
+			<rangeAroundTarget>12</rangeAroundTarget>
+		</li>
+	</jobEffect>
+	<priority>6</priority>
+	<autocasting>
+	  <type>OnNearby</type>
+	  <targetType>Pawn</targetType>
+	  <minRange>10</minRange>
+	  <maxRange>70</maxRange>
+	  <undrafted>false</undrafted>
+	  <drafted>true</drafted>
+	  <targetNeutral>false</targetNeutral>
+	  <targetEnemy>true</targetEnemy>
+	  <requiresLoS>true</requiresLoS>	
+	  <includeSelf>false</includeSelf>
+	</autocasting>
+  </TorannMagic.TMDefs.TM_GolemAbilityDef> -->
+  <!--原中文: '黑暗箭', 原英文: '无' -> 新英文: 'Darkbolt',更新于2026-02-14-->
+  <!--EN: Darkbolt-->
+  <Projectile_DarkBolt.label>黑暗箭</Projectile_DarkBolt.label>
+  <!--原中文: '反向护盾', 原英文: '无' -> 新英文: 'Reverse Shield',更新于2026-02-14-->
+  <!--EN: Reverse Shield-->
+  <Projectile_ReverseShield.label>反向护盾</Projectile_ReverseShield.label>
+  <!-- <TorannMagic.TMDefs.TM_GolemAbilityDef>
+	<defName>TM_HollowGolem_Job_FireBlossom</defName>
+	<label>fire blossom</label>
+	<warmupTicks>0</warmupTicks>
+	<cooldownTicks>600</cooldownTicks>
+	<warmupStuns>false</warmupStuns>
+	<burstCount>1</burstCount>
+	<ticksBetweenBurstShots>0</ticksBetweenBurstShots>
+	<requiredNeed>TM_GolemEnergy</requiredNeed>
+	<needCost>60</needCost>
+	<tickMote>Mote_Casting</tickMote>
+	<tickMoteFrequency>7</tickMoteFrequency>
+	<tickMoteSize>2.2</tickMoteSize>
+	<effects>
+	  <li Class="TorannMagic.Golems.CompProperties_GolemAbilityEffect_CreateJob" />
+	</effects>
+	<interruptsJob>true</interruptsJob>
+	<jobDef>JobDriver_GolemAbilityJob</jobDef>
+	<jobDuration>150</jobDuration>
+	<jobBurstCount>4</jobBurstCount>
+	<jobTicksBetweenBursts>2</jobTicksBetweenBursts>
+	<jobEffect>
+		<li Class="TorannMagic.Golems.GolemAbilityEffect_AdvancedLaunch">
+			<projectileDef>Projectile_FireBlossomBolt</projectileDef>
+			<projectilesPerBurst>4</projectilesPerBurst>
+			<varianceMin>5</varianceMin>
+			<varianceMax>80</varianceMax>
+			<flySpeedMin>20</flySpeedMin>
+			<flySpeedMax>30</flySpeedMax>
+			<explosionRadius>1</explosionRadius>
+			<missRadius>2</missRadius>
+			<damageMin>12</damageMin>
+			<damageMax>20</damageMax>
+			<damageType>Bomb</damageType>
+			<accuracy>.6</accuracy>
+			<rangeAroundTarget>8</rangeAroundTarget>
+		</li>
+	</jobEffect>
+	<priority>5</priority>
+	<autocasting>
+	  <type>OnNearby</type>
+	  <targetType>Pawn</targetType>
+	  <minRange>10</minRange>
+	  <maxRange>50</maxRange>
+	  <undrafted>false</undrafted>
+	  <drafted>true</drafted>
+	  <targetNeutral>false</targetNeutral>
+	  <targetEnemy>true</targetEnemy>
+	  <requiresLoS>true</requiresLoS>
+	  <includeSelf>false</includeSelf>
+	</autocasting>
+  </TorannMagic.TMDefs.TM_GolemAbilityDef> -->
+  <!-- <TorannMagic.TMDefs.TM_GolemAbilityDef>
+	<defName>TM_HollowGolem_Job_IceBlossom</defName>
+	<label>ice blossom</label>
+	<warmupTicks>0</warmupTicks>
+	<cooldownTicks>900</cooldownTicks>
+	<warmupStuns>false</warmupStuns>
+	<burstCount>1</burstCount>
+	<ticksBetweenBurstShots>0</ticksBetweenBurstShots>
+	<requiredNeed>TM_GolemEnergy</requiredNeed>
+	<needCost>60</needCost>
+	<tickMote>Mote_Casting</tickMote>
+	<tickMoteFrequency>7</tickMoteFrequency>
+	<tickMoteSize>2.2</tickMoteSize>
+	<effects>
+	  <li Class="TorannMagic.Golems.CompProperties_GolemAbilityEffect_CreateJob" />
+	</effects>
+	<interruptsJob>true</interruptsJob>
+	<jobDef>JobDriver_GolemAbilityJob</jobDef>
+	<jobDuration>180</jobDuration>
+	<jobBurstCount>5</jobBurstCount>
+	<jobTicksBetweenBursts>3</jobTicksBetweenBursts>
+	<jobEffect>
+		<li Class="TorannMagic.Golems.GolemAbilityEffect_AdvancedLaunch">
+			<projectileDef>Projectile_IceBlossomBolt</projectileDef>
+			<projectilesPerBurst>5</projectilesPerBurst>
+			<varianceMin>2</varianceMin>
+			<varianceMax>60</varianceMax>
+			<flySpeedMin>30</flySpeedMin>
+			<flySpeedMax>40</flySpeedMax>
+			<explosionRadius>.5</explosionRadius>
+			<missRadius>1</missRadius>
+			<damageMin>12</damageMin>
+			<damageMax>20</damageMax>
+			<damageType>Cut</damageType>
+			<accuracy>.8</accuracy>
+			<rangeAroundTarget>12</rangeAroundTarget>
+		</li>
+	</jobEffect>
+	<priority>6</priority>
+	<autocasting>
+	  <type>OnNearby</type>
+	  <targetType>Pawn</targetType>
+	  <minRange>10</minRange>
+	  <maxRange>70</maxRange>
+	  <undrafted>false</undrafted>
+	  <drafted>true</drafted>
+	  <targetNeutral>false</targetNeutral>
+	  <targetEnemy>true</targetEnemy>
+	  <requiresLoS>true</requiresLoS>
+	  <includeSelf>false</includeSelf>
+	</autocasting>
+  </TorannMagic.TMDefs.TM_GolemAbilityDef> -->
+</LanguageData>

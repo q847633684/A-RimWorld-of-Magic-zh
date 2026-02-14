@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Pistol Spec - ability is never used -->
+  <!--原中文: '武器专精:手枪', 原英文: '无' -> 新英文: 'Pistol Specialization',更新于2026-02-14-->
+  <!--EN: Pistol Specialization-->
+  <TM_PistolSpec.label>武器专精:手枪</TM_PistolSpec.label>
+  <!--原中文: '武器专精:手枪\n这种专精提高了手枪的各个方面:精准、伤害、射击预热、射击次数、射程等等。\n当超级战士装备武器时，武器专精属性会自动生效。特殊武器在物品名称后面用“++”表示。', 原英文: '无' -> 新英文: 'Weapon Specialization: Pistol
+
+This specialization improves all aspects of pistols: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name.
+
+Super Soldiers with a specialized pistol equipped gain a unique "double tap" talent which will occasionally ignore cooldown and immediately begin another shot burst; this talent consumes stamina when it occurs.',更新于2026-02-14-->
+  <!--EN: Weapon Specialization: Pistol
+
+This specialization improves all aspects of pistols: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name.
+
+Super Soldiers with a specialized pistol equipped gain a unique "double tap" talent which will occasionally ignore cooldown and immediately begin another shot burst; this talent consumes stamina when it occurs.-->
+  <TM_PistolSpec.description>武器专精:手枪\n这种专精提高了手枪的各个方面:精准、伤害、射击预热、射击次数、射程等等。\n当超级战士装备武器时，武器专精属性会自动生效。特殊武器在物品名称后面用“++”表示。</TM_PistolSpec.description>
+  <!-- Pistol Whip -->
+  <!--原中文: '枪托之击', 原英文: '无' -> 新英文: 'Pistol Whip',更新于2026-02-14-->
+  <!--EN: Pistol Whip-->
+  <TM_PistolWhip.label>枪托之击</TM_PistolWhip.label>
+  <!--原中文: '用枪托作为钝器的突然袭击;成功会击晕一个目标，让他们晕眩一小段时间，也可以卸下他们的武器。', 原英文: '无' -> 新英文: 'A sudden attack using the pistol stock as a blunt weapon; successful attacks will stun a target, leaving them dazed for a short period, and may also disarm them.',更新于2026-02-14-->
+  <!--EN: A sudden attack using the pistol stock as a blunt weapon; successful attacks will stun a target, leaving them dazed for a short period, and may also disarm them.-->
+  <TM_PistolWhip.description>用枪托作为钝器的突然袭击;成功会击晕一个目标，让他们晕眩一小段时间，也可以卸下他们的武器。</TM_PistolWhip.description>
+  <!-- Rifle Spec - ability is never used -->
+  <!--原中文: '武器专精:步枪 ', 原英文: '无' -> 新英文: 'Rifle Specialization',更新于2026-02-14-->
+  <!--EN: Rifle Specialization-->
+  <TM_RifleSpec.label>武器专精:步枪 </TM_RifleSpec.label>
+  <!--原中文: '武器专精:步枪\n这种专精提高了步枪的各个方面:精准、伤害、射击预热、射击次数、射程等等。\n当超级战士装备武器时，武器专精属性会自动生效。特殊武器在物品名称后面用“++”表示。', 原英文: '无' -> 新英文: 'Weapon Specialization: Rifle 
+
+This specialization improves all aspects of rifles: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name.',更新于2026-02-14-->
+  <!--EN: Weapon Specialization: Rifle 
+
+This specialization improves all aspects of rifles: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name.-->
+  <TM_RifleSpec.description>武器专精:步枪\n这种专精提高了步枪的各个方面:精准、伤害、射击预热、射击次数、射程等等。\n当超级战士装备武器时，武器专精属性会自动生效。特殊武器在物品名称后面用“++”表示。</TM_RifleSpec.description>
+  <!-- Suppressing Fire -->
+  <!--原中文: '绝对火力', 原英文: '无' -> 新英文: 'Suppressing Fire',更新于2026-02-14-->
+  <!--EN: Suppressing Fire-->
+  <TM_SuppressingFire.label>绝对火力</TM_SuppressingFire.label>
+  <!--原中文: '用密集的子弹压制敌人的阵地。', 原英文: '无' -> 新英文: 'Suppress enemy positions with a storm of bullets.',更新于2026-02-14-->
+  <!--EN: Suppress enemy positions with a storm of bullets.-->
+  <TM_SuppressingFire.description>用密集的子弹压制敌人的阵地。</TM_SuppressingFire.description>
+  <!-- mk203 gl -->
+  <TM_Mk203GL.label>Mk203_GL</TM_Mk203GL.label>
+  <!--原中文: '使用Mk203枪管下榴弹发射器发射榴弹。', 原英文: '无' -> 新英文: 'Fires a grenade using the Mk203 under-barrel grenade launcher.',更新于2026-02-14-->
+  <!--EN: Fires a grenade using the Mk203 under-barrel grenade launcher.-->
+  <TM_Mk203GL.description>使用Mk203枪管下榴弹发射器发射榴弹。</TM_Mk203GL.description>
+  <!-- Shotgun Spec - ability is never used -->
+  <!--原中文: '武器专精:霰弹枪', 原英文: '无' -> 新英文: 'Shotgun Specialization',更新于2026-02-14-->
+  <!--EN: Shotgun Specialization-->
+  <TM_ShotgunSpec.label>武器专精:霰弹枪</TM_ShotgunSpec.label>
+  <!--原中文: '武器专精:霰弹枪\n这种专精提高了霰弹枪的各个方面:精准、伤害、射击预热、射击次数、射程等等。\n当超级战士装备武器时，武器专精属性会自动生效。特殊武器在物品名称后面用“++”表示。', 原英文: '无' -> 新英文: 'Weapon Specialization: Shotgun 
+
+This specialization improves all aspects of shotguns: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name.',更新于2026-02-14-->
+  <!--EN: Weapon Specialization: Shotgun 
+
+This specialization improves all aspects of shotguns: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name.-->
+  <TM_ShotgunSpec.description>武器专精:霰弹枪\n这种专精提高了霰弹枪的各个方面:精准、伤害、射击预热、射击次数、射程等等。\n当超级战士装备武器时，武器专精属性会自动生效。特殊武器在物品名称后面用“++”表示。</TM_ShotgunSpec.description>
+  <!-- Buckshot -->
+  <!--原中文: '鹿弹', 原英文: '无' -> 新英文: 'Buckshot',更新于2026-02-14-->
+  <!--EN: Buckshot-->
+  <TM_Buckshot.label>鹿弹</TM_Buckshot.label>
+  <!--原中文: '能发射多颗子弹的霰弹枪弹。在短时间内发射的子弹数量可能是毁灭性的，但很快就会消散。', 原英文: '无' -> 新英文: 'A shotgun shell that fires multiple pellets. The sheer volume of rounds discharged can be devastating at short range, but disperses rapidly.',更新于2026-02-14-->
+  <!--EN: A shotgun shell that fires multiple pellets. The sheer volume of rounds discharged can be devastating at short range, but disperses rapidly.-->
+  <TM_Buckshot.description>能发射多颗子弹的霰弹枪弹。在短时间内发射的子弹数量可能是毁灭性的，但很快就会消散。</TM_Buckshot.description>
+  <!-- Breaching Charge -->
+  <!--原中文: '投掷一种专门的炸药，擅长摧毁建筑物或阻止敌人的集群。对建筑造成30倍伤害。', 原英文: '无' -> 新英文: 'Throws a specialized explosive that excels at destroying structures or stopping enemy clusters. Deals 30x damage to structures.',更新于2026-02-14-->
+  <!--EN: Throws a specialized explosive that excels at destroying structures or stopping enemy clusters. Deals 30x damage to structures.-->
+  <TM_BreachingCharge.description>投掷一种专门的炸药，擅长摧毁建筑物或阻止敌人的集群。对建筑造成30倍伤害。</TM_BreachingCharge.description>
+  <!-- CQC -->
+  <!--原中文: '近距离战斗(CQC)是对士兵进行的一种常见的训练，使他们能够顺利地对近战范围内的敌人进行恶毒的连击攻击。', 原英文: '无' -> 新英文: 'Close Quarters Combat (CQC) is common training for Soldiers that allows them to smoothly execute a vicious combo attack against an enemy in melee range.',更新于2026-02-14-->
+  <!--EN: Close Quarters Combat (CQC) is common training for Soldiers that allows them to smoothly execute a vicious combo attack against an enemy in melee range.-->
+  <TM_CQC.description>近距离战斗(CQC)是对士兵进行的一种常见的训练，使他们能够顺利地对近战范围内的敌人进行恶毒的连击攻击。</TM_CQC.description>
+  <!-- First Aid -->
+  <!--原中文: '自我援助', 原英文: '无' -> 新英文: 'Self Aid',更新于2026-02-14-->
+  <!--EN: Self Aid-->
+  <TM_FirstAid.label>自我援助</TM_FirstAid.label>
+  <!--原中文: '由于从血清中获得的基因增强，超级战士可以自助。这种能力使他们能够有意识地集中精力迅速处理伤口。', 原英文: '无' -> 新英文: 'Self Aid is possible for Super Soldiers as a result of the genetic enhancements they acquire from the serum. This ability allows them to consciously focus energy to rapid tend wounds. Self Aid is unable to tend grievous wounds, such as missing body parts.',更新于2026-02-14-->
+  <!--EN: Self Aid is possible for Super Soldiers as a result of the genetic enhancements they acquire from the serum. This ability allows them to consciously focus energy to rapid tend wounds. Self Aid is unable to tend grievous wounds, such as missing body parts.-->
+  <TM_FirstAid.description>由于从血清中获得的基因增强，超级战士可以自助。这种能力使他们能够有意识地集中精力迅速处理伤口。</TM_FirstAid.description>
+  <!-- 60mm Mortar -->
+  <!--原中文: '60毫米迫击炮', 原英文: '无' -> 新英文: '60mm Mortar',更新于2026-02-14-->
+  <!--EN: 60mm Mortar-->
+  <TM_60mmMortar.label>60毫米迫击炮</TM_60mmMortar.label>
+  <!--原中文: '60毫米迫击炮可以很容易地由一个超级士兵运输和迅速部署，快速发射3轮，战斗开始前就削弱敌人。', 原英文: '无' -> 新英文: 'Soften up enemy targets before a fight even begins with a personal mortar system. The 60mm Mortar can easily be transported by a Super Soldier and quickly deployed to launch 3-rounds of indirect fire.',更新于2026-02-14-->
+  <!--EN: Soften up enemy targets before a fight even begins with a personal mortar system. The 60mm Mortar can easily be transported by a Super Soldier and quickly deployed to launch 3-rounds of indirect fire.-->
+  <TM_60mmMortar.description>60毫米迫击炮可以很容易地由一个超级士兵运输和迅速部署，快速发射3轮，战斗开始前就削弱敌人。</TM_60mmMortar.description>
+</LanguageData>

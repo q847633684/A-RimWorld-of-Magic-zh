@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- consolidated enchantments -->
+  <!--原中文: '最大能量:', 原英文: '无' -> 新英文: 'Max Energy:',更新于2026-02-14-->
+  <!--EN: Max Energy:-->
+  <TM_HediffEnchantment_maxEnergy.label>最大能量:</TM_HediffEnchantment_maxEnergy.label>
+  <!--原中文: '能量容量。', 原英文: '无' -> 新英文: 'Energy capacity enchantment.',更新于2026-02-14-->
+  <!--EN: Energy capacity enchantment.-->
+  <TM_HediffEnchantment_maxEnergy.description>能量容量。</TM_HediffEnchantment_maxEnergy.description>
+  <!--原中文: '冷却时间:', 原英文: '无' -> 新英文: 'Cool Down:',更新于2026-02-14-->
+  <!--EN: Cool Down:-->
+  <TM_HediffEnchantment_coolDown.label>冷却时间:</TM_HediffEnchantment_coolDown.label>
+  <!--原中文: '魔法和战技的冷却时间。', 原英文: '无' -> 新英文: 'Enchantment that reduces the time to re-use an ability.',更新于2026-02-14-->
+  <!--EN: Enchantment that reduces the time to re-use an ability.-->
+  <TM_HediffEnchantment_coolDown.description>魔法和战技的冷却时间。</TM_HediffEnchantment_coolDown.description>
+  <!--原中文: '能量消耗:', 原英文: '无' -> 新英文: 'Energy Cost:',更新于2026-02-14-->
+  <!--EN: Energy Cost:-->
+  <TM_HediffEnchantment_energyCost.label>能量消耗:</TM_HediffEnchantment_energyCost.label>
+  <!--原中文: '降低使用魔法的能量消耗的能力。', 原英文: '无' -> 新英文: 'Enchantment that reduces the energy cost to use abilities.',更新于2026-02-14-->
+  <!--EN: Enchantment that reduces the energy cost to use abilities.-->
+  <TM_HediffEnchantment_energyCost.description>降低使用魔法的能量消耗的能力。</TM_HediffEnchantment_energyCost.description>
+  <!--原中文: '能量再生:', 原英文: '无' -> 新英文: 'Energy Regen:',更新于2026-02-14-->
+  <!--EN: Energy Regen:-->
+  <TM_HediffEnchantment_energyRegen.label>能量再生:</TM_HediffEnchantment_energyRegen.label>
+  <!--原中文: '魔法能量再生。', 原英文: '无' -> 新英文: 'Enchantment that increases the energy regeneration.',更新于2026-02-14-->
+  <!--EN: Enchantment that increases the energy regeneration.-->
+  <TM_HediffEnchantment_energyRegen.description>魔法能量再生。</TM_HediffEnchantment_energyRegen.description>
+  <!--原中文: '经验获取:', 原英文: '无' -> 新英文: 'XP Gain:',更新于2026-02-14-->
+  <!--EN: XP Gain:-->
+  <TM_HediffEnchantment_xpGain.label>经验获取:</TM_HediffEnchantment_xpGain.label>
+  <!--原中文: '附魔:提高经验增益。', 原英文: '无' -> 新英文: 'Enchantment improves experience gain.',更新于2026-02-14-->
+  <!--EN: Enchantment improves experience gain.-->
+  <TM_HediffEnchantment_xpGain.description>附魔:提高经验增益。</TM_HediffEnchantment_xpGain.description>
+  <!--原中文: '技能抗性:', 原英文: '无' -> 新英文: 'Ability Resistance:',更新于2026-02-14-->
+  <!--EN: Ability Resistance:-->
+  <TM_HediffEnchantment_dmgResistance.label>技能抗性:</TM_HediffEnchantment_dmgResistance.label>
+  <!--原中文: '抵抗战技和法术效果和减少魔法攻击伤害的能力。', 原英文: '无' -> 新英文: 'Ability to resist magical effects and reduces damage from magical attacks.',更新于2026-02-14-->
+  <!--EN: Ability to resist magical effects and reduces damage from magical attacks.-->
+  <TM_HediffEnchantment_dmgResistance.description>抵抗战技和法术效果和减少魔法攻击伤害的能力。</TM_HediffEnchantment_dmgResistance.description>
+  <!--原中文: '技能强度:', 原英文: '无' -> 新英文: 'Ability Power:',更新于2026-02-14-->
+  <!--EN: Ability Power:-->
+  <TM_HediffEnchantment_dmgBonus.label>技能强度:</TM_HediffEnchantment_dmgBonus.label>
+  <!--原中文: '增加技能的效果。', 原英文: '无' -> 新英文: 'Increases the effects of abilities.',更新于2026-02-14-->
+  <!--EN: Increases the effects of abilities.-->
+  <TM_HediffEnchantment_dmgBonus.description>增加技能的效果。</TM_HediffEnchantment_dmgBonus.description>
+  <!--原中文: '魔法合金冷却', 原英文: '无' -> 新英文: 'Arcalleum Cooldown',更新于2026-02-14-->
+  <!--EN: Arcalleum Cooldown-->
+  <TM_HediffEnchantment_arcalleumCooldown.label>魔法合金冷却</TM_HediffEnchantment_arcalleumCooldown.label>
+  <!--原中文: '一种可以立即刷新技能冷却时间的能力。', 原英文: '无' -> 新英文: 'An enchantment that can instantly refresh the cooldown of an ability.',更新于2026-02-14-->
+  <!--EN: An enchantment that can instantly refresh the cooldown of an ability.-->
+  <TM_HediffEnchantment_arcalleumCooldown.description>一种可以立即刷新技能冷却时间的能力。</TM_HediffEnchantment_arcalleumCooldown.description>
+  <!-- legacy enchantments -->
+  <!--原中文: '魔法 - 最大法力值:', 原英文: '无' -> 新英文: 'Max Mana:',更新于2026-02-14-->
+  <!--EN: Max Mana:-->
+  <TM_HediffEnchantment_maxMP.label>魔法 - 最大法力值:</TM_HediffEnchantment_maxMP.label>
+  <!--原中文: '法力容量。', 原英文: '无' -> 新英文: 'Mana capacity enchantment.',更新于2026-02-14-->
+  <!--EN: Mana capacity enchantment.-->
+  <TM_HediffEnchantment_maxMP.description>法力容量。</TM_HediffEnchantment_maxMP.description>
+  <!--原中文: '战技 - 最大体力:', 原英文: '无' -> 新英文: 'Max Stamina:',更新于2026-02-14-->
+  <!--EN: Max Stamina:-->
+  <TM_HediffEnchantment_maxSP.label>战技 - 最大体力:</TM_HediffEnchantment_maxSP.label>
+  <!--原中文: '体力容量。', 原英文: '无' -> 新英文: 'Stamina capacity enchantment.',更新于2026-02-14-->
+  <!--EN: Stamina capacity enchantment.-->
+  <TM_HediffEnchantment_maxSP.description>体力容量。</TM_HediffEnchantment_maxSP.description>
+  <!--原中文: '战技 - 冷却时间:', 原英文: '无' -> 新英文: 'Ability CoolDown:',更新于2026-02-14-->
+  <!--EN: Ability CoolDown:-->
+  <TM_HediffEnchantment_spCoolDown.label>战技 - 冷却时间:</TM_HediffEnchantment_spCoolDown.label>
+  <!--原中文: '减少战技冷却时间的附魔。', 原英文: '无' -> 新英文: 'Enchantment that reduces the cooldown time of combat abilities.',更新于2026-02-14-->
+  <!--EN: Enchantment that reduces the cooldown time of combat abilities.-->
+  <TM_HediffEnchantment_spCoolDown.description>减少战技冷却时间的附魔。</TM_HediffEnchantment_spCoolDown.description>
+  <!--原中文: '魔法 - 法力消耗:', 原英文: '无' -> 新英文: 'Mana Cost:',更新于2026-02-14-->
+  <!--EN: Mana Cost:-->
+  <TM_HediffEnchantment_mpCost.label>魔法 - 法力消耗:</TM_HediffEnchantment_mpCost.label>
+  <!--原中文: '魔法能量消耗。', 原英文: '无' -> 新英文: 'Enchantment that modifies the mana cost of abilities.',更新于2026-02-14-->
+  <!--EN: Enchantment that modifies the mana cost of abilities.-->
+  <TM_HediffEnchantment_mpCost.description>魔法能量消耗。</TM_HediffEnchantment_mpCost.description>
+  <!--原中文: '战技 - 体力消耗:', 原英文: '无' -> 新英文: 'Stamina Cost:',更新于2026-02-14-->
+  <!--EN: Stamina Cost:-->
+  <TM_HediffEnchantment_spCost.label>战技 - 体力消耗:</TM_HediffEnchantment_spCost.label>
+  <!--原中文: '调整使用战技的能量消耗的魔法。', 原英文: '无' -> 新英文: 'Enchantment that modifies the stamina cost of abilities.',更新于2026-02-14-->
+  <!--EN: Enchantment that modifies the stamina cost of abilities.-->
+  <TM_HediffEnchantment_spCost.description>调整使用战技的能量消耗的魔法。</TM_HediffEnchantment_spCost.description>
+  <!--原中文: '魔法 - 法力回复:', 原英文: '无' -> 新英文: 'Mana Regen:',更新于2026-02-14-->
+  <!--EN: Mana Regen:-->
+  <TM_HediffEnchantment_mpRegenRate.label>魔法 - 法力回复:</TM_HediffEnchantment_mpRegenRate.label>
+  <!--原中文: '魔法能量再生。', 原英文: '无' -> 新英文: 'Mana regeneration enchantment.',更新于2026-02-14-->
+  <!--EN: Mana regeneration enchantment.-->
+  <TM_HediffEnchantment_mpRegenRate.description>魔法能量再生。</TM_HediffEnchantment_mpRegenRate.description>
+  <!--原中文: '战技 - 体力回复:', 原英文: '无' -> 新英文: 'Stamina Regen:',更新于2026-02-14-->
+  <!--EN: Stamina Regen:-->
+  <TM_HediffEnchantment_spRegenRate.label>战技 - 体力回复:</TM_HediffEnchantment_spRegenRate.label>
+  <!--原中文: '体力能量再生。', 原英文: '无' -> 新英文: 'Stamina regeneration enchantment.',更新于2026-02-14-->
+  <!--EN: Stamina regeneration enchantment.-->
+  <TM_HediffEnchantment_spRegenRate.description>体力能量再生。</TM_HediffEnchantment_spRegenRate.description>
+  <!--原中文: '技能抗性:', 原英文: '无' -> 新英文: 'Arcane Resistance:',更新于2026-02-14-->
+  <!--EN: Arcane Resistance:-->
+  <TM_HediffEnchantment_arcaneRes.label>技能抗性:</TM_HediffEnchantment_arcaneRes.label>
+  <!--原中文: '抵抗技能的影响。', 原英文: '无' -> 新英文: 'Ability to resist magical effects and reduces damage from magical attacks.',更新于2026-02-14-->
+  <!--EN: Ability to resist magical effects and reduces damage from magical attacks.-->
+  <TM_HediffEnchantment_arcaneRes.description>抵抗技能的影响。</TM_HediffEnchantment_arcaneRes.description>
+  <!--原中文: '技能强度:', 原英文: '无' -> 新英文: 'Magic Bonus:',更新于2026-02-14-->
+  <!--EN: Magic Bonus:-->
+  <TM_HediffEnchantment_arcaneDmg.label>技能强度:</TM_HediffEnchantment_arcaneDmg.label>
+  <!--原中文: '增加技能的效果。', 原英文: '无' -> 新英文: 'Increases the effects of magic abilities.',更新于2026-02-14-->
+  <!--EN: Increases the effects of magic abilities.-->
+  <TM_HediffEnchantment_arcaneDmg.description>增加技能的效果。</TM_HediffEnchantment_arcaneDmg.description>
+  <!--原中文: '战技-战技强度:', 原英文: '无' -> 新英文: 'Combat Bonus:',更新于2026-02-14-->
+  <!--EN: Combat Bonus:-->
+  <TM_HediffEnchantment_combatDmg.label>战技-战技强度:</TM_HediffEnchantment_combatDmg.label>
+  <!--原中文: '增加战技的效果。', 原英文: '无' -> 新英文: 'Increases the effects of combat abilities.',更新于2026-02-14-->
+  <!--EN: Increases the effects of combat abilities.-->
+  <TM_HediffEnchantment_combatDmg.description>增加战技的效果。</TM_HediffEnchantment_combatDmg.description>
+  <!--原中文: '魔法幽魂', 原英文: '无' -> 新英文: 'Arcane Spectre',更新于2026-02-14-->
+  <!--EN: Arcane Spectre-->
+  <TM_HediffEnchantment_arcaneSpectre.label>魔法幽魂</TM_HediffEnchantment_arcaneSpectre.label>
+  <!--原中文: '一种魔法，可以在任何攻击中增加额外的精神伤害。', 原英文: '无' -> 新英文: 'An enchantment that can add bonus spirit damage to any attack.',更新于2026-02-14-->
+  <!--EN: An enchantment that can add bonus spirit damage to any attack.-->
+  <TM_HediffEnchantment_arcaneSpectre.description>一种魔法，可以在任何攻击中增加额外的精神伤害。</TM_HediffEnchantment_arcaneSpectre.description>
+  <!--原中文: '幽魂转换', 原英文: '无' -> 新英文: 'Phantom Shift',更新于2026-02-14-->
+  <!--EN: Phantom Shift-->
+  <TM_HediffEnchantment_phantomShift.label>幽魂转换</TM_HediffEnchantment_phantomShift.label>
+  <!--原中文: '将所有伤害从攻击转移到阴间的魔法。', 原英文: '无' -> 新英文: 'An enchantment that shifts all damage from an attack to the nether.',更新于2026-02-14-->
+  <!--EN: An enchantment that shifts all damage from an attack to the nether.-->
+  <TM_HediffEnchantment_phantomShift.description>将所有伤害从攻击转移到阴间的魔法。</TM_HediffEnchantment_phantomShift.description>
+  <!--原中文: '火免', 原英文: '无' -> 新英文: 'Fire Immunity',更新于2026-02-14-->
+  <!--EN: Fire Immunity-->
+  <TM_HediffEnchantment_fireImmunity.label>火免</TM_HediffEnchantment_fireImmunity.label>
+  <!--原中文: '仍然可以受到基于火的伤害，但不能再着火。', 原英文: '无' -> 新英文: 'Can still take fire based damage, but can no longer catch fire.',更新于2026-02-14-->
+  <!--EN: Can still take fire based damage, but can no longer catch fire.-->
+  <TM_HediffEnchantment_fireImmunity.description>仍然可以受到基于火的伤害，但不能再着火。</TM_HediffEnchantment_fireImmunity.description>
+</LanguageData>

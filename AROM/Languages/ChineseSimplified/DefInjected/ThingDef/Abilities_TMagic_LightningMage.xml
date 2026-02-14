@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- AMP start -->
+  <!--原中文: '安普', 原英文: '无' -> 新英文: 'AMP',更新于2026-02-14-->
+  <!--EN: AMP-->
+  <Buff_AMP.label>安普</Buff_AMP.label>
+  <!-- Lightning Cloud -->
+  <!--原中文: '天丛云雷', 原英文: '无' -> 新英文: 'Lightning Cloud',更新于2026-02-14-->
+  <!--EN: Lightning Cloud-->
+  <Projectile_LightningCloud.label>天丛云雷</Projectile_LightningCloud.label>
+  <!-- Lightning Bolt -->
+  <!--原中文: '电闪雷鸣', 原英文: '无' -> 新英文: 'Lightning Bolt',更新于2026-02-14-->
+  <!--EN: Lightning Bolt-->
+  <Laser_LightningBolt.label>电闪雷鸣</Laser_LightningBolt.label>
+  <!-- Lightning Storm -->
+  <!--原中文: '闪电风暴', 原英文: '无' -> 新英文: 'Lightning Storm',更新于2026-02-14-->
+  <!--EN: Lightning Storm-->
+  <Projectile_LightningStorm.label>闪电风暴</Projectile_LightningStorm.label>
+  <!-- Eye of the Storm -->
+  <!--原中文: '飞行目标', 原英文: '无' -> 新英文: 'flying object',更新于2026-02-14-->
+  <!--EN: flying object-->
+  <FlyingObject_EyeOfTheStorm.label>飞行目标</FlyingObject_EyeOfTheStorm.label>
+  <!--原中文: '风暴之眼', 原英文: '无' -> 新英文: 'Eye of the Storm',更新于2026-02-14-->
+  <!--EN: Eye of the Storm-->
+  <Projectile_EyeOfTheStorm.label>风暴之眼</Projectile_EyeOfTheStorm.label>
+</LanguageData>

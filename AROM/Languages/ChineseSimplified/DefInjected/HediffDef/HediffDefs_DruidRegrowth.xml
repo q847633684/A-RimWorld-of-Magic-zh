@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '再生部分', 原英文: '无' -> 新英文: 'Regrown Part',更新于2026-02-14-->
+  <!--EN: Regrown Part-->
+  <TM_StandardRegrowth.label>再生部分</TM_StandardRegrowth.label>
+  <!--原中文: '大自然和肉体的奇异交合将在几天内使这部分身体再生.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow this body part over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_StandardRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_StandardRegrowth.description>
+  <!--原中文: '重新生长', 原英文: '无' -> 新英文: 'regrown',更新于2026-02-14-->
+  <!--EN: regrown-->
+  <TM_StandardRegrowth.stages.0.label>重新生长</TM_StandardRegrowth.stages.0.label>
+  <!--原中文: '成型', 原英文: '无' -> 新英文: 'forming',更新于2026-02-14-->
+  <!--EN: forming-->
+  <TM_StandardRegrowth.stages.1.label>成型</TM_StandardRegrowth.stages.1.label>
+  <!--原中文: '存根', 原英文: '无' -> 新英文: 'stub',更新于2026-02-14-->
+  <!--EN: stub-->
+  <TM_StandardRegrowth.stages.2.label>存根</TM_StandardRegrowth.stages.2.label>
+  <!-- arms -->
+  <!--原中文: '再生臂', 原英文: '无' -> 新英文: 'Regrown Arm',更新于2026-02-14-->
+  <!--EN: Regrown Arm-->
+  <TM_ArmRegrowth.label>再生臂</TM_ArmRegrowth.label>
+  <!--原中文: '大自然和肉体的奇异交合将在几天内使这部分身体再生。', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow this body part over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_ArmRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生。</TM_ArmRegrowth.description>
+  <!--原中文: '再生臂', 原英文: '无' -> 新英文: 'regrown arm',更新于2026-02-14-->
+  <!--EN: regrown arm-->
+  <TM_ArmRegrowth.comps.1.tools.0.label>再生臂</TM_ArmRegrowth.comps.1.tools.0.label>
+  <!--原中文: '存根', 原英文: '无' -> 新英文: 'stub',更新于2026-02-14-->
+  <!--EN: stub-->
+  <TM_ArmRegrowth.stages.0.label>存根</TM_ArmRegrowth.stages.0.label>
+  <!--原中文: '新的', 原英文: '无' -> 新英文: 'fledgling',更新于2026-02-14-->
+  <!--EN: fledgling-->
+  <TM_ArmRegrowth.stages.1.label>新的</TM_ArmRegrowth.stages.1.label>
+  <!--原中文: '再生', 原英文: '无' -> 新英文: 'regrown',更新于2026-02-14-->
+  <!--EN: regrown-->
+  <TM_ArmRegrowth.stages.2.label>再生</TM_ArmRegrowth.stages.2.label>
+  <!--原中文: '荒野', 原英文: '无' -> 新英文: 'wild',更新于2026-02-14-->
+  <!--EN: wild-->
+  <TM_ArmRegrowth.stages.3.label>荒野</TM_ArmRegrowth.stages.3.label>
+  <!--原中文: '再生手', 原英文: '无' -> 新英文: 'Regrown Hand',更新于2026-02-14-->
+  <!--EN: Regrown Hand-->
+  <TM_HandRegrowth.label>再生手</TM_HandRegrowth.label>
+  <!--原中文: '大自然和肉体的奇异交合将在几天内使这部分身体再生.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow this body part over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_HandRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_HandRegrowth.description>
+  <!--原中文: '再生手', 原英文: '无' -> 新英文: 'regrown hand',更新于2026-02-14-->
+  <!--EN: regrown hand-->
+  <TM_HandRegrowth.comps.1.tools.0.label>再生手</TM_HandRegrowth.comps.1.tools.0.label>
+  <!--原中文: '存根', 原英文: '无' -> 新英文: 'stub',更新于2026-02-14-->
+  <!--EN: stub-->
+  <TM_HandRegrowth.stages.0.label>存根</TM_HandRegrowth.stages.0.label>
+  <!--原中文: '新的', 原英文: '无' -> 新英文: 'fledgling',更新于2026-02-14-->
+  <!--EN: fledgling-->
+  <TM_HandRegrowth.stages.1.label>新的</TM_HandRegrowth.stages.1.label>
+  <!--原中文: '再生', 原英文: '无' -> 新英文: 'regrown',更新于2026-02-14-->
+  <!--EN: regrown-->
+  <TM_HandRegrowth.stages.2.label>再生</TM_HandRegrowth.stages.2.label>
+  <!--原中文: '荒野', 原英文: '无' -> 新英文: 'wild',更新于2026-02-14-->
+  <!--EN: wild-->
+  <TM_HandRegrowth.stages.3.label>荒野</TM_HandRegrowth.stages.3.label>
+  <!--原中文: '再生手指', 原英文: '无' -> 新英文: 'Regrown Finger',更新于2026-02-14-->
+  <!--EN: Regrown Finger-->
+  <TM_FingerRegrowth.label>再生手指</TM_FingerRegrowth.label>
+  <!--原中文: '大自然和肉体的奇异交合将在几天内使这部分身体再生.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow this body part over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_FingerRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_FingerRegrowth.description>
+  <!--原中文: '指根', 原英文: '无' -> 新英文: 'finger stub',更新于2026-02-14-->
+  <!--EN: finger stub-->
+  <TM_FingerRegrowth.stages.0.label>指根</TM_FingerRegrowth.stages.0.label>
+  <!--原中文: '再生', 原英文: '无' -> 新英文: 'regrown',更新于2026-02-14-->
+  <!--EN: regrown-->
+  <TM_FingerRegrowth.stages.1.label>再生</TM_FingerRegrowth.stages.1.label>
+  <!--原中文: '再生脚趾', 原英文: '无' -> 新英文: 'Regrown Toe',更新于2026-02-14-->
+  <!--EN: Regrown Toe-->
+  <TM_ToeRegrowth.label>再生脚趾</TM_ToeRegrowth.label>
+  <!--原中文: '大自然和肉体的奇异交合将在几天内使这部分身体再生.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow this body part over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_ToeRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_ToeRegrowth.description>
+  <!--原中文: '脚趾头', 原英文: '无' -> 新英文: 'toe stub',更新于2026-02-14-->
+  <!--EN: toe stub-->
+  <TM_ToeRegrowth.stages.0.label>脚趾头</TM_ToeRegrowth.stages.0.label>
+  <!--原中文: '再生', 原英文: '无' -> 新英文: 'regrown',更新于2026-02-14-->
+  <!--EN: regrown-->
+  <TM_ToeRegrowth.stages.1.label>再生</TM_ToeRegrowth.stages.1.label>
+  <!--原中文: '再生眼', 原英文: '无' -> 新英文: 'Regrown Eye',更新于2026-02-14-->
+  <!--EN: Regrown Eye-->
+  <TM_EyeRegrowth.label>再生眼</TM_EyeRegrowth.label>
+  <!--原中文: '大自然和肉体的奇异交合将在几天内使这只眼睛再生.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow this eye over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow this eye over several days.-->
+  <TM_EyeRegrowth.description>大自然和肉体的奇异交合将在几天内使这只眼睛再生.</TM_EyeRegrowth.description>
+  <!--原中文: '乳白色', 原英文: '无' -> 新英文: 'milky',更新于2026-02-14-->
+  <!--EN: milky-->
+  <TM_EyeRegrowth.stages.0.label>乳白色</TM_EyeRegrowth.stages.0.label>
+  <!--原中文: '朦胧', 原英文: '无' -> 新英文: 'hazy',更新于2026-02-14-->
+  <!--EN: hazy-->
+  <TM_EyeRegrowth.stages.1.label>朦胧</TM_EyeRegrowth.stages.1.label>
+  <!--原中文: '再生', 原英文: '无' -> 新英文: 'regrown',更新于2026-02-14-->
+  <!--EN: regrown-->
+  <TM_EyeRegrowth.stages.2.label>再生</TM_EyeRegrowth.stages.2.label>
+  <!--原中文: '增强', 原英文: '无' -> 新英文: 'enhanced',更新于2026-02-14-->
+  <!--EN: enhanced-->
+  <TM_EyeRegrowth.stages.3.label>增强</TM_EyeRegrowth.stages.3.label>
+  <!--原中文: '再生耳', 原英文: '无' -> 新英文: 'Regrown Ear',更新于2026-02-14-->
+  <!--EN: Regrown Ear-->
+  <TM_EarRegrowth.label>再生耳</TM_EarRegrowth.label>
+  <!--原中文: '大自然和肉体的奇异交合将在几天内使这部分身体再生.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow this body part over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_EarRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_EarRegrowth.description>
+  <!--原中文: '形成', 原英文: '无' -> 新英文: 'forming',更新于2026-02-14-->
+  <!--EN: forming-->
+  <TM_EarRegrowth.stages.0.label>形成</TM_EarRegrowth.stages.0.label>
+  <!--原中文: '正在生长', 原英文: '无' -> 新英文: 'developing',更新于2026-02-14-->
+  <!--EN: developing-->
+  <TM_EarRegrowth.stages.1.label>正在生长</TM_EarRegrowth.stages.1.label>
+  <!--原中文: '再生', 原英文: '无' -> 新英文: 'regrown',更新于2026-02-14-->
+  <!--EN: regrown-->
+  <TM_EarRegrowth.stages.2.label>再生</TM_EarRegrowth.stages.2.label>
+  <!--原中文: '增强', 原英文: '无' -> 新英文: 'enhanced',更新于2026-02-14-->
+  <!--EN: enhanced-->
+  <TM_EarRegrowth.stages.3.label>增强</TM_EarRegrowth.stages.3.label>
+  <!--原中文: '再生腿', 原英文: '无' -> 新英文: 'Regrown Leg',更新于2026-02-14-->
+  <!--EN: Regrown Leg-->
+  <TM_LegRegrowth.label>再生腿</TM_LegRegrowth.label>
+  <!--原中文: '大自然和肉体的奇异交合将在几天内使这部分身体再生.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow this body part over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_LegRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_LegRegrowth.description>
+  <!--原中文: '存根', 原英文: '无' -> 新英文: 'stub',更新于2026-02-14-->
+  <!--EN: stub-->
+  <TM_LegRegrowth.stages.0.label>存根</TM_LegRegrowth.stages.0.label>
+  <!--原中文: '新的', 原英文: '无' -> 新英文: 'fledgling',更新于2026-02-14-->
+  <!--EN: fledgling-->
+  <TM_LegRegrowth.stages.1.label>新的</TM_LegRegrowth.stages.1.label>
+  <!--原中文: '再生', 原英文: '无' -> 新英文: 'regrown',更新于2026-02-14-->
+  <!--EN: regrown-->
+  <TM_LegRegrowth.stages.2.label>再生</TM_LegRegrowth.stages.2.label>
+  <!--原中文: '荒野', 原英文: '无' -> 新英文: 'wild',更新于2026-02-14-->
+  <!--EN: wild-->
+  <TM_LegRegrowth.stages.3.label>荒野</TM_LegRegrowth.stages.3.label>
+  <!--原中文: '再生足', 原英文: '无' -> 新英文: 'Regrown Foot',更新于2026-02-14-->
+  <!--EN: Regrown Foot-->
+  <TM_FootRegrowth.label>再生足</TM_FootRegrowth.label>
+  <!--原中文: '大自然和肉体的奇异交合将在几天内使这部分身体再生.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow this body part over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_FootRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_FootRegrowth.description>
+  <!--原中文: '存根', 原英文: '无' -> 新英文: 'stub',更新于2026-02-14-->
+  <!--EN: stub-->
+  <TM_FootRegrowth.stages.0.label>存根</TM_FootRegrowth.stages.0.label>
+  <!--原中文: '新的', 原英文: '无' -> 新英文: 'fledgling',更新于2026-02-14-->
+  <!--EN: fledgling-->
+  <TM_FootRegrowth.stages.1.label>新的</TM_FootRegrowth.stages.1.label>
+  <!--原中文: '再生', 原英文: '无' -> 新英文: 'regrown',更新于2026-02-14-->
+  <!--EN: regrown-->
+  <TM_FootRegrowth.stages.2.label>再生</TM_FootRegrowth.stages.2.label>
+  <!--原中文: '荒野', 原英文: '无' -> 新英文: 'wild',更新于2026-02-14-->
+  <!--EN: wild-->
+  <TM_FootRegrowth.stages.3.label>荒野</TM_FootRegrowth.stages.3.label>
+  <!--原中文: '再生颌', 原英文: '无' -> 新英文: 'Regrown Jaw',更新于2026-02-14-->
+  <!--EN: Regrown Jaw-->
+  <TM_JawRegrowth.label>再生颌</TM_JawRegrowth.label>
+  <!--原中文: '大自然和肉体的奇异交合将在几天内使这部分身体再生.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow this body part over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_JawRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_JawRegrowth.description>
+  <!--原中文: '形成', 原英文: '无' -> 新英文: 'forming',更新于2026-02-14-->
+  <!--EN: forming-->
+  <TM_JawRegrowth.stages.0.label>形成</TM_JawRegrowth.stages.0.label>
+  <!--原中文: '正在生长', 原英文: '无' -> 新英文: 'developing',更新于2026-02-14-->
+  <!--EN: developing-->
+  <TM_JawRegrowth.stages.1.label>正在生长</TM_JawRegrowth.stages.1.label>
+  <!--原中文: '再生', 原英文: '无' -> 新英文: 'regrown',更新于2026-02-14-->
+  <!--EN: regrown-->
+  <TM_JawRegrowth.stages.2.label>再生</TM_JawRegrowth.stages.2.label>
+  <!--原中文: '增强', 原英文: '无' -> 新英文: 'enhanced',更新于2026-02-14-->
+  <!--EN: enhanced-->
+  <TM_JawRegrowth.stages.3.label>增强</TM_JawRegrowth.stages.3.label>
+  <!--原中文: '野性之心', 原英文: '无' -> 新英文: 'Heart of the Wild',更新于2026-02-14-->
+  <!--EN: Heart of the Wild-->
+  <TM_HeartRegrowth.label>野性之心</TM_HeartRegrowth.label>
+  <!--原中文: '自然与肉体的奇异交合将在几天内使这部分重新生长或增强心脏.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow or enhance a heart over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow or enhance a heart over several days.-->
+  <TM_HeartRegrowth.description>自然与肉体的奇异交合将在几天内使这部分重新生长或增强心脏.</TM_HeartRegrowth.description>
+  <!--原中文: '重组', 原英文: '无' -> 新英文: 're-forming',更新于2026-02-14-->
+  <!--EN: re-forming-->
+  <TM_HeartRegrowth.stages.0.label>重组</TM_HeartRegrowth.stages.0.label>
+  <!--原中文: '新发展', 原英文: '无' -> 新英文: 'new development',更新于2026-02-14-->
+  <!--EN: new development-->
+  <TM_HeartRegrowth.stages.1.label>新发展</TM_HeartRegrowth.stages.1.label>
+  <!--原中文: '熔合', 原英文: '无' -> 新英文: 'melding',更新于2026-02-14-->
+  <!--EN: melding-->
+  <TM_HeartRegrowth.stages.2.label>熔合</TM_HeartRegrowth.stages.2.label>
+  <!--原中文: '纠缠', 原英文: '无' -> 新英文: 'entwined',更新于2026-02-14-->
+  <!--EN: entwined-->
+  <TM_HeartRegrowth.stages.3.label>纠缠</TM_HeartRegrowth.stages.3.label>
+  <!--原中文: '野性之心', 原英文: '无' -> 新英文: 'heart of the wild',更新于2026-02-14-->
+  <!--EN: heart of the wild-->
+  <TM_HeartRegrowth.stages.4.label>野性之心</TM_HeartRegrowth.stages.4.label>
+  <!--原中文: '再生肺', 原英文: '无' -> 新英文: 'Regrown Lung',更新于2026-02-14-->
+  <!--EN: Regrown Lung-->
+  <TM_LungRegrowth.label>再生肺</TM_LungRegrowth.label>
+  <!--原中文: '大自然和肉体的奇异交合将在几天内使这部分身体再生.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow this body part over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_LungRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_LungRegrowth.description>
+  <!--原中文: '形成', 原英文: '无' -> 新英文: 'forming',更新于2026-02-14-->
+  <!--EN: forming-->
+  <TM_LungRegrowth.stages.0.label>形成</TM_LungRegrowth.stages.0.label>
+  <!--原中文: '正在生长', 原英文: '无' -> 新英文: 'developing',更新于2026-02-14-->
+  <!--EN: developing-->
+  <TM_LungRegrowth.stages.1.label>正在生长</TM_LungRegrowth.stages.1.label>
+  <!--原中文: '再生', 原英文: '无' -> 新英文: 'regrown',更新于2026-02-14-->
+  <!--EN: regrown-->
+  <TM_LungRegrowth.stages.2.label>再生</TM_LungRegrowth.stages.2.label>
+  <!--原中文: '增强', 原英文: '无' -> 新英文: 'enhanced',更新于2026-02-14-->
+  <!--EN: enhanced-->
+  <TM_LungRegrowth.stages.3.label>增强</TM_LungRegrowth.stages.3.label>
+  <!--原中文: '再生肾', 原英文: '无' -> 新英文: 'Regrown Kidney',更新于2026-02-14-->
+  <!--EN: Regrown Kidney-->
+  <TM_KidneyRegrowth.label>再生肾</TM_KidneyRegrowth.label>
+  <!--原中文: '大自然和肉体的奇异交合将在几天内使这部分身体再生.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow this body part over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_KidneyRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_KidneyRegrowth.description>
+  <!--原中文: '形成', 原英文: '无' -> 新英文: 'forming',更新于2026-02-14-->
+  <!--EN: forming-->
+  <TM_KidneyRegrowth.stages.0.label>形成</TM_KidneyRegrowth.stages.0.label>
+  <!--原中文: '正在生长', 原英文: '无' -> 新英文: 'developing',更新于2026-02-14-->
+  <!--EN: developing-->
+  <TM_KidneyRegrowth.stages.1.label>正在生长</TM_KidneyRegrowth.stages.1.label>
+  <!--原中文: '再生', 原英文: '无' -> 新英文: 'regrown',更新于2026-02-14-->
+  <!--EN: regrown-->
+  <TM_KidneyRegrowth.stages.2.label>再生</TM_KidneyRegrowth.stages.2.label>
+  <!--原中文: '增强', 原英文: '无' -> 新英文: 'enhanced',更新于2026-02-14-->
+  <!--EN: enhanced-->
+  <TM_KidneyRegrowth.stages.3.label>增强</TM_KidneyRegrowth.stages.3.label>
+  <!--原中文: '再生肝', 原英文: '无' -> 新英文: 'Regrown Liver',更新于2026-02-14-->
+  <!--EN: Regrown Liver-->
+  <TM_LiverRegrowth.label>再生肝</TM_LiverRegrowth.label>
+  <!--原中文: '大自然和肉体的奇异交合将在几天内使这部分身体再生.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow this body part over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_LiverRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_LiverRegrowth.description>
+  <!--原中文: '形成', 原英文: '无' -> 新英文: 'forming',更新于2026-02-14-->
+  <!--EN: forming-->
+  <TM_LiverRegrowth.stages.0.label>形成</TM_LiverRegrowth.stages.0.label>
+  <!--原中文: '正在生长', 原英文: '无' -> 新英文: 'developing',更新于2026-02-14-->
+  <!--EN: developing-->
+  <TM_LiverRegrowth.stages.1.label>正在生长</TM_LiverRegrowth.stages.1.label>
+  <!--原中文: '再生', 原英文: '无' -> 新英文: 'regrown',更新于2026-02-14-->
+  <!--EN: regrown-->
+  <TM_LiverRegrowth.stages.2.label>再生</TM_LiverRegrowth.stages.2.label>
+  <!--原中文: '增强', 原英文: '无' -> 新英文: 'enhanced',更新于2026-02-14-->
+  <!--EN: enhanced-->
+  <TM_LiverRegrowth.stages.3.label>增强</TM_LiverRegrowth.stages.3.label>
+  <!--原中文: '再生胃', 原英文: '无' -> 新英文: 'Regrown Stomach',更新于2026-02-14-->
+  <!--EN: Regrown Stomach-->
+  <TM_StomachRegrowth.label>再生胃</TM_StomachRegrowth.label>
+  <!--原中文: '大自然和肉体的奇异交合将在几天内使这部分身体再生.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will regrow this body part over several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_StomachRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_StomachRegrowth.description>
+  <!--原中文: '形成', 原英文: '无' -> 新英文: 'forming',更新于2026-02-14-->
+  <!--EN: forming-->
+  <TM_StomachRegrowth.stages.0.label>形成</TM_StomachRegrowth.stages.0.label>
+  <!--原中文: '正在生长', 原英文: '无' -> 新英文: 'developing',更新于2026-02-14-->
+  <!--EN: developing-->
+  <TM_StomachRegrowth.stages.1.label>正在生长</TM_StomachRegrowth.stages.1.label>
+  <!--原中文: '再生', 原英文: '无' -> 新英文: 'regrown',更新于2026-02-14-->
+  <!--EN: regrown-->
+  <TM_StomachRegrowth.stages.2.label>再生</TM_StomachRegrowth.stages.2.label>
+  <!--原中文: '脊椎融合', 原英文: '无' -> 新英文: 'Spine Meld',更新于2026-02-14-->
+  <!--EN: Spine Meld-->
+  <TM_SpineRegrowth.label>脊椎融合</TM_SpineRegrowth.label>
+  <!--原中文: '自然和肉体的奇异缠绕将在几天内融为一体，形成一个强大的脊椎.', 原英文: '无' -> 新英文: 'The magical entwining of nature and flesh will meld to form a powerful spine in several days.',更新于2026-02-14-->
+  <!--EN: The magical entwining of nature and flesh will meld to form a powerful spine in several days.-->
+  <TM_SpineRegrowth.description>自然和肉体的奇异缠绕将在几天内融为一体，形成一个强大的脊椎.</TM_SpineRegrowth.description>
+  <!--原中文: '形成', 原英文: '无' -> 新英文: 'forming',更新于2026-02-14-->
+  <!--EN: forming-->
+  <TM_SpineRegrowth.stages.0.label>形成</TM_SpineRegrowth.stages.0.label>
+  <!--原中文: '新增长', 原英文: '无' -> 新英文: 'new growth',更新于2026-02-14-->
+  <!--EN: new growth-->
+  <TM_SpineRegrowth.stages.1.label>新增长</TM_SpineRegrowth.stages.1.label>
+  <!--原中文: '熔合', 原英文: '无' -> 新英文: 'melding',更新于2026-02-14-->
+  <!--EN: melding-->
+  <TM_SpineRegrowth.stages.2.label>熔合</TM_SpineRegrowth.stages.2.label>
+  <!--原中文: '纠缠', 原英文: '无' -> 新英文: 'entwined',更新于2026-02-14-->
+  <!--EN: entwined-->
+  <TM_SpineRegrowth.stages.3.label>纠缠</TM_SpineRegrowth.stages.3.label>
+</LanguageData>

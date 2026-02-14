@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '灵能跳跃', 原英文: '无' -> 新英文: 'psionic leap',更新于2026-02-14-->
+  <!--EN: psionic leap-->
+  <FlyingObject_PsionicLeap.label>灵能跳跃</FlyingObject_PsionicLeap.label>
+  <!--原中文: '投掷灵能', 原英文: '无' -> 新英文: 'psionic projectile',更新于2026-02-14-->
+  <!--EN: psionic projectile-->
+  <TM_Psionic_Projectile.label>投掷灵能</TM_Psionic_Projectile.label>
+  <!-- Psionic Barrier start -->
+  <!--原中文: '心灵屏障', 原英文: '无' -> 新英文: 'psionic barrier',更新于2026-02-14-->
+  <!--EN: psionic barrier-->
+  <TM_Projectile_PsionicBarrier.label>心灵屏障</TM_Projectile_PsionicBarrier.label>
+  <!-- Psionic Blast Start -->
+  <!--原中文: '灵能爆炸', 原英文: '无' -> 新英文: 'psionic blast',更新于2026-02-14-->
+  <!--EN: psionic blast-->
+  <TM_Projectile_PsionicBlast.label>灵能爆炸</TM_Projectile_PsionicBlast.label>
+  <!-- Psionic Dash start -->
+  <!--原中文: '灵能跃进', 原英文: '无' -> 新英文: 'psionic dash',更新于2026-02-14-->
+  <!--EN: psionic dash-->
+  <FlyingObject_PsionicDash.label>灵能跃进</FlyingObject_PsionicDash.label>
+  <!--原中文: '灵能跃进', 原英文: '无' -> 新英文: 'psionic dash',更新于2026-02-14-->
+  <!--EN: psionic dash-->
+  <Projectile_PsionicDash.label>灵能跃进</Projectile_PsionicDash.label>
+  <!-- PsionicStorm -->
+  <!--原中文: '心灵风暴', 原英文: '无' -> 新英文: 'psi storm',更新于2026-02-14-->
+  <!--EN: psi storm-->
+  <FlyingObject_PsionicStorm.label>心灵风暴</FlyingObject_PsionicStorm.label>
+  <!--原中文: '心灵风暴', 原英文: '无' -> 新英文: 'PsionicStorm',更新于2026-02-14-->
+  <!--EN: PsionicStorm-->
+  <Projectile_PsionicStorm.label>心灵风暴</Projectile_PsionicStorm.label>
+  <!--原中文: '心灵风暴', 原英文: '无' -> 新英文: 'psi storm',更新于2026-02-14-->
+  <!--EN: psi storm-->
+  <FlyingObject_PsiStorm.label>心灵风暴</FlyingObject_PsiStorm.label>
+</LanguageData>

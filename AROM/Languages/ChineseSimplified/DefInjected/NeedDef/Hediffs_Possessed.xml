@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '灵魂', 原英文: '无' -> 新英文: 'spirit',更新于2026-02-14-->
+  <!--EN: spirit-->
+  <TM_SpiritND.label>灵魂</TM_SpiritND.label>
+  <!--原中文: '当前灵魂值。', 原英文: '无' -> 新英文: 'Current spirit level.',更新于2026-02-14-->
+  <!--EN: Current spirit level.-->
+  <TM_SpiritND.description>当前灵魂值。</TM_SpiritND.description>
+</LanguageData>

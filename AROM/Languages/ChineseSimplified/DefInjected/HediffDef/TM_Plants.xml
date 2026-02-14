@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '波莫纳', 原英文: '无' -> 新英文: 'pomana sense',更新于2026-02-14-->
+  <!--EN: pomana sense-->
+  <TM_PomanaSenseHD.label>波莫纳</TM_PomanaSenseHD.label>
+  <!--原中文: '从食用生的波莫纳中得到放松和提高的感觉。', 原英文: '无' -> 新英文: 'Relaxation and heightened senses from consuming raw pomana fruit.',更新于2026-02-14-->
+  <!--EN: Relaxation and heightened senses from consuming raw pomana fruit.-->
+  <TM_PomanaSenseHD.description>从食用生的波莫纳中得到放松和提高的感觉。</TM_PomanaSenseHD.description>
+  <!--原中文: '波莫纳糖浆', 原英文: '无' -> 新英文: 'syrrium sense',更新于2026-02-14-->
+  <!--EN: syrrium sense-->
+  <TM_SyrriumSenseHD.label>波莫纳糖浆</TM_SyrriumSenseHD.label>
+  <!--原中文: '从食用波莫纳糖浆中得到放松和提高的感觉。', 原英文: '无' -> 新英文: 'Heightened senses resulting from consuming condensed pomanasyrrium.',更新于2026-02-14-->
+  <!--EN: Heightened senses resulting from consuming condensed pomanasyrrium.-->
+  <TM_SyrriumSenseHD.description>从食用波莫纳糖浆中得到放松和提高的感觉。</TM_SyrriumSenseHD.description>
+  <!-- Syrrium addiction -->
+  <!--原中文: '波莫纳糖浆耐性', 原英文: '无' -> 新英文: 'syrrium tolerance',更新于2026-02-14-->
+  <!--EN: syrrium tolerance-->
+  <TM_SyrriumTolerance.label>波莫纳糖浆耐性</TM_SyrriumTolerance.label>
+  <!--原中文: '使食用波莫纳糖浆的效果正常化。', 原英文: '无' -> 新英文: 'Natural adjustment to normalize the effects of consuming condensed pomanasyrrium.',更新于2026-02-14-->
+  <!--EN: Natural adjustment to normalize the effects of consuming condensed pomanasyrrium.-->
+  <TM_SyrriumTolerance.description>使食用波莫纳糖浆的效果正常化。</TM_SyrriumTolerance.description>
+  <!--原中文: '波莫纳糖浆成瘾', 原英文: '无' -> 新英文: 'syrrium addiction',更新于2026-02-14-->
+  <!--EN: syrrium addiction-->
+  <TM_SyrriumAddiction.label>波莫纳糖浆成瘾</TM_SyrriumAddiction.label>
+  <!--原中文: '渴望波莫纳糖浆', 原英文: '无' -> 新英文: 'The urge to feel the effects of syrrium have developed into a need.',更新于2026-02-14-->
+  <!--EN: The urge to feel the effects of syrrium have developed into a need.-->
+  <TM_SyrriumAddiction.description>渴望波莫纳糖浆</TM_SyrriumAddiction.description>
+  <!--原中文: '戒断', 原英文: '无' -> 新英文: 'withdrawal',更新于2026-02-14-->
+  <!--EN: withdrawal-->
+  <TM_SyrriumAddiction.stages.1.label>戒断</TM_SyrriumAddiction.stages.1.label>
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- special attack manuevers -->
+  <!--原中文: '骷髅巫妖', 原英文: '无' -> 新英文: 'skeleton lich',更新于2026-02-14-->
+  <!--EN: skeleton lich-->
+  <TM_SkeletonLich.label>骷髅巫妖</TM_SkeletonLich.label>
+  <!--原中文: '骷髅巫妖', 原英文: '无' -> 新英文: 'skeleton lich',更新于2026-02-14-->
+  <!--EN: skeleton lich-->
+  <TM_SkeletonLich.lifeStages.0.label>骷髅巫妖</TM_SkeletonLich.lifeStages.0.label>
+  <!--原中文: '骷髅巫妖', 原英文: '无' -> 新英文: 'skeletal lich',更新于2026-02-14-->
+  <!--EN: skeletal lich-->
+  <TM_SkeletonLich.lifeStages.0.labelPlural>骷髅巫妖</TM_SkeletonLich.lifeStages.0.labelPlural>
+  <!--原中文: '巨型骷髅', 原英文: '无' -> 新英文: 'giant skeleton',更新于2026-02-14-->
+  <!--EN: giant skeleton-->
+  <TM_GiantSkeleton.label>巨型骷髅</TM_GiantSkeleton.label>
+  <!--原中文: '巨型骷髅', 原英文: '无' -> 新英文: 'giant skeleton',更新于2026-02-14-->
+  <!--EN: giant skeleton-->
+  <TM_GiantSkeleton.lifeStages.0.label>巨型骷髅</TM_GiantSkeleton.lifeStages.0.label>
+  <!--原中文: '骨架', 原英文: '无' -> 新英文: 'skeletal',更新于2026-02-14-->
+  <!--EN: skeletal-->
+  <TM_GiantSkeleton.lifeStages.0.labelPlural>骨架</TM_GiantSkeleton.lifeStages.0.labelPlural>
+  <!--原中文: '骷髅', 原英文: '无' -> 新英文: 'skeleton',更新于2026-02-14-->
+  <!--EN: skeleton-->
+  <TM_Skeleton.label>骷髅</TM_Skeleton.label>
+  <!--原中文: '骷髅', 原英文: '无' -> 新英文: 'skeleton',更新于2026-02-14-->
+  <!--EN: skeleton-->
+  <TM_Skeleton.lifeStages.0.label>骷髅</TM_Skeleton.lifeStages.0.label>
+  <!--原中文: '骨架', 原英文: '无' -> 新英文: 'skeletal',更新于2026-02-14-->
+  <!--EN: skeletal-->
+  <TM_Skeleton.lifeStages.0.labelPlural>骨架</TM_Skeleton.lifeStages.0.labelPlural>
+</LanguageData>

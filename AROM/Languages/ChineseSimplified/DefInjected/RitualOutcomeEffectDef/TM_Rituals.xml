@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '监督时奴隶将会被100%压制。根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}和{MAXMOOD}之间的情绪。', 原英文: '无' -> 新英文: 'Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.',更新于2026-02-14-->
+  <!--EN: Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.-->
+  <TM_SeverMagic.description>监督时奴隶将会被100%压制。根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}和{MAXMOOD}之间的情绪。</TM_SeverMagic.description>
+  <!--原中文: '拙劣', 原英文: '无' -> 新英文: 'Botched',更新于2026-02-14-->
+  <!--EN: Botched-->
+  <TM_SeverMagic.outcomeChances.0.label>拙劣</TM_SeverMagic.outcomeChances.0.label>
+  <!--原中文: '{0}被弄糟了。法师在恐惧和绝望中进行了报复。', 原英文: '无' -> 新英文: 'The {0} was botched. The mage retaliated in fear and desperation.',更新于2026-02-14-->
+  <!--EN: The {0} was botched. The mage retaliated in fear and desperation.-->
+  <TM_SeverMagic.outcomeChances.0.description>{0}被弄糟了。法师在恐惧和绝望中进行了报复。</TM_SeverMagic.outcomeChances.0.description>
+  <!--原中文: '致命', 原英文: '无' -> 新英文: 'Lethal',更新于2026-02-14-->
+  <!--EN: Lethal-->
+  <TM_SeverMagic.outcomeChances.1.label>致命</TM_SeverMagic.outcomeChances.1.label>
+  <!--原中文: '{0}是致命的。这个仪式的目的是将法师从魔法中分离出来，而不是杀死法师。', 原英文: '无' -> 新英文: 'The {0} was lethal. The ritual was intended to sever the mage from magic, not kill the mage.',更新于2026-02-14-->
+  <!--EN: The {0} was lethal. The ritual was intended to sever the mage from magic, not kill the mage.-->
+  <TM_SeverMagic.outcomeChances.1.description>{0}是致命的。这个仪式的目的是将法师从魔法中分离出来，而不是杀死法师。</TM_SeverMagic.outcomeChances.1.description>
+  <!--原中文: '成功', 原英文: '无' -> 新英文: 'Success',更新于2026-02-14-->
+  <!--EN: Success-->
+  <TM_SeverMagic.outcomeChances.2.label>成功</TM_SeverMagic.outcomeChances.2.label>
+  <!--原中文: '{0}成功了。寻虚者有效地斩断了法师与魔法的联系。', 原英文: '无' -> 新英文: 'The {0} was a success. The voidseeker effectively severed the mage's magic.',更新于2026-02-14-->
+  <!--EN: The {0} was a success. The voidseeker effectively severed the mage's magic.-->
+  <TM_SeverMagic.outcomeChances.2.description>{0}成功了。寻虚者有效地斩断了法师与魔法的联系。</TM_SeverMagic.outcomeChances.2.description>
+  <!--原中文: '无瑕', 原英文: '无' -> 新英文: 'Flawless',更新于2026-02-14-->
+  <!--EN: Flawless-->
+  <TM_SeverMagic.outcomeChances.3.label>无瑕</TM_SeverMagic.outcomeChances.3.label>
+  <!--原中文: '{0}完美无瑕 - 仪式给法师带来了同情和自由。', 原英文: '无' -> 新英文: 'The {0} was flawless - the ceremony brought compassion and freedom to the mage.',更新于2026-02-14-->
+  <!--EN: The {0} was flawless - the ceremony brought compassion and freedom to the mage.-->
+  <TM_SeverMagic.outcomeChances.3.description>{0}完美无瑕 - 仪式给法师带来了同情和自由。</TM_SeverMagic.outcomeChances.3.description>
+  <!--原中文: '道德指引者', 原英文: '无' -> 新英文: 'moral guide present',更新于2026-02-14-->
+  <!--EN: moral guide present-->
+  <TM_SeverMagic.comps.1.label>道德指引者</TM_SeverMagic.comps.1.label>
+  <!--原中文: '参与者人数', 原英文: '无' -> 新英文: 'participant count',更新于2026-02-14-->
+  <!--EN: participant count-->
+  <TM_SeverMagic.comps.2.label>参与者人数</TM_SeverMagic.comps.2.label>
+  <!--原中文: '从祭坛或表意文字开始', 原英文: '无' -> 新英文: 'started at altar or ideogram',更新于2026-02-14-->
+  <!--EN: started at altar or ideogram-->
+  <TM_SeverMagic.comps.3.label>从祭坛或表意文字开始</TM_SeverMagic.comps.3.label>
+  <!--原中文: '房间印象', 原英文: '无' -> 新英文: 'room impressiveness',更新于2026-02-14-->
+  <!--EN: room impressiveness-->
+  <TM_SeverMagic.comps.4.label>房间印象</TM_SeverMagic.comps.4.label>
+  <!-- Bestow Magic -->
+  <!--原中文: '监督时奴隶将会被100%压制。根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}和{MAXMOOD}之间的情绪。', 原英文: '无' -> 新英文: 'Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.',更新于2026-02-14-->
+  <!--EN: Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.-->
+  <TM_BestowMagic.description>监督时奴隶将会被100%压制。根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}和{MAXMOOD}之间的情绪。</TM_BestowMagic.description>
+  <!--原中文: '失败', 原英文: '无' -> 新英文: 'Failed',更新于2026-02-14-->
+  <!--EN: Failed-->
+  <TM_BestowMagic.outcomeChances.0.label>失败</TM_BestowMagic.outcomeChances.0.label>
+  <!--原中文: '{0}搞砸了。寻虚者无法建立起神秘联系。', 原英文: '无' -> 新英文: 'The {0} was botched. The voidseeker was unable to bridge a magical connection.',更新于2026-02-14-->
+  <!--EN: The {0} was botched. The voidseeker was unable to bridge a magical connection.-->
+  <TM_BestowMagic.outcomeChances.0.description>{0}搞砸了。寻虚者无法建立起神秘联系。</TM_BestowMagic.outcomeChances.0.description>
+  <!--原中文: '成功', 原英文: '无' -> 新英文: 'Success',更新于2026-02-14-->
+  <!--EN: Success-->
+  <TM_BestowMagic.outcomeChances.1.label>成功</TM_BestowMagic.outcomeChances.1.label>
+  <!--原中文: '{0}成功了。寻虚者赐予了魔法的火花。', 原英文: '无' -> 新英文: 'The {0} was a success. The voidseeker granted the spark of magic.',更新于2026-02-14-->
+  <!--EN: The {0} was a success. The voidseeker granted the spark of magic.-->
+  <TM_BestowMagic.outcomeChances.1.description>{0}成功了。寻虚者赐予了魔法的火花。</TM_BestowMagic.outcomeChances.1.description>
+  <!--原中文: '创造性的', 原英文: '无' -> 新英文: 'Inspired',更新于2026-02-14-->
+  <!--EN: Inspired-->
+  <TM_BestowMagic.outcomeChances.2.label>创造性的</TM_BestowMagic.outcomeChances.2.label>
+  <!--原中文: '{0}完美无瑕——仪式重申了我们的信仰，带来了魔法的礼物，并赋予了灵感。', 原英文: '无' -> 新英文: 'The {0} was flawless - the ceremony reaffirmed our beliefs, bringing the gift of magic and granting inspirational visions.',更新于2026-02-14-->
+  <!--EN: The {0} was flawless - the ceremony reaffirmed our beliefs, bringing the gift of magic and granting inspirational visions.-->
+  <TM_BestowMagic.outcomeChances.2.description>{0}完美无瑕——仪式重申了我们的信仰，带来了魔法的礼物，并赋予了灵感。</TM_BestowMagic.outcomeChances.2.description>
+  <!--原中文: '道德指引者', 原英文: '无' -> 新英文: 'moral guide present',更新于2026-02-14-->
+  <!--EN: moral guide present-->
+  <TM_BestowMagic.comps.1.label>道德指引者</TM_BestowMagic.comps.1.label>
+  <!--原中文: '参与者人数', 原英文: '无' -> 新英文: 'participant count',更新于2026-02-14-->
+  <!--EN: participant count-->
+  <TM_BestowMagic.comps.2.label>参与者人数</TM_BestowMagic.comps.2.label>
+  <!--原中文: '从祭坛或表意文字开始', 原英文: '无' -> 新英文: 'started at altar or ideogram',更新于2026-02-14-->
+  <!--EN: started at altar or ideogram-->
+  <TM_BestowMagic.comps.3.label>从祭坛或表意文字开始</TM_BestowMagic.comps.3.label>
+  <!--原中文: '房间印象', 原英文: '无' -> 新英文: 'room impressiveness',更新于2026-02-14-->
+  <!--EN: room impressiveness-->
+  <TM_BestowMagic.comps.4.label>房间印象</TM_BestowMagic.comps.4.label>
+  <!-- Arcane Pathway -->
+  <!--原中文: '监督时奴隶将会被100%压制。根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}和{MAXMOOD}之间的情绪。', 原英文: '无' -> 新英文: 'Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.',更新于2026-02-14-->
+  <!--EN: Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.-->
+  <TM_BestowMagicClass.description>监督时奴隶将会被100%压制。根据仪式质量，参与者将在{MOODDAYS}天内获得{MINMOOD}和{MAXMOOD}之间的情绪。</TM_BestowMagicClass.description>
+  <!--原中文: '平淡', 原英文: '无' -> 新英文: 'Bland',更新于2026-02-14-->
+  <!--EN: Bland-->
+  <TM_BestowMagicClass.outcomeChances.0.label>平淡</TM_BestowMagicClass.outcomeChances.0.label>
+  <!--原中文: '{0}成功了，但缺乏任何真正的情感或能量。', 原英文: '无' -> 新英文: 'The {0} was a success but lacked any real feeling or energy.',更新于2026-02-14-->
+  <!--EN: The {0} was a success but lacked any real feeling or energy.-->
+  <TM_BestowMagicClass.outcomeChances.0.description>{0}成功了，但缺乏任何真正的情感或能量。</TM_BestowMagicClass.outcomeChances.0.description>
+  <!--原中文: '鼓舞人心', 原英文: '无' -> 新英文: 'Encouraging',更新于2026-02-14-->
+  <!--EN: Encouraging-->
+  <TM_BestowMagicClass.outcomeChances.1.label>鼓舞人心</TM_BestowMagicClass.outcomeChances.1.label>
+  <!--原中文: '{0}成功了，一个有天赋的人朝着成为我们殖民地更强大的资产迈出了一大步。', 原英文: '无' -> 新英文: 'The {0} was a success. A gifted individual has taken a great step towards becoming a more powerful asset to our colony.',更新于2026-02-14-->
+  <!--EN: The {0} was a success. A gifted individual has taken a great step towards becoming a more powerful asset to our colony.-->
+  <TM_BestowMagicClass.outcomeChances.1.description>{0}成功了，一个有天赋的人朝着成为我们殖民地更强大的资产迈出了一大步。</TM_BestowMagicClass.outcomeChances.1.description>
+  <!--原中文: '启发', 原英文: '无' -> 新英文: 'Inspiring',更新于2026-02-14-->
+  <!--EN: Inspiring-->
+  <TM_BestowMagicClass.outcomeChances.2.label>启发</TM_BestowMagicClass.outcomeChances.2.label>
+  <!--原中文: '{0}具有启发性 - 通过神秘和情感能量的壮观景象，殖民地获得了又一位强大的法师。', 原英文: '无' -> 新英文: 'The {0} was inspiring - through a magnificent spectacle of arcane and emotional energy, the colony has gained another powerful mage.',更新于2026-02-14-->
+  <!--EN: The {0} was inspiring - through a magnificent spectacle of arcane and emotional energy, the colony has gained another powerful mage.-->
+  <TM_BestowMagicClass.outcomeChances.2.description>{0}具有启发性 - 通过神秘和情感能量的壮观景象，殖民地获得了又一位强大的法师。</TM_BestowMagicClass.outcomeChances.2.description>
+  <!--原中文: '道德指引者', 原英文: '无' -> 新英文: 'moral guide present',更新于2026-02-14-->
+  <!--EN: moral guide present-->
+  <TM_BestowMagicClass.comps.1.label>道德指引者</TM_BestowMagicClass.comps.1.label>
+  <!--原中文: '参与者人数', 原英文: '无' -> 新英文: 'participant count',更新于2026-02-14-->
+  <!--EN: participant count-->
+  <TM_BestowMagicClass.comps.2.label>参与者人数</TM_BestowMagicClass.comps.2.label>
+  <!--原中文: '从祭坛或表意文字开始', 原英文: '无' -> 新英文: 'started at altar or ideogram',更新于2026-02-14-->
+  <!--EN: started at altar or ideogram-->
+  <TM_BestowMagicClass.comps.3.label>从祭坛或表意文字开始</TM_BestowMagicClass.comps.3.label>
+  <!--原中文: '房间印象', 原英文: '无' -> 新英文: 'room impressiveness',更新于2026-02-14-->
+  <!--EN: room impressiveness-->
+  <TM_BestowMagicClass.comps.4.label>房间印象</TM_BestowMagicClass.comps.4.label>
+  <!--原中文: '祭坛或表意文字', 原英文: '无' -> 新英文: 'an altar or an ideogram',更新于2026-02-14-->
+  <!--EN: an altar or an ideogram-->
+  <TM_BestowMagicClass.comps.3.expectedThingLabelTip>祭坛或表意文字</TM_BestowMagicClass.comps.3.expectedThingLabelTip>
+</LanguageData>

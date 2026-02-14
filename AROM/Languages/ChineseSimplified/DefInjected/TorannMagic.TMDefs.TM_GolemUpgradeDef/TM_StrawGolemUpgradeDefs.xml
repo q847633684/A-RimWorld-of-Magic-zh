@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '恢复部分', 原英文: '无' -> 新英文: 'restore part',更新于2026-02-14-->
+  <!--EN: restore part-->
+  <TM_Golem_StrawRepair.label>恢复部分</TM_Golem_StrawRepair.label>
+  <!--原中文: '能量存储', 原英文: '无' -> 新英文: 'energy storage',更新于2026-02-14-->
+  <!--EN: energy storage-->
+  <TM_Golem_StrawMaxEnergy.label>能量存储</TM_Golem_StrawMaxEnergy.label>
+  <!--原中文: '每级增加最大能量 100。起始最大能量为 300。', 原英文: '无' -> 新英文: 'Increases maximum energy by 100 per level. Starting max energy is 300.',更新于2026-02-14-->
+  <!--EN: Increases maximum energy by 100 per level. Starting max energy is 300.-->
+  <TM_Golem_StrawMaxEnergy.description>每级增加最大能量 100。起始最大能量为 300。</TM_Golem_StrawMaxEnergy.description>
+  <!--原中文: '能源效率', 原英文: '无' -> 新英文: 'energy efficiency',更新于2026-02-14-->
+  <!--EN: energy efficiency-->
+  <TM_Golem_StrawEnergyEfficiency.label>能源效率</TM_Golem_StrawEnergyEfficiency.label>
+  <!--原中文: '每级能源效率提高 6%。起始能源效率为30%。', 原英文: '无' -> 新英文: 'Increases energy efficiency by 6% per level. Starting energy efficiency is 30%.',更新于2026-02-14-->
+  <!--EN: Increases energy efficiency by 6% per level. Starting energy efficiency is 30%.-->
+  <TM_Golem_StrawEnergyEfficiency.description>每级能源效率提高 6%。起始能源效率为30%。</TM_Golem_StrawEnergyEfficiency.description>
+  <!--原中文: '能量再生', 原英文: '无' -> 新英文: 'energy regeneration',更新于2026-02-14-->
+  <!--EN: energy regeneration-->
+  <TM_Golem_StrawEnergyRate.label>能量再生</TM_Golem_StrawEnergyRate.label>
+  <!--原中文: '每级能量消耗率增加 20%。起始充能率为 20 能量/小时。', 原英文: '无' -> 新英文: 'Increases energy charge rate by 20% per level. Starting recharge rate is 20 energy/hour.',更新于2026-02-14-->
+  <!--EN: Increases energy charge rate by 20% per level. Starting recharge rate is 20 energy/hour.-->
+  <TM_Golem_StrawEnergyRate.description>每级能量消耗率增加 20%。起始充能率为 20 能量/小时。</TM_Golem_StrawEnergyRate.description>
+  <!--原中文: '盔甲', 原英文: '无' -> 新英文: 'armor',更新于2026-02-14-->
+  <!--EN: armor-->
+  <TM_Golem_StrawArmor.label>盔甲</TM_Golem_StrawArmor.label>
+  <!--原中文: '增强整体保护：
+钝化：+[6,11,15]%
+锐利：+[5,9,13]%
+热量：+[4,7,10]%', 原英文: '无' -> 新英文: 'Increases overall protection:
+Blunt:	+[6,11,15]%
+Sharp:	+[5,9,13]%
+Heat:	+[4,7,10]%',更新于2026-02-14-->
+  <!--EN: Increases overall protection:
+Blunt:	+[6,11,15]%
+Sharp:	+[5,9,13]%
+Heat:	+[4,7,10]%-->
+  <TM_Golem_StrawArmor.description>增强整体保护：
+钝化：+[6,11,15]%
+锐利：+[5,9,13]%
+热量：+[4,7,10]%</TM_Golem_StrawArmor.description>
+  <!--原中文: '稻草人', 原英文: '无' -> 新英文: 'Scarecrow',更新于2026-02-14-->
+  <!--EN: Scarecrow-->
+  <TM_Golem_StrawScarecrow.label>稻草人</TM_Golem_StrawScarecrow.label>
+  <!--原中文: '赶走不需要的害虫。提高 6 个单元半径内的作物生长速度。', 原英文: '无' -> 新英文: 'Wards away unwanted pests. Increases crop growth rate in a 6 cell radius.',更新于2026-02-14-->
+  <!--EN: Wards away unwanted pests. Increases crop growth rate in a 6 cell radius.-->
+  <TM_Golem_StrawScarecrow.description>赶走不需要的害虫。提高 6 个单元半径内的作物生长速度。</TM_Golem_StrawScarecrow.description>
+  <!--原中文: '农业', 原英文: '无' -> 新英文: 'Farming',更新于2026-02-14-->
+  <!--EN: Farming-->
+  <TM_Golem_StrawSeed.label>农业</TM_Golem_StrawSeed.label>
+  <!--原中文: '每升一级，傀儡的植物技能提高 2 点。开始种植技能为0。', 原英文: '无' -> 新英文: 'Increases the Plants skill of the golem by 2 per level. Starts with a planting skill of 0.',更新于2026-02-14-->
+  <!--EN: Increases the Plants skill of the golem by 2 per level. Starts with a planting skill of 0.-->
+  <TM_Golem_StrawSeed.description>每升一级，傀儡的植物技能提高 2 点。开始种植技能为0。</TM_Golem_StrawSeed.description>
+  <!--原中文: '框架层', 原英文: '无' -> 新英文: 'frame tier',更新于2026-02-14-->
+  <!--EN: frame tier-->
+  <TM_Golem_StrawLifeStage.label>框架层</TM_Golem_StrawLifeStage.label>
+  <!--原中文: '增加统计数据：
+移动：+[20%/30%/40%]
+生命值：+[20%/40%/50%]', 原英文: '无' -> 新英文: 'Increases stats:
+Movement:	+[20%/30%/40%]
+Health:		+[20%/40%/50%]',更新于2026-02-14-->
+  <!--EN: Increases stats:
+Movement:	+[20%/30%/40%]
+Health:		+[20%/40%/50%]-->
+  <TM_Golem_StrawLifeStage.description>增加统计数据：
+移动：+[20%/30%/40%]
+生命值：+[20%/40%/50%]</TM_Golem_StrawLifeStage.description>
+</LanguageData>

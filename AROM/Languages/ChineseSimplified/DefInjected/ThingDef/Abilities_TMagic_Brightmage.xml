@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Light Lance -->
+  <!--原中文: '光矛', 原英文: '无' -> 新英文: 'light lance',更新于2026-02-14-->
+  <!--EN: light lance-->
+  <Projectile_LightLance.label>光矛</Projectile_LightLance.label>
+  <!--原中文: '光矛', 原英文: '无' -> 新英文: 'light lance',更新于2026-02-14-->
+  <!--EN: light lance-->
+  <FlyingObject_LightLance.label>光矛</FlyingObject_LightLance.label>
+  <!-- Sunfire -->
+  <!--原中文: '阳火', 原英文: '无' -> 新英文: 'sunfire',更新于2026-02-14-->
+  <!--EN: sunfire-->
+  <Projectile_Sunfire.label>阳火</Projectile_Sunfire.label>
+  <!--原中文: '阳火', 原英文: '无' -> 新英文: 'sunfire',更新于2026-02-14-->
+  <!--EN: sunfire-->
+  <Projectile_Sunfire_I.label>阳火</Projectile_Sunfire_I.label>
+  <!--原中文: '阳火', 原英文: '无' -> 新英文: 'sunfire',更新于2026-02-14-->
+  <!--EN: sunfire-->
+  <Projectile_Sunfire_II.label>阳火</Projectile_Sunfire_II.label>
+  <!--原中文: '阳火', 原英文: '无' -> 新英文: 'sunfire',更新于2026-02-14-->
+  <!--EN: sunfire-->
+  <Projectile_Sunfire_III.label>阳火</Projectile_Sunfire_III.label>
+  <!-- Light Skip -->
+  <!--原中文: '光行', 原英文: '无' -> 新英文: 'light skip',更新于2026-02-14-->
+  <!--EN: light skip-->
+  <Projectile_LightSkip.label>光行</Projectile_LightSkip.label>
+  <!-- Mass Light Skip -->
+  <!--原中文: '质量光行', 原英文: '无' -> 新英文: 'mass light skip',更新于2026-02-14-->
+  <!--EN: mass light skip-->
+  <Projectile_LightSkipMass.label>质量光行</Projectile_LightSkipMass.label>
+  <!-- Refraction -->
+  <!--原中文: '折射', 原英文: '无' -> 新英文: 'refraction',更新于2026-02-14-->
+  <!--EN: refraction-->
+  <Projectile_Refraction.label>折射</Projectile_Refraction.label>
+  <!-- Spirit of Light (SoL) -->
+  <!--原中文: '光之灵', 原英文: '无' -> 新英文: 'spirit of light',更新于2026-02-14-->
+  <!--EN: spirit of light-->
+  <Projectile_SpiritOfLight.label>光之灵</Projectile_SpiritOfLight.label>
+  <!--原中文: '光之灵', 原英文: '无' -> 新英文: 'spirit of light',更新于2026-02-14-->
+  <!--EN: spirit of light-->
+  <FlyingObject_SpiritOfLight.label>光之灵</FlyingObject_SpiritOfLight.label>
+  <!--原中文: '光刀', 原英文: '无' -> 新英文: 'light lancet',更新于2026-02-14-->
+  <!--EN: light lancet-->
+  <Projectile_LightLaser.label>光刀</Projectile_LightLaser.label>
+  <!-- Create Light -->
+  <!--原中文: '创造光', 原英文: '无' -> 新英文: 'create light',更新于2026-02-14-->
+  <!--EN: create light-->
+  <Projectile_CreateLight.label>创造光</Projectile_CreateLight.label>
+</LanguageData>

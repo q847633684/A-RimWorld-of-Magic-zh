@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- GOLEM Generic -->
+  <!--原中文: '身体', 原英文: '无' -> 新英文: 'torso',更新于2026-02-14-->
+  <!--EN: torso-->
+  <Golem_Body.label>身体</Golem_Body.label>
+  <!--原中文: '背部', 原英文: '无' -> 新英文: 'back',更新于2026-02-14-->
+  <!--EN: back-->
+  <Golem_Back.label>背部</Golem_Back.label>
+  <!--原中文: '脊椎', 原英文: '无' -> 新英文: 'spine',更新于2026-02-14-->
+  <!--EN: spine-->
+  <Golem_Spine.label>脊椎</Golem_Spine.label>
+  <!--原中文: '腹部', 原英文: '无' -> 新英文: 'abdomen',更新于2026-02-14-->
+  <!--EN: abdomen-->
+  <Golem_Abdomen.label>腹部</Golem_Abdomen.label>
+  <!--原中文: '肠道', 原英文: '无' -> 新英文: 'guts',更新于2026-02-14-->
+  <!--EN: guts-->
+  <Golem_Guts.label>肠道</Golem_Guts.label>
+  <!--原中文: '胸部', 原英文: '无' -> 新英文: 'chest',更新于2026-02-14-->
+  <!--EN: chest-->
+  <Golem_Chest.label>胸部</Golem_Chest.label>
+  <!--原中文: '心', 原英文: '无' -> 新英文: 'heart',更新于2026-02-14-->
+  <!--EN: heart-->
+  <Golem_Heart.label>心</Golem_Heart.label>
+  <!--原中文: '胸腔', 原英文: '无' -> 新英文: 'ribcage',更新于2026-02-14-->
+  <!--EN: ribcage-->
+  <Golem_Ribcage.label>胸腔</Golem_Ribcage.label>
+  <!--原中文: '肺', 原英文: '无' -> 新英文: 'lung',更新于2026-02-14-->
+  <!--EN: lung-->
+  <Golem_Lung.label>肺</Golem_Lung.label>
+  <!--原中文: '颈', 原英文: '无' -> 新英文: 'neck',更新于2026-02-14-->
+  <!--EN: neck-->
+  <Golem_Neck.label>颈</Golem_Neck.label>
+  <!--原中文: '头', 原英文: '无' -> 新英文: 'head',更新于2026-02-14-->
+  <!--EN: head-->
+  <Golem_Head.label>头</Golem_Head.label>
+  <!--原中文: '颅骨', 原英文: '无' -> 新英文: 'skull',更新于2026-02-14-->
+  <!--EN: skull-->
+  <Golem_Skull.label>颅骨</Golem_Skull.label>
+  <!--原中文: '头脑', 原英文: '无' -> 新英文: 'brain',更新于2026-02-14-->
+  <!--EN: brain-->
+  <Golem_Brain.label>头脑</Golem_Brain.label>
+  <!--原中文: '面部', 原英文: '无' -> 新英文: 'face',更新于2026-02-14-->
+  <!--EN: face-->
+  <Golem_Face.label>面部</Golem_Face.label>
+  <!--原中文: '眼', 原英文: '无' -> 新英文: 'eye',更新于2026-02-14-->
+  <!--EN: eye-->
+  <Golem_Eye.label>眼</Golem_Eye.label>
+  <!--原中文: '耳', 原英文: '无' -> 新英文: 'ear',更新于2026-02-14-->
+  <!--EN: ear-->
+  <Golem_Ear.label>耳</Golem_Ear.label>
+  <!--原中文: '鼻子', 原英文: '无' -> 新英文: 'nose',更新于2026-02-14-->
+  <!--EN: nose-->
+  <Golem_Nose.label>鼻子</Golem_Nose.label>
+  <!--原中文: '颌', 原英文: '无' -> 新英文: 'jaw',更新于2026-02-14-->
+  <!--EN: jaw-->
+  <Golem_Jaw.label>颌</Golem_Jaw.label>
+  <!--原中文: '舌头', 原英文: '无' -> 新英文: 'tongue',更新于2026-02-14-->
+  <!--EN: tongue-->
+  <Golem_Tongue.label>舌头</Golem_Tongue.label>
+  <!--原中文: '肩', 原英文: '无' -> 新英文: 'shoulder',更新于2026-02-14-->
+  <!--EN: shoulder-->
+  <Golem_Shoulder.label>肩</Golem_Shoulder.label>
+  <!--原中文: '右臂', 原英文: '无' -> 新英文: 'right arm',更新于2026-02-14-->
+  <!--EN: right arm-->
+  <Golem_RightArm.label>右臂</Golem_RightArm.label>
+  <!--原中文: '左臂', 原英文: '无' -> 新英文: 'left arm',更新于2026-02-14-->
+  <!--EN: left arm-->
+  <Golem_LeftArm.label>左臂</Golem_LeftArm.label>
+  <!--原中文: '手', 原英文: '无' -> 新英文: 'hand',更新于2026-02-14-->
+  <!--EN: hand-->
+  <Golem_Hand.label>手</Golem_Hand.label>
+  <!--原中文: '腰', 原英文: '无' -> 新英文: 'waist',更新于2026-02-14-->
+  <!--EN: waist-->
+  <Golem_Waist.label>腰</Golem_Waist.label>
+  <!--原中文: '腿', 原英文: '无' -> 新英文: 'leg',更新于2026-02-14-->
+  <!--EN: leg-->
+  <Golem_Leg.label>腿</Golem_Leg.label>
+  <!--原中文: '股骨', 原英文: '无' -> 新英文: 'femur',更新于2026-02-14-->
+  <!--EN: femur-->
+  <Golem_Femur.label>股骨</Golem_Femur.label>
+  <!--原中文: '胫骨', 原英文: '无' -> 新英文: 'tibia',更新于2026-02-14-->
+  <!--EN: tibia-->
+  <Golem_Tibia.label>胫骨</Golem_Tibia.label>
+  <!--原中文: '脚', 原英文: '无' -> 新英文: 'foot',更新于2026-02-14-->
+  <!--EN: foot-->
+  <Golem_Foot.label>脚</Golem_Foot.label>
+  <!-- MECHA GOLEM -->
+  <!--原中文: '身体', 原英文: '无' -> 新英文: 'body',更新于2026-02-14-->
+  <!--EN: body-->
+  <Mecha_Body.label>身体</Mecha_Body.label>
+  <!--原中文: '背板', 原英文: '无' -> 新英文: 'back plate',更新于2026-02-14-->
+  <!--EN: back plate-->
+  <Mecha_Back.label>背板</Mecha_Back.label>
+  <!--原中文: '脊髓通路', 原英文: '无' -> 新英文: 'spinal-pathway',更新于2026-02-14-->
+  <!--EN: spinal-pathway-->
+  <Mecha_Spine.label>脊髓通路</Mecha_Spine.label>
+  <!--原中文: '腹部', 原英文: '无' -> 新英文: 'abdomen',更新于2026-02-14-->
+  <!--EN: abdomen-->
+  <Mecha_Abdomen.label>腹部</Mecha_Abdomen.label>
+  <!--原中文: '能量压实机', 原英文: '无' -> 新英文: 'energy compactor',更新于2026-02-14-->
+  <!--EN: energy compactor-->
+  <Mecha_EnergyCompactor.label>能量压实机</Mecha_EnergyCompactor.label>
+  <!--原中文: '胸板', 原英文: '无' -> 新英文: 'chest plate',更新于2026-02-14-->
+  <!--EN: chest plate-->
+  <Mecha_Chest.label>胸板</Mecha_Chest.label>
+  <Mecha_Core.label>CPU</Mecha_Core.label>
+  <!--原中文: '处理器核心', 原英文: '无' -> 新英文: 'processor core',更新于2026-02-14-->
+  <!--EN: processor core-->
+  <Mecha_CoreProcessor.label>处理器核心</Mecha_CoreProcessor.label>
+  <!--原中文: '颈甲', 原英文: '无' -> 新英文: 'gorget',更新于2026-02-14-->
+  <!--EN: gorget-->
+  <Mecha_Neck.label>颈甲</Mecha_Neck.label>
+  <!--原中文: '头架', 原英文: '无' -> 新英文: 'head frame',更新于2026-02-14-->
+  <!--EN: head frame-->
+  <Mecha_Head.label>头架</Mecha_Head.label>
+  <!--原中文: '颅骨板', 原英文: '无' -> 新英文: 'skull plate',更新于2026-02-14-->
+  <!--EN: skull plate-->
+  <Mecha_SkullPlate.label>颅骨板</Mecha_SkullPlate.label>
+  <!--原中文: '核心', 原英文: '无' -> 新英文: 'AI core',更新于2026-02-14-->
+  <!--EN: AI core-->
+  <Mecha_AI.label>核心</Mecha_AI.label>
+  <!--原中文: '光学传感器', 原英文: '无' -> 新英文: 'optics',更新于2026-02-14-->
+  <!--EN: optics-->
+  <Mecha_Optics.label>光学传感器</Mecha_Optics.label>
+  <!--原中文: '传感器', 原英文: '无' -> 新英文: 'sensors',更新于2026-02-14-->
+  <!--EN: sensors-->
+  <Mecha_Sensors.label>传感器</Mecha_Sensors.label>
+  <!--原中文: '发射机', 原英文: '无' -> 新英文: 'transmitters',更新于2026-02-14-->
+  <!--EN: transmitters-->
+  <Mecha_Transmitter.label>发射机</Mecha_Transmitter.label>
+  <!--原中文: '左肩', 原英文: '无' -> 新英文: 'left shoulder',更新于2026-02-14-->
+  <!--EN: left shoulder-->
+  <Mecha_LeftShoulder.label>左肩</Mecha_LeftShoulder.label>
+  <!--原中文: '左手臂', 原英文: '无' -> 新英文: 'left arm',更新于2026-02-14-->
+  <!--EN: left arm-->
+  <Mecha_LeftArm.label>左手臂</Mecha_LeftArm.label>
+  <!--原中文: '机械斧', 原英文: '无' -> 新英文: 'mecha-axe',更新于2026-02-14-->
+  <!--EN: mecha-axe-->
+  <Mecha_LeftArm_Axe.label>机械斧</Mecha_LeftArm_Axe.label>
+  <!--原中文: '机械剑', 原英文: '无' -> 新英文: 'mecha-sword',更新于2026-02-14-->
+  <!--EN: mecha-sword-->
+  <Mecha_LeftArm_Sword.label>机械剑</Mecha_LeftArm_Sword.label>
+  <!--原中文: '右肩', 原英文: '无' -> 新英文: 'right shoulder',更新于2026-02-14-->
+  <!--EN: right shoulder-->
+  <Mecha_RightShoulder.label>右肩</Mecha_RightShoulder.label>
+  <!--原中文: '右臂', 原英文: '无' -> 新英文: 'right arm',更新于2026-02-14-->
+  <!--EN: right arm-->
+  <Mecha_RightArm.label>右臂</Mecha_RightArm.label>
+  <!--原中文: '机械锤', 原英文: '无' -> 新英文: 'mecha-hammer',更新于2026-02-14-->
+  <!--EN: mecha-hammer-->
+  <Mecha_RightArm_Hammer.label>机械锤</Mecha_RightArm_Hammer.label>
+  <!--原中文: '运动核心', 原英文: '无' -> 新英文: 'body smash',更新于2026-02-14-->
+  <!--EN: body smash-->
+  <Mecha_Base.label>运动核心</Mecha_Base.label>
+  <!-- FLESH GOLEM -->
+  <!--原中文: '身体', 原英文: '无' -> 新英文: 'torso',更新于2026-02-14-->
+  <!--EN: torso-->
+  <Flesh_Body.label>身体</Flesh_Body.label>
+  <!--原中文: '背', 原英文: '无' -> 新英文: 'back',更新于2026-02-14-->
+  <!--EN: back-->
+  <Flesh_Back.label>背</Flesh_Back.label>
+  <!--原中文: '脊柱', 原英文: '无' -> 新英文: 'spine',更新于2026-02-14-->
+  <!--EN: spine-->
+  <Flesh_Spine.label>脊柱</Flesh_Spine.label>
+  <!--原中文: '翅膀', 原英文: '无' -> 新英文: 'wings',更新于2026-02-14-->
+  <!--EN: wings-->
+  <Flesh_Wings.label>翅膀</Flesh_Wings.label>
+  <!--原中文: '腹部', 原英文: '无' -> 新英文: 'abdomen',更新于2026-02-14-->
+  <!--EN: abdomen-->
+  <Flesh_Abdomen.label>腹部</Flesh_Abdomen.label>
+  <!--原中文: '肠道', 原英文: '无' -> 新英文: 'guts',更新于2026-02-14-->
+  <!--EN: guts-->
+  <Flesh_Guts.label>肠道</Flesh_Guts.label>
+  <!--原中文: '胸部', 原英文: '无' -> 新英文: 'chest',更新于2026-02-14-->
+  <!--EN: chest-->
+  <Flesh_Chest.label>胸部</Flesh_Chest.label>
+  <!--原中文: '心', 原英文: '无' -> 新英文: 'heart',更新于2026-02-14-->
+  <!--EN: heart-->
+  <Flesh_Heart.label>心</Flesh_Heart.label>
+  <!--原中文: '胸腔', 原英文: '无' -> 新英文: 'ribcage',更新于2026-02-14-->
+  <!--EN: ribcage-->
+  <Flesh_Ribcage.label>胸腔</Flesh_Ribcage.label>
+  <!--原中文: '肺', 原英文: '无' -> 新英文: 'lung',更新于2026-02-14-->
+  <!--EN: lung-->
+  <Flesh_Lung.label>肺</Flesh_Lung.label>
+  <!--原中文: '颈', 原英文: '无' -> 新英文: 'neck',更新于2026-02-14-->
+  <!--EN: neck-->
+  <Flesh_Neck.label>颈</Flesh_Neck.label>
+  <!--原中文: '头', 原英文: '无' -> 新英文: 'head',更新于2026-02-14-->
+  <!--EN: head-->
+  <Flesh_Head.label>头</Flesh_Head.label>
+  <!--原中文: '颅骨', 原英文: '无' -> 新英文: 'skull',更新于2026-02-14-->
+  <!--EN: skull-->
+  <Flesh_Skull.label>颅骨</Flesh_Skull.label>
+  <!--原中文: '大脑', 原英文: '无' -> 新英文: 'brain',更新于2026-02-14-->
+  <!--EN: brain-->
+  <Flesh_Brain.label>大脑</Flesh_Brain.label>
+  <!--原中文: '脸', 原英文: '无' -> 新英文: 'face',更新于2026-02-14-->
+  <!--EN: face-->
+  <Flesh_Face.label>脸</Flesh_Face.label>
+  <!--原中文: '眼', 原英文: '无' -> 新英文: 'eye',更新于2026-02-14-->
+  <!--EN: eye-->
+  <Flesh_Eye.label>眼</Flesh_Eye.label>
+  <!--原中文: '眼', 原英文: '无' -> 新英文: 'eye',更新于2026-02-14-->
+  <!--EN: eye-->
+  <Flesh_LowerEye.label>眼</Flesh_LowerEye.label>
+  <!--原中文: '邪眼', 原英文: '无' -> 新英文: 'evil eye',更新于2026-02-14-->
+  <!--EN: evil eye-->
+  <Flesh_EvilEye.label>邪眼</Flesh_EvilEye.label>
+  <!--原中文: '獠牙', 原英文: '无' -> 新英文: 'tusks',更新于2026-02-14-->
+  <!--EN: tusks-->
+  <Flesh_Tusks.label>獠牙</Flesh_Tusks.label>
+  <!--原中文: '耳', 原英文: '无' -> 新英文: 'ear',更新于2026-02-14-->
+  <!--EN: ear-->
+  <Flesh_Ear.label>耳</Flesh_Ear.label>
+  <!--原中文: '鼻', 原英文: '无' -> 新英文: 'nose',更新于2026-02-14-->
+  <!--EN: nose-->
+  <Flesh_Nose.label>鼻</Flesh_Nose.label>
+  <!--原中文: '颚', 原英文: '无' -> 新英文: 'jaw',更新于2026-02-14-->
+  <!--EN: jaw-->
+  <Flesh_Jaw.label>颚</Flesh_Jaw.label>
+  <!--原中文: '舌头', 原英文: '无' -> 新英文: 'tongue',更新于2026-02-14-->
+  <!--EN: tongue-->
+  <Flesh_Tongue.label>舌头</Flesh_Tongue.label>
+  <!--原中文: '犄角', 原英文: '无' -> 新英文: 'horns',更新于2026-02-14-->
+  <!--EN: horns-->
+  <Flesh_Horns.label>犄角</Flesh_Horns.label>
+  <!--原中文: '肩', 原英文: '无' -> 新英文: 'shoulder',更新于2026-02-14-->
+  <!--EN: shoulder-->
+  <Flesh_Shoulder.label>肩</Flesh_Shoulder.label>
+  <!--原中文: '右臂', 原英文: '无' -> 新英文: 'right arm',更新于2026-02-14-->
+  <!--EN: right arm-->
+  <Flesh_RightArm.label>右臂</Flesh_RightArm.label>
+  <!--原中文: '左臂', 原英文: '无' -> 新英文: 'left arm',更新于2026-02-14-->
+  <!--EN: left arm-->
+  <Flesh_LeftArm.label>左臂</Flesh_LeftArm.label>
+  <!--原中文: '手', 原英文: '无' -> 新英文: 'hand',更新于2026-02-14-->
+  <!--EN: hand-->
+  <Flesh_Hand.label>手</Flesh_Hand.label>
+  <!--原中文: '左支柱', 原英文: '无' -> 新英文: 'bracer',更新于2026-02-14-->
+  <!--EN: bracer-->
+  <Flesh_LeftArm_Brace.label>左支柱</Flesh_LeftArm_Brace.label>
+  <!--原中文: '左切割器', 原英文: '无' -> 新英文: 'cleaver',更新于2026-02-14-->
+  <!--EN: cleaver-->
+  <Flesh_LeftArm_Cleaver.label>左切割器</Flesh_LeftArm_Cleaver.label>
+  <!--原中文: '右支架', 原英文: '无' -> 新英文: 'bracer',更新于2026-02-14-->
+  <!--EN: bracer-->
+  <Flesh_RightArm_Brace.label>右支架</Flesh_RightArm_Brace.label>
+  <!--原中文: '右切割器', 原英文: '无' -> 新英文: 'cleaver',更新于2026-02-14-->
+  <!--EN: cleaver-->
+  <Flesh_RightArm_Cleaver.label>右切割器</Flesh_RightArm_Cleaver.label>
+  <!--原中文: '腰', 原英文: '无' -> 新英文: 'waist',更新于2026-02-14-->
+  <!--EN: waist-->
+  <Flesh_Waist.label>腰</Flesh_Waist.label>
+  <!--原中文: '腿', 原英文: '无' -> 新英文: 'leg',更新于2026-02-14-->
+  <!--EN: leg-->
+  <Flesh_Leg.label>腿</Flesh_Leg.label>
+  <!--原中文: '股骨', 原英文: '无' -> 新英文: 'femur',更新于2026-02-14-->
+  <!--EN: femur-->
+  <Flesh_Femur.label>股骨</Flesh_Femur.label>
+  <!--原中文: '胫骨', 原英文: '无' -> 新英文: 'tibia',更新于2026-02-14-->
+  <!--EN: tibia-->
+  <Flesh_Tibia.label>胫骨</Flesh_Tibia.label>
+  <!--原中文: '脚', 原英文: '无' -> 新英文: 'foot',更新于2026-02-14-->
+  <!--EN: foot-->
+  <Flesh_Foot.label>脚</Flesh_Foot.label>
+  <!-- HOLLOW GOLEM -->
+  <!--原中文: '空洞器槽', 原英文: '无' -> 新英文: 'hollowed weapon slot',更新于2026-02-14-->
+  <!--EN: hollowed weapon slot-->
+  <Hollow_Weapon.label>空洞器槽</Hollow_Weapon.label>
+  <!--原中文: '空洞之斧', 原英文: '无' -> 新英文: 'hollowed axe',更新于2026-02-14-->
+  <!--EN: hollowed axe-->
+  <Hollow_Axe.label>空洞之斧</Hollow_Axe.label>
+  <!--原中文: '空洞之杖', 原英文: '无' -> 新英文: 'hollowed staff',更新于2026-02-14-->
+  <!--EN: hollowed staff-->
+  <Hollow_Staff.label>空洞之杖</Hollow_Staff.label>
+  <!--原中文: '空洞之心', 原英文: '无' -> 新英文: 'hollow core',更新于2026-02-14-->
+  <!--EN: hollow core-->
+  <Hollow_Core.label>空洞之心</Hollow_Core.label>
+  <!--原中文: '空洞之心', 原英文: '无' -> 新英文: 'hollow core',更新于2026-02-14-->
+  <!--EN: hollow core-->
+  <Hollow_CoreSlotA.label>空洞之心</Hollow_CoreSlotA.label>
+  <!--原中文: '空洞之心', 原英文: '无' -> 新英文: 'hollow core',更新于2026-02-14-->
+  <!--EN: hollow core-->
+  <Hollow_CoreSlotB.label>空洞之心</Hollow_CoreSlotB.label>
+  <!-- STONE GOLEM -->
+  <!--原中文: '石之心', 原英文: '无' -> 新英文: 'stone core',更新于2026-02-14-->
+  <!--EN: stone core-->
+  <Stone_Core.label>石之心</Stone_Core.label>
+  <!--原中文: '石之心(a)', 原英文: '无' -> 新英文: 'stone core(a)',更新于2026-02-14-->
+  <!--EN: stone core(a)-->
+  <Stone_SlotA.label>石之心(a)</Stone_SlotA.label>
+  <!--原中文: '石之心(b)', 原英文: '无' -> 新英文: 'stone core(b)',更新于2026-02-14-->
+  <!--EN: stone core(b)-->
+  <Stone_SlotB.label>石之心(b)</Stone_SlotB.label>
+  <!-- MAHARAL GOLEM -->
+  <!--原中文: '马哈拉尔之心', 原英文: '无' -> 新英文: 'maharal core',更新于2026-02-14-->
+  <!--EN: maharal core-->
+  <Maharal_Core.label>马哈拉尔之心</Maharal_Core.label>
+  <!--原中文: '马哈拉尔之心(a)', 原英文: '无' -> 新英文: 'maharal core(a)',更新于2026-02-14-->
+  <!--EN: maharal core(a)-->
+  <Maharal_SlotA.label>马哈拉尔之心(a)</Maharal_SlotA.label>
+  <!--原中文: '马哈拉尔之心(b)', 原英文: '无' -> 新英文: 'maharal core(b)',更新于2026-02-14-->
+  <!--EN: maharal core(b)-->
+  <Maharal_SlotB.label>马哈拉尔之心(b)</Maharal_SlotB.label>
+  <!-- STRAW GOLEM -->
+  <!--原中文: '脸', 原英文: '无' -> 新英文: 'face',更新于2026-02-14-->
+  <!--EN: face-->
+  <Straw_Face.label>脸</Straw_Face.label>
+  <!--原中文: '稻草傀儡核心', 原英文: '无' -> 新英文: 'straw golem core',更新于2026-02-14-->
+  <!--EN: straw golem core-->
+  <Straw_Core.label>稻草傀儡核心</Straw_Core.label>
+  <!--原中文: '稻草之心(a)', 原英文: '无' -> 新英文: 'straw core(a)',更新于2026-02-14-->
+  <!--EN: straw core(a)-->
+  <Straw_SlotA.label>稻草之心(a)</Straw_SlotA.label>
+  <!--原中文: '稻草之心(b)', 原英文: '无' -> 新英文: 'straw core(b)',更新于2026-02-14-->
+  <!--EN: straw core(b)-->
+  <Straw_SlotB.label>稻草之心(b)</Straw_SlotB.label>
+  <!-- WOOD GOLEM -->
+  <!--原中文: '身体', 原英文: '无' -> 新英文: 'body',更新于2026-02-14-->
+  <!--EN: body-->
+  <TM_Wood_Body.label>身体</TM_Wood_Body.label>
+  <!--原中文: '背板', 原英文: '无' -> 新英文: 'back plate',更新于2026-02-14-->
+  <!--EN: back plate-->
+  <TM_Wood_Back.label>背板</TM_Wood_Back.label>
+  <!--原中文: '胸板', 原英文: '无' -> 新英文: 'chest plate',更新于2026-02-14-->
+  <!--EN: chest plate-->
+  <TM_Wood_Chest.label>胸板</TM_Wood_Chest.label>
+  <!--原中文: '魔法核心', 原英文: '无' -> 新英文: 'magic core',更新于2026-02-14-->
+  <!--EN: magic core-->
+  <TM_Wood_Core.label>魔法核心</TM_Wood_Core.label>
+  <!--原中文: '意识源', 原英文: '无' -> 新英文: 'awareness source',更新于2026-02-14-->
+  <!--EN: awareness source-->
+  <TM_Wood_Focus.label>意识源</TM_Wood_Focus.label>
+  <!--原中文: '能量储备', 原英文: '无' -> 新英文: 'energy reserves',更新于2026-02-14-->
+  <!--EN: energy reserves-->
+  <TM_Wood_Reserves.label>能量储备</TM_Wood_Reserves.label>
+  <!--原中文: '木芯（a）', 原英文: '无' -> 新英文: 'wood core(a)',更新于2026-02-14-->
+  <!--EN: wood core(a)-->
+  <Wood_SlotA.label>木芯（a）</Wood_SlotA.label>
+  <!--原中文: '木芯（b）', 原英文: '无' -> 新英文: 'wood core(b)',更新于2026-02-14-->
+  <!--EN: wood core(b)-->
+  <Wood_SlotB.label>木芯（b）</Wood_SlotB.label>
+  <!--原中文: '力量投影仪', 原英文: '无' -> 新英文: 'central force',更新于2026-02-14-->
+  <!--EN: central force-->
+  <TM_Wood_Manipulator.label>力量投影仪</TM_Wood_Manipulator.label>
+  <!--原中文: '移动基座', 原英文: '无' -> 新英文: 'movement base',更新于2026-02-14-->
+  <!--EN: movement base-->
+  <TM_Wood_Base.label>移动基座</TM_Wood_Base.label>
+  <!--原中文: '魔力核心', 原英文: '无' -> 新英文: 'magic core',更新于2026-02-14-->
+  <!--EN: magic core-->
+  <TM_Silk_Core.label>魔力核心</TM_Silk_Core.label>
+  <!--原中文: '丝芯（a）', 原英文: '无' -> 新英文: 'silk core(a)',更新于2026-02-14-->
+  <!--EN: silk core(a)-->
+  <Silk_SlotA.label>丝芯（a）</Silk_SlotA.label>
+  <!--原中文: '丝芯（b）', 原英文: '无' -> 新英文: 'silk core(b)',更新于2026-02-14-->
+  <!--EN: silk core(b)-->
+  <Silk_SlotB.label>丝芯（b）</Silk_SlotB.label>
+</LanguageData>

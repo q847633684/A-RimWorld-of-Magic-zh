@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '极乐', 原英文: '无' -> 新英文: 'bliss',更新于2026-02-14-->
+  <!--EN: bliss-->
+  <TM_BlissThought.stages.0.label>极乐</TM_BlissThought.stages.0.label>
+  <!--原中文: '我正处于一种美妙、欣快的幸福状态。', 原英文: '无' -> 新英文: 'I'm in a state of wonderful, euphoric bliss.',更新于2026-02-14-->
+  <!--EN: I'm in a state of wonderful, euphoric bliss.-->
+  <TM_BlissThought.stages.0.description>我正处于一种美妙、欣快的幸福状态。</TM_BlissThought.stages.0.description>
+</LanguageData>

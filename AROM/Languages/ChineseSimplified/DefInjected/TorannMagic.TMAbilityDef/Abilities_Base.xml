@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- leap as a flying object -->
+  <!--原中文: '次级目标', 原英文: '无' -> 新英文: 'secondary targeter',更新于2026-02-14-->
+  <!--EN: secondary targeter-->
+  <TM_CompVerb.label>次级目标</TM_CompVerb.label>
+  <!--原中文: '次级定位中使用的动词', 原英文: '无' -> 新英文: 'verb used in secondary targeting',更新于2026-02-14-->
+  <!--EN: verb used in secondary targeting-->
+  <TM_CompVerb.description>次级定位中使用的动词</TM_CompVerb.description>
+</LanguageData>

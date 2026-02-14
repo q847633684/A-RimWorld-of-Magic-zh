@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Spirit Possession -->
+  <!--原中文: '灵魂入侵', 原英文: '无' -> 新英文: 'possess',更新于2026-02-14-->
+  <!--EN: possess-->
+  <Projectile_SpiritPossession.label>灵魂入侵</Projectile_SpiritPossession.label>
+  <!-- Distort Spirit -->
+  <!--原中文: '灵魂扭曲', 原英文: '无' -> 新英文: 'distort spirit',更新于2026-02-14-->
+  <!--EN: distort spirit-->
+  <Projectile_DistortSpirit.label>灵魂扭曲</Projectile_DistortSpirit.label>
+  <!-- Summon Spirit Animal -->
+  <!--原中文: '召唤灵魂动物', 原英文: '无' -> 新英文: 'summon spirit animals',更新于2026-02-14-->
+  <!--EN: summon spirit animals-->
+  <Projectile_SummonSpiritAnimals.label>召唤灵魂动物</Projectile_SummonSpiritAnimals.label>
+  <!-- Spirit Storm -->
+  <!--原中文: '灵魂风暴', 原英文: '无' -> 新英文: 'spirit storm',更新于2026-02-14-->
+  <!--EN: spirit storm-->
+  <Projectile_SpiritStorm.label>灵魂风暴</Projectile_SpiritStorm.label>
+  <!--原中文: '灵魂风暴', 原英文: '无' -> 新英文: 'spirit storm',更新于2026-02-14-->
+  <!--EN: spirit storm-->
+  <FlyingObject_SpiritStorm.label>灵魂风暴</FlyingObject_SpiritStorm.label>
+</LanguageData>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Disguise start -->
+  <!--原中文: '欺骗', 原英文: '无' -> 新英文: 'Deception',更新于2026-02-14-->
+  <!--EN: Deception-->
+  <TM_Disguise.label>欺骗</TM_Disguise.label>
+  <!--原中文: '无面者通过操纵光影使任何看到他们的人潜意识的忽略他们。本质上就是让无脸者隐形。\n  \n无法欺骗已经把无面者视为威胁的单位。', 原英文: '无' -> 新英文: 'The faceless manipulates light and motion to make their form appear meaningless to any observer; on a subconscious level, any observer will cognitively dismiss the faceless as an unimportant, harmless object, essentially making the faceless invisible.
+	
+Disguise will not fool any pawn that already sees the faceless as a threat.',更新于2026-02-14-->
+  <!--EN: The faceless manipulates light and motion to make their form appear meaningless to any observer; on a subconscious level, any observer will cognitively dismiss the faceless as an unimportant, harmless object, essentially making the faceless invisible.
+	
+Disguise will not fool any pawn that already sees the faceless as a threat.-->
+  <TM_Disguise.description>无面者通过操纵光影使任何看到他们的人潜意识的忽略他们。本质上就是让无脸者隐形。\n  \n无法欺骗已经把无面者视为威胁的单位。</TM_Disguise.description>
+  <!-- Mimic start -->
+  <!--原中文: '模仿', 原英文: '无' -> 新英文: 'Mimic',更新于2026-02-14-->
+  <!--EN: Mimic-->
+  <TM_Mimic.label>模仿</TM_Mimic.label>
+  <!--原中文: '无面者可以从法师或战士身上复制一个随机能力。一次只能存储一个能力，重复使用会替代之前的技能。', 原英文: '无' -> 新英文: 'The faceless copies a random ability from a mage or fighter. Only one ability may be stored at a time. The ability is retained after use; reusing Mimic will replace the stored ability.',更新于2026-02-14-->
+  <!--EN: The faceless copies a random ability from a mage or fighter. Only one ability may be stored at a time. The ability is retained after use; reusing Mimic will replace the stored ability.-->
+  <TM_Mimic.description>无面者可以从法师或战士身上复制一个随机能力。一次只能存储一个能力，重复使用会替代之前的技能。</TM_Mimic.description>
+  <!-- Reversal Start -->
+  <!--原中文: '倒转', 原英文: '无' -> 新英文: 'Reversal',更新于2026-02-14-->
+  <!--EN: Reversal-->
+  <TM_Reversal.label>倒转</TM_Reversal.label>
+  <!--原中文: '在短时间内逆转所有近战和远程攻击。无脸者不会受到这些攻击的伤害。不能逆转技能和爆炸攻击。', 原英文: '无' -> 新英文: 'Reverses the kinetic energy of all melee and projectile attacks for a brief period. The faceless will take no damage from these attacks. Direct application and explosive attacks cannot be reversed.',更新于2026-02-14-->
+  <!--EN: Reverses the kinetic energy of all melee and projectile attacks for a brief period. The faceless will take no damage from these attacks. Direct application and explosive attacks cannot be reversed.-->
+  <TM_Reversal.description>在短时间内逆转所有近战和远程攻击。无脸者不会受到这些攻击的伤害。不能逆转技能和爆炸攻击。</TM_Reversal.description>
+  <!-- Transpose Start -->
+  <!--原中文: '转移（I）', 原英文: '无' -> 新英文: 'Transpose',更新于2026-02-14-->
+  <!--EN: Transpose-->
+  <TM_Transpose.label>转移（I）</TM_Transpose.label>
+  <!--原中文: '与目标单位交换位置。无脸者和目标在换位后将在短时间内迷茫。\n  \n施法时间: 0.8s\n范围: 40\n冷却时间: 15', 原英文: '无' -> 新英文: 'Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.
+Cast time: .8s
+Range: 40
+Cooldown: 15',更新于2026-02-14-->
+  <!--EN: Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.
+Cast time: .8s
+Range: 40
+Cooldown: 15-->
+  <TM_Transpose.description>与目标单位交换位置。无脸者和目标在换位后将在短时间内迷茫。\n  \n施法时间: 0.8s\n范围: 40\n冷却时间: 15</TM_Transpose.description>
+  <!--原中文: '转移（II）', 原英文: '无' -> 新英文: 'Transpose I',更新于2026-02-14-->
+  <!--EN: Transpose I-->
+  <TM_Transpose_I.label>转移（II）</TM_Transpose_I.label>
+  <!--原中文: '与目标单位交换位置。无脸者和目标在换位后将在短时间内迷茫。\n  \n施法时间: 0.6s\n范围: 44\n冷却时间: 13', 原英文: '无' -> 新英文: 'Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.
+Cast time: .6s
+Range: 44
+Cooldown: 13',更新于2026-02-14-->
+  <!--EN: Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.
+Cast time: .6s
+Range: 44
+Cooldown: 13-->
+  <TM_Transpose_I.description>与目标单位交换位置。无脸者和目标在换位后将在短时间内迷茫。\n  \n施法时间: 0.6s\n范围: 44\n冷却时间: 13</TM_Transpose_I.description>
+  <!--原中文: '转移（III）', 原英文: '无' -> 新英文: 'Transpose II',更新于2026-02-14-->
+  <!--EN: Transpose II-->
+  <TM_Transpose_II.label>转移（III）</TM_Transpose_II.label>
+  <!--原中文: '与目标单位交换位置。无脸者和目标在换位后将在短时间内迷茫。\n  \n施法时间: 0.4s\n范围: 47\n冷却时间: 11', 原英文: '无' -> 新英文: 'Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.
+Cast time: .4s
+Range: 47
+Cooldown: 11',更新于2026-02-14-->
+  <!--EN: Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.
+Cast time: .4s
+Range: 47
+Cooldown: 11-->
+  <TM_Transpose_II.description>与目标单位交换位置。无脸者和目标在换位后将在短时间内迷茫。\n  \n施法时间: 0.4s\n范围: 47\n冷却时间: 11</TM_Transpose_II.description>
+  <!--原中文: '转移（IV）', 原英文: '无' -> 新英文: 'Transpose III',更新于2026-02-14-->
+  <!--EN: Transpose III-->
+  <TM_Transpose_III.label>转移（IV）</TM_Transpose_III.label>
+  <!--原中文: '与目标单位交换位置。无脸者和目标在换位后将在短时间内迷茫。\n  \n施法时间: 0.2s\n范围: 50\n冷却时间: 9', 原英文: '无' -> 新英文: 'Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.
+Cast time: .2s
+Range: 50
+Cooldown: 9',更新于2026-02-14-->
+  <!--EN: Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.
+Cast time: .2s
+Range: 50
+Cooldown: 9-->
+  <TM_Transpose_III.description>与目标单位交换位置。无脸者和目标在换位后将在短时间内迷茫。\n  \n施法时间: 0.2s\n范围: 50\n冷却时间: 9</TM_Transpose_III.description>
+  <!-- Possess -->
+  <!--原中文: '占据', 原英文: '无' -> 新英文: 'Possess',更新于2026-02-14-->
+  <!--EN: Possess-->
+  <TM_Possess.label>占据</TM_Possess.label>
+  <!--原中文: '就像木偶大师精神和身体的无表情运用会对目标生物产生极端的自我怀疑——这让他们能够通过心理暗示和胁迫来控制目标。		\n  \n附近的敌人除非看到可疑活动，否则不太可能立即发现藏匿物。如果被发现，中立和友好的派系会将被附身的单位的侵略行为视为敌对行为。\n\n只有具有类似人类的能够自我怀疑的头脑的生物才能被拥有。', 原英文: '无' -> 新英文: 'Like a puppet master, the faceless applies of the mind and body to cause extreme self-doubt on a target pawn - allowing them to control their target through mental suggestion and coercion. 
+		
+Nearby enemies are unlikely to immediately detect the possession unless they see suspicious activity. If detected, neutral and friendly factions will consider aggressive actions from a possessed pawn as an act of hostility.
+
+Only creatures with a human-like mind capable of self-doubt can be possessed.',更新于2026-02-14-->
+  <!--EN: Like a puppet master, the faceless applies of the mind and body to cause extreme self-doubt on a target pawn - allowing them to control their target through mental suggestion and coercion. 
+		
+Nearby enemies are unlikely to immediately detect the possession unless they see suspicious activity. If detected, neutral and friendly factions will consider aggressive actions from a possessed pawn as an act of hostility.
+
+Only creatures with a human-like mind capable of self-doubt can be possessed.-->
+  <TM_Possess.description>就像木偶大师精神和身体的无表情运用会对目标生物产生极端的自我怀疑——这让他们能够通过心理暗示和胁迫来控制目标。		\n  \n附近的敌人除非看到可疑活动，否则不太可能立即发现藏匿物。如果被发现，中立和友好的派系会将被附身的单位的侵略行为视为敌对行为。\n\n只有具有类似人类的能够自我怀疑的头脑的生物才能被拥有。</TM_Possess.description>
+</LanguageData>

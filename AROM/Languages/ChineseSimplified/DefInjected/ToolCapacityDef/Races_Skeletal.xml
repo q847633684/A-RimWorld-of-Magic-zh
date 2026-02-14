@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- special attack manuevers -->
+  <!--原中文: '阴影烧伤', 原英文: '无' -> 新英文: 'shadow burn',更新于2026-02-14-->
+  <!--EN: shadow burn-->
+  <TM_ShadowBurn.label>阴影烧伤</TM_ShadowBurn.label>
+  <!--原中文: '死亡凝视', 原英文: '无' -> 新英文: 'death stare',更新于2026-02-14-->
+  <!--EN: death stare-->
+  <TM_DeathGaze.label>死亡凝视</TM_DeathGaze.label>
+</LanguageData>

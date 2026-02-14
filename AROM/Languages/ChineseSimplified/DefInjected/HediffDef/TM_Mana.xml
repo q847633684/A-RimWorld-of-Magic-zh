@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '魔法师', 原英文: '无' -> 新英文: 'magic user',更新于2026-02-14-->
+  <!--EN: magic user-->
+  <TM_MagicUserHD.label>魔法师</TM_MagicUserHD.label>
+  <!--原中文: '魔法师需要的状态.', 原英文: '无' -> 新英文: 'Hediff required for magic users.',更新于2026-02-14-->
+  <!--EN: Hediff required for magic users.-->
+  <TM_MagicUserHD.description>魔法师需要的状态.</TM_MagicUserHD.description>
+  <!--原中文: '隐藏', 原英文: '无' -> 新英文: 'hidden',更新于2026-02-14-->
+  <!--EN: hidden-->
+  <TM_MagicUserHD.stages.0.label>隐藏</TM_MagicUserHD.stages.0.label>
+</LanguageData>

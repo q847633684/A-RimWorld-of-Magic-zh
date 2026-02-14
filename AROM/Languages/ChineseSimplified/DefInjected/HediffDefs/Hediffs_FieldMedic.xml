@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: medical supplies are not meant to regen-->
+  <TM_MedicalSupplyHD.comps.0.regenPerTickUpgradeName>医疗用品并不意味着再生</TM_MedicalSupplyHD.comps.0.regenPerTickUpgradeName>
+</LanguageData>

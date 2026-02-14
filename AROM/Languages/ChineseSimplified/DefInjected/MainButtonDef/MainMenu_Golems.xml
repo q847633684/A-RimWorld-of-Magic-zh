@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '傀儡', 原英文: '无' -> 新英文: 'golems',更新于2026-02-14-->
+  <!--EN: golems-->
+  <TM_GolemButton.label>傀儡</TM_GolemButton.label>
+  <!--原中文: '管理殖民地的傀儡', 原英文: '无' -> 新英文: 'List and manage golems that belong to the colony.',更新于2026-02-14-->
+  <!--EN: List and manage golems that belong to the colony.-->
+  <TM_GolemButton.description>管理殖民地的傀儡</TM_GolemButton.description>
+</LanguageData>

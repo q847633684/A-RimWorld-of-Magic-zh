@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '施法', 原英文: '无' -> 新英文: 'Using an ability',更新于2026-02-14-->
+  <!--EN: Using an ability-->
+  <TMCastAbilityVerb.reportString>施法</TMCastAbilityVerb.reportString>
+  <!--原中文: '施法', 原英文: '无' -> 新英文: 'Using an ability',更新于2026-02-14-->
+  <!--EN: Using an ability-->
+  <TMCastAbilitySelf.reportString>施法</TMCastAbilitySelf.reportString>
+</LanguageData>

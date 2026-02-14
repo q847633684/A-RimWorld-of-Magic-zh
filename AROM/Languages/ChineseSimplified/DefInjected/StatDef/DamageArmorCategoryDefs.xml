@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Armor Ratings -->
+  <!--原中文: '护甲 - 魔法', 原英文: '无' -> 新英文: 'Armor - Harmony',更新于2026-02-14-->
+  <!--EN: Armor - Harmony-->
+  <ArmorRating_Alignment.label>护甲 - 魔法</ArmorRating_Alignment.label>
+  <!--原中文: '抵御各类魔法属性的伤害，如神圣、暗影或死亡魔法。', 原英文: '无' -> 新英文: 'Protection from alignment based attacks such as holy, shadow, or death magic.',更新于2026-02-14-->
+  <!--EN: Protection from alignment based attacks such as holy, shadow, or death magic.-->
+  <ArmorRating_Alignment.description>抵御各类魔法属性的伤害，如神圣、暗影或死亡魔法。</ArmorRating_Alignment.description>
+  <!--原中文: '护甲 - 魔法', 原英文: '无' -> 新英文: 'Armor - Harmony',更新于2026-02-14-->
+  <!--EN: Armor - Harmony-->
+  <StuffPower_Armor_Harmony.label>护甲 - 魔法</StuffPower_Armor_Harmony.label>
+  <!--原中文: '抵御各类魔法属性的伤害，如神圣、暗影或死亡魔法。', 原英文: '无' -> 新英文: 'Protection from alignment based attacks such as holy, shadow, or death magic.',更新于2026-02-14-->
+  <!--EN: Protection from alignment based attacks such as holy, shadow, or death magic.-->
+  <StuffPower_Armor_Harmony.description>抵御各类魔法属性的伤害，如神圣、暗影或死亡魔法。</StuffPower_Armor_Harmony.description>
+</LanguageData>

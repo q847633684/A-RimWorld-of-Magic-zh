@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '被困', 原英文: '无' -> 新英文: 'trapped',更新于2026-02-14-->
+  <!--EN: trapped-->
+  <TM_NeedTravel.stages.0.label>被困</TM_NeedTravel.stages.0.label>
+  <!--原中文: '我永远被困在这个地方。我需要离开这里，看看世界！', 原英文: '无' -> 新英文: 'I've been stuck at this place forever. I need to get away from here and see the world!',更新于2026-02-14-->
+  <!--EN: I've been stuck at this place forever. I need to get away from here and see the world!-->
+  <TM_NeedTravel.stages.0.description>我永远被困在这个地方。我需要离开这里，看看世界！</TM_NeedTravel.stages.0.description>
+  <!--原中文: '冒险', 原英文: '无' -> 新英文: 'adventuring',更新于2026-02-14-->
+  <!--EN: adventuring-->
+  <TM_NeedTravel.stages.1.label>冒险</TM_NeedTravel.stages.1.label>
+  <!--原中文: '没有什么比在路上看到新地方了.', 原英文: '无' -> 新英文: 'Nothing beats being on the road and seeing new places.',更新于2026-02-14-->
+  <!--EN: Nothing beats being on the road and seeing new places.-->
+  <TM_NeedTravel.stages.1.description>没有什么比在路上看到新地方了.</TM_NeedTravel.stages.1.description>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- leap as a flying object -->
+  <!--原中文: '跳跃', 原英文: '无' -> 新英文: 'leap',更新于2026-02-14-->
+  <!--EN: leap-->
+  <FlyingObject_Leap.label>跳跃</FlyingObject_Leap.label>
+  <!-- Torann Magic poppi thingdef -->
+  <!--原中文: '具有很强迷惑性的可爱非凡的外表, 它们除了依偎在你的怀里和点亮你的生活外什么都不想做.', 原英文: '无' -> 新英文: 'Deceptively harmless and impossibly cute, these little critters want nothing more than to bound into your arms and light up your life.',更新于2026-02-14-->
+  <!--EN: Deceptively harmless and impossibly cute, these little critters want nothing more than to bound into your arms and light up your life.-->
+  <TM_Poppi.description>具有很强迷惑性的可爱非凡的外表, 它们除了依偎在你的怀里和点亮你的生活外什么都不想做.</TM_Poppi.description>
+  <!--原中文: '依偎', 原英文: '无' -> 新英文: 'snuggle',更新于2026-02-14-->
+  <!--EN: snuggle-->
+  <TM_Poppi.tools.0.label>依偎</TM_Poppi.tools.0.label>
+  <!-- Meat Amount: 0 -->
+</LanguageData>

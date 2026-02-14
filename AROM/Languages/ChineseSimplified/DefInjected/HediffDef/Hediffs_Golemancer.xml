@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '雕刻的符文', 原英文: '无' -> 新英文: 'Rune carved',更新于2026-02-14-->
+  <!--EN: Rune carved-->
+  <TM_RuneCarvedPartHD.label>雕刻的符文</TM_RuneCarvedPartHD.label>
+  <!--原中文: '赋予一个身体部位符文的能量。', 原英文: '无' -> 新英文: 'Empowers a body part with runic energy.',更新于2026-02-14-->
+  <!--EN: Empowers a body part with runic energy.-->
+  <TM_RuneCarvedPartHD.description>赋予一个身体部位符文的能量。</TM_RuneCarvedPartHD.description>
+  <!--原中文: '符文(I)', 原英文: '无' -> 新英文: 'Runic (I)',更新于2026-02-14-->
+  <!--EN: Runic (I)-->
+  <TM_RuneCarvedPartHD.stages.0.label>符文(I)</TM_RuneCarvedPartHD.stages.0.label>
+  <!--原中文: '符文(II)', 原英文: '无' -> 新英文: 'Runic (II)',更新于2026-02-14-->
+  <!--EN: Runic (II)-->
+  <TM_RuneCarvedPartHD.stages.1.label>符文(II)</TM_RuneCarvedPartHD.stages.1.label>
+  <!--原中文: '符文(III)', 原英文: '无' -> 新英文: 'Runic (III)',更新于2026-02-14-->
+  <!--EN: Runic (III)-->
+  <TM_RuneCarvedPartHD.stages.2.label>符文(III)</TM_RuneCarvedPartHD.stages.2.label>
+  <!--原中文: '符文(IV)', 原英文: '无' -> 新英文: 'Runic (IV)',更新于2026-02-14-->
+  <!--EN: Runic (IV)-->
+  <TM_RuneCarvedPartHD.stages.3.label>符文(IV)</TM_RuneCarvedPartHD.stages.3.label>
+  <!--原中文: '奥术附魔', 原英文: '无' -> 新英文: 'runic body',更新于2026-02-14-->
+  <!--EN: runic body-->
+  <TM_ArcaneTatooPartHD.label>奥术附魔</TM_ArcaneTatooPartHD.label>
+  <!--原中文: '将奥术能量通过雕刻附魔的方式，刻印在身体上。', 原英文: '无' -> 新英文: 'Engraves the body with arcane symbols and markings.',更新于2026-02-14-->
+  <!--EN: Engraves the body with arcane symbols and markings.-->
+  <TM_ArcaneTatooPartHD.description>将奥术能量通过雕刻附魔的方式，刻印在身体上。</TM_ArcaneTatooPartHD.description>
+  <TM_ArcaneTatooPartHD.stages.0.label>I</TM_ArcaneTatooPartHD.stages.0.label>
+  <TM_ArcaneTatooPartHD.stages.1.label>II</TM_ArcaneTatooPartHD.stages.1.label>
+  <TM_ArcaneTatooPartHD.stages.2.label>III</TM_ArcaneTatooPartHD.stages.2.label>
+  <TM_ArcaneTatooPartHD.stages.3.label>IV</TM_ArcaneTatooPartHD.stages.3.label>
+  <!--原中文: '秘符压力', 原英文: '无' -> 新英文: 'sigil strain',更新于2026-02-14-->
+  <!--EN: sigil strain-->
+  <TM_SigilPainHD.label>秘符压力</TM_SigilPainHD.label>
+  <!--原中文: '保持秘符超出其施法者的承受范围会使施法者紧张，导致疼痛。', 原英文: '无' -> 新英文: 'Maintaining sigils beyond their normal capacity strains the caster, causing pain.',更新于2026-02-14-->
+  <!--EN: Maintaining sigils beyond their normal capacity strains the caster, causing pain.-->
+  <TM_SigilPainHD.description>保持秘符超出其施法者的承受范围会使施法者紧张，导致疼痛。</TM_SigilPainHD.description>
+  <!--原中文: '微不足道', 原英文: '无' -> 新英文: 'negligible',更新于2026-02-14-->
+  <!--EN: negligible-->
+  <TM_SigilPainHD.stages.0.label>微不足道</TM_SigilPainHD.stages.0.label>
+  <TM_SigilPainHD.stages.1.label>I</TM_SigilPainHD.stages.1.label>
+  <TM_SigilPainHD.stages.2.label>II</TM_SigilPainHD.stages.2.label>
+  <TM_SigilPainHD.stages.3.label>III</TM_SigilPainHD.stages.3.label>
+  <TM_SigilPainHD.stages.4.label>IV</TM_SigilPainHD.stages.4.label>
+  <TM_SigilPainHD.stages.5.label>V</TM_SigilPainHD.stages.5.label>
+  <TM_SigilPainHD.stages.6.label>VI</TM_SigilPainHD.stages.6.label>
+  <TM_SigilPainHD.stages.7.label>VII</TM_SigilPainHD.stages.7.label>
+  <!--原中文: '虹吸符文', 原英文: '无' -> 新英文: 'Siphon Brand',更新于2026-02-14-->
+  <!--EN: Siphon Brand-->
+  <TM_SiphonBrandHD.label>虹吸符文</TM_SiphonBrandHD.label>
+  <!--原中文: '慢慢地将法力传递给持符者。', 原英文: '无' -> 新英文: 'Slowly transfers mana to the brand recipient.',更新于2026-02-14-->
+  <!--EN: Slowly transfers mana to the brand recipient.-->
+  <TM_SiphonBrandHD.description>慢慢地将法力传递给持符者。</TM_SiphonBrandHD.description>
+  <!--原中文: '休眠', 原英文: '无' -> 新英文: 'dormant',更新于2026-02-14-->
+  <!--EN: dormant-->
+  <TM_SiphonBrandHD.stages.0.label>休眠</TM_SiphonBrandHD.stages.0.label>
+  <!--原中文: '激增', 原英文: '无' -> 新英文: 'surging',更新于2026-02-14-->
+  <!--EN: surging-->
+  <TM_SiphonBrandHD.stages.2.label>激增</TM_SiphonBrandHD.stages.2.label>
+  <!--原中文: '防御印记', 原英文: '无' -> 新英文: 'Protection Brand',更新于2026-02-14-->
+  <!--EN: Protection Brand-->
+  <TM_ProtectionBrandHD.label>防御印记</TM_ProtectionBrandHD.label>
+  <!--原中文: '防御符文可以防止持符人受到伤害，但在这样做时会消耗部分或全部充能；这个符文会随着时间的推移重新充能。', 原英文: '无' -> 新英文: 'The rune of protection is able prevent the bearer from taking damage but uses some or all of its charge when doing so; this rune recharges over time.',更新于2026-02-14-->
+  <!--EN: The rune of protection is able prevent the bearer from taking damage but uses some or all of its charge when doing so; this rune recharges over time.-->
+  <TM_ProtectionBrandHD.description>防御符文可以防止持符人受到伤害，但在这样做时会消耗部分或全部充能；这个符文会随着时间的推移重新充能。</TM_ProtectionBrandHD.description>
+  <!--原中文: '休眠', 原英文: '无' -> 新英文: 'dormant',更新于2026-02-14-->
+  <!--EN: dormant-->
+  <TM_ProtectionBrandHD.stages.0.label>休眠</TM_ProtectionBrandHD.stages.0.label>
+  <!--原中文: '激增', 原英文: '无' -> 新英文: 'surging',更新于2026-02-14-->
+  <!--EN: surging-->
+  <TM_ProtectionBrandHD.stages.2.label>激增</TM_ProtectionBrandHD.stages.2.label>
+  <!--原中文: '情感印记', 原英文: '无' -> 新英文: 'Emotion Brand',更新于2026-02-14-->
+  <!--EN: Emotion Brand-->
+  <TM_EmotionBrandHD.label>情感印记</TM_EmotionBrandHD.label>
+  <!--原中文: '使情绪增加得更快，减少得更慢；有机率在这个小人精神崩溃时使他恢复正常。', 原英文: '无' -> 新英文: 'Causes mood to increase faster and decrease slower; has a chance to recover a pawn from a mental breakdown when surging.',更新于2026-02-14-->
+  <!--EN: Causes mood to increase faster and decrease slower; has a chance to recover a pawn from a mental breakdown when surging.-->
+  <TM_EmotionBrandHD.description>使情绪增加得更快，减少得更慢；有机率在这个小人精神崩溃时使他恢复正常。</TM_EmotionBrandHD.description>
+  <!--原中文: '休眠', 原英文: '无' -> 新英文: 'dormant',更新于2026-02-14-->
+  <!--EN: dormant-->
+  <TM_EmotionBrandHD.stages.0.label>休眠</TM_EmotionBrandHD.stages.0.label>
+  <!--原中文: '激增', 原英文: '无' -> 新英文: 'surging',更新于2026-02-14-->
+  <!--EN: surging-->
+  <TM_EmotionBrandHD.stages.2.label>激增</TM_EmotionBrandHD.stages.2.label>
+  <!--原中文: '健康印记', 原英文: '无' -> 新英文: 'Fitness Brand',更新于2026-02-14-->
+  <!--EN: Fitness Brand-->
+  <TM_FitnessBrandHD.label>健康印记</TM_FitnessBrandHD.label>
+  <!--原中文: '增加移动和操纵能力。', 原英文: '无' -> 新英文: 'Increases moving and manipulation.',更新于2026-02-14-->
+  <!--EN: Increases moving and manipulation.-->
+  <TM_FitnessBrandHD.description>增加移动和操纵能力。</TM_FitnessBrandHD.description>
+  <!--原中文: '休眠', 原英文: '无' -> 新英文: 'dormant',更新于2026-02-14-->
+  <!--EN: dormant-->
+  <TM_FitnessBrandHD.stages.0.label>休眠</TM_FitnessBrandHD.stages.0.label>
+  <TM_FitnessBrandHD.stages.1.label>I</TM_FitnessBrandHD.stages.1.label>
+  <TM_FitnessBrandHD.stages.2.label>II</TM_FitnessBrandHD.stages.2.label>
+  <TM_FitnessBrandHD.stages.3.label>III</TM_FitnessBrandHD.stages.3.label>
+  <TM_FitnessBrandHD.stages.4.label>IV</TM_FitnessBrandHD.stages.4.label>
+  <!--原中文: '激增I', 原英文: '无' -> 新英文: 'surging I',更新于2026-02-14-->
+  <!--EN: surging I-->
+  <TM_FitnessBrandHD.stages.5.label>激增I</TM_FitnessBrandHD.stages.5.label>
+  <!--原中文: '激增II', 原英文: '无' -> 新英文: 'surging II',更新于2026-02-14-->
+  <!--EN: surging II-->
+  <TM_FitnessBrandHD.stages.6.label>激增II</TM_FitnessBrandHD.stages.6.label>
+  <!--原中文: '激增III', 原英文: '无' -> 新英文: 'surging III',更新于2026-02-14-->
+  <!--EN: surging III-->
+  <TM_FitnessBrandHD.stages.7.label>激增III</TM_FitnessBrandHD.stages.7.label>
+  <!--原中文: '激增IV', 原英文: '无' -> 新英文: 'surging IV',更新于2026-02-14-->
+  <!--EN: surging IV-->
+  <TM_FitnessBrandHD.stages.8.label>激增IV</TM_FitnessBrandHD.stages.8.label>
+  <!--原中文: '激增V', 原英文: '无' -> 新英文: 'surging V',更新于2026-02-14-->
+  <!--EN: surging V-->
+  <TM_FitnessBrandHD.stages.9.label>激增V</TM_FitnessBrandHD.stages.9.label>
+  <!--原中文: '激增VI', 原英文: '无' -> 新英文: 'surging VI',更新于2026-02-14-->
+  <!--EN: surging VI-->
+  <TM_FitnessBrandHD.stages.10.label>激增VI</TM_FitnessBrandHD.stages.10.label>
+  <!--原中文: '知识印记', 原英文: '无' -> 新英文: 'Awareness Brand',更新于2026-02-14-->
+  <!--EN: Awareness Brand-->
+  <TM_AwarenessBrandHD.label>知识印记</TM_AwarenessBrandHD.label>
+  <!--原中文: '增强意识和思维。', 原英文: '无' -> 新英文: 'Increases senses and perception.',更新于2026-02-14-->
+  <!--EN: Increases senses and perception.-->
+  <TM_AwarenessBrandHD.description>增强意识和思维。</TM_AwarenessBrandHD.description>
+  <!--原中文: '休眠', 原英文: '无' -> 新英文: 'dormant',更新于2026-02-14-->
+  <!--EN: dormant-->
+  <TM_AwarenessBrandHD.stages.0.label>休眠</TM_AwarenessBrandHD.stages.0.label>
+  <TM_AwarenessBrandHD.stages.1.label>I</TM_AwarenessBrandHD.stages.1.label>
+  <TM_AwarenessBrandHD.stages.2.label>II</TM_AwarenessBrandHD.stages.2.label>
+  <TM_AwarenessBrandHD.stages.3.label>III</TM_AwarenessBrandHD.stages.3.label>
+  <TM_AwarenessBrandHD.stages.4.label>IV</TM_AwarenessBrandHD.stages.4.label>
+  <!--原中文: '激增I', 原英文: '无' -> 新英文: 'surging I',更新于2026-02-14-->
+  <!--EN: surging I-->
+  <TM_AwarenessBrandHD.stages.5.label>激增I</TM_AwarenessBrandHD.stages.5.label>
+  <!--原中文: '激增II', 原英文: '无' -> 新英文: 'surging II',更新于2026-02-14-->
+  <!--EN: surging II-->
+  <TM_AwarenessBrandHD.stages.6.label>激增II</TM_AwarenessBrandHD.stages.6.label>
+  <!--原中文: '激增III', 原英文: '无' -> 新英文: 'surging III',更新于2026-02-14-->
+  <!--EN: surging III-->
+  <TM_AwarenessBrandHD.stages.7.label>激增III</TM_AwarenessBrandHD.stages.7.label>
+  <!--原中文: '激增IV', 原英文: '无' -> 新英文: 'surging IV',更新于2026-02-14-->
+  <!--EN: surging IV-->
+  <TM_AwarenessBrandHD.stages.8.label>激增IV</TM_AwarenessBrandHD.stages.8.label>
+  <!--原中文: '激增V', 原英文: '无' -> 新英文: 'surging V',更新于2026-02-14-->
+  <!--EN: surging V-->
+  <TM_AwarenessBrandHD.stages.9.label>激增V</TM_AwarenessBrandHD.stages.9.label>
+  <!--原中文: '激增VI', 原英文: '无' -> 新英文: 'surging VI',更新于2026-02-14-->
+  <!--EN: surging VI-->
+  <TM_AwarenessBrandHD.stages.10.label>激增VI</TM_AwarenessBrandHD.stages.10.label>
+  <!--原中文: '生命符文', 原英文: '无' -> 新英文: 'Vitality Brand',更新于2026-02-14-->
+  <!--EN: Vitality Brand-->
+  <TM_VitalityBrandHD.label>生命符文</TM_VitalityBrandHD.label>
+  <!--原中文: '增强活力和恢复能力。', 原英文: '无' -> 新英文: 'Increases vitality and recovery.',更新于2026-02-14-->
+  <!--EN: Increases vitality and recovery.-->
+  <TM_VitalityBrandHD.description>增强活力和恢复能力。</TM_VitalityBrandHD.description>
+  <!--原中文: '休眠', 原英文: '无' -> 新英文: 'dormant',更新于2026-02-14-->
+  <!--EN: dormant-->
+  <TM_VitalityBrandHD.stages.0.label>休眠</TM_VitalityBrandHD.stages.0.label>
+  <TM_VitalityBrandHD.stages.1.label>I</TM_VitalityBrandHD.stages.1.label>
+  <TM_VitalityBrandHD.stages.2.label>II</TM_VitalityBrandHD.stages.2.label>
+  <TM_VitalityBrandHD.stages.3.label>III</TM_VitalityBrandHD.stages.3.label>
+  <TM_VitalityBrandHD.stages.4.label>IV</TM_VitalityBrandHD.stages.4.label>
+  <!--原中文: '激增I', 原英文: '无' -> 新英文: 'surging I',更新于2026-02-14-->
+  <!--EN: surging I-->
+  <TM_VitalityBrandHD.stages.5.label>激增I</TM_VitalityBrandHD.stages.5.label>
+  <!--原中文: '激增II', 原英文: '无' -> 新英文: 'surging II',更新于2026-02-14-->
+  <!--EN: surging II-->
+  <TM_VitalityBrandHD.stages.6.label>激增II</TM_VitalityBrandHD.stages.6.label>
+  <!--原中文: '激增III', 原英文: '无' -> 新英文: 'surging III',更新于2026-02-14-->
+  <!--EN: surging III-->
+  <TM_VitalityBrandHD.stages.7.label>激增III</TM_VitalityBrandHD.stages.7.label>
+  <!--原中文: '激增IV', 原英文: '无' -> 新英文: 'surging IV',更新于2026-02-14-->
+  <!--EN: surging IV-->
+  <TM_VitalityBrandHD.stages.8.label>激增IV</TM_VitalityBrandHD.stages.8.label>
+  <!--原中文: '激增V', 原英文: '无' -> 新英文: 'surging V',更新于2026-02-14-->
+  <!--EN: surging V-->
+  <TM_VitalityBrandHD.stages.9.label>激增V</TM_VitalityBrandHD.stages.9.label>
+  <!--原中文: '激增VI', 原英文: '无' -> 新英文: 'surging VI',更新于2026-02-14-->
+  <!--EN: surging VI-->
+  <TM_VitalityBrandHD.stages.10.label>激增VI</TM_VitalityBrandHD.stages.10.label>
+  <!--原中文: '思想链接', 原英文: '无' -> 新英文: 'Mind-link',更新于2026-02-14-->
+  <!--EN: Mind-link-->
+  <TM_GolemancyEfficiencyHD.label>思想链接</TM_GolemancyEfficiencyHD.label>
+  <!--原中文: '该傀儡与一名傀儡使相连，并获得了更强的思想。', 原英文: '无' -> 新英文: 'The golem is linked to a golemancer and has acquired a higher state of awareness.',更新于2026-02-14-->
+  <!--EN: The golem is linked to a golemancer and has acquired a higher state of awareness.-->
+  <TM_GolemancyEfficiencyHD.description>该傀儡与一名傀儡使相连，并获得了更强的思想。</TM_GolemancyEfficiencyHD.description>
+  <TM_GolemancyEfficiencyHD.stages.1.label>I</TM_GolemancyEfficiencyHD.stages.1.label>
+  <TM_GolemancyEfficiencyHD.stages.2.label>II</TM_GolemancyEfficiencyHD.stages.2.label>
+  <TM_GolemancyEfficiencyHD.stages.3.label>III</TM_GolemancyEfficiencyHD.stages.3.label>
+  <TM_GolemancyEfficiencyHD.stages.4.label>IV</TM_GolemancyEfficiencyHD.stages.4.label>
+  <TM_GolemancyEfficiencyHD.stages.5.label>V</TM_GolemancyEfficiencyHD.stages.5.label>
+  <!--原中文: '傀儡链接', 原英文: '无' -> 新英文: 'Golem bond',更新于2026-02-14-->
+  <!--EN: Golem bond-->
+  <TM_GolemancyVersatilityHD.label>傀儡链接</TM_GolemancyVersatilityHD.label>
+  <!--原中文: '这个傀儡使与一个傀儡相连，能够将傀儡的部分能量吸取出来供个人使用。', 原英文: '无' -> 新英文: 'The golemancer is linked to a golem and is able to siphon off some of its energy for personal use.',更新于2026-02-14-->
+  <!--EN: The golemancer is linked to a golem and is able to siphon off some of its energy for personal use.-->
+  <TM_GolemancyVersatilityHD.description>这个傀儡使与一个傀儡相连，能够将傀儡的部分能量吸取出来供个人使用。</TM_GolemancyVersatilityHD.description>
+  <TM_GolemancyVersatilityHD.stages.1.label>I</TM_GolemancyVersatilityHD.stages.1.label>
+  <TM_GolemancyVersatilityHD.stages.2.label>II</TM_GolemancyVersatilityHD.stages.2.label>
+  <TM_GolemancyVersatilityHD.stages.3.label>III</TM_GolemancyVersatilityHD.stages.3.label>
+  <TM_GolemancyVersatilityHD.stages.4.label>IV</TM_GolemancyVersatilityHD.stages.4.label>
+  <TM_GolemancyVersatilityHD.stages.5.label>V</TM_GolemancyVersatilityHD.stages.5.label>
+  <!--原中文: '傀儡强化', 原英文: '无' -> 新英文: 'Golem augmentation',更新于2026-02-14-->
+  <!--EN: Golem augmentation-->
+  <TM_GolemancyPowerHD.label>傀儡强化</TM_GolemancyPowerHD.label>
+  <!--原中文: '该傀儡连接到一个能够增加傀儡力量和耐力的傀儡使。', 原英文: '无' -> 新英文: 'The golem is linked to a golemancer able to augment the power and endurance output of the golem.',更新于2026-02-14-->
+  <!--EN: The golem is linked to a golemancer able to augment the power and endurance output of the golem.-->
+  <TM_GolemancyPowerHD.description>该傀儡连接到一个能够增加傀儡力量和耐力的傀儡使。</TM_GolemancyPowerHD.description>
+  <TM_GolemancyPowerHD.stages.1.label>I</TM_GolemancyPowerHD.stages.1.label>
+  <TM_GolemancyPowerHD.stages.2.label>II</TM_GolemancyPowerHD.stages.2.label>
+  <TM_GolemancyPowerHD.stages.3.label>III</TM_GolemancyPowerHD.stages.3.label>
+  <TM_GolemancyPowerHD.stages.4.label>IV</TM_GolemancyPowerHD.stages.4.label>
+  <TM_GolemancyPowerHD.stages.5.label>V</TM_GolemancyPowerHD.stages.5.label>
+</LanguageData>

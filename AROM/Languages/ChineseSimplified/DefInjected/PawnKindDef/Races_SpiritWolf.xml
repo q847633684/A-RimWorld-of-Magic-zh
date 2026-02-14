@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Dire Wolf -->
+  <!--原中文: '幽灵狼', 原英文: '无' -> 新英文: 'spirit wolf',更新于2026-02-14-->
+  <!--EN: spirit wolf-->
+  <TM_SpiritWolf.label>幽灵狼</TM_SpiritWolf.label>
+  <!--原中文: '幽灵狼', 原英文: '无' -> 新英文: 'spirit wolves',更新于2026-02-14-->
+  <!--EN: spirit wolves-->
+  <TM_SpiritWolf.labelPlural>幽灵狼</TM_SpiritWolf.labelPlural>
+</LanguageData>

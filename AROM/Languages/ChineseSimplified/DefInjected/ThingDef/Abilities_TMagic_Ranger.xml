@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '默认攻击弹药', 原英文: '无' -> 新英文: 'default ranger projectile',更新于2026-02-14-->
+  <!--EN: default ranger projectile-->
+  <Projectile_Ranger.label>默认攻击弹药</Projectile_Ranger.label>
+  <!-- Arrow storm -->
+  <!--原中文: '箭雨风暴', 原英文: '无' -> 新英文: 'arrow storm',更新于2026-02-14-->
+  <!--EN: arrow storm-->
+  <Projectile_ArrowStorm.label>箭雨风暴</Projectile_ArrowStorm.label>
+</LanguageData>

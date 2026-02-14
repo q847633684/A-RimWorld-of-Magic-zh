@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '催眠曲', 原英文: '无' -> 新英文: 'Lullaby',更新于2026-02-14-->
+  <!--EN: Lullaby-->
+  <TM_LullabyHD.label>催眠曲</TM_LullabyHD.label>
+  <!--原中文: '减低意识，昏昏欲睡。', 原英文: '无' -> 新英文: 'Reduces the consciousness of a pawn.',更新于2026-02-14-->
+  <!--EN: Reduces the consciousness of a pawn.-->
+  <TM_LullabyHD.description>减低意识，昏昏欲睡。</TM_LullabyHD.description>
+  <TM_LullabyHD.stages.0.label>I</TM_LullabyHD.stages.0.label>
+  <TM_LullabyHD.stages.1.label>II</TM_LullabyHD.stages.1.label>
+  <TM_LullabyHD.stages.2.label>III</TM_LullabyHD.stages.2.label>
+  <TM_LullabyHD.stages.3.label>IV</TM_LullabyHD.stages.3.label>
+  <!--原中文: '灵感迸发', 原英文: '无' -> 新英文: 'Inspirational',更新于2026-02-14-->
+  <!--EN: Inspirational-->
+  <TM_InspirationalHD.label>灵感迸发</TM_InspirationalHD.label>
+  <!--原中文: '受到启发。', 原英文: '无' -> 新英文: 'Causes others to gain inspirations.',更新于2026-02-14-->
+  <!--EN: Causes others to gain inspirations.-->
+  <TM_InspirationalHD.description>受到启发。</TM_InspirationalHD.description>
+  <!--原中文: '吟游诗人', 原英文: '无' -> 新英文: 'Bard',更新于2026-02-14-->
+  <!--EN: Bard-->
+  <TM_InspirationalHD.stages.0.label>吟游诗人</TM_InspirationalHD.stages.0.label>
+  <!--原中文: '娱乐', 原英文: '无' -> 新英文: 'Entertaining',更新于2026-02-14-->
+  <!--EN: Entertaining-->
+  <TM_EntertainingHD.label>娱乐</TM_EntertainingHD.label>
+  <!--原中文: '积极的与他人交流。', 原英文: '无' -> 新英文: 'Actively seeks out other pawns to cheer up and entertain.',更新于2026-02-14-->
+  <!--EN: Actively seeks out other pawns to cheer up and entertain.-->
+  <TM_EntertainingHD.description>积极的与他人交流。</TM_EntertainingHD.description>
+  <!--原中文: '吟游诗人', 原英文: '无' -> 新英文: 'Bard',更新于2026-02-14-->
+  <!--EN: Bard-->
+  <TM_EntertainingHD.stages.0.label>吟游诗人</TM_EntertainingHD.stages.0.label>
+  <!--原中文: '战斗圣歌', 原英文: '无' -> 新英文: 'battle chant',更新于2026-02-14-->
+  <!--EN: battle chant-->
+  <TM_SingBattleHymnHD.label>战斗圣歌</TM_SingBattleHymnHD.label>
+  <!--原中文: '嘹亮的圣歌激励着自己和队友。', 原英文: '无' -> 新英文: 'Chanting a resounding battle hymn to spur allies to victory.',更新于2026-02-14-->
+  <!--EN: Chanting a resounding battle hymn to spur allies to victory.-->
+  <TM_SingBattleHymnHD.description>嘹亮的圣歌激励着自己和队友。</TM_SingBattleHymnHD.description>
+  <!--原中文: '吟游诗人', 原英文: '无' -> 新英文: 'Bard',更新于2026-02-14-->
+  <!--EN: Bard-->
+  <TM_SingBattleHymnHD.stages.0.label>吟游诗人</TM_SingBattleHymnHD.stages.0.label>
+  <!-- Battle hymn -->
+  <!--原中文: '战斗之曲', 原英文: '无' -> 新英文: 'Battle Hymn',更新于2026-02-14-->
+  <!--EN: Battle Hymn-->
+  <TM_BattleHymnHD.label>战斗之曲</TM_BattleHymnHD.label>
+  <!--原中文: '受到战斗之曲的鼓舞。', 原英文: '无' -> 新英文: 'Inspired and energized by a battle hymn.',更新于2026-02-14-->
+  <!--EN: Inspired and energized by a battle hymn.-->
+  <TM_BattleHymnHD.description>受到战斗之曲的鼓舞。</TM_BattleHymnHD.description>
+  <TM_BattleHymnHD.stages.0.label>I</TM_BattleHymnHD.stages.0.label>
+  <TM_BattleHymnHD.stages.1.label>II</TM_BattleHymnHD.stages.1.label>
+  <TM_BattleHymnHD.stages.2.label>III</TM_BattleHymnHD.stages.2.label>
+  <TM_BattleHymnHD.stages.3.label>IV</TM_BattleHymnHD.stages.3.label>
+  <TM_BattleHymnHD.stages.4.label>V</TM_BattleHymnHD.stages.4.label>
+  <TM_BattleHymnHD.stages.5.label>VI</TM_BattleHymnHD.stages.5.label>
+  <TM_BattleHymnHD.stages.6.label>VII</TM_BattleHymnHD.stages.6.label>
+  <TM_BattleHymnHD.stages.7.label>VIII</TM_BattleHymnHD.stages.7.label>
+  <TM_BattleHymnHD.stages.8.label>IX</TM_BattleHymnHD.stages.8.label>
+  <TM_BattleHymnHD.stages.9.label>X</TM_BattleHymnHD.stages.9.label>
+  <!--原中文: '纪声', 原英文: '无' -> 新英文: 'Discord',更新于2026-02-14-->
+  <!--EN: Discord-->
+  <TM_DiscordHD.label>纪声</TM_DiscordHD.label>
+  <!--原中文: '在精神压力下。', 原英文: '无' -> 新英文: 'Under mental duress.',更新于2026-02-14-->
+  <!--EN: Under mental duress.-->
+  <TM_DiscordHD.description>在精神压力下。</TM_DiscordHD.description>
+  <!--原中文: '精神阴霾', 原英文: '无' -> 新英文: 'mental haze',更新于2026-02-14-->
+  <!--EN: mental haze-->
+  <TM_DiscordHD.stages.0.label>精神阴霾</TM_DiscordHD.stages.0.label>
+  <!--原中文: '精神畸变', 原英文: '无' -> 新英文: 'distortion',更新于2026-02-14-->
+  <!--EN: distortion-->
+  <TM_DiscordHD.stages.1.label>精神畸变</TM_DiscordHD.stages.1.label>
+  <!--原中文: '精神不安', 原英文: '无' -> 新英文: 'unstable',更新于2026-02-14-->
+  <!--EN: unstable-->
+  <TM_DiscordHD.stages.2.label>精神不安</TM_DiscordHD.stages.2.label>
+  <!--原中文: '精神错乱', 原英文: '无' -> 新英文: 'insanity',更新于2026-02-14-->
+  <!--EN: insanity-->
+  <TM_DiscordHD.stages.3.label>精神错乱</TM_DiscordHD.stages.3.label>
+  <!--原中文: '纪声', 原英文: '无' -> 新英文: 'Discord',更新于2026-02-14-->
+  <!--EN: Discord-->
+  <TM_DiscordSafeHD.label>纪声</TM_DiscordSafeHD.label>
+  <!--原中文: '在精神压力下。', 原英文: '无' -> 新英文: 'Under mental duress.',更新于2026-02-14-->
+  <!--EN: Under mental duress.-->
+  <TM_DiscordSafeHD.description>在精神压力下。</TM_DiscordSafeHD.description>
+  <!--原中文: '精神阴霾', 原英文: '无' -> 新英文: 'mental haze',更新于2026-02-14-->
+  <!--EN: mental haze-->
+  <TM_DiscordSafeHD.stages.0.label>精神阴霾</TM_DiscordSafeHD.stages.0.label>
+  <!--原中文: '精神畸变', 原英文: '无' -> 新英文: 'distortion',更新于2026-02-14-->
+  <!--EN: distortion-->
+  <TM_DiscordSafeHD.stages.1.label>精神畸变</TM_DiscordSafeHD.stages.1.label>
+  <!--原中文: '精神不安', 原英文: '无' -> 新英文: 'unstable',更新于2026-02-14-->
+  <!--EN: unstable-->
+  <TM_DiscordSafeHD.stages.2.label>精神不安</TM_DiscordSafeHD.stages.2.label>
+  <!--原中文: '精神错乱', 原英文: '无' -> 新英文: 'overwhelmed',更新于2026-02-14-->
+  <!--EN: overwhelmed-->
+  <TM_DiscordSafeHD.stages.3.label>精神错乱</TM_DiscordSafeHD.stages.3.label>
+</LanguageData>

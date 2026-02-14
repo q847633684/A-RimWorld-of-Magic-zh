@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Ranger training -->
+  <!--原中文: '猎人训练', 原英文: '无' -> 新英文: 'Ranger Training',更新于2026-02-14-->
+  <!--EN: Ranger Training-->
+  <TM_RangerTraining.label>猎人训练</TM_RangerTraining.label>
+  <!--原中文: '用来升级猎人特性。此能力只需要在训练完成后使用。\n	\n等级:\n见习猎人: 移动速度+0.15c/s，瞄准延迟-15%，免疫增益+20%，舒适温度+-10C，毒性敏感性-10% \n驯养和训练动物+5%，屠宰速度+5%，冶炼和建造速度-10% \n\n初级猎人: 移动速度+0.2c/s，瞄准延迟-20%，免疫增益+25%，舒适温度+-15C，毒性敏感性-15% \n驯养和训练动物+8%，屠宰速度+10%，冶炼和建造速度-15% \n\n高级猎人: 移动速度+0.25c/s，瞄准延迟-30%，免疫增益+30%，舒适温度+-18C，毒性敏感性-20% \n驯养和训练动物+10%，屠宰速度+15%，冶炼和建造速度-18% \n\n传奇猎人: 移动速度+0.3c/s，瞄准延迟-40%，免疫增益+35%，舒适温度+-25C，毒性敏感性-25% \n驯养和训练动物+12%，屠宰速度+20%，冶炼和建造速度-20%', 原英文: '无' -> 新英文: 'Training that the ranger's professional skills. Each level will increase the ranger trait to reflect the skill of the ranger.
+	
+Ranks:
+Woodsman: Speed +0.15c/s, Aiming Delay -15%, Immunity Gain +20%, Comf. Temperature +-10C., Toxic Sensitivity -10%
+Tame and train animal +5%, butchering speed +5%, smelting and construction speed -10%
+
+Hunter: Speed +0.2c/s, Aiming Delay -20%, Immunity Gain +25%, Comf. Temperature +-15C., Toxic Sensitivity -15%
+Tame and train animal +8%, butchering speed +10%, smelting and construction speed -15%
+
+Scout: Speed +0.25c/s, Aiming Delay -30%, Immunity Gain +30%, Comf. Temperature +-18C., Toxic Sensitivity -20%
+Tame and train animal +10%, butchering speed +15%, smelting and construction speed -18%
+
+Ranger: Speed +0.3c/s, Aiming Delay -40%, Immunity Gain +35%, Comf. Temperature +-25C., Toxic Sensitivity -25%
+Tame and train animal +12%, butchering speed +20%, smelting and construction speed -20%',更新于2026-02-14-->
+  <!--EN: Training that the ranger's professional skills. Each level will increase the ranger trait to reflect the skill of the ranger.
+	
+Ranks:
+Woodsman: Speed +0.15c/s, Aiming Delay -15%, Immunity Gain +20%, Comf. Temperature +-10C., Toxic Sensitivity -10%
+Tame and train animal +5%, butchering speed +5%, smelting and construction speed -10%
+
+Hunter: Speed +0.2c/s, Aiming Delay -20%, Immunity Gain +25%, Comf. Temperature +-15C., Toxic Sensitivity -15%
+Tame and train animal +8%, butchering speed +10%, smelting and construction speed -15%
+
+Scout: Speed +0.25c/s, Aiming Delay -30%, Immunity Gain +30%, Comf. Temperature +-18C., Toxic Sensitivity -20%
+Tame and train animal +10%, butchering speed +15%, smelting and construction speed -18%
+
+Ranger: Speed +0.3c/s, Aiming Delay -40%, Immunity Gain +35%, Comf. Temperature +-25C., Toxic Sensitivity -25%
+Tame and train animal +12%, butchering speed +20%, smelting and construction speed -20%-->
+  <TM_RangerTraining.description>用来升级猎人特性。此能力只需要在训练完成后使用。\n	\n等级:\n见习猎人: 移动速度+0.15c/s，瞄准延迟-15%，免疫增益+20%，舒适温度+-10C，毒性敏感性-10% \n驯养和训练动物+5%，屠宰速度+5%，冶炼和建造速度-10% \n\n初级猎人: 移动速度+0.2c/s，瞄准延迟-20%，免疫增益+25%，舒适温度+-15C，毒性敏感性-15% \n驯养和训练动物+8%，屠宰速度+10%，冶炼和建造速度-15% \n\n高级猎人: 移动速度+0.25c/s，瞄准延迟-30%，免疫增益+30%，舒适温度+-18C，毒性敏感性-20% \n驯养和训练动物+10%，屠宰速度+15%，冶炼和建造速度-18% \n\n传奇猎人: 移动速度+0.3c/s，瞄准延迟-40%，免疫增益+35%，舒适温度+-25C，毒性敏感性-25% \n驯养和训练动物+12%，屠宰速度+20%，冶炼和建造速度-20%</TM_RangerTraining.description>
+  <!-- Bow Training -->
+  <!--原中文: '弓箭精通', 原英文: '无' -> 新英文: 'Bow Training',更新于2026-02-14-->
+  <!--EN: Bow Training-->
+  <TM_BowTraining.label>弓箭精通</TM_BowTraining.label>
+  <!--原中文: '用来升级使用者的被动增益。此能力仅需要在提升弓箭精通时使用。\n	\nLevel 0: 听觉和视觉+20%，+20%基础伤害\nLevel 1: 听觉和视觉+40%，+40%基础伤害\nLevel 2: 听觉和视觉+60%，呼吸+15% ,+60%基础伤害\nLevel 3: 听觉和视觉+80%，呼吸+25%，血液循环+10%，+80%基础伤害', 原英文: '无' -> 新英文: 'Training that increases damage and accuracy when using a bow.
+	
+Level 0: Hearing and Sight +20%, +20% bow damage
+Level 1: Hearing and Sight +40%, +40% bow damage
+Level 2: Hearing and Sight +60%, Breathing +15%, +60% bow damage
+Level 3: Hearing and Sight +80%, Breathing +25%, Blood filtration +10%, +80% bow damage',更新于2026-02-14-->
+  <!--EN: Training that increases damage and accuracy when using a bow.
+	
+Level 0: Hearing and Sight +20%, +20% bow damage
+Level 1: Hearing and Sight +40%, +40% bow damage
+Level 2: Hearing and Sight +60%, Breathing +15%, +60% bow damage
+Level 3: Hearing and Sight +80%, Breathing +25%, Blood filtration +10%, +80% bow damage-->
+  <TM_BowTraining.description>用来升级使用者的被动增益。此能力仅需要在提升弓箭精通时使用。\n	\nLevel 0: 听觉和视觉+20%，+20%基础伤害\nLevel 1: 听觉和视觉+40%，+40%基础伤害\nLevel 2: 听觉和视觉+60%，呼吸+15% ,+60%基础伤害\nLevel 3: 听觉和视觉+80%，呼吸+25%，血液循环+10%，+80%基础伤害</TM_BowTraining.description>
+  <!-- Poison Trap -->
+  <!-- Animal Friend -->
+  <!--原中文: '动物伙伴', 原英文: '无' -> 新英文: 'Animal Bond',更新于2026-02-14-->
+  <!--EN: Animal Bond-->
+  <TM_AnimalFriend.label>动物伙伴</TM_AnimalFriend.label>
+  <!--原中文: '在野外，漫游者可以与野生动物绑定契约。漫游者只能绑定一份契约; 绑定一份新的契约会使现存的契约失效并且失去契约的动物会永远地离开。契约升级后需要重新绑定才能生效。\n  \n  契约动物获得的身体强化同样会应用于此动物的同类，作为回报，契约动物会帮助漫游者做任何它可以做到的事情。', 原英文: '无' -> 新英文: 'At home in the wild, the ranger is able to form a bond with creatures of the wild. 
+		
+Rangers are only able to form a single bond and maintaining the bond reduces the ranger's max stamina by 30; making a new bond breaks an existing bond and will cause the animal with a broken bond to leave forever. Failed attempts may cause the animal to turn manhunter. When using animal bond on the bonded animal may allow the animal to remain in the colony - the chance the animal remains is based on its wildness and how long it had a bond with the ranger.
+
+The increase in physical capability applies to the animal kin only, in return, the bonded animal will assist the ranger in whatever capacity the animal is capable.
+A bond can be removed by using this ability on a bonded creature.',更新于2026-02-14-->
+  <!--EN: At home in the wild, the ranger is able to form a bond with creatures of the wild. 
+		
+Rangers are only able to form a single bond and maintaining the bond reduces the ranger's max stamina by 30; making a new bond breaks an existing bond and will cause the animal with a broken bond to leave forever. Failed attempts may cause the animal to turn manhunter. When using animal bond on the bonded animal may allow the animal to remain in the colony - the chance the animal remains is based on its wildness and how long it had a bond with the ranger.
+
+The increase in physical capability applies to the animal kin only, in return, the bonded animal will assist the ranger in whatever capacity the animal is capable.
+A bond can be removed by using this ability on a bonded creature.-->
+  <TM_AnimalFriend.description>在野外，漫游者可以与野生动物绑定契约。漫游者只能绑定一份契约; 绑定一份新的契约会使现存的契约失效并且失去契约的动物会永远地离开。契约升级后需要重新绑定才能生效。\n  \n  契约动物获得的身体强化同样会应用于此动物的同类，作为回报，契约动物会帮助漫游者做任何它可以做到的事情。</TM_AnimalFriend.description>
+  <!-- Arrow storm -->
+  <!--原中文: '向目标射出5支箭。\n距离: 32', 原英文: '无' -> 新英文: 'Fire a volley of 5 arrows at a target.
+Range: 32',更新于2026-02-14-->
+  <!--EN: Fire a volley of 5 arrows at a target.
+Range: 32-->
+  <TM_ArrowStorm.description>向目标射出5支箭。\n距离: 32</TM_ArrowStorm.description>
+  <!--原中文: '箭雨风暴（II）', 原英文: '无' -> 新英文: 'Arrow Storm (I)',更新于2026-02-14-->
+  <!--EN: Arrow Storm (I)-->
+  <TM_ArrowStorm_I.label>箭雨风暴（II）</TM_ArrowStorm_I.label>
+  <!--原中文: '向目标射出6支箭。\n距离: 34', 原英文: '无' -> 新英文: 'Fire a volley of 6 arrows at a target.
+Range: 34',更新于2026-02-14-->
+  <!--EN: Fire a volley of 6 arrows at a target.
+Range: 34-->
+  <TM_ArrowStorm_I.description>向目标射出6支箭。\n距离: 34</TM_ArrowStorm_I.description>
+  <!--原中文: '箭雨风暴（III）', 原英文: '无' -> 新英文: 'Arrow Storm (II)',更新于2026-02-14-->
+  <!--EN: Arrow Storm (II)-->
+  <TM_ArrowStorm_II.label>箭雨风暴（III）</TM_ArrowStorm_II.label>
+  <!--原中文: '向目标射出7支箭。\n距离: 36', 原英文: '无' -> 新英文: 'Fire a rapid volley of 7 arrows at a target.
+Range: 36',更新于2026-02-14-->
+  <!--EN: Fire a rapid volley of 7 arrows at a target.
+Range: 36-->
+  <TM_ArrowStorm_II.description>向目标射出7支箭。\n距离: 36</TM_ArrowStorm_II.description>
+  <!--原中文: '箭雨风暴（IV）', 原英文: '无' -> 新英文: 'Arrow Storm (III)',更新于2026-02-14-->
+  <!--EN: Arrow Storm (III)-->
+  <TM_ArrowStorm_III.label>箭雨风暴（IV）</TM_ArrowStorm_III.label>
+  <!--原中文: '向目标射出8支箭。\n距离: 38', 原英文: '无' -> 新英文: 'Fire a rapid volley of 8 arrows at a target.
+Range: 38',更新于2026-02-14-->
+  <!--EN: Fire a rapid volley of 8 arrows at a target.
+Range: 38-->
+  <TM_ArrowStorm_III.description>向目标射出8支箭。\n距离: 38</TM_ArrowStorm_III.description>
+</LanguageData>

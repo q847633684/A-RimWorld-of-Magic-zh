@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: 'questDescription->[asker_nameFull], [asker_faction_leaderTitle] 属于 [asker_faction_name],已经给我们发了条信息。显然，[siteFaction_pawnsPlural] 已经在附近建立了一个前哨站，并威胁要攻击那个营地，除非[asker_faction_name]营地交出他们的文物，营地由 [siteFaction_name]. 控制。\n[asker_nameDef]要求我们消灭这些邪恶的流氓，这意味着我们摧毁他们或将他们赶出前哨。 [asker_label]说 [sitePart0_description].。\如果我们成功了，[asker_label] 会给我们发送一些奖励；[allRewardsDescriptions]', 原英文: '无' -> 新英文: 'questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] have set up a nearby outpost and are threatening to attack the village unless the [asker_faction_name] village turns over their artifacts. The camp is controlled by [siteFaction_name].
+\n[asker_nameDef] is asking us to eliminate these vile hooligans, which means destroying them or chasing them from their outpost. [asker_label] says that [sitePart0_description].
+\nIf we succeed [asker_label] will send us some of the artifacts; [allRewardsDescriptions]',更新于2026-02-14-->
+  <!--EN: questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] have set up a nearby outpost and are threatening to attack the village unless the [asker_faction_name] village turns over their artifacts. The camp is controlled by [siteFaction_name].
+\n[asker_nameDef] is asking us to eliminate these vile hooligans, which means destroying them or chasing them from their outpost. [asker_label] says that [sitePart0_description].
+\nIf we succeed [asker_label] will send us some of the artifacts; [allRewardsDescriptions]-->
+  <TM_OpportunitySite_ArcaneBandits.questDescriptionRules.rulesStrings.0>questDescription-&amp;gt;[asker_nameFull], [asker_faction_leaderTitle] 属于 [asker_faction_name],已经给我们发了条信息。显然，[siteFaction_pawnsPlural] 已经在附近建立了一个前哨站，并威胁要攻击那个营地，除非[asker_faction_name]营地交出他们的文物，营地由 [siteFaction_name]. 控制。\n[asker_nameDef]要求我们消灭这些邪恶的流氓，这意味着我们摧毁他们或将他们赶出前哨。 [asker_label]说 [sitePart0_description].。\如果我们成功了，[asker_label] 会给我们发送一些奖励；[allRewardsDescriptions]</TM_OpportunitySite_ArcaneBandits.questDescriptionRules.rulesStrings.0>
+  <!--原中文: 'questName->[asker_nameDef]'的奥术盗贼', 原英文: '无' -> 新英文: 'questName->[asker_nameDef]'s Arcane Bandits',更新于2026-02-14-->
+  <!--EN: questName->[asker_nameDef]'s Arcane Bandits-->
+  <TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.0>questName-&amp;gt;[asker_nameDef]&amp;apos;的奥术盗贼</TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.0>
+  <!--原中文: 'questName->奥术盗贼营地[enemyFaction_pawnsPlural]', 原英文: '无' -> 新英文: 'questName->Arcane Bandit Camp of [enemyFaction_pawnsPlural]',更新于2026-02-14-->
+  <!--EN: questName->Arcane Bandit Camp of [enemyFaction_pawnsPlural]-->
+  <TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.1>questName-&amp;gt;奥术盗贼营地[enemyFaction_pawnsPlural]</TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.1>
+  <!--原中文: 'questName->奥术盗贼营地', 原英文: '无' -> 新英文: 'questName->The Arcane Bandit Camp',更新于2026-02-14-->
+  <!--EN: questName->The Arcane Bandit Camp-->
+  <TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.2>questName-&amp;gt;奥术盗贼营地</TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.2>
+  <!--原中文: 'questName->神秘盗贼营地', 原英文: '无' -> 新英文: 'questName->The Arcane Raider Camp',更新于2026-02-14-->
+  <!--EN: questName->The Arcane Raider Camp-->
+  <TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.3>questName-&amp;gt;神秘盗贼营地</TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.3>
+  <!--原中文: 'questName->消灭奥术盗贼', 原英文: '无' -> 新英文: 'questName->Destroy the Arcane Bandits',更新于2026-02-14-->
+  <!--EN: questName->Destroy the Arcane Bandits-->
+  <TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.4>questName-&amp;gt;消灭奥术盗贼</TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.4>
+  <!--原中文: 'questName->帮助 [asker_nameDef] 保护魔法文物', 原英文: '无' -> 新英文: 'questName->Helping [asker_nameDef] Protect Magical Artifacts',更新于2026-02-14-->
+  <!--EN: questName->Helping [asker_nameDef] Protect Magical Artifacts-->
+  <TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.5>questName-&amp;gt;帮助 [asker_nameDef] 保护魔法文物</TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.5>
+</LanguageData>

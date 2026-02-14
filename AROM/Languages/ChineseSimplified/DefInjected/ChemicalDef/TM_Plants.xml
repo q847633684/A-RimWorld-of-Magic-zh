@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Syrrium addiction -->
+  <!--原中文: '波莫纳糖浆', 原英文: '无' -> 新英文: 'syrrium',更新于2026-02-14-->
+  <!--EN: syrrium-->
+  <TM_SyrriumChemical.label>波莫纳糖浆</TM_SyrriumChemical.label>
+</LanguageData>

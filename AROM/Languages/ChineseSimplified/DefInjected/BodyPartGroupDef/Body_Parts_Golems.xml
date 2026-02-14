@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- GOLEM Generic -->
+  <!--原中文: '眼', 原英文: '无' -> 新英文: 'eyes',更新于2026-02-14-->
+  <!--EN: eyes-->
+  <Golem_Eyes.label>眼</Golem_Eyes.label>
+  <!--原中文: '粉碎', 原英文: '无' -> 新英文: 'smash',更新于2026-02-14-->
+  <!--EN: smash-->
+  <Golem_Arms.label>粉碎</Golem_Arms.label>
+  <!-- MECHA GOLEM -->
+  <!-- FLESH GOLEM -->
+  <!--原中文: '眼', 原英文: '无' -> 新英文: 'eyes',更新于2026-02-14-->
+  <!--EN: eyes-->
+  <Flesh_Eyes.label>眼</Flesh_Eyes.label>
+  <!--原中文: '粉碎', 原英文: '无' -> 新英文: 'smash',更新于2026-02-14-->
+  <!--EN: smash-->
+  <Flesh_Arms.label>粉碎</Flesh_Arms.label>
+  <!-- HOLLOW GOLEM -->
+  <!--原中文: '空洞之爪', 原英文: '无' -> 新英文: 'hollow claws',更新于2026-02-14-->
+  <!--EN: hollow claws-->
+  <Hollow_Claws.label>空洞之爪</Hollow_Claws.label>
+  <!--原中文: '腐朽之触', 原英文: '无' -> 新英文: 'decay touch',更新于2026-02-14-->
+  <!--EN: decay touch-->
+  <Hollow_Decay.label>腐朽之触</Hollow_Decay.label>
+  <!--原中文: '集中宝石', 原英文: '无' -> 新英文: 'focus gem',更新于2026-02-14-->
+  <!--EN: focus gem-->
+  <Hollow_FocusGems.label>集中宝石</Hollow_FocusGems.label>
+  <!-- STONE GOLEM -->
+  <!--原中文: '手臂', 原英文: '无' -> 新英文: 'arms',更新于2026-02-14-->
+  <!--EN: arms-->
+  <Stone_Arms.label>手臂</Stone_Arms.label>
+  <!-- MAHARAL GOLEM -->
+  <!--原中文: '手臂', 原英文: '无' -> 新英文: 'arms',更新于2026-02-14-->
+  <!--EN: arms-->
+  <Maharal_Arms.label>手臂</Maharal_Arms.label>
+  <!-- STRAW GOLEM -->
+  <!--原中文: '武器', 原英文: '无' -> 新英文: 'arms',更新于2026-02-14-->
+  <!--EN: arms-->
+  <Straw_Arms.label>武器</Straw_Arms.label>
+  <!-- WOOD GOLEM -->
+  <!--原中文: '武器', 原英文: '无' -> 新英文: 'arms',更新于2026-02-14-->
+  <!--EN: arms-->
+  <TM_Silk_Arms.label>武器</TM_Silk_Arms.label>
+</LanguageData>

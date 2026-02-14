@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Gem Recipes -->
+  <!--原中文: '制作初级奥术附魔石', 原英文: '无' -> 新英文: 'minor gem of holding',更新于2026-02-14-->
+  <!--EN: minor gem of holding-->
+  <CutMinorMPGem.label>制作初级奥术附魔石</CutMinorMPGem.label>
+  <!--原中文: '加工魔法原石成为附魔宝石用来提高能量储备。', 原英文: '无' -> 新英文: 'Cut and refine raw magicyte into an enchanting gem able to maintain reserves of mana.',更新于2026-02-14-->
+  <!--EN: Cut and refine raw magicyte into an enchanting gem able to maintain reserves of mana.-->
+  <CutMinorMPGem.description>加工魔法原石成为附魔宝石用来提高能量储备。</CutMinorMPGem.description>
+  <!--原中文: '加工初级宝石', 原英文: '无' -> 新英文: 'cut minor gem of holding',更新于2026-02-14-->
+  <!--EN: cut minor gem of holding-->
+  <CutMinorMPGem.jobString>加工初级宝石</CutMinorMPGem.jobString>
+  <!--原中文: '制作中级奥术附魔石', 原英文: '无' -> 新英文: 'gem of holding',更新于2026-02-14-->
+  <!--EN: gem of holding-->
+  <CutMPGem.label>制作中级奥术附魔石</CutMPGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来提高能量储备。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to maintain reserves of mana.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to maintain reserves of mana.-->
+  <CutMPGem.description>加工并切割魔法原石成为附魔宝石用来提高能量储备。</CutMPGem.description>
+  <!--原中文: '加工初级宝石', 原英文: '无' -> 新英文: 'cut gem of holding',更新于2026-02-14-->
+  <!--EN: cut gem of holding-->
+  <CutMPGem.jobString>加工初级宝石</CutMPGem.jobString>
+  <!--原中文: '制作高级奥术附魔石', 原英文: '无' -> 新英文: 'major gem of holding',更新于2026-02-14-->
+  <!--EN: major gem of holding-->
+  <CutMajorMPGem.label>制作高级奥术附魔石</CutMajorMPGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来提高能量储备。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to maintain reserves of mana.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to maintain reserves of mana.-->
+  <CutMajorMPGem.description>加工并切割魔法原石成为附魔宝石用来提高能量储备。</CutMajorMPGem.description>
+  <!--原中文: '加工高级支持宝石', 原英文: '无' -> 新英文: 'cut major gem of holding',更新于2026-02-14-->
+  <!--EN: cut major gem of holding-->
+  <CutMajorMPGem.jobString>加工高级支持宝石</CutMajorMPGem.jobString>
+  <!--原中文: '制作初级加速附魔石', 原英文: '无' -> 新英文: 'minor gem of acceleration',更新于2026-02-14-->
+  <!--EN: minor gem of acceleration-->
+  <CutMinorCoolDownGem.label>制作初级加速附魔石</CutMinorCoolDownGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来降低技能冷却时间。', 原英文: '无' -> 新英文: 'Cut and refine raw raw magicyte into an enchanting gem able to reduce the time before an ability can be used again.',更新于2026-02-14-->
+  <!--EN: Cut and refine raw raw magicyte into an enchanting gem able to reduce the time before an ability can be used again.-->
+  <CutMinorCoolDownGem.description>加工并切割魔法原石成为附魔宝石用来降低技能冷却时间。</CutMinorCoolDownGem.description>
+  <!--原中文: '加工初级加速宝石', 原英文: '无' -> 新英文: 'cut minor gem of acceleration',更新于2026-02-14-->
+  <!--EN: cut minor gem of acceleration-->
+  <CutMinorCoolDownGem.jobString>加工初级加速宝石</CutMinorCoolDownGem.jobString>
+  <!--原中文: '制作中级加速附魔石', 原英文: '无' -> 新英文: 'gem of acceleration',更新于2026-02-14-->
+  <!--EN: gem of acceleration-->
+  <CutCoolDownGem.label>制作中级加速附魔石</CutCoolDownGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来降低技能冷却时间。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to reduce the time before an ability can be used again.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to reduce the time before an ability can be used again.-->
+  <CutCoolDownGem.description>加工并切割魔法原石成为附魔宝石用来降低技能冷却时间。</CutCoolDownGem.description>
+  <!--原中文: '加工加速宝石', 原英文: '无' -> 新英文: 'cut gem of acceleration',更新于2026-02-14-->
+  <!--EN: cut gem of acceleration-->
+  <CutCoolDownGem.jobString>加工加速宝石</CutCoolDownGem.jobString>
+  <!--原中文: '制作高级加速附魔石', 原英文: '无' -> 新英文: 'major gem of acceleration',更新于2026-02-14-->
+  <!--EN: major gem of acceleration-->
+  <CutMajorCoolDownGem.label>制作高级加速附魔石</CutMajorCoolDownGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来降低技能冷却时间。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to reduce the time before an ability can be used again.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to reduce the time before an ability can be used again.-->
+  <CutMajorCoolDownGem.description>加工并切割魔法原石成为附魔宝石用来降低技能冷却时间。</CutMajorCoolDownGem.description>
+  <!--原中文: '加工高级加速宝石', 原英文: '无' -> 新英文: 'cut major gem of acceleration',更新于2026-02-14-->
+  <!--EN: cut major gem of acceleration-->
+  <CutMajorCoolDownGem.jobString>加工高级加速宝石</CutMajorCoolDownGem.jobString>
+  <!--原中文: '制作初级保存附魔石', 原英文: '无' -> 新英文: 'minor gem of conservation',更新于2026-02-14-->
+  <!--EN: minor gem of conservation-->
+  <CutMinorMPCostGem.label>制作初级保存附魔石</CutMinorMPCostGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来降低技能消耗。', 原英文: '无' -> 新英文: 'Cut and refine raw magicyte into an enchanting gem able to reduce the amount of mana required to use an ability.',更新于2026-02-14-->
+  <!--EN: Cut and refine raw magicyte into an enchanting gem able to reduce the amount of mana required to use an ability.-->
+  <CutMinorMPCostGem.description>加工并切割魔法原石成为附魔宝石用来降低技能消耗。</CutMinorMPCostGem.description>
+  <!--原中文: '加工初级保存宝石', 原英文: '无' -> 新英文: 'cut minor gem of conservation',更新于2026-02-14-->
+  <!--EN: cut minor gem of conservation-->
+  <CutMinorMPCostGem.jobString>加工初级保存宝石</CutMinorMPCostGem.jobString>
+  <!--原中文: '制作中级保存附魔石', 原英文: '无' -> 新英文: 'gem of conservation',更新于2026-02-14-->
+  <!--EN: gem of conservation-->
+  <CutMPCostGem.label>制作中级保存附魔石</CutMPCostGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来降低技能消耗。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to reduce the amount of mana required to use an ability.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to reduce the amount of mana required to use an ability.-->
+  <CutMPCostGem.description>加工并切割魔法原石成为附魔宝石用来降低技能消耗。</CutMPCostGem.description>
+  <!--原中文: '加工保存附魔石', 原英文: '无' -> 新英文: 'cut gem of conservation',更新于2026-02-14-->
+  <!--EN: cut gem of conservation-->
+  <CutMPCostGem.jobString>加工保存附魔石</CutMPCostGem.jobString>
+  <!--原中文: '制作高级保存附魔石', 原英文: '无' -> 新英文: 'major gem of conservation',更新于2026-02-14-->
+  <!--EN: major gem of conservation-->
+  <CutMajorMPCostGem.label>制作高级保存附魔石</CutMajorMPCostGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来降低技能消耗。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to reduce the amount of mana required to use an ability.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to reduce the amount of mana required to use an ability.-->
+  <CutMajorMPCostGem.description>加工并切割魔法原石成为附魔宝石用来降低技能消耗。</CutMajorMPCostGem.description>
+  <!--原中文: '加工高级保存附魔石', 原英文: '无' -> 新英文: 'cut major gem of conservation',更新于2026-02-14-->
+  <!--EN: cut major gem of conservation-->
+  <CutMajorMPCostGem.jobString>加工高级保存附魔石</CutMajorMPCostGem.jobString>
+  <!--原中文: '制作初级再生附魔石', 原英文: '无' -> 新英文: 'minor gem of regeneration',更新于2026-02-14-->
+  <!--EN: minor gem of regeneration-->
+  <CutMinorMPRegenRateGem.label>制作初级再生附魔石</CutMinorMPRegenRateGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来提升能量回复速度。', 原英文: '无' -> 新英文: 'Cut and refine raw magicyte into an enchanting gem able to increase the rate mana is gained.',更新于2026-02-14-->
+  <!--EN: Cut and refine raw magicyte into an enchanting gem able to increase the rate mana is gained.-->
+  <CutMinorMPRegenRateGem.description>加工并切割魔法原石成为附魔宝石用来提升能量回复速度。</CutMinorMPRegenRateGem.description>
+  <!--原中文: '加工初级再生附魔石', 原英文: '无' -> 新英文: 'cut minor gem of regeneration',更新于2026-02-14-->
+  <!--EN: cut minor gem of regeneration-->
+  <CutMinorMPRegenRateGem.jobString>加工初级再生附魔石</CutMinorMPRegenRateGem.jobString>
+  <!--原中文: '制作中级再生附魔石', 原英文: '无' -> 新英文: 'gem of regeneration',更新于2026-02-14-->
+  <!--EN: gem of regeneration-->
+  <CutMPRegenRateGem.label>制作中级再生附魔石</CutMPRegenRateGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来提升能量回复速度。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to increase the rate mana is gained.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to increase the rate mana is gained.-->
+  <CutMPRegenRateGem.description>加工并切割魔法原石成为附魔宝石用来提升能量回复速度。</CutMPRegenRateGem.description>
+  <!--原中文: '加工再生附魔石', 原英文: '无' -> 新英文: 'cut gem of regeneration',更新于2026-02-14-->
+  <!--EN: cut gem of regeneration-->
+  <CutMPRegenRateGem.jobString>加工再生附魔石</CutMPRegenRateGem.jobString>
+  <!--原中文: '制作高级再生附魔石', 原英文: '无' -> 新英文: 'major gem of regeneration',更新于2026-02-14-->
+  <!--EN: major gem of regeneration-->
+  <CutMajorMPRegenRateGem.label>制作高级再生附魔石</CutMajorMPRegenRateGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来提升能量回复速度。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to increase the rate mana is gained.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to increase the rate mana is gained.-->
+  <CutMajorMPRegenRateGem.description>加工并切割魔法原石成为附魔宝石用来提升能量回复速度。</CutMajorMPRegenRateGem.description>
+  <!--原中文: '加工高级再生附魔石', 原英文: '无' -> 新英文: 'cut major gem of regeneration',更新于2026-02-14-->
+  <!--EN: cut major gem of regeneration-->
+  <CutMajorMPRegenRateGem.jobString>加工高级再生附魔石</CutMajorMPRegenRateGem.jobString>
+  <!--原中文: '制作初级知识附魔石', 原英文: '无' -> 新英文: 'minor gem of learning',更新于2026-02-14-->
+  <!--EN: minor gem of learning-->
+  <CutMinorXPGainGem.label>制作初级知识附魔石</CutMinorXPGainGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来提升经验获取量。', 原英文: '无' -> 新英文: 'Cut and refine raw magicyte into an enchanting gem able to increase experience gained when using abilities.',更新于2026-02-14-->
+  <!--EN: Cut and refine raw magicyte into an enchanting gem able to increase experience gained when using abilities.-->
+  <CutMinorXPGainGem.description>加工并切割魔法原石成为附魔宝石用来提升经验获取量。</CutMinorXPGainGem.description>
+  <!--原中文: '加工初级知识附魔石', 原英文: '无' -> 新英文: 'cut minor gem of learning',更新于2026-02-14-->
+  <!--EN: cut minor gem of learning-->
+  <CutMinorXPGainGem.jobString>加工初级知识附魔石</CutMinorXPGainGem.jobString>
+  <!--原中文: '制作中级知识附魔石', 原英文: '无' -> 新英文: 'gem of learning',更新于2026-02-14-->
+  <!--EN: gem of learning-->
+  <CutXPGainGem.label>制作中级知识附魔石</CutXPGainGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来提升经验获取量。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to increase experience gained when using abilities.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to increase experience gained when using abilities.-->
+  <CutXPGainGem.description>加工并切割魔法原石成为附魔宝石用来提升经验获取量。</CutXPGainGem.description>
+  <!--原中文: '加工知识附魔石', 原英文: '无' -> 新英文: 'cut gem of learning',更新于2026-02-14-->
+  <!--EN: cut gem of learning-->
+  <CutXPGainGem.jobString>加工知识附魔石</CutXPGainGem.jobString>
+  <!--原中文: '制作高级知识附魔石', 原英文: '无' -> 新英文: 'major gem of learning',更新于2026-02-14-->
+  <!--EN: major gem of learning-->
+  <CutMajorXPGainGem.label>制作高级知识附魔石</CutMajorXPGainGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来提升经验获取量。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to increase experience gained when using abilities.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to increase experience gained when using abilities.-->
+  <CutMajorXPGainGem.description>加工并切割魔法原石成为附魔宝石用来提升经验获取量。</CutMajorXPGainGem.description>
+  <!--原中文: '加工高级知识附魔石', 原英文: '无' -> 新英文: 'cut major gem of learning',更新于2026-02-14-->
+  <!--EN: cut major gem of learning-->
+  <CutMajorXPGainGem.jobString>加工高级知识附魔石</CutMajorXPGainGem.jobString>
+  <!--原中文: '制作初级抗性附魔石', 原英文: '无' -> 新英文: 'minor gem of resistance',更新于2026-02-14-->
+  <!--EN: minor gem of resistance-->
+  <CutMinorArcaneResGem.label>制作初级抗性附魔石</CutMinorArcaneResGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来削弱受到的技能攻击。', 原英文: '无' -> 新英文: 'Cut and refine raw magicyte into an enchanting gem able to resist the effects of magical attacks.',更新于2026-02-14-->
+  <!--EN: Cut and refine raw magicyte into an enchanting gem able to resist the effects of magical attacks.-->
+  <CutMinorArcaneResGem.description>加工并切割魔法原石成为附魔宝石用来削弱受到的技能攻击。</CutMinorArcaneResGem.description>
+  <!--原中文: '加工初级抗性附魔石', 原英文: '无' -> 新英文: 'cut minor gem of resistance',更新于2026-02-14-->
+  <!--EN: cut minor gem of resistance-->
+  <CutMinorArcaneResGem.jobString>加工初级抗性附魔石</CutMinorArcaneResGem.jobString>
+  <!--原中文: '制作中级抗性附魔石', 原英文: '无' -> 新英文: 'gem of resistance',更新于2026-02-14-->
+  <!--EN: gem of resistance-->
+  <CutArcaneResGem.label>制作中级抗性附魔石</CutArcaneResGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来削弱受到的技能攻击。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to resist the effects of magical attacks.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to resist the effects of magical attacks.-->
+  <CutArcaneResGem.description>加工并切割魔法原石成为附魔宝石用来削弱受到的技能攻击。</CutArcaneResGem.description>
+  <!--原中文: '加工抗性附魔石', 原英文: '无' -> 新英文: 'cut gem of resistance',更新于2026-02-14-->
+  <!--EN: cut gem of resistance-->
+  <CutArcaneResGem.jobString>加工抗性附魔石</CutArcaneResGem.jobString>
+  <!--原中文: '制作高级抗性附魔石', 原英文: '无' -> 新英文: 'major gem of resistance',更新于2026-02-14-->
+  <!--EN: major gem of resistance-->
+  <CutMajorArcaneResGem.label>制作高级抗性附魔石</CutMajorArcaneResGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来削弱受到的技能攻击。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to resist the effects of magical attacks.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to resist the effects of magical attacks.-->
+  <CutMajorArcaneResGem.description>加工并切割魔法原石成为附魔宝石用来削弱受到的技能攻击。</CutMajorArcaneResGem.description>
+  <!--原中文: '加工高级抗性附魔石', 原英文: '无' -> 新英文: 'cut major gem of resistance',更新于2026-02-14-->
+  <!--EN: cut major gem of resistance-->
+  <CutMajorArcaneResGem.jobString>加工高级抗性附魔石</CutMajorArcaneResGem.jobString>
+  <!--原中文: '制作初级力量附魔石', 原英文: '无' -> 新英文: 'minor gem of force',更新于2026-02-14-->
+  <!--EN: minor gem of force-->
+  <CutMinorArcaneDmgGem.label>制作初级力量附魔石</CutMinorArcaneDmgGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来增加技能攻击的强度。', 原英文: '无' -> 新英文: 'Cut and refine raw magicyte into an enchanting gem able to increase the force of magical attacks.',更新于2026-02-14-->
+  <!--EN: Cut and refine raw magicyte into an enchanting gem able to increase the force of magical attacks.-->
+  <CutMinorArcaneDmgGem.description>加工并切割魔法原石成为附魔宝石用来增加技能攻击的强度。</CutMinorArcaneDmgGem.description>
+  <!--原中文: '加工初级力量附魔石', 原英文: '无' -> 新英文: 'cut minor gem of force',更新于2026-02-14-->
+  <!--EN: cut minor gem of force-->
+  <CutMinorArcaneDmgGem.jobString>加工初级力量附魔石</CutMinorArcaneDmgGem.jobString>
+  <!--原中文: '制作中级力量附魔石', 原英文: '无' -> 新英文: 'gem of force',更新于2026-02-14-->
+  <!--EN: gem of force-->
+  <CutArcaneDmgGem.label>制作中级力量附魔石</CutArcaneDmgGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来增加技能攻击的强度。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to increase the force of magical attacks.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to increase the force of magical attacks.-->
+  <CutArcaneDmgGem.description>加工并切割魔法原石成为附魔宝石用来增加技能攻击的强度。</CutArcaneDmgGem.description>
+  <!--原中文: '加工力量附魔石', 原英文: '无' -> 新英文: 'cut gem of force',更新于2026-02-14-->
+  <!--EN: cut gem of force-->
+  <CutArcaneDmgGem.jobString>加工力量附魔石</CutArcaneDmgGem.jobString>
+  <!--原中文: '制作高级力量附魔石', 原英文: '无' -> 新英文: 'major gem of force',更新于2026-02-14-->
+  <!--EN: major gem of force-->
+  <CutMajorArcaneDmgGem.label>制作高级力量附魔石</CutMajorArcaneDmgGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来增加技能攻击的强度。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to increase the force of magical attacks.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to increase the force of magical attacks.-->
+  <CutMajorArcaneDmgGem.description>加工并切割魔法原石成为附魔宝石用来增加技能攻击的强度。</CutMajorArcaneDmgGem.description>
+  <!--原中文: '加工高级力量附魔石', 原英文: '无' -> 新英文: 'cut major gem of force',更新于2026-02-14-->
+  <!--EN: cut major gem of force-->
+  <CutMajorArcaneDmgGem.jobString>加工高级力量附魔石</CutMajorArcaneDmgGem.jobString>
+  <!--原中文: '制作初级奇迹附魔石', 原英文: '无' -> 新英文: 'minor gem of wonder',更新于2026-02-14-->
+  <!--EN: minor gem of wonder-->
+  <CutMinorArcaneWonderGem.label>制作初级奇迹附魔石</CutMinorArcaneWonderGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来驾驭各种各样的魔法。', 原英文: '无' -> 新英文: 'Cut and refine raw magicyte into an enchanting gem able to harness all manner of enchantments.',更新于2026-02-14-->
+  <!--EN: Cut and refine raw magicyte into an enchanting gem able to harness all manner of enchantments.-->
+  <CutMinorArcaneWonderGem.description>加工并切割魔法原石成为附魔宝石用来驾驭各种各样的魔法。</CutMinorArcaneWonderGem.description>
+  <!--原中文: '加工初级奇迹附魔石', 原英文: '无' -> 新英文: 'cut minor gem of wonder',更新于2026-02-14-->
+  <!--EN: cut minor gem of wonder-->
+  <CutMinorArcaneWonderGem.jobString>加工初级奇迹附魔石</CutMinorArcaneWonderGem.jobString>
+  <!--原中文: '制作中级奇迹附魔石', 原英文: '无' -> 新英文: 'gem of wonder',更新于2026-02-14-->
+  <!--EN: gem of wonder-->
+  <CutArcaneWonderGem.label>制作中级奇迹附魔石</CutArcaneWonderGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来驾驭各种各样的魔法。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to harness all manner of enchantments.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to harness all manner of enchantments.-->
+  <CutArcaneWonderGem.description>加工并切割魔法原石成为附魔宝石用来驾驭各种各样的魔法。</CutArcaneWonderGem.description>
+  <!--原中文: '加工奇迹附魔石', 原英文: '无' -> 新英文: 'cut gem of wonder',更新于2026-02-14-->
+  <!--EN: cut gem of wonder-->
+  <CutArcaneWonderGem.jobString>加工奇迹附魔石</CutArcaneWonderGem.jobString>
+  <!--原中文: '制作高级奇迹附魔石', 原英文: '无' -> 新英文: 'major gem of wonder',更新于2026-02-14-->
+  <!--EN: major gem of wonder-->
+  <CutMajorArcaneWonderGem.label>制作高级奇迹附魔石</CutMajorArcaneWonderGem.label>
+  <!--原中文: '加工并切割魔法原石成为附魔宝石用来驾驭各种各样的魔法。', 原英文: '无' -> 新英文: 'Cut and refine magicyte into an enchanting gem able to harness all manner of enchantments.',更新于2026-02-14-->
+  <!--EN: Cut and refine magicyte into an enchanting gem able to harness all manner of enchantments.-->
+  <CutMajorArcaneWonderGem.description>加工并切割魔法原石成为附魔宝石用来驾驭各种各样的魔法。</CutMajorArcaneWonderGem.description>
+  <!--原中文: '加工高级奇迹附魔石', 原英文: '无' -> 新英文: 'cut major gem of wonder',更新于2026-02-14-->
+  <!--EN: cut major gem of wonder-->
+  <CutMajorArcaneWonderGem.jobString>加工高级奇迹附魔石</CutMajorArcaneWonderGem.jobString>
+  <!-- Refinement Recipes -->
+  <!--原中文: '魔法药剂', 原英文: '无' -> 新英文: 'mana potion',更新于2026-02-14-->
+  <!--EN: mana potion-->
+  <ManaPotion_Refined.label>魔法药剂</ManaPotion_Refined.label>
+  <!--原中文: '用活力水与加工过的魔法石可以生产两瓶魔法药剂。', 原英文: '无' -> 新英文: 'Herbs are mixed with magicyte powder to produce 2 mana potions.',更新于2026-02-14-->
+  <!--EN: Herbs are mixed with magicyte powder to produce 2 mana potions.-->
+  <ManaPotion_Refined.description>用活力水与加工过的魔法石可以生产两瓶魔法药剂。</ManaPotion_Refined.description>
+  <!--原中文: '正在生产魔法药剂', 原英文: '无' -> 新英文: 'processing mana potion',更新于2026-02-14-->
+  <!--EN: processing mana potion-->
+  <ManaPotion_Refined.jobString>正在生产魔法药剂</ManaPotion_Refined.jobString>
+</LanguageData>

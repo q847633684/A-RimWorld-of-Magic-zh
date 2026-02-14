@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '维修部位', 原英文: '无' -> 新英文: 'restore part',更新于2026-02-14-->
+  <!--EN: restore part-->
+  <TM_Golem_FleshRestore.label>维修部位</TM_Golem_FleshRestore.label>
+  <!--原中文: '移植肌肉组织', 原英文: '无' -> 新英文: 'muscular endurance',更新于2026-02-14-->
+  <!--EN: muscular endurance-->
+  <TM_Golem_FleshMaxEnergy.label>移植肌肉组织</TM_Golem_FleshMaxEnergy.label>
+  <!--原中文: '将最大能量增加400个水平。开始最大能量为800。', 原英文: '无' -> 新英文: 'Increases maximum energy by 400 per level. Starting max energy is 800.',更新于2026-02-14-->
+  <!--EN: Increases maximum energy by 400 per level. Starting max energy is 800.-->
+  <TM_Golem_FleshMaxEnergy.description>将最大能量增加400个水平。开始最大能量为800。</TM_Golem_FleshMaxEnergy.description>
+  <!--原中文: '增加消化器官', 原英文: '无' -> 新英文: 'muscular efficiency',更新于2026-02-14-->
+  <!--EN: muscular efficiency-->
+  <TM_Golem_FleshEnergyEfficiency.label>增加消化器官</TM_Golem_FleshEnergyEfficiency.label>
+  <!--原中文: '每个水平的能源效率提高10％。开始能源效率为50％。', 原英文: '无' -> 新英文: 'Increases energy efficiency by 10% per level. Starting energy efficiency is 50%.',更新于2026-02-14-->
+  <!--EN: Increases energy efficiency by 10% per level. Starting energy efficiency is 50%.-->
+  <TM_Golem_FleshEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_FleshEnergyEfficiency.description>
+  <!--原中文: '能量合成', 原英文: '无' -> 新英文: 'energy synthesis',更新于2026-02-14-->
+  <!--EN: energy synthesis-->
+  <TM_Golem_FleshEnergyRate.label>能量合成</TM_Golem_FleshEnergyRate.label>
+  <!--原中文: '每个水平的能源充电率提高20％。开始充电率为100能量/小时。', 原英文: '无' -> 新英文: 'Increases energy charge rate by 20% per level. Starting recharge rate is 100 energy/hour.',更新于2026-02-14-->
+  <!--EN: Increases energy charge rate by 20% per level. Starting recharge rate is 100 energy/hour.-->
+  <TM_Golem_FleshEnergyRate.description>每个水平的能源充电率提高20％。开始充电率为100能量/小时。</TM_Golem_FleshEnergyRate.description>
+  <!--原中文: '左臂支撑', 原英文: '无' -> 新英文: 'left arm brace',更新于2026-02-14-->
+  <!--EN: left arm brace-->
+  <TM_Golem_Flesh_LeftArmBrace.label>左臂支撑</TM_Golem_Flesh_LeftArmBrace.label>
+  <!--原中文: '增加一个金属护腕，以增加钝性伤害并允许20%的概率进行格挡。左右腕可叠加。', 原英文: '无' -> 新英文: 'Increases block chance by 20%, stacks with right bracer.',更新于2026-02-14-->
+  <!--EN: Increases block chance by 20%, stacks with right bracer.-->
+  <TM_Golem_Flesh_LeftArmBrace.description>增加一个金属护腕，以增加钝性伤害并允许20%的概率进行格挡。左右腕可叠加。</TM_Golem_Flesh_LeftArmBrace.description>
+  <!--原中文: '左臂切肉刀', 原英文: '无' -> 新英文: 'left arm (harvest) cleaver',更新于2026-02-14-->
+  <!--EN: left arm (harvest) cleaver-->
+  <TM_Golem_Flesh_LeftArmCleaver.label>左臂切肉刀</TM_Golem_Flesh_LeftArmCleaver.label>
+  <!--原中文: '允许魔像收集植物并实现AOE裂解攻击。
+
+劈砍
+消耗愤怒:	15
+伤害:	15
+溅射:	2c', 原英文: '无' -> 新英文: 'Harvest plants
+		
+AoE Cleave
+Rage Cost:	15
+Damage:	15
+Splash:	2c',更新于2026-02-14-->
+  <!--EN: Harvest plants
+		
+AoE Cleave
+Rage Cost:	15
+Damage:	15
+Splash:	2c-->
+  <TM_Golem_Flesh_LeftArmCleaver.description>允许魔像收集植物并实现AOE裂解攻击。
+
+劈砍
+消耗愤怒:	15
+伤害:	15
+溅射:	2c</TM_Golem_Flesh_LeftArmCleaver.description>
+  <!--原中文: '右臂支撑', 原英文: '无' -> 新英文: 'right arm brace',更新于2026-02-14-->
+  <!--EN: right arm brace-->
+  <TM_Golem_Flesh_RightArmBrace.label>右臂支撑</TM_Golem_Flesh_RightArmBrace.label>
+  <!--原中文: '增加一个金属护腕，以增加钝性伤害并允许20%的概率进行格挡。左右腕可叠加', 原英文: '无' -> 新英文: 'Increases block chance by 20%, stacks with left bracer.',更新于2026-02-14-->
+  <!--EN: Increases block chance by 20%, stacks with left bracer.-->
+  <TM_Golem_Flesh_RightArmBrace.description>增加一个金属护腕，以增加钝性伤害并允许20%的概率进行格挡。左右腕可叠加</TM_Golem_Flesh_RightArmBrace.description>
+  <!--原中文: '右臂切肉刀', 原英文: '无' -> 新英文: 'right arm (chop) cleaver',更新于2026-02-14-->
+  <!--EN: right arm (chop) cleaver-->
+  <TM_Golem_Flesh_RightArmCleaver.label>右臂切肉刀</TM_Golem_Flesh_RightArmCleaver.label>
+  <!--原中文: '允许魔像收集植物并实现AOE裂解攻击。
+
+劈砍
+消耗愤怒:	15
+伤害:	15
+溅射:	2c', 原英文: '无' -> 新英文: 'Cut trees
+
+AoE Cleave
+Rage Cost:	15
+Damage:	15
+Splash:	2c',更新于2026-02-14-->
+  <!--EN: Cut trees
+
+AoE Cleave
+Rage Cost:	15
+Damage:	15
+Splash:	2c-->
+  <TM_Golem_Flesh_RightArmCleaver.description>允许魔像收集植物并实现AOE裂解攻击。
+
+劈砍
+消耗愤怒:	15
+伤害:	15
+溅射:	2c</TM_Golem_Flesh_RightArmCleaver.description>
+  <!--原中文: '附牙', 原英文: '无' -> 新英文: 'tusks',更新于2026-02-14-->
+  <!--EN: tusks-->
+  <TM_Golem_Flesh_Tusks.label>附牙</TM_Golem_Flesh_Tusks.label>
+  <!--原中文: '添加了强大的咬合攻击。', 原英文: '无' -> 新英文: 'Adds a powerful bite attack.',更新于2026-02-14-->
+  <!--EN: Adds a powerful bite attack.-->
+  <TM_Golem_Flesh_Tusks.description>添加了强大的咬合攻击。</TM_Golem_Flesh_Tusks.description>
+  <!--原中文: '犄角', 原英文: '无' -> 新英文: 'horns',更新于2026-02-14-->
+  <!--EN: horns-->
+  <TM_Golem_Flesh_Horns.label>犄角</TM_Golem_Flesh_Horns.label>
+  <!--原中文: '增加了穿孔攻击和充电能力。
+
+冲锋
+消耗愤怒:	5
+冷却:	10s', 原英文: '无' -> 新英文: 'Adds a piercing attack and charge ability.
+
+Bull Charge
+Rage Cost:	5
+Cooldown:	10s',更新于2026-02-14-->
+  <!--EN: Adds a piercing attack and charge ability.
+
+Bull Charge
+Rage Cost:	5
+Cooldown:	10s-->
+  <TM_Golem_Flesh_Horns.description>增加了穿孔攻击和充电能力。
+
+冲锋
+消耗愤怒:	5
+冷却:	10s</TM_Golem_Flesh_Horns.description>
+  <!--原中文: '嵌入四只眼', 原英文: '无' -> 新英文: 'quad sight',更新于2026-02-14-->
+  <!--EN: quad sight-->
+  <TM_Golem_Flesh_EyesT1.label>嵌入四只眼</TM_Golem_Flesh_EyesT1.label>
+  <!--原中文: '提升傀儡100%的视力。', 原英文: '无' -> 新英文: 'Increases sight by 100%.',更新于2026-02-14-->
+  <!--EN: Increases sight by 100%.-->
+  <TM_Golem_Flesh_EyesT1.description>提升傀儡100%的视力。</TM_Golem_Flesh_EyesT1.description>
+  <!--原中文: '雕刻邪眼', 原英文: '无' -> 新英文: 'evil eye',更新于2026-02-14-->
+  <!--EN: evil eye-->
+  <TM_Golem_Flesh_EyesT2.label>雕刻邪眼</TM_Golem_Flesh_EyesT2.label>
+  <!--原中文: '邪眼能够释放血肉傀儡被压抑的愤怒，使其能虚弱地诅咒目标。
+
+邪眼诅咒
+消耗愤怒:	10
+冷却:	2.2s
+射程:	40', 原英文: '无' -> 新英文: 'Enables an ability that terrifies and slows enemies.
+
+Evil Eye
+Rage Cost:	10
+Cooldown:	2.2s
+Range:	40',更新于2026-02-14-->
+  <!--EN: Enables an ability that terrifies and slows enemies.
+
+Evil Eye
+Rage Cost:	10
+Cooldown:	2.2s
+Range:	40-->
+  <TM_Golem_Flesh_EyesT2.description>邪眼能够释放血肉傀儡被压抑的愤怒，使其能虚弱地诅咒目标。
+
+邪眼诅咒
+消耗愤怒:	10
+冷却:	2.2s
+射程:	40</TM_Golem_Flesh_EyesT2.description>
+  <!--原中文: '嵌翼', 原英文: '无' -> 新英文: 'wings',更新于2026-02-14-->
+  <!--EN: wings-->
+  <TM_Golem_Flesh_Wings.label>嵌翼</TM_Golem_Flesh_Wings.label>
+  <!--原中文: '通过将翼移植到血肉傀儡的背部来提高速度性和平衡性
+
+极速
+消耗愤怒:	15
+冷却:	6s
+攻击速度与移动速度翻倍', 原英文: '无' -> 新英文: 'Adds an ability that can grant the golem haste.
+
+Haste
+Rage Cost:	15
+Cooldown:	6s
+Double attack and move speed',更新于2026-02-14-->
+  <!--EN: Adds an ability that can grant the golem haste.
+
+Haste
+Rage Cost:	15
+Cooldown:	6s
+Double attack and move speed-->
+  <TM_Golem_Flesh_Wings.description>通过将翼移植到血肉傀儡的背部来提高速度性和平衡性
+
+极速
+消耗愤怒:	15
+冷却:	6s
+攻击速度与移动速度翻倍</TM_Golem_Flesh_Wings.description>
+  <!--原中文: '移植颅板', 原英文: '无' -> 新英文: 'skull plate',更新于2026-02-14-->
+  <!--EN: skull plate-->
+  <TM_Golem_Flesh_SkullPlate.label>移植颅板</TM_Golem_Flesh_SkullPlate.label>
+  <!--原中文: '增强傀儡护甲：
+钝器:	12%
+利器:	18%
+热能:	8%', 原英文: '无' -> 新英文: 'Increases armor:
+Blunt:	12%
+Sharp:	18%
+Heat:	8%',更新于2026-02-14-->
+  <!--EN: Increases armor:
+Blunt:	12%
+Sharp:	18%
+Heat:	8%-->
+  <TM_Golem_Flesh_SkullPlate.description>增强傀儡护甲：
+钝器:	12%
+利器:	18%
+热能:	8%</TM_Golem_Flesh_SkullPlate.description>
+  <!--原中文: '移植肩护板', 原英文: '无' -> 新英文: 'shoulder plates',更新于2026-02-14-->
+  <!--EN: shoulder plates-->
+  <TM_Golem_Flesh_ShoulderPlates.label>移植肩护板</TM_Golem_Flesh_ShoulderPlates.label>
+  <!--原中文: '增强傀儡护甲：
+钝器:	14%
+利器:	12%
+热能:	10%', 原英文: '无' -> 新英文: 'Increases armor:
+Blunt:	14%
+Sharp:	12%
+Heat:	10%',更新于2026-02-14-->
+  <!--EN: Increases armor:
+Blunt:	14%
+Sharp:	12%
+Heat:	10%-->
+  <TM_Golem_Flesh_ShoulderPlates.description>增强傀儡护甲：
+钝器:	14%
+利器:	12%
+热能:	10%</TM_Golem_Flesh_ShoulderPlates.description>
+  <!--原中文: '连接胸笼', 原英文: '无' -> 新英文: 'chest cage',更新于2026-02-14-->
+  <!--EN: chest cage-->
+  <TM_Golem_Flesh_ChestCage.label>连接胸笼</TM_Golem_Flesh_ChestCage.label>
+  <!--原中文: '增强傀儡护甲：
+钝器:	28%
+利器:	10%
+热能:	5%', 原英文: '无' -> 新英文: 'Increases armor:
+Blunt:	28%
+Sharp:	10%
+Heat:	5%',更新于2026-02-14-->
+  <!--EN: Increases armor:
+Blunt:	28%
+Sharp:	10%
+Heat:	5%-->
+  <TM_Golem_Flesh_ChestCage.description>增强傀儡护甲：
+钝器:	28%
+利器:	10%
+热能:	5%</TM_Golem_Flesh_ChestCage.description>
+  <!--原中文: '装上脊椎护板', 原英文: '无' -> 新英文: 'spine guard',更新于2026-02-14-->
+  <!--EN: spine guard-->
+  <TM_Golem_Flesh_SpineGuard.label>装上脊椎护板</TM_Golem_Flesh_SpineGuard.label>
+  <!--原中文: '增强傀儡护甲：
+钝器:	12%
+利器:	14%
+热能:	5%', 原英文: '无' -> 新英文: 'Increases armor:
+Blunt:	12%
+Sharp:	14%
+Heat:	5%',更新于2026-02-14-->
+  <!--EN: Increases armor:
+Blunt:	12%
+Sharp:	14%
+Heat:	5%-->
+  <TM_Golem_Flesh_SpineGuard.description>增强傀儡护甲：
+钝器:	12%
+利器:	14%
+热能:	5%</TM_Golem_Flesh_SpineGuard.description>
+  <!--原中文: '移植腿护板', 原英文: '无' -> 新英文: 'leg plates',更新于2026-02-14-->
+  <!--EN: leg plates-->
+  <TM_Golem_Flesh_LegPlates.label>移植腿护板</TM_Golem_Flesh_LegPlates.label>
+  <!--原中文: '增强傀儡护甲：
+钝器:	10%
+利器:	15%
+热能:	8%', 原英文: '无' -> 新英文: 'Increases armor:
+Blunt:	10%
+Sharp:	15%
+Heat:	8%',更新于2026-02-14-->
+  <!--EN: Increases armor:
+Blunt:	10%
+Sharp:	15%
+Heat:	8%-->
+  <TM_Golem_Flesh_LegPlates.description>增强傀儡护甲：
+钝器:	10%
+利器:	15%
+热能:	8%</TM_Golem_Flesh_LegPlates.description>
+  <!--原中文: '提高人造肌肉质量', 原英文: '无' -> 新英文: 'automaton power',更新于2026-02-14-->
+  <!--EN: automaton power-->
+  <TM_Golem_FleshLifeStage.label>提高人造肌肉质量</TM_Golem_FleshLifeStage.label>
+  <!--原中文: '增加数据并增加肢解能力。
+移动速度:	+[20%/35%/50%]
+生命值:		+[30%/50%/70%]
+
+愤怒撕裂
+消耗愤怒:	25
+冷却:	13s
+射程:	1c', 原英文: '无' -> 新英文: 'Increases stats and adds the dismember ability.
+Movement:	+[20%/35%/50%]
+Health:		+[30%/50%/70%]
+
+Dismember
+Rage Cost:	25
+Cooldown:	13s
+Range:	1c',更新于2026-02-14-->
+  <!--EN: Increases stats and adds the dismember ability.
+Movement:	+[20%/35%/50%]
+Health:		+[30%/50%/70%]
+
+Dismember
+Rage Cost:	25
+Cooldown:	13s
+Range:	1c-->
+  <TM_Golem_FleshLifeStage.description>增加数据并增加肢解能力。
+移动速度:	+[20%/35%/50%]
+生命值:		+[30%/50%/70%]
+
+愤怒撕裂
+消耗愤怒:	25
+冷却:	13s
+射程:	1c</TM_Golem_FleshLifeStage.description>
+</LanguageData>

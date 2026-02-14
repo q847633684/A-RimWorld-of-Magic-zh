@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Dire Wolf -->
+  <!--原中文: '恐惧魔狼', 原英文: '无' -> 新英文: 'dire wolf',更新于2026-02-14-->
+  <!--EN: dire wolf-->
+  <TM_Dire_WolfR.label>恐惧魔狼</TM_Dire_WolfR.label>
+  <!--原中文: '恐惧魔狼成群结队地在北方游荡，既不害怕人，也不害怕巨树獭。它是凶残的掠食者，长着锋利的牙齿和钢丝一样的皮毛，恐惧魔狼和任何已知的生物一样凶猛。它们通常与神话般的传说联系在一起，据说与神秘力量有着独特的联系。', 原英文: '无' -> 新英文: 'Dire wolves roam the north in great packs and fear neither man nor megasloth. A savage predator armed with razor sharp teeth and a coat like steel thread, dire wolves are as fierce as any known creature. They are often tied to mythical lore and are said to possess a unique link to arcane powers.',更新于2026-02-14-->
+  <!--EN: Dire wolves roam the north in great packs and fear neither man nor megasloth. A savage predator armed with razor sharp teeth and a coat like steel thread, dire wolves are as fierce as any known creature. They are often tied to mythical lore and are said to possess a unique link to arcane powers.-->
+  <TM_Dire_WolfR.description>恐惧魔狼成群结队地在北方游荡，既不害怕人，也不害怕巨树獭。它是凶残的掠食者，长着锋利的牙齿和钢丝一样的皮毛，恐惧魔狼和任何已知的生物一样凶猛。它们通常与神话般的传说联系在一起，据说与神秘力量有着独特的联系。</TM_Dire_WolfR.description>
+  <!--原中文: '左爪', 原英文: '无' -> 新英文: 'left claw',更新于2026-02-14-->
+  <!--EN: left claw-->
+  <TM_Dire_WolfR.tools.0.label>左爪</TM_Dire_WolfR.tools.0.label>
+  <!--原中文: '右爪', 原英文: '无' -> 新英文: 'right claw',更新于2026-02-14-->
+  <!--EN: right claw-->
+  <TM_Dire_WolfR.tools.1.label>右爪</TM_Dire_WolfR.tools.1.label>
+  <!--原中文: '头', 原英文: '无' -> 新英文: 'head',更新于2026-02-14-->
+  <!--EN: head-->
+  <TM_Dire_WolfR.tools.3.label>头</TM_Dire_WolfR.tools.3.label>
+  <!--未识别字段，谨慎删除-->
+  <TM_Dire_WolfR.race.meatLabel>狼肉</TM_Dire_WolfR.race.meatLabel>
+</LanguageData>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '混沌通量', 原英文: '无' -> 新英文: 'Chaotic Flux',更新于2026-02-14-->
+  <!--EN: Chaotic Flux-->
+  <TM_ChaosTraditionHD.label>混沌通量</TM_ChaosTraditionHD.label>
+  <!--原中文: '通过客观的解释来控制现实，从而提高混沌法师的身体和精神的稳定性。', 原英文: '无' -> 新英文: 'Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.',更新于2026-02-14-->
+  <!--EN: Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.-->
+  <TM_ChaosTraditionHD.description>通过客观的解释来控制现实，从而提高混沌法师的身体和精神的稳定性。</TM_ChaosTraditionHD.description>
+  <TM_ChaosTraditionHD.stages.0.label>I</TM_ChaosTraditionHD.stages.0.label>
+  <TM_ChaosTraditionHD.stages.1.label>II</TM_ChaosTraditionHD.stages.1.label>
+  <TM_ChaosTraditionHD.stages.2.label>III</TM_ChaosTraditionHD.stages.2.label>
+  <!--原中文: '混沌之脑', 原英文: '无' -> 新英文: 'Chaotic Mind',更新于2026-02-14-->
+  <!--EN: Chaotic Mind-->
+  <TM_ChaoticMindHD.label>混沌之脑</TM_ChaoticMindHD.label>
+  <!--原中文: '通过客观的解释来控制现实，从而提高混沌法师的身体和精神的稳定性。', 原英文: '无' -> 新英文: 'Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.',更新于2026-02-14-->
+  <!--EN: Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.-->
+  <TM_ChaoticMindHD.description>通过客观的解释来控制现实，从而提高混沌法师的身体和精神的稳定性。</TM_ChaoticMindHD.description>
+  <!--原中文: '思想', 原英文: '无' -> 新英文: 'thought',更新于2026-02-14-->
+  <!--EN: thought-->
+  <TM_ChaoticMindHD.stages.0.label>思想</TM_ChaoticMindHD.stages.0.label>
+  <!--原中文: '可控性混沌', 原英文: '无' -> 新英文: 'Controlled Chaos',更新于2026-02-14-->
+  <!--EN: Controlled Chaos-->
+  <TM_ControlledChaosHD.label>可控性混沌</TM_ControlledChaosHD.label>
+  <!--原中文: '通过客观的解释来控制现实，从而提高混沌法师的身体和精神的稳定性。', 原英文: '无' -> 新英文: 'Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.',更新于2026-02-14-->
+  <!--EN: Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.-->
+  <TM_ControlledChaosHD.description>通过客观的解释来控制现实，从而提高混沌法师的身体和精神的稳定性。</TM_ControlledChaosHD.description>
+  <!--原中文: '混乱', 原英文: '无' -> 新英文: 'CHAOS',更新于2026-02-14-->
+  <!--EN: CHAOS-->
+  <TM_ControlledChaosHD.stages.0.label>混乱</TM_ControlledChaosHD.stages.0.label>
+</LanguageData>

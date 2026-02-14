@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- wave of fear -->
+  <!--原中文: '恐惧之波', 原英文: '无' -> 新英文: 'Wave of Fear',更新于2026-02-14-->
+  <!--EN: Wave of Fear-->
+  <Projectile_WaveOfFear.label>恐惧之波</Projectile_WaveOfFear.label>
+  <!-- Spite -->
+  <!--原中文: '恶意', 原英文: '无' -> 新英文: 'spite',更新于2026-02-14-->
+  <!--EN: spite-->
+  <Projectile_Spite.label>恶意</Projectile_Spite.label>
+  <!-- grave blade -->
+  <!--原中文: '唤灵冲击', 原英文: '无' -> 新英文: 'Grave Blade',更新于2026-02-14-->
+  <!--EN: Grave Blade-->
+  <Projectile_GraveBlade.label>唤灵冲击</Projectile_GraveBlade.label>
+  <!--原中文: '唤灵冲击', 原英文: '无' -> 新英文: 'Grave Blade',更新于2026-02-14-->
+  <!--EN: Grave Blade-->
+  <Projectile_GraveBlade_I.label>唤灵冲击</Projectile_GraveBlade_I.label>
+  <!--原中文: '唤灵冲击', 原英文: '无' -> 新英文: 'Grave Blade',更新于2026-02-14-->
+  <!--EN: Grave Blade-->
+  <Projectile_GraveBlade_II.label>唤灵冲击</Projectile_GraveBlade_II.label>
+  <!--原中文: '唤灵冲击', 原英文: '无' -> 新英文: 'Grave Blade',更新于2026-02-14-->
+  <!--EN: Grave Blade-->
+  <Projectile_GraveBlade_III.label>唤灵冲击</Projectile_GraveBlade_III.label>
+</LanguageData>

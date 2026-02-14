@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '法力', 原英文: '无' -> 新英文: 'mana',更新于2026-02-14-->
+  <!--EN: mana-->
+  <TM_Mana.label>法力</TM_Mana.label>
+  <!--原中文: '当前法力值。', 原英文: '无' -> 新英文: 'Current mana level.',更新于2026-02-14-->
+  <!--EN: Current mana level.-->
+  <TM_Mana.description>当前法力值。</TM_Mana.description>
+</LanguageData>

@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- SoulBond -->
+  <!--原中文: '灵魂契约', 原英文: '无' -> 新英文: 'SoulBond',更新于2026-02-14-->
+  <!--EN: SoulBond-->
+  <TM_SoulBond.label>灵魂契约</TM_SoulBond.label>
+  <!--原中文: '恶魔或者那些拥有恶魔力量的人，可以与一个生物建立灵魂契约。灵魂契约将宿主灵魂的能量提供给恶魔，允许双向召唤。\n		\n灵魂契约可以通过重复使用取消。与另一个宿主建立灵魂契约将取消之前的契约。任一方死亡，契约也将终止。\n\n魅魔和术士形成了不同类型的灵魂契约——术士带来精神上的互惠，而魅魔则提高肉体的欢愉。一个宿主只能维持单一的灵魂契约（精神/肉体）', 原英文: '无' -> 新英文: 'Demons, or those possessing the power of a demon, can creates a soul bond (soul contract) with another pawn who will sustain (or host) the bond. The bond provides energy from the soul of the host to the demonkin, in exchange, the emotions of the host are washed away in bliss. The soul bond also creates a link that allows the demonkin to travel to, or summon, the host.
+		
+The soul bond contract may be canceled at any time by the demonkin by re-using the ability on the current host. Creating a soul bond with another host will cancel any previous contracts. The contract will also end if either party dies or is destroyed. 
+
+Succubi and Warlocks form distinct types of soul bonds - warlocks bonds are mentally reciprocal while a succubus bonds are physical in nature. Demonkin can only sustain a single bond; hosts can only sustain a single bond of each type (mental/physical).',更新于2026-02-14-->
+  <!--EN: Demons, or those possessing the power of a demon, can creates a soul bond (soul contract) with another pawn who will sustain (or host) the bond. The bond provides energy from the soul of the host to the demonkin, in exchange, the emotions of the host are washed away in bliss. The soul bond also creates a link that allows the demonkin to travel to, or summon, the host.
+		
+The soul bond contract may be canceled at any time by the demonkin by re-using the ability on the current host. Creating a soul bond with another host will cancel any previous contracts. The contract will also end if either party dies or is destroyed. 
+
+Succubi and Warlocks form distinct types of soul bonds - warlocks bonds are mentally reciprocal while a succubus bonds are physical in nature. Demonkin can only sustain a single bond; hosts can only sustain a single bond of each type (mental/physical).-->
+  <TM_SoulBond.description>恶魔或者那些拥有恶魔力量的人，可以与一个生物建立灵魂契约。灵魂契约将宿主灵魂的能量提供给恶魔，允许双向召唤。\n		\n灵魂契约可以通过重复使用取消。与另一个宿主建立灵魂契约将取消之前的契约。任一方死亡，契约也将终止。\n\n魅魔和术士形成了不同类型的灵魂契约——术士带来精神上的互惠，而魅魔则提高肉体的欢愉。一个宿主只能维持单一的灵魂契约（精神/肉体）</TM_SoulBond.description>
+  <!-- ShadowCall -->
+  <!--原中文: '阴影的召唤', 原英文: '无' -> 新英文: 'Shadow Call',更新于2026-02-14-->
+  <!--EN: Shadow Call-->
+  <TM_ShadowCall.label>阴影的召唤</TM_ShadowCall.label>
+  <!--原中文: '召唤契约对象到达你的位置。', 原英文: '无' -> 新英文: 'Commands the soul of a bonded host to travel to your location.',更新于2026-02-14-->
+  <!--EN: Commands the soul of a bonded host to travel to your location.-->
+  <TM_ShadowCall.description>召唤契约对象到达你的位置。</TM_ShadowCall.description>
+  <!-- ShadowStep -->
+  <!--原中文: '幽影步', 原英文: '无' -> 新英文: 'Shadow Step',更新于2026-02-14-->
+  <!--EN: Shadow Step-->
+  <TM_ShadowStep.label>幽影步</TM_ShadowStep.label>
+  <!--原中文: '穿过阴影到达契约对象的位置', 原英文: '无' -> 新英文: 'Step through shadow to the location of your soul bonded host.',更新于2026-02-14-->
+  <!--EN: Step through shadow to the location of your soul bonded host.-->
+  <TM_ShadowStep.description>穿过阴影到达契约对象的位置</TM_ShadowStep.description>
+  <!-- ShadowBolt -->
+  <!--原中文: '暗影箭（I）', 原英文: '无' -> 新英文: 'Shadow Bolt',更新于2026-02-14-->
+  <!--EN: Shadow Bolt-->
+  <TM_ShadowBolt.label>暗影箭（I）</TM_ShadowBolt.label>
+  <!--原中文: '发射暗影箭。任何在路上被抓住的生物都会被影子碰触。当受到冲击时，阴影能量在猛烈的黑暗波浪中释放。\n		\n施法时间: 2s\n冷却时间 : 20s\n范围: 40', 原英文: '无' -> 新英文: 'Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.
+		
+Cast time: 2s
+Cooldown : 20s
+Range: 40',更新于2026-02-14-->
+  <!--EN: Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.
+		
+Cast time: 2s
+Cooldown : 20s
+Range: 40-->
+  <TM_ShadowBolt.description>发射暗影箭。任何在路上被抓住的生物都会被影子碰触。当受到冲击时，阴影能量在猛烈的黑暗波浪中释放。\n		\n施法时间: 2s\n冷却时间 : 20s\n范围: 40</TM_ShadowBolt.description>
+  <!-- ShadowBolt_I -->
+  <!--原中文: '暗影箭（II）', 原英文: '无' -> 新英文: 'Shadow Bolt',更新于2026-02-14-->
+  <!--EN: Shadow Bolt-->
+  <TM_ShadowBolt_I.label>暗影箭（II）</TM_ShadowBolt_I.label>
+  <!--原中文: '发射暗影箭。任何在路上被抓住的生物都会被影子碰触。当受到冲击时，阴影能量在猛烈的黑暗波浪中释放。\n		\n施法时间: 1.8s\n冷却时间 : 18s\n范围: 45', 原英文: '无' -> 新英文: 'Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.
+		
+Cast time: 1.8s
+Cooldown : 18s
+Range: 45',更新于2026-02-14-->
+  <!--EN: Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.
+		
+Cast time: 1.8s
+Cooldown : 18s
+Range: 45-->
+  <TM_ShadowBolt_I.description>发射暗影箭。任何在路上被抓住的生物都会被影子碰触。当受到冲击时，阴影能量在猛烈的黑暗波浪中释放。\n		\n施法时间: 1.8s\n冷却时间 : 18s\n范围: 45</TM_ShadowBolt_I.description>
+  <!-- ShadowBolt_II -->
+  <!--原中文: '暗影箭（III）', 原英文: '无' -> 新英文: 'Shadow Bolt',更新于2026-02-14-->
+  <!--EN: Shadow Bolt-->
+  <TM_ShadowBolt_II.label>暗影箭（III）</TM_ShadowBolt_II.label>
+  <!--原中文: '发射暗影箭。任何在路上被抓住的生物都会被影子碰触。当受到冲击时，阴影能量在猛烈的黑暗波浪中释放。\n		\n施法时间: 1.6s\n冷却时间 : 16s\n范围: 50', 原英文: '无' -> 新英文: 'Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.
+		
+Cast time: 1.6s
+Cooldown : 16s
+Range: 50',更新于2026-02-14-->
+  <!--EN: Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.
+		
+Cast time: 1.6s
+Cooldown : 16s
+Range: 50-->
+  <TM_ShadowBolt_II.description>发射暗影箭。任何在路上被抓住的生物都会被影子碰触。当受到冲击时，阴影能量在猛烈的黑暗波浪中释放。\n		\n施法时间: 1.6s\n冷却时间 : 16s\n范围: 50</TM_ShadowBolt_II.description>
+  <!-- ShadowBolt_III -->
+  <!--原中文: '暗影箭（IV）', 原英文: '无' -> 新英文: 'Shadow Bolt',更新于2026-02-14-->
+  <!--EN: Shadow Bolt-->
+  <TM_ShadowBolt_III.label>暗影箭（IV）</TM_ShadowBolt_III.label>
+  <!--原中文: '发射暗影箭。任何在路上被抓住的生物都会被影子碰触。当受到冲击时，阴影能量在猛烈的黑暗波浪中释放。\n		\n施法时间: 1.5s\n冷却时间 : 15s\n范围: 55', 原英文: '无' -> 新英文: 'Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.
+		
+Cast time: 1.5s
+Cooldown : 15s
+Range: 55',更新于2026-02-14-->
+  <!--EN: Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.
+		
+Cast time: 1.5s
+Cooldown : 15s
+Range: 55-->
+  <TM_ShadowBolt_III.description>发射暗影箭。任何在路上被抓住的生物都会被影子碰触。当受到冲击时，阴影能量在猛烈的黑暗波浪中释放。\n		\n施法时间: 1.5s\n冷却时间 : 15s\n范围: 55</TM_ShadowBolt_III.description>
+  <!-- Dominate -->
+  <!--原中文: '支配', 原英文: '无' -> 新英文: 'Dominate',更新于2026-02-14-->
+  <!--EN: Dominate-->
+  <TM_Dominate.label>支配</TM_Dominate.label>
+  <!--原中文: '召唤阴影让你的敌人陷入恐惧的噩梦中。被控制的单位周围的敌人也可能屈服于恐惧，让阴影控制他们自己的思想。\n\n术士和魅魔以不同的方式控制他们的敌人。术士会试图打破敌人的思想，而魅魔会降低受害者的体力。', 原英文: '无' -> 新英文: 'Command the shadow to envelope your enemies in a living nightmare that will surround them in their greatest fears. Nearby enemies close enough to witness the fear in a dominated pawn may also succumb to fear and allow the shadow to dominate their own mind.
+		
+Warlocks and Succubi dominate their foes in different ways. Warlocks will attempt to break the mind of their enemies, while a succubus will reduce the physical prowess of their victims.',更新于2026-02-14-->
+  <!--EN: Command the shadow to envelope your enemies in a living nightmare that will surround them in their greatest fears. Nearby enemies close enough to witness the fear in a dominated pawn may also succumb to fear and allow the shadow to dominate their own mind.
+		
+Warlocks and Succubi dominate their foes in different ways. Warlocks will attempt to break the mind of their enemies, while a succubus will reduce the physical prowess of their victims.-->
+  <TM_Dominate.description>召唤阴影让你的敌人陷入恐惧的噩梦中。被控制的单位周围的敌人也可能屈服于恐惧，让阴影控制他们自己的思想。\n\n术士和魅魔以不同的方式控制他们的敌人。术士会试图打破敌人的思想，而魅魔会降低受害者的体力。</TM_Dominate.description>
+  <!-- Attraction -->
+  <!--原中文: '引力陷阱（I）', 原英文: '无' -> 新英文: 'Attraction',更新于2026-02-14-->
+  <!--EN: Attraction-->
+  <TM_Attraction.label>引力陷阱（I）</TM_Attraction.label>
+  <!--原中文: '创建一个巨大的阴影井，吸附附近所有的单位到它的中心。阴影会附着在任何受到吸引力影响的生物上，在短时间内大幅降低它们的移动速度。\n \n施法时间: 3s\n范围: 40\n冷却时间: 60', 原英文: '无' -> 新英文: 'Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.
+
+Cast time: 3s
+Range: 40
+Cooldown: 60',更新于2026-02-14-->
+  <!--EN: Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.
+
+Cast time: 3s
+Range: 40
+Cooldown: 60-->
+  <TM_Attraction.description>创建一个巨大的阴影井，吸附附近所有的单位到它的中心。阴影会附着在任何受到吸引力影响的生物上，在短时间内大幅降低它们的移动速度。\n \n施法时间: 3s\n范围: 40\n冷却时间: 60</TM_Attraction.description>
+  <!-- Attraction_I -->
+  <!--原中文: '引力陷阱（II）', 原英文: '无' -> 新英文: 'Attraction',更新于2026-02-14-->
+  <!--EN: Attraction-->
+  <TM_Attraction_I.label>引力陷阱（II）</TM_Attraction_I.label>
+  <!--原中文: '创建一个巨大的阴影井，吸附附近所有的单位到它的中心。阴影会附着在任何受到吸引力影响的生物上，在短时间内大幅降低它们的移动速度。\n\n施法时间: 2.6s\n范围: 45\n冷却时间: 55', 原英文: '无' -> 新英文: 'Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.
+
+Cast time: 2.6s
+Range: 45
+Cooldown: 55',更新于2026-02-14-->
+  <!--EN: Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.
+
+Cast time: 2.6s
+Range: 45
+Cooldown: 55-->
+  <TM_Attraction_I.description>创建一个巨大的阴影井，吸附附近所有的单位到它的中心。阴影会附着在任何受到吸引力影响的生物上，在短时间内大幅降低它们的移动速度。\n\n施法时间: 2.6s\n范围: 45\n冷却时间: 55</TM_Attraction_I.description>
+  <!-- Attraction_II -->
+  <!--原中文: '引力陷阱（III）', 原英文: '无' -> 新英文: 'Attraction',更新于2026-02-14-->
+  <!--EN: Attraction-->
+  <TM_Attraction_II.label>引力陷阱（III）</TM_Attraction_II.label>
+  <!--原中文: '创建一个巨大的阴影井，吸附附近所有的单位到它的中心。阴影会附着在任何受到吸引力影响的生物上，在短时间内大幅降低它们的移动速度。\n\n施法时间: 2.3s\n范围: 50\n冷却时间: 50', 原英文: '无' -> 新英文: 'Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.
+
+Cast time: 2.3s
+Range: 50
+Cooldown: 50',更新于2026-02-14-->
+  <!--EN: Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.
+
+Cast time: 2.3s
+Range: 50
+Cooldown: 50-->
+  <TM_Attraction_II.description>创建一个巨大的阴影井，吸附附近所有的单位到它的中心。阴影会附着在任何受到吸引力影响的生物上，在短时间内大幅降低它们的移动速度。\n\n施法时间: 2.3s\n范围: 50\n冷却时间: 50</TM_Attraction_II.description>
+  <!-- Attraction_III -->
+  <!--原中文: '引力陷阱（IV）', 原英文: '无' -> 新英文: 'Attraction',更新于2026-02-14-->
+  <!--EN: Attraction-->
+  <TM_Attraction_III.label>引力陷阱（IV）</TM_Attraction_III.label>
+  <!--原中文: '创建一个巨大的阴影井，吸附附近所有的单位到它的中心。阴影会附着在任何受到吸引力影响的生物上，在短时间内大幅降低它们的移动速度。\n\n施法时间: 2s\n范围: 55\n冷却时间: 45', 原英文: '无' -> 新英文: 'Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.
+
+Cast time: 2s
+Range: 55
+Cooldown: 45',更新于2026-02-14-->
+  <!--EN: Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.
+
+Cast time: 2s
+Range: 55
+Cooldown: 45-->
+  <TM_Attraction_III.description>创建一个巨大的阴影井，吸附附近所有的单位到它的中心。阴影会附着在任何受到吸引力影响的生物上，在短时间内大幅降低它们的移动速度。\n\n施法时间: 2s\n范围: 55\n冷却时间: 45</TM_Attraction_III.description>
+  <!-- Repulsion -->
+  <!--原中文: '抗拒光环（I）', 原英文: '无' -> 新英文: 'Repulsion',更新于2026-02-14-->
+  <!--EN: Repulsion-->
+  <TM_Repulsion.label>抗拒光环（I）</TM_Repulsion.label>
+  <!--原中文: '术士产生能量爆发推开附近的生物。\n\n施法时间: 1s\n范围: 40\n冷却时间: 30s\n半径: 5', 原英文: '无' -> 新英文: 'The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.
+
+Cast time: 1s
+Range: 40
+Cooldown: 30s
+Radius: 5',更新于2026-02-14-->
+  <!--EN: The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.
+
+Cast time: 1s
+Range: 40
+Cooldown: 30s
+Radius: 5-->
+  <TM_Repulsion.description>术士产生能量爆发推开附近的生物。\n\n施法时间: 1s\n范围: 40\n冷却时间: 30s\n半径: 5</TM_Repulsion.description>
+  <!-- Repulsion_I -->
+  <!--原中文: '抗拒光环（II）', 原英文: '无' -> 新英文: 'Repulsion',更新于2026-02-14-->
+  <!--EN: Repulsion-->
+  <TM_Repulsion_I.label>抗拒光环（II）</TM_Repulsion_I.label>
+  <!--原中文: '术士产生能量爆发推开附近的生物。\n\n施法时间: 8s\n范围: 47\n冷却时间: 25s\n半径: 6', 原英文: '无' -> 新英文: 'The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.
+
+Cast time: .8s
+Range: 47
+Cooldown: 25s
+Radius: 6',更新于2026-02-14-->
+  <!--EN: The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.
+
+Cast time: .8s
+Range: 47
+Cooldown: 25s
+Radius: 6-->
+  <TM_Repulsion_I.description>术士产生能量爆发推开附近的生物。\n\n施法时间: 8s\n范围: 47\n冷却时间: 25s\n半径: 6</TM_Repulsion_I.description>
+  <!-- Repulsion_II -->
+  <!--原中文: '抗拒光环（III）', 原英文: '无' -> 新英文: 'Repulsion',更新于2026-02-14-->
+  <!--EN: Repulsion-->
+  <TM_Repulsion_II.label>抗拒光环（III）</TM_Repulsion_II.label>
+  <!--原中文: '术士产生能量爆发推开附近的生物。\n\n施法时间: 6s\n范围: 54\n冷却时间: 20s\n半径: 7', 原英文: '无' -> 新英文: 'The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.
+
+Cast time: .6s
+Range: 54
+Cooldown: 20s
+Radius: 7',更新于2026-02-14-->
+  <!--EN: The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.
+
+Cast time: .6s
+Range: 54
+Cooldown: 20s
+Radius: 7-->
+  <TM_Repulsion_II.description>术士产生能量爆发推开附近的生物。\n\n施法时间: 6s\n范围: 54\n冷却时间: 20s\n半径: 7</TM_Repulsion_II.description>
+  <!-- Repulsion_III -->
+  <!--原中文: '抗拒光环（IV）', 原英文: '无' -> 新英文: 'Repulsion',更新于2026-02-14-->
+  <!--EN: Repulsion-->
+  <TM_Repulsion_III.label>抗拒光环（IV）</TM_Repulsion_III.label>
+  <!--原中文: '术士产生能量爆发推开附近的生物。\n\n施法时间: 5s\n范围: 60\n冷却时间: 15s\n半径: 8', 原英文: '无' -> 新英文: 'The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.
+
+Cast time: .5s
+Range: 60
+Cooldown: 15s
+Radius: 8',更新于2026-02-14-->
+  <!--EN: The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.
+
+Cast time: .5s
+Range: 60
+Cooldown: 15s
+Radius: 8-->
+  <TM_Repulsion_III.description>术士产生能量爆发推开附近的生物。\n\n施法时间: 5s\n范围: 60\n冷却时间: 15s\n半径: 8</TM_Repulsion_III.description>
+  <!-- Scorn -->
+  <!--原中文: '厄运化身', 原英文: '无' -> 新英文: 'Scorn',更新于2026-02-14-->
+  <!--EN: Scorn-->
+  <TM_Scorn.label>厄运化身</TM_Scorn.label>
+  <!--原中文: '魅魔使用她的恶魔力量转化成一个长翅膀的恶魔，在黑暗狂暴的洪流中粉碎她的敌人。', 原英文: '无' -> 新英文: 'The succubus uses her demonic powers to partially transform into a winged demon, launching herself towards a distant location to crush her foes in a torrent of dark fury.
+		
+A succubus will retain her partial demon form for a short period after using this ability, granting her improved physical capacities and a damage shield.',更新于2026-02-14-->
+  <!--EN: The succubus uses her demonic powers to partially transform into a winged demon, launching herself towards a distant location to crush her foes in a torrent of dark fury.
+		
+A succubus will retain her partial demon form for a short period after using this ability, granting her improved physical capacities and a damage shield.-->
+  <TM_Scorn.description>魅魔使用她的恶魔力量转化成一个长翅膀的恶魔，在黑暗狂暴的洪流中粉碎她的敌人。</TM_Scorn.description>
+  <!-- PsychicShock -->
+  <!--原中文: '魂飞魄散', 原英文: '无' -> 新英文: 'Psychic Shock',更新于2026-02-14-->
+  <!--EN: Psychic Shock-->
+  <TM_PsychicShock.label>魂飞魄散</TM_PsychicShock.label>
+  <!--原中文: '术士释放出强大的精神能量波。任何被捕获的单位都将受到心灵力量的狂轰烂炸，并将短暂地服从术士的意志。\n		\n术士会利用别人的思想来传播心灵波动。术士也会尝试摧毁任何被触动的敌人的心灵。受到这种精神攻击会使目标在短时间内迷失方向，如果术士受到精神能量反射的影响，他甚至也会迷失方向。心灵冲击在术士灵能感应的基础上得到加值，在心灵感应降低的情况下，可能无法作用于生物。', 原英文: '无' -> 新英文: 'The Warlock removes all mental barriers and projects a powerful wave of psychic energy. Any pawns caught in the wave will be bombarded by psychic power and will briefly be subjected to the will of the Warlock. 
+		
+The Warlock who will use the minds of others to propagate the psychic wave. The Warlock will also attempt to destroy the mind of any enemy touched by psychic energy. Being subjected to this mental assault will disorient pawns for a short period and may even disorient the warlock if he is affected by reflected psychic energy. Psychic Shock receives a bonus based on the psychic sensitivity of the warlock and may fail to affect pawns with reduced psychic sensitivity.',更新于2026-02-14-->
+  <!--EN: The Warlock removes all mental barriers and projects a powerful wave of psychic energy. Any pawns caught in the wave will be bombarded by psychic power and will briefly be subjected to the will of the Warlock. 
+		
+The Warlock who will use the minds of others to propagate the psychic wave. The Warlock will also attempt to destroy the mind of any enemy touched by psychic energy. Being subjected to this mental assault will disorient pawns for a short period and may even disorient the warlock if he is affected by reflected psychic energy. Psychic Shock receives a bonus based on the psychic sensitivity of the warlock and may fail to affect pawns with reduced psychic sensitivity.-->
+  <TM_PsychicShock.description>术士释放出强大的精神能量波。任何被捕获的单位都将受到心灵力量的狂轰烂炸，并将短暂地服从术士的意志。\n		\n术士会利用别人的思想来传播心灵波动。术士也会尝试摧毁任何被触动的敌人的心灵。受到这种精神攻击会使目标在短时间内迷失方向，如果术士受到精神能量反射的影响，他甚至也会迷失方向。心灵冲击在术士灵能感应的基础上得到加值，在心灵感应降低的情况下，可能无法作用于生物。</TM_PsychicShock.description>
+  <!-- SummonDemon -->
+  <!--原中文: '召唤恶魔', 原英文: '无' -> 新英文: 'Summon Demon',更新于2026-02-14-->
+  <!--EN: Summon Demon-->
+  <TM_SummonDemon.label>召唤恶魔</TM_SummonDemon.label>
+  <!--原中文: '通过操纵肉体和精神的灵魂纽带来真正的恶魔力量。这种黑暗力量需要付出沉重的代价，只能在最可怕的情况下考虑使用它。\n  \n召唤开始于魅魔献祭祭品，结束于术士完成了恶魔契约的条款。', 原英文: '无' -> 新英文: 'Manifest true demonic power through the manipulation of both physical and mental soul bonds. This dark power exacts a heavy toll and its use should only be considered under dire circumstances.
+ 
+The summoning is initiated when a Succubus anchors the physical offering and is completed when a Warlock finalizes the terms of the demonic contract.',更新于2026-02-14-->
+  <!--EN: Manifest true demonic power through the manipulation of both physical and mental soul bonds. This dark power exacts a heavy toll and its use should only be considered under dire circumstances.
+ 
+The summoning is initiated when a Succubus anchors the physical offering and is completed when a Warlock finalizes the terms of the demonic contract.-->
+  <TM_SummonDemon.description>通过操纵肉体和精神的灵魂纽带来真正的恶魔力量。这种黑暗力量需要付出沉重的代价，只能在最可怕的情况下考虑使用它。\n  \n召唤开始于魅魔献祭祭品，结束于术士完成了恶魔契约的条款。</TM_SummonDemon.description>
+</LanguageData>

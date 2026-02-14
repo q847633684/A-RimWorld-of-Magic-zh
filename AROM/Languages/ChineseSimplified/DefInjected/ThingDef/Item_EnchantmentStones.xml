@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Enchanting Gems -->
+  <!--原中文: '初级奥术附魔石', 原英文: '无' -> 新英文: 'Minor Arcane Gem of Holding',更新于2026-02-14-->
+  <!--EN: Minor Arcane Gem of Holding-->
+  <TM_EStone_maxMP_minor.label>初级奥术附魔石</TM_EStone_maxMP_minor.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的最大法力值5%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. Gazing into the stone gives the observer an eerie sense of vertigo, as if looking into a bottomless well. This gem can be used to imbue an item with magical potential, increasing the maximum energy of any mage or fighter wearing the item by 5%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. Gazing into the stone gives the observer an eerie sense of vertigo, as if looking into a bottomless well. This gem can be used to imbue an item with magical potential, increasing the maximum energy of any mage or fighter wearing the item by 5%.-->
+  <TM_EStone_maxMP_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的最大法力值5%。</TM_EStone_maxMP_minor.description>
+  <!--原中文: '中级奥术附魔石', 原英文: '无' -> 新英文: 'Arcane Gem of Holding',更新于2026-02-14-->
+  <!--EN: Arcane Gem of Holding-->
+  <TM_EStone_maxMP.label>中级奥术附魔石</TM_EStone_maxMP.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的最大法力值10%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. Gazing into the stone gives the observer an eerie sense of vertigo, as if looking into a bottomless well. This gem can be used to imbue an item with magical potential, increasing the maximum energy of any mage or fighter wearing the item by 10%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. Gazing into the stone gives the observer an eerie sense of vertigo, as if looking into a bottomless well. This gem can be used to imbue an item with magical potential, increasing the maximum energy of any mage or fighter wearing the item by 10%.-->
+  <TM_EStone_maxMP.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的最大法力值10%。</TM_EStone_maxMP.description>
+  <!--原中文: '高级奥术附魔石', 原英文: '无' -> 新英文: 'Major Arcane Gem of Holding',更新于2026-02-14-->
+  <!--EN: Major Arcane Gem of Holding-->
+  <TM_EStone_maxMP_major.label>高级奥术附魔石</TM_EStone_maxMP_major.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的最大法力值15%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. Gazing into the stone gives the observer an eerie sense of vertigo, as if looking into a bottomless well. This gem can be used to imbue an item with magical potential, increasing the maximum energy of any mage or fighter wearing the item by 15%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. Gazing into the stone gives the observer an eerie sense of vertigo, as if looking into a bottomless well. This gem can be used to imbue an item with magical potential, increasing the maximum energy of any mage or fighter wearing the item by 15%.-->
+  <TM_EStone_maxMP_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的最大法力值15%。</TM_EStone_maxMP_major.description>
+  <!--原中文: '初级再生附魔石', 原英文: '无' -> 新英文: 'Minor Arcane Gem of Regeneration',更新于2026-02-14-->
+  <!--EN: Minor Arcane Gem of Regeneration-->
+  <TM_EStone_mpRegenRate_minor.label>初级再生附魔石</TM_EStone_mpRegenRate_minor.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的法力回复速度5%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. This gem can be used to imbue an item, increasing the energy regeneration rate of any mage or fighter wearing the item by 5%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. This gem can be used to imbue an item, increasing the energy regeneration rate of any mage or fighter wearing the item by 5%.-->
+  <TM_EStone_mpRegenRate_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的法力回复速度5%。</TM_EStone_mpRegenRate_minor.description>
+  <!--原中文: '中级再生附魔石', 原英文: '无' -> 新英文: 'Arcane Gem of Regeneration',更新于2026-02-14-->
+  <!--EN: Arcane Gem of Regeneration-->
+  <TM_EStone_mpRegenRate.label>中级再生附魔石</TM_EStone_mpRegenRate.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的法力回复速度10%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. This gem can be used to imbue an item, increasing the energy regeneration rate of any mage or fighter wearing the item by 10%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. This gem can be used to imbue an item, increasing the energy regeneration rate of any mage or fighter wearing the item by 10%.-->
+  <TM_EStone_mpRegenRate.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的法力回复速度10%。</TM_EStone_mpRegenRate.description>
+  <!--原中文: '高级再生附魔石', 原英文: '无' -> 新英文: 'Major Arcane Gem of Regeneration',更新于2026-02-14-->
+  <!--EN: Major Arcane Gem of Regeneration-->
+  <TM_EStone_mpRegenRate_major.label>高级再生附魔石</TM_EStone_mpRegenRate_major.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的法力回复速度15%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. This gem can be used to imbue an item, increasing the energy regeneration rate of any mage or fighter wearing the item by 15%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. This gem can be used to imbue an item, increasing the energy regeneration rate of any mage or fighter wearing the item by 15%.-->
+  <TM_EStone_mpRegenRate_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的法力回复速度15%。</TM_EStone_mpRegenRate_major.description>
+  <!--原中文: '初级保存附魔石', 原英文: '无' -> 新英文: 'Minor Arcane Gem of Conservation',更新于2026-02-14-->
+  <!--EN: Minor Arcane Gem of Conservation-->
+  <TM_EStone_mpCost_minor.label>初级保存附魔石</TM_EStone_mpCost_minor.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将降低装备者的技能法力消耗3%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the energy cost of any spell by 3%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the energy cost of any spell by 3%.-->
+  <TM_EStone_mpCost_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将降低装备者的技能法力消耗3%。</TM_EStone_mpCost_minor.description>
+  <!--原中文: '中级保存附魔石', 原英文: '无' -> 新英文: 'Arcane Gem of Conservation',更新于2026-02-14-->
+  <!--EN: Arcane Gem of Conservation-->
+  <TM_EStone_mpCost.label>中级保存附魔石</TM_EStone_mpCost.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将降低装备者的技能法力消耗5%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the energy cost of any spell by 5%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the energy cost of any spell by 5%.-->
+  <TM_EStone_mpCost.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将降低装备者的技能法力消耗5%。</TM_EStone_mpCost.description>
+  <!--原中文: '高级保存附魔石', 原英文: '无' -> 新英文: 'Major Arcane Gem of Conservation',更新于2026-02-14-->
+  <!--EN: Major Arcane Gem of Conservation-->
+  <TM_EStone_mpCost_major.label>高级保存附魔石</TM_EStone_mpCost_major.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将降低装备者的技能法力消耗7%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the energy cost of any spell by 7%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the energy cost of any spell by 7%.-->
+  <TM_EStone_mpCost_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将降低装备者的技能法力消耗7%。</TM_EStone_mpCost_major.description>
+  <!--原中文: '初级加速附魔石', 原英文: '无' -> 新英文: 'Minor Arcane Gem of Acceleration',更新于2026-02-14-->
+  <!--EN: Minor Arcane Gem of Acceleration-->
+  <TM_EStone_coolDown_minor.label>初级加速附魔石</TM_EStone_coolDown_minor.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的技能冷却速度3%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the cooldown timer of any ability by 3%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the cooldown timer of any ability by 3%.-->
+  <TM_EStone_coolDown_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的技能冷却速度3%。</TM_EStone_coolDown_minor.description>
+  <!--原中文: '中级加速附魔石', 原英文: '无' -> 新英文: 'Arcane Gem of Acceleration',更新于2026-02-14-->
+  <!--EN: Arcane Gem of Acceleration-->
+  <TM_EStone_coolDown.label>中级加速附魔石</TM_EStone_coolDown.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的技能冷却速度5%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the cooldown timer of any ability by 5%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the cooldown timer of any ability by 5%.-->
+  <TM_EStone_coolDown.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的技能冷却速度5%。</TM_EStone_coolDown.description>
+  <!--原中文: '高级加速附魔石', 原英文: '无' -> 新英文: 'Major Arcane Gem of Acceleration',更新于2026-02-14-->
+  <!--EN: Major Arcane Gem of Acceleration-->
+  <TM_EStone_coolDown_major.label>高级加速附魔石</TM_EStone_coolDown_major.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的技能冷却速度7%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the cooldown timer of any ability by 7%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem decreases the cooldown timer of any ability by 7%.-->
+  <TM_EStone_coolDown_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的技能冷却速度7%。</TM_EStone_coolDown_major.description>
+  <!--原中文: '初级知识附魔石', 原英文: '无' -> 新英文: 'Minor Arcane Gem of Learning',更新于2026-02-14-->
+  <!--EN: Minor Arcane Gem of Learning-->
+  <TM_EStone_xpGain_minor.label>初级知识附魔石</TM_EStone_xpGain_minor.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的经验值获取速度5%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem assists the wearer by storing a residual mimicry of the ability, allowing the wielder additional introspection and increasing XP gained by 5%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem assists the wearer by storing a residual mimicry of the ability, allowing the wielder additional introspection and increasing XP gained by 5%.-->
+  <TM_EStone_xpGain_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的经验值获取速度5%。</TM_EStone_xpGain_minor.description>
+  <!--原中文: '中级知识附魔石', 原英文: '无' -> 新英文: 'Arcane Gem of Learning',更新于2026-02-14-->
+  <!--EN: Arcane Gem of Learning-->
+  <TM_EStone_xpGain.label>中级知识附魔石</TM_EStone_xpGain.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的经验值获取速度10%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem assists the wearer by storing a residual mimicry of the ability, allowing the wielder additional introspection and increasing XP gained by 10%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem assists the wearer by storing a residual mimicry of the ability, allowing the wielder additional introspection and increasing XP gained by 10%.-->
+  <TM_EStone_xpGain.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的经验值获取速度10%。</TM_EStone_xpGain.description>
+  <!--原中文: '高级知识附魔石', 原英文: '无' -> 新英文: 'Major Arcane Gem of Learning',更新于2026-02-14-->
+  <!--EN: Major Arcane Gem of Learning-->
+  <TM_EStone_xpGain_major.label>高级知识附魔石</TM_EStone_xpGain_major.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的经验值获取速度15%。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem assists the wearer by storing a residual mimicry of the ability, allowing the wielder additional introspection and increasing XP gained by 15%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem assists the wearer by storing a residual mimicry of the ability, allowing the wielder additional introspection and increasing XP gained by 15%.-->
+  <TM_EStone_xpGain_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的经验值获取速度15%。</TM_EStone_xpGain_major.description>
+  <!--原中文: '初级抗性附魔石', 原英文: '无' -> 新英文: 'Minor Arcane Gem of Resistance',更新于2026-02-14-->
+  <!--EN: Minor Arcane Gem of Resistance-->
+  <TM_EStone_arcaneRes_minor.label>初级抗性附魔石</TM_EStone_arcaneRes_minor.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将装备者降低受到的魔法攻击伤害10%.', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem creates a barrier that repels active arcane energy, reducing damage taken from arcane sources by 10%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem creates a barrier that repels active arcane energy, reducing damage taken from arcane sources by 10%.-->
+  <TM_EStone_arcaneRes_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将装备者降低受到的魔法攻击伤害10%.</TM_EStone_arcaneRes_minor.description>
+  <!--原中文: '中级抗性附魔石', 原英文: '无' -> 新英文: 'Arcane Gem of Resistance',更新于2026-02-14-->
+  <!--EN: Arcane Gem of Resistance-->
+  <TM_EStone_arcaneRes.label>中级抗性附魔石</TM_EStone_arcaneRes.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将装备者降低受到的魔法攻击伤害20%.', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem creates a barrier that repels active arcane energy, reducing damage taken from arcane sources by 20%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem creates a barrier that repels active arcane energy, reducing damage taken from arcane sources by 20%.-->
+  <TM_EStone_arcaneRes.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将装备者降低受到的魔法攻击伤害20%.</TM_EStone_arcaneRes.description>
+  <!--原中文: '高级抗性附魔石', 原英文: '无' -> 新英文: 'Major Arcane Gem of Resistance',更新于2026-02-14-->
+  <!--EN: Major Arcane Gem of Resistance-->
+  <TM_EStone_arcaneRes_major.label>高级抗性附魔石</TM_EStone_arcaneRes_major.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将装备者降低受到的魔法攻击伤害30%.', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem creates a barrier that repels active arcane energy, reducing damage taken from arcane sources by 30%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this gem creates a barrier that repels active arcane energy, reducing damage taken from arcane sources by 30%.-->
+  <TM_EStone_arcaneRes_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将装备者降低受到的魔法攻击伤害30%.</TM_EStone_arcaneRes_major.description>
+  <!--原中文: '初级力量附魔石', 原英文: '无' -> 新英文: 'Minor Arcane Gem of Force',更新于2026-02-14-->
+  <!--EN: Minor Arcane Gem of Force-->
+  <TM_EStone_arcaneDmg_minor.label>初级力量附魔石</TM_EStone_arcaneDmg_minor.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将增加装备者的伤害输出4%.', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this enchantment augments the force of an attack, increasing the damage output by 4%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this enchantment augments the force of an attack, increasing the damage output by 4%.-->
+  <TM_EStone_arcaneDmg_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将增加装备者的伤害输出4%.</TM_EStone_arcaneDmg_minor.description>
+  <!--原中文: '中级力量附魔石', 原英文: '无' -> 新英文: 'Arcane Gem of Force',更新于2026-02-14-->
+  <!--EN: Arcane Gem of Force-->
+  <TM_EStone_arcaneDmg.label>中级力量附魔石</TM_EStone_arcaneDmg.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将增加装备者的伤害输出8%.', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this enchantment augments the force of an attack, increasing the damage output by 8%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this enchantment augments the force of an attack, increasing the damage output by 8%.-->
+  <TM_EStone_arcaneDmg.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将增加装备者的伤害输出8%.</TM_EStone_arcaneDmg.description>
+  <!--原中文: '高级力量附魔石', 原英文: '无' -> 新英文: 'Major Arcane Gem of Force',更新于2026-02-14-->
+  <!--EN: Major Arcane Gem of Force-->
+  <TM_EStone_arcaneDmg_major.label>高级力量附魔石</TM_EStone_arcaneDmg_major.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将增加装备者的伤害输出12%.', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this enchantment augments the force of an attack, increasing the damage output by 12%.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. When imbued into an item, this enchantment augments the force of an attack, increasing the damage output by 12%.-->
+  <TM_EStone_arcaneDmg_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将增加装备者的伤害输出12%.</TM_EStone_arcaneDmg_major.description>
+  <!--原中文: '初级奇迹附魔石', 原英文: '无' -> 新英文: 'Minor Arcane Gem of Wonder',更新于2026-02-14-->
+  <!--EN: Minor Arcane Gem of Wonder-->
+  <TM_EStone_wonder_minor.label>初级奇迹附魔石</TM_EStone_wonder_minor.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将给予装备者所有魔法微量的强化。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. This gem hums with intense power. This gem can be used to imbue an item with magical potential, granting minor bonuses to all enchantment categories.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. This gem hums with intense power. This gem can be used to imbue an item with magical potential, granting minor bonuses to all enchantment categories.-->
+  <TM_EStone_wonder_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将给予装备者所有魔法微量的强化。</TM_EStone_wonder_minor.description>
+  <!--原中文: '中级奇迹附魔石', 原英文: '无' -> 新英文: 'Arcane Gem of Wonder',更新于2026-02-14-->
+  <!--EN: Arcane Gem of Wonder-->
+  <TM_EStone_wonder.label>中级奇迹附魔石</TM_EStone_wonder.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将给予装备者所有魔法适量的强化。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. This gem hums with intense power. This gem can be used to imbue an item with magical potential, granting moderate bonuses to all enchantment categories.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. This gem hums with intense power. This gem can be used to imbue an item with magical potential, granting moderate bonuses to all enchantment categories.-->
+  <TM_EStone_wonder.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将给予装备者所有魔法适量的强化。</TM_EStone_wonder.description>
+  <!--原中文: '高级奇迹附魔石', 原英文: '无' -> 新英文: 'Major Arcane Gem of Wonder',更新于2026-02-14-->
+  <!--EN: Major Arcane Gem of Wonder-->
+  <TM_EStone_wonder_major.label>高级奇迹附魔石</TM_EStone_wonder_major.label>
+  <!--原中文: '一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将给予装备者所有魔法大量的强化。', 原英文: '无' -> 新英文: 'A magical stone that can be used by a mage to enchant an item with magical energy. This gem hums with intense power. This gem can be used to imbue an item with magical potential, granting major bonuses to all enchantment categories.',更新于2026-02-14-->
+  <!--EN: A magical stone that can be used by a mage to enchant an item with magical energy. This gem hums with intense power. This gem can be used to imbue an item with magical potential, granting major bonuses to all enchantment categories.-->
+  <TM_EStone_wonder_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将给予装备者所有魔法大量的强化。</TM_EStone_wonder_major.description>
+  <!-- Raw Magicyte -->
+  <!--原中文: '魔法原石', 原英文: '无' -> 新英文: 'unrefined magicyte',更新于2026-02-14-->
+  <!--EN: unrefined magicyte-->
+  <RawMagicyte.label>魔法原石</RawMagicyte.label>
+  <!--原中文: '一块在黑暗中散发着点点微光的石头，拥有着玻璃一样的外观，当一名法师触碰到它时可以察觉到它似乎在对外界发射一种神秘的能量。', 原英文: '无' -> 新英文: 'A stone that seems to wrap itself in a dull, glassy surface, as if a mysterious power has cloaked itself in the center of the stone. Seemingly composed of the same stone it was cut from, this fairly unremarkable stone shimmers slightly, even in the dark, and it emits an energy signature that mages can detect when touching the stone.
+	
+Raw Magicyte can be refined to make a variety of enchanting gems at the gemcutting table.',更新于2026-02-14-->
+  <!--EN: A stone that seems to wrap itself in a dull, glassy surface, as if a mysterious power has cloaked itself in the center of the stone. Seemingly composed of the same stone it was cut from, this fairly unremarkable stone shimmers slightly, even in the dark, and it emits an energy signature that mages can detect when touching the stone.
+	
+Raw Magicyte can be refined to make a variety of enchanting gems at the gemcutting table.-->
+  <RawMagicyte.description>一块在黑暗中散发着点点微光的石头，拥有着玻璃一样的外观，当一名法师触碰到它时可以察觉到它似乎在对外界发射一种神秘的能量。</RawMagicyte.description>
+</LanguageData>

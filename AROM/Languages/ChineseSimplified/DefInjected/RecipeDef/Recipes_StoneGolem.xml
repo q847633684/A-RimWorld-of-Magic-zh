@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Stone Golem upgrade recipes -->
+  <!--原中文: '部位修复', 原英文: '无' -> 新英文: 'Part restoration',更新于2026-02-14-->
+  <!--EN: Part restoration-->
+  <TM_StoneGolem_RepairBlock.label>部位修复</TM_StoneGolem_RepairBlock.label>
+  <!--原中文: '替换不需要升级的缺失傀儡部件。', 原英文: '无' -> 新英文: 'Replaces missing golem parts that do not require an upgrade.',更新于2026-02-14-->
+  <!--EN: Replaces missing golem parts that do not require an upgrade.-->
+  <TM_StoneGolem_RepairBlock.description>替换不需要升级的缺失傀儡部件。</TM_StoneGolem_RepairBlock.description>
+  <!--原中文: '部位修复', 原英文: '无' -> 新英文: 'crafting golem part',更新于2026-02-14-->
+  <!--EN: crafting golem part-->
+  <TM_StoneGolem_RepairBlock.jobString>部位修复</TM_StoneGolem_RepairBlock.jobString>
+  <!--原中文: '能量核心', 原英文: '无' -> 新英文: 'energy cell',更新于2026-02-14-->
+  <!--EN: energy cell-->
+  <TM_StoneGolem_EnergyMax.label>能量核心</TM_StoneGolem_EnergyMax.label>
+  <!--原中文: '创造一个能量核心，每个核心最大增加120蓄能上限。', 原英文: '无' -> 新英文: 'Creates an energy cell that increases maximum energy by 120 per cell.',更新于2026-02-14-->
+  <!--EN: Creates an energy cell that increases maximum energy by 120 per cell.-->
+  <TM_StoneGolem_EnergyMax.description>创造一个能量核心，每个核心最大增加120蓄能上限。</TM_StoneGolem_EnergyMax.description>
+  <!--原中文: '制造能量核心', 原英文: '无' -> 新英文: 'creating energy cell',更新于2026-02-14-->
+  <!--EN: creating energy cell-->
+  <TM_StoneGolem_EnergyMax.jobString>制造能量核心</TM_StoneGolem_EnergyMax.jobString>
+  <!--原中文: '功率转化', 原英文: '无' -> 新英文: 'energy converter',更新于2026-02-14-->
+  <!--EN: energy converter-->
+  <TM_StoneGolem_EnergyConverter.label>功率转化</TM_StoneGolem_EnergyConverter.label>
+  <!--原中文: '增加傀儡吸收和使用能量的效率10%。', 原英文: '无' -> 新英文: 'Increases the efficiency of energy absorbed and used by the golem by 10%.',更新于2026-02-14-->
+  <!--EN: Increases the efficiency of energy absorbed and used by the golem by 10%.-->
+  <TM_StoneGolem_EnergyConverter.description>增加傀儡吸收和使用能量的效率10%。</TM_StoneGolem_EnergyConverter.description>
+  <!--原中文: '能量功率升级', 原英文: '无' -> 新英文: 'constructing energy converter',更新于2026-02-14-->
+  <!--EN: constructing energy converter-->
+  <TM_StoneGolem_EnergyConverter.jobString>能量功率升级</TM_StoneGolem_EnergyConverter.jobString>
+  <!--原中文: '能量再生', 原英文: '无' -> 新英文: 'energy generator',更新于2026-02-14-->
+  <!--EN: energy generator-->
+  <TM_StoneGolem_EnergyRegen.label>能量再生</TM_StoneGolem_EnergyRegen.label>
+  <!--原中文: '每小时增加傀儡4点的能量回复速度。', 原英文: '无' -> 新英文: 'Increases the energy regeneration rate of the golem by 4 per hour.',更新于2026-02-14-->
+  <!--EN: Increases the energy regeneration rate of the golem by 4 per hour.-->
+  <TM_StoneGolem_EnergyRegen.description>每小时增加傀儡4点的能量回复速度。</TM_StoneGolem_EnergyRegen.description>
+  <!--原中文: '能量再生', 原英文: '无' -> 新英文: 'constructing energy generator',更新于2026-02-14-->
+  <!--EN: constructing energy generator-->
+  <TM_StoneGolem_EnergyRegen.jobString>能量再生</TM_StoneGolem_EnergyRegen.jobString>
+  <!--原中文: '淬火', 原英文: '无' -> 新英文: 'Hardening',更新于2026-02-14-->
+  <!--EN: Hardening-->
+  <TM_StoneGolem_Armor.label>淬火</TM_StoneGolem_Armor.label>
+  <!--原中文: '每次升级都会增加傀儡的护甲:  \n钝器:	+4%\n利器:	+11%\n热能:	+6%', 原英文: '无' -> 新英文: 'Each upgrade increases the armor of the golem:
+Blunt:	+4%
+Sharp:	+11%
+Heat:	+6%',更新于2026-02-14-->
+  <!--EN: Each upgrade increases the armor of the golem:
+Blunt:	+4%
+Sharp:	+11%
+Heat:	+6%-->
+  <TM_StoneGolem_Armor.description>每次升级都会增加傀儡的护甲:  \n钝器:	+4%\n利器:	+11%\n热能:	+6%</TM_StoneGolem_Armor.description>
+  <!--原中文: '淬火', 原英文: '无' -> 新英文: 'crafting golem part',更新于2026-02-14-->
+  <!--EN: crafting golem part-->
+  <TM_StoneGolem_Armor.jobString>淬火</TM_StoneGolem_Armor.jobString>
+  <!--原中文: '重构', 原英文: '无' -> 新英文: 'frame tier',更新于2026-02-14-->
+  <!--EN: frame tier-->
+  <TM_StoneGolem_LifeStage.label>重构</TM_StoneGolem_LifeStage.label>
+  <!--原中文: '每次升级都会增加傀儡的性能 [1,2,3]:\n移动速度:	+[10/20/30]%\n生名字:		+[40/70/100]%', 原英文: '无' -> 新英文: 'Improves and refines the golem's frame each level [1,2,3]:
+Movement:	+[10/20/30]%
+Health:		+[40/70/100]%',更新于2026-02-14-->
+  <!--EN: Improves and refines the golem's frame each level [1,2,3]:
+Movement:	+[10/20/30]%
+Health:		+[40/70/100]%-->
+  <TM_StoneGolem_LifeStage.description>每次升级都会增加傀儡的性能 [1,2,3]:\n移动速度:	+[10/20/30]%\n生名字:		+[40/70/100]%</TM_StoneGolem_LifeStage.description>
+  <!--原中文: '重构', 原英文: '无' -> 新英文: 'improving golem frame',更新于2026-02-14-->
+  <!--EN: improving golem frame-->
+  <TM_StoneGolem_LifeStage.jobString>重构</TM_StoneGolem_LifeStage.jobString>
+  <!--原中文: '岩石魔炉', 原英文: '无' -> 新英文: 'Compactor',更新于2026-02-14-->
+  <!--EN: Compactor-->
+  <TM_StoneGolem_Compactor.label>岩石魔炉</TM_StoneGolem_Compactor.label>
+  <!--原中文: '傀儡利用体内的岩石魔炉能够将石头研磨成可用的块砖。', 原英文: '无' -> 新英文: 'Outfits the hollow golem with a stone compactor able to crush stone chunks into usable brick.',更新于2026-02-14-->
+  <!--EN: Outfits the hollow golem with a stone compactor able to crush stone chunks into usable brick.-->
+  <TM_StoneGolem_Compactor.description>傀儡利用体内的岩石魔炉能够将石头研磨成可用的块砖。</TM_StoneGolem_Compactor.description>
+  <!--原中文: '装载', 原英文: '无' -> 新英文: 'crafting golem upgrade',更新于2026-02-14-->
+  <!--EN: crafting golem upgrade-->
+  <TM_StoneGolem_Compactor.jobString>装载</TM_StoneGolem_Compactor.jobString>
+  <!--原中文: '研磨砂岩', 原英文: '无' -> 新英文: 'crush sandstone',更新于2026-02-14-->
+  <!--EN: crush sandstone-->
+  <TM_StoneGolem_SandstoneBricks.label>研磨砂岩</TM_StoneGolem_SandstoneBricks.label>
+  <!--原中文: '将砂岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。', 原英文: '无' -> 新英文: 'Deposits sandstone chunks into the golem to be crushed into usable blocks.',更新于2026-02-14-->
+  <!--EN: Deposits sandstone chunks into the golem to be crushed into usable blocks.-->
+  <TM_StoneGolem_SandstoneBricks.description>将砂岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_SandstoneBricks.description>
+  <!--原中文: '装载砂岩', 原英文: '无' -> 新英文: 'loading sandstone',更新于2026-02-14-->
+  <!--EN: loading sandstone-->
+  <TM_StoneGolem_SandstoneBricks.jobString>装载砂岩</TM_StoneGolem_SandstoneBricks.jobString>
+  <!--原中文: '研磨花岗岩', 原英文: '无' -> 新英文: 'crush granite',更新于2026-02-14-->
+  <!--EN: crush granite-->
+  <TM_StoneGolem_GraniteBricks.label>研磨花岗岩</TM_StoneGolem_GraniteBricks.label>
+  <!--原中文: '将花岗岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。', 原英文: '无' -> 新英文: 'Deposits granite chunks into the golem to be crushed into usable blocks.',更新于2026-02-14-->
+  <!--EN: Deposits granite chunks into the golem to be crushed into usable blocks.-->
+  <TM_StoneGolem_GraniteBricks.description>将花岗岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_GraniteBricks.description>
+  <!--原中文: '装载砂岩', 原英文: '无' -> 新英文: 'loading sandstone',更新于2026-02-14-->
+  <!--EN: loading sandstone-->
+  <TM_StoneGolem_GraniteBricks.jobString>装载砂岩</TM_StoneGolem_GraniteBricks.jobString>
+  <!--原中文: '研磨石灰岩', 原英文: '无' -> 新英文: 'crush limestone',更新于2026-02-14-->
+  <!--EN: crush limestone-->
+  <TM_StoneGolem_LimestoneBricks.label>研磨石灰岩</TM_StoneGolem_LimestoneBricks.label>
+  <!--原中文: '将石灰岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。', 原英文: '无' -> 新英文: 'Deposits limestone chunks into the golem to be crushed into usable blocks.',更新于2026-02-14-->
+  <!--EN: Deposits limestone chunks into the golem to be crushed into usable blocks.-->
+  <TM_StoneGolem_LimestoneBricks.description>将石灰岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_LimestoneBricks.description>
+  <!--原中文: '装载石灰岩', 原英文: '无' -> 新英文: 'loading limestone',更新于2026-02-14-->
+  <!--EN: loading limestone-->
+  <TM_StoneGolem_LimestoneBricks.jobString>装载石灰岩</TM_StoneGolem_LimestoneBricks.jobString>
+  <!--原中文: '研磨板岩', 原英文: '无' -> 新英文: 'crush slate',更新于2026-02-14-->
+  <!--EN: crush slate-->
+  <TM_StoneGolem_SlateBricks.label>研磨板岩</TM_StoneGolem_SlateBricks.label>
+  <!--原中文: '将板岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。', 原英文: '无' -> 新英文: 'Deposits slate chunks into the golem to be crushed into usable blocks.',更新于2026-02-14-->
+  <!--EN: Deposits slate chunks into the golem to be crushed into usable blocks.-->
+  <TM_StoneGolem_SlateBricks.description>将板岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_SlateBricks.description>
+  <!--原中文: '装载板岩', 原英文: '无' -> 新英文: 'loading slate',更新于2026-02-14-->
+  <!--EN: loading slate-->
+  <TM_StoneGolem_SlateBricks.jobString>装载板岩</TM_StoneGolem_SlateBricks.jobString>
+  <!--原中文: '研磨大理石', 原英文: '无' -> 新英文: 'crush marble',更新于2026-02-14-->
+  <!--EN: crush marble-->
+  <TM_StoneGolem_MarbleBricks.label>研磨大理石</TM_StoneGolem_MarbleBricks.label>
+  <!--原中文: '将大理石置入巨岩傀儡中，然后将其粉碎成可用的砖块。', 原英文: '无' -> 新英文: 'Deposits marble chunks into the golem to be crushed into usable blocks.',更新于2026-02-14-->
+  <!--EN: Deposits marble chunks into the golem to be crushed into usable blocks.-->
+  <TM_StoneGolem_MarbleBricks.description>将大理石置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_MarbleBricks.description>
+  <!--原中文: '装载大理石', 原英文: '无' -> 新英文: 'loading marble',更新于2026-02-14-->
+  <!--EN: loading marble-->
+  <TM_StoneGolem_MarbleBricks.jobString>装载大理石</TM_StoneGolem_MarbleBricks.jobString>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '“气”', 原英文: '无' -> 新英文: 'Ch'i',更新于2026-02-14-->
+  <!--EN: Ch'i-->
+  <TM_ChiHD.label>“气”</TM_ChiHD.label>
+  <!--原中文: '一个和尚使用的独特能量.', 原英文: '无' -> 新英文: 'Accounts for the unique energy utilized by a Monk.',更新于2026-02-14-->
+  <!--EN: Accounts for the unique energy utilized by a Monk.-->
+  <TM_ChiHD.description>一个和尚使用的独特能量.</TM_ChiHD.description>
+  <!--原中文: '御气护体', 原英文: '无' -> 新英文: 'Mind over body',更新于2026-02-14-->
+  <!--EN: Mind over body-->
+  <TM_MindOverBodyHD.label>御气护体</TM_MindOverBodyHD.label>
+  <!--原中文: '通过克服身体的局限性来增强体力.', 原英文: '无' -> 新英文: 'Reinforces physical power by overcoming the limitations of the body.',更新于2026-02-14-->
+  <!--EN: Reinforces physical power by overcoming the limitations of the body.-->
+  <TM_MindOverBodyHD.description>通过克服身体的局限性来增强体力.</TM_MindOverBodyHD.description>
+  <TM_MindOverBodyHD.stages.0.label>I</TM_MindOverBodyHD.stages.0.label>
+  <TM_MindOverBodyHD.stages.1.label>II</TM_MindOverBodyHD.stages.1.label>
+  <TM_MindOverBodyHD.stages.2.label>III</TM_MindOverBodyHD.stages.2.label>
+  <TM_MindOverBodyHD.stages.3.label>IV</TM_MindOverBodyHD.stages.3.label>
+</LanguageData>

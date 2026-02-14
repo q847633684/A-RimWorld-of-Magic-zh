@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Misc for Golems -->
+  <!--原中文: '休眠', 原英文: '无' -> 新英文: 'deactivating',更新于2026-02-14-->
+  <!--EN: deactivating-->
+  <JobDriver_GolemDespawn.reportString>休眠</JobDriver_GolemDespawn.reportString>
+  <!--原中文: '静止', 原英文: '无' -> 新英文: 'deactivating',更新于2026-02-14-->
+  <!--EN: deactivating-->
+  <JobDriver_GolemDespawnWait.reportString>静止</JobDriver_GolemDespawnWait.reportString>
+  <!--原中文: '自动治疗', 原英文: '无' -> 新英文: 'auto tend',更新于2026-02-14-->
+  <!--EN: auto tend-->
+  <JobDriver_GolemSelfTend.reportString>自动治疗</JobDriver_GolemSelfTend.reportString>
+  <!--原中文: '挖掘', 原英文: '无' -> 新英文: 'mining protocol',更新于2026-02-14-->
+  <!--EN: mining protocol-->
+  <JobDriver_MechaMine.reportString>挖掘</JobDriver_MechaMine.reportString>
+  <!--原中文: '收获植物', 原英文: '无' -> 新英文: 'harvesting plants',更新于2026-02-14-->
+  <!--EN: harvesting plants-->
+  <JobDriver_FleshHarvest.reportString>收获植物</JobDriver_FleshHarvest.reportString>
+  <!--原中文: '割除植物', 原英文: '无' -> 新英文: 'cutting plants and trees',更新于2026-02-14-->
+  <!--EN: cutting plants and trees-->
+  <JobDriver_FleshChop.reportString>割除植物</JobDriver_FleshChop.reportString>
+  <!--原中文: '使用能力', 原英文: '无' -> 新英文: 'using ability',更新于2026-02-14-->
+  <!--EN: using ability-->
+  <JobDriver_GolemAbilityJob.reportString>使用能力</JobDriver_GolemAbilityJob.reportString>
+  <!--原中文: '瞄准TargetA', 原英文: '无' -> 新英文: 'targeting TargetA.',更新于2026-02-14-->
+  <!--EN: targeting TargetA.-->
+  <JobDriver_GolemAttackStatic.reportString>瞄准TargetA</JobDriver_GolemAttackStatic.reportString>
+</LanguageData>

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: 'r_ritualName->[keyDeity]的[ritNoun]', 原英文: '无' -> 新英文: 'r_ritualName->[ritNoun] of [keyDeity]',更新于2026-02-14-->
+  <!--EN: r_ritualName->[ritNoun] of [keyDeity]-->
+  <NamerRitualGifting.rulePack.rulesStrings.0>r_ritualName-&amp;gt;[keyDeity]的[ritNoun]</NamerRitualGifting.rulePack.rulesStrings.0>
+  <!--原中文: 'r_ritualName->[chosenTheme]的[ritNoun]', 原英文: '无' -> 新英文: 'r_ritualName->[ritNoun] of [chosenTheme]',更新于2026-02-14-->
+  <!--EN: r_ritualName->[ritNoun] of [chosenTheme]-->
+  <NamerRitualGifting.rulePack.rulesStrings.1>r_ritualName-&amp;gt;[chosenTheme]的[ritNoun]</NamerRitualGifting.rulePack.rulesStrings.1>
+  <!--原中文: 'r_ritualName->[memeConcept]的[ritNoun]', 原英文: '无' -> 新英文: 'r_ritualName->[ritNoun] of [memeConcept]',更新于2026-02-14-->
+  <!--EN: r_ritualName->[ritNoun] of [memeConcept]-->
+  <NamerRitualGifting.rulePack.rulesStrings.2>r_ritualName-&amp;gt;[memeConcept]的[ritNoun]</NamerRitualGifting.rulePack.rulesStrings.2>
+  <NamerRitualGifting.rulePack.rulesStrings.3>r_ritualName-&gt;[memeAdjective] [ritNoun]</NamerRitualGifting.rulePack.rulesStrings.3>
+  <!--原中文: 'ritNoun->赠送', 原英文: '无' -> 新英文: 'ritNoun->gifting',更新于2026-02-14-->
+  <!--EN: ritNoun->gifting-->
+  <NamerRitualGifting.rulePack.rulesStrings.4>ritNoun-&amp;gt;赠送</NamerRitualGifting.rulePack.rulesStrings.4>
+  <!--原中文: 'ritNoun->升序', 原英文: '无' -> 新英文: 'ritNoun->ascending',更新于2026-02-14-->
+  <!--EN: ritNoun->ascending-->
+  <NamerRitualGifting.rulePack.rulesStrings.5>ritNoun-&amp;gt;升序</NamerRitualGifting.rulePack.rulesStrings.5>
+  <!--原中文: 'ritNoun->成为', 原英文: '无' -> 新英文: 'ritNoun->becoming',更新于2026-02-14-->
+  <!--EN: ritNoun->becoming-->
+  <NamerRitualGifting.rulePack.rulesStrings.6>ritNoun-&amp;gt;成为</NamerRitualGifting.rulePack.rulesStrings.6>
+  <!--原中文: 'ritNoun->启蒙', 原英文: '无' -> 新英文: 'ritNoun->enlightenment',更新于2026-02-14-->
+  <!--EN: ritNoun->enlightenment-->
+  <NamerRitualGifting.rulePack.rulesStrings.7>ritNoun-&amp;gt;启蒙</NamerRitualGifting.rulePack.rulesStrings.7>
+  <!--原中文: 'ritNoun->桥接', 原英文: '无' -> 新英文: 'ritNoun->bridging',更新于2026-02-14-->
+  <!--EN: ritNoun->bridging-->
+  <NamerRitualGifting.rulePack.rulesStrings.8>ritNoun-&amp;gt;桥接</NamerRitualGifting.rulePack.rulesStrings.8>
+  <!--原中文: 'ritNoun->链接', 原英文: '无' -> 新英文: 'ritNoun->linking',更新于2026-02-14-->
+  <!--EN: ritNoun->linking-->
+  <NamerRitualGifting.rulePack.rulesStrings.9>ritNoun-&amp;gt;链接</NamerRitualGifting.rulePack.rulesStrings.9>
+  <!--原中文: 'ritNoun->融合', 原英文: '无' -> 新英文: 'ritNoun->melding',更新于2026-02-14-->
+  <!--EN: ritNoun->melding-->
+  <NamerRitualGifting.rulePack.rulesStrings.10>ritNoun-&amp;gt;融合</NamerRitualGifting.rulePack.rulesStrings.10>
+  <!--原中文: 'ritNoun->调用', 原英文: '无' -> 新英文: 'ritNoun->calling',更新于2026-02-14-->
+  <!--EN: ritNoun->calling-->
+  <NamerRitualGifting.rulePack.rulesStrings.11>ritNoun-&amp;gt;调用</NamerRitualGifting.rulePack.rulesStrings.11>
+  <!--原中文: 'ritNoun->清晰', 原英文: '无' -> 新英文: 'ritNoun->clarity',更新于2026-02-14-->
+  <!--EN: ritNoun->clarity-->
+  <NamerRitualGifting.rulePack.rulesStrings.12>ritNoun-&amp;gt;清晰</NamerRitualGifting.rulePack.rulesStrings.12>
+  <!--原中文: 'ritNoun->上升', 原英文: '无' -> 新英文: 'ritNoun->ascendence',更新于2026-02-14-->
+  <!--EN: ritNoun->ascendence-->
+  <NamerRitualGifting.rulePack.rulesStrings.13>ritNoun-&amp;gt;上升</NamerRitualGifting.rulePack.rulesStrings.13>
+  <!--原中文: 'ritNoun->觉醒', 原英文: '无' -> 新英文: 'ritNoun->awakening',更新于2026-02-14-->
+  <!--EN: ritNoun->awakening-->
+  <NamerRitualGifting.rulePack.rulesStrings.14>ritNoun-&amp;gt;觉醒</NamerRitualGifting.rulePack.rulesStrings.14>
+  <!--原中文: 'ritNoun->唤起', 原英文: '无' -> 新英文: 'ritNoun->evoking',更新于2026-02-14-->
+  <!--EN: ritNoun->evoking-->
+  <NamerRitualGifting.rulePack.rulesStrings.15>ritNoun-&amp;gt;唤起</NamerRitualGifting.rulePack.rulesStrings.15>
+  <!--原中文: 'r_ritualName->[keyDeity]的[ritNoun]', 原英文: '无' -> 新英文: 'r_ritualName->[ritNoun] of [keyDeity]',更新于2026-02-14-->
+  <!--EN: r_ritualName->[ritNoun] of [keyDeity]-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.0>r_ritualName-&amp;gt;[keyDeity]的[ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.0>
+  <!--原中文: 'r_ritualName->[chosenTheme]的[ritNoun]', 原英文: '无' -> 新英文: 'r_ritualName->[ritNoun] of [chosenTheme]',更新于2026-02-14-->
+  <!--EN: r_ritualName->[ritNoun] of [chosenTheme]-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.1>r_ritualName-&amp;gt;[chosenTheme]的[ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.1>
+  <!--原中文: 'r_ritualName->[memeConcept]的[ritNoun]', 原英文: '无' -> 新英文: 'r_ritualName->[ritNoun] of [memeConcept]',更新于2026-02-14-->
+  <!--EN: r_ritualName->[ritNoun] of [memeConcept]-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.2>r_ritualName-&amp;gt;[memeConcept]的[ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.2>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.3>r_ritualName-&gt;[memeAdjective] [ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.3>
+  <!--原中文: 'ritNoun->精神残害', 原英文: '无' -> 新英文: 'ritNoun->spirit mutilation',更新于2026-02-14-->
+  <!--EN: ritNoun->spirit mutilation-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.4>ritNoun-&amp;gt;精神残害</NamerRitualMindMutilation.rulePack.rulesStrings.4>
+  <!--原中文: 'ritNoun->灵魂切割', 原英文: '无' -> 新英文: 'ritNoun->soul cutting',更新于2026-02-14-->
+  <!--EN: ritNoun->soul cutting-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.5>ritNoun-&amp;gt;灵魂切割</NamerRitualMindMutilation.rulePack.rulesStrings.5>
+  <!--原中文: 'ritNoun->灵魂切片', 原英文: '无' -> 新英文: 'ritNoun->soul slicing',更新于2026-02-14-->
+  <!--EN: ritNoun->soul slicing-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.6>ritNoun-&amp;gt;灵魂切片</NamerRitualMindMutilation.rulePack.rulesStrings.6>
+  <!--原中文: 'ritNoun->切断', 原英文: '无' -> 新英文: 'ritNoun->severing',更新于2026-02-14-->
+  <!--EN: ritNoun->severing-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.7>ritNoun-&amp;gt;切断</NamerRitualMindMutilation.rulePack.rulesStrings.7>
+  <!--原中文: 'ritNoun->铭记', 原英文: '无' -> 新英文: 'ritNoun->mindrip',更新于2026-02-14-->
+  <!--EN: ritNoun->mindrip-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.8>ritNoun-&amp;gt;铭记</NamerRitualMindMutilation.rulePack.rulesStrings.8>
+  <!--原中文: 'ritNoun->心灵撕裂', 原英文: '无' -> 新英文: 'ritNoun->mind ripping',更新于2026-02-14-->
+  <!--EN: ritNoun->mind ripping-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.9>ritNoun-&amp;gt;心灵撕裂</NamerRitualMindMutilation.rulePack.rulesStrings.9>
+  <!--原中文: 'ritNoun->灵魂破坏', 原英文: '无' -> 新英文: 'ritNoun->soul mangling',更新于2026-02-14-->
+  <!--EN: ritNoun->soul mangling-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.10>ritNoun-&amp;gt;灵魂破坏</NamerRitualMindMutilation.rulePack.rulesStrings.10>
+  <!--原中文: 'ritNoun->心灵雕刻', 原英文: '无' -> 新英文: 'ritNoun->mind carving',更新于2026-02-14-->
+  <!--EN: ritNoun->mind carving-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.11>ritNoun-&amp;gt;心灵雕刻</NamerRitualMindMutilation.rulePack.rulesStrings.11>
+  <!--原中文: 'ritNoun->精神割伤', 原英文: '无' -> 新英文: 'ritNoun->spirit gashing',更新于2026-02-14-->
+  <!--EN: ritNoun->spirit gashing-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.12>ritNoun-&amp;gt;精神割伤</NamerRitualMindMutilation.rulePack.rulesStrings.12>
+  <!--原中文: 'ritNoun->灵魂撕裂', 原英文: '无' -> 新英文: 'ritNoun->soul rending',更新于2026-02-14-->
+  <!--EN: ritNoun->soul rending-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.13>ritNoun-&amp;gt;灵魂撕裂</NamerRitualMindMutilation.rulePack.rulesStrings.13>
+  <!--原中文: 'ritNoun->沉默', 原英文: '无' -> 新英文: 'ritNoun->silencing',更新于2026-02-14-->
+  <!--EN: ritNoun->silencing-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.14>ritNoun-&amp;gt;沉默</NamerRitualMindMutilation.rulePack.rulesStrings.14>
+  <!--原中文: 'ritNoun->安静', 原英文: '无' -> 新英文: 'ritNoun->quieting',更新于2026-02-14-->
+  <!--EN: ritNoun->quieting-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.15>ritNoun-&amp;gt;安静</NamerRitualMindMutilation.rulePack.rulesStrings.15>
+  <!--原中文: 'ritNoun->镇压', 原英文: '无' -> 新英文: 'ritNoun->quelling',更新于2026-02-14-->
+  <!--EN: ritNoun->quelling-->
+  <NamerRitualMindMutilation.rulePack.rulesStrings.16>ritNoun-&amp;gt;镇压</NamerRitualMindMutilation.rulePack.rulesStrings.16>
+</LanguageData>

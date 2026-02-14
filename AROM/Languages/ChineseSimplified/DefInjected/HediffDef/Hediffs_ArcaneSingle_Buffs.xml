@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '奥术冲刺', 原英文: '无' -> 新英文: 'arcane speed',更新于2026-02-14-->
+  <!--EN: arcane speed-->
+  <TM_Movement.label>奥术冲刺</TM_Movement.label>
+  <!--原中文: '增加小人移动速度的神秘力量.', 原英文: '无' -> 新英文: 'Arcane power that augments a pawns movement speed.',更新于2026-02-14-->
+  <!--EN: Arcane power that augments a pawns movement speed.-->
+  <TM_Movement.description>增加小人移动速度的神秘力量.</TM_Movement.description>
+  <TM_Movement.stages.0.label>I</TM_Movement.stages.0.label>
+  <TM_Movement.stages.1.label>II</TM_Movement.stages.1.label>
+  <TM_Movement.stages.2.label>III</TM_Movement.stages.2.label>
+  <TM_Movement.stages.3.label>IV</TM_Movement.stages.3.label>
+  <TM_Movement.stages.4.label>V</TM_Movement.stages.4.label>
+  <!--原中文: '奥术灵巧', 原英文: '无' -> 新英文: 'arcane dexterity',更新于2026-02-14-->
+  <!--EN: arcane dexterity-->
+  <TM_Manipulation.label>奥术灵巧</TM_Manipulation.label>
+  <!--原中文: '增加灵巧性（操控）的神秘力量。', 原英文: '无' -> 新英文: 'Arcane power that augments dexterity (manipulation).',更新于2026-02-14-->
+  <!--EN: Arcane power that augments dexterity (manipulation).-->
+  <TM_Manipulation.description>增加灵巧性（操控）的神秘力量。</TM_Manipulation.description>
+  <TM_Manipulation.stages.0.label>I</TM_Manipulation.stages.0.label>
+  <TM_Manipulation.stages.1.label>II</TM_Manipulation.stages.1.label>
+  <TM_Manipulation.stages.2.label>III</TM_Manipulation.stages.2.label>
+  <TM_Manipulation.stages.3.label>IV</TM_Manipulation.stages.3.label>
+  <TM_Manipulation.stages.4.label>V</TM_Manipulation.stages.4.label>
+  <!--原中文: '奥术呼吸', 原英文: '无' -> 新英文: 'infused oxygen',更新于2026-02-14-->
+  <!--EN: infused oxygen-->
+  <TM_Breathing.label>奥术呼吸</TM_Breathing.label>
+  <!--原中文: '提高呼吸效率和能力的神秘力量.', 原英文: '无' -> 新英文: 'Arcane power that enhances the efficiency and capacity of breathing.',更新于2026-02-14-->
+  <!--EN: Arcane power that enhances the efficiency and capacity of breathing.-->
+  <TM_Breathing.description>提高呼吸效率和能力的神秘力量.</TM_Breathing.description>
+  <TM_Breathing.stages.0.label>I</TM_Breathing.stages.0.label>
+  <TM_Breathing.stages.1.label>II</TM_Breathing.stages.1.label>
+  <TM_Breathing.stages.2.label>III</TM_Breathing.stages.2.label>
+  <TM_Breathing.stages.3.label>IV</TM_Breathing.stages.3.label>
+  <TM_Breathing.stages.4.label>V</TM_Breathing.stages.4.label>
+  <!--原中文: '奥术之眼', 原英文: '无' -> 新英文: 'arcane vision',更新于2026-02-14-->
+  <!--EN: arcane vision-->
+  <TM_Sight.label>奥术之眼</TM_Sight.label>
+  <!--原中文: '增强视力的神秘力量。', 原英文: '无' -> 新英文: 'Arcane power that augments vision.',更新于2026-02-14-->
+  <!--EN: Arcane power that augments vision.-->
+  <TM_Sight.description>增强视力的神秘力量。</TM_Sight.description>
+  <TM_Sight.stages.0.label>I</TM_Sight.stages.0.label>
+  <TM_Sight.stages.1.label>II</TM_Sight.stages.1.label>
+  <TM_Sight.stages.2.label>III</TM_Sight.stages.2.label>
+  <TM_Sight.stages.3.label>IV</TM_Sight.stages.3.label>
+  <TM_Sight.stages.4.label>V</TM_Sight.stages.4.label>
+  <!--原中文: '奥术迟缓', 原英文: '无' -> 新英文: 'arcane slow',更新于2026-02-14-->
+  <!--EN: arcane slow-->
+  <TM_AntiMovement.label>奥术迟缓</TM_AntiMovement.label>
+  <!--原中文: '减少移速的神秘力量.', 原英文: '无' -> 新英文: 'Arcane power that reduces movement.',更新于2026-02-14-->
+  <!--EN: Arcane power that reduces movement.-->
+  <TM_AntiMovement.description>减少移速的神秘力量.</TM_AntiMovement.description>
+  <TM_AntiMovement.stages.0.label>I</TM_AntiMovement.stages.0.label>
+  <TM_AntiMovement.stages.1.label>II</TM_AntiMovement.stages.1.label>
+  <TM_AntiMovement.stages.2.label>III</TM_AntiMovement.stages.2.label>
+  <TM_AntiMovement.stages.3.label>IV</TM_AntiMovement.stages.3.label>
+  <TM_AntiMovement.stages.4.label>overwhelmed</TM_AntiMovement.stages.4.label>
+  <!--原中文: '奥术残废', 原英文: '无' -> 新英文: 'arcane cripple',更新于2026-02-14-->
+  <!--EN: arcane cripple-->
+  <TM_AntiManipulation.label>奥术残废</TM_AntiManipulation.label>
+  <!--原中文: '降低灵巧性（操控）的神秘力量.', 原英文: '无' -> 新英文: 'Arcane power that reduces dexterity (manipulation).',更新于2026-02-14-->
+  <!--EN: Arcane power that reduces dexterity (manipulation).-->
+  <TM_AntiManipulation.description>降低灵巧性（操控）的神秘力量.</TM_AntiManipulation.description>
+  <TM_AntiManipulation.stages.0.label>I</TM_AntiManipulation.stages.0.label>
+  <TM_AntiManipulation.stages.1.label>II</TM_AntiManipulation.stages.1.label>
+  <TM_AntiManipulation.stages.2.label>III</TM_AntiManipulation.stages.2.label>
+  <TM_AntiManipulation.stages.3.label>IV</TM_AntiManipulation.stages.3.label>
+  <TM_AntiManipulation.stages.4.label>overwhelmed</TM_AntiManipulation.stages.4.label>
+  <!--原中文: '奥术窒息', 原英文: '无' -> 新英文: 'arcane suffocation',更新于2026-02-14-->
+  <!--EN: arcane suffocation-->
+  <TM_AntiBreathing.label>奥术窒息</TM_AntiBreathing.label>
+  <!--原中文: '降低呼吸效率和能力的神秘力量..', 原英文: '无' -> 新英文: 'Arcane power that diminishes the circulation of air.',更新于2026-02-14-->
+  <!--EN: Arcane power that diminishes the circulation of air.-->
+  <TM_AntiBreathing.description>降低呼吸效率和能力的神秘力量..</TM_AntiBreathing.description>
+  <TM_AntiBreathing.stages.0.label>I</TM_AntiBreathing.stages.0.label>
+  <TM_AntiBreathing.stages.1.label>II</TM_AntiBreathing.stages.1.label>
+  <TM_AntiBreathing.stages.2.label>III</TM_AntiBreathing.stages.2.label>
+  <TM_AntiBreathing.stages.3.label>IV</TM_AntiBreathing.stages.3.label>
+  <TM_AntiBreathing.stages.4.label>overwhelmed</TM_AntiBreathing.stages.4.label>
+  <!--原中文: '奥术致盲', 原英文: '无' -> 新英文: 'arcane blind',更新于2026-02-14-->
+  <!--EN: arcane blind-->
+  <TM_AntiSight.label>奥术致盲</TM_AntiSight.label>
+  <!--原中文: '降低视力的神秘力量.', 原英文: '无' -> 新英文: 'Arcane power that decreases sight.',更新于2026-02-14-->
+  <!--EN: Arcane power that decreases sight.-->
+  <TM_AntiSight.description>降低视力的神秘力量.</TM_AntiSight.description>
+  <TM_AntiSight.stages.0.label>I</TM_AntiSight.stages.0.label>
+  <TM_AntiSight.stages.1.label>II</TM_AntiSight.stages.1.label>
+  <TM_AntiSight.stages.2.label>III</TM_AntiSight.stages.2.label>
+  <TM_AntiSight.stages.3.label>IV</TM_AntiSight.stages.3.label>
+  <!--原中文: '不知所措', 原英文: '无' -> 新英文: 'overwhelmed',更新于2026-02-14-->
+  <!--EN: overwhelmed-->
+  <TM_AntiSight.stages.4.label>不知所措</TM_AntiSight.stages.4.label>
+  <!--原中文: '奥术沉默', 原英文: '无' -> 新英文: 'Magically Mute',更新于2026-02-14-->
+  <!--EN: Magically Mute-->
+  <TM_MuteHD.label>奥术沉默</TM_MuteHD.label>
+  <!--原中文: '阻止使用魔法的诅咒.', 原英文: '无' -> 新英文: 'A curse that prevents the use of magical abilities.',更新于2026-02-14-->
+  <!--EN: A curse that prevents the use of magical abilities.-->
+  <TM_MuteHD.description>阻止使用魔法的诅咒.</TM_MuteHD.description>
+</LanguageData>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Straw Golem upgrade recipes -->
+  <!--原中文: '部位修复', 原英文: '无' -> 新英文: 'Part restoration',更新于2026-02-14-->
+  <!--EN: Part restoration-->
+  <TM_MaharalGolem_RepairBlock.label>部位修复</TM_MaharalGolem_RepairBlock.label>
+  <!--原中文: '替换不需要升级的缺失傀儡部件。', 原英文: '无' -> 新英文: 'Replaces missing golem parts that do not require an upgrade.',更新于2026-02-14-->
+  <!--EN: Replaces missing golem parts that do not require an upgrade.-->
+  <TM_MaharalGolem_RepairBlock.description>替换不需要升级的缺失傀儡部件。</TM_MaharalGolem_RepairBlock.description>
+  <!--原中文: '部位修复', 原英文: '无' -> 新英文: 'crafting golem part',更新于2026-02-14-->
+  <!--EN: crafting golem part-->
+  <TM_MaharalGolem_RepairBlock.jobString>部位修复</TM_MaharalGolem_RepairBlock.jobString>
+  <!--原中文: '能量核心', 原英文: '无' -> 新英文: 'energy cell',更新于2026-02-14-->
+  <!--EN: energy cell-->
+  <TM_MaharalGolem_EnergyMax.label>能量核心</TM_MaharalGolem_EnergyMax.label>
+  <!--原中文: '创造一个能量核心，每个核心最大增加120蓄能上限。', 原英文: '无' -> 新英文: 'Creates an energy cell that increases maximum energy by 120 per cell.',更新于2026-02-14-->
+  <!--EN: Creates an energy cell that increases maximum energy by 120 per cell.-->
+  <TM_MaharalGolem_EnergyMax.description>创造一个能量核心，每个核心最大增加120蓄能上限。</TM_MaharalGolem_EnergyMax.description>
+  <!--原中文: '制造能量核心', 原英文: '无' -> 新英文: 'creating energy cell',更新于2026-02-14-->
+  <!--EN: creating energy cell-->
+  <TM_MaharalGolem_EnergyMax.jobString>制造能量核心</TM_MaharalGolem_EnergyMax.jobString>
+  <!--原中文: '功率转化', 原英文: '无' -> 新英文: 'energy converter',更新于2026-02-14-->
+  <!--EN: energy converter-->
+  <TM_MaharalGolem_EnergyConverter.label>功率转化</TM_MaharalGolem_EnergyConverter.label>
+  <!--原中文: '增加傀儡吸收和使用能量的效率10%。', 原英文: '无' -> 新英文: 'Increases the efficiency of energy absorbed and used by the golem by 10%.',更新于2026-02-14-->
+  <!--EN: Increases the efficiency of energy absorbed and used by the golem by 10%.-->
+  <TM_MaharalGolem_EnergyConverter.description>增加傀儡吸收和使用能量的效率10%。</TM_MaharalGolem_EnergyConverter.description>
+  <!--原中文: '能量功率升级', 原英文: '无' -> 新英文: 'constructing energy converter',更新于2026-02-14-->
+  <!--EN: constructing energy converter-->
+  <TM_MaharalGolem_EnergyConverter.jobString>能量功率升级</TM_MaharalGolem_EnergyConverter.jobString>
+  <!--原中文: '能量再生', 原英文: '无' -> 新英文: 'energy generator',更新于2026-02-14-->
+  <!--EN: energy generator-->
+  <TM_MaharalGolem_EnergyRegen.label>能量再生</TM_MaharalGolem_EnergyRegen.label>
+  <!--原中文: '每小时增加傀儡4点的能量回复速度。', 原英文: '无' -> 新英文: 'Increases the energy regeneration rate of the golem by 4 per hour.',更新于2026-02-14-->
+  <!--EN: Increases the energy regeneration rate of the golem by 4 per hour.-->
+  <TM_MaharalGolem_EnergyRegen.description>每小时增加傀儡4点的能量回复速度。</TM_MaharalGolem_EnergyRegen.description>
+  <!--原中文: '能量再生', 原英文: '无' -> 新英文: 'constructing energy generator',更新于2026-02-14-->
+  <!--EN: constructing energy generator-->
+  <TM_MaharalGolem_EnergyRegen.jobString>能量再生</TM_MaharalGolem_EnergyRegen.jobString>
+  <!--原中文: '鞣制', 原英文: '无' -> 新英文: 'Armor',更新于2026-02-14-->
+  <!--EN: Armor-->
+  <TM_MaharalGolem_Armor.label>鞣制</TM_MaharalGolem_Armor.label>
+  <!--原中文: '每次升级都会增加傀儡的性能 [1,2,3]:\n钝器:	+[9,16,21]%\n利器:	+[13,22,29]%\n热能:	+[8,14,18]%', 原英文: '无' -> 新英文: 'Each upgrade increases the armor of the golem per level [1,2,3]:
+Blunt:	+[9,16,21]%
+Sharp:	+[13,22,29]%
+Heat:	+[8,14,18]%',更新于2026-02-14-->
+  <!--EN: Each upgrade increases the armor of the golem per level [1,2,3]:
+Blunt:	+[9,16,21]%
+Sharp:	+[13,22,29]%
+Heat:	+[8,14,18]%-->
+  <TM_MaharalGolem_Armor.description>每次升级都会增加傀儡的性能 [1,2,3]:\n钝器:	+[9,16,21]%\n利器:	+[13,22,29]%\n热能:	+[8,14,18]%</TM_MaharalGolem_Armor.description>
+  <!--原中文: '鞣制', 原英文: '无' -> 新英文: 'crafting golem part',更新于2026-02-14-->
+  <!--EN: crafting golem part-->
+  <TM_MaharalGolem_Armor.jobString>鞣制</TM_MaharalGolem_Armor.jobString>
+  <!--原中文: '重构', 原英文: '无' -> 新英文: 'frame tier',更新于2026-02-14-->
+  <!--EN: frame tier-->
+  <TM_MaharalGolem_LifeStage.label>重构</TM_MaharalGolem_LifeStage.label>
+  <!--原中文: '每次升级都会增加傀儡的性能 [1,2,3]:\n移动速度:	+[10/20/30]%\n生命值:		+[40/70/100]%', 原英文: '无' -> 新英文: 'Improves and refines the golem's frame each level [1,2,3]:
+Movement:	+[10/20/30]%
+Health:		+[40/70/100]%',更新于2026-02-14-->
+  <!--EN: Improves and refines the golem's frame each level [1,2,3]:
+Movement:	+[10/20/30]%
+Health:		+[40/70/100]%-->
+  <TM_MaharalGolem_LifeStage.description>每次升级都会增加傀儡的性能 [1,2,3]:\n移动速度:	+[10/20/30]%\n生命值:		+[40/70/100]%</TM_MaharalGolem_LifeStage.description>
+  <!--原中文: '重构', 原英文: '无' -> 新英文: 'improving golem frame',更新于2026-02-14-->
+  <!--EN: improving golem frame-->
+  <TM_MaharalGolem_LifeStage.jobString>重构</TM_MaharalGolem_LifeStage.jobString>
+  <!--原中文: '能源', 原英文: '无' -> 新英文: 'Power',更新于2026-02-14-->
+  <!--EN: Power-->
+  <TM_MaharalGolem_Power.label>能源</TM_MaharalGolem_Power.label>
+  <!--原中文: '进一步强化，使得马哈拉傀儡有能力产生多余的力量。', 原英文: '无' -> 新英文: 'The shem hamephorash is further enhanced, allowing the Maharal golem the ability to produce an excess power.',更新于2026-02-14-->
+  <!--EN: The shem hamephorash is further enhanced, allowing the Maharal golem the ability to produce an excess power.-->
+  <TM_MaharalGolem_Power.description>进一步强化，使得马哈拉傀儡有能力产生多余的力量。</TM_MaharalGolem_Power.description>
+  <!--原中文: '制作傀儡升级', 原英文: '无' -> 新英文: 'crafting golem upgrade',更新于2026-02-14-->
+  <!--EN: crafting golem upgrade-->
+  <TM_MaharalGolem_Power.jobString>制作傀儡升级</TM_MaharalGolem_Power.jobString>
+  <!--原中文: '温热', 原英文: '无' -> 新英文: 'Heat',更新于2026-02-14-->
+  <!--EN: Heat-->
+  <TM_MaharalGolem_Heat.label>温热</TM_MaharalGolem_Heat.label>
+  <!--原中文: '进一步强化，使得马哈拉傀儡有能力产生多余的热量。', 原英文: '无' -> 新英文: 'The shem hamephorash is further enhanced, allowing the Maharal golem the ability to produce an excess heat.',更新于2026-02-14-->
+  <!--EN: The shem hamephorash is further enhanced, allowing the Maharal golem the ability to produce an excess heat.-->
+  <TM_MaharalGolem_Heat.description>进一步强化，使得马哈拉傀儡有能力产生多余的热量。</TM_MaharalGolem_Heat.description>
+  <!--原中文: '制作傀儡升级', 原英文: '无' -> 新英文: 'crafting golem upgrade',更新于2026-02-14-->
+  <!--EN: crafting golem upgrade-->
+  <TM_MaharalGolem_Heat.jobString>制作傀儡升级</TM_MaharalGolem_Heat.jobString>
+  <!-- Maharal Golem upgrade recipes -->
+</LanguageData>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '灵能（增幅）', 原英文: '无' -> 新英文: 'Psionic Energy',更新于2026-02-14-->
+  <!--EN: Psionic Energy-->
+  <TM_PsionicHD.label>灵能（增幅）</TM_PsionicHD.label>
+  <!--原中文: '灵能者的独特能量。', 原英文: '无' -> 新英文: 'Accounts for the unique energy of a Psionic.',更新于2026-02-14-->
+  <!--EN: Accounts for the unique energy of a Psionic.-->
+  <TM_PsionicHD.description>灵能者的独特能量。</TM_PsionicHD.description>
+  <!--原中文: '灵能', 原英文: '无' -> 新英文: 'Psionic',更新于2026-02-14-->
+  <!--EN: Psionic-->
+  <TM_PsionicInjuryHD.label>灵能</TM_PsionicInjuryHD.label>
+  <!--原中文: '灵能造成的伤害.', 原英文: '无' -> 新英文: 'Injury caused by psionic power.',更新于2026-02-14-->
+  <!--EN: Injury caused by psionic power.-->
+  <TM_PsionicInjuryHD.description>灵能造成的伤害.</TM_PsionicInjuryHD.description>
+  <!--原中文: '已包扎', 原英文: '无' -> 新英文: 'bandaged',更新于2026-02-14-->
+  <!--EN: bandaged-->
+  <TM_PsionicInjuryHD.comps.0.labelTendedWell>已包扎</TM_PsionicInjuryHD.comps.0.labelTendedWell>
+  <!--原中文: '已缝合', 原英文: '无' -> 新英文: 'sutured',更新于2026-02-14-->
+  <!--EN: sutured-->
+  <TM_PsionicInjuryHD.comps.0.labelTendedWellInner>已缝合</TM_PsionicInjuryHD.comps.0.labelTendedWellInner>
+  <!--原中文: '已固定', 原英文: '无' -> 新英文: 'set',更新于2026-02-14-->
+  <!--EN: set-->
+  <TM_PsionicInjuryHD.comps.0.labelSolidTendedWell>已固定</TM_PsionicInjuryHD.comps.0.labelSolidTendedWell>
+  <!--原中文: '爆发', 原英文: '无' -> 新英文: 'blasted off',更新于2026-02-14-->
+  <!--EN: blasted off-->
+  <TM_PsionicInjuryHD.injuryProps.destroyedLabel>爆发</TM_PsionicInjuryHD.injuryProps.destroyedLabel>
+  <!--原中文: '爆炸', 原英文: '无' -> 新英文: 'blasted out',更新于2026-02-14-->
+  <!--EN: blasted out-->
+  <TM_PsionicInjuryHD.injuryProps.destroyedOutLabel>爆炸</TM_PsionicInjuryHD.injuryProps.destroyedOutLabel>
+  <!--原中文: '灵能加速', 原英文: '无' -> 新英文: 'psionic speed',更新于2026-02-14-->
+  <!--EN: psionic speed-->
+  <TM_PsionicSpeedHD.label>灵能加速</TM_PsionicSpeedHD.label>
+  <!--原中文: '通过灵能来强化移动能力。', 原英文: '无' -> 新英文: 'Enhanced speed through psionic augmentation.',更新于2026-02-14-->
+  <!--EN: Enhanced speed through psionic augmentation.-->
+  <TM_PsionicSpeedHD.description>通过灵能来强化移动能力。</TM_PsionicSpeedHD.description>
+  <TM_PsionicSpeedHD.stages.0.label>I</TM_PsionicSpeedHD.stages.0.label>
+  <!--原中文: '灵能加速', 原英文: '无' -> 新英文: 'psionic speed',更新于2026-02-14-->
+  <!--EN: psionic speed-->
+  <TM_PsionicSpeedHD_I.label>灵能加速</TM_PsionicSpeedHD_I.label>
+  <!--原中文: '通过灵能来强化移动能力。', 原英文: '无' -> 新英文: 'Enhanced speed through psionic augmentation.',更新于2026-02-14-->
+  <!--EN: Enhanced speed through psionic augmentation.-->
+  <TM_PsionicSpeedHD_I.description>通过灵能来强化移动能力。</TM_PsionicSpeedHD_I.description>
+  <TM_PsionicSpeedHD_I.stages.0.label>II</TM_PsionicSpeedHD_I.stages.0.label>
+  <!--原中文: '灵能加速', 原英文: '无' -> 新英文: 'psionic speed',更新于2026-02-14-->
+  <!--EN: psionic speed-->
+  <TM_PsionicSpeedHD_II.label>灵能加速</TM_PsionicSpeedHD_II.label>
+  <!--原中文: '通过灵能来强化移动能力。', 原英文: '无' -> 新英文: 'Enhanced speed through psionic augmentation.',更新于2026-02-14-->
+  <!--EN: Enhanced speed through psionic augmentation.-->
+  <TM_PsionicSpeedHD_II.description>通过灵能来强化移动能力。</TM_PsionicSpeedHD_II.description>
+  <TM_PsionicSpeedHD_II.stages.0.label>III</TM_PsionicSpeedHD_II.stages.0.label>
+  <!--原中文: '灵能加速', 原英文: '无' -> 新英文: 'psionic speed',更新于2026-02-14-->
+  <!--EN: psionic speed-->
+  <TM_PsionicSpeedHD_III.label>灵能加速</TM_PsionicSpeedHD_III.label>
+  <!--原中文: '通过灵能来强化移动能力。', 原英文: '无' -> 新英文: 'Enhanced speed through psionic augmentation.',更新于2026-02-14-->
+  <!--EN: Enhanced speed through psionic augmentation.-->
+  <TM_PsionicSpeedHD_III.description>通过灵能来强化移动能力。</TM_PsionicSpeedHD_III.description>
+  <TM_PsionicSpeedHD_III.stages.0.label>IV</TM_PsionicSpeedHD_III.stages.0.label>
+  <!--原中文: '灵能操纵', 原英文: '无' -> 新英文: 'psionic manipulation',更新于2026-02-14-->
+  <!--EN: psionic manipulation-->
+  <TM_PsionicManipulationHD.label>灵能操纵</TM_PsionicManipulationHD.label>
+  <!--原中文: '通过灵能增强身体机能。', 原英文: '无' -> 新英文: 'Enhanced dexterity through psionic augmentation.',更新于2026-02-14-->
+  <!--EN: Enhanced dexterity through psionic augmentation.-->
+  <TM_PsionicManipulationHD.description>通过灵能增强身体机能。</TM_PsionicManipulationHD.description>
+  <TM_PsionicManipulationHD.stages.0.label>I</TM_PsionicManipulationHD.stages.0.label>
+  <!--原中文: '灵能操纵', 原英文: '无' -> 新英文: 'psionic manipulation',更新于2026-02-14-->
+  <!--EN: psionic manipulation-->
+  <TM_PsionicManipulationHD_I.label>灵能操纵</TM_PsionicManipulationHD_I.label>
+  <!--原中文: '通过灵能增强身体机能。', 原英文: '无' -> 新英文: 'Enhanced dexterity through psionic augmentation.',更新于2026-02-14-->
+  <!--EN: Enhanced dexterity through psionic augmentation.-->
+  <TM_PsionicManipulationHD_I.description>通过灵能增强身体机能。</TM_PsionicManipulationHD_I.description>
+  <TM_PsionicManipulationHD_I.stages.0.label>II</TM_PsionicManipulationHD_I.stages.0.label>
+  <!--原中文: '灵能操纵', 原英文: '无' -> 新英文: 'psionic manipulation',更新于2026-02-14-->
+  <!--EN: psionic manipulation-->
+  <TM_PsionicManipulationHD_II.label>灵能操纵</TM_PsionicManipulationHD_II.label>
+  <!--原中文: '通过灵能增强身体机能。', 原英文: '无' -> 新英文: 'Enhanced dexterity through psionic augmentation.',更新于2026-02-14-->
+  <!--EN: Enhanced dexterity through psionic augmentation.-->
+  <TM_PsionicManipulationHD_II.description>通过灵能增强身体机能。</TM_PsionicManipulationHD_II.description>
+  <TM_PsionicManipulationHD_II.stages.0.label>III</TM_PsionicManipulationHD_II.stages.0.label>
+  <!--原中文: '灵能操纵', 原英文: '无' -> 新英文: 'psionic manipulation',更新于2026-02-14-->
+  <!--EN: psionic manipulation-->
+  <TM_PsionicManipulationHD_III.label>灵能操纵</TM_PsionicManipulationHD_III.label>
+  <!--原中文: '通过灵能增强身体机能。', 原英文: '无' -> 新英文: 'Enhanced dexterity through psionic augmentation.',更新于2026-02-14-->
+  <!--EN: Enhanced dexterity through psionic augmentation.-->
+  <TM_PsionicManipulationHD_III.description>通过灵能增强身体机能。</TM_PsionicManipulationHD_III.description>
+  <TM_PsionicManipulationHD_III.stages.0.label>IV</TM_PsionicManipulationHD_III.stages.0.label>
+</LanguageData>

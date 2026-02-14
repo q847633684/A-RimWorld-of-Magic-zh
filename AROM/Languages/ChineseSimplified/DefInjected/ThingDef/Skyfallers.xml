@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '光束（离开）', 原英文: '无' -> 新英文: 'light beam (leaving)',更新于2026-02-14-->
+  <!--EN: light beam (leaving)-->
+  <TM_LightPodLeaving.label>光束（离开）</TM_LightPodLeaving.label>
+  <!--原中文: '光束（到来）', 原英文: '无' -> 新英文: 'light beam (incoming)',更新于2026-02-14-->
+  <!--EN: light beam (incoming)-->
+  <TM_LightPodIncoming.label>光束（到来）</TM_LightPodIncoming.label>
+  <!--原中文: '光舱', 原英文: '无' -> 新英文: 'light pod',更新于2026-02-14-->
+  <!--EN: light pod-->
+  <TM_ActiveLightPod.label>光舱</TM_ActiveLightPod.label>
+  <!--原中文: '暴风雪(微型)', 原英文: '无' -> 新英文: 'blizzard(tiny)',更新于2026-02-14-->
+  <!--EN: blizzard(tiny)-->
+  <TM_Blizzard_Tiny.label>暴风雪(微型)</TM_Blizzard_Tiny.label>
+  <!--原中文: '箭雨风暴', 原英文: '无' -> 新英文: 'arrow storm',更新于2026-02-14-->
+  <!--EN: arrow storm-->
+  <TM_ArrowStorm.label>箭雨风暴</TM_ArrowStorm.label>
+  <!--原中文: '蔑视离开', 原英文: '无' -> 新英文: 'scorn leaving',更新于2026-02-14-->
+  <!--EN: scorn leaving-->
+  <TM_ScornLeaving.label>蔑视离开</TM_ScornLeaving.label>
+  <!--原中文: '蔑视到来', 原英文: '无' -> 新英文: 'scorn incoming',更新于2026-02-14-->
+  <!--EN: scorn incoming-->
+  <TM_ScornIncoming.label>蔑视到来</TM_ScornIncoming.label>
+  <!--原中文: '陨石', 原英文: '无' -> 新英文: 'meteorite',更新于2026-02-14-->
+  <!--EN: meteorite-->
+  <TM_Meteorite.label>陨石</TM_Meteorite.label>
+  <!--原中文: '陨石', 原英文: '无' -> 新英文: 'meteorite',更新于2026-02-14-->
+  <!--EN: meteorite-->
+  <TM_Meteorite_I.label>陨石</TM_Meteorite_I.label>
+  <!--原中文: '陨石', 原英文: '无' -> 新英文: 'meteorite',更新于2026-02-14-->
+  <!--EN: meteorite-->
+  <TM_Meteorite_II.label>陨石</TM_Meteorite_II.label>
+  <!--原中文: '陨石', 原英文: '无' -> 新英文: 'meteorite',更新于2026-02-14-->
+  <!--EN: meteorite-->
+  <TM_Meteorite_III.label>陨石</TM_Meteorite_III.label>
+  <!--原中文: '冰雹风暴', 原英文: '无' -> 新英文: 'hail',更新于2026-02-14-->
+  <!--EN: hail-->
+  <TM_Hail.label>冰雹风暴</TM_Hail.label>
+</LanguageData>

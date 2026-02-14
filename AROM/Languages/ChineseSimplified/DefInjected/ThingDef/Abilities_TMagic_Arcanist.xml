@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Shadow start -->
+  <!--原中文: '暗影随形', 原英文: '无' -> 新英文: 'Shadow',更新于2026-02-14-->
+  <!--EN: Shadow-->
+  <Buff_Shadow.label>暗影随形</Buff_Shadow.label>
+  <!-- Magic Missile -->
+  <!--原中文: '魔法飞弹', 原英文: '无' -> 新英文: 'Magic Missile',更新于2026-02-14-->
+  <!--EN: Magic Missile-->
+  <Projectile_MagicMissile.label>魔法飞弹</Projectile_MagicMissile.label>
+  <!-- Teleport start -->
+  <!--原中文: '传送', 原英文: '无' -> 新英文: 'Teleport',更新于2026-02-14-->
+  <!--EN: Teleport-->
+  <Projectile_Teleport.label>传送</Projectile_Teleport.label>
+  <!-- Blink Start -->
+  <!--原中文: '闪烁', 原英文: '无' -> 新英文: 'Blink',更新于2026-02-14-->
+  <!--EN: Blink-->
+  <Projectile_Blink.label>闪烁</Projectile_Blink.label>
+  <!-- Summon Start -->
+  <!--原中文: '召唤', 原英文: '无' -> 新英文: 'Summon',更新于2026-02-14-->
+  <!--EN: Summon-->
+  <Projectile_Summon.label>召唤</Projectile_Summon.label>
+  <!--原中文: '飞行目标', 原英文: '无' -> 新英文: 'flying object',更新于2026-02-14-->
+  <!--EN: flying object-->
+  <TM_SummonedPawn.label>飞行目标</TM_SummonedPawn.label>
+  <!--原中文: '移动目标', 原英文: '无' -> 新英文: 'moving object',更新于2026-02-14-->
+  <!--EN: moving object-->
+  <MovingObject.label>移动目标</MovingObject.label>
+  <!-- Fold Reality -->
+  <!--原中文: '空间之门', 原英文: '无' -> 新英文: 'fold reality',更新于2026-02-14-->
+  <!--EN: fold reality-->
+  <Projectile_FoldReality.label>空间之门</Projectile_FoldReality.label>
+</LanguageData>

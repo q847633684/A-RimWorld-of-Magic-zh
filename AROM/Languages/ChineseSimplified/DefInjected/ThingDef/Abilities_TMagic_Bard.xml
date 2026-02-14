@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- bard projectile -->
+  <!--原中文: '诗意之弹', 原英文: '无' -> 新英文: 'bard projectile',更新于2026-02-14-->
+  <!--EN: bard projectile-->
+  <TM_Projectile_Bard.label>诗意之弹</TM_Projectile_Bard.label>
+</LanguageData>

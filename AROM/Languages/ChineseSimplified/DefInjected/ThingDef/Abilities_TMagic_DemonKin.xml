@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '默认弹药', 原英文: '无' -> 新英文: 'default projectile',更新于2026-02-14-->
+  <!--EN: default projectile-->
+  <Projectile_Warlock.label>默认弹药</Projectile_Warlock.label>
+  <!-- ShadowBolt -->
+  <!--原中文: '暗影箭', 原英文: '无' -> 新英文: 'shadow bolt',更新于2026-02-14-->
+  <!--EN: shadow bolt-->
+  <Projectile_ShadowBolt.label>暗影箭</Projectile_ShadowBolt.label>
+  <!--原中文: '暗影箭', 原英文: '无' -> 新英文: 'shadow bolt',更新于2026-02-14-->
+  <!--EN: shadow bolt-->
+  <FlyingObject_ShadowBolt.label>暗影箭</FlyingObject_ShadowBolt.label>
+  <!-- Attraction -->
+  <!--原中文: '诱惑', 原英文: '无' -> 新英文: 'attraction',更新于2026-02-14-->
+  <!--EN: attraction-->
+  <Projectile_Attraction.label>诱惑</Projectile_Attraction.label>
+  <!-- Repulsion -->
+  <!--原中文: '抗拒光环', 原英文: '无' -> 新英文: 'repulsion',更新于2026-02-14-->
+  <!--EN: repulsion-->
+  <Projectile_Repulsion.label>抗拒光环</Projectile_Repulsion.label>
+  <!--原中文: '抗拒光环', 原英文: '无' -> 新英文: 'repulsion',更新于2026-02-14-->
+  <!--EN: repulsion-->
+  <Projectile_Repulsion_I.label>抗拒光环</Projectile_Repulsion_I.label>
+  <!--原中文: '抗拒光环', 原英文: '无' -> 新英文: 'repulsion',更新于2026-02-14-->
+  <!--EN: repulsion-->
+  <Projectile_Repulsion_II.label>抗拒光环</Projectile_Repulsion_II.label>
+  <!--原中文: '抗拒光环', 原英文: '无' -> 新英文: 'repulsion',更新于2026-02-14-->
+  <!--EN: repulsion-->
+  <Projectile_Repulsion_III.label>抗拒光环</Projectile_Repulsion_III.label>
+  <!-- Scorn -->
+  <!--原中文: '厄运化身', 原英文: '无' -> 新英文: 'scorn',更新于2026-02-14-->
+  <!--EN: scorn-->
+  <Projectile_Scorn.label>厄运化身</Projectile_Scorn.label>
+  <!-- PsychicShock -->
+  <!--原中文: '魂飞魄散', 原英文: '无' -> 新英文: 'psychic shock',更新于2026-02-14-->
+  <!--EN: psychic shock-->
+  <Projectile_PsychicShock.label>魂飞魄散</Projectile_PsychicShock.label>
+  <!-- SummonDemon -->
+  <!--原中文: '召唤恶魔', 原英文: '无' -> 新英文: 'summon demon',更新于2026-02-14-->
+  <!--EN: summon demon-->
+  <Projectile_SummonDemon.label>召唤恶魔</Projectile_SummonDemon.label>
+  <!--原中文: '飞行物体', 原英文: '无' -> 新英文: 'flying object',更新于2026-02-14-->
+  <!--EN: flying object-->
+  <FlyingObject_DemonFlight.label>飞行物体</FlyingObject_DemonFlight.label>
+  <!--原中文: '恶魔火焰', 原英文: '无' -> 新英文: 'demon flames',更新于2026-02-14-->
+  <!--EN: demon flames-->
+  <FlyingObject_DemonBolt.label>恶魔火焰</FlyingObject_DemonBolt.label>
+</LanguageData>

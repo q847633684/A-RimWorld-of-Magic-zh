@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '亡灵', 原英文: '无' -> 新英文: 'Skeletal',更新于2026-02-14-->
+  <!--EN: Skeletal-->
+  <TM_SkeletalFaction.label>亡灵</TM_SkeletalFaction.label>
+  <!--原中文: '由神秘力量而复活的骷髅和亡灵。', 原英文: '无' -> 新英文: 'Skeletons and undead raised by arcane power. This faction is required for certain events or actions in RimWorld of Magic.',更新于2026-02-14-->
+  <!--EN: Skeletons and undead raised by arcane power. This faction is required for certain events or actions in RimWorld of Magic.-->
+  <TM_SkeletalFaction.description>由神秘力量而复活的骷髅和亡灵。</TM_SkeletalFaction.description>
+  <!--原中文: '亡灵', 原英文: '无' -> 新英文: 'Skeletal',更新于2026-02-14-->
+  <!--EN: Skeletal-->
+  <TM_SkeletalFaction.fixedName>亡灵</TM_SkeletalFaction.fixedName>
+  <!--原中文: '亡灵', 原英文: '无' -> 新英文: 'skeletal',更新于2026-02-14-->
+  <!--EN: skeletal-->
+  <TM_SkeletalFaction.pawnsPlural>亡灵</TM_SkeletalFaction.pawnsPlural>
+  <!--原中文: '骨骼', 原英文: '无' -> 新英文: 'skeleton',更新于2026-02-14-->
+  <!--EN: skeleton-->
+  <TM_SkeletalFaction.pawnSingular>骨骼</TM_SkeletalFaction.pawnSingular>
+  <!--原中文: '元素', 原英文: '无' -> 新英文: 'Elemental',更新于2026-02-14-->
+  <!--EN: Elemental-->
+  <TM_ElementalFaction.label>元素</TM_ElementalFaction.label>
+  <!--原中文: '元素生物从它们的异界位面召唤而来。', 原英文: '无' -> 新英文: 'Elemental spirits summoned from their planes of power. This faction is required for certain events or actions in RimWorld of Magic.',更新于2026-02-14-->
+  <!--EN: Elemental spirits summoned from their planes of power. This faction is required for certain events or actions in RimWorld of Magic.-->
+  <TM_ElementalFaction.description>元素生物从它们的异界位面召唤而来。</TM_ElementalFaction.description>
+  <!--原中文: '元素生物群', 原英文: '无' -> 新英文: 'Elementals',更新于2026-02-14-->
+  <!--EN: Elementals-->
+  <TM_ElementalFaction.fixedName>元素生物群</TM_ElementalFaction.fixedName>
+  <!--原中文: '元素生物群', 原英文: '无' -> 新英文: 'Elementals',更新于2026-02-14-->
+  <!--EN: Elementals-->
+  <TM_ElementalFaction.pawnsPlural>元素生物群</TM_ElementalFaction.pawnsPlural>
+  <!--原中文: '元素的', 原英文: '无' -> 新英文: 'elemental',更新于2026-02-14-->
+  <!--EN: elemental-->
+  <TM_ElementalFaction.pawnSingular>元素的</TM_ElementalFaction.pawnSingular>
+  <!--原中文: '召唤的存在', 原英文: '无' -> 新英文: 'Summoned being',更新于2026-02-14-->
+  <!--EN: Summoned being-->
+  <TM_SummonedFaction.label>召唤的存在</TM_SummonedFaction.label>
+  <!--原中文: '正在使用奥术能量从其他可能存在的维度或位面召唤。', 原英文: '无' -> 新英文: 'Beings summoned from other dimensions or planes of existence using arcane power. This faction is required for certain events or actions in RimWorld of Magic.',更新于2026-02-14-->
+  <!--EN: Beings summoned from other dimensions or planes of existence using arcane power. This faction is required for certain events or actions in RimWorld of Magic.-->
+  <TM_SummonedFaction.description>正在使用奥术能量从其他可能存在的维度或位面召唤。</TM_SummonedFaction.description>
+  <!--原中文: '召唤', 原英文: '无' -> 新英文: 'Summoned',更新于2026-02-14-->
+  <!--EN: Summoned-->
+  <TM_SummonedFaction.fixedName>召唤</TM_SummonedFaction.fixedName>
+  <!--原中文: '召唤', 原英文: '无' -> 新英文: 'summoned',更新于2026-02-14-->
+  <!--EN: summoned-->
+  <TM_SummonedFaction.pawnsPlural>召唤</TM_SummonedFaction.pawnsPlural>
+  <!--原中文: '被召唤', 原英文: '无' -> 新英文: 'summoned',更新于2026-02-14-->
+  <!--EN: summoned-->
+  <TM_SummonedFaction.pawnSingular>被召唤</TM_SummonedFaction.pawnSingular>
+</LanguageData>

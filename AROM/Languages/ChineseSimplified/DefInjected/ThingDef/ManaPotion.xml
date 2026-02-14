@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '一种法力补充药剂，可以使法师迅速恢复法力.其原理为用一种天然的抑制剂用来解除身体对魔力的吸收限制 \n\n值得注意的是， 这种绕过身体自然防御机制的方法可能会对精神和感官造成伤害。', 原英文: '无' -> 新英文: 'A magical supplement that allows arcane users to rapidly recover mana. Mana potions work by acting as a natural suppressant to the bodies mana absorption resistances \n\nUsers are warned, bypassing natural resistances can cause mental and sensory damage.',更新于2026-02-14-->
+  <!--EN: A magical supplement that allows arcane users to rapidly recover mana. Mana potions work by acting as a natural suppressant to the bodies mana absorption resistances \n\nUsers are warned, bypassing natural resistances can cause mental and sensory damage.-->
+  <ManaPotion.description>一种法力补充药剂，可以使法师迅速恢复法力.其原理为用一种天然的抑制剂用来解除身体对魔力的吸收限制 \n\n值得注意的是， 这种绕过身体自然防御机制的方法可能会对精神和感官造成伤害。</ManaPotion.description>
+  <!--原中文: '饮用 {0}', 原英文: '无' -> 新英文: 'Consume {0}',更新于2026-02-14-->
+  <!--EN: Consume {0}-->
+  <ManaPotion.ingestible.ingestCommandString>饮用 {0}</ManaPotion.ingestible.ingestCommandString>
+  <!--原中文: '饮用{0}中。', 原英文: '无' -> 新英文: 'Consuming {0}.',更新于2026-02-14-->
+  <!--EN: Consuming {0}.-->
+  <ManaPotion.ingestible.ingestReportString>饮用{0}中。</ManaPotion.ingestible.ingestReportString>
+</LanguageData>

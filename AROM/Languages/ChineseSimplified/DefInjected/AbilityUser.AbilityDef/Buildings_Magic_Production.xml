@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Work tables -->
+  <!--原中文: '次要目标', 原英文: '无' -> 新英文: 'secondary targeter',更新于2026-02-14-->
+  <!--EN: secondary targeter-->
+  <Forge_Verb.label>次要目标</Forge_Verb.label>
+  <!--原中文: '复制锻造', 原英文: '无' -> 新英文: 'verb used forge replication',更新于2026-02-14-->
+  <!--EN: verb used forge replication-->
+  <Forge_Verb.description>复制锻造</Forge_Verb.description>
+</LanguageData>

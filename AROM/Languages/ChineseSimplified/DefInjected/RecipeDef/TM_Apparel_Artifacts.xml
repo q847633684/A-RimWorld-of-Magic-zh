@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Craftable Artifacts -->
+  <!--原中文: '应用永恒之球。', 原英文: '无' -> 新英文: 'administer orb of the eternal',更新于2026-02-14-->
+  <!--EN: administer orb of the eternal-->
+  <AdministerOrbOfTheEternal.label>应用永恒之球。</AdministerOrbOfTheEternal.label>
+  <!--原中文: '应用永恒之球的力量。这是一种一次性的法力灌注，可以治愈伤口，再生四肢，治疗疾病。疗愈能量将在任何特定的时间针对并治疗影响某人的单一最严重的健康状况。', 原英文: '无' -> 新英文: 'Applies the power of the Orb of the Eternal. This is a single use infusion of magical energy that will heal wounds, restore limbs, and cure diseases. The healing energy will target and heal the single worst health condition affecting someone at any given time.',更新于2026-02-14-->
+  <!--EN: Applies the power of the Orb of the Eternal. This is a single use infusion of magical energy that will heal wounds, restore limbs, and cure diseases. The healing energy will target and heal the single worst health condition affecting someone at any given time.-->
+  <AdministerOrbOfTheEternal.description>应用永恒之球的力量。这是一种一次性的法力灌注，可以治愈伤口，再生四肢，治疗疾病。疗愈能量将在任何特定的时间针对并治疗影响某人的单一最严重的健康状况。</AdministerOrbOfTheEternal.description>
+  <!--原中文: '使用永恒之球。', 原英文: '无' -> 新英文: 'Using Orb of the Eternal.',更新于2026-02-14-->
+  <!--EN: Using Orb of the Eternal.-->
+  <AdministerOrbOfTheEternal.jobString>使用永恒之球。</AdministerOrbOfTheEternal.jobString>
+</LanguageData>

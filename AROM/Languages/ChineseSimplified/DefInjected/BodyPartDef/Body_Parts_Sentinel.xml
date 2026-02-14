@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '身体', 原英文: '无' -> 新英文: 'body',更新于2026-02-14-->
+  <!--EN: body-->
+  <Sentinel_Body.label>身体</Sentinel_Body.label>
+  <!--原中文: '头', 原英文: '无' -> 新英文: 'head',更新于2026-02-14-->
+  <!--EN: head-->
+  <Sentinel_Head.label>头</Sentinel_Head.label>
+  <!--原中文: '颅骨', 原英文: '无' -> 新英文: 'skull',更新于2026-02-14-->
+  <!--EN: skull-->
+  <Sentinel_Skull.label>颅骨</Sentinel_Skull.label>
+  <!--原中文: '脑', 原英文: '无' -> 新英文: 'brain',更新于2026-02-14-->
+  <!--EN: brain-->
+  <Sentinel_Brain.label>脑</Sentinel_Brain.label>
+  <!-- <BodyPartDef>
+    <defName>Sentinel_Heart</defName>
+    <label>heart</label>
+    <hitPoints>30</hitPoints>
+    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
+    <bleedRate>5</bleedRate>
+    <skinCovered>false</skinCovered>
+    <tags>
+      <li>BloodPumpingSource</li>
+      <li>BloodFiltrationSource</li>
+      <li>MetabolismSource</li>
+      <li>BreathingSource</li>
+    </tags>
+  </BodyPartDef> -->
+  <!--原中文: '左臂', 原英文: '无' -> 新英文: 'left arm',更新于2026-02-14-->
+  <!--EN: left arm-->
+  <Sentinel_LeftArm.label>左臂</Sentinel_LeftArm.label>
+  <!--原中文: '右臂', 原英文: '无' -> 新英文: 'right arm',更新于2026-02-14-->
+  <!--EN: right arm-->
+  <Sentinel_RightArm.label>右臂</Sentinel_RightArm.label>
+  <!--原中文: '左眼', 原英文: '无' -> 新英文: 'left eye',更新于2026-02-14-->
+  <!--EN: left eye-->
+  <Sentinel_LeftEye.label>左眼</Sentinel_LeftEye.label>
+  <!--原中文: '右眼', 原英文: '无' -> 新英文: 'right eye',更新于2026-02-14-->
+  <!--EN: right eye-->
+  <Sentinel_RightEye.label>右眼</Sentinel_RightEye.label>
+  <!--原中文: '左耳', 原英文: '无' -> 新英文: 'left ear',更新于2026-02-14-->
+  <!--EN: left ear-->
+  <Sentinel_LeftEar.label>左耳</Sentinel_LeftEar.label>
+  <!--原中文: '右耳', 原英文: '无' -> 新英文: 'right ear',更新于2026-02-14-->
+  <!--EN: right ear-->
+  <Sentinel_RightEar.label>右耳</Sentinel_RightEar.label>
+  <!--原中文: '下巴', 原英文: '无' -> 新英文: 'jaw',更新于2026-02-14-->
+  <!--EN: jaw-->
+  <Sentinel_Jaw.label>下巴</Sentinel_Jaw.label>
+  <!--原中文: '脖子', 原英文: '无' -> 新英文: 'neck',更新于2026-02-14-->
+  <!--EN: neck-->
+  <Sentinel_Neck.label>脖子</Sentinel_Neck.label>
+  <!--原中文: '脊柱', 原英文: '无' -> 新英文: 'spine',更新于2026-02-14-->
+  <!--EN: spine-->
+  <Sentinel_Spine.label>脊柱</Sentinel_Spine.label>
+  <!--原中文: '腹部', 原英文: '无' -> 新英文: 'abdomen',更新于2026-02-14-->
+  <!--EN: abdomen-->
+  <Sentinel_Abdomen.label>腹部</Sentinel_Abdomen.label>
+  <!--原中文: '胸部', 原英文: '无' -> 新英文: 'chest',更新于2026-02-14-->
+  <!--EN: chest-->
+  <Sentinel_Chest.label>胸部</Sentinel_Chest.label>
+  <!--原中文: '石像鬼下肢', 原英文: '无' -> 新英文: 'sentinel legs',更新于2026-02-14-->
+  <!--EN: sentinel legs-->
+  <Sentinel_Base.label>石像鬼下肢</Sentinel_Base.label>
+</LanguageData>

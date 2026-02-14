@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Ignite Blood -->
+  <!--原中文: '沸血', 原英文: '无' -> 新英文: 'Ignite blood',更新于2026-02-14-->
+  <!--EN: Ignite blood-->
+  <Projectile_IgniteBlood.label>沸血</Projectile_IgniteBlood.label>
+  <!-- Blood Moon -->
+  <!--原中文: '抛掷血月', 原英文: '无' -> 新英文: 'projectile bloodmoon',更新于2026-02-14-->
+  <!--EN: projectile bloodmoon-->
+  <Projectile_BloodMoon.label>抛掷血月</Projectile_BloodMoon.label>
+  <!--原中文: '抛掷血月', 原英文: '无' -> 新英文: 'Blood Moon projectile',更新于2026-02-14-->
+  <!--EN: Blood Moon projectile-->
+  <Projectile_BloodMoon_I.label>抛掷血月</Projectile_BloodMoon_I.label>
+  <!--原中文: '抛掷血月', 原英文: '无' -> 新英文: 'BloodMoon projectile',更新于2026-02-14-->
+  <!--EN: BloodMoon projectile-->
+  <Projectile_BloodMoon_II.label>抛掷血月</Projectile_BloodMoon_II.label>
+  <!--原中文: '抛掷血月', 原英文: '无' -> 新英文: 'BloodMoon projectile',更新于2026-02-14-->
+  <!--EN: BloodMoon projectile-->
+  <Projectile_BloodMoon_III.label>抛掷血月</Projectile_BloodMoon_III.label>
+</LanguageData>

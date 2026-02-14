@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Sniper focus -->
+  <!--原中文: '狙击手训练', 原英文: '无' -> 新英文: 'Sniper Training',更新于2026-02-14-->
+  <!--EN: Sniper Training-->
+  <TM_SniperFocus.label>狙击手训练</TM_SniperFocus.label>
+  <!--原中文: '使用此项能力提升你的狙击手特性。该技能只需要在训练完成后使用。\n	\n等级:\n见习狙击手: 移动速度 +0.1c/s，瞄准延迟 -10%，射击命中率 +2%，研究和工作速度 -10%，驯养和训练动物 -10%\n初级狙击手: 移动速度 +0.15c/s，瞄准延迟 -15%，射击命中率 +4%，研究和工作速度 -13%，驯养和训练动物 -13%\n高级狙击手: 移动速度 +0.2c/s，瞄准延迟 -22%，射击命中率 +6%，研究和工作速度 -15%，驯养和训练动物 -15%\n传奇狙击手: 移动速度 +0.25c/s，瞄准延迟 -30%，射击命中率 +8%，研究和工作速度 -16%，驯养和训练动物 -16%', 原英文: '无' -> 新英文: 'Training that improves technique and status as sniper. Each level will change the trait of the sniper to reflect their skill level.
+	
+Ranks:
+Sharpshooter: Speed +0.1c/s, Aiming Delay -10%, Shooting Acc. +2%, Research and work speed -10%, tame and train animal -10%
+Sniper: Speed +0.15c/s, Aiming Delay -15%, Shooting Acc. +4%, Research and work speed -13%, tame and train animal -13%
+Master Sniper: Speed +0.2c/s, Aiming Delay -22%, Shooting Acc. +6%, Research and work speed -15%, tame and train animal -15%
+Legendary Sniper: Speed +0.25c/s, Aiming Delay -30%, Shooting Acc. +8%, Research and work speed -16%, tame and train animal -16%',更新于2026-02-14-->
+  <!--EN: Training that improves technique and status as sniper. Each level will change the trait of the sniper to reflect their skill level.
+	
+Ranks:
+Sharpshooter: Speed +0.1c/s, Aiming Delay -10%, Shooting Acc. +2%, Research and work speed -10%, tame and train animal -10%
+Sniper: Speed +0.15c/s, Aiming Delay -15%, Shooting Acc. +4%, Research and work speed -13%, tame and train animal -13%
+Master Sniper: Speed +0.2c/s, Aiming Delay -22%, Shooting Acc. +6%, Research and work speed -15%, tame and train animal -15%
+Legendary Sniper: Speed +0.25c/s, Aiming Delay -30%, Shooting Acc. +8%, Research and work speed -16%, tame and train animal -16%-->
+  <TM_SniperFocus.description>使用此项能力提升你的狙击手特性。该技能只需要在训练完成后使用。\n	\n等级:\n见习狙击手: 移动速度 +0.1c/s，瞄准延迟 -10%，射击命中率 +2%，研究和工作速度 -10%，驯养和训练动物 -10%\n初级狙击手: 移动速度 +0.15c/s，瞄准延迟 -15%，射击命中率 +4%，研究和工作速度 -13%，驯养和训练动物 -13%\n高级狙击手: 移动速度 +0.2c/s，瞄准延迟 -22%，射击命中率 +6%，研究和工作速度 -15%，驯养和训练动物 -15%\n传奇狙击手: 移动速度 +0.25c/s，瞄准延迟 -30%，射击命中率 +8%，研究和工作速度 -16%，驯养和训练动物 -16%</TM_SniperFocus.description>
+  <!-- Headshot start -->
+  <!--原中文: '一次瞄准敌人头部或心脏的致命射击。对类人生物和非类人生物同样有效。爆头成功率会随着敌人要害部位护甲的增加而降低。', 原英文: '无' -> 新英文: 'A lethal shot that targets a vital bodypart like the head or heart. Effective on non-humanoids and humanoids alike. Headshot success chance is reduced against targets with thick armor protecting their vital organs.',更新于2026-02-14-->
+  <!--EN: A lethal shot that targets a vital bodypart like the head or heart. Effective on non-humanoids and humanoids alike. Headshot success chance is reduced against targets with thick armor protecting their vital organs.-->
+  <TM_Headshot.description>一次瞄准敌人头部或心脏的致命射击。对类人生物和非类人生物同样有效。爆头成功率会随着敌人要害部位护甲的增加而降低。</TM_Headshot.description>
+  <!-- Disabling shot start -->
+  <!--原中文: '一次目的在于使目标失去行动能力而不是死亡的射击. 狙击手会瞄准非要害器官并射出带有麻痹效果的箭矢， 目标会短暂地瘫痪几秒钟。对穿戴护甲的目标无效.\n	\n射程: 20\n射击延迟: 2.5s\n冷却时间: 45s', 原英文: '无' -> 新英文: 'A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.
+	
+Range: 20
+Firing Delay: 2.5s
+Recharge 45s',更新于2026-02-14-->
+  <!--EN: A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.
+	
+Range: 20
+Firing Delay: 2.5s
+Recharge 45s-->
+  <TM_DisablingShot.description>一次目的在于使目标失去行动能力而不是死亡的射击. 狙击手会瞄准非要害器官并射出带有麻痹效果的箭矢， 目标会短暂地瘫痪几秒钟。对穿戴护甲的目标无效.\n	\n射程: 20\n射击延迟: 2.5s\n冷却时间: 45s</TM_DisablingShot.description>
+  <!--原中文: '残废射击（II）', 原英文: '无' -> 新英文: 'Disabling Shot (I)',更新于2026-02-14-->
+  <!--EN: Disabling Shot (I)-->
+  <TM_DisablingShot_I.label>残废射击（II）</TM_DisablingShot_I.label>
+  <!--原中文: '一次目的在于使目标失去行动能力而不是死亡的射击. 狙击手会瞄准非要害器官并射出带有麻痹效果的箭矢， 目标会短暂地瘫痪几秒钟。对穿戴护甲的目标无效.\n	\n射程: 22\n射击延迟: 2.3s\n冷却时间: 43s', 原英文: '无' -> 新英文: 'A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.
+	
+Range: 22
+Firing Delay: 2.3s
+Recharge 43s',更新于2026-02-14-->
+  <!--EN: A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.
+	
+Range: 22
+Firing Delay: 2.3s
+Recharge 43s-->
+  <TM_DisablingShot_I.description>一次目的在于使目标失去行动能力而不是死亡的射击. 狙击手会瞄准非要害器官并射出带有麻痹效果的箭矢， 目标会短暂地瘫痪几秒钟。对穿戴护甲的目标无效.\n	\n射程: 22\n射击延迟: 2.3s\n冷却时间: 43s</TM_DisablingShot_I.description>
+  <!--原中文: '残废射击（III）', 原英文: '无' -> 新英文: 'Disabling Shot (II)',更新于2026-02-14-->
+  <!--EN: Disabling Shot (II)-->
+  <TM_DisablingShot_II.label>残废射击（III）</TM_DisablingShot_II.label>
+  <!--原中文: '一次目的在于使目标失去行动能力而不是死亡的射击. 狙击手会瞄准非要害器官并射出带有麻痹效果的箭矢， 目标会短暂地瘫痪几秒钟。对穿戴护甲的目标无效.\n	\n射程: 25\n射击延迟: 2.1s\n冷却时间: 41s', 原英文: '无' -> 新英文: 'A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.
+	
+Range: 25
+Firing Delay: 2.1s
+Recharge 41s',更新于2026-02-14-->
+  <!--EN: A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.
+	
+Range: 25
+Firing Delay: 2.1s
+Recharge 41s-->
+  <TM_DisablingShot_II.description>一次目的在于使目标失去行动能力而不是死亡的射击. 狙击手会瞄准非要害器官并射出带有麻痹效果的箭矢， 目标会短暂地瘫痪几秒钟。对穿戴护甲的目标无效.\n	\n射程: 25\n射击延迟: 2.1s\n冷却时间: 41s</TM_DisablingShot_II.description>
+  <!--原中文: '残废射击（IV）', 原英文: '无' -> 新英文: 'Disabling Shot (III)',更新于2026-02-14-->
+  <!--EN: Disabling Shot (III)-->
+  <TM_DisablingShot_III.label>残废射击（IV）</TM_DisablingShot_III.label>
+  <!--原中文: '一次目的在于使目标失去行动能力而不是死亡的射击. 狙击手会瞄准非要害器官并射出带有麻痹效果的箭矢， 目标会短暂地瘫痪几秒钟。对穿戴护甲的目标无效.\n	\n射程: 27\n射击延迟: 2s\n冷却时间: 40s', 原英文: '无' -> 新英文: 'A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.
+	
+Range: 27
+Firing Delay: 2s
+Recharge 40s',更新于2026-02-14-->
+  <!--EN: A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.
+	
+Range: 27
+Firing Delay: 2s
+Recharge 40s-->
+  <TM_DisablingShot_III.description>一次目的在于使目标失去行动能力而不是死亡的射击. 狙击手会瞄准非要害器官并射出带有麻痹效果的箭矢， 目标会短暂地瘫痪几秒钟。对穿戴护甲的目标无效.\n	\n射程: 27\n射击延迟: 2s\n冷却时间: 40s</TM_DisablingShot_III.description>
+  <!-- Anti Armor -->
+  <!--原中文: '破甲', 原英文: '无' -> 新英文: 'Anti-Armor',更新于2026-02-14-->
+  <!--EN: Anti-Armor-->
+  <TM_AntiArmor.label>破甲</TM_AntiArmor.label>
+  <!--原中文: '狙击手在特殊情况下会使用破甲弹。当装填破甲弹后， 在其接触到护甲时会释放一种纳米机器人使护甲支离破碎。对于韧性较高的目标破甲效果将大打折扣。', 原英文: '无' -> 新英文: 'The sniper carries anti armor rounds for those special occasions. When this ammunition shatters, it releases nanites that will shred any armor they make contact with. Relatively ineffective against soft targets but does extra damage to armored targets, as long as the resistance on impact activates the nanites. Armored targets may be any mechanoid or a target with a Sharp armor rating above 100%.',更新于2026-02-14-->
+  <!--EN: The sniper carries anti armor rounds for those special occasions. When this ammunition shatters, it releases nanites that will shred any armor they make contact with. Relatively ineffective against soft targets but does extra damage to armored targets, as long as the resistance on impact activates the nanites. Armored targets may be any mechanoid or a target with a Sharp armor rating above 100%.-->
+  <TM_AntiArmor.description>狙击手在特殊情况下会使用破甲弹。当装填破甲弹后， 在其接触到护甲时会释放一种纳米机器人使护甲支离破碎。对于韧性较高的目标破甲效果将大打折扣。</TM_AntiArmor.description>
+  <!-- Shadow slayer -->
+  <!--原中文: '阴影杀手', 原英文: '无' -> 新英文: 'Shadow Slayer',更新于2026-02-14-->
+  <!--EN: Shadow Slayer-->
+  <TM_ShadowSlayer.label>阴影杀手</TM_ShadowSlayer.label>
+  <!--原中文: '训练有素的狙击手是潜行和定位的专家，知道正确的打击时间和地点。\n阴影杀手隐形场是一种长时间隐形形态。与普通的隐形技术不同，这种隐形领域严重依赖于一种预测性的隐形技术，当使用者进行快速或暴力的动作（如发射武器）时，这种隐形场会迅速消失。', 原英文: '无' -> 新英文: 'A trained sniper is an expert at stealth and positioning, and knows the right time and place to strike. 
+
+The shadow slayer cloaking field is a long duration form of invisibility. Unlike normal cloaking technology, this stealth field relies heavily on a form of predictive cloaking that rapidly wears off when the user performs rapid or violent actions (such as firing a weapon).',更新于2026-02-14-->
+  <!--EN: A trained sniper is an expert at stealth and positioning, and knows the right time and place to strike. 
+
+The shadow slayer cloaking field is a long duration form of invisibility. Unlike normal cloaking technology, this stealth field relies heavily on a form of predictive cloaking that rapidly wears off when the user performs rapid or violent actions (such as firing a weapon).-->
+  <TM_ShadowSlayer.description>训练有素的狙击手是潜行和定位的专家，知道正确的打击时间和地点。\n阴影杀手隐形场是一种长时间隐形形态。与普通的隐形技术不同，这种隐形领域严重依赖于一种预测性的隐形技术，当使用者进行快速或暴力的动作（如发射武器）时，这种隐形场会迅速消失。</TM_ShadowSlayer.description>
+</LanguageData>

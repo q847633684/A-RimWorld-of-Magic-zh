@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Earth Elemental -->
+  <!--原中文: '小型土元素', 原英文: '无' -> 新英文: 'lesser earth elemental',更新于2026-02-14-->
+  <!--EN: lesser earth elemental-->
+  <TM_LesserEarth_Elemental.label>小型土元素</TM_LesserEarth_Elemental.label>
+  <!--原中文: '小型土元素', 原英文: '无' -> 新英文: 'lesser earth elemental',更新于2026-02-14-->
+  <!--EN: lesser earth elemental-->
+  <TM_LesserEarth_Elemental.lifeStages.0.label>小型土元素</TM_LesserEarth_Elemental.lifeStages.0.label>
+  <!--原中文: '土元素群', 原英文: '无' -> 新英文: 'earth elementals',更新于2026-02-14-->
+  <!--EN: earth elementals-->
+  <TM_LesserEarth_Elemental.lifeStages.0.labelPlural>土元素群</TM_LesserEarth_Elemental.lifeStages.0.labelPlural>
+  <!--原中文: '土元素', 原英文: '无' -> 新英文: 'earth elemental',更新于2026-02-14-->
+  <!--EN: earth elemental-->
+  <TM_Earth_Elemental.label>土元素</TM_Earth_Elemental.label>
+  <!--原中文: '土元素', 原英文: '无' -> 新英文: 'earth elemental',更新于2026-02-14-->
+  <!--EN: earth elemental-->
+  <TM_Earth_Elemental.lifeStages.0.label>土元素</TM_Earth_Elemental.lifeStages.0.label>
+  <!--原中文: '土元素群', 原英文: '无' -> 新英文: 'earth elementals',更新于2026-02-14-->
+  <!--EN: earth elementals-->
+  <TM_Earth_Elemental.lifeStages.0.labelPlural>土元素群</TM_Earth_Elemental.lifeStages.0.labelPlural>
+  <!--原中文: '大型土元素', 原英文: '无' -> 新英文: 'greater earth elemental',更新于2026-02-14-->
+  <!--EN: greater earth elemental-->
+  <TM_GreaterEarth_Elemental.label>大型土元素</TM_GreaterEarth_Elemental.label>
+  <!--原中文: '大型土元素', 原英文: '无' -> 新英文: 'greater earth elemental',更新于2026-02-14-->
+  <!--EN: greater earth elemental-->
+  <TM_GreaterEarth_Elemental.lifeStages.0.label>大型土元素</TM_GreaterEarth_Elemental.lifeStages.0.label>
+  <!--原中文: '土元素群', 原英文: '无' -> 新英文: 'greater earth elementals',更新于2026-02-14-->
+  <!--EN: greater earth elementals-->
+  <TM_GreaterEarth_Elemental.lifeStages.0.labelPlural>土元素群</TM_GreaterEarth_Elemental.lifeStages.0.labelPlural>
+  <!-- Fire Elemental -->
+  <!--原中文: '小型火元素', 原英文: '无' -> 新英文: 'lesser fire elemental',更新于2026-02-14-->
+  <!--EN: lesser fire elemental-->
+  <TM_LesserFire_Elemental.label>小型火元素</TM_LesserFire_Elemental.label>
+  <!--原中文: '小型火元素', 原英文: '无' -> 新英文: 'lesser fire elemental',更新于2026-02-14-->
+  <!--EN: lesser fire elemental-->
+  <TM_LesserFire_Elemental.lifeStages.0.label>小型火元素</TM_LesserFire_Elemental.lifeStages.0.label>
+  <!--原中文: '火元素群', 原英文: '无' -> 新英文: 'lesser fire elementals',更新于2026-02-14-->
+  <!--EN: lesser fire elementals-->
+  <TM_LesserFire_Elemental.lifeStages.0.labelPlural>火元素群</TM_LesserFire_Elemental.lifeStages.0.labelPlural>
+  <!--原中文: '火元素', 原英文: '无' -> 新英文: 'fire elemental',更新于2026-02-14-->
+  <!--EN: fire elemental-->
+  <TM_Fire_Elemental.label>火元素</TM_Fire_Elemental.label>
+  <!--原中文: '火元素', 原英文: '无' -> 新英文: 'fire elemental',更新于2026-02-14-->
+  <!--EN: fire elemental-->
+  <TM_Fire_Elemental.lifeStages.0.label>火元素</TM_Fire_Elemental.lifeStages.0.label>
+  <!--原中文: '火元素群', 原英文: '无' -> 新英文: 'fire elementals',更新于2026-02-14-->
+  <!--EN: fire elementals-->
+  <TM_Fire_Elemental.lifeStages.0.labelPlural>火元素群</TM_Fire_Elemental.lifeStages.0.labelPlural>
+  <!--原中文: '大型火元素', 原英文: '无' -> 新英文: 'greater fire elemental',更新于2026-02-14-->
+  <!--EN: greater fire elemental-->
+  <TM_GreaterFire_Elemental.label>大型火元素</TM_GreaterFire_Elemental.label>
+  <!--原中文: '大型火元素', 原英文: '无' -> 新英文: 'greater fire elemental',更新于2026-02-14-->
+  <!--EN: greater fire elemental-->
+  <TM_GreaterFire_Elemental.lifeStages.0.label>大型火元素</TM_GreaterFire_Elemental.lifeStages.0.label>
+  <!--原中文: '火元素群', 原英文: '无' -> 新英文: 'greater fire elementals',更新于2026-02-14-->
+  <!--EN: greater fire elementals-->
+  <TM_GreaterFire_Elemental.lifeStages.0.labelPlural>火元素群</TM_GreaterFire_Elemental.lifeStages.0.labelPlural>
+  <!-- Water Elemental -->
+  <!--原中文: '小型水元素', 原英文: '无' -> 新英文: 'lesser water elemental',更新于2026-02-14-->
+  <!--EN: lesser water elemental-->
+  <TM_LesserWater_Elemental.label>小型水元素</TM_LesserWater_Elemental.label>
+  <!--原中文: '小型水元素', 原英文: '无' -> 新英文: 'lesser water elemental',更新于2026-02-14-->
+  <!--EN: lesser water elemental-->
+  <TM_LesserWater_Elemental.lifeStages.0.label>小型水元素</TM_LesserWater_Elemental.lifeStages.0.label>
+  <!--原中文: '水元素群', 原英文: '无' -> 新英文: 'lesser water elementals',更新于2026-02-14-->
+  <!--EN: lesser water elementals-->
+  <TM_LesserWater_Elemental.lifeStages.0.labelPlural>水元素群</TM_LesserWater_Elemental.lifeStages.0.labelPlural>
+  <!--原中文: '水元素', 原英文: '无' -> 新英文: 'water elemental',更新于2026-02-14-->
+  <!--EN: water elemental-->
+  <TM_Water_Elemental.label>水元素</TM_Water_Elemental.label>
+  <!--原中文: '水元素', 原英文: '无' -> 新英文: 'water elemental',更新于2026-02-14-->
+  <!--EN: water elemental-->
+  <TM_Water_Elemental.lifeStages.0.label>水元素</TM_Water_Elemental.lifeStages.0.label>
+  <!--原中文: '水元素群', 原英文: '无' -> 新英文: 'water elementals',更新于2026-02-14-->
+  <!--EN: water elementals-->
+  <TM_Water_Elemental.lifeStages.0.labelPlural>水元素群</TM_Water_Elemental.lifeStages.0.labelPlural>
+  <!--原中文: '大型水元素', 原英文: '无' -> 新英文: 'greater water elemental',更新于2026-02-14-->
+  <!--EN: greater water elemental-->
+  <TM_GreaterWater_Elemental.label>大型水元素</TM_GreaterWater_Elemental.label>
+  <!--原中文: '大型水元素', 原英文: '无' -> 新英文: 'greater water elemental',更新于2026-02-14-->
+  <!--EN: greater water elemental-->
+  <TM_GreaterWater_Elemental.lifeStages.0.label>大型水元素</TM_GreaterWater_Elemental.lifeStages.0.label>
+  <!--原中文: '水元素群', 原英文: '无' -> 新英文: 'greater water elementals',更新于2026-02-14-->
+  <!--EN: greater water elementals-->
+  <TM_GreaterWater_Elemental.lifeStages.0.labelPlural>水元素群</TM_GreaterWater_Elemental.lifeStages.0.labelPlural>
+  <!-- Wind Elemental -->
+  <!--原中文: '小型风元素', 原英文: '无' -> 新英文: 'lesser wind elemental',更新于2026-02-14-->
+  <!--EN: lesser wind elemental-->
+  <TM_LesserWind_Elemental.label>小型风元素</TM_LesserWind_Elemental.label>
+  <!--原中文: '小型风元素', 原英文: '无' -> 新英文: 'lesser wind elemental',更新于2026-02-14-->
+  <!--EN: lesser wind elemental-->
+  <TM_LesserWind_Elemental.lifeStages.0.label>小型风元素</TM_LesserWind_Elemental.lifeStages.0.label>
+  <!--原中文: '风元素群', 原英文: '无' -> 新英文: 'wisps',更新于2026-02-14-->
+  <!--EN: wisps-->
+  <TM_LesserWind_Elemental.lifeStages.0.labelPlural>风元素群</TM_LesserWind_Elemental.lifeStages.0.labelPlural>
+  <!--原中文: '风元素', 原英文: '无' -> 新英文: 'wind elemental',更新于2026-02-14-->
+  <!--EN: wind elemental-->
+  <TM_Wind_Elemental.label>风元素</TM_Wind_Elemental.label>
+  <!--原中文: '风元素', 原英文: '无' -> 新英文: 'wind elemental',更新于2026-02-14-->
+  <!--EN: wind elemental-->
+  <TM_Wind_Elemental.lifeStages.0.label>风元素</TM_Wind_Elemental.lifeStages.0.label>
+  <!--原中文: '风元素群', 原英文: '无' -> 新英文: 'wind elementals',更新于2026-02-14-->
+  <!--EN: wind elementals-->
+  <TM_Wind_Elemental.lifeStages.0.labelPlural>风元素群</TM_Wind_Elemental.lifeStages.0.labelPlural>
+  <!--原中文: '大型风元素', 原英文: '无' -> 新英文: 'greater wind elemental',更新于2026-02-14-->
+  <!--EN: greater wind elemental-->
+  <TM_GreaterWind_Elemental.label>大型风元素</TM_GreaterWind_Elemental.label>
+  <!--原中文: '大型风元素', 原英文: '无' -> 新英文: 'greater wind elemental',更新于2026-02-14-->
+  <!--EN: greater wind elemental-->
+  <TM_GreaterWind_Elemental.lifeStages.0.label>大型风元素</TM_GreaterWind_Elemental.lifeStages.0.label>
+  <!--原中文: '风元素群', 原英文: '无' -> 新英文: 'wind elementals',更新于2026-02-14-->
+  <!--EN: wind elementals-->
+  <TM_GreaterWind_Elemental.lifeStages.0.labelPlural>风元素群</TM_GreaterWind_Elemental.lifeStages.0.labelPlural>
+</LanguageData>

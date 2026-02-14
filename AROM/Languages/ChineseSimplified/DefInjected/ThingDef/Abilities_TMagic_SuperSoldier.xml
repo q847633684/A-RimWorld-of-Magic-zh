@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- mk203 gl -->
+  <!--原中文: '手榴弹', 原英文: '无' -> 新英文: 'Grenade',更新于2026-02-14-->
+  <!--EN: Grenade-->
+  <Projectile_Mk203GL.label>手榴弹</Projectile_Mk203GL.label>
+  <!-- Buckshot -->
+  <!--原中文: '鹿弹球', 原英文: '无' -> 新英文: 'buckshot pellet',更新于2026-02-14-->
+  <!--EN: buckshot pellet-->
+  <Projectile_Buckshot.label>鹿弹球</Projectile_Buckshot.label>
+  <!-- Breaching Charge -->
+  <!--原中文: '逆反电荷', 原英文: '无' -> 新英文: 'breaching charge',更新于2026-02-14-->
+  <!--EN: breaching charge-->
+  <Projectile_BreachingCharge.label>逆反电荷</Projectile_BreachingCharge.label>
+  <!-- 60mm Mortar -->
+  <!--原中文: '武器专精:手枪', 原英文: '无' -> 新英文: 'pistol spec weapon',更新于2026-02-14-->
+  <!--EN: pistol spec weapon-->
+  <TM_PistolSpec_Base0.label>武器专精:手枪</TM_PistolSpec_Base0.label>
+  <!--原中文: '专精手枪的超级战士所持有的手枪。', 原英文: '无' -> 新英文: 'A pistol in the hands of a specialist.',更新于2026-02-14-->
+  <!--EN: A pistol in the hands of a specialist.-->
+  <TM_PistolSpec_Base0.description>专精手枪的超级战士所持有的手枪。</TM_PistolSpec_Base0.description>
+  <!--原中文: '手枪鞭', 原英文: '无' -> 新英文: 'pistol whip',更新于2026-02-14-->
+  <!--EN: pistol whip-->
+  <TM_PistolSpec_Base0.tools.0.label>手枪鞭</TM_PistolSpec_Base0.tools.0.label>
+  <!--原中文: '武器专精:步枪', 原英文: '无' -> 新英文: 'rifle spec weapon',更新于2026-02-14-->
+  <!--EN: rifle spec weapon-->
+  <TM_RifleSpec_Base0.label>武器专精:步枪</TM_RifleSpec_Base0.label>
+  <!--原中文: '专精步枪的超级战士所持有的步枪。', 原英文: '无' -> 新英文: 'A rifle in the hands of a specialist.',更新于2026-02-14-->
+  <!--EN: A rifle in the hands of a specialist.-->
+  <TM_RifleSpec_Base0.description>专精步枪的超级战士所持有的步枪。</TM_RifleSpec_Base0.description>
+  <!--原中文: '步枪枪托', 原英文: '无' -> 新英文: 'rifle stock',更新于2026-02-14-->
+  <!--EN: rifle stock-->
+  <TM_RifleSpec_Base0.tools.0.label>步枪枪托</TM_RifleSpec_Base0.tools.0.label>
+  <!--原中文: '武器专精:霰弹枪', 原英文: '无' -> 新英文: 'shotgun spec weapon',更新于2026-02-14-->
+  <!--EN: shotgun spec weapon-->
+  <TM_ShotgunSpec_Base0.label>武器专精:霰弹枪</TM_ShotgunSpec_Base0.label>
+  <!--原中文: '专精霰弹枪的超级战士所持有的霰弹枪。', 原英文: '无' -> 新英文: 'A shotgun in the hands of a specialist.',更新于2026-02-14-->
+  <!--EN: A shotgun in the hands of a specialist.-->
+  <TM_ShotgunSpec_Base0.description>专精霰弹枪的超级战士所持有的霰弹枪。</TM_ShotgunSpec_Base0.description>
+  <!--原中文: '武器粉碎', 原英文: '无' -> 新英文: 'weapon smash',更新于2026-02-14-->
+  <!--EN: weapon smash-->
+  <TM_ShotgunSpec_Base0.tools.0.label>武器粉碎</TM_ShotgunSpec_Base0.tools.0.label>
+</LanguageData>

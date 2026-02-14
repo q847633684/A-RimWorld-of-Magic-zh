@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '憎恨', 原英文: '无' -> 新英文: 'Hate',更新于2026-02-14-->
+  <!--EN: Hate-->
+  <TM_HateHD.label>憎恨</TM_HateHD.label>
+  <!--原中文: '死亡骑士所使用的独特能量。', 原英文: '无' -> 新英文: 'Accounts for the unique energy and abilities utilized by a death knight.',更新于2026-02-14-->
+  <!--EN: Accounts for the unique energy and abilities utilized by a death knight.-->
+  <TM_HateHD.description>死亡骑士所使用的独特能量。</TM_HateHD.description>
+  <!--原中文: '憎恨', 原英文: '无' -> 新英文: 'Hate',更新于2026-02-14-->
+  <!--EN: Hate-->
+  <TM_HateHD_I.label>憎恨</TM_HateHD_I.label>
+  <!--原中文: '死亡骑士所使用的独特能量。', 原英文: '无' -> 新英文: 'Accounts for the unique energy and abilities utilized by a death knight.',更新于2026-02-14-->
+  <!--EN: Accounts for the unique energy and abilities utilized by a death knight.-->
+  <TM_HateHD_I.description>死亡骑士所使用的独特能量。</TM_HateHD_I.description>
+  <!--原中文: '憎恨', 原英文: '无' -> 新英文: 'Hate',更新于2026-02-14-->
+  <!--EN: Hate-->
+  <TM_HateHD_II.label>憎恨</TM_HateHD_II.label>
+  <!--原中文: '死亡骑士所使用的独特能量。', 原英文: '无' -> 新英文: 'Accounts for the unique energy and abilities utilized by a death knight.',更新于2026-02-14-->
+  <!--EN: Accounts for the unique energy and abilities utilized by a death knight.-->
+  <TM_HateHD_II.description>死亡骑士所使用的独特能量。</TM_HateHD_II.description>
+  <!--原中文: '憎恨', 原英文: '无' -> 新英文: 'Hate',更新于2026-02-14-->
+  <!--EN: Hate-->
+  <TM_HateHD_III.label>憎恨</TM_HateHD_III.label>
+  <!--原中文: '死亡骑士所使用的独特能量。', 原英文: '无' -> 新英文: 'Accounts for the unique energy and abilities utilized by a death knight.',更新于2026-02-14-->
+  <!--EN: Accounts for the unique energy and abilities utilized by a death knight.-->
+  <TM_HateHD_III.description>死亡骑士所使用的独特能量。</TM_HateHD_III.description>
+  <!--原中文: '憎恨', 原英文: '无' -> 新英文: 'Hate',更新于2026-02-14-->
+  <!--EN: Hate-->
+  <TM_HateHD_IV.label>憎恨</TM_HateHD_IV.label>
+  <!--原中文: '死亡骑士所使用的独特能量。', 原英文: '无' -> 新英文: 'Accounts for the unique energy and abilities utilized by a death knight.',更新于2026-02-14-->
+  <!--EN: Accounts for the unique energy and abilities utilized by a death knight.-->
+  <TM_HateHD_IV.description>死亡骑士所使用的独特能量。</TM_HateHD_IV.description>
+  <!--原中文: '憎恨', 原英文: '无' -> 新英文: 'Hate',更新于2026-02-14-->
+  <!--EN: Hate-->
+  <TM_HateHD_V.label>憎恨</TM_HateHD_V.label>
+  <!--原中文: '死亡骑士所使用的独特能量。', 原英文: '无' -> 新英文: 'Accounts for the unique energy and abilities utilized by a death knight.',更新于2026-02-14-->
+  <!--EN: Accounts for the unique energy and abilities utilized by a death knight.-->
+  <TM_HateHD_V.description>死亡骑士所使用的独特能量。</TM_HateHD_V.description>
+  <!--原中文: '恐惧之波', 原英文: '无' -> 新英文: 'Wave of Fear',更新于2026-02-14-->
+  <!--EN: Wave of Fear-->
+  <TM_WaveOfFearHD.label>恐惧之波</TM_WaveOfFearHD.label>
+  <!--原中文: '由于恐惧的影响，降低其各项能力。', 原英文: '无' -> 新英文: 'Affected by a terrible and debilitating fear.',更新于2026-02-14-->
+  <!--EN: Affected by a terrible and debilitating fear.-->
+  <TM_WaveOfFearHD.description>由于恐惧的影响，降低其各项能力。</TM_WaveOfFearHD.description>
+  <TM_WaveOfFearHD.stages.0.label>I</TM_WaveOfFearHD.stages.0.label>
+  <TM_WaveOfFearHD.stages.1.label>II</TM_WaveOfFearHD.stages.1.label>
+  <TM_WaveOfFearHD.stages.2.label>III</TM_WaveOfFearHD.stages.2.label>
+  <TM_WaveOfFearHD.stages.3.label>IV</TM_WaveOfFearHD.stages.3.label>
+</LanguageData>

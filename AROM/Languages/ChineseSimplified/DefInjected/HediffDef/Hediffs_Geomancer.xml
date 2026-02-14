@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '石肤术', 原英文: '无' -> 新英文: 'Stoneskin',更新于2026-02-14-->
+  <!--EN: Stoneskin-->
+  <TM_StoneskinHD.label>石肤术</TM_StoneskinHD.label>
+  <!--原中文: '每一次冲锋都会抵消一次攻击造成的伤害.', 原英文: '无' -> 新英文: 'Each charge nullifies the damage from a single attack.',更新于2026-02-14-->
+  <!--EN: Each charge nullifies the damage from a single attack.-->
+  <TM_StoneskinHD.description>每一次冲锋都会抵消一次攻击造成的伤害.</TM_StoneskinHD.description>
+</LanguageData>

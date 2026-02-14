@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '混乱', 原英文: '无' -> 新英文: 'Chaotic',更新于2026-02-14-->
+  <!--EN: Chaotic-->
+  <TM_ChaoticMindTD.stages.0.label>混乱</TM_ChaoticMindTD.stages.0.label>
+  <!--原中文: '当我让我的思想不受秩序的束缚时，我感到魔术的可能性无尽。', 原英文: '无' -> 新英文: 'I felt the endless possibilities of magic when I allowed my mind to be unfettered by order.',更新于2026-02-14-->
+  <!--EN: I felt the endless possibilities of magic when I allowed my mind to be unfettered by order.-->
+  <TM_ChaoticMindTD.stages.0.description>当我让我的思想不受秩序的束缚时，我感到魔术的可能性无尽。</TM_ChaoticMindTD.stages.0.description>
+</LanguageData>

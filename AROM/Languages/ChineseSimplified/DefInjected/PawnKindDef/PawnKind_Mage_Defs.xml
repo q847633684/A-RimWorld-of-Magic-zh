@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- <PawnKindDef ParentName="BasePlayerPawnKind">
+		<defName>TM_Undead</defName>
+		<label>undead</label>
+		<race>Human</race>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Equipment/ancientmail_Fat</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>1.5</drawSize>
+					<shadowData>
+						<volume>(0.4, 0.8, 0.4)</volume>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef> -->
+  <!--原中文: '秘能守卫者', 原英文: '无' -> 新英文: 'Magic Protector',更新于2026-02-14-->
+  <!--EN: Magic Protector-->
+  <SeerDefender.label>秘能守卫者</SeerDefender.label>
+  <!--原中文: '秘能守卫者们', 原英文: '无' -> 新英文: 'magic protectors',更新于2026-02-14-->
+  <!--EN: magic protectors-->
+  <SeerDefender.labelPlural>秘能守卫者们</SeerDefender.labelPlural>
+  <!--原中文: '秘能守卫者近卫兵', 原英文: '无' -> 新英文: 'Guardsman',更新于2026-02-14-->
+  <!--EN: Guardsman-->
+  <SeerSpearman.label>秘能守卫者近卫兵</SeerSpearman.label>
+  <!--原中文: '秘能守卫者近卫兵们', 原英文: '无' -> 新英文: 'Guardsmen',更新于2026-02-14-->
+  <!--EN: Guardsmen-->
+  <SeerSpearman.labelPlural>秘能守卫者近卫兵们</SeerSpearman.labelPlural>
+  <!--原中文: '秘能守卫者弓箭手', 原英文: '无' -> 新英文: 'Seer Archer',更新于2026-02-14-->
+  <!--EN: Seer Archer-->
+  <SeerBowman.label>秘能守卫者弓箭手</SeerBowman.label>
+  <!--原中文: '秘能守卫者弓箭手们', 原英文: '无' -> 新英文: 'Seer Archers',更新于2026-02-14-->
+  <!--EN: Seer Archers-->
+  <SeerBowman.labelPlural>秘能守卫者弓箭手们</SeerBowman.labelPlural>
+  <!--原中文: '秘能守卫者精英', 原英文: '无' -> 新英文: 'Seer Elite',更新于2026-02-14-->
+  <!--EN: Seer Elite-->
+  <SeerElite.label>秘能守卫者精英</SeerElite.label>
+  <!--原中文: '秘能守卫者精英', 原英文: '无' -> 新英文: 'Seer Elite',更新于2026-02-14-->
+  <!--EN: Seer Elite-->
+  <SeerElite.labelPlural>秘能守卫者精英</SeerElite.labelPlural>
+</LanguageData>

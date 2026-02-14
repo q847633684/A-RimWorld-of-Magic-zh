@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '法力风暴', 原英文: '无' -> 新英文: 'mana storm',更新于2026-02-14-->
+  <!--EN: mana storm-->
+  <TM_Start_ManaStorm.label>法力风暴</TM_Start_ManaStorm.label>
+  <!--原中文: '创建并立即释放一个临时的法力容器。周围的法力会试图填满容器，但它们会被迫分散，造成猛烈的法力干扰。由此产生的情况称为法力风暴。法力风暴期间，周围的法力会迅速向四周扩散，这会对任何试图使用法力的人造成严重伤害。但是法力也会更容易获得，对于那些愿意冒反噬风险的人来说，这是充满了危险也充满了机遇。法力风暴持续6到40小时。', 原英文: '无' -> 新英文: 'Creates and almost immediately releases a temporary mana pocket. Mana attempts to fill the pocket but is forced to rapidly disperse, creating a violent mana disturbance. The resulting condition is known as a mana storm. Mana attempts to disperse rapidly during mana storm which can cause severe damage to anyone attempting to draw on mana at the time. Mana is also more readily available, for those who are willing to risk the backlash. The mana storm lasts anywhere from 6 to 40 hours.',更新于2026-02-14-->
+  <!--EN: Creates and almost immediately releases a temporary mana pocket. Mana attempts to fill the pocket but is forced to rapidly disperse, creating a violent mana disturbance. The resulting condition is known as a mana storm. Mana attempts to disperse rapidly during mana storm which can cause severe damage to anyone attempting to draw on mana at the time. Mana is also more readily available, for those who are willing to risk the backlash. The mana storm lasts anywhere from 6 to 40 hours.-->
+  <TM_Start_ManaStorm.description>创建并立即释放一个临时的法力容器。周围的法力会试图填满容器，但它们会被迫分散，造成猛烈的法力干扰。由此产生的情况称为法力风暴。法力风暴期间，周围的法力会迅速向四周扩散，这会对任何试图使用法力的人造成严重伤害。但是法力也会更容易获得，对于那些愿意冒反噬风险的人来说，这是充满了危险也充满了机遇。法力风暴持续6到40小时。</TM_Start_ManaStorm.description>
+  <!--原中文: '元素卫士', 原英文: '无' -> 新英文: 'elemental defenders',更新于2026-02-14-->
+  <!--EN: elemental defenders-->
+  <TM_Start_ElementalDefenders.label>元素卫士</TM_Start_ElementalDefenders.label>
+  <!--原中文: '创造与另一个位面的连接，并引诱那里的元素过来保卫殖民地。持续约4小时。', 原英文: '无' -> 新英文: 'Creates a connection to another plane of existence and entices the elementals there to defend the colony. Lasts about 4 hours.',更新于2026-02-14-->
+  <!--EN: Creates a connection to another plane of existence and entices the elementals there to defend the colony. Lasts about 4 hours.-->
+  <TM_Start_ElementalDefenders.description>创造与另一个位面的连接，并引诱那里的元素过来保卫殖民地。持续约4小时。</TM_Start_ElementalDefenders.description>
+</LanguageData>

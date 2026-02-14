@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '创造魔法物品', 原英文: '无' -> 新英文: 'spawn magical item',更新于2026-02-14-->
+  <!--EN: spawn magical item-->
+  <Projectile_TM_SpawnThing.label>创造魔法物品</Projectile_TM_SpawnThing.label>
+  <!-- Heater -->
+  <!--原中文: '生成魔法热源', 原英文: '无' -> 新英文: 'spawn magic heater',更新于2026-02-14-->
+  <!--EN: spawn magic heater-->
+  <Projectile_Heater.label>生成魔法热源</Projectile_Heater.label>
+  <!-- Cooler -->
+  <!--原中文: '生成魔法冷源', 原英文: '无' -> 新英文: 'spawn magic cooler',更新于2026-02-14-->
+  <!--EN: spawn magic cooler-->
+  <Projectile_Cooler.label>生成魔法冷源</Projectile_Cooler.label>
+  <!-- Power Node -->
+  <!--原中文: '生成魔法电源', 原英文: '无' -> 新英文: 'spawn arcane power node',更新于2026-02-14-->
+  <!--EN: spawn arcane power node-->
+  <Projectile_PowerNode.label>生成魔法电源</Projectile_PowerNode.label>
+  <!-- Light Node -->
+  <!--原中文: '生成日光术', 原英文: '无' -> 新英文: 'spawn magic light',更新于2026-02-14-->
+  <!--EN: spawn magic light-->
+  <Projectile_Sunlight.label>生成日光术</Projectile_Sunlight.label>
+  <!-- Remove Moisture -->
+  <!--原中文: '魔力蒸腾', 原英文: '无' -> 新英文: 'dry ground',更新于2026-02-14-->
+  <!--EN: dry ground-->
+  <Projectile_DryGround.label>魔力蒸腾</Projectile_DryGround.label>
+  <!-- Add Moisture -->
+  <!--原中文: '滋润大地', 原英文: '无' -> 新英文: 'moisturize ground',更新于2026-02-14-->
+  <!--EN: moisturize ground-->
+  <Projectile_WetGround.label>滋润大地</Projectile_WetGround.label>
+  <!-- Charge Battery -->
+  <!--原中文: '电池充能', 原英文: '无' -> 新英文: 'charge battery',更新于2026-02-14-->
+  <!--EN: charge battery-->
+  <Projectile_ChargeBattery.label>电池充能</Projectile_ChargeBattery.label>
+  <!-- Smoke Cloud -->
+  <!--原中文: '烟云蔽日', 原英文: '无' -> 新英文: 'smoke cloud',更新于2026-02-14-->
+  <!--EN: smoke cloud-->
+  <Projectile_SmokeCloud.label>烟云蔽日</Projectile_SmokeCloud.label>
+  <!-- Extinguish -->
+  <!--原中文: '熄灭术', 原英文: '无' -> 新英文: 'extinguish',更新于2026-02-14-->
+  <!--EN: extinguish-->
+  <Projectile_Extinguish.label>熄灭术</Projectile_Extinguish.label>
+  <!-- EMP -->
+  <!--原中文: '电磁脉冲', 原英文: '无' -> 新英文: 'EMP',更新于2026-02-14-->
+  <!--EN: EMP-->
+  <Projectile_EMP.label>电磁脉冲</Projectile_EMP.label>
+  <!-- Transfer mana -->
+  <!--原中文: '法力转移', 原英文: '无' -> 新英文: 'transfer mana',更新于2026-02-14-->
+  <!--EN: transfer mana-->
+  <Projectile_TransferMana.label>法力转移</Projectile_TransferMana.label>
+  <!-- siphon mana -->
+  <!--原中文: '法力虹吸', 原英文: '无' -> 新英文: 'siphon mana',更新于2026-02-14-->
+  <!--EN: siphon mana-->
+  <Projectile_SiphonMana.label>法力虹吸</Projectile_SiphonMana.label>
+  <!-- Flight -->
+  <!--原中文: '飞行目标', 原英文: '无' -> 新英文: 'flying object',更新于2026-02-14-->
+  <!--EN: flying object-->
+  <FlyingObject_Flight.label>飞行目标</FlyingObject_Flight.label>
+  <!--原中文: '飞行', 原英文: '无' -> 新英文: 'flight',更新于2026-02-14-->
+  <!--EN: flight-->
+  <Projectile_Flight.label>飞行</Projectile_Flight.label>
+  <!-- Fertile land -->
+  <!--原中文: '大地祝福', 原英文: '无' -> 新英文: 'fertile lands',更新于2026-02-14-->
+  <!--EN: fertile lands-->
+  <Projectile_FertileLands.label>大地祝福</Projectile_FertileLands.label>
+  <!-- dirt devil -->
+  <!--原中文: '旋风', 原英文: '无' -> 新英文: 'dirt devil',更新于2026-02-14-->
+  <!--EN: dirt devil-->
+  <Projectile_DirtDevil.label>旋风</Projectile_DirtDevil.label>
+  <!--原中文: '飞行物体', 原英文: '无' -> 新英文: 'flying object',更新于2026-02-14-->
+  <!--EN: flying object-->
+  <FlyingObject_DirtDevil.label>飞行物体</FlyingObject_DirtDevil.label>
+  <!-- Arcane Bolt -->
+  <!--原中文: '奥术射线', 原英文: '无' -> 新英文: 'arcane bolt',更新于2026-02-14-->
+  <!--EN: arcane bolt-->
+  <Projectile_ArcaneBolt.label>奥术射线</Projectile_ArcaneBolt.label>
+  <!-- Throwing Knife -->
+  <!--原中文: '投掷飞刀', 原英文: '无' -> 新英文: 'Throwing Knife',更新于2026-02-14-->
+  <!--EN: Throwing Knife-->
+  <Projectile_ThrowingKnife.label>投掷飞刀</Projectile_ThrowingKnife.label>
+  <!-- Lightning Trap -->
+  <!--原中文: '闪电陷阱', 原英文: '无' -> 新英文: 'lightning',更新于2026-02-14-->
+  <!--EN: lightning-->
+  <FlyingObject_LightningTrap.label>闪电陷阱</FlyingObject_LightningTrap.label>
+  <!-- briar patch -->
+  <!--原中文: '自然之怒', 原英文: '无' -> 新英文: 'briar patch',更新于2026-02-14-->
+  <!--EN: briar patch-->
+  <Projectile_BriarPatch.label>自然之怒</Projectile_BriarPatch.label>
+  <!-- Tempest Strike -->
+  <!--原中文: '暴风袭击', 原英文: '无' -> 新英文: 'Tempest strike',更新于2026-02-14-->
+  <!--EN: Tempest strike-->
+  <Projectile_TempestStrike.label>暴风袭击</Projectile_TempestStrike.label>
+</LanguageData>

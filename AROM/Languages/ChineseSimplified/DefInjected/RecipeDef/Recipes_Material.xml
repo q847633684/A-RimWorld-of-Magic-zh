@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Material Resource Recipes -->
+  <!--原中文: '编织魔纹布', 原英文: '无' -> 新英文: 'manaweave',更新于2026-02-14-->
+  <!--EN: manaweave-->
+  <TM_MakeManaweave.label>编织魔纹布</TM_MakeManaweave.label>
+  <!--原中文: '将法力, 魔法原石和布编织成魔纹布', 原英文: '无' -> 新英文: 'Weave mana, magicyte, and cloth into manaweave',更新于2026-02-14-->
+  <!--EN: Weave mana, magicyte, and cloth into manaweave-->
+  <TM_MakeManaweave.description>将法力, 魔法原石和布编织成魔纹布</TM_MakeManaweave.description>
+  <!--原中文: '编织魔纹布', 原英文: '无' -> 新英文: 'weaving mana',更新于2026-02-14-->
+  <!--EN: weaving mana-->
+  <TM_MakeManaweave.jobString>编织魔纹布</TM_MakeManaweave.jobString>
+  <!--原中文: '熔炼魔法合金', 原英文: '无' -> 新英文: 'arcalleum',更新于2026-02-14-->
+  <!--EN: arcalleum-->
+  <TM_MakeArcalleum.label>熔炼魔法合金</TM_MakeArcalleum.label>
+  <!--原中文: '把钢铁、翡翠、白银和魔法原石熔化成魔法合金', 原英文: '无' -> 新英文: 'Meld steel, jade, silver and magicyte into arcalleum alloy',更新于2026-02-14-->
+  <!--EN: Meld steel, jade, silver and magicyte into arcalleum alloy-->
+  <TM_MakeArcalleum.description>把钢铁、翡翠、白银和魔法原石熔化成魔法合金</TM_MakeArcalleum.description>
+  <!--原中文: '熔炼魔法合金', 原英文: '无' -> 新英文: 'smelting arcalleum',更新于2026-02-14-->
+  <!--EN: smelting arcalleum-->
+  <TM_MakeArcalleum.jobString>熔炼魔法合金</TM_MakeArcalleum.jobString>
+</LanguageData>

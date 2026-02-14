@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Base -->
+  <!--原中文: 'r_roleName(p=7)->[firstPart][>secondPart]', 原英文: '无' -> 新英文: 'r_roleName(p=7)->[firstPart][secondPart]',更新于2026-02-14-->
+  <!--EN: r_roleName(p=7)->[firstPart][secondPart]-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.0>r_roleName(p=7)-&amp;gt;[firstPart][&amp;gt;secondPart]</TM_NamerRoleVoidseeker.rulePack.rulesStrings.0>
+  <!--原中文: 'firstPart->虚空-', 原英文: '无' -> 新英文: 'firstPart->void-',更新于2026-02-14-->
+  <!--EN: firstPart->void- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.1>firstPart-&amp;gt;虚空-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.1>
+  <!--原中文: 'firstPart->虚无-', 原英文: '无' -> 新英文: 'firstPart->null-',更新于2026-02-14-->
+  <!--EN: firstPart->null- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.2>firstPart-&amp;gt;虚无-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.2>
+  <!--原中文: 'firstPart->隐秘-', 原英文: '无' -> 新英文: 'firstPart->hidden-',更新于2026-02-14-->
+  <!--EN: firstPart->hidden- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.3>firstPart-&amp;gt;隐秘-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.3>
+  <!--原中文: 'firstPart->星号-', 原英文: '无' -> 新英文: 'firstPart->star-',更新于2026-02-14-->
+  <!--EN: firstPart->star- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.4>firstPart-&amp;gt;星号-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.4>
+  <!--原中文: 'firstPart->星辰-', 原英文: '无' -> 新英文: 'firstPart->link-',更新于2026-02-14-->
+  <!--EN: firstPart->link- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.5>firstPart-&amp;gt;星辰-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.5>
+  <!--原中文: 'firstPart->灵魂-', 原英文: '无' -> 新英文: 'firstPart->soul-',更新于2026-02-14-->
+  <!--EN: firstPart->soul- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.6>firstPart-&amp;gt;灵魂-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.6>
+  <!--原中文: 'firstPart->精神-', 原英文: '无' -> 新英文: 'firstPart->spirit-',更新于2026-02-14-->
+  <!--EN: firstPart->spirit- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.7>firstPart-&amp;gt;精神-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.7>
+  <!--原中文: 'firstPart->神智-', 原英文: '无' -> 新英文: 'firstPart->mind-',更新于2026-02-14-->
+  <!--EN: firstPart->mind- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.8>firstPart-&amp;gt;神智-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.8>
+  <!--原中文: 'secondPart->大师', 原英文: '无' -> 新英文: 'secondPart->master',更新于2026-02-14-->
+  <!--EN: secondPart->master-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.9>secondPart-&amp;gt;大师</TM_NamerRoleVoidseeker.rulePack.rulesStrings.9>
+  <!--原中文: 'secondPart->寻觅者', 原英文: '无' -> 新英文: 'secondPart->seeker',更新于2026-02-14-->
+  <!--EN: secondPart->seeker-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.10>secondPart-&amp;gt;寻觅者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.10>
+  <!--原中文: 'secondPart->疯癫之人', 原英文: '无' -> 新英文: 'secondPart->touched',更新于2026-02-14-->
+  <!--EN: secondPart->touched-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.11>secondPart-&amp;gt;疯癫之人</TM_NamerRoleVoidseeker.rulePack.rulesStrings.11>
+  <!--原中文: 'secondPart->呼唤者', 原英文: '无' -> 新英文: 'secondPart->caller',更新于2026-02-14-->
+  <!--EN: secondPart->caller-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.12>secondPart-&amp;gt;呼唤者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.12>
+  <!--原中文: 'secondPart->搜索者', 原英文: '无' -> 新英文: 'secondPart->searcher',更新于2026-02-14-->
+  <!--EN: secondPart->searcher-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.13>secondPart-&amp;gt;搜索者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.13>
+  <!--原中文: 'secondPart->操纵者', 原英文: '无' -> 新英文: 'secondPart->manipulator',更新于2026-02-14-->
+  <!--EN: secondPart->manipulator-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.14>secondPart-&amp;gt;操纵者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.14>
+  <!--原中文: 'secondPart->挑选者', 原英文: '无' -> 新英文: 'secondPart->culler',更新于2026-02-14-->
+  <!--EN: secondPart->culler-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.15>secondPart-&amp;gt;挑选者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.15>
+  <!--原中文: 'secondPart->抹除者', 原英文: '无' -> 新英文: 'secondPart->eraser',更新于2026-02-14-->
+  <!--EN: secondPart->eraser-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.16>secondPart-&amp;gt;抹除者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.16>
+  <!--原中文: 'secondPart->头脑', 原英文: '无' -> 新英文: 'secondPart->mind',更新于2026-02-14-->
+  <!--EN: secondPart->mind-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.17>secondPart-&amp;gt;头脑</TM_NamerRoleVoidseeker.rulePack.rulesStrings.17>
+  <!--原中文: 'secondPart->耳语者', 原英文: '无' -> 新英文: 'secondPart->whisperer',更新于2026-02-14-->
+  <!--EN: secondPart->whisperer-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.18>secondPart-&amp;gt;耳语者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.18>
+  <!--原中文: 'secondPart->使者', 原英文: '无' -> 新英文: 'secondPart->bringer',更新于2026-02-14-->
+  <!--EN: secondPart->bringer-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.19>secondPart-&amp;gt;使者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.19>
+  <!--原中文: 'secondPart->发言者', 原英文: '无' -> 新英文: 'secondPart->speaker',更新于2026-02-14-->
+  <!--EN: secondPart->speaker-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.20>secondPart-&amp;gt;发言者</TM_NamerRoleVoidseeker.rulePack.rulesStrings.20>
+  <!--原中文: 'secondPart->管家', 原英文: '无' -> 新英文: 'secondPart->steward',更新于2026-02-14-->
+  <!--EN: secondPart->steward-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.21>secondPart-&amp;gt;管家</TM_NamerRoleVoidseeker.rulePack.rulesStrings.21>
+  <!--原中文: 'secondPart->从属', 原英文: '无' -> 新英文: 'secondPart->slave',更新于2026-02-14-->
+  <!--EN: secondPart->slave-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.22>secondPart-&amp;gt;从属</TM_NamerRoleVoidseeker.rulePack.rulesStrings.22>
+  <!--原中文: 'secondPart->存在', 原英文: '无' -> 新英文: 'secondPart->being',更新于2026-02-14-->
+  <!--EN: secondPart->being-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.23>secondPart-&amp;gt;存在</TM_NamerRoleVoidseeker.rulePack.rulesStrings.23>
+  <!--原中文: 'secondPart->一个', 原英文: '无' -> 新英文: 'secondPart->one',更新于2026-02-14-->
+  <!--EN: secondPart->one-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.24>secondPart-&amp;gt;一个</TM_NamerRoleVoidseeker.rulePack.rulesStrings.24>
+  <!--原中文: 'secondPart->引导', 原英文: '无' -> 新英文: 'secondPart->guide',更新于2026-02-14-->
+  <!--EN: secondPart->guide-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.25>secondPart-&amp;gt;引导</TM_NamerRoleVoidseeker.rulePack.rulesStrings.25>
+</LanguageData>

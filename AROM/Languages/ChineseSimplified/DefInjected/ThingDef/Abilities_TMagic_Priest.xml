@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- priest projectile -->
+  <!--原中文: '神圣一击', 原英文: '无' -> 新英文: 'priest projectile',更新于2026-02-14-->
+  <!--EN: priest projectile-->
+  <TM_Projectile_Priest.label>神圣一击</TM_Projectile_Priest.label>
+  <!-- Healing Circle -->
+  <!--原中文: '治愈之环', 原英文: '无' -> 新英文: 'healing circle',更新于2026-02-14-->
+  <!--EN: healing circle-->
+  <TM_Projectile_HealingCircle.label>治愈之环</TM_Projectile_HealingCircle.label>
+  <!--原中文: '治愈之环', 原英文: '无' -> 新英文: 'healing circle',更新于2026-02-14-->
+  <!--EN: healing circle-->
+  <TM_Projectile_HealingCircle_I.label>治愈之环</TM_Projectile_HealingCircle_I.label>
+  <!--原中文: '治愈之环', 原英文: '无' -> 新英文: 'healing circle',更新于2026-02-14-->
+  <!--EN: healing circle-->
+  <TM_Projectile_HealingCircle_II.label>治愈之环</TM_Projectile_HealingCircle_II.label>
+  <!--原中文: '治愈之环', 原英文: '无' -> 新英文: 'healing circle',更新于2026-02-14-->
+  <!--EN: healing circle-->
+  <TM_Projectile_HealingCircle_III.label>治愈之环</TM_Projectile_HealingCircle_III.label>
+  <!-- Resurrection -->
+  <!--原中文: '复活术', 原英文: '无' -> 新英文: 'resurrection',更新于2026-02-14-->
+  <!--EN: resurrection-->
+  <Projectile_Resurrection.label>复活术</Projectile_Resurrection.label>
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- STONE GOLEM -->
+  <!--原中文: '粉碎', 原英文: '无' -> 新英文: 'smash',更新于2026-02-14-->
+  <!--EN: smash-->
+  <TM_GolemSmash.label>粉碎</TM_GolemSmash.label>
+  <!-- HOLLOW GOLEM -->
+  <!--原中文: '腐朽之触', 原英文: '无' -> 新英文: 'decay touch',更新于2026-02-14-->
+  <!--EN: decay touch-->
+  <TM_DecayTouch.label>腐朽之触</TM_DecayTouch.label>
+  <!--原中文: '空虚之击', 原英文: '无' -> 新英文: 'null cleave',更新于2026-02-14-->
+  <!--EN: null cleave-->
+  <TM_NullCleave.label>空虚之击</TM_NullCleave.label>
+</LanguageData>

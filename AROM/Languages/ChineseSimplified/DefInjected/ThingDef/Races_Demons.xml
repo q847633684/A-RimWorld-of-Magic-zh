@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- demon special attack manuevers -->
+  <!--原中文: '恶魔', 原英文: '无' -> 新英文: 'Demon',更新于2026-02-14-->
+  <!--EN: Demon-->
+  <TM_DemonR.label>恶魔</TM_DemonR.label>
+  <!--原中文: '从地狱的深坑中释放出来，这个恶魔会毁灭在它的道路上的一切生物。如果你没有任何办法征服恶魔; 要么摧毁它或被它摧毁。', 原英文: '无' -> 新英文: 'Released from the pits of hell, this demon will unleash its unfettered malice upon any and all beings in its path. There is no reasoning or subjugating the demon; destroy it or be destroyed.',更新于2026-02-14-->
+  <!--EN: Released from the pits of hell, this demon will unleash its unfettered malice upon any and all beings in its path. There is no reasoning or subjugating the demon; destroy it or be destroyed.-->
+  <TM_DemonR.description>从地狱的深坑中释放出来，这个恶魔会毁灭在它的道路上的一切生物。如果你没有任何办法征服恶魔; 要么摧毁它或被它摧毁。</TM_DemonR.description>
+  <!--原中文: '左爪', 原英文: '无' -> 新英文: 'left claw',更新于2026-02-14-->
+  <!--EN: left claw-->
+  <TM_DemonR.tools.0.label>左爪</TM_DemonR.tools.0.label>
+  <!--原中文: '右爪', 原英文: '无' -> 新英文: 'right claw',更新于2026-02-14-->
+  <!--EN: right claw-->
+  <TM_DemonR.tools.1.label>右爪</TM_DemonR.tools.1.label>
+  <!--原中文: '蹄', 原英文: '无' -> 新英文: 'hoof',更新于2026-02-14-->
+  <!--EN: hoof-->
+  <TM_DemonR.tools.2.label>蹄</TM_DemonR.tools.2.label>
+  <!--未识别字段，谨慎删除-->
+  <TM_DemonR.race.meatLabel>恶魔之肉</TM_DemonR.race.meatLabel>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <!-- demon special attack manuevers -->
+  <!--原中文: '小恶魔', 原英文: '无' -> 新英文: 'Lesser Demon',更新于2026-02-14-->
+  <!--EN: Lesser Demon-->
+  <TM_LesserDemonR.label>小恶魔</TM_LesserDemonR.label>
+  <!--原中文: '从地狱的深渊中被释放出来，这个小恶魔会毁灭在它的道路上的一切生物，它没有理性，如果你没有任何办法征服恶魔; 要么摧毁它或被它摧毁。', 原英文: '无' -> 新英文: 'Released from the pits of hell, this lesser demon will unleash its unfettered malice upon any and all beings in its path. There is no reasoning or subjugating the demon; destroy it or be destroyed.',更新于2026-02-14-->
+  <!--EN: Released from the pits of hell, this lesser demon will unleash its unfettered malice upon any and all beings in its path. There is no reasoning or subjugating the demon; destroy it or be destroyed.-->
+  <TM_LesserDemonR.description>从地狱的深渊中被释放出来，这个小恶魔会毁灭在它的道路上的一切生物，它没有理性，如果你没有任何办法征服恶魔; 要么摧毁它或被它摧毁。</TM_LesserDemonR.description>
+  <!--原中文: '左爪', 原英文: '无' -> 新英文: 'left claw',更新于2026-02-14-->
+  <!--EN: left claw-->
+  <TM_LesserDemonR.tools.0.label>左爪</TM_LesserDemonR.tools.0.label>
+  <!--原中文: '右爪', 原英文: '无' -> 新英文: 'right claw',更新于2026-02-14-->
+  <!--EN: right claw-->
+  <TM_LesserDemonR.tools.1.label>右爪</TM_LesserDemonR.tools.1.label>
+  <!--原中文: '蹄', 原英文: '无' -> 新英文: 'hoof',更新于2026-02-14-->
+  <!--EN: hoof-->
+  <TM_LesserDemonR.tools.2.label>蹄</TM_LesserDemonR.tools.2.label>
+  <!--未识别字段，谨慎删除-->
+  <TM_LesserDemonR.race.meatLabel>恶魔之肉</TM_LesserDemonR.race.meatLabel>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+</LanguageData>

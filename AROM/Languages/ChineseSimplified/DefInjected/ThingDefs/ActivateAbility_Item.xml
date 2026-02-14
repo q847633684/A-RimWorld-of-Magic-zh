@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'Use {0_label}',新增于2026-02-14-->
+  <!--EN: Use {0_label}-->
+  <MagicArtifact_RerollSpiritBond.comps.2.useLabel>使用 {0_label}</MagicArtifact_RerollSpiritBond.comps.2.useLabel>
+  <!--翻译内容: 'Use {0_label}',新增于2026-02-14-->
+  <!--EN: Use {0_label}-->
+  <TM_Artifact_ClassExtraction.comps.2.useLabel>使用 {0_label}</TM_Artifact_ClassExtraction.comps.2.useLabel>
+  <!--翻译内容: 'Use {0_label}',新增于2026-02-14-->
+  <!--EN: Use {0_label}-->
+  <TM_MagicArtifact_MagicEssence.comps.0.useLabel>使用 {0_label}</TM_MagicArtifact_MagicEssence.comps.0.useLabel>
+  <!--翻译内容: 'Use {0_label}',新增于2026-02-14-->
+  <!--EN: Use {0_label}-->
+  <TM_MagicArtifact_MightEssence.comps.0.useLabel>使用 {0_label}</TM_MagicArtifact_MightEssence.comps.0.useLabel>
+</LanguageData>

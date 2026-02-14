@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '持续性能力', 原英文: '无' -> 新英文: 'sustained ability',更新于2026-02-14-->
+  <!--EN: sustained ability-->
+  <Projectile_Sustained.label>持续性能力</Projectile_Sustained.label>
+</LanguageData>

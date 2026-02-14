@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '有魅力的殖民者', 原英文: '无' -> 新英文: 'Charismatic pawn',更新于2026-02-14-->
+  <!--EN: Charismatic pawn-->
+  <TM_CommanderTD.stages.0.label>有魅力的殖民者</TM_CommanderTD.stages.0.label>
+  <!--原中文: '我情绪激动!我不确定是什么，但在这样一个有魅力的指挥官身边，肯定会有好事发生.', 原英文: '无' -> 新英文: 'I've been emotionally charged! I'm not sure what, but good things are bound to happen around such a charismatic commander.',更新于2026-02-14-->
+  <!--EN: I've been emotionally charged! I'm not sure what, but good things are bound to happen around such a charismatic commander.-->
+  <TM_CommanderTD.stages.0.description>我情绪激动!我不确定是什么，但在这样一个有魅力的指挥官身边，肯定会有好事发生.</TM_CommanderTD.stages.0.description>
+  <!--原中文: '有魅力的指挥官', 原英文: '无' -> 新英文: 'Charismatic commander',更新于2026-02-14-->
+  <!--EN: Charismatic commander-->
+  <TM_CommanderTD_I.stages.0.label>有魅力的指挥官</TM_CommanderTD_I.stages.0.label>
+  <!--原中文: '我情绪激动!围绕着这样一位有魅力的指挥官，好事一定会发生，尽管还不清楚是如何发生的.', 原英文: '无' -> 新英文: 'I've been emotionally charged! Good things are bound to happen around such a charismatic commander, though it's not exactly clear how.',更新于2026-02-14-->
+  <!--EN: I've been emotionally charged! Good things are bound to happen around such a charismatic commander, though it's not exactly clear how.-->
+  <TM_CommanderTD_I.stages.0.description>我情绪激动!围绕着这样一位有魅力的指挥官，好事一定会发生，尽管还不清楚是如何发生的.</TM_CommanderTD_I.stages.0.description>
+  <!--原中文: '有魅力的领导者', 原英文: '无' -> 新英文: 'Charismatic leader',更新于2026-02-14-->
+  <!--EN: Charismatic leader-->
+  <TM_CommanderTD_II.stages.0.label>有魅力的领导者</TM_CommanderTD_II.stages.0.label>
+  <!--原中文: '我情绪激动!在这样一位有魅力的领导人身边，肯定会有好事发生.', 原英文: '无' -> 新英文: 'I've been emotionally charged! Good things are bound to happen around such a charismatic leader.',更新于2026-02-14-->
+  <!--EN: I've been emotionally charged! Good things are bound to happen around such a charismatic leader.-->
+  <TM_CommanderTD_II.stages.0.description>我情绪激动!在这样一位有魅力的领导人身边，肯定会有好事发生.</TM_CommanderTD_II.stages.0.description>
+  <!--原中文: '有魅力的梦想家', 原英文: '无' -> 新英文: 'Charismatic visionary',更新于2026-02-14-->
+  <!--EN: Charismatic visionary-->
+  <TM_CommanderTD_III.stages.0.label>有魅力的梦想家</TM_CommanderTD_III.stages.0.label>
+  <!--原中文: '我情绪激动!在这样一位有魅力的领导人身边，肯定会有好事发生.', 原英文: '无' -> 新英文: 'I've been emotionally charged! Good things are bound to happen around such a charismatic visionary.',更新于2026-02-14-->
+  <!--EN: I've been emotionally charged! Good things are bound to happen around such a charismatic visionary.-->
+  <TM_CommanderTD_III.stages.0.description>我情绪激动!在这样一位有魅力的领导人身边，肯定会有好事发生.</TM_CommanderTD_III.stages.0.description>
+  <!--原中文: '任务光环', 原英文: '无' -> 新英文: 'Task master',更新于2026-02-14-->
+  <!--EN: Task master-->
+  <TM_TaskMasterTD.stages.0.label>任务光环</TM_TaskMasterTD.stages.0.label>
+  <!--原中文: '我生活的每一个方面都变得微观管理;我几乎没有时间吃一顿像样的饭.', 原英文: '无' -> 新英文: 'Every aspect of my life has become micro-managed; I barely have time to eat a decent meal.',更新于2026-02-14-->
+  <!--EN: Every aspect of my life has become micro-managed; I barely have time to eat a decent meal.-->
+  <TM_TaskMasterTD.stages.0.description>我生活的每一个方面都变得微观管理;我几乎没有时间吃一顿像样的饭.</TM_TaskMasterTD.stages.0.description>
+</LanguageData>

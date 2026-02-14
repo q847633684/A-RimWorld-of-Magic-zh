@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '血魔法', 原英文: '无' -> 新英文: 'Blood Magic',更新于2026-02-14-->
+  <!--EN: Blood Magic-->
+  <TM_BloodHD.label>血魔法</TM_BloodHD.label>
+  <!--原中文: '鲜血法师特有的能量。', 原英文: '无' -> 新英文: 'Accounts for the blood power of a blood mage.',更新于2026-02-14-->
+  <!--EN: Accounts for the blood power of a blood mage.-->
+  <TM_BloodHD.description>鲜血法师特有的能量。</TM_BloodHD.description>
+  <!--原中文: '出血', 原英文: '无' -> 新英文: 'Hemorrhaging',更新于2026-02-14-->
+  <!--EN: Hemorrhaging-->
+  <TM_RendHD.label>出血</TM_RendHD.label>
+  <!--原中文: '造成大出血。', 原英文: '无' -> 新英文: 'A horrendous wound causing massive bleeding.',更新于2026-02-14-->
+  <!--EN: A horrendous wound causing massive bleeding.-->
+  <TM_RendHD.description>造成大出血。</TM_RendHD.description>
+  <!--原中文: '血液流失', 原英文: '无' -> 新英文: 'Blood Drain',更新于2026-02-14-->
+  <!--EN: Blood Drain-->
+  <TM_BloodForBloodHD.label>血液流失</TM_BloodForBloodHD.label>
+  <!--原中文: '该目标的鲜血流向血法师，并治愈施法者。', 原英文: '无' -> 新英文: 'Transfers blood from this target to a blood mage. Heals wounds in the process.',更新于2026-02-14-->
+  <!--EN: Transfers blood from this target to a blood mage. Heals wounds in the process.-->
+  <TM_BloodForBloodHD.description>该目标的鲜血流向血法师，并治愈施法者。</TM_BloodForBloodHD.description>
+  <!--原中文: '血魄护盾', 原英文: '无' -> 新英文: 'Blood Shield',更新于2026-02-14-->
+  <!--EN: Blood Shield-->
+  <TM_BloodShieldHD.label>血魄护盾</TM_BloodShieldHD.label>
+  <!--原中文: '用施法者的血液能量形成的屏障包围目标。来自护盾的能量将缓慢地再生它所保护的单位。', 原英文: '无' -> 新英文: 'Enveloped in a protective bubble of life energy; energy from each blow to the Blood Shield restores health to the protected pawn.',更新于2026-02-14-->
+  <!--EN: Enveloped in a protective bubble of life energy; energy from each blow to the Blood Shield restores health to the protected pawn.-->
+  <TM_BloodShieldHD.description>用施法者的血液能量形成的屏障包围目标。来自护盾的能量将缓慢地再生它所保护的单位。</TM_BloodShieldHD.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '体力', 原英文: '无' -> 新英文: 'stamina',更新于2026-02-14-->
+  <!--EN: stamina-->
+  <TM_Stamina.label>体力</TM_Stamina.label>
+  <!--原中文: '当前体力值。', 原英文: '无' -> 新英文: 'Current Stamina level.',更新于2026-02-14-->
+  <!--EN: Current Stamina level.-->
+  <TM_Stamina.description>当前体力值。</TM_Stamina.description>
+</LanguageData>

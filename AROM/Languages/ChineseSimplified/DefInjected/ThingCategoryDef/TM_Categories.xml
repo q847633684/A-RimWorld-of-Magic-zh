@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '魔法物品', 原英文: '无' -> 新英文: 'Magic Items',更新于2026-02-14-->
+  <!--EN: Magic Items-->
+  <TM_MagicItems.label>魔法物品</TM_MagicItems.label>
+  <!--原中文: '技能书', 原英文: '无' -> 新英文: 'skill books',更新于2026-02-14-->
+  <!--EN: skill books-->
+  <TM_SkillBooks.label>技能书</TM_SkillBooks.label>
+  <!--原中文: '卷轴', 原英文: '无' -> 新英文: 'scrolls',更新于2026-02-14-->
+  <!--EN: scrolls-->
+  <TM_Scrolls.label>卷轴</TM_Scrolls.label>
+  <!--原中文: '魔法原石', 原英文: '无' -> 新英文: 'refined magicyte',更新于2026-02-14-->
+  <!--EN: refined magicyte-->
+  <TM_Magicyte.label>魔法原石</TM_Magicyte.label>
+  <!--原中文: '魔法装备', 原英文: '无' -> 新英文: 'magic equipment',更新于2026-02-14-->
+  <!--EN: magic equipment-->
+  <TM_MagicEquipment.label>魔法装备</TM_MagicEquipment.label>
+  <!--原中文: '魔法制品', 原英文: '无' -> 新英文: 'magic artifacts',更新于2026-02-14-->
+  <!--EN: magic artifacts-->
+  <TM_MagicArtifacts.label>魔法制品</TM_MagicArtifacts.label>
+  <!--原中文: '魔法服装', 原英文: '无' -> 新英文: 'magic apparel',更新于2026-02-14-->
+  <!--EN: magic apparel-->
+  <TM_MagicApparel.label>魔法服装</TM_MagicApparel.label>
+  <!--原中文: '魔法武器', 原英文: '无' -> 新英文: 'magic weapons',更新于2026-02-14-->
+  <!--EN: magic weapons-->
+  <TM_MagicWeapons.label>魔法武器</TM_MagicWeapons.label>
+  <!--原中文: '近战', 原英文: '无' -> 新英文: 'melee',更新于2026-02-14-->
+  <!--EN: melee-->
+  <TM_MagicWeaponsMelee.label>近战</TM_MagicWeaponsMelee.label>
+  <!--原中文: '远程', 原英文: '无' -> 新英文: 'ranged',更新于2026-02-14-->
+  <!--EN: ranged-->
+  <TM_MagicWeaponsRanged.label>远程</TM_MagicWeaponsRanged.label>
+  <!--原中文: '魔法核心', 原英文: '无' -> 新英文: 'magic foci',更新于2026-02-14-->
+  <!--EN: magic foci-->
+  <TM_MagicWeaponsFoci.label>魔法核心</TM_MagicWeaponsFoci.label>
+</LanguageData>

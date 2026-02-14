@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '混乱', 原英文: '无' -> 新英文: 'Confused',更新于2026-02-14-->
+  <!--EN: Confused-->
+  <TM_Confused.label>混乱</TM_Confused.label>
+  <!--原中文: '使目标变得混乱。', 原英文: '无' -> 新英文: 'Frequently causes a target to become confused.',更新于2026-02-14-->
+  <!--EN: Frequently causes a target to become confused.-->
+  <TM_Confused.description>使目标变得混乱。</TM_Confused.description>
+  <!--原中文: '彷徨', 原英文: '无' -> 新英文: 'Wandering confused',更新于2026-02-14-->
+  <!--EN: Wandering confused-->
+  <TM_Confused.stages.0.label>彷徨</TM_Confused.stages.0.label>
+</LanguageData>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Gear Repair -->
+  <!--原中文: '装备维护', 原英文: '无' -> 新英文: 'Gear Repair',更新于2026-02-14-->
+  <!--EN: Gear Repair-->
+  <TM_HediffGearRepair.label>装备维护</TM_HediffGearRepair.label>
+  <!--原中文: '维护和保养装备.', 原英文: '无' -> 新英文: 'Maintenance and care of equipment.',更新于2026-02-14-->
+  <!--EN: Maintenance and care of equipment.-->
+  <TM_HediffGearRepair.description>维护和保养装备.</TM_HediffGearRepair.description>
+  <TM_HediffGearRepair.stages.0.label>I</TM_HediffGearRepair.stages.0.label>
+  <!-- Inner Healing -->
+  <!--原中文: '深入治疗', 原英文: '无' -> 新英文: 'Inner Healing',更新于2026-02-14-->
+  <!--EN: Inner Healing-->
+  <TM_HediffInnerHealing.label>深入治疗</TM_HediffInnerHealing.label>
+  <!--原中文: '提高自然愈合能力。', 原英文: '无' -> 新英文: 'Improves natural healing.',更新于2026-02-14-->
+  <!--EN: Improves natural healing.-->
+  <TM_HediffInnerHealing.description>提高自然愈合能力。</TM_HediffInnerHealing.description>
+  <TM_HediffInnerHealing.stages.0.label>I</TM_HediffInnerHealing.stages.0.label>
+  <!-- Heavy Blow -->
+  <!--原中文: '强力打击', 原英文: '无' -> 新英文: 'Heavy Blow',更新于2026-02-14-->
+  <!--EN: Heavy Blow-->
+  <TM_HediffHeavyBlow.label>强力打击</TM_HediffHeavyBlow.label>
+  <!--原中文: '增加每次物理打击造成的伤害。', 原英文: '无' -> 新英文: 'Increases damage dealt with each physical strike.',更新于2026-02-14-->
+  <!--EN: Increases damage dealt with each physical strike.-->
+  <TM_HediffHeavyBlow.description>增加每次物理打击造成的伤害。</TM_HediffHeavyBlow.description>
+  <TM_HediffHeavyBlow.stages.0.label>I</TM_HediffHeavyBlow.stages.0.label>
+  <TM_HediffHeavyBlow.stages.1.label>II</TM_HediffHeavyBlow.stages.1.label>
+  <TM_HediffHeavyBlow.stages.2.label>III</TM_HediffHeavyBlow.stages.2.label>
+  <TM_HediffHeavyBlow.stages.3.label>IV</TM_HediffHeavyBlow.stages.3.label>
+  <!-- Strong Back -->
+  <!--原中文: '强壮后背', 原英文: '无' -> 新英文: 'Strong Back',更新于2026-02-14-->
+  <!--EN: Strong Back-->
+  <TM_HediffStrongBack.label>强壮后背</TM_HediffStrongBack.label>
+  <!--原中文: '增加承载能力。', 原英文: '无' -> 新英文: 'Increases carrying capacity by 40 and inventory capacity by 50%.',更新于2026-02-14-->
+  <!--EN: Increases carrying capacity by 40 and inventory capacity by 50%.-->
+  <TM_HediffStrongBack.description>增加承载能力。</TM_HediffStrongBack.description>
+  <TM_HediffStrongBack.stages.0.label>I</TM_HediffStrongBack.stages.0.label>
+  <TM_HediffStrongBack.stages.1.label>II</TM_HediffStrongBack.stages.1.label>
+  <TM_HediffStrongBack.stages.2.label>III</TM_HediffStrongBack.stages.2.label>
+  <!-- Thick Skin -->
+  <!--原中文: '石化皮肤', 原英文: '无' -> 新英文: 'Thick Skin',更新于2026-02-14-->
+  <!--EN: Thick Skin-->
+  <TM_HediffThickSkin.label>石化皮肤</TM_HediffThickSkin.label>
+  <!--原中文: '使皮肤变硬，变得更坚硬。', 原英文: '无' -> 新英文: 'Hardens skin, making it tougher.',更新于2026-02-14-->
+  <!--EN: Hardens skin, making it tougher.-->
+  <TM_HediffThickSkin.description>使皮肤变硬，变得更坚硬。</TM_HediffThickSkin.description>
+  <TM_HediffThickSkin.stages.0.label>I</TM_HediffThickSkin.stages.0.label>
+  <TM_HediffThickSkin.stages.1.label>II</TM_HediffThickSkin.stages.1.label>
+  <TM_HediffThickSkin.stages.2.label>III</TM_HediffThickSkin.stages.2.label>
+  <TM_HediffThickSkin.stages.3.label>IV</TM_HediffThickSkin.stages.3.label>
+  <!--原中文: '战斗专注', 原英文: '无' -> 新英文: 'Fighters Focus',更新于2026-02-14-->
+  <!--EN: Fighters Focus-->
+  <TM_HediffFightersFocus.label>战斗专注</TM_HediffFightersFocus.label>
+  <!--原中文: '战斗专注', 原英文: '无' -> 新英文: 'Mental focus for fighters.',更新于2026-02-14-->
+  <!--EN: Mental focus for fighters.-->
+  <TM_HediffFightersFocus.description>战斗专注</TM_HediffFightersFocus.description>
+  <TM_HediffFightersFocus.stages.0.label>I</TM_HediffFightersFocus.stages.0.label>
+  <TM_HediffFightersFocus.stages.1.label>II</TM_HediffFightersFocus.stages.1.label>
+  <!-- Sprint -->
+  <!--原中文: '冲刺', 原英文: '无' -> 新英文: 'Sprint',更新于2026-02-14-->
+  <!--EN: Sprint-->
+  <TM_HediffSprint.label>冲刺</TM_HediffSprint.label>
+  <!--原中文: '快一点。', 原英文: '无' -> 新英文: 'Move faster.',更新于2026-02-14-->
+  <!--EN: Move faster.-->
+  <TM_HediffSprint.description>快一点。</TM_HediffSprint.description>
+  <TM_HediffSprint.stages.0.label>I</TM_HediffSprint.stages.0.label>
+  <TM_HediffSprint.stages.1.label>II</TM_HediffSprint.stages.1.label>
+  <TM_HediffSprint.stages.2.label>III</TM_HediffSprint.stages.2.label>
+  <TM_HediffSprint.stages.3.label>IV</TM_HediffSprint.stages.3.label>
+  <!-- Burning Fury -->
+  <!--原中文: '狂怒', 原英文: '无' -> 新英文: 'Burning Fury',更新于2026-02-14-->
+  <!--EN: Burning Fury-->
+  <TM_BurningFuryHD.label>狂怒</TM_BurningFuryHD.label>
+  <!--原中文: '一个能量护盾，既可以转移攻击，又可以对附近的敌人造成伤害。', 原英文: '无' -> 新英文: 'Emits a shield of raw energy that both deflects attacks and inflicts harm on nearby enemies.',更新于2026-02-14-->
+  <!--EN: Emits a shield of raw energy that both deflects attacks and inflicts harm on nearby enemies.-->
+  <TM_BurningFuryHD.description>一个能量护盾，既可以转移攻击，又可以对附近的敌人造成伤害。</TM_BurningFuryHD.description>
+  <TM_BurningFuryHD.stages.0.label>I</TM_BurningFuryHD.stages.0.label>
+</LanguageData>

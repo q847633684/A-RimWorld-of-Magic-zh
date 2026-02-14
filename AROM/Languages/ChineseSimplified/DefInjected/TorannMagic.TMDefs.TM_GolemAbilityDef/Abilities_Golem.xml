@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <TM_Mecha-Golem_GatlingCannon.label>机械傀儡的肩扛加特林加农炮</TM_Mecha-Golem_GatlingCannon.label>
+  <TM_Mecha-Golem_MiningLaser.label>用于机械傀儡的肩扛式采矿激光器</TM_Mecha-Golem_MiningLaser.label>
+  <TM_Mecha-Golem_HealSelf.label>自我修复模块</TM_Mecha-Golem_HealSelf.label>
+  <TM_Mecha-Golem_ShieldSelf.label>能源屏蔽模块</TM_Mecha-Golem_ShieldSelf.label>
+  <TM_Mecha-Golem_AbsorbFilth.label>废物转换</TM_Mecha-Golem_AbsorbFilth.label>
+  <!--原中文: '冲撞', 原英文: '无' -> 新英文: 'bull charge',更新于2026-02-14-->
+  <!--EN: bull charge-->
+  <TM_FleshGolem_BullCharge.label>冲撞</TM_FleshGolem_BullCharge.label>
+  <!--原中文: '劈开', 原英文: '无' -> 新英文: 'cleave',更新于2026-02-14-->
+  <!--EN: cleave-->
+  <TM_FleshGolem_LeftCleave.label>劈开</TM_FleshGolem_LeftCleave.label>
+  <!--原中文: '劈开', 原英文: '无' -> 新英文: 'cleave',更新于2026-02-14-->
+  <!--EN: cleave-->
+  <TM_FleshGolem_RightCleave.label>劈开</TM_FleshGolem_RightCleave.label>
+  <!--原中文: '肢解', 原英文: '无' -> 新英文: 'dismember',更新于2026-02-14-->
+  <!--EN: dismember-->
+  <TM_FleshGolem_Dismember.label>肢解</TM_FleshGolem_Dismember.label>
+  <!--原中文: '匆忙', 原英文: '无' -> 新英文: 'haste',更新于2026-02-14-->
+  <!--EN: haste-->
+  <TM_FleshGolem_WingHaste.label>匆忙</TM_FleshGolem_WingHaste.label>
+  <!--原中文: '邪眼诅咒', 原英文: '无' -> 新英文: 'enfeeble',更新于2026-02-14-->
+  <!--EN: enfeeble-->
+  <TM_FleshGolem_EyeCurse.label>邪眼诅咒</TM_FleshGolem_EyeCurse.label>
+  <!--原中文: '消逝', 原英文: '无' -> 新英文: 'fade',更新于2026-02-14-->
+  <!--EN: fade-->
+  <TM_HollowGolem_Fade.label>消逝</TM_HollowGolem_Fade.label>
+  <!--原中文: '唤醒', 原英文: '无' -> 新英文: 'awakening',更新于2026-02-14-->
+  <!--EN: awakening-->
+  <TM_HollowGolem_Awakening.label>唤醒</TM_HollowGolem_Awakening.label>
+  <!-- <TorannMagic.TMDefs.TM_GolemAbilityDef>
+	<defName>TM_HollowGolem_Job_IceBlossom</defName>
+	<label>ice blossom</label>	
+	<warmupTicks>0</warmupTicks>
+	<cooldownTicks>900</cooldownTicks>
+	<warmupStuns>false</warmupStuns>
+	<burstCount>1</burstCount>
+	<ticksBetweenBurstShots>0</ticksBetweenBurstShots>
+	<requiredNeed>TM_GolemEnergy</requiredNeed>
+	<needCost>60</needCost>
+	<tickMote>Mote_Casting</tickMote>
+	<tickMoteFrequency>7</tickMoteFrequency>
+	<tickMoteSize>2.2</tickMoteSize>
+	<effects>
+	  <li Class="TorannMagic.Golems.CompProperties_GolemAbilityEffect_CreateJob" />
+	</effects>
+	<interruptsJob>true</interruptsJob>
+	<jobDef>JobDriver_GolemAbilityJob</jobDef>
+	<jobDuration>180</jobDuration>
+	<jobBurstCount>5</jobBurstCount>
+	<jobTicksBetweenBursts>3</jobTicksBetweenBursts>
+	<jobEffect>
+		<li Class="TorannMagic.Golems.GolemAbilityEffect_AdvancedLaunch">
+			<projectileDef>Projectile_IceBlossomBolt</projectileDef>
+			<projectilesPerBurst>5</projectilesPerBurst>
+			<varianceMin>2</varianceMin>
+			<varianceMax>60</varianceMax>
+			<flySpeedMin>30</flySpeedMin>
+			<flySpeedMax>40</flySpeedMax>
+			<explosionRadius>.5</explosionRadius>
+			<missRadius>1</missRadius>
+			<damageMin>12</damageMin>
+			<damageMax>20</damageMax>
+			<damageType>Cut</damageType>
+			<accuracy>.8</accuracy>
+			<rangeAroundTarget>12</rangeAroundTarget>
+		</li>
+	</jobEffect>
+	<priority>6</priority>
+	<autocasting>
+	  <type>OnNearby</type>
+	  <targetType>Pawn</targetType>
+	  <minRange>10</minRange>
+	  <maxRange>70</maxRange>
+	  <undrafted>false</undrafted>
+	  <drafted>true</drafted>
+	  <targetNeutral>false</targetNeutral>
+	  <targetEnemy>true</targetEnemy>
+	  <requiresLoS>true</requiresLoS>	
+	  <includeSelf>false</includeSelf>
+	</autocasting>
+  </TorannMagic.TMDefs.TM_GolemAbilityDef> -->
+  <!--原中文: '火焰吸收', 原英文: '无' -> 新英文: 'absorb fire',更新于2026-02-14-->
+  <!--EN: absorb fire-->
+  <TM_HollowGolem_AbsorbFire.label>火焰吸收</TM_HollowGolem_AbsorbFire.label>
+  <!--原中文: '狂怒', 原英文: '无' -> 新英文: 'burning fury',更新于2026-02-14-->
+  <!--EN: burning fury-->
+  <TM_HollowGolem_BurningFury.label>狂怒</TM_HollowGolem_BurningFury.label>
+  <!--原中文: '绝望之井', 原英文: '无' -> 新英文: 'well of despair',更新于2026-02-14-->
+  <!--EN: well of despair-->
+  <TM_HollowGolem_WellOfDespair.label>绝望之井</TM_HollowGolem_WellOfDespair.label>
+  <!-- <TorannMagic.TMDefs.TM_GolemAbilityDef>
+	<defName>TM_HollowGolem_Job_IceBlossom</defName>
+	<label>ice blossom</label>
+	<warmupTicks>0</warmupTicks>
+	<cooldownTicks>900</cooldownTicks>
+	<warmupStuns>false</warmupStuns>
+	<burstCount>1</burstCount>
+	<ticksBetweenBurstShots>0</ticksBetweenBurstShots>
+	<requiredNeed>TM_GolemEnergy</requiredNeed>
+	<needCost>60</needCost>
+	<tickMote>Mote_Casting</tickMote>
+	<tickMoteFrequency>7</tickMoteFrequency>
+	<tickMoteSize>2.2</tickMoteSize>
+	<effects>
+	  <li Class="TorannMagic.Golems.CompProperties_GolemAbilityEffect_CreateJob" />
+	</effects>
+	<interruptsJob>true</interruptsJob>
+	<jobDef>JobDriver_GolemAbilityJob</jobDef>
+	<jobDuration>180</jobDuration>
+	<jobBurstCount>5</jobBurstCount>
+	<jobTicksBetweenBursts>3</jobTicksBetweenBursts>
+	<jobEffect>
+		<li Class="TorannMagic.Golems.GolemAbilityEffect_AdvancedLaunch">
+			<projectileDef>Projectile_IceBlossomBolt</projectileDef>
+			<projectilesPerBurst>5</projectilesPerBurst>
+			<varianceMin>2</varianceMin>
+			<varianceMax>60</varianceMax>
+			<flySpeedMin>30</flySpeedMin>
+			<flySpeedMax>40</flySpeedMax>
+			<explosionRadius>.5</explosionRadius>
+			<missRadius>1</missRadius>
+			<damageMin>12</damageMin>
+			<damageMax>20</damageMax>
+			<damageType>Cut</damageType>
+			<accuracy>.8</accuracy>
+			<rangeAroundTarget>12</rangeAroundTarget>
+		</li>
+	</jobEffect>
+	<priority>6</priority>
+	<autocasting>
+	  <type>OnNearby</type>
+	  <targetType>Pawn</targetType>
+	  <minRange>10</minRange>
+	  <maxRange>70</maxRange>
+	  <undrafted>false</undrafted>
+	  <drafted>true</drafted>
+	  <targetNeutral>false</targetNeutral>
+	  <targetEnemy>true</targetEnemy>
+	  <requiresLoS>true</requiresLoS>
+	  <includeSelf>false</includeSelf>
+	</autocasting>
+  </TorannMagic.TMDefs.TM_GolemAbilityDef> -->
+  <!--原中文: '废物转换', 原英文: '无' -> 新英文: 'waste conversion',更新于2026-02-14-->
+  <!--EN: waste conversion-->
+  <TM_Mecha.Golem_AbsorbFilth.label>废物转换</TM_Mecha.Golem_AbsorbFilth.label>
+  <!--重复key，需删除-->
+  <!--EN: 机械傀儡的肩扛加特林加农炮-->
+  <TM_Mecha.Golem_GatlingCannon.label>机械傀儡的肩扛加特林加农炮</TM_Mecha.Golem_GatlingCannon.label>
+  <!--原中文: '自我修复模块', 原英文: '无' -> 新英文: 'self-repair module',更新于2026-02-14-->
+  <!--EN: self-repair module-->
+  <TM_Mecha.Golem_HealSelf.label>自我修复模块</TM_Mecha.Golem_HealSelf.label>
+  <!--重复key，需删除-->
+  <!--EN: 用于机械傀儡的肩扛式采矿激光器-->
+  <TM_Mecha.Golem_MiningLaser.label>用于机械傀儡的肩扛式采矿激光器</TM_Mecha.Golem_MiningLaser.label>
+  <!--原中文: '能源屏蔽模块', 原英文: '无' -> 新英文: 'energy shield module',更新于2026-02-14-->
+  <!--EN: energy shield module-->
+  <TM_Mecha.Golem_ShieldSelf.label>能源屏蔽模块</TM_Mecha.Golem_ShieldSelf.label>
+</LanguageData>

@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- STONE GOLEM -->
+  <!--原中文: '粉碎', 原英文: '无' -> 新英文: 'smash',更新于2026-02-14-->
+  <!--EN: smash-->
+  <TM_StoneGolem.tools.0.label>粉碎</TM_StoneGolem.tools.0.label>
+  <!--原中文: '左拳', 原英文: '无' -> 新英文: 'left fist',更新于2026-02-14-->
+  <!--EN: left fist-->
+  <TM_StoneGolem.tools.1.label>左拳</TM_StoneGolem.tools.1.label>
+  <!--原中文: '右拳', 原英文: '无' -> 新英文: 'right fist',更新于2026-02-14-->
+  <!--EN: right fist-->
+  <TM_StoneGolem.tools.2.label>右拳</TM_StoneGolem.tools.2.label>
+  <!-- Use Meat From: Human -->
+  <!-- STONE GOLEM -->
+  <!--原中文: '砂岩巨岩傀儡', 原英文: '无' -> 新英文: 'sandstone golem',更新于2026-02-14-->
+  <!--EN: sandstone golem-->
+  <TM_SandstoneGolem.label>砂岩巨岩傀儡</TM_SandstoneGolem.label>
+  <!--原中文: '粉碎', 原英文: '无' -> 新英文: 'smash',更新于2026-02-14-->
+  <!--EN: smash-->
+  <TM_SandstoneGolem.tools.0.label>粉碎</TM_SandstoneGolem.tools.0.label>
+  <!--原中文: '左拳', 原英文: '无' -> 新英文: 'left fist',更新于2026-02-14-->
+  <!--EN: left fist-->
+  <TM_SandstoneGolem.tools.1.label>左拳</TM_SandstoneGolem.tools.1.label>
+  <!--原中文: '右拳', 原英文: '无' -> 新英文: 'right fist',更新于2026-02-14-->
+  <!--EN: right fist-->
+  <TM_SandstoneGolem.tools.2.label>右拳</TM_SandstoneGolem.tools.2.label>
+  <!-- Use Meat From: Human -->
+  <!-- STONE GOLEM -->
+  <!--原中文: '石灰岩傀儡', 原英文: '无' -> 新英文: 'limestone golem',更新于2026-02-14-->
+  <!--EN: limestone golem-->
+  <TM_LimestoneGolem.label>石灰岩傀儡</TM_LimestoneGolem.label>
+  <!--原中文: '粉碎', 原英文: '无' -> 新英文: 'smash',更新于2026-02-14-->
+  <!--EN: smash-->
+  <TM_LimestoneGolem.tools.0.label>粉碎</TM_LimestoneGolem.tools.0.label>
+  <!--原中文: '左拳', 原英文: '无' -> 新英文: 'left fist',更新于2026-02-14-->
+  <!--EN: left fist-->
+  <TM_LimestoneGolem.tools.1.label>左拳</TM_LimestoneGolem.tools.1.label>
+  <!--原中文: '右拳', 原英文: '无' -> 新英文: 'right fist',更新于2026-02-14-->
+  <!--EN: right fist-->
+  <TM_LimestoneGolem.tools.2.label>右拳</TM_LimestoneGolem.tools.2.label>
+  <!-- Use Meat From: Human -->
+  <!-- STONE GOLEM -->
+  <!--原中文: '花岗岩傀儡', 原英文: '无' -> 新英文: 'granite golem',更新于2026-02-14-->
+  <!--EN: granite golem-->
+  <TM_GraniteGolem.label>花岗岩傀儡</TM_GraniteGolem.label>
+  <!--原中文: '粉碎', 原英文: '无' -> 新英文: 'smash',更新于2026-02-14-->
+  <!--EN: smash-->
+  <TM_GraniteGolem.tools.0.label>粉碎</TM_GraniteGolem.tools.0.label>
+  <!--原中文: '左拳', 原英文: '无' -> 新英文: 'left fist',更新于2026-02-14-->
+  <!--EN: left fist-->
+  <TM_GraniteGolem.tools.1.label>左拳</TM_GraniteGolem.tools.1.label>
+  <!--原中文: '右拳', 原英文: '无' -> 新英文: 'right fist',更新于2026-02-14-->
+  <!--EN: right fist-->
+  <TM_GraniteGolem.tools.2.label>右拳</TM_GraniteGolem.tools.2.label>
+  <!-- Use Meat From: Human -->
+  <!-- STONE GOLEM -->
+  <!--原中文: '板岩傀儡', 原英文: '无' -> 新英文: 'slate golem',更新于2026-02-14-->
+  <!--EN: slate golem-->
+  <TM_SlateGolem.label>板岩傀儡</TM_SlateGolem.label>
+  <!--原中文: '粉碎', 原英文: '无' -> 新英文: 'smash',更新于2026-02-14-->
+  <!--EN: smash-->
+  <TM_SlateGolem.tools.0.label>粉碎</TM_SlateGolem.tools.0.label>
+  <!--原中文: '左拳', 原英文: '无' -> 新英文: 'left fist',更新于2026-02-14-->
+  <!--EN: left fist-->
+  <TM_SlateGolem.tools.1.label>左拳</TM_SlateGolem.tools.1.label>
+  <!--原中文: '右拳', 原英文: '无' -> 新英文: 'right fist',更新于2026-02-14-->
+  <!--EN: right fist-->
+  <TM_SlateGolem.tools.2.label>右拳</TM_SlateGolem.tools.2.label>
+  <!-- Use Meat From: Human -->
+  <!-- STONE GOLEM -->
+  <!--原中文: '大理石傀儡', 原英文: '无' -> 新英文: 'marble golem',更新于2026-02-14-->
+  <!--EN: marble golem-->
+  <TM_MarbleGolem.label>大理石傀儡</TM_MarbleGolem.label>
+  <!--原中文: '粉碎', 原英文: '无' -> 新英文: 'smash',更新于2026-02-14-->
+  <!--EN: smash-->
+  <TM_MarbleGolem.tools.0.label>粉碎</TM_MarbleGolem.tools.0.label>
+  <!--原中文: '左拳', 原英文: '无' -> 新英文: 'left fist',更新于2026-02-14-->
+  <!--EN: left fist-->
+  <TM_MarbleGolem.tools.1.label>左拳</TM_MarbleGolem.tools.1.label>
+  <!--原中文: '右拳', 原英文: '无' -> 新英文: 'right fist',更新于2026-02-14-->
+  <!--EN: right fist-->
+  <TM_MarbleGolem.tools.2.label>右拳</TM_MarbleGolem.tools.2.label>
+  <!-- Use Meat From: Human -->
+  <!-- MECHA GOLEM -->
+  <!--原中文: '机械傀儡', 原英文: '无' -> 新英文: 'mecha-golem',更新于2026-02-14-->
+  <!--EN: mecha-golem-->
+  <TM_MechaGolem.label>机械傀儡</TM_MechaGolem.label>
+  <!--原中文: '一种傀儡，由原金属制成，通过电路和魔法的结合给予基本的自我意识。', 原英文: '无' -> 新英文: 'A golem, crafted from raw material and given basic autonomy through a combination of circuitry and magic.',更新于2026-02-14-->
+  <!--EN: A golem, crafted from raw material and given basic autonomy through a combination of circuitry and magic.-->
+  <TM_MechaGolem.description>一种傀儡，由原金属制成，通过电路和魔法的结合给予基本的自我意识。</TM_MechaGolem.description>
+  <!--原中文: '身体粉碎', 原英文: '无' -> 新英文: 'body smash',更新于2026-02-14-->
+  <!--EN: body smash-->
+  <TM_MechaGolem.tools.0.label>身体粉碎</TM_MechaGolem.tools.0.label>
+  <!--原中文: '左拳', 原英文: '无' -> 新英文: 'left fist',更新于2026-02-14-->
+  <!--EN: left fist-->
+  <TM_MechaGolem.tools.1.label>左拳</TM_MechaGolem.tools.1.label>
+  <!--原中文: '机甲斧', 原英文: '无' -> 新英文: 'mecha-axe',更新于2026-02-14-->
+  <!--EN: mecha-axe-->
+  <TM_MechaGolem.tools.2.label>机甲斧</TM_MechaGolem.tools.2.label>
+  <!--原中文: '机甲剑', 原英文: '无' -> 新英文: 'mecha-sword',更新于2026-02-14-->
+  <!--EN: mecha-sword-->
+  <TM_MechaGolem.tools.3.label>机甲剑</TM_MechaGolem.tools.3.label>
+  <!--原中文: '右拳', 原英文: '无' -> 新英文: 'right fist',更新于2026-02-14-->
+  <!--EN: right fist-->
+  <TM_MechaGolem.tools.4.label>右拳</TM_MechaGolem.tools.4.label>
+  <!--原中文: '机甲锤', 原英文: '无' -> 新英文: 'mecha-hammer',更新于2026-02-14-->
+  <!--EN: mecha-hammer-->
+  <TM_MechaGolem.tools.5.label>机甲锤</TM_MechaGolem.tools.5.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- FLESH GOLEM -->
+  <!--原中文: '一种由其他生物的肉、骨和器官制成的傀儡，通过生物工程和魔法的结合给予基本的自我意识。', 原英文: '无' -> 新英文: 'A golem crafted from the flesh, bones and organs of other beings and given basic autonomy through a combination of bioengineering and magic.',更新于2026-02-14-->
+  <!--EN: A golem crafted from the flesh, bones and organs of other beings and given basic autonomy through a combination of bioengineering and magic.-->
+  <TM_FleshGolem.description>一种由其他生物的肉、骨和器官制成的傀儡，通过生物工程和魔法的结合给予基本的自我意识。</TM_FleshGolem.description>
+  <!--原中文: '血块', 原英文: '无' -> 新英文: 'gore',更新于2026-02-14-->
+  <!--EN: gore-->
+  <TM_FleshGolem.tools.0.label>血块</TM_FleshGolem.tools.0.label>
+  <!--原中文: '獠牙', 原英文: '无' -> 新英文: 'tusks',更新于2026-02-14-->
+  <!--EN: tusks-->
+  <TM_FleshGolem.tools.1.label>獠牙</TM_FleshGolem.tools.1.label>
+  <!--原中文: '左拳', 原英文: '无' -> 新英文: 'left fist',更新于2026-02-14-->
+  <!--EN: left fist-->
+  <TM_FleshGolem.tools.2.label>左拳</TM_FleshGolem.tools.2.label>
+  <!--原中文: '左后卫', 原英文: '无' -> 新英文: 'left guard',更新于2026-02-14-->
+  <!--EN: left guard-->
+  <TM_FleshGolem.tools.3.label>左后卫</TM_FleshGolem.tools.3.label>
+  <!--原中文: '左切肉刀', 原英文: '无' -> 新英文: 'left cleaver',更新于2026-02-14-->
+  <!--EN: left cleaver-->
+  <TM_FleshGolem.tools.4.label>左切肉刀</TM_FleshGolem.tools.4.label>
+  <!--原中文: '右拳', 原英文: '无' -> 新英文: 'right fist',更新于2026-02-14-->
+  <!--EN: right fist-->
+  <TM_FleshGolem.tools.5.label>右拳</TM_FleshGolem.tools.5.label>
+  <!--原中文: '右后卫', 原英文: '无' -> 新英文: 'right guard',更新于2026-02-14-->
+  <!--EN: right guard-->
+  <TM_FleshGolem.tools.6.label>右后卫</TM_FleshGolem.tools.6.label>
+  <!--原中文: '右切肉刀', 原英文: '无' -> 新英文: 'right cleaver',更新于2026-02-14-->
+  <!--EN: right cleaver-->
+  <TM_FleshGolem.tools.7.label>右切肉刀</TM_FleshGolem.tools.7.label>
+  <!-- Use Meat From: Human -->
+  <!-- HOLLOW GOLEM -->
+  <!--原中文: '由魔法精华和奥术催化剂制成的傀儡。空洞傀儡周围的盔甲将魔法核心固定在物理位置，以保护其身体的完整性。空洞傀儡能够利用巨量的魔法能量用于各种用途，使其成为迄今为止最灵活的傀儡之一。空洞傀儡从大气中吸收魔法能量，很像潘希斑，一个傀儡造成的地域法力回复速度减少量相当于10个潘希斑。', 原英文: '无' -> 新英文: 'A golem crafted from condensed magic and arcane catalysts. The armor surrounding the hollow golem anchors the magic center to a physical location and to protect its physical integrity. The hollow golem is able to harness tremendous amounts of magical energy for a variety of purposes, making it one of the most flexible golems developed to date. The hollow golem absorbs magical energy from the atmosphere, much like paracyte, with mana reduction equivalent to 10 paracyte thorn bushes.',更新于2026-02-14-->
+  <!--EN: A golem crafted from condensed magic and arcane catalysts. The armor surrounding the hollow golem anchors the magic center to a physical location and to protect its physical integrity. The hollow golem is able to harness tremendous amounts of magical energy for a variety of purposes, making it one of the most flexible golems developed to date. The hollow golem absorbs magical energy from the atmosphere, much like paracyte, with mana reduction equivalent to 10 paracyte thorn bushes.-->
+  <TM_HollowGolem.description>由魔法精华和奥术催化剂制成的傀儡。空洞傀儡周围的盔甲将魔法核心固定在物理位置，以保护其身体的完整性。空洞傀儡能够利用巨量的魔法能量用于各种用途，使其成为迄今为止最灵活的傀儡之一。空洞傀儡从大气中吸收魔法能量，很像潘希斑，一个傀儡造成的地域法力回复速度减少量相当于10个潘希斑。</TM_HollowGolem.description>
+  <!--原中文: '燃烧的能量', 原英文: '无' -> 新英文: 'blazing energy',更新于2026-02-14-->
+  <!--EN: blazing energy-->
+  <TM_HollowGolem.verbs.0.label>燃烧的能量</TM_HollowGolem.verbs.0.label>
+  <!--原中文: '火弩箭', 原英文: '无' -> 新英文: 'firebolts',更新于2026-02-14-->
+  <!--EN: firebolts-->
+  <TM_HollowGolem.verbs.1.label>火弩箭</TM_HollowGolem.verbs.1.label>
+  <!--原中文: '冰片', 原英文: '无' -> 新英文: 'ice shards',更新于2026-02-14-->
+  <!--EN: ice shards-->
+  <TM_HollowGolem.verbs.2.label>冰片</TM_HollowGolem.verbs.2.label>
+  <!--原中文: '暗箭', 原英文: '无' -> 新英文: 'darkbolt',更新于2026-02-14-->
+  <!--EN: darkbolt-->
+  <TM_HollowGolem.verbs.3.label>暗箭</TM_HollowGolem.verbs.3.label>
+  <!--原中文: '爪', 原英文: '无' -> 新英文: 'claw',更新于2026-02-14-->
+  <!--EN: claw-->
+  <TM_HollowGolem.tools.0.label>爪</TM_HollowGolem.tools.0.label>
+  <!--原中文: '衰减触摸', 原英文: '无' -> 新英文: 'decay touch',更新于2026-02-14-->
+  <!--EN: decay touch-->
+  <TM_HollowGolem.tools.1.label>衰减触摸</TM_HollowGolem.tools.1.label>
+  <!--原中文: '空洞斧头', 原英文: '无' -> 新英文: 'hollow axe',更新于2026-02-14-->
+  <!--EN: hollow axe-->
+  <TM_HollowGolem.tools.2.label>空洞斧头</TM_HollowGolem.tools.2.label>
+  <!--原中文: '空洞棒', 原英文: '无' -> 新英文: 'hollow staff',更新于2026-02-14-->
+  <!--EN: hollow staff-->
+  <TM_HollowGolem.tools.3.label>空洞棒</TM_HollowGolem.tools.3.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <!-- MAHARAL GOLEM -->
+  <!--原中文: '一个由魔法、皮革稻草构成的简易傀儡', 原英文: '无' -> 新英文: 'A golem crafted from a mixture of molded stone wrapped in leather.',更新于2026-02-14-->
+  <!--EN: A golem crafted from a mixture of molded stone wrapped in leather.-->
+  <TM_MaharalGolem.description>一个由魔法、皮革稻草构成的简易傀儡</TM_MaharalGolem.description>
+  <!--原中文: '左拳', 原英文: '无' -> 新英文: 'left fist',更新于2026-02-14-->
+  <!--EN: left fist-->
+  <TM_MaharalGolem.tools.0.label>左拳</TM_MaharalGolem.tools.0.label>
+  <!--原中文: '右拳', 原英文: '无' -> 新英文: 'right fist',更新于2026-02-14-->
+  <!--EN: right fist-->
+  <TM_MaharalGolem.tools.1.label>右拳</TM_MaharalGolem.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <!-- STRAW GOLEM -->
+  <!--原中文: '由基本材料混合物制成的傀儡，形成人形。', 原英文: '无' -> 新英文: 'A golem crafted from a mixture of basic material formed in the shape of a human.',更新于2026-02-14-->
+  <!--EN: A golem crafted from a mixture of basic material formed in the shape of a human.-->
+  <TM_StrawGolem.description>由基本材料混合物制成的傀儡，形成人形。</TM_StrawGolem.description>
+  <!--原中文: '左拳', 原英文: '无' -> 新英文: 'left fist',更新于2026-02-14-->
+  <!--EN: left fist-->
+  <TM_StrawGolem.tools.0.label>左拳</TM_StrawGolem.tools.0.label>
+  <!--原中文: '右拳', 原英文: '无' -> 新英文: 'right fist',更新于2026-02-14-->
+  <!--EN: right fist-->
+  <TM_StrawGolem.tools.1.label>右拳</TM_StrawGolem.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <!-- WOOD GOLEM -->
+  <!--原中文: '魔法能量注入木头和石头的结构中。', 原英文: '无' -> 新英文: 'Magical energy infused into a construct of wood and stone.',更新于2026-02-14-->
+  <!--EN: Magical energy infused into a construct of wood and stone.-->
+  <TM_WoodGolem.description>魔法能量注入木头和石头的结构中。</TM_WoodGolem.description>
+  <!--原中文: '精神力', 原英文: '无' -> 新英文: 'spirit force',更新于2026-02-14-->
+  <!--EN: spirit force-->
+  <TM_WoodGolem.tools.0.label>精神力</TM_WoodGolem.tools.0.label>
+  <!--原中文: '框架粉碎', 原英文: '无' -> 新英文: 'frame smash',更新于2026-02-14-->
+  <!--EN: frame smash-->
+  <TM_WoodGolem.tools.1.label>框架粉碎</TM_WoodGolem.tools.1.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <!-- SILK GOLEM -->
+  <!--原中文: '大量布和线构造成鼻涕虫形状，唯一的显着特征是其友好、富有表现力的面孔。', 原英文: '无' -> 新英文: 'An mass of cloth and thread constructed into a slug-like shape, the only distinct feature is its friendly, expressive face.',更新于2026-02-14-->
+  <!--EN: An mass of cloth and thread constructed into a slug-like shape, the only distinct feature is its friendly, expressive face.-->
+  <TM_SilkGolem.description>大量布和线构造成鼻涕虫形状，唯一的显着特征是其友好、富有表现力的面孔。</TM_SilkGolem.description>
+  <TM_SilkGolem.tools.0.label>bash</TM_SilkGolem.tools.0.label>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+</LanguageData>

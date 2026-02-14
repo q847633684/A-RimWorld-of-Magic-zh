@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Gemcutting -->
+  <!--原中文: '在附魔台完成清单', 原英文: '无' -> 新英文: 'do bills at gemcutting table',更新于2026-02-14-->
+  <!--EN: do bills at gemcutting table-->
+  <DoBillsGemcutting.label>在附魔台完成清单</DoBillsGemcutting.label>
+  <!--原中文: '打造', 原英文: '无' -> 新英文: 'craft',更新于2026-02-14-->
+  <!--EN: craft-->
+  <DoBillsGemcutting.verb>打造</DoBillsGemcutting.verb>
+  <!--原中文: '宝石加工', 原英文: '无' -> 新英文: 'gemcutting',更新于2026-02-14-->
+  <!--EN: gemcutting-->
+  <DoBillsGemcutting.gerund>宝石加工</DoBillsGemcutting.gerund>
+  <!-- Printing -->
+  <!--原中文: '在刻绘台完成清单', 原英文: '无' -> 新英文: 'do bills at printing table',更新于2026-02-14-->
+  <!--EN: do bills at printing table-->
+  <DoBillsPrintingPress.label>在刻绘台完成清单</DoBillsPrintingPress.label>
+  <!--原中文: '打造', 原英文: '无' -> 新英文: 'craft',更新于2026-02-14-->
+  <!--EN: craft-->
+  <DoBillsPrintingPress.verb>打造</DoBillsPrintingPress.verb>
+  <!--原中文: '刻绘中', 原英文: '无' -> 新英文: 'printing',更新于2026-02-14-->
+  <!--EN: printing-->
+  <DoBillsPrintingPress.gerund>刻绘中</DoBillsPrintingPress.gerund>
+  <!-- Bard Entertain -->
+  <!--原中文: '招待殖民者', 原英文: '无' -> 新英文: 'entertain colonist',更新于2026-02-14-->
+  <!--EN: entertain colonist-->
+  <DoEntertain.label>招待殖民者</DoEntertain.label>
+  <!--原中文: '招待', 原英文: '无' -> 新英文: 'entertain',更新于2026-02-14-->
+  <!--EN: entertain-->
+  <DoEntertain.verb>招待</DoEntertain.verb>
+  <!--原中文: '招待中', 原英文: '无' -> 新英文: 'entertaining',更新于2026-02-14-->
+  <!--EN: entertaining-->
+  <DoEntertain.gerund>招待中</DoEntertain.gerund>
+  <!-- Commander Motivate -->
+  <!--原中文: '激励殖民者', 原英文: '无' -> 新英文: 'motivating pawn',更新于2026-02-14-->
+  <!--EN: motivating pawn-->
+  <DoCommanderMotivate.label>激励殖民者</DoCommanderMotivate.label>
+  <!--原中文: '激励', 原英文: '无' -> 新英文: 'motivate',更新于2026-02-14-->
+  <!--EN: motivate-->
+  <DoCommanderMotivate.verb>激励</DoCommanderMotivate.verb>
+  <!--原中文: '激励', 原英文: '无' -> 新英文: 'motivating',更新于2026-02-14-->
+  <!--EN: motivating-->
+  <DoCommanderMotivate.gerund>激励</DoCommanderMotivate.gerund>
+  <!-- Magic Work Related -->
+  <!--原中文: '魔法物品充能', 原英文: '无' -> 新英文: 'charge arcane object',更新于2026-02-14-->
+  <!--EN: charge arcane object-->
+  <ChargeStructure.label>魔法物品充能</ChargeStructure.label>
+  <!--原中文: '魔法物品充能', 原英文: '无' -> 新英文: 'charge arcane object',更新于2026-02-14-->
+  <!--EN: charge arcane object-->
+  <ChargeStructure.verb>魔法物品充能</ChargeStructure.verb>
+  <!--原中文: '魔法物品充能中', 原英文: '无' -> 新英文: 'charging arcane object',更新于2026-02-14-->
+  <!--EN: charging arcane object-->
+  <ChargeStructure.gerund>魔法物品充能中</ChargeStructure.gerund>
+  <!--原中文: '在奥术熔炉完成清单', 原英文: '无' -> 新英文: 'work magic',更新于2026-02-14-->
+  <!--EN: work magic-->
+  <DoBillsArcaneForge.label>在奥术熔炉完成清单</DoBillsArcaneForge.label>
+  <!--原中文: '锻造', 原英文: '无' -> 新英文: 'work magic',更新于2026-02-14-->
+  <!--EN: work magic-->
+  <DoBillsArcaneForge.verb>锻造</DoBillsArcaneForge.verb>
+  <!--原中文: '锻造中', 原英文: '无' -> 新英文: 'working magic',更新于2026-02-14-->
+  <!--EN: working magic-->
+  <DoBillsArcaneForge.gerund>锻造中</DoBillsArcaneForge.gerund>
+  <!-- Golem Work Related -->
+  <!--原中文: '在傀儡上工作', 原英文: '无' -> 新英文: 'work on golem',更新于2026-02-14-->
+  <!--EN: work on golem-->
+  <DoBillsGolemBuilding.label>在傀儡上工作</DoBillsGolemBuilding.label>
+  <!--原中文: '傀儡工作', 原英文: '无' -> 新英文: 'golem work',更新于2026-02-14-->
+  <!--EN: golem work-->
+  <DoBillsGolemBuilding.verb>傀儡工作</DoBillsGolemBuilding.verb>
+  <!--原中文: '正在傀儡上工作', 原英文: '无' -> 新英文: 'working on golems',更新于2026-02-14-->
+  <!--EN: working on golems-->
+  <DoBillsGolemBuilding.gerund>正在傀儡上工作</DoBillsGolemBuilding.gerund>
+</LanguageData>

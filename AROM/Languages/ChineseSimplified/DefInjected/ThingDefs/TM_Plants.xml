@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'My mind feels muddled. With syrrium I was brilliant, I'm sure everyone was impressed with my intellect. That's who I am, I need to have that!',新增于2026-02-14-->
+  <!--EN: My mind feels muddled. With syrrium I was brilliant, I'm sure everyone was impressed with my intellect. That's who I am, I need to have that!-->
+  <TM_SyrriumWithdrawalTD.stages.1.description>我的思绪一团糟。服用西瑞姆时我思维敏捷，肯定每个人都对我的才智印象深刻。那才是真正的我，我必须恢复那种状态！</TM_SyrriumWithdrawalTD.stages.1.description>
+  <!--翻译内容: 'syrrium withdrawal',新增于2026-02-14-->
+  <!--EN: syrrium withdrawal-->
+  <TM_SyrriumWithdrawalTD.stages.1.label>西瑞姆戒断</TM_SyrriumWithdrawalTD.stages.1.label>
+</LanguageData>

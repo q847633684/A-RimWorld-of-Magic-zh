@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- <BodyPartDef>
+    <defName>Sentinel_Heart</defName>
+    <label>heart</label>
+    <hitPoints>30</hitPoints>
+    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
+    <bleedRate>5</bleedRate>
+    <skinCovered>false</skinCovered>
+    <tags>
+      <li>BloodPumpingSource</li>
+      <li>BloodFiltrationSource</li>
+      <li>MetabolismSource</li>
+      <li>BreathingSource</li>
+    </tags>
+  </BodyPartDef> -->
+  <!--原中文: '爪', 原英文: '无' -> 新英文: 'claws',更新于2026-02-14-->
+  <!--EN: claws-->
+  <Sentinel_Claws.label>爪</Sentinel_Claws.label>
+  <!--原中文: '牙齿', 原英文: '无' -> 新英文: 'teeth',更新于2026-02-14-->
+  <!--EN: teeth-->
+  <Sentinel_Teeth.label>牙齿</Sentinel_Teeth.label>
+</LanguageData>

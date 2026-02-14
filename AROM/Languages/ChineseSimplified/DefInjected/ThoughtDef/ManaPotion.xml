@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '法力涌动', 原英文: '无' -> 新英文: 'mana surge',更新于2026-02-14-->
+  <!--EN: mana surge-->
+  <ManaPotionHigh.stages.0.label>法力涌动</ManaPotionHigh.stages.0.label>
+  <!--原中文: '这种力量....太强大了！ 我感觉到整个宇宙的力量都汇聚在我的指尖, 我整个身体都燃烧了起来！', 原英文: '无' -> 新英文: 'This power... it's overwhelming. I feel the power of the cosmos at my fingertips, but it's turning my bones to ash.',更新于2026-02-14-->
+  <!--EN: This power... it's overwhelming. I feel the power of the cosmos at my fingertips, but it's turning my bones to ash.-->
+  <ManaPotionHigh.stages.0.description>这种力量....太强大了！ 我感觉到整个宇宙的力量都汇聚在我的指尖, 我整个身体都燃烧了起来！</ManaPotionHigh.stages.0.description>
+  <!-- Mana potion addiction -->
+</LanguageData>

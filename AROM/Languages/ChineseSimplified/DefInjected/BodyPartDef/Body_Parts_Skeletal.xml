@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '肩', 原英文: '无' -> 新英文: 'shoulder',更新于2026-02-14-->
+  <!--EN: shoulder-->
+  <Skeletal_Shoulder.label>肩</Skeletal_Shoulder.label>
+  <!--原中文: '腿', 原英文: '无' -> 新英文: 'leg',更新于2026-02-14-->
+  <!--EN: leg-->
+  <Skeletal_Leg.label>腿</Skeletal_Leg.label>
+  <!--原中文: '脚', 原英文: '无' -> 新英文: 'foot',更新于2026-02-14-->
+  <!--EN: foot-->
+  <Skeletal_Foot.label>脚</Skeletal_Foot.label>
+  <!--原中文: '脖子', 原英文: '无' -> 新英文: 'neck',更新于2026-02-14-->
+  <!--EN: neck-->
+  <Skeletal_Neck.label>脖子</Skeletal_Neck.label>
+  <!--原中文: '头', 原英文: '无' -> 新英文: 'head',更新于2026-02-14-->
+  <!--EN: head-->
+  <Skeletal_Head.label>头</Skeletal_Head.label>
+  <!--原中文: '下巴', 原英文: '无' -> 新英文: 'jaw',更新于2026-02-14-->
+  <!--EN: jaw-->
+  <Skeletal_Jaw.label>下巴</Skeletal_Jaw.label>
+  <!--原中文: '臂', 原英文: '无' -> 新英文: 'arm',更新于2026-02-14-->
+  <!--EN: arm-->
+  <Skeletal_Arm.label>臂</Skeletal_Arm.label>
+  <!--原中文: '手', 原英文: '无' -> 新英文: 'hand',更新于2026-02-14-->
+  <!--EN: hand-->
+  <Skeletal_Hand.label>手</Skeletal_Hand.label>
+  <!--原中文: '手指', 原英文: '无' -> 新英文: 'finger',更新于2026-02-14-->
+  <!--EN: finger-->
+  <Skeletal_Finger.label>手指</Skeletal_Finger.label>
+  <!--原中文: '脚趾', 原英文: '无' -> 新英文: 'toe',更新于2026-02-14-->
+  <!--EN: toe-->
+  <Skeletal_Toe.label>脚趾</Skeletal_Toe.label>
+  <!--原中文: '胸腔', 原英文: '无' -> 新英文: 'ribcage',更新于2026-02-14-->
+  <!--EN: ribcage-->
+  <Skeletal_Ribcage.label>胸腔</Skeletal_Ribcage.label>
+</LanguageData>
