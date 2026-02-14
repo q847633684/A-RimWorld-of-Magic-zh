@@ -3,776 +3,776 @@
   <!-- Grimoires -->
   <!--原中文: 'subject_bookType->魔法书', 原英文: '无' -> 新英文: 'subject_bookType->grimoire',更新于2026-02-14-->
   <!--EN: subject_bookType->grimoire-->
-  <TM_Book_Pools.rulePack.rulesStrings.0>subject_bookType-&amp;gt;魔法书</TM_Book_Pools.rulePack.rulesStrings.0>
+  <TM_Book_Pools.rulePack.rulesStrings.0>subject_bookType->魔法书</TM_Book_Pools.rulePack.rulesStrings.0>
   <!--原中文: 'subject_bookType->对此', 原英文: '无' -> 新英文: 'subject_bookType->tome',更新于2026-02-14-->
   <!--EN: subject_bookType->tome-->
-  <TM_Book_Pools.rulePack.rulesStrings.1>subject_bookType-&amp;gt;对此</TM_Book_Pools.rulePack.rulesStrings.1>
+  <TM_Book_Pools.rulePack.rulesStrings.1>subject_bookType->对此</TM_Book_Pools.rulePack.rulesStrings.1>
   <!--原中文: 'subject_bookType->法典', 原英文: '无' -> 新英文: 'subject_bookType->codex',更新于2026-02-14-->
   <!--EN: subject_bookType->codex-->
-  <TM_Book_Pools.rulePack.rulesStrings.2>subject_bookType-&amp;gt;法典</TM_Book_Pools.rulePack.rulesStrings.2>
+  <TM_Book_Pools.rulePack.rulesStrings.2>subject_bookType->法典</TM_Book_Pools.rulePack.rulesStrings.2>
   <!--原中文: 'subject_bookType->选集', 原英文: '无' -> 新英文: 'subject_bookType->anthology',更新于2026-02-14-->
   <!--EN: subject_bookType->anthology-->
-  <TM_Book_Pools.rulePack.rulesStrings.3>subject_bookType-&amp;gt;选集</TM_Book_Pools.rulePack.rulesStrings.3>
+  <TM_Book_Pools.rulePack.rulesStrings.3>subject_bookType->选集</TM_Book_Pools.rulePack.rulesStrings.3>
   <!--原中文: 'subject_bookType->书卷', 原英文: '无' -> 新英文: 'subject_bookType->sheaf',更新于2026-02-14-->
   <!--EN: subject_bookType->sheaf-->
-  <TM_Book_Pools.rulePack.rulesStrings.4>subject_bookType-&amp;gt;书卷</TM_Book_Pools.rulePack.rulesStrings.4>
+  <TM_Book_Pools.rulePack.rulesStrings.4>subject_bookType->书卷</TM_Book_Pools.rulePack.rulesStrings.4>
   <!--原中文: 'subject_bookType->编年史', 原英文: '无' -> 新英文: 'subject_bookType->chronicle',更新于2026-02-14-->
   <!--EN: subject_bookType->chronicle-->
-  <TM_Book_Pools.rulePack.rulesStrings.5>subject_bookType-&amp;gt;编年史</TM_Book_Pools.rulePack.rulesStrings.5>
+  <TM_Book_Pools.rulePack.rulesStrings.5>subject_bookType->编年史</TM_Book_Pools.rulePack.rulesStrings.5>
   <!--原中文: 'subject_bookType->指南', 原英文: '无' -> 新英文: 'subject_bookType->guide',更新于2026-02-14-->
   <!--EN: subject_bookType->guide-->
-  <TM_Book_Pools.rulePack.rulesStrings.6>subject_bookType-&amp;gt;指南</TM_Book_Pools.rulePack.rulesStrings.6>
+  <TM_Book_Pools.rulePack.rulesStrings.6>subject_bookType->指南</TM_Book_Pools.rulePack.rulesStrings.6>
   <!--原中文: 'subject_teachingType->法典', 原英文: '无' -> 新英文: 'subject_teachingType->codex',更新于2026-02-14-->
   <!--EN: subject_teachingType->codex-->
-  <TM_Book_Pools.rulePack.rulesStrings.7>subject_teachingType-&amp;gt;法典</TM_Book_Pools.rulePack.rulesStrings.7>
+  <TM_Book_Pools.rulePack.rulesStrings.7>subject_teachingType->法典</TM_Book_Pools.rulePack.rulesStrings.7>
   <!--原中文: 'subject_teachingType->插图', 原英文: '无' -> 新英文: 'subject_teachingType->illustration',更新于2026-02-14-->
   <!--EN: subject_teachingType->illustration-->
-  <TM_Book_Pools.rulePack.rulesStrings.8>subject_teachingType-&amp;gt;插图</TM_Book_Pools.rulePack.rulesStrings.8>
+  <TM_Book_Pools.rulePack.rulesStrings.8>subject_teachingType->插图</TM_Book_Pools.rulePack.rulesStrings.8>
   <!--原中文: 'subject_teachingType->集合', 原英文: '无' -> 新英文: 'subject_teachingType->collection',更新于2026-02-14-->
   <!--EN: subject_teachingType->collection-->
-  <TM_Book_Pools.rulePack.rulesStrings.9>subject_teachingType-&amp;gt;集合</TM_Book_Pools.rulePack.rulesStrings.9>
+  <TM_Book_Pools.rulePack.rulesStrings.9>subject_teachingType->集合</TM_Book_Pools.rulePack.rulesStrings.9>
   <!--原中文: 'subject_teachingType->捆', 原英文: '无' -> 新英文: 'subject_teachingType->sheaf',更新于2026-02-14-->
   <!--EN: subject_teachingType->sheaf-->
-  <TM_Book_Pools.rulePack.rulesStrings.10>subject_teachingType-&amp;gt;捆</TM_Book_Pools.rulePack.rulesStrings.10>
+  <TM_Book_Pools.rulePack.rulesStrings.10>subject_teachingType->捆</TM_Book_Pools.rulePack.rulesStrings.10>
   <!--原中文: 'subject_teachingType->编年史', 原英文: '无' -> 新英文: 'subject_teachingType->chronicle',更新于2026-02-14-->
   <!--EN: subject_teachingType->chronicle-->
-  <TM_Book_Pools.rulePack.rulesStrings.11>subject_teachingType-&amp;gt;编年史</TM_Book_Pools.rulePack.rulesStrings.11>
+  <TM_Book_Pools.rulePack.rulesStrings.11>subject_teachingType->编年史</TM_Book_Pools.rulePack.rulesStrings.11>
   <!--原中文: 'subject_teachingType->指南', 原英文: '无' -> 新英文: 'subject_teachingType->guide',更新于2026-02-14-->
   <!--EN: subject_teachingType->guide-->
-  <TM_Book_Pools.rulePack.rulesStrings.12>subject_teachingType-&amp;gt;指南</TM_Book_Pools.rulePack.rulesStrings.12>
+  <TM_Book_Pools.rulePack.rulesStrings.12>subject_teachingType->指南</TM_Book_Pools.rulePack.rulesStrings.12>
   <!--原中文: 'subject_teachingType->技术', 原英文: '无' -> 新英文: 'subject_teachingType->technique',更新于2026-02-14-->
   <!--EN: subject_teachingType->technique-->
-  <TM_Book_Pools.rulePack.rulesStrings.13>subject_teachingType-&amp;gt;技术</TM_Book_Pools.rulePack.rulesStrings.13>
+  <TM_Book_Pools.rulePack.rulesStrings.13>subject_teachingType->技术</TM_Book_Pools.rulePack.rulesStrings.13>
   <!--原中文: 'TM_randNoun_Magic->死亡', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Death',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Death-->
-  <TM_Book_Pools.rulePack.rulesStrings.14>TM_randNoun_Magic-&amp;gt;死亡</TM_Book_Pools.rulePack.rulesStrings.14>
+  <TM_Book_Pools.rulePack.rulesStrings.14>TM_randNoun_Magic->死亡</TM_Book_Pools.rulePack.rulesStrings.14>
   <!--原中文: 'TM_randNoun_Magic->生活', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Life',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Life-->
-  <TM_Book_Pools.rulePack.rulesStrings.15>TM_randNoun_Magic-&amp;gt;生活</TM_Book_Pools.rulePack.rulesStrings.15>
+  <TM_Book_Pools.rulePack.rulesStrings.15>TM_randNoun_Magic->生活</TM_Book_Pools.rulePack.rulesStrings.15>
   <!--原中文: 'TM_randNoun_Magic->爱', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Love',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Love-->
-  <TM_Book_Pools.rulePack.rulesStrings.16>TM_randNoun_Magic-&amp;gt;爱</TM_Book_Pools.rulePack.rulesStrings.16>
+  <TM_Book_Pools.rulePack.rulesStrings.16>TM_randNoun_Magic->爱</TM_Book_Pools.rulePack.rulesStrings.16>
   <!--原中文: 'TM_randNoun_Magic->智慧', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Wisdom',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Wisdom-->
-  <TM_Book_Pools.rulePack.rulesStrings.17>TM_randNoun_Magic-&amp;gt;智慧</TM_Book_Pools.rulePack.rulesStrings.17>
+  <TM_Book_Pools.rulePack.rulesStrings.17>TM_randNoun_Magic->智慧</TM_Book_Pools.rulePack.rulesStrings.17>
   <!--原中文: 'TM_randNoun_Magic->拼写', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Spell',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Spell-->
-  <TM_Book_Pools.rulePack.rulesStrings.18>TM_randNoun_Magic-&amp;gt;拼写</TM_Book_Pools.rulePack.rulesStrings.18>
+  <TM_Book_Pools.rulePack.rulesStrings.18>TM_randNoun_Magic->拼写</TM_Book_Pools.rulePack.rulesStrings.18>
   <!--原中文: 'TM_randNoun_Magic->魅力', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Charm',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Charm-->
-  <TM_Book_Pools.rulePack.rulesStrings.19>TM_randNoun_Magic-&amp;gt;魅力</TM_Book_Pools.rulePack.rulesStrings.19>
+  <TM_Book_Pools.rulePack.rulesStrings.19>TM_randNoun_Magic->魅力</TM_Book_Pools.rulePack.rulesStrings.19>
   <!--原中文: 'TM_randNoun_Magic->药水', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Potion',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Potion-->
-  <TM_Book_Pools.rulePack.rulesStrings.20>TM_randNoun_Magic-&amp;gt;药水</TM_Book_Pools.rulePack.rulesStrings.20>
+  <TM_Book_Pools.rulePack.rulesStrings.20>TM_randNoun_Magic->药水</TM_Book_Pools.rulePack.rulesStrings.20>
   <!--原中文: 'TM_randNoun_Magic->魔杖', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Wand',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Wand-->
-  <TM_Book_Pools.rulePack.rulesStrings.21>TM_randNoun_Magic-&amp;gt;魔杖</TM_Book_Pools.rulePack.rulesStrings.21>
+  <TM_Book_Pools.rulePack.rulesStrings.21>TM_randNoun_Magic->魔杖</TM_Book_Pools.rulePack.rulesStrings.21>
   <!--原中文: 'TM_randNoun_Magic->咒语', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Incantation',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Incantation-->
-  <TM_Book_Pools.rulePack.rulesStrings.22>TM_randNoun_Magic-&amp;gt;咒语</TM_Book_Pools.rulePack.rulesStrings.22>
+  <TM_Book_Pools.rulePack.rulesStrings.22>TM_randNoun_Magic->咒语</TM_Book_Pools.rulePack.rulesStrings.22>
   <!--原中文: 'TM_randNoun_Magic->仪式', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Ritual',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Ritual-->
-  <TM_Book_Pools.rulePack.rulesStrings.23>TM_randNoun_Magic-&amp;gt;仪式</TM_Book_Pools.rulePack.rulesStrings.23>
+  <TM_Book_Pools.rulePack.rulesStrings.23>TM_randNoun_Magic->仪式</TM_Book_Pools.rulePack.rulesStrings.23>
   <!--原中文: 'TM_randNoun_Magic->炼金术', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Alchemy',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Alchemy-->
-  <TM_Book_Pools.rulePack.rulesStrings.24>TM_randNoun_Magic-&amp;gt;炼金术</TM_Book_Pools.rulePack.rulesStrings.24>
+  <TM_Book_Pools.rulePack.rulesStrings.24>TM_randNoun_Magic->炼金术</TM_Book_Pools.rulePack.rulesStrings.24>
   <!--原中文: 'TM_randNoun_Magic->巫术', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Sorcery',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Sorcery-->
-  <TM_Book_Pools.rulePack.rulesStrings.25>TM_randNoun_Magic-&amp;gt;巫术</TM_Book_Pools.rulePack.rulesStrings.25>
+  <TM_Book_Pools.rulePack.rulesStrings.25>TM_randNoun_Magic->巫术</TM_Book_Pools.rulePack.rulesStrings.25>
   <!--原中文: 'TM_randNoun_Magic->向导', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Wizard',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Wizard-->
-  <TM_Book_Pools.rulePack.rulesStrings.26>TM_randNoun_Magic-&amp;gt;向导</TM_Book_Pools.rulePack.rulesStrings.26>
+  <TM_Book_Pools.rulePack.rulesStrings.26>TM_randNoun_Magic->向导</TM_Book_Pools.rulePack.rulesStrings.26>
   <!--原中文: 'TM_randNoun_Magic->女巫', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Witch',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Witch-->
-  <TM_Book_Pools.rulePack.rulesStrings.27>TM_randNoun_Magic-&amp;gt;女巫</TM_Book_Pools.rulePack.rulesStrings.27>
+  <TM_Book_Pools.rulePack.rulesStrings.27>TM_randNoun_Magic->女巫</TM_Book_Pools.rulePack.rulesStrings.27>
   <!--原中文: 'TM_randNoun_Magic->女巫', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Enchantress',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Enchantress-->
-  <TM_Book_Pools.rulePack.rulesStrings.28>TM_randNoun_Magic-&amp;gt;女巫</TM_Book_Pools.rulePack.rulesStrings.28>
+  <TM_Book_Pools.rulePack.rulesStrings.28>TM_randNoun_Magic->女巫</TM_Book_Pools.rulePack.rulesStrings.28>
   <!--原中文: 'TM_randNoun_Magic->神秘', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Mystic',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Mystic-->
-  <TM_Book_Pools.rulePack.rulesStrings.29>TM_randNoun_Magic-&amp;gt;神秘</TM_Book_Pools.rulePack.rulesStrings.29>
+  <TM_Book_Pools.rulePack.rulesStrings.29>TM_randNoun_Magic->神秘</TM_Book_Pools.rulePack.rulesStrings.29>
   <!--原中文: 'TM_randNoun_Magic->召唤', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Conjuring',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Conjuring-->
-  <TM_Book_Pools.rulePack.rulesStrings.30>TM_randNoun_Magic-&amp;gt;召唤</TM_Book_Pools.rulePack.rulesStrings.30>
+  <TM_Book_Pools.rulePack.rulesStrings.30>TM_randNoun_Magic->召唤</TM_Book_Pools.rulePack.rulesStrings.30>
   <!--原中文: 'TM_randNoun_Magic->护身符', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Talisman',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Talisman-->
-  <TM_Book_Pools.rulePack.rulesStrings.31>TM_randNoun_Magic-&amp;gt;护身符</TM_Book_Pools.rulePack.rulesStrings.31>
+  <TM_Book_Pools.rulePack.rulesStrings.31>TM_randNoun_Magic->护身符</TM_Book_Pools.rulePack.rulesStrings.31>
   <!--原中文: 'TM_randNoun_Magic->护身符', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Amulet',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Amulet-->
-  <TM_Book_Pools.rulePack.rulesStrings.32>TM_randNoun_Magic-&amp;gt;护身符</TM_Book_Pools.rulePack.rulesStrings.32>
+  <TM_Book_Pools.rulePack.rulesStrings.32>TM_randNoun_Magic->护身符</TM_Book_Pools.rulePack.rulesStrings.32>
   <!--原中文: 'TM_randNoun_Magic->印记', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Sigil',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Sigil-->
-  <TM_Book_Pools.rulePack.rulesStrings.33>TM_randNoun_Magic-&amp;gt;印记</TM_Book_Pools.rulePack.rulesStrings.33>
+  <TM_Book_Pools.rulePack.rulesStrings.33>TM_randNoun_Magic->印记</TM_Book_Pools.rulePack.rulesStrings.33>
   <!--原中文: 'TM_randNoun_Magic->魔法书', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Grimoire',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Grimoire-->
-  <TM_Book_Pools.rulePack.rulesStrings.34>TM_randNoun_Magic-&amp;gt;魔法书</TM_Book_Pools.rulePack.rulesStrings.34>
+  <TM_Book_Pools.rulePack.rulesStrings.34>TM_randNoun_Magic->魔法书</TM_Book_Pools.rulePack.rulesStrings.34>
   <!--原中文: 'TM_randNoun_Magic->阿卡纳', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Arcana',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Arcana-->
-  <TM_Book_Pools.rulePack.rulesStrings.35>TM_randNoun_Magic-&amp;gt;阿卡纳</TM_Book_Pools.rulePack.rulesStrings.35>
+  <TM_Book_Pools.rulePack.rulesStrings.35>TM_randNoun_Magic->阿卡纳</TM_Book_Pools.rulePack.rulesStrings.35>
   <!--原中文: 'TM_randNoun_Magic->召唤', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Summoning',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Summoning-->
-  <TM_Book_Pools.rulePack.rulesStrings.36>TM_randNoun_Magic-&amp;gt;召唤</TM_Book_Pools.rulePack.rulesStrings.36>
+  <TM_Book_Pools.rulePack.rulesStrings.36>TM_randNoun_Magic->召唤</TM_Book_Pools.rulePack.rulesStrings.36>
   <!--原中文: 'TM_randNoun_Magic->十六进制', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Hex',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Hex-->
-  <TM_Book_Pools.rulePack.rulesStrings.37>TM_randNoun_Magic-&amp;gt;十六进制</TM_Book_Pools.rulePack.rulesStrings.37>
+  <TM_Book_Pools.rulePack.rulesStrings.37>TM_randNoun_Magic->十六进制</TM_Book_Pools.rulePack.rulesStrings.37>
   <!--原中文: 'TM_randNoun_Magic->诅咒', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Curse',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Curse-->
-  <TM_Book_Pools.rulePack.rulesStrings.38>TM_randNoun_Magic-&amp;gt;诅咒</TM_Book_Pools.rulePack.rulesStrings.38>
+  <TM_Book_Pools.rulePack.rulesStrings.38>TM_randNoun_Magic->诅咒</TM_Book_Pools.rulePack.rulesStrings.38>
   <!--原中文: 'TM_randNoun_Magic->占卜', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Divination',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Divination-->
-  <TM_Book_Pools.rulePack.rulesStrings.39>TM_randNoun_Magic-&amp;gt;占卜</TM_Book_Pools.rulePack.rulesStrings.39>
+  <TM_Book_Pools.rulePack.rulesStrings.39>TM_randNoun_Magic->占卜</TM_Book_Pools.rulePack.rulesStrings.39>
   <!--原中文: 'TM_randNoun_Magic->死灵', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Necromancy',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Necromancy-->
-  <TM_Book_Pools.rulePack.rulesStrings.40>TM_randNoun_Magic-&amp;gt;死灵</TM_Book_Pools.rulePack.rulesStrings.40>
+  <TM_Book_Pools.rulePack.rulesStrings.40>TM_randNoun_Magic->死灵</TM_Book_Pools.rulePack.rulesStrings.40>
   <!--原中文: 'TM_randNoun_Magic->法术书', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Spellbook',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Spellbook-->
-  <TM_Book_Pools.rulePack.rulesStrings.41>TM_randNoun_Magic-&amp;gt;法术书</TM_Book_Pools.rulePack.rulesStrings.41>
+  <TM_Book_Pools.rulePack.rulesStrings.41>TM_randNoun_Magic->法术书</TM_Book_Pools.rulePack.rulesStrings.41>
   <!--原中文: 'TM_randNoun_Magic->熟悉', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Familiar',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Familiar-->
-  <TM_Book_Pools.rulePack.rulesStrings.42>TM_randNoun_Magic-&amp;gt;熟悉</TM_Book_Pools.rulePack.rulesStrings.42>
+  <TM_Book_Pools.rulePack.rulesStrings.42>TM_randNoun_Magic->熟悉</TM_Book_Pools.rulePack.rulesStrings.42>
   <!--原中文: 'TM_randNoun_Magic->灵丹妙药', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Elixir',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Elixir-->
-  <TM_Book_Pools.rulePack.rulesStrings.43>TM_randNoun_Magic-&amp;gt;灵丹妙药</TM_Book_Pools.rulePack.rulesStrings.43>
+  <TM_Book_Pools.rulePack.rulesStrings.43>TM_randNoun_Magic->灵丹妙药</TM_Book_Pools.rulePack.rulesStrings.43>
   <!--原中文: 'TM_randNoun_Magic->集会', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Coven',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Coven-->
-  <TM_Book_Pools.rulePack.rulesStrings.44>TM_randNoun_Magic-&amp;gt;集会</TM_Book_Pools.rulePack.rulesStrings.44>
+  <TM_Book_Pools.rulePack.rulesStrings.44>TM_randNoun_Magic->集会</TM_Book_Pools.rulePack.rulesStrings.44>
   <!--原中文: 'TM_randNoun_Magic->甲骨文', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Oracle',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Oracle-->
-  <TM_Book_Pools.rulePack.rulesStrings.45>TM_randNoun_Magic-&amp;gt;甲骨文</TM_Book_Pools.rulePack.rulesStrings.45>
+  <TM_Book_Pools.rulePack.rulesStrings.45>TM_randNoun_Magic->甲骨文</TM_Book_Pools.rulePack.rulesStrings.45>
   <!--原中文: 'TM_randNoun_Magic->先知', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Seer',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Seer-->
-  <TM_Book_Pools.rulePack.rulesStrings.46>TM_randNoun_Magic-&amp;gt;先知</TM_Book_Pools.rulePack.rulesStrings.46>
+  <TM_Book_Pools.rulePack.rulesStrings.46>TM_randNoun_Magic->先知</TM_Book_Pools.rulePack.rulesStrings.46>
   <!--原中文: 'TM_randNoun_Magic->符文', 原英文: '无' -> 新英文: 'TM_randNoun_Magic->Runes',更新于2026-02-14-->
   <!--EN: TM_randNoun_Magic->Runes-->
-  <TM_Book_Pools.rulePack.rulesStrings.47>TM_randNoun_Magic-&amp;gt;符文</TM_Book_Pools.rulePack.rulesStrings.47>
+  <TM_Book_Pools.rulePack.rulesStrings.47>TM_randNoun_Magic->符文</TM_Book_Pools.rulePack.rulesStrings.47>
   <!--原中文: 'subject_Magic->死亡', 原英文: '无' -> 新英文: 'subject_Magic->Death',更新于2026-02-14-->
   <!--EN: subject_Magic->Death-->
-  <TM_Book_Pools.rulePack.rulesStrings.48>subject_Magic-&amp;gt;死亡</TM_Book_Pools.rulePack.rulesStrings.48>
+  <TM_Book_Pools.rulePack.rulesStrings.48>subject_Magic->死亡</TM_Book_Pools.rulePack.rulesStrings.48>
   <!--原中文: 'subject_Magic->生活', 原英文: '无' -> 新英文: 'subject_Magic->Life',更新于2026-02-14-->
   <!--EN: subject_Magic->Life-->
-  <TM_Book_Pools.rulePack.rulesStrings.49>subject_Magic-&amp;gt;生活</TM_Book_Pools.rulePack.rulesStrings.49>
+  <TM_Book_Pools.rulePack.rulesStrings.49>subject_Magic->生活</TM_Book_Pools.rulePack.rulesStrings.49>
   <!--原中文: 'subject_Magic->电源', 原英文: '无' -> 新英文: 'subject_Magic->Power',更新于2026-02-14-->
   <!--EN: subject_Magic->Power-->
-  <TM_Book_Pools.rulePack.rulesStrings.50>subject_Magic-&amp;gt;电源</TM_Book_Pools.rulePack.rulesStrings.50>
+  <TM_Book_Pools.rulePack.rulesStrings.50>subject_Magic->电源</TM_Book_Pools.rulePack.rulesStrings.50>
   <!--原中文: 'subject_Magic->火', 原英文: '无' -> 新英文: 'subject_Magic->Fire',更新于2026-02-14-->
   <!--EN: subject_Magic->Fire-->
-  <TM_Book_Pools.rulePack.rulesStrings.51>subject_Magic-&amp;gt;火</TM_Book_Pools.rulePack.rulesStrings.51>
+  <TM_Book_Pools.rulePack.rulesStrings.51>subject_Magic->火</TM_Book_Pools.rulePack.rulesStrings.51>
   <!--原中文: 'subject_Magic->冰', 原英文: '无' -> 新英文: 'subject_Magic->Ice',更新于2026-02-14-->
   <!--EN: subject_Magic->Ice-->
-  <TM_Book_Pools.rulePack.rulesStrings.52>subject_Magic-&amp;gt;冰</TM_Book_Pools.rulePack.rulesStrings.52>
+  <TM_Book_Pools.rulePack.rulesStrings.52>subject_Magic->冰</TM_Book_Pools.rulePack.rulesStrings.52>
   <!--原中文: 'subject_Magic->闪电', 原英文: '无' -> 新英文: 'subject_Magic->Lightning',更新于2026-02-14-->
   <!--EN: subject_Magic->Lightning-->
-  <TM_Book_Pools.rulePack.rulesStrings.53>subject_Magic-&amp;gt;闪电</TM_Book_Pools.rulePack.rulesStrings.53>
+  <TM_Book_Pools.rulePack.rulesStrings.53>subject_Magic->闪电</TM_Book_Pools.rulePack.rulesStrings.53>
   <!--原中文: 'subject_Magic->电源', 原英文: '无' -> 新英文: 'subject_Magic->Power',更新于2026-02-14-->
   <!--EN: subject_Magic->Power-->
-  <TM_Book_Pools.rulePack.rulesStrings.54>subject_Magic-&amp;gt;电源</TM_Book_Pools.rulePack.rulesStrings.54>
+  <TM_Book_Pools.rulePack.rulesStrings.54>subject_Magic->电源</TM_Book_Pools.rulePack.rulesStrings.54>
   <!--原中文: 'subject_Magic->奥术', 原英文: '无' -> 新英文: 'subject_Magic->the Arcane',更新于2026-02-14-->
   <!--EN: subject_Magic->the Arcane-->
-  <TM_Book_Pools.rulePack.rulesStrings.55>subject_Magic-&amp;gt;奥术</TM_Book_Pools.rulePack.rulesStrings.55>
+  <TM_Book_Pools.rulePack.rulesStrings.55>subject_Magic->奥术</TM_Book_Pools.rulePack.rulesStrings.55>
   <!--原中文: 'subject_Magic->魔法', 原英文: '无' -> 新英文: 'subject_Magic->Magic',更新于2026-02-14-->
   <!--EN: subject_Magic->Magic-->
-  <TM_Book_Pools.rulePack.rulesStrings.56>subject_Magic-&amp;gt;魔法</TM_Book_Pools.rulePack.rulesStrings.56>
+  <TM_Book_Pools.rulePack.rulesStrings.56>subject_Magic->魔法</TM_Book_Pools.rulePack.rulesStrings.56>
   <!--原中文: 'subject_Magic->风', 原英文: '无' -> 新英文: 'subject_Magic->Wind',更新于2026-02-14-->
   <!--EN: subject_Magic->Wind-->
-  <TM_Book_Pools.rulePack.rulesStrings.57>subject_Magic-&amp;gt;风</TM_Book_Pools.rulePack.rulesStrings.57>
+  <TM_Book_Pools.rulePack.rulesStrings.57>subject_Magic->风</TM_Book_Pools.rulePack.rulesStrings.57>
   <!--原中文: 'subject_Magic->地球', 原英文: '无' -> 新英文: 'subject_Magic->Earth',更新于2026-02-14-->
   <!--EN: subject_Magic->Earth-->
-  <TM_Book_Pools.rulePack.rulesStrings.58>subject_Magic-&amp;gt;地球</TM_Book_Pools.rulePack.rulesStrings.58>
+  <TM_Book_Pools.rulePack.rulesStrings.58>subject_Magic->地球</TM_Book_Pools.rulePack.rulesStrings.58>
   <!--原中文: 'subject_Magic->水', 原英文: '无' -> 新英文: 'subject_Magic->Water',更新于2026-02-14-->
   <!--EN: subject_Magic->Water-->
-  <TM_Book_Pools.rulePack.rulesStrings.59>subject_Magic-&amp;gt;水</TM_Book_Pools.rulePack.rulesStrings.59>
+  <TM_Book_Pools.rulePack.rulesStrings.59>subject_Magic->水</TM_Book_Pools.rulePack.rulesStrings.59>
   <!--原中文: 'subject_Magic->精神', 原英文: '无' -> 新英文: 'subject_Magic->Spirit',更新于2026-02-14-->
   <!--EN: subject_Magic->Spirit-->
-  <TM_Book_Pools.rulePack.rulesStrings.60>subject_Magic-&amp;gt;精神</TM_Book_Pools.rulePack.rulesStrings.60>
+  <TM_Book_Pools.rulePack.rulesStrings.60>subject_Magic->精神</TM_Book_Pools.rulePack.rulesStrings.60>
   <!--原中文: 'subject_Magic->黑暗', 原英文: '无' -> 新英文: 'subject_Magic->Darkness',更新于2026-02-14-->
   <!--EN: subject_Magic->Darkness-->
-  <TM_Book_Pools.rulePack.rulesStrings.61>subject_Magic-&amp;gt;黑暗</TM_Book_Pools.rulePack.rulesStrings.61>
+  <TM_Book_Pools.rulePack.rulesStrings.61>subject_Magic->黑暗</TM_Book_Pools.rulePack.rulesStrings.61>
   <!--原中文: 'subject_Magic->轻', 原英文: '无' -> 新英文: 'subject_Magic->Light',更新于2026-02-14-->
   <!--EN: subject_Magic->Light-->
-  <TM_Book_Pools.rulePack.rulesStrings.62>subject_Magic-&amp;gt;轻</TM_Book_Pools.rulePack.rulesStrings.62>
+  <TM_Book_Pools.rulePack.rulesStrings.62>subject_Magic->轻</TM_Book_Pools.rulePack.rulesStrings.62>
   <!--原中文: 'subject_Magic->时间', 原英文: '无' -> 新英文: 'subject_Magic->Time',更新于2026-02-14-->
   <!--EN: subject_Magic->Time-->
-  <TM_Book_Pools.rulePack.rulesStrings.63>subject_Magic-&amp;gt;时间</TM_Book_Pools.rulePack.rulesStrings.63>
+  <TM_Book_Pools.rulePack.rulesStrings.63>subject_Magic->时间</TM_Book_Pools.rulePack.rulesStrings.63>
   <!--原中文: 'subject_Magic->幻象', 原英文: '无' -> 新英文: 'subject_Magic->Illusion',更新于2026-02-14-->
   <!--EN: subject_Magic->Illusion-->
-  <TM_Book_Pools.rulePack.rulesStrings.64>subject_Magic-&amp;gt;幻象</TM_Book_Pools.rulePack.rulesStrings.64>
+  <TM_Book_Pools.rulePack.rulesStrings.64>subject_Magic->幻象</TM_Book_Pools.rulePack.rulesStrings.64>
   <!--原中文: 'subject_Magic->治疗', 原英文: '无' -> 新英文: 'subject_Magic->Healing',更新于2026-02-14-->
   <!--EN: subject_Magic->Healing-->
-  <TM_Book_Pools.rulePack.rulesStrings.65>subject_Magic-&amp;gt;治疗</TM_Book_Pools.rulePack.rulesStrings.65>
+  <TM_Book_Pools.rulePack.rulesStrings.65>subject_Magic->治疗</TM_Book_Pools.rulePack.rulesStrings.65>
   <!--原中文: 'subject_Magic->转换', 原英文: '无' -> 新英文: 'subject_Magic->Transformation',更新于2026-02-14-->
   <!--EN: subject_Magic->Transformation-->
-  <TM_Book_Pools.rulePack.rulesStrings.66>subject_Magic-&amp;gt;转换</TM_Book_Pools.rulePack.rulesStrings.66>
+  <TM_Book_Pools.rulePack.rulesStrings.66>subject_Magic->转换</TM_Book_Pools.rulePack.rulesStrings.66>
   <!--原中文: 'subject_Magic->召唤', 原英文: '无' -> 新英文: 'subject_Magic->Summoning',更新于2026-02-14-->
   <!--EN: subject_Magic->Summoning-->
-  <TM_Book_Pools.rulePack.rulesStrings.67>subject_Magic-&amp;gt;召唤</TM_Book_Pools.rulePack.rulesStrings.67>
+  <TM_Book_Pools.rulePack.rulesStrings.67>subject_Magic->召唤</TM_Book_Pools.rulePack.rulesStrings.67>
   <!--原中文: 'subject_Magic->炼金术', 原英文: '无' -> 新英文: 'subject_Magic->Alchemy',更新于2026-02-14-->
   <!--EN: subject_Magic->Alchemy-->
-  <TM_Book_Pools.rulePack.rulesStrings.68>subject_Magic-&amp;gt;炼金术</TM_Book_Pools.rulePack.rulesStrings.68>
+  <TM_Book_Pools.rulePack.rulesStrings.68>subject_Magic->炼金术</TM_Book_Pools.rulePack.rulesStrings.68>
   <!--原中文: 'subject_Magic->死灵术', 原英文: '无' -> 新英文: 'subject_Magic->Necromancy',更新于2026-02-14-->
   <!--EN: subject_Magic->Necromancy-->
-  <TM_Book_Pools.rulePack.rulesStrings.69>subject_Magic-&amp;gt;死灵术</TM_Book_Pools.rulePack.rulesStrings.69>
+  <TM_Book_Pools.rulePack.rulesStrings.69>subject_Magic->死灵术</TM_Book_Pools.rulePack.rulesStrings.69>
   <!--原中文: 'subject_Magic->结界', 原英文: '无' -> 新英文: 'subject_Magic->Enchantments',更新于2026-02-14-->
   <!--EN: subject_Magic->Enchantments-->
-  <TM_Book_Pools.rulePack.rulesStrings.70>subject_Magic-&amp;gt;结界</TM_Book_Pools.rulePack.rulesStrings.70>
+  <TM_Book_Pools.rulePack.rulesStrings.70>subject_Magic->结界</TM_Book_Pools.rulePack.rulesStrings.70>
   <!--原中文: 'subject_Magic->符文', 原英文: '无' -> 新英文: 'subject_Magic->Runes',更新于2026-02-14-->
   <!--EN: subject_Magic->Runes-->
-  <TM_Book_Pools.rulePack.rulesStrings.71>subject_Magic-&amp;gt;符文</TM_Book_Pools.rulePack.rulesStrings.71>
+  <TM_Book_Pools.rulePack.rulesStrings.71>subject_Magic->符文</TM_Book_Pools.rulePack.rulesStrings.71>
   <!--原中文: 'subject_Magic->占卜', 原英文: '无' -> 新英文: 'subject_Magic->Divination',更新于2026-02-14-->
   <!--EN: subject_Magic->Divination-->
-  <TM_Book_Pools.rulePack.rulesStrings.72>subject_Magic-&amp;gt;占卜</TM_Book_Pools.rulePack.rulesStrings.72>
+  <TM_Book_Pools.rulePack.rulesStrings.72>subject_Magic->占卜</TM_Book_Pools.rulePack.rulesStrings.72>
   <!--原中文: 'subject_Magic->神秘主义', 原英文: '无' -> 新英文: 'subject_Magic->Mysticism',更新于2026-02-14-->
   <!--EN: subject_Magic->Mysticism-->
-  <TM_Book_Pools.rulePack.rulesStrings.73>subject_Magic-&amp;gt;神秘主义</TM_Book_Pools.rulePack.rulesStrings.73>
+  <TM_Book_Pools.rulePack.rulesStrings.73>subject_Magic->神秘主义</TM_Book_Pools.rulePack.rulesStrings.73>
   <!--原中文: 'subject_Magic->星体投射', 原英文: '无' -> 新英文: 'subject_Magic->Astral Projection',更新于2026-02-14-->
   <!--EN: subject_Magic->Astral Projection-->
-  <TM_Book_Pools.rulePack.rulesStrings.74>subject_Magic-&amp;gt;星体投射</TM_Book_Pools.rulePack.rulesStrings.74>
+  <TM_Book_Pools.rulePack.rulesStrings.74>subject_Magic->星体投射</TM_Book_Pools.rulePack.rulesStrings.74>
   <!--原中文: 'subject_Magic->心灵传动', 原英文: '无' -> 新英文: 'subject_Magic->Telekinesis',更新于2026-02-14-->
   <!--EN: subject_Magic->Telekinesis-->
-  <TM_Book_Pools.rulePack.rulesStrings.75>subject_Magic-&amp;gt;心灵传动</TM_Book_Pools.rulePack.rulesStrings.75>
+  <TM_Book_Pools.rulePack.rulesStrings.75>subject_Magic->心灵传动</TM_Book_Pools.rulePack.rulesStrings.75>
   <!--原中文: 'subject_Magic->心灵感应', 原英文: '无' -> 新英文: 'subject_Magic->Telepathy',更新于2026-02-14-->
   <!--EN: subject_Magic->Telepathy-->
-  <TM_Book_Pools.rulePack.rulesStrings.76>subject_Magic-&amp;gt;心灵感应</TM_Book_Pools.rulePack.rulesStrings.76>
+  <TM_Book_Pools.rulePack.rulesStrings.76>subject_Magic->心灵感应</TM_Book_Pools.rulePack.rulesStrings.76>
   <!--原中文: 'subject_Magic->变形', 原英文: '无' -> 新英文: 'subject_Magic->Shapeshifting',更新于2026-02-14-->
   <!--EN: subject_Magic->Shapeshifting-->
-  <TM_Book_Pools.rulePack.rulesStrings.77>subject_Magic-&amp;gt;变形</TM_Book_Pools.rulePack.rulesStrings.77>
+  <TM_Book_Pools.rulePack.rulesStrings.77>subject_Magic->变形</TM_Book_Pools.rulePack.rulesStrings.77>
   <!--原中文: 'subject_Magic->元素', 原英文: '无' -> 新英文: 'subject_Magic->Elementals',更新于2026-02-14-->
   <!--EN: subject_Magic->Elementals-->
-  <TM_Book_Pools.rulePack.rulesStrings.78>subject_Magic-&amp;gt;元素</TM_Book_Pools.rulePack.rulesStrings.78>
+  <TM_Book_Pools.rulePack.rulesStrings.78>subject_Magic->元素</TM_Book_Pools.rulePack.rulesStrings.78>
   <!--原中文: 'subject_Magic->门户', 原英文: '无' -> 新英文: 'subject_Magic->Portals',更新于2026-02-14-->
   <!--EN: subject_Magic->Portals-->
-  <TM_Book_Pools.rulePack.rulesStrings.79>subject_Magic-&amp;gt;门户</TM_Book_Pools.rulePack.rulesStrings.79>
+  <TM_Book_Pools.rulePack.rulesStrings.79>subject_Magic->门户</TM_Book_Pools.rulePack.rulesStrings.79>
   <!--原中文: 'subject_Magic->梦游', 原英文: '无' -> 新英文: 'subject_Magic->Dreamwalking',更新于2026-02-14-->
   <!--EN: subject_Magic->Dreamwalking-->
-  <TM_Book_Pools.rulePack.rulesStrings.80>subject_Magic-&amp;gt;梦游</TM_Book_Pools.rulePack.rulesStrings.80>
+  <TM_Book_Pools.rulePack.rulesStrings.80>subject_Magic->梦游</TM_Book_Pools.rulePack.rulesStrings.80>
   <!--原中文: 'subject_Magic->印记', 原英文: '无' -> 新英文: 'subject_Magic->Sigils',更新于2026-02-14-->
   <!--EN: subject_Magic->Sigils-->
-  <TM_Book_Pools.rulePack.rulesStrings.81>subject_Magic-&amp;gt;印记</TM_Book_Pools.rulePack.rulesStrings.81>
+  <TM_Book_Pools.rulePack.rulesStrings.81>subject_Magic->印记</TM_Book_Pools.rulePack.rulesStrings.81>
   <!--原中文: 'subject_Magic->家族', 原英文: '无' -> 新英文: 'subject_Magic->Familiars',更新于2026-02-14-->
   <!--EN: subject_Magic->Familiars-->
-  <TM_Book_Pools.rulePack.rulesStrings.82>subject_Magic-&amp;gt;家族</TM_Book_Pools.rulePack.rulesStrings.82>
+  <TM_Book_Pools.rulePack.rulesStrings.82>subject_Magic->家族</TM_Book_Pools.rulePack.rulesStrings.82>
   <!--原中文: 'subject_Magic->十六进制', 原英文: '无' -> 新英文: 'subject_Magic->Hexes',更新于2026-02-14-->
   <!--EN: subject_Magic->Hexes-->
-  <TM_Book_Pools.rulePack.rulesStrings.83>subject_Magic-&amp;gt;十六进制</TM_Book_Pools.rulePack.rulesStrings.83>
+  <TM_Book_Pools.rulePack.rulesStrings.83>subject_Magic->十六进制</TM_Book_Pools.rulePack.rulesStrings.83>
   <!--原中文: 'subject_Magic->诅咒', 原英文: '无' -> 新英文: 'subject_Magic->Curses',更新于2026-02-14-->
   <!--EN: subject_Magic->Curses-->
-  <TM_Book_Pools.rulePack.rulesStrings.84>subject_Magic-&amp;gt;诅咒</TM_Book_Pools.rulePack.rulesStrings.84>
+  <TM_Book_Pools.rulePack.rulesStrings.84>subject_Magic->诅咒</TM_Book_Pools.rulePack.rulesStrings.84>
   <!--原中文: 'subject_Magic->药水', 原英文: '无' -> 新英文: 'subject_Magic->Potions',更新于2026-02-14-->
   <!--EN: subject_Magic->Potions-->
-  <TM_Book_Pools.rulePack.rulesStrings.85>subject_Magic-&amp;gt;药水</TM_Book_Pools.rulePack.rulesStrings.85>
+  <TM_Book_Pools.rulePack.rulesStrings.85>subject_Magic->药水</TM_Book_Pools.rulePack.rulesStrings.85>
   <!--原中文: 'subject_Magic->魅力', 原英文: '无' -> 新英文: 'subject_Magic->Charms',更新于2026-02-14-->
   <!--EN: subject_Magic->Charms-->
-  <TM_Book_Pools.rulePack.rulesStrings.86>subject_Magic-&amp;gt;魅力</TM_Book_Pools.rulePack.rulesStrings.86>
+  <TM_Book_Pools.rulePack.rulesStrings.86>subject_Magic->魅力</TM_Book_Pools.rulePack.rulesStrings.86>
   <!--原中文: 'TM_randAdjective_Magic->古老的', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Ancient',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Ancient-->
-  <TM_Book_Pools.rulePack.rulesStrings.87>TM_randAdjective_Magic-&amp;gt;古老的</TM_Book_Pools.rulePack.rulesStrings.87>
+  <TM_Book_Pools.rulePack.rulesStrings.87>TM_randAdjective_Magic->古老的</TM_Book_Pools.rulePack.rulesStrings.87>
   <!--原中文: 'TM_randAdjective_Magic->神奇', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Magical',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Magical-->
-  <TM_Book_Pools.rulePack.rulesStrings.88>TM_randAdjective_Magic-&amp;gt;神奇</TM_Book_Pools.rulePack.rulesStrings.88>
+  <TM_Book_Pools.rulePack.rulesStrings.88>TM_randAdjective_Magic->神奇</TM_Book_Pools.rulePack.rulesStrings.88>
   <!--原中文: 'TM_randAdjective_Magic->灵感', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Inspired',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Inspired-->
-  <TM_Book_Pools.rulePack.rulesStrings.89>TM_randAdjective_Magic-&amp;gt;灵感</TM_Book_Pools.rulePack.rulesStrings.89>
+  <TM_Book_Pools.rulePack.rulesStrings.89>TM_randAdjective_Magic->灵感</TM_Book_Pools.rulePack.rulesStrings.89>
   <!--原中文: 'TM_randAdjective_Magic->热情', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Fervent',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Fervent-->
-  <TM_Book_Pools.rulePack.rulesStrings.90>TM_randAdjective_Magic-&amp;gt;热情</TM_Book_Pools.rulePack.rulesStrings.90>
+  <TM_Book_Pools.rulePack.rulesStrings.90>TM_randAdjective_Magic->热情</TM_Book_Pools.rulePack.rulesStrings.90>
   <!--原中文: 'TM_randAdjective_Magic->邪恶', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Nefarious',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Nefarious-->
-  <TM_Book_Pools.rulePack.rulesStrings.91>TM_randAdjective_Magic-&amp;gt;邪恶</TM_Book_Pools.rulePack.rulesStrings.91>
+  <TM_Book_Pools.rulePack.rulesStrings.91>TM_randAdjective_Magic->邪恶</TM_Book_Pools.rulePack.rulesStrings.91>
   <!--原中文: 'TM_randAdjective_Magic->混沌', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Chaotic',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Chaotic-->
-  <TM_Book_Pools.rulePack.rulesStrings.92>TM_randAdjective_Magic-&amp;gt;混沌</TM_Book_Pools.rulePack.rulesStrings.92>
+  <TM_Book_Pools.rulePack.rulesStrings.92>TM_randAdjective_Magic->混沌</TM_Book_Pools.rulePack.rulesStrings.92>
   <!--原中文: 'TM_randAdjective_Magic->神秘', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Mysterious',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Mysterious-->
-  <TM_Book_Pools.rulePack.rulesStrings.93>TM_randAdjective_Magic-&amp;gt;神秘</TM_Book_Pools.rulePack.rulesStrings.93>
+  <TM_Book_Pools.rulePack.rulesStrings.93>TM_randAdjective_Magic->神秘</TM_Book_Pools.rulePack.rulesStrings.93>
   <!--原中文: 'TM_randAdjective_Magic->神秘', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Enigmatic',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Enigmatic-->
-  <TM_Book_Pools.rulePack.rulesStrings.94>TM_randAdjective_Magic-&amp;gt;神秘</TM_Book_Pools.rulePack.rulesStrings.94>
+  <TM_Book_Pools.rulePack.rulesStrings.94>TM_randAdjective_Magic->神秘</TM_Book_Pools.rulePack.rulesStrings.94>
   <!--原中文: 'TM_randAdjective_Magic->奥术', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Arcane',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Arcane-->
-  <TM_Book_Pools.rulePack.rulesStrings.95>TM_randAdjective_Magic-&amp;gt;奥术</TM_Book_Pools.rulePack.rulesStrings.95>
+  <TM_Book_Pools.rulePack.rulesStrings.95>TM_randAdjective_Magic->奥术</TM_Book_Pools.rulePack.rulesStrings.95>
   <!--原中文: 'TM_randAdjective_Magic->强大', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Powerful',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Powerful-->
-  <TM_Book_Pools.rulePack.rulesStrings.96>TM_randAdjective_Magic-&amp;gt;强大</TM_Book_Pools.rulePack.rulesStrings.96>
+  <TM_Book_Pools.rulePack.rulesStrings.96>TM_randAdjective_Magic->强大</TM_Book_Pools.rulePack.rulesStrings.96>
   <!--原中文: 'TM_randAdjective_Magic->虚幻', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Ethereal',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Ethereal-->
-  <TM_Book_Pools.rulePack.rulesStrings.97>TM_randAdjective_Magic-&amp;gt;虚幻</TM_Book_Pools.rulePack.rulesStrings.97>
+  <TM_Book_Pools.rulePack.rulesStrings.97>TM_randAdjective_Magic->虚幻</TM_Book_Pools.rulePack.rulesStrings.97>
   <!--原中文: 'TM_randAdjective_Magic->禁止', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Forbidden',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Forbidden-->
-  <TM_Book_Pools.rulePack.rulesStrings.98>TM_randAdjective_Magic-&amp;gt;禁止</TM_Book_Pools.rulePack.rulesStrings.98>
+  <TM_Book_Pools.rulePack.rulesStrings.98>TM_randAdjective_Magic->禁止</TM_Book_Pools.rulePack.rulesStrings.98>
   <!--原中文: 'TM_randAdjective_Magic->复杂', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Intricate',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Intricate-->
-  <TM_Book_Pools.rulePack.rulesStrings.99>TM_randAdjective_Magic-&amp;gt;复杂</TM_Book_Pools.rulePack.rulesStrings.99>
+  <TM_Book_Pools.rulePack.rulesStrings.99>TM_randAdjective_Magic->复杂</TM_Book_Pools.rulePack.rulesStrings.99>
   <!--原中文: 'TM_randAdjective_Magic->深奥', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Esoteric',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Esoteric-->
-  <TM_Book_Pools.rulePack.rulesStrings.100>TM_randAdjective_Magic-&amp;gt;深奥</TM_Book_Pools.rulePack.rulesStrings.100>
+  <TM_Book_Pools.rulePack.rulesStrings.100>TM_randAdjective_Magic->深奥</TM_Book_Pools.rulePack.rulesStrings.100>
   <!--原中文: 'TM_randAdjective_Magic->神圣', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Divine',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Divine-->
-  <TM_Book_Pools.rulePack.rulesStrings.101>TM_randAdjective_Magic-&amp;gt;神圣</TM_Book_Pools.rulePack.rulesStrings.101>
+  <TM_Book_Pools.rulePack.rulesStrings.101>TM_randAdjective_Magic->神圣</TM_Book_Pools.rulePack.rulesStrings.101>
   <!--原中文: 'TM_randAdjective_Magic->光谱', 原英文: '无' -> 新英文: 'TM_randAdjective_Magic->Spectral',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Magic->Spectral-->
-  <TM_Book_Pools.rulePack.rulesStrings.102>TM_randAdjective_Magic-&amp;gt;光谱</TM_Book_Pools.rulePack.rulesStrings.102>
+  <TM_Book_Pools.rulePack.rulesStrings.102>TM_randAdjective_Magic->光谱</TM_Book_Pools.rulePack.rulesStrings.102>
   <!--原中文: 'TM_randTheme_Magic->知识', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->knowledge',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->knowledge-->
-  <TM_Book_Pools.rulePack.rulesStrings.103>TM_randTheme_Magic-&amp;gt;知识</TM_Book_Pools.rulePack.rulesStrings.103>
+  <TM_Book_Pools.rulePack.rulesStrings.103>TM_randTheme_Magic->知识</TM_Book_Pools.rulePack.rulesStrings.103>
   <!--原中文: 'TM_randTheme_Magic->了解', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->understanding',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->understanding-->
-  <TM_Book_Pools.rulePack.rulesStrings.104>TM_randTheme_Magic-&amp;gt;了解</TM_Book_Pools.rulePack.rulesStrings.104>
+  <TM_Book_Pools.rulePack.rulesStrings.104>TM_randTheme_Magic->了解</TM_Book_Pools.rulePack.rulesStrings.104>
   <!--原中文: 'TM_randTheme_Magic->电源', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->power',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->power-->
-  <TM_Book_Pools.rulePack.rulesStrings.105>TM_randTheme_Magic-&amp;gt;电源</TM_Book_Pools.rulePack.rulesStrings.105>
+  <TM_Book_Pools.rulePack.rulesStrings.105>TM_randTheme_Magic->电源</TM_Book_Pools.rulePack.rulesStrings.105>
   <!--原中文: 'TM_randTheme_Magic->转换', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->transformation',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->transformation-->
-  <TM_Book_Pools.rulePack.rulesStrings.106>TM_randTheme_Magic-&amp;gt;转换</TM_Book_Pools.rulePack.rulesStrings.106>
+  <TM_Book_Pools.rulePack.rulesStrings.106>TM_randTheme_Magic->转换</TM_Book_Pools.rulePack.rulesStrings.106>
   <!--原中文: 'TM_randTheme_Magic->神秘', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->mystery',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->mystery-->
-  <TM_Book_Pools.rulePack.rulesStrings.107>TM_randTheme_Magic-&amp;gt;神秘</TM_Book_Pools.rulePack.rulesStrings.107>
+  <TM_Book_Pools.rulePack.rulesStrings.107>TM_randTheme_Magic->神秘</TM_Book_Pools.rulePack.rulesStrings.107>
   <!--原中文: 'TM_randTheme_Magic->启蒙', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->enlightenment',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->enlightenment-->
-  <TM_Book_Pools.rulePack.rulesStrings.108>TM_randTheme_Magic-&amp;gt;启蒙</TM_Book_Pools.rulePack.rulesStrings.108>
+  <TM_Book_Pools.rulePack.rulesStrings.108>TM_randTheme_Magic->启蒙</TM_Book_Pools.rulePack.rulesStrings.108>
   <!--原中文: 'TM_randTheme_Magic->余额', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->balance',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->balance-->
-  <TM_Book_Pools.rulePack.rulesStrings.109>TM_randTheme_Magic-&amp;gt;余额</TM_Book_Pools.rulePack.rulesStrings.109>
+  <TM_Book_Pools.rulePack.rulesStrings.109>TM_randTheme_Magic->余额</TM_Book_Pools.rulePack.rulesStrings.109>
   <!--原中文: 'TM_randTheme_Magic->保护', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->protection',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->protection-->
-  <TM_Book_Pools.rulePack.rulesStrings.110>TM_randTheme_Magic-&amp;gt;保护</TM_Book_Pools.rulePack.rulesStrings.110>
+  <TM_Book_Pools.rulePack.rulesStrings.110>TM_randTheme_Magic->保护</TM_Book_Pools.rulePack.rulesStrings.110>
   <!--原中文: 'TM_randTheme_Magic->治疗', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->healing',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->healing-->
-  <TM_Book_Pools.rulePack.rulesStrings.111>TM_randTheme_Magic-&amp;gt;治疗</TM_Book_Pools.rulePack.rulesStrings.111>
+  <TM_Book_Pools.rulePack.rulesStrings.111>TM_randTheme_Magic->治疗</TM_Book_Pools.rulePack.rulesStrings.111>
   <!--原中文: 'TM_randTheme_Magic->智慧', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->wisdom',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->wisdom-->
-  <TM_Book_Pools.rulePack.rulesStrings.112>TM_randTheme_Magic-&amp;gt;智慧</TM_Book_Pools.rulePack.rulesStrings.112>
+  <TM_Book_Pools.rulePack.rulesStrings.112>TM_randTheme_Magic->智慧</TM_Book_Pools.rulePack.rulesStrings.112>
   <!--原中文: 'TM_randTheme_Magic->发现', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->discovery',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->discovery-->
-  <TM_Book_Pools.rulePack.rulesStrings.113>TM_randTheme_Magic-&amp;gt;发现</TM_Book_Pools.rulePack.rulesStrings.113>
+  <TM_Book_Pools.rulePack.rulesStrings.113>TM_randTheme_Magic->发现</TM_Book_Pools.rulePack.rulesStrings.113>
   <!--原中文: 'TM_randTheme_Magic->创建', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->creation',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->creation-->
-  <TM_Book_Pools.rulePack.rulesStrings.114>TM_randTheme_Magic-&amp;gt;创建</TM_Book_Pools.rulePack.rulesStrings.114>
+  <TM_Book_Pools.rulePack.rulesStrings.114>TM_randTheme_Magic->创建</TM_Book_Pools.rulePack.rulesStrings.114>
   <!--原中文: 'TM_randTheme_Magic->旧版', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->legacy',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->legacy-->
-  <TM_Book_Pools.rulePack.rulesStrings.115>TM_randTheme_Magic-&amp;gt;旧版</TM_Book_Pools.rulePack.rulesStrings.115>
+  <TM_Book_Pools.rulePack.rulesStrings.115>TM_randTheme_Magic->旧版</TM_Book_Pools.rulePack.rulesStrings.115>
   <!--原中文: 'TM_randTheme_Magic->炼金术', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->alchemy',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->alchemy-->
-  <TM_Book_Pools.rulePack.rulesStrings.116>TM_randTheme_Magic-&amp;gt;炼金术</TM_Book_Pools.rulePack.rulesStrings.116>
+  <TM_Book_Pools.rulePack.rulesStrings.116>TM_randTheme_Magic->炼金术</TM_Book_Pools.rulePack.rulesStrings.116>
   <!--原中文: 'TM_randTheme_Magic->命运', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->destiny',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->destiny-->
-  <TM_Book_Pools.rulePack.rulesStrings.117>TM_randTheme_Magic-&amp;gt;命运</TM_Book_Pools.rulePack.rulesStrings.117>
+  <TM_Book_Pools.rulePack.rulesStrings.117>TM_randTheme_Magic->命运</TM_Book_Pools.rulePack.rulesStrings.117>
   <!--原中文: 'TM_randTheme_Magic->和谐', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->harmony',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->harmony-->
-  <TM_Book_Pools.rulePack.rulesStrings.118>TM_randTheme_Magic-&amp;gt;和谐</TM_Book_Pools.rulePack.rulesStrings.118>
+  <TM_Book_Pools.rulePack.rulesStrings.118>TM_randTheme_Magic->和谐</TM_Book_Pools.rulePack.rulesStrings.118>
   <!--原中文: 'TM_randTheme_Magic->自然', 原英文: '无' -> 新英文: 'TM_randTheme_Magic->nature',更新于2026-02-14-->
   <!--EN: TM_randTheme_Magic->nature-->
-  <TM_Book_Pools.rulePack.rulesStrings.119>TM_randTheme_Magic-&amp;gt;自然</TM_Book_Pools.rulePack.rulesStrings.119>
+  <TM_Book_Pools.rulePack.rulesStrings.119>TM_randTheme_Magic->自然</TM_Book_Pools.rulePack.rulesStrings.119>
   <!--原中文: 'TM_randNoun_Might->战斗', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Battle',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Battle-->
-  <TM_Book_Pools.rulePack.rulesStrings.120>TM_randNoun_Might-&amp;gt;战斗</TM_Book_Pools.rulePack.rulesStrings.120>
+  <TM_Book_Pools.rulePack.rulesStrings.120>TM_randNoun_Might->战斗</TM_Book_Pools.rulePack.rulesStrings.120>
   <!--原中文: 'TM_randNoun_Might->战争', 原英文: '无' -> 新英文: 'TM_randNoun_Might->War',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->War-->
-  <TM_Book_Pools.rulePack.rulesStrings.121>TM_randNoun_Might-&amp;gt;战争</TM_Book_Pools.rulePack.rulesStrings.121>
+  <TM_Book_Pools.rulePack.rulesStrings.121>TM_randNoun_Might->战争</TM_Book_Pools.rulePack.rulesStrings.121>
   <!--原中文: 'TM_randNoun_Might->战斗', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Fight',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Fight-->
-  <TM_Book_Pools.rulePack.rulesStrings.122>TM_randNoun_Might-&amp;gt;战斗</TM_Book_Pools.rulePack.rulesStrings.122>
+  <TM_Book_Pools.rulePack.rulesStrings.122>TM_randNoun_Might->战斗</TM_Book_Pools.rulePack.rulesStrings.122>
   <!--原中文: 'TM_randNoun_Might->奋斗', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Struggle',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Struggle-->
-  <TM_Book_Pools.rulePack.rulesStrings.123>TM_randNoun_Might-&amp;gt;奋斗</TM_Book_Pools.rulePack.rulesStrings.123>
+  <TM_Book_Pools.rulePack.rulesStrings.123>TM_randNoun_Might->奋斗</TM_Book_Pools.rulePack.rulesStrings.123>
   <!--原中文: 'TM_randNoun_Might->冲突', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Conflict',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Conflict-->
-  <TM_Book_Pools.rulePack.rulesStrings.124>TM_randNoun_Might-&amp;gt;冲突</TM_Book_Pools.rulePack.rulesStrings.124>
+  <TM_Book_Pools.rulePack.rulesStrings.124>TM_randNoun_Might->冲突</TM_Book_Pools.rulePack.rulesStrings.124>
   <!--原中文: 'TM_randNoun_Might->征服', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Conquest',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Conquest-->
-  <TM_Book_Pools.rulePack.rulesStrings.125>TM_randNoun_Might-&amp;gt;征服</TM_Book_Pools.rulePack.rulesStrings.125>
+  <TM_Book_Pools.rulePack.rulesStrings.125>TM_randNoun_Might->征服</TM_Book_Pools.rulePack.rulesStrings.125>
   <!--原中文: 'TM_randNoun_Might->胜利', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Victory',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Victory-->
-  <TM_Book_Pools.rulePack.rulesStrings.126>TM_randNoun_Might-&amp;gt;胜利</TM_Book_Pools.rulePack.rulesStrings.126>
+  <TM_Book_Pools.rulePack.rulesStrings.126>TM_randNoun_Might->胜利</TM_Book_Pools.rulePack.rulesStrings.126>
   <!--原中文: 'TM_randNoun_Might->胜利', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Triumph',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Triumph-->
-  <TM_Book_Pools.rulePack.rulesStrings.127>TM_randNoun_Might-&amp;gt;胜利</TM_Book_Pools.rulePack.rulesStrings.127>
+  <TM_Book_Pools.rulePack.rulesStrings.127>TM_randNoun_Might->胜利</TM_Book_Pools.rulePack.rulesStrings.127>
   <!--原中文: 'TM_randNoun_Might->荣耀', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Glory',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Glory-->
-  <TM_Book_Pools.rulePack.rulesStrings.128>TM_randNoun_Might-&amp;gt;荣耀</TM_Book_Pools.rulePack.rulesStrings.128>
+  <TM_Book_Pools.rulePack.rulesStrings.128>TM_randNoun_Might->荣耀</TM_Book_Pools.rulePack.rulesStrings.128>
   <!--原中文: 'TM_randNoun_Might->价值', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Valor',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Valor-->
-  <TM_Book_Pools.rulePack.rulesStrings.129>TM_randNoun_Might-&amp;gt;价值</TM_Book_Pools.rulePack.rulesStrings.129>
+  <TM_Book_Pools.rulePack.rulesStrings.129>TM_randNoun_Might->价值</TM_Book_Pools.rulePack.rulesStrings.129>
   <!--原中文: 'TM_randNoun_Might->英雄主义', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Heroism',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Heroism-->
-  <TM_Book_Pools.rulePack.rulesStrings.130>TM_randNoun_Might-&amp;gt;英雄主义</TM_Book_Pools.rulePack.rulesStrings.130>
+  <TM_Book_Pools.rulePack.rulesStrings.130>TM_randNoun_Might->英雄主义</TM_Book_Pools.rulePack.rulesStrings.130>
   <!--原中文: 'TM_randNoun_Might->武器', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Weapon',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Weapon-->
-  <TM_Book_Pools.rulePack.rulesStrings.131>TM_randNoun_Might-&amp;gt;武器</TM_Book_Pools.rulePack.rulesStrings.131>
+  <TM_Book_Pools.rulePack.rulesStrings.131>TM_randNoun_Might->武器</TM_Book_Pools.rulePack.rulesStrings.131>
   <!--原中文: 'TM_randNoun_Might->屏蔽', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Shield',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Shield-->
-  <TM_Book_Pools.rulePack.rulesStrings.132>TM_randNoun_Might-&amp;gt;屏蔽</TM_Book_Pools.rulePack.rulesStrings.132>
+  <TM_Book_Pools.rulePack.rulesStrings.132>TM_randNoun_Might->屏蔽</TM_Book_Pools.rulePack.rulesStrings.132>
   <!--原中文: 'TM_randNoun_Might->装甲', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Armor',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Armor-->
-  <TM_Book_Pools.rulePack.rulesStrings.133>TM_randNoun_Might-&amp;gt;装甲</TM_Book_Pools.rulePack.rulesStrings.133>
+  <TM_Book_Pools.rulePack.rulesStrings.133>TM_randNoun_Might->装甲</TM_Book_Pools.rulePack.rulesStrings.133>
   <!--原中文: 'TM_randNoun_Might->剑', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Sword',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Sword-->
-  <TM_Book_Pools.rulePack.rulesStrings.134>TM_randNoun_Might-&amp;gt;剑</TM_Book_Pools.rulePack.rulesStrings.134>
+  <TM_Book_Pools.rulePack.rulesStrings.134>TM_randNoun_Might->剑</TM_Book_Pools.rulePack.rulesStrings.134>
   <!--原中文: 'TM_randNoun_Might->斧头', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Axe',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Axe-->
-  <TM_Book_Pools.rulePack.rulesStrings.135>TM_randNoun_Might-&amp;gt;斧头</TM_Book_Pools.rulePack.rulesStrings.135>
+  <TM_Book_Pools.rulePack.rulesStrings.135>TM_randNoun_Might->斧头</TM_Book_Pools.rulePack.rulesStrings.135>
   <!--原中文: 'TM_randNoun_Might->矛', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Spear',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Spear-->
-  <TM_Book_Pools.rulePack.rulesStrings.136>TM_randNoun_Might-&amp;gt;矛</TM_Book_Pools.rulePack.rulesStrings.136>
+  <TM_Book_Pools.rulePack.rulesStrings.136>TM_randNoun_Might->矛</TM_Book_Pools.rulePack.rulesStrings.136>
   <!--原中文: 'TM_randNoun_Might->弓', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Bow',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Bow-->
-  <TM_Book_Pools.rulePack.rulesStrings.137>TM_randNoun_Might-&amp;gt;弓</TM_Book_Pools.rulePack.rulesStrings.137>
+  <TM_Book_Pools.rulePack.rulesStrings.137>TM_randNoun_Might->弓</TM_Book_Pools.rulePack.rulesStrings.137>
   <!--原中文: 'TM_randNoun_Might->箭头', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Arrow',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Arrow-->
-  <TM_Book_Pools.rulePack.rulesStrings.138>TM_randNoun_Might-&amp;gt;箭头</TM_Book_Pools.rulePack.rulesStrings.138>
+  <TM_Book_Pools.rulePack.rulesStrings.138>TM_randNoun_Might->箭头</TM_Book_Pools.rulePack.rulesStrings.138>
   <!--原中文: 'TM_randNoun_Might->挑战', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Challenge',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Challenge-->
-  <TM_Book_Pools.rulePack.rulesStrings.139>TM_randNoun_Might-&amp;gt;挑战</TM_Book_Pools.rulePack.rulesStrings.139>
+  <TM_Book_Pools.rulePack.rulesStrings.139>TM_randNoun_Might->挑战</TM_Book_Pools.rulePack.rulesStrings.139>
   <!--原中文: 'TM_randNoun_Might->战斗', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Combat',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Combat-->
-  <TM_Book_Pools.rulePack.rulesStrings.140>TM_randNoun_Might-&amp;gt;战斗</TM_Book_Pools.rulePack.rulesStrings.140>
+  <TM_Book_Pools.rulePack.rulesStrings.140>TM_randNoun_Might->战斗</TM_Book_Pools.rulePack.rulesStrings.140>
   <!--原中文: 'TM_randNoun_Might->战士', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Warrior',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Warrior-->
-  <TM_Book_Pools.rulePack.rulesStrings.141>TM_randNoun_Might-&amp;gt;战士</TM_Book_Pools.rulePack.rulesStrings.141>
+  <TM_Book_Pools.rulePack.rulesStrings.141>TM_randNoun_Might->战士</TM_Book_Pools.rulePack.rulesStrings.141>
   <!--原中文: 'TM_randNoun_Might->角斗士', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Gladiator',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Gladiator-->
-  <TM_Book_Pools.rulePack.rulesStrings.142>TM_randNoun_Might-&amp;gt;角斗士</TM_Book_Pools.rulePack.rulesStrings.142>
+  <TM_Book_Pools.rulePack.rulesStrings.142>TM_randNoun_Might->角斗士</TM_Book_Pools.rulePack.rulesStrings.142>
   <!--原中文: 'TM_randNoun_Might->雇佣兵', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Mercenary',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Mercenary-->
-  <TM_Book_Pools.rulePack.rulesStrings.143>TM_randNoun_Might-&amp;gt;雇佣兵</TM_Book_Pools.rulePack.rulesStrings.143>
+  <TM_Book_Pools.rulePack.rulesStrings.143>TM_randNoun_Might->雇佣兵</TM_Book_Pools.rulePack.rulesStrings.143>
   <!--原中文: 'TM_randNoun_Might->骑士', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Knight',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Knight-->
-  <TM_Book_Pools.rulePack.rulesStrings.144>TM_randNoun_Might-&amp;gt;骑士</TM_Book_Pools.rulePack.rulesStrings.144>
+  <TM_Book_Pools.rulePack.rulesStrings.144>TM_randNoun_Might->骑士</TM_Book_Pools.rulePack.rulesStrings.144>
   <!--原中文: 'TM_randNoun_Might->冠军', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Champion',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Champion-->
-  <TM_Book_Pools.rulePack.rulesStrings.145>TM_randNoun_Might-&amp;gt;冠军</TM_Book_Pools.rulePack.rulesStrings.145>
+  <TM_Book_Pools.rulePack.rulesStrings.145>TM_randNoun_Might->冠军</TM_Book_Pools.rulePack.rulesStrings.145>
   <!--原中文: 'TM_randNoun_Might->士兵', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Soldier',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Soldier-->
-  <TM_Book_Pools.rulePack.rulesStrings.146>TM_randNoun_Might-&amp;gt;士兵</TM_Book_Pools.rulePack.rulesStrings.146>
+  <TM_Book_Pools.rulePack.rulesStrings.146>TM_randNoun_Might->士兵</TM_Book_Pools.rulePack.rulesStrings.146>
   <!--原中文: 'TM_randNoun_Might->战斗机', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Fighter',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Fighter-->
-  <TM_Book_Pools.rulePack.rulesStrings.147>TM_randNoun_Might-&amp;gt;战斗机</TM_Book_Pools.rulePack.rulesStrings.147>
+  <TM_Book_Pools.rulePack.rulesStrings.147>TM_randNoun_Might->战斗机</TM_Book_Pools.rulePack.rulesStrings.147>
   <!--原中文: 'TM_randNoun_Might->武士', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Samurai',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Samurai-->
-  <TM_Book_Pools.rulePack.rulesStrings.148>TM_randNoun_Might-&amp;gt;武士</TM_Book_Pools.rulePack.rulesStrings.148>
+  <TM_Book_Pools.rulePack.rulesStrings.148>TM_randNoun_Might->武士</TM_Book_Pools.rulePack.rulesStrings.148>
   <!--原中文: 'TM_randNoun_Might->忍者', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Ninja',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Ninja-->
-  <TM_Book_Pools.rulePack.rulesStrings.149>TM_randNoun_Might-&amp;gt;忍者</TM_Book_Pools.rulePack.rulesStrings.149>
+  <TM_Book_Pools.rulePack.rulesStrings.149>TM_randNoun_Might->忍者</TM_Book_Pools.rulePack.rulesStrings.149>
   <!--原中文: 'TM_randNoun_Might->刺客', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Assassin',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Assassin-->
-  <TM_Book_Pools.rulePack.rulesStrings.150>TM_randNoun_Might-&amp;gt;刺客</TM_Book_Pools.rulePack.rulesStrings.150>
+  <TM_Book_Pools.rulePack.rulesStrings.150>TM_randNoun_Might->刺客</TM_Book_Pools.rulePack.rulesStrings.150>
   <!--原中文: 'TM_randNoun_Might->突击队', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Commando',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Commando-->
-  <TM_Book_Pools.rulePack.rulesStrings.151>TM_randNoun_Might-&amp;gt;突击队</TM_Book_Pools.rulePack.rulesStrings.151>
+  <TM_Book_Pools.rulePack.rulesStrings.151>TM_randNoun_Might->突击队</TM_Book_Pools.rulePack.rulesStrings.151>
   <!--原中文: 'TM_randNoun_Might->狂战士', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Berserker',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Berserker-->
-  <TM_Book_Pools.rulePack.rulesStrings.152>TM_randNoun_Might-&amp;gt;狂战士</TM_Book_Pools.rulePack.rulesStrings.152>
+  <TM_Book_Pools.rulePack.rulesStrings.152>TM_randNoun_Might->狂战士</TM_Book_Pools.rulePack.rulesStrings.152>
   <!--原中文: 'TM_randNoun_Might->圣骑士', 原英文: '无' -> 新英文: 'TM_randNoun_Might->Paladin',更新于2026-02-14-->
   <!--EN: TM_randNoun_Might->Paladin-->
-  <TM_Book_Pools.rulePack.rulesStrings.153>TM_randNoun_Might-&amp;gt;圣骑士</TM_Book_Pools.rulePack.rulesStrings.153>
+  <TM_Book_Pools.rulePack.rulesStrings.153>TM_randNoun_Might->圣骑士</TM_Book_Pools.rulePack.rulesStrings.153>
   <!--原中文: 'subject_Might->战斗', 原英文: '无' -> 新英文: 'subject_Might->Battle',更新于2026-02-14-->
   <!--EN: subject_Might->Battle-->
-  <TM_Book_Pools.rulePack.rulesStrings.154>subject_Might-&amp;gt;战斗</TM_Book_Pools.rulePack.rulesStrings.154>
+  <TM_Book_Pools.rulePack.rulesStrings.154>subject_Might->战斗</TM_Book_Pools.rulePack.rulesStrings.154>
   <!--原中文: 'subject_Might->战争', 原英文: '无' -> 新英文: 'subject_Might->War',更新于2026-02-14-->
   <!--EN: subject_Might->War-->
-  <TM_Book_Pools.rulePack.rulesStrings.155>subject_Might-&amp;gt;战争</TM_Book_Pools.rulePack.rulesStrings.155>
+  <TM_Book_Pools.rulePack.rulesStrings.155>subject_Might->战争</TM_Book_Pools.rulePack.rulesStrings.155>
   <!--原中文: 'subject_Might->冲突', 原英文: '无' -> 新英文: 'subject_Might->Conflict',更新于2026-02-14-->
   <!--EN: subject_Might->Conflict-->
-  <TM_Book_Pools.rulePack.rulesStrings.156>subject_Might-&amp;gt;冲突</TM_Book_Pools.rulePack.rulesStrings.156>
+  <TM_Book_Pools.rulePack.rulesStrings.156>subject_Might->冲突</TM_Book_Pools.rulePack.rulesStrings.156>
   <!--原中文: 'subject_Might->战斗', 原英文: '无' -> 新英文: 'subject_Might->Combat',更新于2026-02-14-->
   <!--EN: subject_Might->Combat-->
-  <TM_Book_Pools.rulePack.rulesStrings.157>subject_Might-&amp;gt;战斗</TM_Book_Pools.rulePack.rulesStrings.157>
+  <TM_Book_Pools.rulePack.rulesStrings.157>subject_Might->战斗</TM_Book_Pools.rulePack.rulesStrings.157>
   <!--原中文: 'subject_Might->战斗', 原英文: '无' -> 新英文: 'subject_Might->Fight',更新于2026-02-14-->
   <!--EN: subject_Might->Fight-->
-  <TM_Book_Pools.rulePack.rulesStrings.158>subject_Might-&amp;gt;战斗</TM_Book_Pools.rulePack.rulesStrings.158>
+  <TM_Book_Pools.rulePack.rulesStrings.158>subject_Might->战斗</TM_Book_Pools.rulePack.rulesStrings.158>
   <!--原中文: 'subject_Might->奋斗', 原英文: '无' -> 新英文: 'subject_Might->Struggle',更新于2026-02-14-->
   <!--EN: subject_Might->Struggle-->
-  <TM_Book_Pools.rulePack.rulesStrings.159>subject_Might-&amp;gt;奋斗</TM_Book_Pools.rulePack.rulesStrings.159>
+  <TM_Book_Pools.rulePack.rulesStrings.159>subject_Might->奋斗</TM_Book_Pools.rulePack.rulesStrings.159>
   <!--原中文: 'subject_Might->征服', 原英文: '无' -> 新英文: 'subject_Might->Conquest',更新于2026-02-14-->
   <!--EN: subject_Might->Conquest-->
-  <TM_Book_Pools.rulePack.rulesStrings.160>subject_Might-&amp;gt;征服</TM_Book_Pools.rulePack.rulesStrings.160>
+  <TM_Book_Pools.rulePack.rulesStrings.160>subject_Might->征服</TM_Book_Pools.rulePack.rulesStrings.160>
   <!--原中文: 'subject_Might->胜利', 原英文: '无' -> 新英文: 'subject_Might->Victory',更新于2026-02-14-->
   <!--EN: subject_Might->Victory-->
-  <TM_Book_Pools.rulePack.rulesStrings.161>subject_Might-&amp;gt;胜利</TM_Book_Pools.rulePack.rulesStrings.161>
+  <TM_Book_Pools.rulePack.rulesStrings.161>subject_Might->胜利</TM_Book_Pools.rulePack.rulesStrings.161>
   <!--原中文: 'subject_Might->胜利', 原英文: '无' -> 新英文: 'subject_Might->Triumph',更新于2026-02-14-->
   <!--EN: subject_Might->Triumph-->
-  <TM_Book_Pools.rulePack.rulesStrings.162>subject_Might-&amp;gt;胜利</TM_Book_Pools.rulePack.rulesStrings.162>
+  <TM_Book_Pools.rulePack.rulesStrings.162>subject_Might->胜利</TM_Book_Pools.rulePack.rulesStrings.162>
   <!--原中文: 'subject_Might->荣耀', 原英文: '无' -> 新英文: 'subject_Might->Glory',更新于2026-02-14-->
   <!--EN: subject_Might->Glory-->
-  <TM_Book_Pools.rulePack.rulesStrings.163>subject_Might-&amp;gt;荣耀</TM_Book_Pools.rulePack.rulesStrings.163>
+  <TM_Book_Pools.rulePack.rulesStrings.163>subject_Might->荣耀</TM_Book_Pools.rulePack.rulesStrings.163>
   <!--原中文: 'subject_Might->价值', 原英文: '无' -> 新英文: 'subject_Might->Valor',更新于2026-02-14-->
   <!--EN: subject_Might->Valor-->
-  <TM_Book_Pools.rulePack.rulesStrings.164>subject_Might-&amp;gt;价值</TM_Book_Pools.rulePack.rulesStrings.164>
+  <TM_Book_Pools.rulePack.rulesStrings.164>subject_Might->价值</TM_Book_Pools.rulePack.rulesStrings.164>
   <!--原中文: 'subject_Might->英雄主义', 原英文: '无' -> 新英文: 'subject_Might->Heroism',更新于2026-02-14-->
   <!--EN: subject_Might->Heroism-->
-  <TM_Book_Pools.rulePack.rulesStrings.165>subject_Might-&amp;gt;英雄主义</TM_Book_Pools.rulePack.rulesStrings.165>
+  <TM_Book_Pools.rulePack.rulesStrings.165>subject_Might->英雄主义</TM_Book_Pools.rulePack.rulesStrings.165>
   <!--原中文: 'subject_Might->武器', 原英文: '无' -> 新英文: 'subject_Might->Weaponry',更新于2026-02-14-->
   <!--EN: subject_Might->Weaponry-->
-  <TM_Book_Pools.rulePack.rulesStrings.166>subject_Might-&amp;gt;武器</TM_Book_Pools.rulePack.rulesStrings.166>
+  <TM_Book_Pools.rulePack.rulesStrings.166>subject_Might->武器</TM_Book_Pools.rulePack.rulesStrings.166>
   <!--原中文: 'subject_Might->战术', 原英文: '无' -> 新英文: 'subject_Might->Tactics',更新于2026-02-14-->
   <!--EN: subject_Might->Tactics-->
-  <TM_Book_Pools.rulePack.rulesStrings.167>subject_Might-&amp;gt;战术</TM_Book_Pools.rulePack.rulesStrings.167>
+  <TM_Book_Pools.rulePack.rulesStrings.167>subject_Might->战术</TM_Book_Pools.rulePack.rulesStrings.167>
   <!--原中文: 'subject_Might->策略', 原英文: '无' -> 新英文: 'subject_Might->Strategy',更新于2026-02-14-->
   <!--EN: subject_Might->Strategy-->
-  <TM_Book_Pools.rulePack.rulesStrings.168>subject_Might-&amp;gt;策略</TM_Book_Pools.rulePack.rulesStrings.168>
+  <TM_Book_Pools.rulePack.rulesStrings.168>subject_Might->策略</TM_Book_Pools.rulePack.rulesStrings.168>
   <!--原中文: 'subject_Might->战争', 原英文: '无' -> 新英文: 'subject_Might->Warfare',更新于2026-02-14-->
   <!--EN: subject_Might->Warfare-->
-  <TM_Book_Pools.rulePack.rulesStrings.169>subject_Might-&amp;gt;战争</TM_Book_Pools.rulePack.rulesStrings.169>
+  <TM_Book_Pools.rulePack.rulesStrings.169>subject_Might->战争</TM_Book_Pools.rulePack.rulesStrings.169>
   <!--原中文: 'subject_Might->小冲突', 原英文: '无' -> 新英文: 'subject_Might->Skirmish',更新于2026-02-14-->
   <!--EN: subject_Might->Skirmish-->
-  <TM_Book_Pools.rulePack.rulesStrings.170>subject_Might-&amp;gt;小冲突</TM_Book_Pools.rulePack.rulesStrings.170>
+  <TM_Book_Pools.rulePack.rulesStrings.170>subject_Might->小冲突</TM_Book_Pools.rulePack.rulesStrings.170>
   <!--原中文: 'subject_Might->攻击', 原英文: '无' -> 新英文: 'subject_Might->Assault',更新于2026-02-14-->
   <!--EN: subject_Might->Assault-->
-  <TM_Book_Pools.rulePack.rulesStrings.171>subject_Might-&amp;gt;攻击</TM_Book_Pools.rulePack.rulesStrings.171>
+  <TM_Book_Pools.rulePack.rulesStrings.171>subject_Might->攻击</TM_Book_Pools.rulePack.rulesStrings.171>
   <!--原中文: 'subject_Might->防御', 原英文: '无' -> 新英文: 'subject_Might->Defense',更新于2026-02-14-->
   <!--EN: subject_Might->Defense-->
-  <TM_Book_Pools.rulePack.rulesStrings.172>subject_Might-&amp;gt;防御</TM_Book_Pools.rulePack.rulesStrings.172>
+  <TM_Book_Pools.rulePack.rulesStrings.172>subject_Might->防御</TM_Book_Pools.rulePack.rulesStrings.172>
   <!--原中文: 'subject_Might->武术', 原英文: '无' -> 新英文: 'subject_Might->Martial Arts',更新于2026-02-14-->
   <!--EN: subject_Might->Martial Arts-->
-  <TM_Book_Pools.rulePack.rulesStrings.173>subject_Might-&amp;gt;武术</TM_Book_Pools.rulePack.rulesStrings.173>
+  <TM_Book_Pools.rulePack.rulesStrings.173>subject_Might->武术</TM_Book_Pools.rulePack.rulesStrings.173>
   <!--原中文: 'subject_Might->决斗', 原英文: '无' -> 新英文: 'subject_Might->Duel',更新于2026-02-14-->
   <!--EN: subject_Might->Duel-->
-  <TM_Book_Pools.rulePack.rulesStrings.174>subject_Might-&amp;gt;决斗</TM_Book_Pools.rulePack.rulesStrings.174>
+  <TM_Book_Pools.rulePack.rulesStrings.174>subject_Might->决斗</TM_Book_Pools.rulePack.rulesStrings.174>
   <!--原中文: 'subject_Might->竞技场战斗', 原英文: '无' -> 新英文: 'subject_Might->Arena Combat',更新于2026-02-14-->
   <!--EN: subject_Might->Arena Combat-->
-  <TM_Book_Pools.rulePack.rulesStrings.175>subject_Might-&amp;gt;竞技场战斗</TM_Book_Pools.rulePack.rulesStrings.175>
+  <TM_Book_Pools.rulePack.rulesStrings.175>subject_Might->竞技场战斗</TM_Book_Pools.rulePack.rulesStrings.175>
   <!--原中文: 'subject_Might->军事', 原英文: '无' -> 新英文: 'subject_Might->Military',更新于2026-02-14-->
   <!--EN: subject_Might->Military-->
-  <TM_Book_Pools.rulePack.rulesStrings.176>subject_Might-&amp;gt;军事</TM_Book_Pools.rulePack.rulesStrings.176>
+  <TM_Book_Pools.rulePack.rulesStrings.176>subject_Might->军事</TM_Book_Pools.rulePack.rulesStrings.176>
   <!--原中文: 'subject_Might->剑术', 原英文: '无' -> 新英文: 'subject_Might->Swordplay',更新于2026-02-14-->
   <!--EN: subject_Might->Swordplay-->
-  <TM_Book_Pools.rulePack.rulesStrings.177>subject_Might-&amp;gt;剑术</TM_Book_Pools.rulePack.rulesStrings.177>
+  <TM_Book_Pools.rulePack.rulesStrings.177>subject_Might->剑术</TM_Book_Pools.rulePack.rulesStrings.177>
   <!--原中文: 'subject_Might->射箭', 原英文: '无' -> 新英文: 'subject_Might->Archery',更新于2026-02-14-->
   <!--EN: subject_Might->Archery-->
-  <TM_Book_Pools.rulePack.rulesStrings.178>subject_Might-&amp;gt;射箭</TM_Book_Pools.rulePack.rulesStrings.178>
+  <TM_Book_Pools.rulePack.rulesStrings.178>subject_Might->射箭</TM_Book_Pools.rulePack.rulesStrings.178>
   <!--原中文: 'subject_Might->近战', 原英文: '无' -> 新英文: 'subject_Might->Melee',更新于2026-02-14-->
   <!--EN: subject_Might->Melee-->
-  <TM_Book_Pools.rulePack.rulesStrings.179>subject_Might-&amp;gt;近战</TM_Book_Pools.rulePack.rulesStrings.179>
+  <TM_Book_Pools.rulePack.rulesStrings.179>subject_Might->近战</TM_Book_Pools.rulePack.rulesStrings.179>
   <!--原中文: 'subject_Might->近距离格斗', 原英文: '无' -> 新英文: 'subject_Might->Close Quarters Combat',更新于2026-02-14-->
   <!--EN: subject_Might->Close Quarters Combat-->
-  <TM_Book_Pools.rulePack.rulesStrings.180>subject_Might-&amp;gt;近距离格斗</TM_Book_Pools.rulePack.rulesStrings.180>
+  <TM_Book_Pools.rulePack.rulesStrings.180>subject_Might->近距离格斗</TM_Book_Pools.rulePack.rulesStrings.180>
   <!--原中文: 'subject_Might->战士代码', 原英文: '无' -> 新英文: 'subject_Might->Warrior's Code',更新于2026-02-14-->
   <!--EN: subject_Might->Warrior's Code-->
-  <TM_Book_Pools.rulePack.rulesStrings.181>subject_Might-&amp;gt;战士代码</TM_Book_Pools.rulePack.rulesStrings.181>
+  <TM_Book_Pools.rulePack.rulesStrings.181>subject_Might->战士代码</TM_Book_Pools.rulePack.rulesStrings.181>
   <!--原中文: 'subject_Might->命令', 原英文: '无' -> 新英文: 'subject_Might->Command',更新于2026-02-14-->
   <!--EN: subject_Might->Command-->
-  <TM_Book_Pools.rulePack.rulesStrings.182>subject_Might-&amp;gt;命令</TM_Book_Pools.rulePack.rulesStrings.182>
+  <TM_Book_Pools.rulePack.rulesStrings.182>subject_Might->命令</TM_Book_Pools.rulePack.rulesStrings.182>
   <!--原中文: 'subject_Might->伏击', 原英文: '无' -> 新英文: 'subject_Might->Ambush',更新于2026-02-14-->
   <!--EN: subject_Might->Ambush-->
-  <TM_Book_Pools.rulePack.rulesStrings.183>subject_Might-&amp;gt;伏击</TM_Book_Pools.rulePack.rulesStrings.183>
+  <TM_Book_Pools.rulePack.rulesStrings.183>subject_Might->伏击</TM_Book_Pools.rulePack.rulesStrings.183>
   <!--原中文: 'subject_Might->围攻', 原英文: '无' -> 新英文: 'subject_Might->Siege',更新于2026-02-14-->
   <!--EN: subject_Might->Siege-->
-  <TM_Book_Pools.rulePack.rulesStrings.184>subject_Might-&amp;gt;围攻</TM_Book_Pools.rulePack.rulesStrings.184>
+  <TM_Book_Pools.rulePack.rulesStrings.184>subject_Might->围攻</TM_Book_Pools.rulePack.rulesStrings.184>
   <!--原中文: 'subject_Might->游击战', 原英文: '无' -> 新英文: 'subject_Might->Guerrilla Warfare',更新于2026-02-14-->
   <!--EN: subject_Might->Guerrilla Warfare-->
-  <TM_Book_Pools.rulePack.rulesStrings.185>subject_Might-&amp;gt;游击战</TM_Book_Pools.rulePack.rulesStrings.185>
+  <TM_Book_Pools.rulePack.rulesStrings.185>subject_Might->游击战</TM_Book_Pools.rulePack.rulesStrings.185>
   <!--原中文: 'subject_Might->阵型', 原英文: '无' -> 新英文: 'subject_Might->Formation',更新于2026-02-14-->
   <!--EN: subject_Might->Formation-->
-  <TM_Book_Pools.rulePack.rulesStrings.186>subject_Might-&amp;gt;阵型</TM_Book_Pools.rulePack.rulesStrings.186>
+  <TM_Book_Pools.rulePack.rulesStrings.186>subject_Might->阵型</TM_Book_Pools.rulePack.rulesStrings.186>
   <!--原中文: 'subject_Might->战场', 原英文: '无' -> 新英文: 'subject_Might->Battlefield',更新于2026-02-14-->
   <!--EN: subject_Might->Battlefield-->
-  <TM_Book_Pools.rulePack.rulesStrings.187>subject_Might-&amp;gt;战场</TM_Book_Pools.rulePack.rulesStrings.187>
+  <TM_Book_Pools.rulePack.rulesStrings.187>subject_Might->战场</TM_Book_Pools.rulePack.rulesStrings.187>
   <!--原中文: 'subject_Might->武士精神', 原英文: '无' -> 新英文: 'subject_Might->Warrior Spirit',更新于2026-02-14-->
   <!--EN: subject_Might->Warrior Spirit-->
-  <TM_Book_Pools.rulePack.rulesStrings.188>subject_Might-&amp;gt;武士精神</TM_Book_Pools.rulePack.rulesStrings.188>
+  <TM_Book_Pools.rulePack.rulesStrings.188>subject_Might->武士精神</TM_Book_Pools.rulePack.rulesStrings.188>
   <!--原中文: 'TM_randAdjective_Might->传奇的', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Legendary',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Legendary-->
-  <TM_Book_Pools.rulePack.rulesStrings.189>TM_randAdjective_Might-&amp;gt;传奇的</TM_Book_Pools.rulePack.rulesStrings.189>
+  <TM_Book_Pools.rulePack.rulesStrings.189>TM_randAdjective_Might->传奇的</TM_Book_Pools.rulePack.rulesStrings.189>
   <!--原中文: 'TM_randAdjective_Might->英雄', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Heroic',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Heroic-->
-  <TM_Book_Pools.rulePack.rulesStrings.190>TM_randAdjective_Might-&amp;gt;英雄</TM_Book_Pools.rulePack.rulesStrings.190>
+  <TM_Book_Pools.rulePack.rulesStrings.190>TM_randAdjective_Might->英雄</TM_Book_Pools.rulePack.rulesStrings.190>
   <!--原中文: 'TM_randAdjective_Might->无所畏惧', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Fearless',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Fearless-->
-  <TM_Book_Pools.rulePack.rulesStrings.191>TM_randAdjective_Might-&amp;gt;无所畏惧</TM_Book_Pools.rulePack.rulesStrings.191>
+  <TM_Book_Pools.rulePack.rulesStrings.191>TM_randAdjective_Might->无所畏惧</TM_Book_Pools.rulePack.rulesStrings.191>
   <!--原中文: 'TM_randAdjective_Might->英勇', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Valiant',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Valiant-->
-  <TM_Book_Pools.rulePack.rulesStrings.192>TM_randAdjective_Might-&amp;gt;英勇</TM_Book_Pools.rulePack.rulesStrings.192>
+  <TM_Book_Pools.rulePack.rulesStrings.192>TM_randAdjective_Might->英勇</TM_Book_Pools.rulePack.rulesStrings.192>
   <!--原中文: 'TM_randAdjective_Might->熟练', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Skilled',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Skilled-->
-  <TM_Book_Pools.rulePack.rulesStrings.193>TM_randAdjective_Might-&amp;gt;熟练</TM_Book_Pools.rulePack.rulesStrings.193>
+  <TM_Book_Pools.rulePack.rulesStrings.193>TM_randAdjective_Might->熟练</TM_Book_Pools.rulePack.rulesStrings.193>
   <!--原中文: 'TM_randAdjective_Might->勇敢', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Brave',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Brave-->
-  <TM_Book_Pools.rulePack.rulesStrings.194>TM_randAdjective_Might-&amp;gt;勇敢</TM_Book_Pools.rulePack.rulesStrings.194>
+  <TM_Book_Pools.rulePack.rulesStrings.194>TM_randAdjective_Might->勇敢</TM_Book_Pools.rulePack.rulesStrings.194>
   <!--原中文: 'TM_randAdjective_Might->激烈', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Fierce',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Fierce-->
-  <TM_Book_Pools.rulePack.rulesStrings.195>TM_randAdjective_Might-&amp;gt;激烈</TM_Book_Pools.rulePack.rulesStrings.195>
+  <TM_Book_Pools.rulePack.rulesStrings.195>TM_randAdjective_Might->激烈</TM_Book_Pools.rulePack.rulesStrings.195>
   <!--原中文: 'TM_randAdjective_Might->强大', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Formidable',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Formidable-->
-  <TM_Book_Pools.rulePack.rulesStrings.196>TM_randAdjective_Might-&amp;gt;强大</TM_Book_Pools.rulePack.rulesStrings.196>
+  <TM_Book_Pools.rulePack.rulesStrings.196>TM_randAdjective_Might->强大</TM_Book_Pools.rulePack.rulesStrings.196>
   <!--原中文: 'TM_randAdjective_Might->强大', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Mighty',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Mighty-->
-  <TM_Book_Pools.rulePack.rulesStrings.197>TM_randAdjective_Might-&amp;gt;强大</TM_Book_Pools.rulePack.rulesStrings.197>
+  <TM_Book_Pools.rulePack.rulesStrings.197>TM_randAdjective_Might->强大</TM_Book_Pools.rulePack.rulesStrings.197>
   <!--原中文: 'TM_randAdjective_Might->迅速', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Swift',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Swift-->
-  <TM_Book_Pools.rulePack.rulesStrings.198>TM_randAdjective_Might-&amp;gt;迅速</TM_Book_Pools.rulePack.rulesStrings.198>
+  <TM_Book_Pools.rulePack.rulesStrings.198>TM_randAdjective_Might->迅速</TM_Book_Pools.rulePack.rulesStrings.198>
   <!--原中文: 'TM_randAdjective_Might->敏捷', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Agile',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Agile-->
-  <TM_Book_Pools.rulePack.rulesStrings.199>TM_randAdjective_Might-&amp;gt;敏捷</TM_Book_Pools.rulePack.rulesStrings.199>
+  <TM_Book_Pools.rulePack.rulesStrings.199>TM_randAdjective_Might->敏捷</TM_Book_Pools.rulePack.rulesStrings.199>
   <!--原中文: 'TM_randAdjective_Might->狡猾', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Cunning',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Cunning-->
-  <TM_Book_Pools.rulePack.rulesStrings.200>TM_randAdjective_Might-&amp;gt;狡猾</TM_Book_Pools.rulePack.rulesStrings.200>
+  <TM_Book_Pools.rulePack.rulesStrings.200>TM_randAdjective_Might->狡猾</TM_Book_Pools.rulePack.rulesStrings.200>
   <!--原中文: 'TM_randAdjective_Might->顽强', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Tenacious',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Tenacious-->
-  <TM_Book_Pools.rulePack.rulesStrings.201>TM_randAdjective_Might-&amp;gt;顽强</TM_Book_Pools.rulePack.rulesStrings.201>
+  <TM_Book_Pools.rulePack.rulesStrings.201>TM_randAdjective_Might->顽强</TM_Book_Pools.rulePack.rulesStrings.201>
   <!--原中文: 'TM_randAdjective_Might->弹性', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Resilient',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Resilient-->
-  <TM_Book_Pools.rulePack.rulesStrings.202>TM_randAdjective_Might-&amp;gt;弹性</TM_Book_Pools.rulePack.rulesStrings.202>
+  <TM_Book_Pools.rulePack.rulesStrings.202>TM_randAdjective_Might->弹性</TM_Book_Pools.rulePack.rulesStrings.202>
   <!--原中文: 'TM_randAdjective_Might->坚定', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Stalwart',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Stalwart-->
-  <TM_Book_Pools.rulePack.rulesStrings.203>TM_randAdjective_Might-&amp;gt;坚定</TM_Book_Pools.rulePack.rulesStrings.203>
+  <TM_Book_Pools.rulePack.rulesStrings.203>TM_randAdjective_Might->坚定</TM_Book_Pools.rulePack.rulesStrings.203>
   <!--原中文: 'TM_randAdjective_Might->大胆', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Daring',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Daring-->
-  <TM_Book_Pools.rulePack.rulesStrings.204>TM_randAdjective_Might-&amp;gt;大胆</TM_Book_Pools.rulePack.rulesStrings.204>
+  <TM_Book_Pools.rulePack.rulesStrings.204>TM_randAdjective_Might->大胆</TM_Book_Pools.rulePack.rulesStrings.204>
   <!--原中文: 'TM_randAdjective_Might->坚韧', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Gritty',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Gritty-->
-  <TM_Book_Pools.rulePack.rulesStrings.205>TM_randAdjective_Might-&amp;gt;坚韧</TM_Book_Pools.rulePack.rulesStrings.205>
+  <TM_Book_Pools.rulePack.rulesStrings.205>TM_randAdjective_Might->坚韧</TM_Book_Pools.rulePack.rulesStrings.205>
   <!--原中文: 'TM_randAdjective_Might->粗体', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Bold',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Bold-->
-  <TM_Book_Pools.rulePack.rulesStrings.206>TM_randAdjective_Might-&amp;gt;粗体</TM_Book_Pools.rulePack.rulesStrings.206>
+  <TM_Book_Pools.rulePack.rulesStrings.206>TM_randAdjective_Might->粗体</TM_Book_Pools.rulePack.rulesStrings.206>
   <!--原中文: 'TM_randAdjective_Might->不屈', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Unyielding',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Unyielding-->
-  <TM_Book_Pools.rulePack.rulesStrings.207>TM_randAdjective_Might-&amp;gt;不屈</TM_Book_Pools.rulePack.rulesStrings.207>
+  <TM_Book_Pools.rulePack.rulesStrings.207>TM_randAdjective_Might->不屈</TM_Book_Pools.rulePack.rulesStrings.207>
   <!--原中文: 'TM_randAdjective_Might->警惕', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Vigilant',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Vigilant-->
-  <TM_Book_Pools.rulePack.rulesStrings.208>TM_randAdjective_Might-&amp;gt;警惕</TM_Book_Pools.rulePack.rulesStrings.208>
+  <TM_Book_Pools.rulePack.rulesStrings.208>TM_randAdjective_Might->警惕</TM_Book_Pools.rulePack.rulesStrings.208>
   <!--原中文: 'TM_randAdjective_Might->势不可挡', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Unstoppable',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Unstoppable-->
-  <TM_Book_Pools.rulePack.rulesStrings.209>TM_randAdjective_Might-&amp;gt;势不可挡</TM_Book_Pools.rulePack.rulesStrings.209>
+  <TM_Book_Pools.rulePack.rulesStrings.209>TM_randAdjective_Might->势不可挡</TM_Book_Pools.rulePack.rulesStrings.209>
   <!--原中文: 'TM_randAdjective_Might->无情', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Relentless',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Relentless-->
-  <TM_Book_Pools.rulePack.rulesStrings.210>TM_randAdjective_Might-&amp;gt;无情</TM_Book_Pools.rulePack.rulesStrings.210>
+  <TM_Book_Pools.rulePack.rulesStrings.210>TM_randAdjective_Might->无情</TM_Book_Pools.rulePack.rulesStrings.210>
   <!--原中文: 'TM_randAdjective_Might->无情', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Ruthless',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Ruthless-->
-  <TM_Book_Pools.rulePack.rulesStrings.211>TM_randAdjective_Might-&amp;gt;无情</TM_Book_Pools.rulePack.rulesStrings.211>
+  <TM_Book_Pools.rulePack.rulesStrings.211>TM_randAdjective_Might->无情</TM_Book_Pools.rulePack.rulesStrings.211>
   <!--原中文: 'TM_randAdjective_Might->战术', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Tactical',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Tactical-->
-  <TM_Book_Pools.rulePack.rulesStrings.212>TM_randAdjective_Might-&amp;gt;战术</TM_Book_Pools.rulePack.rulesStrings.212>
+  <TM_Book_Pools.rulePack.rulesStrings.212>TM_randAdjective_Might->战术</TM_Book_Pools.rulePack.rulesStrings.212>
   <!--原中文: 'TM_randAdjective_Might->战略', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Strategic',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Strategic-->
-  <TM_Book_Pools.rulePack.rulesStrings.213>TM_randAdjective_Might-&amp;gt;战略</TM_Book_Pools.rulePack.rulesStrings.213>
+  <TM_Book_Pools.rulePack.rulesStrings.213>TM_randAdjective_Might->战略</TM_Book_Pools.rulePack.rulesStrings.213>
   <!--原中文: 'TM_randAdjective_Might->遵守纪律', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Disciplined',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Disciplined-->
-  <TM_Book_Pools.rulePack.rulesStrings.214>TM_randAdjective_Might-&amp;gt;遵守纪律</TM_Book_Pools.rulePack.rulesStrings.214>
+  <TM_Book_Pools.rulePack.rulesStrings.214>TM_randAdjective_Might->遵守纪律</TM_Book_Pools.rulePack.rulesStrings.214>
   <!--原中文: 'TM_randAdjective_Might->尊敬', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Honorable',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Honorable-->
-  <TM_Book_Pools.rulePack.rulesStrings.215>TM_randAdjective_Might-&amp;gt;尊敬</TM_Book_Pools.rulePack.rulesStrings.215>
+  <TM_Book_Pools.rulePack.rulesStrings.215>TM_randAdjective_Might->尊敬</TM_Book_Pools.rulePack.rulesStrings.215>
   <!--原中文: 'TM_randAdjective_Might->野蛮', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Savage',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Savage-->
-  <TM_Book_Pools.rulePack.rulesStrings.216>TM_randAdjective_Might-&amp;gt;野蛮</TM_Book_Pools.rulePack.rulesStrings.216>
+  <TM_Book_Pools.rulePack.rulesStrings.216>TM_randAdjective_Might->野蛮</TM_Book_Pools.rulePack.rulesStrings.216>
   <!--原中文: 'TM_randAdjective_Might->致命', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Lethal',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Lethal-->
-  <TM_Book_Pools.rulePack.rulesStrings.217>TM_randAdjective_Might-&amp;gt;致命</TM_Book_Pools.rulePack.rulesStrings.217>
+  <TM_Book_Pools.rulePack.rulesStrings.217>TM_randAdjective_Might->致命</TM_Book_Pools.rulePack.rulesStrings.217>
   <!--原中文: 'TM_randAdjective_Might->高贵', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Noble',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Noble-->
-  <TM_Book_Pools.rulePack.rulesStrings.218>TM_randAdjective_Might-&amp;gt;高贵</TM_Book_Pools.rulePack.rulesStrings.218>
+  <TM_Book_Pools.rulePack.rulesStrings.218>TM_randAdjective_Might->高贵</TM_Book_Pools.rulePack.rulesStrings.218>
   <!--原中文: 'TM_randAdjective_Might->无情', 原英文: '无' -> 新英文: 'TM_randAdjective_Might->Merciless',更新于2026-02-14-->
   <!--EN: TM_randAdjective_Might->Merciless-->
-  <TM_Book_Pools.rulePack.rulesStrings.219>TM_randAdjective_Might-&amp;gt;无情</TM_Book_Pools.rulePack.rulesStrings.219>
+  <TM_Book_Pools.rulePack.rulesStrings.219>TM_randAdjective_Might->无情</TM_Book_Pools.rulePack.rulesStrings.219>
   <!--原中文: 'TM_randTheme_Might->胜利', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Victory',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Victory-->
-  <TM_Book_Pools.rulePack.rulesStrings.220>TM_randTheme_Might-&amp;gt;胜利</TM_Book_Pools.rulePack.rulesStrings.220>
+  <TM_Book_Pools.rulePack.rulesStrings.220>TM_randTheme_Might->胜利</TM_Book_Pools.rulePack.rulesStrings.220>
   <!--原中文: 'TM_randTheme_Might->荣誉', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Honor',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Honor-->
-  <TM_Book_Pools.rulePack.rulesStrings.221>TM_randTheme_Might-&amp;gt;荣誉</TM_Book_Pools.rulePack.rulesStrings.221>
+  <TM_Book_Pools.rulePack.rulesStrings.221>TM_randTheme_Might->荣誉</TM_Book_Pools.rulePack.rulesStrings.221>
   <!--原中文: 'TM_randTheme_Might->价值', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Valor',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Valor-->
-  <TM_Book_Pools.rulePack.rulesStrings.222>TM_randTheme_Might-&amp;gt;价值</TM_Book_Pools.rulePack.rulesStrings.222>
+  <TM_Book_Pools.rulePack.rulesStrings.222>TM_randTheme_Might->价值</TM_Book_Pools.rulePack.rulesStrings.222>
   <!--原中文: 'TM_randTheme_Might->勇气', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Courage',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Courage-->
-  <TM_Book_Pools.rulePack.rulesStrings.223>TM_randTheme_Might-&amp;gt;勇气</TM_Book_Pools.rulePack.rulesStrings.223>
+  <TM_Book_Pools.rulePack.rulesStrings.223>TM_randTheme_Might->勇气</TM_Book_Pools.rulePack.rulesStrings.223>
   <!--原中文: 'TM_randTheme_Might->荣耀', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Glory',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Glory-->
-  <TM_Book_Pools.rulePack.rulesStrings.224>TM_randTheme_Might-&amp;gt;荣耀</TM_Book_Pools.rulePack.rulesStrings.224>
+  <TM_Book_Pools.rulePack.rulesStrings.224>TM_randTheme_Might->荣耀</TM_Book_Pools.rulePack.rulesStrings.224>
   <!--原中文: 'TM_randTheme_Might->策略', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Strategy',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Strategy-->
-  <TM_Book_Pools.rulePack.rulesStrings.225>TM_randTheme_Might-&amp;gt;策略</TM_Book_Pools.rulePack.rulesStrings.225>
+  <TM_Book_Pools.rulePack.rulesStrings.225>TM_randTheme_Might->策略</TM_Book_Pools.rulePack.rulesStrings.225>
   <!--原中文: 'TM_randTheme_Might->战术', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Tactics',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Tactics-->
-  <TM_Book_Pools.rulePack.rulesStrings.226>TM_randTheme_Might-&amp;gt;战术</TM_Book_Pools.rulePack.rulesStrings.226>
+  <TM_Book_Pools.rulePack.rulesStrings.226>TM_randTheme_Might->战术</TM_Book_Pools.rulePack.rulesStrings.226>
   <!--原中文: 'TM_randTheme_Might->领导力', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Leadership',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Leadership-->
-  <TM_Book_Pools.rulePack.rulesStrings.227>TM_randTheme_Might-&amp;gt;领导力</TM_Book_Pools.rulePack.rulesStrings.227>
+  <TM_Book_Pools.rulePack.rulesStrings.227>TM_randTheme_Might->领导力</TM_Book_Pools.rulePack.rulesStrings.227>
   <!--原中文: 'TM_randTheme_Might->兄弟会', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Brotherhood',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Brotherhood-->
-  <TM_Book_Pools.rulePack.rulesStrings.228>TM_randTheme_Might-&amp;gt;兄弟会</TM_Book_Pools.rulePack.rulesStrings.228>
+  <TM_Book_Pools.rulePack.rulesStrings.228>TM_randTheme_Might->兄弟会</TM_Book_Pools.rulePack.rulesStrings.228>
   <!--原中文: 'TM_randTheme_Might->牺牲', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Sacrifice',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Sacrifice-->
-  <TM_Book_Pools.rulePack.rulesStrings.229>TM_randTheme_Might-&amp;gt;牺牲</TM_Book_Pools.rulePack.rulesStrings.229>
+  <TM_Book_Pools.rulePack.rulesStrings.229>TM_randTheme_Might->牺牲</TM_Book_Pools.rulePack.rulesStrings.229>
   <!--原中文: 'TM_randTheme_Might->统一', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Unity',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Unity-->
-  <TM_Book_Pools.rulePack.rulesStrings.230>TM_randTheme_Might-&amp;gt;统一</TM_Book_Pools.rulePack.rulesStrings.230>
+  <TM_Book_Pools.rulePack.rulesStrings.230>TM_randTheme_Might->统一</TM_Book_Pools.rulePack.rulesStrings.230>
   <!--原中文: 'TM_randTheme_Might->勇敢', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Bravery',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Bravery-->
-  <TM_Book_Pools.rulePack.rulesStrings.231>TM_randTheme_Might-&amp;gt;勇敢</TM_Book_Pools.rulePack.rulesStrings.231>
+  <TM_Book_Pools.rulePack.rulesStrings.231>TM_randTheme_Might->勇敢</TM_Book_Pools.rulePack.rulesStrings.231>
   <!--原中文: 'TM_randTheme_Might->弹性', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Resilience',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Resilience-->
-  <TM_Book_Pools.rulePack.rulesStrings.232>TM_randTheme_Might-&amp;gt;弹性</TM_Book_Pools.rulePack.rulesStrings.232>
+  <TM_Book_Pools.rulePack.rulesStrings.232>TM_randTheme_Might->弹性</TM_Book_Pools.rulePack.rulesStrings.232>
   <!--原中文: 'TM_randTheme_Might->职责', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Duty',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Duty-->
-  <TM_Book_Pools.rulePack.rulesStrings.233>TM_randTheme_Might-&amp;gt;职责</TM_Book_Pools.rulePack.rulesStrings.233>
+  <TM_Book_Pools.rulePack.rulesStrings.233>TM_randTheme_Might->职责</TM_Book_Pools.rulePack.rulesStrings.233>
   <!--原中文: 'TM_randTheme_Might->正义', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Justice',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Justice-->
-  <TM_Book_Pools.rulePack.rulesStrings.234>TM_randTheme_Might-&amp;gt;正义</TM_Book_Pools.rulePack.rulesStrings.234>
+  <TM_Book_Pools.rulePack.rulesStrings.234>TM_randTheme_Might->正义</TM_Book_Pools.rulePack.rulesStrings.234>
   <!--原中文: 'TM_randTheme_Might->尊重', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Respect',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Respect-->
-  <TM_Book_Pools.rulePack.rulesStrings.235>TM_randTheme_Might-&amp;gt;尊重</TM_Book_Pools.rulePack.rulesStrings.235>
+  <TM_Book_Pools.rulePack.rulesStrings.235>TM_randTheme_Might->尊重</TM_Book_Pools.rulePack.rulesStrings.235>
   <!--原中文: 'TM_randTheme_Might->友情', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Camraderie',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Camraderie-->
-  <TM_Book_Pools.rulePack.rulesStrings.236>TM_randTheme_Might-&amp;gt;友情</TM_Book_Pools.rulePack.rulesStrings.236>
+  <TM_Book_Pools.rulePack.rulesStrings.236>TM_randTheme_Might->友情</TM_Book_Pools.rulePack.rulesStrings.236>
   <!--原中文: 'TM_randTheme_Might->忠诚度', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Loyalty',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Loyalty-->
-  <TM_Book_Pools.rulePack.rulesStrings.237>TM_randTheme_Might-&amp;gt;忠诚度</TM_Book_Pools.rulePack.rulesStrings.237>
+  <TM_Book_Pools.rulePack.rulesStrings.237>TM_randTheme_Might->忠诚度</TM_Book_Pools.rulePack.rulesStrings.237>
   <!--原中文: 'TM_randTheme_Might->训练', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Training',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Training-->
-  <TM_Book_Pools.rulePack.rulesStrings.238>TM_randTheme_Might-&amp;gt;训练</TM_Book_Pools.rulePack.rulesStrings.238>
+  <TM_Book_Pools.rulePack.rulesStrings.238>TM_randTheme_Might->训练</TM_Book_Pools.rulePack.rulesStrings.238>
   <!--原中文: 'TM_randTheme_Might->准备', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Preparation',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Preparation-->
-  <TM_Book_Pools.rulePack.rulesStrings.239>TM_randTheme_Might-&amp;gt;准备</TM_Book_Pools.rulePack.rulesStrings.239>
+  <TM_Book_Pools.rulePack.rulesStrings.239>TM_randTheme_Might->准备</TM_Book_Pools.rulePack.rulesStrings.239>
   <!--原中文: 'TM_randTheme_Might->战斗准备', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Combat Readiness',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Combat Readiness-->
-  <TM_Book_Pools.rulePack.rulesStrings.240>TM_randTheme_Might-&amp;gt;战斗准备</TM_Book_Pools.rulePack.rulesStrings.240>
+  <TM_Book_Pools.rulePack.rulesStrings.240>TM_randTheme_Might->战斗准备</TM_Book_Pools.rulePack.rulesStrings.240>
   <!--原中文: 'TM_randTheme_Might->冲突解决', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Conflict Resolution',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Conflict Resolution-->
-  <TM_Book_Pools.rulePack.rulesStrings.241>TM_randTheme_Might-&amp;gt;冲突解决</TM_Book_Pools.rulePack.rulesStrings.241>
+  <TM_Book_Pools.rulePack.rulesStrings.241>TM_randTheme_Might->冲突解决</TM_Book_Pools.rulePack.rulesStrings.241>
   <!--原中文: 'TM_randTheme_Might->耐力', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Endurance',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Endurance-->
-  <TM_Book_Pools.rulePack.rulesStrings.242>TM_randTheme_Might-&amp;gt;耐力</TM_Book_Pools.rulePack.rulesStrings.242>
+  <TM_Book_Pools.rulePack.rulesStrings.242>TM_randTheme_Might->耐力</TM_Book_Pools.rulePack.rulesStrings.242>
   <!--原中文: 'TM_randTheme_Might->精通', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Mastery',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Mastery-->
-  <TM_Book_Pools.rulePack.rulesStrings.243>TM_randTheme_Might-&amp;gt;精通</TM_Book_Pools.rulePack.rulesStrings.243>
+  <TM_Book_Pools.rulePack.rulesStrings.243>TM_randTheme_Might->精通</TM_Book_Pools.rulePack.rulesStrings.243>
   <!--原中文: 'TM_randTheme_Might->武士精神', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Warrior Spirit',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Warrior Spirit-->
-  <TM_Book_Pools.rulePack.rulesStrings.244>TM_randTheme_Might-&amp;gt;武士精神</TM_Book_Pools.rulePack.rulesStrings.244>
+  <TM_Book_Pools.rulePack.rulesStrings.244>TM_randTheme_Might->武士精神</TM_Book_Pools.rulePack.rulesStrings.244>
   <!--原中文: 'TM_randTheme_Might->战场', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Battlefield',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Battlefield-->
-  <TM_Book_Pools.rulePack.rulesStrings.245>TM_randTheme_Might-&amp;gt;战场</TM_Book_Pools.rulePack.rulesStrings.245>
+  <TM_Book_Pools.rulePack.rulesStrings.245>TM_randTheme_Might->战场</TM_Book_Pools.rulePack.rulesStrings.245>
   <!--原中文: 'TM_randTheme_Might->命令', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Command',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Command-->
-  <TM_Book_Pools.rulePack.rulesStrings.246>TM_randTheme_Might-&amp;gt;命令</TM_Book_Pools.rulePack.rulesStrings.246>
+  <TM_Book_Pools.rulePack.rulesStrings.246>TM_randTheme_Might->命令</TM_Book_Pools.rulePack.rulesStrings.246>
   <!--原中文: 'TM_randTheme_Might->旧版', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Legacy',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Legacy-->
-  <TM_Book_Pools.rulePack.rulesStrings.247>TM_randTheme_Might-&amp;gt;旧版</TM_Book_Pools.rulePack.rulesStrings.247>
+  <TM_Book_Pools.rulePack.rulesStrings.247>TM_randTheme_Might->旧版</TM_Book_Pools.rulePack.rulesStrings.247>
   <!--原中文: 'TM_randTheme_Might->战斗艺术', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Combat Arts',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Combat Arts-->
-  <TM_Book_Pools.rulePack.rulesStrings.248>TM_randTheme_Might-&amp;gt;战斗艺术</TM_Book_Pools.rulePack.rulesStrings.248>
+  <TM_Book_Pools.rulePack.rulesStrings.248>TM_randTheme_Might->战斗艺术</TM_Book_Pools.rulePack.rulesStrings.248>
   <!--原中文: 'TM_randTheme_Might->武器精通', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Weapons Mastery',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Weapons Mastery-->
-  <TM_Book_Pools.rulePack.rulesStrings.249>TM_randTheme_Might-&amp;gt;武器精通</TM_Book_Pools.rulePack.rulesStrings.249>
+  <TM_Book_Pools.rulePack.rulesStrings.249>TM_randTheme_Might->武器精通</TM_Book_Pools.rulePack.rulesStrings.249>
   <!--原中文: 'TM_randTheme_Might->生存', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Survival',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Survival-->
-  <TM_Book_Pools.rulePack.rulesStrings.250>TM_randTheme_Might-&amp;gt;生存</TM_Book_Pools.rulePack.rulesStrings.250>
+  <TM_Book_Pools.rulePack.rulesStrings.250>TM_randTheme_Might->生存</TM_Book_Pools.rulePack.rulesStrings.250>
   <!--原中文: 'TM_randTheme_Might->训练方案', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Training Regimen',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Training Regimen-->
-  <TM_Book_Pools.rulePack.rulesStrings.251>TM_randTheme_Might-&amp;gt;训练方案</TM_Book_Pools.rulePack.rulesStrings.251>
+  <TM_Book_Pools.rulePack.rulesStrings.251>TM_randTheme_Might->训练方案</TM_Book_Pools.rulePack.rulesStrings.251>
   <!--原中文: 'TM_randTheme_Might->武术纪律', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Martial Discipline',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Martial Discipline-->
-  <TM_Book_Pools.rulePack.rulesStrings.252>TM_randTheme_Might-&amp;gt;武术纪律</TM_Book_Pools.rulePack.rulesStrings.252>
+  <TM_Book_Pools.rulePack.rulesStrings.252>TM_randTheme_Might->武术纪律</TM_Book_Pools.rulePack.rulesStrings.252>
   <!--原中文: 'TM_randTheme_Might->强度', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Strength',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Strength-->
-  <TM_Book_Pools.rulePack.rulesStrings.253>TM_randTheme_Might-&amp;gt;强度</TM_Book_Pools.rulePack.rulesStrings.253>
+  <TM_Book_Pools.rulePack.rulesStrings.253>TM_randTheme_Might->强度</TM_Book_Pools.rulePack.rulesStrings.253>
   <!--原中文: 'TM_randTheme_Might->耐力', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Endurance',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Endurance-->
-  <TM_Book_Pools.rulePack.rulesStrings.254>TM_randTheme_Might-&amp;gt;耐力</TM_Book_Pools.rulePack.rulesStrings.254>
+  <TM_Book_Pools.rulePack.rulesStrings.254>TM_randTheme_Might->耐力</TM_Book_Pools.rulePack.rulesStrings.254>
   <!--原中文: 'TM_randTheme_Might->毅力', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Perseverance',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Perseverance-->
-  <TM_Book_Pools.rulePack.rulesStrings.255>TM_randTheme_Might-&amp;gt;毅力</TM_Book_Pools.rulePack.rulesStrings.255>
+  <TM_Book_Pools.rulePack.rulesStrings.255>TM_randTheme_Might->毅力</TM_Book_Pools.rulePack.rulesStrings.255>
   <!--原中文: 'TM_randTheme_Might->技能', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Skill',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Skill-->
-  <TM_Book_Pools.rulePack.rulesStrings.256>TM_randTheme_Might-&amp;gt;技能</TM_Book_Pools.rulePack.rulesStrings.256>
+  <TM_Book_Pools.rulePack.rulesStrings.256>TM_randTheme_Might->技能</TM_Book_Pools.rulePack.rulesStrings.256>
   <!--原中文: 'TM_randTheme_Might->训练', 原英文: '无' -> 新英文: 'TM_randTheme_Might->Training',更新于2026-02-14-->
   <!--EN: TM_randTheme_Might->Training-->
-  <TM_Book_Pools.rulePack.rulesStrings.257>TM_randTheme_Might-&amp;gt;训练</TM_Book_Pools.rulePack.rulesStrings.257>
+  <TM_Book_Pools.rulePack.rulesStrings.257>TM_randTheme_Might->训练</TM_Book_Pools.rulePack.rulesStrings.257>
 </LanguageData>

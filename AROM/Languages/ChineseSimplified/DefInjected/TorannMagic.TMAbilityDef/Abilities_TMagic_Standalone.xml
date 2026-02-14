@@ -130,7 +130,7 @@ Casting the spell when a barrier is active will remove the barrier. Can be used 
   <!--原中文: '火魔法师凝聚元素之力立即烧灼封闭病人的伤口。然而可能会留下烧伤疤痕。', 原英文: '无' -> 新英文: 'The fire mage invokes elemental fire to instantly cauterize wounds on a patient. However, this process is likely to leave burn scars.',更新于2026-02-14-->
   <!--EN: The fire mage invokes elemental fire to instantly cauterize wounds on a patient. However, this process is likely to leave burn scars.-->
   <TM_CauterizeWound.description>火魔法师凝聚元素之力立即烧灼封闭病人的伤口。然而可能会留下烧伤疤痕。</TM_CauterizeWound.description>
-  <!-- Teach Magic & Might -->
+  <!-- Teach Magic  Might -->
   <!--原中文: '法术指导', 原英文: '无' -> 新英文: 'Mentor Magic',更新于2026-02-14-->
   <!--EN: Mentor Magic-->
   <TM_TeachMagic.label>法术指导</TM_TeachMagic.label>

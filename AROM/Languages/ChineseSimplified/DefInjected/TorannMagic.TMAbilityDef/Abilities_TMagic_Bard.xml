@@ -47,7 +47,7 @@ Activating the ability casts a net over the colony and allows the bard to detect
 This command toggles the active skill on or off.
 	
 Activating the ability casts a net over the colony and allows the bard to detect troubled pawns and attempt to entertain them. The bard will gain experience points as a mage when active entertaining is successful. Keeping this ability active reduces max mana by 30. The bard performs entertainment as a type of job, and will perform entertainment based on the priority of the "Warden" work type.-->
-  <TM_Entertain.description>使用各种方法娱乐周围的朋友。该技能由一个被动技能和一个主动技能组成。被动技能允许吟游诗人在交谈中娱乐其他的殖民者。\n\n该指令可以控制技能开启或关闭.\n	\n激活此能力后会覆盖整个殖民地并且允许吟游诗人发掘到处于烦恼中的殖民者并试图让他们感到快乐. 当招待成功时吟游诗人会如何法师一般获得经验点数。保持开启此能力会降低30点最大法力值。吟游诗人的演奏作为一种工作类型存在，因此会根据&amp;quot;监管&amp;quot;工作的优先级来进行招待。</TM_Entertain.description>
+  <TM_Entertain.description>使用各种方法娱乐周围的朋友。该技能由一个被动技能和一个主动技能组成。被动技能允许吟游诗人在交谈中娱乐其他的殖民者。\n\n该指令可以控制技能开启或关闭.\n	\n激活此能力后会覆盖整个殖民地并且允许吟游诗人发掘到处于烦恼中的殖民者并试图让他们感到快乐. 当招待成功时吟游诗人会如何法师一般获得经验点数。保持开启此能力会降低30点最大法力值。吟游诗人的演奏作为一种工作类型存在，因此会根据"监管"工作的优先级来进行招待。</TM_Entertain.description>
   <!-- Inspire -->
   <!--原中文: '鼓舞', 原英文: '无' -> 新英文: 'Inspire',更新于2026-02-14-->
   <!--EN: Inspire-->

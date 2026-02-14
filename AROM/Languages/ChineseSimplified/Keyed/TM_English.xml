@@ -1159,9 +1159,9 @@ Level 3: 5 abilities-->
   <!--翻译内容: 'Life Sieve',新增于2026-02-14-->
   <!--EN: Life Sieve-->
   <TM_Chi_eff>生命筛选</TM_Chi_eff>
-  <!--翻译内容: 'Reduces the amount of ch'i required to use ch'i abilities by 6% per skill point.',新增于2026-02-14-->
+  <!--翻译内容: '每个技能点使用气能力所需的气量减少 6%。',新增于2026-02-14-->
   <!--EN: Reduces the amount of ch'i required to use ch'i abilities by 6% per skill point.-->
-  <TM_Chi_eff_desc>每技能点减少 6% 个使用 ch &amp;apos;i 能力所需的 ch&amp;apos; i 量。</TM_Chi_eff_desc>
+  <TM_Chi_eff_desc>每个技能点使用气能力所需的气量减少 6%。</TM_Chi_eff_desc>
   <!--翻译内容: 'Disrupting Burst',新增于2026-02-14-->
   <!--EN: Disrupting Burst-->
   <TM_Chi_pwr>扰动脉冲</TM_Chi_pwr>
@@ -1174,9 +1174,9 @@ Affected pawns take .4 damage per energy burned and are stunned.-->
   <!--翻译内容: 'Spirit Capacitor',新增于2026-02-14-->
   <!--EN: Spirit Capacitor-->
   <TM_Chi_ver>灵质电容</TM_Chi_ver>
-  <!--翻译内容: 'Decreases ch'i decay by 20% per skill point.',新增于2026-02-14-->
+  <!--翻译内容: '每个技能点气衰减减少 20%。',新增于2026-02-14-->
   <!--EN: Decreases ch'i decay by 20% per skill point.-->
-  <TM_Chi_ver_desc>每技能点减少 ch &amp;apos;i 衰减 20%</TM_Chi_ver_desc>
+  <TM_Chi_ver_desc>每个技能点气衰减减少 20%。</TM_Chi_ver_desc>
   <!--翻译内容: 'Chronomancer',新增于2026-02-14-->
   <!--EN: Chronomancer-->
   <TM_Chronomancer>计时仪</TM_Chronomancer>
@@ -3271,9 +3271,9 @@ Level 3: -20% consciousness-->
   <!--翻译内容: 'Deep Meditation',新增于2026-02-14-->
   <!--EN: Deep Meditation-->
   <TM_Meditate_eff>冥想</TM_Meditate_eff>
-  <!--翻译内容: 'Increases ch'i gained during meditation by 10% per skill level.',新增于2026-02-14-->
+  <!--翻译内容: '每升一级，冥想期间获得的气量增加 10%。',新增于2026-02-14-->
   <!--EN: Increases ch'i gained during meditation by 10% per skill level.-->
-  <TM_Meditate_eff_desc>使冥想期间获得的 ch &amp;apos;i 增加 10%/技能等级。</TM_Meditate_eff_desc>
+  <TM_Meditate_eff_desc>每升一级，冥想期间获得的气量增加 10%。</TM_Meditate_eff_desc>
   <!--翻译内容: 'Cleansing Meditation',新增于2026-02-14-->
   <!--EN: Cleansing Meditation-->
   <TM_Meditate_pwr>净化冥想</TM_Meditate_pwr>
@@ -3532,9 +3532,9 @@ Level 3: 13 damage-->
   <!--翻译内容: '{0} has not sacrificed enough blood to cast this spell.',新增于2026-02-14-->
   <!--EN: {0} has not sacrificed enough blood to cast this spell.-->
   <TM_NotEnoughBlood>{0}足够的献祭血施展此咒。</TM_NotEnoughBlood>
-  <!--翻译内容: '{0} does not have enough ch'i to execute this ability.',新增于2026-02-14-->
+  <!--翻译内容: '{0} 没有足够的气来执行此能力。',新增于2026-02-14-->
   <!--EN: {0} does not have enough ch'i to execute this ability.-->
-  <TM_NotEnoughChi>{0}足够的 ch &amp;apos;i 来执行此能力。</TM_NotEnoughChi>
+  <TM_NotEnoughChi>{0} 没有足够的气来执行此能力。</TM_NotEnoughChi>
   <!--翻译内容: '{0} does not have enough {1} to execute this ability.',新增于2026-02-14-->
   <!--EN: {0} does not have enough {1} to execute this ability.-->
   <TM_NotEnoughEnergy>{0}足够的{1}来执行这个能力。</TM_NotEnoughEnergy>

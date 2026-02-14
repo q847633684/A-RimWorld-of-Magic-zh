@@ -82,5 +82,5 @@ to drop the gem.
 
 7. Item enchantments can be viewed on individual gear by selecting the item on the ground and using the "Enchanted" tab. The collective Enchantments 
 affecting a single pawn can be seen in the health tab and a summary of the enchantments will be displayed under a pawn's gear tab.-->
-  <TM_EnchantingII.helpText>附魔: 第二部分 		 4. 附魔是永久存在的并且每一个物品只能获得一种附魔。新的附魔会覆盖掉已经存在的附魔。 附魔一件物品并不会提升它的价值。附魔一件物品需要消耗附魔宝石。 目前还没有办法从物品中把附魔提取出来.  5. 魔法原石(以及加工过的宝石) 也可以从商人处购买. 不幸的是， 在开采深矿的过程中很容易忽略掉这种获得魔法原石的机会.  使用&amp;quot;采石场&amp;quot;mod的玩家可以将魔法原石添加进挖掘列表， 推荐概率为0.4%   6. 平凡的生物无法从装备附魔物品中获得增益.  7. 如果你希望丢掉一个宝石 - 选中持有宝石的魔法师， 右键任意开阔地然后选择丢弃宝石.  8. 物品附魔可以在个人的装备处看到， 或者通过选择地上的物品然后查看&amp;quot;附魔&amp;quot; 标签.  对一个生物的影响可以在健康标签内查看.		</TM_EnchantingII.helpText>
+  <TM_EnchantingII.helpText>附魔: 第二部分 		 4. 附魔是永久存在的并且每一个物品只能获得一种附魔。新的附魔会覆盖掉已经存在的附魔。 附魔一件物品并不会提升它的价值。附魔一件物品需要消耗附魔宝石。 目前还没有办法从物品中把附魔提取出来.  5. 魔法原石(以及加工过的宝石) 也可以从商人处购买. 不幸的是， 在开采深矿的过程中很容易忽略掉这种获得魔法原石的机会.  使用"采石场"mod的玩家可以将魔法原石添加进挖掘列表， 推荐概率为0.4%   6. 平凡的生物无法从装备附魔物品中获得增益.  7. 如果你希望丢掉一个宝石 - 选中持有宝石的魔法师， 右键任意开阔地然后选择丢弃宝石.  8. 物品附魔可以在个人的装备处看到， 或者通过选择地上的物品然后查看"附魔" 标签.  对一个生物的影响可以在健康标签内查看.		</TM_EnchantingII.helpText>
 </LanguageData>

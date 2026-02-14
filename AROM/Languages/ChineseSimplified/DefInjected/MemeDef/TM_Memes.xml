@@ -9,176 +9,176 @@
   <TM_Transcendent.description>那些有能力改变自己命运的人应该受到敬畏和尊重；摧毁他们，跟随他们，或者在他们面前倒下。</TM_Transcendent.description>
   <!--原中文: 'memeAdjective->超凡', 原英文: '无' -> 新英文: 'memeAdjective->transcendent',更新于2026-02-14-->
   <!--EN: memeAdjective->transcendent-->
-  <TM_Transcendent.generalRules.rulesStrings.0>memeAdjective-&amp;gt;超凡</TM_Transcendent.generalRules.rulesStrings.0>
+  <TM_Transcendent.generalRules.rulesStrings.0>memeAdjective->超凡</TM_Transcendent.generalRules.rulesStrings.0>
   <!--原中文: 'memeAdjective->冠军', 原英文: '无' -> 新英文: 'memeAdjective->champion',更新于2026-02-14-->
   <!--EN: memeAdjective->champion-->
-  <TM_Transcendent.generalRules.rulesStrings.1>memeAdjective-&amp;gt;冠军</TM_Transcendent.generalRules.rulesStrings.1>
+  <TM_Transcendent.generalRules.rulesStrings.1>memeAdjective->冠军</TM_Transcendent.generalRules.rulesStrings.1>
   <!--原中文: 'memeAdjective->英雄', 原英文: '无' -> 新英文: 'memeAdjective->hero',更新于2026-02-14-->
   <!--EN: memeAdjective->hero-->
-  <TM_Transcendent.generalRules.rulesStrings.2>memeAdjective-&amp;gt;英雄</TM_Transcendent.generalRules.rulesStrings.2>
+  <TM_Transcendent.generalRules.rulesStrings.2>memeAdjective->英雄</TM_Transcendent.generalRules.rulesStrings.2>
   <!--原中文: 'memeAdjective->法师', 原英文: '无' -> 新英文: 'memeAdjective->mage',更新于2026-02-14-->
   <!--EN: memeAdjective->mage-->
-  <TM_Transcendent.generalRules.rulesStrings.3>memeAdjective-&amp;gt;法师</TM_Transcendent.generalRules.rulesStrings.3>
+  <TM_Transcendent.generalRules.rulesStrings.3>memeAdjective->法师</TM_Transcendent.generalRules.rulesStrings.3>
   <!--原中文: 'memeAdjective->长者', 原英文: '无' -> 新英文: 'memeAdjective->superior',更新于2026-02-14-->
   <!--EN: memeAdjective->superior-->
-  <TM_Transcendent.generalRules.rulesStrings.4>memeAdjective-&amp;gt;长者</TM_Transcendent.generalRules.rulesStrings.4>
+  <TM_Transcendent.generalRules.rulesStrings.4>memeAdjective->长者</TM_Transcendent.generalRules.rulesStrings.4>
   <!--原中文: 'memeAdjective->巫师', 原英文: '无' -> 新英文: 'memeAdjective->sorcerer',更新于2026-02-14-->
   <!--EN: memeAdjective->sorcerer-->
-  <TM_Transcendent.generalRules.rulesStrings.5>memeAdjective-&amp;gt;巫师</TM_Transcendent.generalRules.rulesStrings.5>
+  <TM_Transcendent.generalRules.rulesStrings.5>memeAdjective->巫师</TM_Transcendent.generalRules.rulesStrings.5>
   <!--原中文: 'memeAdjective->施法者', 原英文: '无' -> 新英文: 'memeAdjective->caster',更新于2026-02-14-->
   <!--EN: memeAdjective->caster-->
-  <TM_Transcendent.generalRules.rulesStrings.6>memeAdjective-&amp;gt;施法者</TM_Transcendent.generalRules.rulesStrings.6>
+  <TM_Transcendent.generalRules.rulesStrings.6>memeAdjective->施法者</TM_Transcendent.generalRules.rulesStrings.6>
   <!--原中文: 'memeCreed->兄弟会', 原英文: '无' -> 新英文: 'memeCreed->brotherhood',更新于2026-02-14-->
   <!--EN: memeCreed->brotherhood-->
-  <TM_Transcendent.generalRules.rulesStrings.7>memeCreed-&amp;gt;兄弟会</TM_Transcendent.generalRules.rulesStrings.7>
+  <TM_Transcendent.generalRules.rulesStrings.7>memeCreed->兄弟会</TM_Transcendent.generalRules.rulesStrings.7>
   <!--原中文: 'memeCreed->折叠', 原英文: '无' -> 新英文: 'memeCreed->fold',更新于2026-02-14-->
   <!--EN: memeCreed->fold-->
-  <TM_Transcendent.generalRules.rulesStrings.8>memeCreed-&amp;gt;折叠</TM_Transcendent.generalRules.rulesStrings.8>
+  <TM_Transcendent.generalRules.rulesStrings.8>memeCreed->折叠</TM_Transcendent.generalRules.rulesStrings.8>
   <!--原中文: 'memeCreed->公会', 原英文: '无' -> 新英文: 'memeCreed->guild',更新于2026-02-14-->
   <!--EN: memeCreed->guild-->
-  <TM_Transcendent.generalRules.rulesStrings.9>memeCreed-&amp;gt;公会</TM_Transcendent.generalRules.rulesStrings.9>
+  <TM_Transcendent.generalRules.rulesStrings.9>memeCreed->公会</TM_Transcendent.generalRules.rulesStrings.9>
   <!--原中文: 'memeCreed->选择', 原英文: '无' -> 新英文: 'memeCreed->chosen',更新于2026-02-14-->
   <!--EN: memeCreed->chosen-->
-  <TM_Transcendent.generalRules.rulesStrings.10>memeCreed-&amp;gt;选择</TM_Transcendent.generalRules.rulesStrings.10>
+  <TM_Transcendent.generalRules.rulesStrings.10>memeCreed->选择</TM_Transcendent.generalRules.rulesStrings.10>
   <!--原中文: 'memeCreed->大师', 原英文: '无' -> 新英文: 'memeCreed->masters',更新于2026-02-14-->
   <!--EN: memeCreed->masters-->
-  <TM_Transcendent.generalRules.rulesStrings.11>memeCreed-&amp;gt;大师</TM_Transcendent.generalRules.rulesStrings.11>
+  <TM_Transcendent.generalRules.rulesStrings.11>memeCreed->大师</TM_Transcendent.generalRules.rulesStrings.11>
   <!--原中文: 'memeConcept->魔法', 原英文: '无' -> 新英文: 'memeConcept->magic',更新于2026-02-14-->
   <!--EN: memeConcept->magic-->
-  <TM_Transcendent.generalRules.rulesStrings.12>memeConcept-&amp;gt;魔法</TM_Transcendent.generalRules.rulesStrings.12>
+  <TM_Transcendent.generalRules.rulesStrings.12>memeConcept->魔法</TM_Transcendent.generalRules.rulesStrings.12>
   <!--原中文: 'memeConcept->天才', 原英文: '无' -> 新英文: 'memeConcept->gifted',更新于2026-02-14-->
   <!--EN: memeConcept->gifted-->
-  <TM_Transcendent.generalRules.rulesStrings.13>memeConcept-&amp;gt;天才</TM_Transcendent.generalRules.rulesStrings.13>
+  <TM_Transcendent.generalRules.rulesStrings.13>memeConcept->天才</TM_Transcendent.generalRules.rulesStrings.13>
   <!--原中文: 'memeConcept->选择', 原英文: '无' -> 新英文: 'memeConcept->chosen',更新于2026-02-14-->
   <!--EN: memeConcept->chosen-->
-  <TM_Transcendent.generalRules.rulesStrings.14>memeConcept-&amp;gt;选择</TM_Transcendent.generalRules.rulesStrings.14>
+  <TM_Transcendent.generalRules.rulesStrings.14>memeConcept->选择</TM_Transcendent.generalRules.rulesStrings.14>
   <!--原中文: 'memeConcept->诅咒', 原英文: '无' -> 新英文: 'memeConcept->cursed',更新于2026-02-14-->
   <!--EN: memeConcept->cursed-->
-  <TM_Transcendent.generalRules.rulesStrings.15>memeConcept-&amp;gt;诅咒</TM_Transcendent.generalRules.rulesStrings.15>
+  <TM_Transcendent.generalRules.rulesStrings.15>memeConcept->诅咒</TM_Transcendent.generalRules.rulesStrings.15>
   <!--原中文: 'memeConcept->枯萎', 原英文: '无' -> 新英文: 'memeConcept->blighted',更新于2026-02-14-->
   <!--EN: memeConcept->blighted-->
-  <TM_Transcendent.generalRules.rulesStrings.16>memeConcept-&amp;gt;枯萎</TM_Transcendent.generalRules.rulesStrings.16>
+  <TM_Transcendent.generalRules.rulesStrings.16>memeConcept->枯萎</TM_Transcendent.generalRules.rulesStrings.16>
   <!--原中文: 'memeLeaderNoun->大法师', 原英文: '无' -> 新英文: 'memeLeaderNoun->archmage',更新于2026-02-14-->
   <!--EN: memeLeaderNoun->archmage-->
-  <TM_Transcendent.generalRules.rulesStrings.17>memeLeaderNoun-&amp;gt;大法师</TM_Transcendent.generalRules.rulesStrings.17>
+  <TM_Transcendent.generalRules.rulesStrings.17>memeLeaderNoun->大法师</TM_Transcendent.generalRules.rulesStrings.17>
   <!--原中文: 'memeLeaderNoun->大师', 原英文: '无' -> 新英文: 'memeLeaderNoun->master',更新于2026-02-14-->
   <!--EN: memeLeaderNoun->master-->
-  <TM_Transcendent.generalRules.rulesStrings.18>memeLeaderNoun-&amp;gt;大师</TM_Transcendent.generalRules.rulesStrings.18>
+  <TM_Transcendent.generalRules.rulesStrings.18>memeLeaderNoun->大师</TM_Transcendent.generalRules.rulesStrings.18>
   <!--原中文: 'memeLeaderNoun->巫师', 原英文: '无' -> 新英文: 'memeLeaderNoun->wizard',更新于2026-02-14-->
   <!--EN: memeLeaderNoun->wizard-->
-  <TM_Transcendent.generalRules.rulesStrings.19>memeLeaderNoun-&amp;gt;巫师</TM_Transcendent.generalRules.rulesStrings.19>
+  <TM_Transcendent.generalRules.rulesStrings.19>memeLeaderNoun->巫师</TM_Transcendent.generalRules.rulesStrings.19>
   <!--原中文: 'memeLeaderNoun->法师', 原英文: '无' -> 新英文: 'memeLeaderNoun->mage',更新于2026-02-14-->
   <!--EN: memeLeaderNoun->mage-->
-  <TM_Transcendent.generalRules.rulesStrings.20>memeLeaderNoun-&amp;gt;法师</TM_Transcendent.generalRules.rulesStrings.20>
+  <TM_Transcendent.generalRules.rulesStrings.20>memeLeaderNoun->法师</TM_Transcendent.generalRules.rulesStrings.20>
   <!--原中文: 'memeLeaderNoun->皇帝', 原英文: '无' -> 新英文: 'memeLeaderNoun->emperor',更新于2026-02-14-->
   <!--EN: memeLeaderNoun->emperor-->
-  <TM_Transcendent.generalRules.rulesStrings.21>memeLeaderNoun-&amp;gt;皇帝</TM_Transcendent.generalRules.rulesStrings.21>
+  <TM_Transcendent.generalRules.rulesStrings.21>memeLeaderNoun->皇帝</TM_Transcendent.generalRules.rulesStrings.21>
   <!--原中文: 'memeLeaderAdjective->选定', 原英文: '无' -> 新英文: 'memeLeaderAdjective->chosen',更新于2026-02-14-->
   <!--EN: memeLeaderAdjective->chosen-->
-  <TM_Transcendent.generalRules.rulesStrings.22>memeLeaderAdjective-&amp;gt;选定</TM_Transcendent.generalRules.rulesStrings.22>
+  <TM_Transcendent.generalRules.rulesStrings.22>memeLeaderAdjective->选定</TM_Transcendent.generalRules.rulesStrings.22>
   <!--原中文: 'memeLeaderAdjective->超凡', 原英文: '无' -> 新英文: 'memeLeaderAdjective->trascendent',更新于2026-02-14-->
   <!--EN: memeLeaderAdjective->trascendent-->
-  <TM_Transcendent.generalRules.rulesStrings.23>memeLeaderAdjective-&amp;gt;超凡</TM_Transcendent.generalRules.rulesStrings.23>
+  <TM_Transcendent.generalRules.rulesStrings.23>memeLeaderAdjective->超凡</TM_Transcendent.generalRules.rulesStrings.23>
   <!--原中文: 'memeLeaderAdjective->神圣', 原英文: '无' -> 新英文: 'memeLeaderAdjective->hallowed',更新于2026-02-14-->
   <!--EN: memeLeaderAdjective->hallowed-->
-  <TM_Transcendent.generalRules.rulesStrings.24>memeLeaderAdjective-&amp;gt;神圣</TM_Transcendent.generalRules.rulesStrings.24>
+  <TM_Transcendent.generalRules.rulesStrings.24>memeLeaderAdjective->神圣</TM_Transcendent.generalRules.rulesStrings.24>
   <!--原中文: 'memeLeaderAdjective->奥术', 原英文: '无' -> 新英文: 'memeLeaderAdjective->arcane',更新于2026-02-14-->
   <!--EN: memeLeaderAdjective->arcane-->
-  <TM_Transcendent.generalRules.rulesStrings.25>memeLeaderAdjective-&amp;gt;奥术</TM_Transcendent.generalRules.rulesStrings.25>
+  <TM_Transcendent.generalRules.rulesStrings.25>memeLeaderAdjective->奥术</TM_Transcendent.generalRules.rulesStrings.25>
   <!--原中文: 'memeMoralist->占卜者', 原英文: '无' -> 新英文: 'memeMoralist->diviner',更新于2026-02-14-->
   <!--EN: memeMoralist->diviner-->
-  <TM_Transcendent.generalRules.rulesStrings.26>memeMoralist-&amp;gt;占卜者</TM_Transcendent.generalRules.rulesStrings.26>
+  <TM_Transcendent.generalRules.rulesStrings.26>memeMoralist->占卜者</TM_Transcendent.generalRules.rulesStrings.26>
   <!--原中文: 'memeMoralist->议长', 原英文: '无' -> 新英文: 'memeMoralist->speaker',更新于2026-02-14-->
   <!--EN: memeMoralist->speaker-->
-  <TM_Transcendent.generalRules.rulesStrings.27>memeMoralist-&amp;gt;议长</TM_Transcendent.generalRules.rulesStrings.27>
+  <TM_Transcendent.generalRules.rulesStrings.27>memeMoralist->议长</TM_Transcendent.generalRules.rulesStrings.27>
   <!--原中文: 'memeMoralist->传说主宰', 原英文: '无' -> 新英文: 'memeMoralist->loremaster',更新于2026-02-14-->
   <!--EN: memeMoralist->loremaster-->
-  <TM_Transcendent.generalRules.rulesStrings.28>memeMoralist-&amp;gt;传说主宰</TM_Transcendent.generalRules.rulesStrings.28>
+  <TM_Transcendent.generalRules.rulesStrings.28>memeMoralist->传说主宰</TM_Transcendent.generalRules.rulesStrings.28>
   <!--原中文: 'memeMoralist->元老', 原英文: '无' -> 新英文: 'memeMoralist->seneschal',更新于2026-02-14-->
   <!--EN: memeMoralist->seneschal-->
-  <TM_Transcendent.generalRules.rulesStrings.29>memeMoralist-&amp;gt;元老</TM_Transcendent.generalRules.rulesStrings.29>
+  <TM_Transcendent.generalRules.rulesStrings.29>memeMoralist->元老</TM_Transcendent.generalRules.rulesStrings.29>
   <!--原中文: 'memeMoralist->协管员', 原英文: '无' -> 新英文: 'memeMoralist->steward',更新于2026-02-14-->
   <!--EN: memeMoralist->steward-->
-  <TM_Transcendent.generalRules.rulesStrings.30>memeMoralist-&amp;gt;协管员</TM_Transcendent.generalRules.rulesStrings.30>
+  <TM_Transcendent.generalRules.rulesStrings.30>memeMoralist->协管员</TM_Transcendent.generalRules.rulesStrings.30>
   <!--原中文: 'TM_stormType->火', 原英文: '无' -> 新英文: 'TM_stormType->fire',更新于2026-02-14-->
   <!--EN: TM_stormType->fire-->
-  <TM_Transcendent.generalRules.rulesStrings.31>TM_stormType-&amp;gt;火</TM_Transcendent.generalRules.rulesStrings.31>
+  <TM_Transcendent.generalRules.rulesStrings.31>TM_stormType->火</TM_Transcendent.generalRules.rulesStrings.31>
   <!--原中文: 'TM_stormType->冰', 原英文: '无' -> 新英文: 'TM_stormType->ice',更新于2026-02-14-->
   <!--EN: TM_stormType->ice-->
-  <TM_Transcendent.generalRules.rulesStrings.32>TM_stormType-&amp;gt;冰</TM_Transcendent.generalRules.rulesStrings.32>
+  <TM_Transcendent.generalRules.rulesStrings.32>TM_stormType->冰</TM_Transcendent.generalRules.rulesStrings.32>
   <!--原中文: 'TM_stormType->风', 原英文: '无' -> 新英文: 'TM_stormType->wind',更新于2026-02-14-->
   <!--EN: TM_stormType->wind-->
-  <TM_Transcendent.generalRules.rulesStrings.33>TM_stormType-&amp;gt;风</TM_Transcendent.generalRules.rulesStrings.33>
+  <TM_Transcendent.generalRules.rulesStrings.33>TM_stormType->风</TM_Transcendent.generalRules.rulesStrings.33>
   <!--原中文: 'TM_stormType->碎石', 原英文: '无' -> 新英文: 'TM_stormType->gravel',更新于2026-02-14-->
   <!--EN: TM_stormType->gravel-->
-  <TM_Transcendent.generalRules.rulesStrings.34>TM_stormType-&amp;gt;碎石</TM_Transcendent.generalRules.rulesStrings.34>
+  <TM_Transcendent.generalRules.rulesStrings.34>TM_stormType->碎石</TM_Transcendent.generalRules.rulesStrings.34>
   <!--原中文: 'TM_stormType->闪电', 原英文: '无' -> 新英文: 'TM_stormType->lightning',更新于2026-02-14-->
   <!--EN: TM_stormType->lightning-->
-  <TM_Transcendent.generalRules.rulesStrings.35>TM_stormType-&amp;gt;闪电</TM_Transcendent.generalRules.rulesStrings.35>
+  <TM_Transcendent.generalRules.rulesStrings.35>TM_stormType->闪电</TM_Transcendent.generalRules.rulesStrings.35>
   <!--原中文: 'TM_stormType->混乱', 原英文: '无' -> 新英文: 'TM_stormType->chaos',更新于2026-02-14-->
   <!--EN: TM_stormType->chaos-->
-  <TM_Transcendent.generalRules.rulesStrings.36>TM_stormType-&amp;gt;混乱</TM_Transcendent.generalRules.rulesStrings.36>
+  <TM_Transcendent.generalRules.rulesStrings.36>TM_stormType->混乱</TM_Transcendent.generalRules.rulesStrings.36>
   <!--原中文: 'TM_stormType->岩石', 原英文: '无' -> 新英文: 'TM_stormType->rock',更新于2026-02-14-->
   <!--EN: TM_stormType->rock-->
-  <TM_Transcendent.generalRules.rulesStrings.37>TM_stormType-&amp;gt;岩石</TM_Transcendent.generalRules.rulesStrings.37>
+  <TM_Transcendent.generalRules.rulesStrings.37>TM_stormType->岩石</TM_Transcendent.generalRules.rulesStrings.37>
   <!--原中文: 'TM_stormType->情感', 原英文: '无' -> 新英文: 'TM_stormType->emotion',更新于2026-02-14-->
   <!--EN: TM_stormType->emotion-->
-  <TM_Transcendent.generalRules.rulesStrings.38>TM_stormType-&amp;gt;情感</TM_Transcendent.generalRules.rulesStrings.38>
+  <TM_Transcendent.generalRules.rulesStrings.38>TM_stormType->情感</TM_Transcendent.generalRules.rulesStrings.38>
   <!--原中文: 'TM_stormType->原始的奥术能量', 原英文: '无' -> 新英文: 'TM_stormType->raw arcane energy',更新于2026-02-14-->
   <!--EN: TM_stormType->raw arcane energy-->
-  <TM_Transcendent.generalRules.rulesStrings.39>TM_stormType-&amp;gt;原始的奥术能量</TM_Transcendent.generalRules.rulesStrings.39>
+  <TM_Transcendent.generalRules.rulesStrings.39>TM_stormType->原始的奥术能量</TM_Transcendent.generalRules.rulesStrings.39>
   <!--原中文: 'TM_stormType->愤怒', 原英文: '无' -> 新英文: 'TM_stormType->rage',更新于2026-02-14-->
   <!--EN: TM_stormType->rage-->
-  <TM_Transcendent.generalRules.rulesStrings.40>TM_stormType-&amp;gt;愤怒</TM_Transcendent.generalRules.rulesStrings.40>
+  <TM_Transcendent.generalRules.rulesStrings.40>TM_stormType->愤怒</TM_Transcendent.generalRules.rulesStrings.40>
   <!--原中文: 'TM_stormType->精神', 原英文: '无' -> 新英文: 'TM_stormType->spirits',更新于2026-02-14-->
   <!--EN: TM_stormType->spirits-->
-  <TM_Transcendent.generalRules.rulesStrings.41>TM_stormType-&amp;gt;精神</TM_Transcendent.generalRules.rulesStrings.41>
+  <TM_Transcendent.generalRules.rulesStrings.41>TM_stormType->精神</TM_Transcendent.generalRules.rulesStrings.41>
   <!--原中文: 'TM_stormType->水', 原英文: '无' -> 新英文: 'TM_stormType->water',更新于2026-02-14-->
   <!--EN: TM_stormType->water-->
-  <TM_Transcendent.generalRules.rulesStrings.42>TM_stormType-&amp;gt;水</TM_Transcendent.generalRules.rulesStrings.42>
+  <TM_Transcendent.generalRules.rulesStrings.42>TM_stormType->水</TM_Transcendent.generalRules.rulesStrings.42>
   <!--原中文: 'creation(tag=meme_TM_Transcendent)           ->在永恒的魔法中漂流，[deity0_name]凝视着物质世界，看到了痛苦和冲突，在那里，少数人利用机器和超凡科技的力量掠夺多数人。希望恢复平衡，[deity0_name]将[deity0_possessive]的力量编织成线融入全人类的本质，并赋予他们触摸和使用魔法的能力。', 原英文: '无' -> 新英文: 'creation(tag=meme_TM_Transcendent)           ->Drifting in an eternity of magic, [deity0_name] gazed upon the physical worlds and saw anguish and strife, where the few used the power of machines and archotech to prey upon the many. Wishing to restore balance, [deity0_name] weaved threads of [deity0_possessive] power into the essence of all humankind, granting them the ability to touch and the will to use magic.',更新于2026-02-14-->
   <!--EN: creation(tag=meme_TM_Transcendent)           ->Drifting in an eternity of magic, [deity0_name] gazed upon the physical worlds and saw anguish and strife, where the few used the power of machines and archotech to prey upon the many. Wishing to restore balance, [deity0_name] weaved threads of [deity0_possessive] power into the essence of all humankind, granting them the ability to touch and the will to use magic.-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_TM_Transcendent)           -&amp;gt;在永恒的魔法中漂流，[deity0_name]凝视着物质世界，看到了痛苦和冲突，在那里，少数人利用机器和超凡科技的力量掠夺多数人。希望恢复平衡，[deity0_name]将[deity0_possessive]的力量编织成线融入全人类的本质，并赋予他们触摸和使用魔法的能力。</TM_Transcendent.descriptionMaker.rules.rulesStrings.0>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_TM_Transcendent)           ->在永恒的魔法中漂流，[deity0_name]凝视着物质世界，看到了痛苦和冲突，在那里，少数人利用机器和超凡科技的力量掠夺多数人。希望恢复平衡，[deity0_name]将[deity0_possessive]的力量编织成线融入全人类的本质，并赋予他们触摸和使用魔法的能力。</TM_Transcendent.descriptionMaker.rules.rulesStrings.0>
   <!--原中文: 'episode(uses=1,tag=meme_TM_Transcendent)     ->魔术被授予善与恶，被无处不在，威胁要晒太阳，造成所有人的痛苦和混乱。[deity0_name]，看到人类尚未具有自我控制的成熟度，将法力的流动减少到了trick流，从而从其魏尔德人的思想中引起了人们对其使用的了解。因此，魔术变得很稀有，它的使用是在其管家的奉献精神和能量上所必需的。', 原英文: '无' -> 新英文: 'episode(uses=1,tag=meme_TM_Transcendent)     ->Magic, granted to good and evil alike, was used uncaringly and threatened to sunder the earth, causing pain and chaos to all. [deity0_name], seeing that humankind did not yet have the maturity for self-control, reduced the flow of mana to a trickle, striking the knowledge of its use from the minds of its weilders. Thus, magic became a rarity, where its use was requisite upon the dedication and energy of its stewards.',更新于2026-02-14-->
   <!--EN: episode(uses=1,tag=meme_TM_Transcendent)     ->Magic, granted to good and evil alike, was used uncaringly and threatened to sunder the earth, causing pain and chaos to all. [deity0_name], seeing that humankind did not yet have the maturity for self-control, reduced the flow of mana to a trickle, striking the knowledge of its use from the minds of its weilders. Thus, magic became a rarity, where its use was requisite upon the dedication and energy of its stewards.-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_TM_Transcendent)     -&amp;gt;魔术被授予善与恶，被无处不在，威胁要晒太阳，造成所有人的痛苦和混乱。[deity0_name]，看到人类尚未具有自我控制的成熟度，将法力的流动减少到了trick流，从而从其魏尔德人的思想中引起了人们对其使用的了解。因此，魔术变得很稀有，它的使用是在其管家的奉献精神和能量上所必需的。</TM_Transcendent.descriptionMaker.rules.rulesStrings.1>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_TM_Transcendent)     ->魔术被授予善与恶，被无处不在，威胁要晒太阳，造成所有人的痛苦和混乱。[deity0_name]，看到人类尚未具有自我控制的成熟度，将法力的流动减少到了trick流，从而从其魏尔德人的思想中引起了人们对其使用的了解。因此，魔术变得很稀有，它的使用是在其管家的奉献精神和能量上所必需的。</TM_Transcendent.descriptionMaker.rules.rulesStrings.1>
   <!--原中文: 'intro(tag=meme_TM_Transcendent)              ->在 [place_summary] [place_name]，真正的诞生仪式在 [deity0_name] 的 [diety0_type] [altarRoomLabel] 开始，在那里，惊恐而又绝望的 [FounderName] 以强烈和热情伸出援手，通过纯粹的意志力创造了一条道路 。 [diety0_name]见证了这种深不可测的精神力量，赋予了[FounderName]与魔法的联系。', 原英文: '无' -> 新英文: 'intro(tag=meme_TM_Transcendent)              ->At the [place_summary] [place_name], the ritual of true birth began at the [diety0_type] [altarRoomLabel] of [deity0_name] where the terrified yet desperate [founderName] reached out with intensity and ferver to create a path through sheer strength of will. [diety0_name], witnessing this unfathomable strength of spirit, bestowed upon [founderName] a connection to magic.',更新于2026-02-14-->
   <!--EN: intro(tag=meme_TM_Transcendent)              ->At the [place_summary] [place_name], the ritual of true birth began at the [diety0_type] [altarRoomLabel] of [deity0_name] where the terrified yet desperate [founderName] reached out with intensity and ferver to create a path through sheer strength of will. [diety0_name], witnessing this unfathomable strength of spirit, bestowed upon [founderName] a connection to magic.-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_TM_Transcendent)              -&amp;gt;在 [place_summary] [place_name]，真正的诞生仪式在 [deity0_name] 的 [diety0_type] [altarRoomLabel] 开始，在那里，惊恐而又绝望的 [FounderName] 以强烈和热情伸出援手，通过纯粹的意志力创造了一条道路 。 [diety0_name]见证了这种深不可测的精神力量，赋予了[FounderName]与魔法的联系。</TM_Transcendent.descriptionMaker.rules.rulesStrings.2>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_TM_Transcendent)              ->在 [place_summary] [place_name]，真正的诞生仪式在 [deity0_name] 的 [diety0_type] [altarRoomLabel] 开始，在那里，惊恐而又绝望的 [FounderName] 以强烈和热情伸出援手，通过纯粹的意志力创造了一条道路 。 [diety0_name]见证了这种深不可测的精神力量，赋予了[FounderName]与魔法的联系。</TM_Transcendent.descriptionMaker.rules.rulesStrings.2>
   <!--原中文: 'conflict(tag=meme_TM_Transcendent)           ->一个暴力的[foeleader]试图抓住这种力量，杀死了许多人到达[placeName]。', 原英文: '无' -> 新英文: 'conflict(tag=meme_TM_Transcendent)           ->A violent [foeLeader] tried to seize this power, killing many to reach [place_name].',更新于2026-02-14-->
   <!--EN: conflict(tag=meme_TM_Transcendent)           ->A violent [foeLeader] tried to seize this power, killing many to reach [place_name].-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_TM_Transcendent)           -&amp;gt;一个暴力的[foeleader]试图抓住这种力量，杀死了许多人到达[placeName]。</TM_Transcendent.descriptionMaker.rules.rulesStrings.3>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_TM_Transcendent)           ->一个暴力的[foeleader]试图抓住这种力量，杀死了许多人到达[placeName]。</TM_Transcendent.descriptionMaker.rules.rulesStrings.3>
   <!--原中文: 'founderJoin(tag=meme_TM_Transcendent)        ->[deity0_name]命令[foundername]学习魔术和捍卫[funder_possessive]部落的方式。[foundername]在[partarroomlabel]上度过了每个醒着的小时与[deity0_name]交流。', 原英文: '无' -> 新英文: 'founderJoin(tag=meme_TM_Transcendent)        ->[deity0_name] commanded [founderName] to learn the ways of magic and defend [founder_possessive] tribe. [founderName] spent every waking hour communing with [deity0_name] at [altarRoomLabel].',更新于2026-02-14-->
   <!--EN: founderJoin(tag=meme_TM_Transcendent)        ->[deity0_name] commanded [founderName] to learn the ways of magic and defend [founder_possessive] tribe. [founderName] spent every waking hour communing with [deity0_name] at [altarRoomLabel].-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_TM_Transcendent)        -&amp;gt;[deity0_name]命令[foundername]学习魔术和捍卫[funder_possessive]部落的方式。[foundername]在[partarroomlabel]上度过了每个醒着的小时与[deity0_name]交流。</TM_Transcendent.descriptionMaker.rules.rulesStrings.4>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_TM_Transcendent)        ->[deity0_name]命令[foundername]学习魔术和捍卫[funder_possessive]部落的方式。[foundername]在[partarroomlabel]上度过了每个醒着的小时与[deity0_name]交流。</TM_Transcendent.descriptionMaker.rules.rulesStrings.4>
   <!--原中文: 'victory(tag=meme_TM_Transcendent)            ->[foeleader]被恶意的海洋吞噬了，将[foeleader_possessive]军队进军[place_name]杀死[fundername]。然而，在估算的那天，[foundername]从[founder_possessive]与[diety0_name]的交流中出现，并召集了[tm_stormtype]和[tm_stormtype]的风暴，完全破坏了[foeleader]的军队。因此，魔术的血统占据了，并开始在整个[place_summary]中散布其根源。', 原英文: '无' -> 新英文: 'victory(tag=meme_TM_Transcendent)            ->Consumed by an ocean of malice, [foeLeader] marched [foeLeader_possessive] armies upon [place_name] to kill [founderName]. Yet, on the day of reckoning, [founderName] emerged from [founder_possessive] communion with [diety0_name] and called forth a storm of [TM_stormType] and [TM_stormType], utterly destroying the armies of [foeLeader]. Thus, the bloodline of magic took hold and began to spread its roots throughout [place_summary].',更新于2026-02-14-->
   <!--EN: victory(tag=meme_TM_Transcendent)            ->Consumed by an ocean of malice, [foeLeader] marched [foeLeader_possessive] armies upon [place_name] to kill [founderName]. Yet, on the day of reckoning, [founderName] emerged from [founder_possessive] communion with [diety0_name] and called forth a storm of [TM_stormType] and [TM_stormType], utterly destroying the armies of [foeLeader]. Thus, the bloodline of magic took hold and began to spread its roots throughout [place_summary].-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_TM_Transcendent)            -&amp;gt;[foeleader]被恶意的海洋吞噬了，将[foeleader_possessive]军队进军[place_name]杀死[fundername]。然而，在估算的那天，[foundername]从[founder_possessive]与[diety0_name]的交流中出现，并召集了[tm_stormtype]和[tm_stormtype]的风暴，完全破坏了[foeleader]的军队。因此，魔术的血统占据了，并开始在整个[place_summary]中散布其根源。</TM_Transcendent.descriptionMaker.rules.rulesStrings.5>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_TM_Transcendent)            ->[foeleader]被恶意的海洋吞噬了，将[foeleader_possessive]军队进军[place_name]杀死[fundername]。然而，在估算的那天，[foundername]从[founder_possessive]与[diety0_name]的交流中出现，并召集了[tm_stormtype]和[tm_stormtype]的风暴，完全破坏了[foeleader]的军队。因此，魔术的血统占据了，并开始在整个[place_summary]中散布其根源。</TM_Transcendent.descriptionMaker.rules.rulesStrings.5>
   <!--原中文: 'setup(tag=meme_TM_Transcendent)              ->[Foundername]为他的Urbworld霸主而战，看到了很多悲伤，分发和死亡。[funder_pronoun]筋疲力尽，扔掉了他的武器，誓言[diety0_name]以塑造[funder_possessive]的未来，以追求和平与繁荣而不是暴力。', 原英文: '无' -> 新英文: 'setup(tag=meme_TM_Transcendent)              ->[founderName] fought in many battles for his urbworld overlords, seeing much grief, dispare, and death. Exhausted from the senselessness, [founder_pronoun] threw away his weapons and vowed to [diety0_name] to shape [founder_possessive] future in the pursuit of peace and prosperity instead of violence.',更新于2026-02-14-->
   <!--EN: setup(tag=meme_TM_Transcendent)              ->[founderName] fought in many battles for his urbworld overlords, seeing much grief, dispare, and death. Exhausted from the senselessness, [founder_pronoun] threw away his weapons and vowed to [diety0_name] to shape [founder_possessive] future in the pursuit of peace and prosperity instead of violence.-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_TM_Transcendent)              -&amp;gt;[Foundername]为他的Urbworld霸主而战，看到了很多悲伤，分发和死亡。[funder_pronoun]筋疲力尽，扔掉了他的武器，誓言[diety0_name]以塑造[funder_possessive]的未来，以追求和平与繁荣而不是暴力。</TM_Transcendent.descriptionMaker.rules.rulesStrings.6>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_TM_Transcendent)              ->[Foundername]为他的Urbworld霸主而战，看到了很多悲伤，分发和死亡。[funder_pronoun]筋疲力尽，扔掉了他的武器，誓言[diety0_name]以塑造[funder_possessive]的未来，以追求和平与繁荣而不是暴力。</TM_Transcendent.descriptionMaker.rules.rulesStrings.6>
   <!--原中文: 'story(uses=1,tag=meme_TM_Transcendent)       ->[foundername]宣讲和平的方式是永恒生活的真实方式，并从他的赞助人的宠儿中获得了强大的[diety0_type]魔术[diety0_name]。', 原英文: '无' -> 新英文: 'story(uses=1,tag=meme_TM_Transcendent)       ->[founderName] preached the peaceful way as the true way to eternal life and was granted powerful [diety0_type] magic from his patron diety [diety0_name].',更新于2026-02-14-->
   <!--EN: story(uses=1,tag=meme_TM_Transcendent)       ->[founderName] preached the peaceful way as the true way to eternal life and was granted powerful [diety0_type] magic from his patron diety [diety0_name].-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_TM_Transcendent)       -&amp;gt;[foundername]宣讲和平的方式是永恒生活的真实方式，并从他的赞助人的宠儿中获得了强大的[diety0_type]魔术[diety0_name]。</TM_Transcendent.descriptionMaker.rules.rulesStrings.7>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_TM_Transcendent)       ->[foundername]宣讲和平的方式是永恒生活的真实方式，并从他的赞助人的宠儿中获得了强大的[diety0_type]魔术[diety0_name]。</TM_Transcendent.descriptionMaker.rules.rulesStrings.7>
   <!--原中文: 'lessonIntro(tag=meme_TM_Transcendent)         ->为了赋予自己能力，我们必须首先放弃阻碍我们成长的技术和装置。只有这样，为生存而奋斗才能改变我们。', 原英文: '无' -> 新英文: 'lessonIntro(tag=meme_TM_Transcendent)         ->In order to empower ourselves, we must first give up the technologies and contraptions that stunt our growth. Only then can the struggle to survive change us.',更新于2026-02-14-->
   <!--EN: lessonIntro(tag=meme_TM_Transcendent)         ->In order to empower ourselves, we must first give up the technologies and contraptions that stunt our growth. Only then can the struggle to survive change us.-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_TM_Transcendent)         -&amp;gt;为了赋予自己能力，我们必须首先放弃阻碍我们成长的技术和装置。只有这样，为生存而奋斗才能改变我们。</TM_Transcendent.descriptionMaker.rules.rulesStrings.8>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_TM_Transcendent)         ->为了赋予自己能力，我们必须首先放弃阻碍我们成长的技术和装置。只有这样，为生存而奋斗才能改变我们。</TM_Transcendent.descriptionMaker.rules.rulesStrings.8>
   <!--原中文: 'lesson(tag=meme_TM_Transcendent)              ->我们通过克服挑战而成长和适应。', 原英文: '无' -> 新英文: 'lesson(tag=meme_TM_Transcendent)              ->We grow and adapt by overcoming challenges.',更新于2026-02-14-->
   <!--EN: lesson(tag=meme_TM_Transcendent)              ->We grow and adapt by overcoming challenges.-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_TM_Transcendent)              -&amp;gt;我们通过克服挑战而成长和适应。</TM_Transcendent.descriptionMaker.rules.rulesStrings.9>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_TM_Transcendent)              ->我们通过克服挑战而成长和适应。</TM_Transcendent.descriptionMaker.rules.rulesStrings.9>
   <!--原中文: 'lessonReinforcement(tag=meme_TM_Transcendent) ->为了获得真正的力量，我们必须放弃提供稳定性并使我们保持弱的对象。', 原英文: '无' -> 新英文: 'lessonReinforcement(tag=meme_TM_Transcendent) ->In order to attain true power, we must give up the objects that provide stability and allow us to remain weak.',更新于2026-02-14-->
   <!--EN: lessonReinforcement(tag=meme_TM_Transcendent) ->In order to attain true power, we must give up the objects that provide stability and allow us to remain weak.-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_TM_Transcendent) -&amp;gt;为了获得真正的力量，我们必须放弃提供稳定性并使我们保持弱的对象。</TM_Transcendent.descriptionMaker.rules.rulesStrings.10>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_TM_Transcendent) ->为了获得真正的力量，我们必须放弃提供稳定性并使我们保持弱的对象。</TM_Transcendent.descriptionMaker.rules.rulesStrings.10>
   <!--原中文: 'archistBasis(tag=meme_TM_Transcendent)       ->当Archotech出现时，他们从不关心外表。他们向我们展示了思维高于物理形式。', 原英文: '无' -> 新英文: 'archistBasis(tag=meme_TM_Transcendent)       ->When the archotechs appeared they were never concerned for appearances; they showed us that the mind stands above the physical form.',更新于2026-02-14-->
   <!--EN: archistBasis(tag=meme_TM_Transcendent)       ->When the archotechs appeared they were never concerned for appearances; they showed us that the mind stands above the physical form.-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_TM_Transcendent)       -&amp;gt;当Archotech出现时，他们从不关心外表。他们向我们展示了思维高于物理形式。</TM_Transcendent.descriptionMaker.rules.rulesStrings.11>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_TM_Transcendent)       ->当Archotech出现时，他们从不关心外表。他们向我们展示了思维高于物理形式。</TM_Transcendent.descriptionMaker.rules.rulesStrings.11>
   <!--原中文: 'archistFact(tag=meme_TM_Transcendent)        ->Archotechs并没有预见到人类内的魔法种子，他们实现启蒙运动的指示经历了一个不可预见的转变。', 原英文: '无' -> 新英文: 'archistFact(tag=meme_TM_Transcendent)        ->Archotechs did not foresee the seed of magic within humankind and their instructions to achieve enlightenment took an unforseen turn.',更新于2026-02-14-->
   <!--EN: archistFact(tag=meme_TM_Transcendent)        ->Archotechs did not foresee the seed of magic within humankind and their instructions to achieve enlightenment took an unforseen turn.-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_TM_Transcendent)        -&amp;gt;Archotechs并没有预见到人类内的魔法种子，他们实现启蒙运动的指示经历了一个不可预见的转变。</TM_Transcendent.descriptionMaker.rules.rulesStrings.12>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_TM_Transcendent)        ->Archotechs并没有预见到人类内的魔法种子，他们实现启蒙运动的指示经历了一个不可预见的转变。</TM_Transcendent.descriptionMaker.rules.rulesStrings.12>
   <!--原中文: 'archistProphecy(tag=meme_TM_Transcendent)    ->[在Theeend]，人类能够通过启示和与魔术的联系来实现一种新的启蒙形式。', 原英文: '无' -> 新英文: 'archistProphecy(tag=meme_TM_Transcendent)    ->[inTheEnd], humankind was able to achieve a new form of enlightenment through the revelation and connection to magic.',更新于2026-02-14-->
   <!--EN: archistProphecy(tag=meme_TM_Transcendent)    ->[inTheEnd], humankind was able to achieve a new form of enlightenment through the revelation and connection to magic.-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_TM_Transcendent)    -&amp;gt;[在Theeend]，人类能够通过启示和与魔术的联系来实现一种新的启蒙形式。</TM_Transcendent.descriptionMaker.rules.rulesStrings.13>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_TM_Transcendent)    ->[在Theeend]，人类能够通过启示和与魔术的联系来实现一种新的启蒙形式。</TM_Transcendent.descriptionMaker.rules.rulesStrings.13>
   <!--原中文: 'animistFact(tag=meme_TM_Transcendent)        ->精神领域随着魔术的渗透而越来越近。精神的面纱可以为那些魔术强大的人暂时分开，甚至付出了价格。', 原英文: '无' -> 新英文: 'animistFact(tag=meme_TM_Transcendent)        ->The spirit realm draws ever closer with the permeation of magic; the veil of spirits can be parted momentarily for those strong in magic, and even crossed if the price is paid.',更新于2026-02-14-->
   <!--EN: animistFact(tag=meme_TM_Transcendent)        ->The spirit realm draws ever closer with the permeation of magic; the veil of spirits can be parted momentarily for those strong in magic, and even crossed if the price is paid.-->
-  <TM_Transcendent.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_TM_Transcendent)        -&amp;gt;精神领域随着魔术的渗透而越来越近。精神的面纱可以为那些魔术强大的人暂时分开，甚至付出了价格。</TM_Transcendent.descriptionMaker.rules.rulesStrings.14>
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_TM_Transcendent)        ->精神领域随着魔术的渗透而越来越近。精神的面纱可以为那些魔术强大的人暂时分开，甚至付出了价格。</TM_Transcendent.descriptionMaker.rules.rulesStrings.14>
 </LanguageData>
