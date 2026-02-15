@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: [PAWN_nameDef] is attuned with arcane forces, interacting directly with raw arcane power to move matter and energy at will.-->
+  <Arcanist.degreeDatas.0.description>[PAWN_nameDef]已成为一名奥术法师。只有最敏锐、聪慧、严于律己的学生才能够走上奥术法师之路,奥术法师所能够掌握的魔法太过强大而危险,只有最专注的研习者才能够窥见其中的奥秘。</Arcanist.degreeDatas.0.description>
+  <!--EN: Arcane mage-->
+  <Arcanist.degreeDatas.0.label>奥术法师</Arcanist.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is training to become a master of the blade and excels at fighting in melee combat.-->
+  <Bladedancer.degreeDatas.0.description>[PAWN_nameDef]经过严格的训练成为了一名见习刀锋舞者。</Bladedancer.degreeDatas.0.description>
+  <!--EN: Bladesman-->
+  <Bladedancer.degreeDatas.0.label>见习刀锋舞者</Bladedancer.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] has trained to become a sword master, dangerously skilled in melee combat.-->
+  <Bladedancer.degreeDatas.1.description>[PAWN_nameDef]的努力没有被白费,[PAWN_nameDef]成为了一名初阶刀锋舞者,多年的训练让[PAWN_pronoun]在近战中更加危险。</Bladedancer.degreeDatas.1.description>
+  <!--EN: Blademaster-->
+  <Bladedancer.degreeDatas.1.label>初阶刀锋舞者</Bladedancer.degreeDatas.1.label>
+  <!--EN: [PAWN_nameDef] is a blade dancer, highly skilled in melee combat.  Watching [PAWN_objective] fight is like watching a dance, every action precise and flawless as it flows from one form into another.-->
+  <Bladedancer.degreeDatas.2.description>[PAWN_nameDef]已经成为了一名刀锋舞者大师,战场上的[PAWN_nameDef]如同死亡莲华一般收割着敌人的生命。</Bladedancer.degreeDatas.2.description>
+  <!--EN: Bladedancer-->
+  <Bladedancer.degreeDatas.2.label>高阶刀锋舞者</Bladedancer.degreeDatas.2.label>
+  <!--EN: [PAWN_nameDef] has become a legend, [PAWN_possessive] skill in melee combat is is known across the world. [PAWN_possessive] skill in combat makes it look as if each movement, each strike, is merely a stitch in a tapestry that depicts [PAWN_possessive] victory.-->
+  <Bladedancer.degreeDatas.3.description>[PAWN_nameDef]在生死之间领悟了战斗的终极奥秘,已经没有人是[PAWN_pronoun]的一合之敌了。[PAWN_pronoun]的每一次移动和攻击都只不过是[PAWN_pronoun]在胜利的画卷上落下的一笔而已。</Bladedancer.degreeDatas.3.description>
+  <!--EN: Legendary bladedancer-->
+  <Bladedancer.degreeDatas.3.label>传奇刀锋舞者</Bladedancer.degreeDatas.3.label>
+  <!--EN: [PAWN_nameDef] is a blood mage and has consigned to the dark art of manipulating the life blood of living things as a means of increasing [PAWN_possessive] power.\n\nAs a blood mage, [PAWN_nameDef] has learned to control the life force within and command it to [PAWN_possessive] will. [PAWN_possessive] connection to life makes it easier to associate with other living things, but doesn't appreciate effort without immediate results.-->
+  <BloodMage.degreeDatas.0.description>[PAWN_nameDef]投身于黑暗艺术中,将操控生命之血作为增强力量的手段。</BloodMage.degreeDatas.0.description>
+  <!--EN: Blood Mage-->
+  <BloodMage.degreeDatas.0.label>血法师</BloodMage.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] has rejected all predefined magic paths and refuses to attribute objective reality in [PAWN_possessive] search for power; there are no truths, all magic is permitted. This tradition has enabled [PAWN_nameDef] to learn any type of magic, although [PAWN_pronoun] will never master any.-->
+  <ChaosMage.degreeDatas.0.description>[PAWN_nameDef] 拒绝使用所有已经设定了的法术,[PAWN_possessive] 追求;没有真理,所有的魔法都是允许的。这个传统使[PAWN_nameDef]能够学习任何类型的魔法,尽管[PAWN_pronoun]永远也学不会。.</ChaosMage.degreeDatas.0.description>
+  <!--EN: Chaos Mage-->
+  <ChaosMage.degreeDatas.0.label>混沌法师</ChaosMage.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a chronomancer. Through arcane sight, [PAWN_pronoun] is able to view reality as it once was and as it could be, and can manipulate objects between those realities.-->
+  <Chronomancer.degreeDatas.0.description>[PAWN_nameDef]是一名时间法师,[PAWN_pronoun]能徜徉于时间长河之中看见过去、现在和未来。一位强大的时间法师甚至能回到过去、逆转未来。</Chronomancer.degreeDatas.0.description>
+  <!--EN: Chronomancer-->
+  <Chronomancer.degreeDatas.0.label>时间法师</Chronomancer.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a Death Knight - harbinger of doom and a representative of the ever approaching inevitability of death and decay. [PAWN_possessive] solemn attitude makes most pawns uneasy and even fewer approve of [PAWN_possessive] methods.-->
+  <DeathKnight.degreeDatas.0.description>[PAWN_nameDef]是一位死亡骑士,[PAWN_pronoun]的存在预示着厄运的来临,代表着死亡和腐朽。[PAWN_nameDef]对生命的态度让大多数人不安。</DeathKnight.degreeDatas.0.description>
+  <!--EN: Death Knight-->
+  <DeathKnight.degreeDatas.0.label>死亡骑士</DeathKnight.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is attuned with the forces of nature.-->
+  <Druid.degreeDatas.0.description>[PAWN_nameDef]已成为一名德鲁伊,[PAWN_pronoun]能驾驭强大的自然力量来维护平衡、保护生命。</Druid.degreeDatas.0.description>
+  <!--EN: Druid-->
+  <Druid.degreeDatas.0.label>德鲁伊</Druid.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is an enchanter, attuned to the composition of matter and materials. [PAWN_pronoun] can manipulate matter to [PAWN_possessive] will, frequently in unnatural ways, and [PAWN_possessive] powers of transmutation can be permanent when sufficient effort is applied.-->
+  <Enchanter.degreeDatas.0.description>[PAWN_nameDef]是一名附魔师,擅长以不自然的方式操纵物质的形态。</Enchanter.degreeDatas.0.description>
+  <!--EN: Enchanter-->
+  <Enchanter.degreeDatas.0.label>附魔师</Enchanter.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a master of disguise and imitation; able to manipulate and capture the muscle and mental actions of another and release it as their own.-->
+  <Faceless.degreeDatas.0.description>[PAWN_nameDef]是伪装和模仿的大师; 能够完美的模拟另一个人。</Faceless.degreeDatas.0.description>
+  <!--EN: Faceless-->
+  <Faceless.degreeDatas.0.label>无面者</Faceless.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is attuned with the earth and natural order, drawing power from the physical realm and intertwining it with arcane energy. [PAWN_pronoun] is capable of reinforcing physical elements, and bending them, as [PAWN_pronoun] needs.-->
+  <Geomancer.degreeDatas.0.description>[PAWN_nameDef]是一名地卜师,[PAWN_pronoun]从大地中吸取力量从而保护同伴或伤害敌人。</Geomancer.degreeDatas.0.description>
+  <!--EN: Geomancer-->
+  <Geomancer.degreeDatas.0.label>地卜师</Geomancer.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] has learned how to train the Gladiator combat style.-->
+  <Gladiator.degreeDatas.0.description>[PAWN_nameDef]曾经学习过角斗士的战斗机巧。</Gladiator.degreeDatas.0.description>
+  <!--EN: Gladiator-->
+  <Gladiator.degreeDatas.0.label>斗士</Gladiator.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is attuned with the elements of water.-->
+  <HeartOfFrost.degreeDatas.0.description>[PAWN_nameDef]已与天地中的冰元素同调,成为一名掌控冰霜的法师。“暴雪,冻住[PAWN_pronoun]们！”</HeartOfFrost.degreeDatas.0.description>
+  <!--EN: Ice mage-->
+  <HeartOfFrost.degreeDatas.0.label>冰霜法师</HeartOfFrost.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is attuned with the elements of fire.-->
+  <InnerFire.degreeDatas.0.description>[PAWN_nameDef]已与天地中的火元素同调,成为一名掌控火焰的法师。“让火焰净化一切！！”</InnerFire.degreeDatas.0.description>
+  <!--EN: Fire mage-->
+  <InnerFire.degreeDatas.0.label>烈焰法师</InnerFire.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] has transformed into a lich, forsaking life in exchange for an power and an immortal existence. [PAWN_pronoun] disdains menial taks, choosing to employ undead for trivial matters.-->
+  <Lich.degreeDatas.0.description>[PAWN_nameDef]已经选择将自己转换成了一名永生不死的巫妖,[PAWN_pronoun]拥有生前所有的能力,且有无尽的时间来钻研魔法,只有最强大最邪恶的死灵法师才能做到这一切！</Lich.degreeDatas.0.description>
+  <!--EN: Lich-->
+  <Lich.degreeDatas.0.label>巫妖</Lich.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is attuned with the forces of death.-->
+  <Necromancer.degreeDatas.0.description>[PAWN_nameDef]已与冥界之主签订契约,[PAWN_pronoun]将毁灭与死亡带到这个世界。哪怕最坚定的敌人见到[PAWN_pronoun]也会瑟瑟发抖。</Necromancer.degreeDatas.0.description>
+  <!--EN: Necromancer-->
+  <Necromancer.degreeDatas.0.label>死灵法师</Necromancer.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] has been bestowed with divine might and has sworn to uphold justice wherever [PAWN_pronoun] stands.-->
+  <Paladin.degreeDatas.0.description>[PAWN_nameDef]被赋予了最神圣的力量,[PAWN_pronoun]曾向圣光发誓,无论何时何地一定要铲除邪恶,伸张正义。</Paladin.degreeDatas.0.description>
+  <!--EN: Paladin-->
+  <Paladin.degreeDatas.0.label>圣骑士</Paladin.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is physically adept and has potential to learn special combat forms.-->
+  <PhysicalProdigy.degreeDatas.0.description>[PAWN_nameDef]体格强壮、身形敏捷,拥有成为一名战士的资质。</PhysicalProdigy.degreeDatas.0.description>
+  <!--EN: physically adept-->
+  <PhysicalProdigy.degreeDatas.0.label>身体技巧</PhysicalProdigy.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is attuned with the forces of life and healing and has taken a vow against harming others.-->
+  <Priest.degreeDatas.0.description>[PAWN_nameDef]被赋予了神圣的力量,[PAWN_pronoun]使用圣光的力量治愈同伴,并发誓不会伤害[PAWN_pronoun]人。</Priest.degreeDatas.0.description>
+  <!--EN: Priest-->
+  <Priest.degreeDatas.0.label>牧师</Priest.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a trained woodsman; preferring the silence and lethality of a bow and armed with field-craft and cunning, [PAWN_pronoun] is prepared to defend [PAWN_possessive] land from invaders.-->
+  <Ranger.degreeDatas.0.description>[PAWN_nameDef]在早期与野兽的搏斗中学会了最基本的猎人技巧。</Ranger.degreeDatas.0.description>
+  <!--EN: Woodsman-->
+  <Ranger.degreeDatas.0.label>见习猎人</Ranger.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a hunter; [PAWN_pronoun] employs field-craft, cunning, and skill with a bow to defend [PAWN_possessive] land from invaders.-->
+  <Ranger.degreeDatas.1.description>[PAWN_nameDef]使用弓箭与陷阱来保卫土地不受敌人的侵犯。</Ranger.degreeDatas.1.description>
+  <!--EN: Hunter-->
+  <Ranger.degreeDatas.1.label>初阶猎人</Ranger.degreeDatas.1.label>
+  <!--EN: [PAWN_nameDef] is a scout; comfortable in the wilds, and relied upon to be the eyes and ears of a colony. [PAWN_pronoun] employs expertise in field-craft, cunning, and the bow to defend [PAWN_possessive] land from invaders.-->
+  <Ranger.degreeDatas.2.description>[PAWN_nameDef]的狩猎技艺已经非常娴熟,[PAWN_pronoun]即使闭上眼也能打下天上飞过的鸟。</Ranger.degreeDatas.2.description>
+  <!--EN: Scout-->
+  <Ranger.degreeDatas.2.label>高阶猎人</Ranger.degreeDatas.2.label>
+  <!--EN: [PAWN_nameDef] is a ranger; master of the wilds.  [PAWN_pronoun] is a master of [PAWN_possessive] craft and defender of [PAWN_possessive] land.-->
+  <Ranger.degreeDatas.3.description>[PAWN_nameDef]是一位真正的传奇猎人,无数次生死之间的经历让[PAWN_pronoun]成为这一带最家喻户晓的人物。</Ranger.degreeDatas.3.description>
+  <!--EN: Ranger-->
+  <Ranger.degreeDatas.3.label>传奇猎人</Ranger.degreeDatas.3.label>
+  <!--EN: [PAWN_nameDef] is attuned with the elements of lightning.-->
+  <StormBorn.degreeDatas.0.description>[PAWN_nameDef]已与天地中的雷元素同调,成为一名掌控雷电的法师。“[PAWN_pronoun]的力量如同宙斯一般无穷无尽！”</StormBorn.degreeDatas.0.description>
+  <!--EN: Lightning mage-->
+  <StormBorn.degreeDatas.0.label>雷霆法师</StormBorn.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] has a strange genetic strain that grants her enhanced physical attributes. She is also extremely attractive with an exotic facial structure that captures the eye. A succubus is more likely to exploit her physical advantages and have others do her work for her. [PAWN_possessive] succubus charm has its disadvantages and can cause some to become jealous and even despise [PAWN_objective].-->
+  <Succubus.degreeDatas.0.description>[PAWN_nameDef]有着令人嫉妒的精致面容。[PAWN_pronoun]则利用自己的魅力和一点小小的法力让许多人成为了[PAWN_pronoun]的奴隶。</Succubus.degreeDatas.0.description>
+  <!--EN: Succubus-->
+  <Succubus.degreeDatas.0.label>魅魔</Succubus.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is able to summon beings and materialize objects from other planes of existence.-->
+  <Summoner.degreeDatas.0.description>[PAWN_nameDef]已经成为一名召唤师,[PAWN_pronoun]能从不同的位面召唤出不同的生物或物体。</Summoner.degreeDatas.0.description>
+  <!--EN: Summoner-->
+  <Summoner.degreeDatas.0.label>召唤师</Summoner.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is an apothecary, trained in the preparation of medicines, balms, tinctures and drugs. [PAWN_possessive] profession exhibits strict discipline and dedication, and [PAWN_pronoun] has learned to apply [PAWN_possessive] discipline to more generic, physical skills. With training, [PAWN_pronoun] can become capable in many combat techniques to augment [PAWN_possessive] skill in herbs.-->
+  <TM_Apothecary.degreeDatas.0.description>[PAWN_nameDef] 是一名药剂师,在草本、香脂、酊剂和药物方面受过训练。 [PAWN_possessive] 职业具有无私的奉献精神与严格的操守,同时 [PAWN_pronoun] 已经学会应用 [PAWN_possessive] 的各项技能,尽管现在还不精通。通过相应训练,[PAWN_pronoun] 可以在实战中磨练 [PAWN_possessive]技能。</TM_Apothecary.degreeDatas.0.description>
+  <!--EN: Apothecary-->
+  <TM_Apothecary.degreeDatas.0.label>药剂师</TM_Apothecary.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is abnormally receptive to the ebb and flow of mana, [PAWN_pronoun] will gain mana 40% faster than normal but [PAWN_possessive] maximum mana capacity is reduced by 20.-->
+  <TM_ArcaneConduitTD.degreeDatas.0.description>[PAWN_nameDef]对法力涌动/流失异常敏感,[PAWN_objective] 获得法力的速度比正常快40%,但 [PAWN_possessive]最大法力减少20。</TM_ArcaneConduitTD.degreeDatas.0.description>
+  <!--EN: Arcane Conduit-->
+  <TM_ArcaneConduitTD.degreeDatas.0.label>法力运输者</TM_ArcaneConduitTD.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a natural entertainer, able to lighten the mood and lift the spirits of everyone around [PAWN_objective].-->
+  <TM_Bard.degreeDatas.0.description>[PAWN_nameDef]是一个天生的乐者,与[PAWN_pronoun]待在一起会觉得很快乐。</TM_Bard.degreeDatas.0.description>
+  <!--EN: Entertainer-->
+  <TM_Bard.degreeDatas.0.label>见习吟游诗人</TM_Bard.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a performer; expanding on natural talent, [PAWN_pronoun] has begun to take an conscious role to improve the mood of other colonists.-->
+  <TM_Bard.degreeDatas.1.description>[PAWN_nameDef]意识到自己的演艺天赋,[PAWN_nameDef]开始有意识地承担起鼓舞其[PAWN_pronoun]殖民者的任务。</TM_Bard.degreeDatas.1.description>
+  <!--EN: Performer-->
+  <TM_Bard.degreeDatas.1.label>初阶吟游诗人</TM_Bard.degreeDatas.1.label>
+  <!--EN: Everyone loves being around [PAWN_nameDef]. [PAWN_pronoun] has talent, wit and skill in many forms of entertainment and is able to make a personal connection with almost everyone.-->
+  <TM_Bard.degreeDatas.2.description>每个人都喜欢 [PAWN_nameDef]！[PAWN_pronoun] 在各种社交活动中表现出[PAWN_pronoun]的技巧与天赋,[PAWN_pronoun]几乎和所有人都建立了良好的关系。</TM_Bard.degreeDatas.2.description>
+  <!--EN: Minstrel-->
+  <TM_Bard.degreeDatas.2.label>高阶吟游诗人</TM_Bard.degreeDatas.2.label>
+  <!--EN: [PAWN_nameDef] is a master entertainer. Sharp wit, deft hands, and dry humor are [PAWN_possessive] weapons, and [PAWN_pronoun] is a master of all [PAWN_possessive] weapons.-->
+  <TM_Bard.degreeDatas.3.description>[PAWN_nameDef]已经成为一名传奇,[PAWN_pronoun]拥有无限的智慧,[PAWN_pronoun]的舌头比最锋利的刀刃更为致命。</TM_Bard.degreeDatas.3.description>
+  <!--EN: Bard-->
+  <TM_Bard.degreeDatas.3.label>传奇吟游诗人</TM_Bard.degreeDatas.3.label>
+  <!--EN: [PAWN_nameDef] excels at combat arts and is able to execute combat maneuvers 40% more frequently, however, [PAWN_possessive] talent has fostered an arrogant attitude that reduces [PAWN_possessive] experience gain by 25% and causes other fighters to dislike [PAWN_objective].-->
+  <TM_BoundlessTD.degreeDatas.0.description>[PAWN_nameDef]擅长战斗,能比其他人能够更频繁地执行40%的战技,但是 [PAWN_possessive] 天赋令[PAWN_pronoun]变得十分傲慢,[PAWN_possessive]经验增益减少了25%,其他战士十分厌恶[PAWN_nameDef]</TM_BoundlessTD.degreeDatas.0.description>
+  <!--EN: Boundless-->
+  <TM_BoundlessTD.degreeDatas.0.label>无边无际</TM_BoundlessTD.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a brightmage, able to harness the powers of light to purge evil. [PAWN_pronoun] approaches any task with an unrivaled fervor that usually places [PAWN_objective] at the forefront. Being a Brightmage introduces a dependency on the sun and light, because of this, [PAWN_nameDef] has developed an intense hatred for shadowy and dark caricatures.-->
+  <TM_Brightmage.degreeDatas.0.description>[PAWN_nameDef]是一个光明法师,能够利用光的力量来净化邪恶。[PAWN_pronoun]以无与伦比的热情处理任何任务,通常将[PAWN_objective]放在最前面。作为一个光明法师[PAWN_nameDef]会对太阳和光产生依赖,正因为如此,[PAWN_nameDef]对阴暗和邪恶产生了强烈的仇恨。</TM_Brightmage.degreeDatas.0.description>
+  <!--EN: Brightmage-->
+  <TM_Brightmage.degreeDatas.0.label>光明法师</TM_Brightmage.degreeDatas.0.label>
+  <!--EN: As a Commander, [PAWN_nameDef] exhibits a charismatic personality and stalwart presence that makes other pawns want to follow [PAWN_possessive] lead. Commander's utilize the weight of their presence to inspire nearby pawns, and when that's not enough, they can issue orders that drive their followers to victory. Because [PAWN_nameDef] is used to everyone doing [PAWN_possessive] bidding, [PAWN_pronoun] considers menial tasks beneath [PAWN_possessive] status, and is generally a lackluster worker.-->
+  <TM_Commander.degreeDatas.0.description>作为指挥官,[PAWN_nameDef]展现出超凡魅力和强大的存在感,使其他殖民者趋之若鹜。指挥官利用他们的存在感自然地激励附近的殖民者,当这还不够时,他们可以发布命令,驱使他们的追随者取得胜利。因为[PAWN_nameDef]习惯每个人都崇拜[PAWN_nameDef] 大家都习惯了昕从 [PAWN_possessive]指挥,努力争取[PAWN_possessive]信任.所以[PAWN_pronoun] 认为卑微的工作.应该由比[PAWN_nameDef]地位低的人做,通常是一个迟钝的工人。</TM_Commander.degreeDatas.0.description>
+  <!--EN: Commander-->
+  <TM_Commander.degreeDatas.0.label>指挥官</TM_Commander.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is cursed by magic - tormented by the constant, burning rush of power through [PAWN_possessive] being, and can only gain relief by expending arcane energy. [PAWN_nameDef] will slowly accumulate arcane weakness up until [PAWN_pronoun] would become catatonic, and may become catatonic at any point while at this threshold. Using magical abilities that would normally incur arcane weakness will instead proportionally reduce arcane weakness, as well as the effects of the curse.-->
+  <TM_CursedTD.degreeDatas.0.description>[PAWN_nameDef] 曾经被魔法所诅咒：持续被 [PAWN_possessive] 内在的魔法能量所折磨,时刻紧绷着精神,并且只能通过消耗自身的法力才可获得缓解。奥术诅咒会慢慢积累,最终会出现精神错乱。使用通常会导致奥术虚弱的魔法能力将会相应地减少奥术诅咒,以及抵消诅咒的效果。</TM_CursedTD.degreeDatas.0.description>
+  <!--EN: Cursed-->
+  <TM_CursedTD.degreeDatas.0.label>受诅咒者</TM_CursedTD.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is an empath, able to feel and manipulate the emotions of those around [PAWN_objective]. [PAWN_possessive]'s abilities are tied to magic, but have affected [PAWN_objective] on a more innate level. However, with training, [PAWN_nameDef] can still become an adept magic user. For better or worse, empath's have a very strong presence and can easily read the presence of others; the effectiveness of their abilities are closely tied to their aptitude for overcoming another's defenses.-->
+  <TM_Empath.degreeDatas.0.description>[PAWN_nameDef] 是一名读心师,能够感觉到和操纵周围人的情绪。[PAWN_possessive] 能力与魔法紧密相关,同时也影响着[PAWN_objective] 的内在。通过训练,[PAWN_nameDef] 可以成为一个熟练的魔法使用者。好坏与否,读心师师有一种非常强烈的共感能力,可以很容易地读懂别人的内在；读心能力的有效性与是否能够攻克他人的心理防线密切相关。</TM_Empath.degreeDatas.0.description>
+  <!--EN: Empath-->
+  <TM_Empath.degreeDatas.0.label>读心师</TM_Empath.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is blessed by magic, able to harness its power without suffering the full side-effects. Psychic sensitivity is increased by 50% and any magic ability used only incurs half the normal arcane weakness.-->
+  <TM_EnlightenedTD.degreeDatas.0.description>[PAWN_nameDef] 天生受到魔法的祝福,能够利用它的力量而不受所有副作用的影响。 心灵敏感性增加50%,任何魔法技能的使用只会导致一半的法力空虚。</TM_EnlightenedTD.degreeDatas.0.description>
+  <!--EN: Enlightened-->
+  <TM_EnlightenedTD.degreeDatas.0.label>先哲</TM_EnlightenedTD.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a descendant of fae folk and has a natural connection to the arcane. [PAWN_possessive] arcane resistance is reduced by 40% but mana regeneration and maximum mana is increased by 20%. Spell costs are reduced by 10%.-->
+  <TM_FaeBloodTD.degreeDatas.0.description>[PAWN_nameDef] 是精灵族的后裔,与奥术有着天然的联系。 [PAWN_possessive] 法术抗性降低40%,但法力回复和最大法力提高20%,同时法术消耗降低10%。</TM_FaeBloodTD.degreeDatas.0.description>
+  <!--EN: Fae blood-->
+  <TM_FaeBloodTD.degreeDatas.0.label>精灵血脉</TM_FaeBloodTD.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a descendant of giants - endowed with with great strength and stamina, though slow to recover. [PAWN_possessive] max stamina is increased by 80%, but stamina regeneration is reduced by 40%. Any attack made while using a melee weapon, or unarmed, deals an additional 25% damage.-->
+  <TM_GiantsBloodTD.degreeDatas.0.description>[PAWN_nameDef] 是巨人的后裔,被赋予了巨大的力量和耐力,尽管恢复缓慢。 最大耐力增加80%,但耐力回复减少40%。 使用近战武器或出拳时的任何攻击造成额外25%的伤害。</TM_GiantsBloodTD.degreeDatas.0.description>
+  <!--EN: Giants blood-->
+  <TM_GiantsBloodTD.degreeDatas.0.label>巨人后裔</TM_GiantsBloodTD.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] has a magical gift. [PAWN_pronoun] can harness this gift to become a mage by studying the mysterious secrets within an arcane script.-->
+  <TM_Gifted.degreeDatas.0.description>[PAWN_nameDef]拥有与生俱来的魔法天赋,[PAWN_pronoun]可以通过学习卷轴中的知识而成为一名高贵的法师。</TM_Gifted.degreeDatas.0.description>
+  <!--EN: magically gifted-->
+  <TM_Gifted.degreeDatas.0.label>魔法天赋</TM_Gifted.degreeDatas.0.label>
+  <!--EN: Golemancers prefer to weave their magic through powerful runes and sigils that are able to transfer purpose into an object. [PAWN_nameDef] is no exception; [PAWN_pronoun] can create runes that enhance basic mechanics, alter chemicals in biological matter, and animate mundane material into life-like, monstrous creatures. Golemancers are most effective when channeling their magic through symbols and find it more difficult to convert mana to energy directly but are also have higher arcane resistances. Most golemancers tend to find rocks more interesting than people and have little concern for cleanliness.-->
+  <TM_Golemancer.degreeDatas.0.description>傀儡师使喜欢通过强大的符文和秘符来编织他们的魔法,这些符文和秘符能够将目标转化为一个物体。[PAWN_nameDef] 也不例外；[PAWN_pronoun] 可以创造符文,增强基本机械,改变生物中的化学物质,并将奇特材料制作成栩栩如生的怪物,他们发现直接将法力转化为能量更困难,而通过秘符引导魔法时效率会多很多；他们拥有比一般人更高的魔法抗性。大多数傀儡使认为研究石头比人更有趣,也不太关心清洁。</TM_Golemancer.degreeDatas.0.description>
+  <!--EN: Golemancer-->
+  <TM_Golemancer.degreeDatas.0.label>傀儡师</TM_Golemancer.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] has an increased resistance to the ebb and flow of mana which allows [PAWN_objective] to hold an additional 40 mana, but reduces [PAWN_possessive] mana regeneration by 20%.-->
+  <TM_ManaWellTD.degreeDatas.0.description>[PAWN_nameDef]对法力涌动/流失有一定的抵抗能力,[PAWN_objective] 增加40点法力上限,但减少 [PAWN_possessive]20%的法力回复。</TM_ManaWellTD.degreeDatas.0.description>
+  <!--EN: Mana Well-->
+  <TM_ManaWellTD.degreeDatas.0.label>法力之井</TM_ManaWellTD.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a Monk, dedicated to mastering Chi - the energy that connects all life in the universe. [PAWN_pronoun] harnesses Chi to create magical effects and exceed [PAWN_possessive] physical capabilities. [PAWN_nameDef] is also able to disrupt the Chi in others, affecting their command over spells and abilities.-->
+  <TM_Monk.degreeDatas.0.description>[PAWN_nameDef]是一名武僧, [PAWN_pronoun]致力于使用“气”来链接宇宙中的生命能量. [PAWN_pronoun] 使用“气”来施展法术并尝试超越 [PAWN_possessive] 身体极限, [PAWN_nameDef]也能干扰其[PAWN_pronoun]人的“气”与魔法元素,影响[PAWN_pronoun]们对法术和能力的控制。</TM_Monk.degreeDatas.0.description>
+  <!--EN: Monk-->
+  <TM_Monk.degreeDatas.0.label>武僧</TM_Monk.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] has accepted that death is another part of life and doesn't get upset when learning about a dead ally or seeing one of the undead.-->
+  <TM_OKWithDeath.degreeDatas.0.description>[PAWN_nameDef]已经在轮回中感受到了生命的真谛,当[PAWN_pronoun]目睹生命消逝时再也不会感到沮丧。</TM_OKWithDeath.degreeDatas.0.description>
+  <!--EN: Unaffected by death-->
+  <TM_OKWithDeath.degreeDatas.0.label>亡灵</TM_OKWithDeath.degreeDatas.0.label>
+  <!--EN: The body of [PAWN_nameDef] is inhabited by the spirit of another pawn. Possession in a living pawn creates an internal conflict as the functions of the body are shared between two souls. This conflict can be reduced if personalities align, but will become further aggravated if they contrast. Possession of a deceased pawn will not experience mental conflicts, but will slowly deplete the energy of the possessing spirit. Spirit can be recharged through meditation or absorption.-->
+  <TM_Possessed.degreeDatas.0.description>[PAWN_nameDef]的身体被另一个灵魂入侵。当一个身体拥有两个灵魂时,会产生冲突。如果特性一致,这种冲突可以减少,但如果特性相反,这种冲突会进一步加剧,直至完美融合,成为幽魂行者。如果占据死人的身体,不会发生这种冲突,但会慢慢消耗灵魂能量。灵魂能量可以通过冥想、吸收物理伤害和灵魂虹吸来回复。</TM_Possessed.degreeDatas.0.description>
+  <!--EN: Possessed-->
+  <TM_Possessed.degreeDatas.0.label>幽魂行者</TM_Possessed.degreeDatas.0.label>
+  <!--EN: The body of [PAWN_nameDef] is inhabited by the spirit of another pawn. Possession in a living pawn creates an internal conflict as the functions of the body are shared between two souls. This conflict can be reduced if personalities align, but will become further aggravated if they contrast. Possession of a deceased pawn will not experience mental conflicts, but will slowly deplete the energy of the possessing spirit. Spirit can be recharged through meditation or absorption.-->
+  <TM_Possessor.degreeDatas.0.description>[PAWN_nameDef]的身体被另一个典当的精神居住。在典当中拥有的灵魂会造成内部冲突,因为两个灵魂之间的身体的功能是在两个灵魂之间共享的。如果个性保持一致,则可以减少这种冲突,但如果对比对比,这种冲突将进一步加剧。拥有死者的典当不会遇到精神冲突,但会慢慢耗尽拥有精神的能量。可以通过冥想或吸收来充电精神。</TM_Possessor.degreeDatas.0.description>
+  <!--EN: Spirit-->
+  <TM_Possessor.degreeDatas.0.label>幽魂</TM_Possessor.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a Psionic - able to manifest mental willpower into raw energy without the use of a psychic amplifier. [PAWN_pronoun] is able to project psionic energy but finds it easier and more efficient to apply it as an extension of [PAWN_possessive] body. For this reason, [PAWN_pronoun] prefers to be free of encumbering weapons when manifesting psionic energy.
+
+[PAWN_nameDef] has become less social since developing psionic powers, preferring to be unhindered by other pawns.
+
+*The regeneration rate of psionic energy is based on psychic sensitivity - reducing sensitivity to 0 will prevent psionic energy from regenerating.-->
+  <TM_Psionic.degreeDatas.0.description>[PAWN_nameDef]是一名灵能战士,能够用思想具现化出能量。[PAWN_pronoun]发现物质的力量是有极限的,所以[PAWN_pronoun]变得不再喜欢携带武器。\n\n*灵能的再生速率是基于心灵敏感度的 \n- 将心灵灵敏度降低到0会使灵能无法恢复*</TM_Psionic.degreeDatas.0.description>
+  <!--EN: Psionic-->
+  <TM_Psionic.degreeDatas.0.label>灵能战士</TM_Psionic.degreeDatas.0.label>
+  <!--EN: Shamans take a more harmonious approach to arcane powers than most mages, choosing to pursue a path that works with the ebb and flow of magic to offset or enhance the natural order. [PAWN_nameDef] is kin to the spirit realm and more attuned to nature and its elements.-->
+  <TM_Shaman.degreeDatas.0.description>与大多数法师相比,萨满对奥术魔法采取了一种更为和谐的沟通方法,选择一条与魔法的涨落相结合的道路来抵消或加强自然秩序。,[PAWN_nameDef]是灵魂领域的一部分,与自然及其元素协调。</TM_Shaman.degreeDatas.0.description>
+  <!--EN: Shaman-->
+  <TM_Shaman.degreeDatas.0.label>萨满</TM_Shaman.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Training to become a sniper has caused some colonists to be uncomfortable around [PAWN_objective], not that [PAWN_pronoun] cares.-->
+  <TM_Sniper.degreeDatas.0.description>[PAWN_nameDef]成为了一名见习狙击手,擅长使用各种精准致命的远程武器。</TM_Sniper.degreeDatas.0.description>
+  <!--EN: Sharpshooter-->
+  <TM_Sniper.degreeDatas.0.label>见习狙击手</TM_Sniper.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Becoming a sniper has caused [PAWN_objective] to become distanced from other colonists and somewhat unapproachable, not that [PAWN_pronoun] cares.-->
+  <TM_Sniper.degreeDatas.1.description>[PAWN_nameDef]成为了一名初阶狙击手,擅长使用各种精准致命的远程武器。</TM_Sniper.degreeDatas.1.description>
+  <!--EN: Sniper-->
+  <TM_Sniper.degreeDatas.1.label>初阶狙击手</TM_Sniper.degreeDatas.1.label>
+  <!--EN: [PAWN_nameDef] is a master sniper, skilled in the economy and accuracy of long range, small arms combat. Being a sniper has made [PAWN_objective] avoid other colonists, not that they care.-->
+  <TM_Sniper.degreeDatas.2.description>[PAWN_nameDef]成为了一名高阶狙击手,擅长使用各种精准致命的远程武器。八百里外一枪可以打爆鬼子的头。</TM_Sniper.degreeDatas.2.description>
+  <!--EN: Master Sniper-->
+  <TM_Sniper.degreeDatas.2.label>高阶狙击手</TM_Sniper.degreeDatas.2.label>
+  <!--EN: [PAWN_nameDef] is a legendary sniper, skilled in the economy and accuracy of long range, small arms combat.  Other colonists avoid eye contact and whisper in corners about how dangerous [PAWN_pronoun] is and that suits [PAWN_objective] just fine.-->
+  <TM_Sniper.degreeDatas.3.description>[PAWN_nameDef]已经成为了一名传奇狙击手,哪怕是最凶恶的部落听到[PAWN_pronoun]的名字也会颤抖。</TM_Sniper.degreeDatas.3.description>
+  <!--EN: Legendary Sniper-->
+  <TM_Sniper.degreeDatas.3.label>传奇狙击手</TM_Sniper.degreeDatas.3.label>
+  <!--EN: [PAWN_nameDef] is a highly trained Soldier, specializing in pistol, shotgun, or rifle weapons. [PAWN_possessive] weapon specialization is augmented by a standard set of combat training. Super Soldiers are trained to be aggressive and consider violence the natural solution to any argument.-->
+  <TM_SuperSoldier.degreeDatas.0.description>[PAWN_nameDef]是一名训练有素的士兵,擅长手枪、散弹枪或来复枪。武器专精可以通过一套标准的战斗训练来增强。超级战士被训练成具有攻击性,认为暴力是解决任何争论的唯一方法。</TM_SuperSoldier.degreeDatas.0.description>
+  <!--EN: Super Soldier-->
+  <TM_SuperSoldier.degreeDatas.0.label>超级士兵</TM_SuperSoldier.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a half-breed demon with an affinity for shadow magic. [PAWN_pronoun] has developed [PAWN_possessive] unique talents through combat training and physical conditioning making [PAWN_objective] the perfect assassin.-->
+  <TM_TheShadow.degreeDatas.0.description>[PAWN_nameDef]是一个混血恶魔,对暗影魔法很有兴趣。[PAWN_pronoun]通过战斗训练和身体调节,发展出 [PAWN_possessive] 独特的天赋,使 [PAWN_objective]成为完美的刺客。</TM_TheShadow.degreeDatas.0.description>
+  <!--EN: Shadow-->
+  <TM_TheShadow.degreeDatas.0.label>影行者</TM_TheShadow.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a wanderer; an outcast, half-breed mage class frequently dubbed a hedge-mage. [PAWN_possessive] carefree personality has kept [PAWN_possessive] from developing class abilities. Instead, [PAWN_pronoun] has learned to improve on a vast number of utility abilities that allow [PAWN_objective] to adapt to any situation.
+		
+Wanderers prefer the open road and gain a mood boost for being in a caravan. Caravans with a wanderer will ignore the movement penalties of any world tile. However, their wanderlust will cause them to suffer a mood penalty for remaining at a colony for too long.-->
+  <TM_Wanderer.degreeDatas.0.description>[PAWN_nameDef] 是一名流浪者；一名被遗弃的混血法师,经常被称为树篱法师。[PAWN_possessive]无忧无虑的个性让他没有特定的法术.相反[PAWN_pronoun] 学会了提高大量的通用法术 [PAWN_objective] 更喜欢开放的道路,如果在远征队会提升心情,任何远征队内有一个流浪者将会无视山带来的减速。然而,如果流浪者在殖民地停留太久,他们会受到情绪惩罚。</TM_Wanderer.degreeDatas.0.description>
+  <!--EN: Wanderer-->
+  <TM_Wanderer.degreeDatas.0.label>流浪者</TM_Wanderer.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a wayfarer; an self-disciplined fighter that excels at tricks and dirty fighting. [PAWN_possessive] carefree personality has kept [PAWN_objective] from developing class abilities. Instead, [PAWN_pronoun] has learned to improve a vast number of utility abilities that allow [PAWN_objective] to adapt to any situation.
+
+Wayfarers prefer the open road and will gain a mood boost for being in a caravan, and any caravan with a wayfarer will travel 25% faster. However, wayfarers will suffer a mood penalty if they remain at colony for too long.-->
+  <TM_Wayfarer.degreeDatas.0.description>[PAWN_nameDef]是一名旅行者；一名斗士,擅长诡计和肮脏的战斗。[PAWN_possessive] 有无忧无虑的个性 让他没有特定的战技.相反 [PAWN_pronoun] 学会了提高大量的通用战技[PAWN_objective] 可以适应任何情况。[PAWN_objective]更喜欢开放的道路,如果在远征队会提升心情,任何远征队内有一个旅行者将会提高25%的旅行速度。然而,如果旅行者在殖民地停留太久,他们会受到情绪惩罚。</TM_Wayfarer.degreeDatas.0.description>
+  <!--EN: Wayfarer-->
+  <TM_Wayfarer.degreeDatas.0.label>旅行者</TM_Wayfarer.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] has learned to see magic and science as two parts of the same force and is able to use arcane power to interface directly with components of technology. [PAWN_pronoun] is capable of manipulating objects with advanced mechanics, electronics, or computing it to achieve [PAWN_possessive] goals, but has difficulty interacting with biological systems.-->
+  <Technomancer.degreeDatas.0.description>[PAWN_nameDef]对科技与魔法的理解远远高于普通人,[PAWN_pronoun]能让魔法与科技交互从而产生更强的力量。</Technomancer.degreeDatas.0.description>
+  <!--EN: Technomancer-->
+  <Technomancer.degreeDatas.0.label>机械师</Technomancer.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] has been reanimated as an undead.-->
+  <Undead.degreeDatas.0.description>[PAWN_nameDef]伴随着神秘的钟声从墓地中苏醒,[PAWN_nameDef]已忘记过去几乎一切事情,除了传火。</Undead.degreeDatas.0.description>
+  <!--EN: Undead-->
+  <Undead.degreeDatas.0.label>亡灵</Undead.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] is a Warlock - able to manifest physical and demonic forces using his unique access to arcane power. The warlock shares the same genetic mixture as a succubus, but as a male, [PAWN_pronoun] is affected with mental enhancements that include clairvoyance and telekineses. The warlock can occasionally affect the outcome of a social interaction using their mental capabilities, regardless of how the interaction actually occurred.-->
+  <Warlock.degreeDatas.0.description>[PAWN_nameDef]是一名术士。术士与魅魔一脉相承,与魅魔不同,术士更多的依靠法力来操纵人心。</Warlock.degreeDatas.0.description>
+  <!--EN: Warlock-->
+  <Warlock.degreeDatas.0.label>术士</Warlock.degreeDatas.0.label>
+</LanguageData>
