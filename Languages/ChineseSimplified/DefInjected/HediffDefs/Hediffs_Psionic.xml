@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Accounts for the unique energy of a Psionic.-->
+  <TM_PsionicHD.description>Accounts for the unique energy of a Psionic.</TM_PsionicHD.description>
+  <!--EN: Psionic Energy-->
+  <TM_PsionicHD.label>Psionic Energy</TM_PsionicHD.label>
+  <!--EN: set-->
+  <TM_PsionicInjuryHD.comps.0.labelSolidTendedWell>set</TM_PsionicInjuryHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_PsionicInjuryHD.comps.0.labelTendedWell>bandaged</TM_PsionicInjuryHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_PsionicInjuryHD.comps.0.labelTendedWellInner>sutured</TM_PsionicInjuryHD.comps.0.labelTendedWellInner>
+  <!--EN: destroyed by psionic power-->
+  <TM_PsionicInjuryHD.comps.1.permanentLabel>destroyed by psionic power</TM_PsionicInjuryHD.comps.1.permanentLabel>
+  <!--EN: Injury caused by psionic power.-->
+  <TM_PsionicInjuryHD.description>Injury caused by psionic power.</TM_PsionicInjuryHD.description>
+  <!--EN: blasted off-->
+  <TM_PsionicInjuryHD.injuryProps.destroyedLabel>blasted off</TM_PsionicInjuryHD.injuryProps.destroyedLabel>
+  <!--EN: blasted out-->
+  <TM_PsionicInjuryHD.injuryProps.destroyedOutLabel>blasted out</TM_PsionicInjuryHD.injuryProps.destroyedOutLabel>
+  <!--EN: Psionic-->
+  <TM_PsionicInjuryHD.label>Psionic</TM_PsionicInjuryHD.label>
+  <!--EN: Enhanced dexterity through psionic augmentation.-->
+  <TM_PsionicManipulationHD.description>Enhanced dexterity through psionic augmentation.</TM_PsionicManipulationHD.description>
+  <!--EN: psionic manipulation-->
+  <TM_PsionicManipulationHD.label>psionic manipulation</TM_PsionicManipulationHD.label>
+  <!--EN: I-->
+  <TM_PsionicManipulationHD.stages.0.label>I</TM_PsionicManipulationHD.stages.0.label>
+  <!--EN: Enhanced dexterity through psionic augmentation.-->
+  <TM_PsionicManipulationHD_I.description>Enhanced dexterity through psionic augmentation.</TM_PsionicManipulationHD_I.description>
+  <!--EN: psionic manipulation-->
+  <TM_PsionicManipulationHD_I.label>psionic manipulation</TM_PsionicManipulationHD_I.label>
+  <!--EN: II-->
+  <TM_PsionicManipulationHD_I.stages.0.label>II</TM_PsionicManipulationHD_I.stages.0.label>
+  <!--EN: Enhanced dexterity through psionic augmentation.-->
+  <TM_PsionicManipulationHD_II.description>Enhanced dexterity through psionic augmentation.</TM_PsionicManipulationHD_II.description>
+  <!--EN: psionic manipulation-->
+  <TM_PsionicManipulationHD_II.label>psionic manipulation</TM_PsionicManipulationHD_II.label>
+  <!--EN: III-->
+  <TM_PsionicManipulationHD_II.stages.0.label>III</TM_PsionicManipulationHD_II.stages.0.label>
+  <!--EN: Enhanced dexterity through psionic augmentation.-->
+  <TM_PsionicManipulationHD_III.description>Enhanced dexterity through psionic augmentation.</TM_PsionicManipulationHD_III.description>
+  <!--EN: psionic manipulation-->
+  <TM_PsionicManipulationHD_III.label>psionic manipulation</TM_PsionicManipulationHD_III.label>
+  <!--EN: IV-->
+  <TM_PsionicManipulationHD_III.stages.0.label>IV</TM_PsionicManipulationHD_III.stages.0.label>
+  <!--EN: Enhanced speed through psionic augmentation.-->
+  <TM_PsionicSpeedHD.description>Enhanced speed through psionic augmentation.</TM_PsionicSpeedHD.description>
+  <!--EN: psionic speed-->
+  <TM_PsionicSpeedHD.label>psionic speed</TM_PsionicSpeedHD.label>
+  <!--EN: I-->
+  <TM_PsionicSpeedHD.stages.0.label>I</TM_PsionicSpeedHD.stages.0.label>
+  <!--EN: Enhanced speed through psionic augmentation.-->
+  <TM_PsionicSpeedHD_I.description>Enhanced speed through psionic augmentation.</TM_PsionicSpeedHD_I.description>
+  <!--EN: psionic speed-->
+  <TM_PsionicSpeedHD_I.label>psionic speed</TM_PsionicSpeedHD_I.label>
+  <!--EN: II-->
+  <TM_PsionicSpeedHD_I.stages.0.label>II</TM_PsionicSpeedHD_I.stages.0.label>
+  <!--EN: Enhanced speed through psionic augmentation.-->
+  <TM_PsionicSpeedHD_II.description>Enhanced speed through psionic augmentation.</TM_PsionicSpeedHD_II.description>
+  <!--EN: psionic speed-->
+  <TM_PsionicSpeedHD_II.label>psionic speed</TM_PsionicSpeedHD_II.label>
+  <!--EN: III-->
+  <TM_PsionicSpeedHD_II.stages.0.label>III</TM_PsionicSpeedHD_II.stages.0.label>
+  <!--EN: Enhanced speed through psionic augmentation.-->
+  <TM_PsionicSpeedHD_III.description>Enhanced speed through psionic augmentation.</TM_PsionicSpeedHD_III.description>
+  <!--EN: psionic speed-->
+  <TM_PsionicSpeedHD_III.label>psionic speed</TM_PsionicSpeedHD_III.label>
+  <!--EN: IV-->
+  <TM_PsionicSpeedHD_III.stages.0.label>IV</TM_PsionicSpeedHD_III.stages.0.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: elemental firebolt-->
+  <Projectile_Elemental_Firebolt.label>elemental firebolt</Projectile_Elemental_Firebolt.label>
+  <!--EN: elemental icebolt-->
+  <Projectile_Elemental_Icebolt.label>elemental icebolt</Projectile_Elemental_Icebolt.label>
+  <!--EN: Bolt of  magic fire. Sets fire to the target.-->
+  <TM_Elemental_Firebolt.description>Bolt of  magic fire. Sets fire to the target.</TM_Elemental_Firebolt.description>
+  <!--EN: Firebolt-->
+  <TM_Elemental_Firebolt.label>Firebolt</TM_Elemental_Firebolt.label>
+  <!--EN: Bolt of ice specially created to shatter into glass like shards upon impact, causing severe bleeding and damage in a small area.-->
+  <TM_Elemental_Icebolt.description>Bolt of ice specially created to shatter into glass like shards upon impact, causing severe bleeding and damage in a small area.</TM_Elemental_Icebolt.description>
+  <!--EN: elemental icebolt-->
+  <TM_Elemental_Icebolt.label>elemental icebolt</TM_Elemental_Icebolt.label>
+</LanguageData>

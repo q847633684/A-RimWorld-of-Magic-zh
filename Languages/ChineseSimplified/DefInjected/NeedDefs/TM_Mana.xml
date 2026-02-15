@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Hediff required for magic users.-->
+  <TM_MagicUserHD.description>Hediff required for magic users.</TM_MagicUserHD.description>
+  <!--EN: magic user-->
+  <TM_MagicUserHD.label>magic user</TM_MagicUserHD.label>
+  <!--EN: hidden-->
+  <TM_MagicUserHD.stages.0.label>hidden</TM_MagicUserHD.stages.0.label>
+  <!--EN: Current mana level.-->
+  <TM_Mana.description>Current mana level.</TM_Mana.description>
+  <!--EN: mana-->
+  <TM_Mana.label>mana</TM_Mana.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: recharge 50 to 100 mana of all participating mages.-->
+  <TM_RechargeMana.effectDesc>recharge 50 to 100 mana of all participating mages.</TM_RechargeMana.effectDesc>
+  <!--EN: recharge mana-->
+  <TM_RechargeMana.label>recharge mana</TM_RechargeMana.label>
+  <!--EN: All participating mages have recharged {AMOUNT} mana.-->
+  <TM_RechargeMana.letterInfoText>All participating mages have recharged {AMOUNT} mana.</TM_RechargeMana.letterInfoText>
+</LanguageData>

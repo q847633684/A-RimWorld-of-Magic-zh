@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: charging arcane object-->
+  <ChargeStructure.gerund>charging arcane object</ChargeStructure.gerund>
+  <!--EN: charge arcane object-->
+  <ChargeStructure.label>charge arcane object</ChargeStructure.label>
+  <!--EN: charge arcane object-->
+  <ChargeStructure.verb>charge arcane object</ChargeStructure.verb>
+  <!--EN: working magic-->
+  <DoBillsArcaneForge.gerund>working magic</DoBillsArcaneForge.gerund>
+  <!--EN: work magic-->
+  <DoBillsArcaneForge.label>work magic</DoBillsArcaneForge.label>
+  <!--EN: work magic-->
+  <DoBillsArcaneForge.verb>work magic</DoBillsArcaneForge.verb>
+  <!--EN: gemcutting-->
+  <DoBillsGemcutting.gerund>gemcutting</DoBillsGemcutting.gerund>
+  <!--EN: do bills at gemcutting table-->
+  <DoBillsGemcutting.label>do bills at gemcutting table</DoBillsGemcutting.label>
+  <!--EN: craft-->
+  <DoBillsGemcutting.verb>craft</DoBillsGemcutting.verb>
+  <!--EN: working on golems-->
+  <DoBillsGolemBuilding.gerund>working on golems</DoBillsGolemBuilding.gerund>
+  <!--EN: work on golem-->
+  <DoBillsGolemBuilding.label>work on golem</DoBillsGolemBuilding.label>
+  <!--EN: golem work-->
+  <DoBillsGolemBuilding.verb>golem work</DoBillsGolemBuilding.verb>
+  <!--EN: printing-->
+  <DoBillsPrintingPress.gerund>printing</DoBillsPrintingPress.gerund>
+  <!--EN: do bills at printing table-->
+  <DoBillsPrintingPress.label>do bills at printing table</DoBillsPrintingPress.label>
+  <!--EN: craft-->
+  <DoBillsPrintingPress.verb>craft</DoBillsPrintingPress.verb>
+  <!--EN: motivating-->
+  <DoCommanderMotivate.gerund>motivating</DoCommanderMotivate.gerund>
+  <!--EN: motivating pawn-->
+  <DoCommanderMotivate.label>motivating pawn</DoCommanderMotivate.label>
+  <!--EN: motivate-->
+  <DoCommanderMotivate.verb>motivate</DoCommanderMotivate.verb>
+  <!--EN: entertaining-->
+  <DoEntertain.gerund>entertaining</DoEntertain.gerund>
+  <!--EN: entertain colonist-->
+  <DoEntertain.label>entertain colonist</DoEntertain.label>
+  <!--EN: entertain-->
+  <DoEntertain.verb>entertain</DoEntertain.verb>
+</LanguageData>

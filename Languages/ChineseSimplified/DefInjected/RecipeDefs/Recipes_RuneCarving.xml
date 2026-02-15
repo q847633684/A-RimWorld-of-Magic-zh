@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Carve a rune on a body part.-->
+  <TM_RuneCarveBodyPart.description>Carve a rune on a body part.</TM_RuneCarveBodyPart.description>
+  <!--EN: Rune carving.-->
+  <TM_RuneCarveBodyPart.jobString>Rune carving.</TM_RuneCarveBodyPart.jobString>
+  <!--EN: rune carving-->
+  <TM_RuneCarveBodyPart.label>rune carving</TM_RuneCarveBodyPart.label>
+</LanguageData>

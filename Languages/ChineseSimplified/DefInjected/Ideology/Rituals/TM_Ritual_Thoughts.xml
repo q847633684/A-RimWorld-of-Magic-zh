@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: This pawn was recently granted the spark of magic.-->
+  <TM_BestowMagicClassHD.description>This pawn was recently granted the spark of magic.</TM_BestowMagicClassHD.description>
+  <!--EN: Gift of Magic-->
+  <TM_BestowMagicClassHD.label>Gift of Magic</TM_BestowMagicClassHD.label>
+  <!--EN: The gifting ritual was botched and no magical spark was granted.-->
+  <TM_Botched_BestowMagicTD.stages.0.description>The gifting ritual was botched and no magical spark was granted.</TM_Botched_BestowMagicTD.stages.0.description>
+  <!--EN: botched gifting ritual-->
+  <TM_Botched_BestowMagicTD.stages.0.label>botched gifting ritual</TM_Botched_BestowMagicTD.stages.0.label>
+  <!--EN: The severence ritual was botched and gave the mage a chance to retaliate.-->
+  <TM_Botched_SeverMagicTD.stages.0.description>The severence ritual was botched and gave the mage a chance to retaliate.</TM_Botched_SeverMagicTD.stages.0.description>
+  <!--EN: botched severence ritual-->
+  <TM_Botched_SeverMagicTD.stages.0.label>botched severence ritual</TM_Botched_SeverMagicTD.stages.0.label>
+  <!--EN: It was as if the heavens opened up to bless the ritual and a chorus of voices sang the glory of our cause!-->
+  <TM_Flawless_BestowMagicTD.stages.0.description>It was as if the heavens opened up to bless the ritual and a chorus of voices sang the glory of our cause!</TM_Flawless_BestowMagicTD.stages.0.description>
+  <!--EN: enlightened gifting ritual-->
+  <TM_Flawless_BestowMagicTD.stages.0.label>enlightened gifting ritual</TM_Flawless_BestowMagicTD.stages.0.label>
+  <!--EN: The chorus of voices, the intensity of the voidbringer, the look of inevitability on the face of the mage - nothing can stop our crusade!-->
+  <TM_Flawless_SeverMagicTD.stages.0.description>The chorus of voices, the intensity of the voidbringer, the look of inevitability on the face of the mage - nothing can stop our crusade!</TM_Flawless_SeverMagicTD.stages.0.description>
+  <!--EN: flawless severence ritual-->
+  <TM_Flawless_SeverMagicTD.stages.0.label>flawless severence ritual</TM_Flawless_SeverMagicTD.stages.0.label>
+  <!--EN: The arcane path ritual was fantastic, emotionally and magically charged - it's always wonderful to see someone achieve their dreams!-->
+  <TM_Good_BestowMagicClassTD.stages.0.description>The arcane path ritual was fantastic, emotionally and magically charged - it&amp;apos;s always wonderful to see someone achieve their dreams!</TM_Good_BestowMagicClassTD.stages.0.description>
+  <!--EN: inspiring arcane path ritual-->
+  <TM_Good_BestowMagicClassTD.stages.0.label>inspiring arcane path ritual</TM_Good_BestowMagicClassTD.stages.0.label>
+  <!--EN: That ritual lacked order and the technique was terrible, killing the mage.-->
+  <TM_Lethal_SeverMagicTD.stages.0.description>That ritual lacked order and the technique was terrible, killing the mage.</TM_Lethal_SeverMagicTD.stages.0.description>
+  <!--EN: lethal severence ritual-->
+  <TM_Lethal_SeverMagicTD.stages.0.label>lethal severence ritual</TM_Lethal_SeverMagicTD.stages.0.label>
+  <!--EN: This pawn has recently lost their connection to magic and will suffer from a loss of direction and purpose until they can fill the void with another purpose.-->
+  <TM_MagicSeverenceHD.description>This pawn has recently lost their connection to magic and will suffer from a loss of direction and purpose until they can fill the void with another purpose.</TM_MagicSeverenceHD.description>
+  <!--EN: Magic Severence-->
+  <TM_MagicSeverenceHD.label>Magic Severence</TM_MagicSeverenceHD.label>
+  <!--EN: I've lost something that once defined who I was; I feel a mix of dispair and emptiness.-->
+  <TM_MagicSeverenceTD.stages.0.description>I&amp;apos;ve lost something that once defined who I was; I feel a mix of dispair and emptiness.</TM_MagicSeverenceTD.stages.0.description>
+  <!--EN: Severed from magic-->
+  <TM_MagicSeverenceTD.stages.0.label>Severed from magic</TM_MagicSeverenceTD.stages.0.label>
+  <!--EN: The arcane path selection ritual was encouraging and interesting.-->
+  <TM_Moderate_BestowMagicClassTD.stages.0.description>The arcane path selection ritual was encouraging and interesting.</TM_Moderate_BestowMagicClassTD.stages.0.description>
+  <!--EN: successful arcane path ritual-->
+  <TM_Moderate_BestowMagicClassTD.stages.0.label>successful arcane path ritual</TM_Moderate_BestowMagicClassTD.stages.0.label>
+  <!--EN: The ritual guiding a mage towards their arcane path was bland and uninteresting.-->
+  <TM_Poor_BestowMagicClassTD.stages.0.description>The ritual guiding a mage towards their arcane path was bland and uninteresting.</TM_Poor_BestowMagicClassTD.stages.0.description>
+  <!--EN: bland arcane path ritual-->
+  <TM_Poor_BestowMagicClassTD.stages.0.label>bland arcane path ritual</TM_Poor_BestowMagicClassTD.stages.0.label>
+  <!--EN: A ritual to sever the magic from a mage was performed in our colony; what a despicable and barbaric act.-->
+  <TM_SeverMagic_ForApproveTD.stages.0.description>A ritual to sever the magic from a mage was performed in our colony; what a despicable and barbaric act.</TM_SeverMagic_ForApproveTD.stages.0.description>
+  <!--EN: allowed sever magic-->
+  <TM_SeverMagic_ForApproveTD.stages.0.label>allowed sever magic</TM_SeverMagic_ForApproveTD.stages.0.label>
+  <!--EN: A ritual to sever the magic from a mage was performed in our colony; this henious act of barbarism is an afront to everything we believe.-->
+  <TM_SeverMagic_ForVeneratedTD.stages.0.description>A ritual to sever the magic from a mage was performed in our colony; this henious act of barbarism is an afront to everything we believe.</TM_SeverMagic_ForVeneratedTD.stages.0.description>
+  <!--EN: allowed sever magic-->
+  <TM_SeverMagic_ForVeneratedTD.stages.0.label>allowed sever magic</TM_SeverMagic_ForVeneratedTD.stages.0.label>
+  <!--EN: The gifting ritual successfully bestowed the magical spark.-->
+  <TM_Success_BestowMagicTD.stages.0.description>The gifting ritual successfully bestowed the magical spark.</TM_Success_BestowMagicTD.stages.0.description>
+  <!--EN: successful gifting ritual-->
+  <TM_Success_BestowMagicTD.stages.0.label>successful gifting ritual</TM_Success_BestowMagicTD.stages.0.label>
+  <!--EN: The severence ritual was a success, freeing us from the oppression of another mage.-->
+  <TM_Success_SeverMagicTD.stages.0.description>The severence ritual was a success, freeing us from the oppression of another mage.</TM_Success_SeverMagicTD.stages.0.description>
+  <!--EN: successful severence ritual-->
+  <TM_Success_SeverMagicTD.stages.0.label>successful severence ritual</TM_Success_SeverMagicTD.stages.0.label>
+</LanguageData>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: claw rake-->
+  <TM_ClawSweep.label>claw rake</TM_ClawSweep.label>
+  <!--EN: demon-->
+  <TM_Demon.label>demon</TM_Demon.label>
+  <!--EN: demon-->
+  <TM_Demon.lifeStages.0.label>demon</TM_Demon.lifeStages.0.label>
+  <!--EN: demons-->
+  <TM_Demon.lifeStages.0.labelPlural>demons</TM_Demon.lifeStages.0.labelPlural>
+  <!--EN: Released from the pits of hell, this demon will unleash its unfettered malice upon any and all beings in its path. There is no reasoning or subjugating the demon; destroy it or be destroyed.-->
+  <TM_DemonR.description>Released from the pits of hell, this demon will unleash its unfettered malice upon any and all beings in its path. There is no reasoning or subjugating the demon; destroy it or be destroyed.</TM_DemonR.description>
+  <!--EN: Demon-->
+  <TM_DemonR.label>Demon</TM_DemonR.label>
+  <!--EN: left claw-->
+  <TM_DemonR.tools.0.label>left claw</TM_DemonR.tools.0.label>
+  <!--EN: right claw-->
+  <TM_DemonR.tools.1.label>right claw</TM_DemonR.tools.1.label>
+  <!--EN: hoof-->
+  <TM_DemonR.tools.2.label>hoof</TM_DemonR.tools.2.label>
+  <!--EN: lesser demon-->
+  <TM_LesserDemon.label>lesser demon</TM_LesserDemon.label>
+  <!--EN: demon-->
+  <TM_LesserDemon.lifeStages.0.label>demon</TM_LesserDemon.lifeStages.0.label>
+  <!--EN: demons-->
+  <TM_LesserDemon.lifeStages.0.labelPlural>demons</TM_LesserDemon.lifeStages.0.labelPlural>
+  <!--EN: Released from the pits of hell, this lesser demon will unleash its unfettered malice upon any and all beings in its path. There is no reasoning or subjugating the demon; destroy it or be destroyed.-->
+  <TM_LesserDemonR.description>Released from the pits of hell, this lesser demon will unleash its unfettered malice upon any and all beings in its path. There is no reasoning or subjugating the demon; destroy it or be destroyed.</TM_LesserDemonR.description>
+  <!--EN: Lesser Demon-->
+  <TM_LesserDemonR.label>Lesser Demon</TM_LesserDemonR.label>
+  <!--EN: left claw-->
+  <TM_LesserDemonR.tools.0.label>left claw</TM_LesserDemonR.tools.0.label>
+  <!--EN: right claw-->
+  <TM_LesserDemonR.tools.1.label>right claw</TM_LesserDemonR.tools.1.label>
+  <!--EN: hoof-->
+  <TM_LesserDemonR.tools.2.label>hoof</TM_LesserDemonR.tools.2.label>
+</LanguageData>

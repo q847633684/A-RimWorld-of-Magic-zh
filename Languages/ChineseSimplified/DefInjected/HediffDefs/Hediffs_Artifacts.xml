@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: My mind is fortified against the troubles to come.-->
+  <MarbleMindTD.stages.0.description>My mind is fortified against the troubles to come.</MarbleMindTD.stages.0.description>
+  <!--EN: mind ward-->
+  <MarbleMindTD.stages.0.label>mind ward</MarbleMindTD.stages.0.label>
+  <!--EN: Increases the recovery rate from Arcane Weakness; does not reduce the amount of Arcane Weakness acquired.-->
+  <TM_ArtifactArcaneRecoveryHD.description>Increases the recovery rate from Arcane Weakness; does not reduce the amount of Arcane Weakness acquired.</TM_ArtifactArcaneRecoveryHD.description>
+  <!--EN: Arcane Recovery-->
+  <TM_ArtifactArcaneRecoveryHD.label>Arcane Recovery</TM_ArtifactArcaneRecoveryHD.label>
+  <!--EN: Blocks physical attacks; prevents damage from successfully blocked attacks.-->
+  <TM_ArtifactBlockHD.description>Blocks physical attacks; prevents damage from successfully blocked attacks.</TM_ArtifactBlockHD.description>
+  <!--EN: Blocking-->
+  <TM_ArtifactBlockHD.label>Blocking</TM_ArtifactBlockHD.label>
+  <!--EN: Improves sight and grants minor night vision.-->
+  <TM_ArtifactCatEyesHD.description>Improves sight and grants minor night vision.</TM_ArtifactCatEyesHD.description>
+  <!--EN: Dark Sight-->
+  <TM_ArtifactCatEyesHD.label>Dark Sight</TM_ArtifactCatEyesHD.label>
+  <!--EN: Blocks attacks and can deflect projectiles to nearby enemies; prevents damage from a successfully deflected attack.-->
+  <TM_ArtifactDeflectHD.description>Blocks attacks and can deflect projectiles to nearby enemies; prevents damage from a successfully deflected attack.</TM_ArtifactDeflectHD.description>
+  <!--EN: Deflective Blocking-->
+  <TM_ArtifactDeflectHD.label>Deflective Blocking</TM_ArtifactDeflectHD.label>
+  <!--EN: Increases natural healing.-->
+  <TM_ArtifactHealthHD.description>Increases natural healing.</TM_ArtifactHealthHD.description>
+  <!--EN: Improved Health-->
+  <TM_ArtifactHealthHD.label>Improved Health</TM_ArtifactHealthHD.label>
+  <!--EN: Mends and repairs equipped apparel and weapons.-->
+  <TM_ArtifactMendingHD.description>Mends and repairs equipped apparel and weapons.</TM_ArtifactMendingHD.description>
+  <!--EN: Mending-->
+  <TM_ArtifactMendingHD.label>Mending</TM_ArtifactMendingHD.label>
+  <!--EN: A unique talisman that helps a pawn compartmentalize their emotions to quickly recover from a mental breakdown.-->
+  <TM_ArtifactMindHD.description>A unique talisman that helps a pawn compartmentalize their emotions to quickly recover from a mental breakdown.</TM_ArtifactMindHD.description>
+  <!--EN: Mind Ward-->
+  <TM_ArtifactMindHD.label>Mind Ward</TM_ArtifactMindHD.label>
+  <!--EN: A talisman that uncannily ascertains an easy path across any obstacle; bypasses the movement penalty for obstacles and terrain.-->
+  <TM_ArtifactPathfindingHD.description>A talisman that uncannily ascertains an easy path across any obstacle; bypasses the movement penalty for obstacles and terrain.</TM_ArtifactPathfindingHD.description>
+  <!--EN: Pathfinding-->
+  <TM_ArtifactPathfindingHD.label>Pathfinding</TM_ArtifactPathfindingHD.label>
+  <!--EN: Improves the quality of sleep.-->
+  <TM_ArtifactRenewalHD.description>Improves the quality of sleep.</TM_ArtifactRenewalHD.description>
+  <!--EN: Renewal-->
+  <TM_ArtifactRenewalHD.label>Renewal</TM_ArtifactRenewalHD.label>
+  <!--EN: An enchantment that increases manipulation.-->
+  <TM_ArtifactStrengthHD.description>An enchantment that increases manipulation.</TM_ArtifactStrengthHD.description>
+  <!--EN: Strength of Stone-->
+  <TM_ArtifactStrengthHD.label>Strength of Stone</TM_ArtifactStrengthHD.label>
+  <!--EN: Increases the maximum blood magic available to a blood mage.-->
+  <TM_Artifact_BloodBoostHD.description>Increases the maximum blood magic available to a blood mage.</TM_Artifact_BloodBoostHD.description>
+  <!--EN: Blood Boost-->
+  <TM_Artifact_BloodBoostHD.label>Blood Boost</TM_Artifact_BloodBoostHD.label>
+  <!--EN: Increases the maximum hate available to a death knight.-->
+  <TM_Artifact_HateBoostHD.description>Increases the maximum hate available to a death knight.</TM_Artifact_HateBoostHD.description>
+  <!--EN: Hate Boost-->
+  <TM_Artifact_HateBoostHD.label>Hate Boost</TM_Artifact_HateBoostHD.label>
+  <!--EN: Increases the maximum psionic energy available to a psionic.-->
+  <TM_Artifact_PsionicBoostHD.description>Increases the maximum psionic energy available to a psionic.</TM_Artifact_PsionicBoostHD.description>
+  <!--EN: Psionic Boost-->
+  <TM_Artifact_PsionicBoostHD.label>Psionic Boost</TM_Artifact_PsionicBoostHD.label>
+  <!--EN: Reduces undead upkeep of this necromancer and increases the movement and attack power of nearby undead.-->
+  <TM_ShroudOfUndeathHD.description>Reduces undead upkeep of this necromancer and increases the movement and attack power of nearby undead.</TM_ShroudOfUndeathHD.description>
+  <!--EN: Shroud of Undeath-->
+  <TM_ShroudOfUndeathHD.label>Shroud of Undeath</TM_ShroudOfUndeathHD.label>
+  <!--EN: These changes make me feel like a stranger to myself, it's going to take some time to rediscover who I am.-->
+  <TM_TraitInfusion.stages.0.description>These changes make me feel like a stranger to myself, it&amp;apos;s going to take some time to rediscover who I am.</TM_TraitInfusion.stages.0.description>
+  <!--EN: Absorbed traits-->
+  <TM_TraitInfusion.stages.0.label>Absorbed traits</TM_TraitInfusion.stages.0.label>
+  <!--EN: A pawn has gained traits through magical infusion; this will affect their sense of self.-->
+  <TM_TraitInfusionHD.description>A pawn has gained traits through magical infusion; this will affect their sense of self.</TM_TraitInfusionHD.description>
+  <!--EN: Trait Infusion-->
+  <TM_TraitInfusionHD.label>Trait Infusion</TM_TraitInfusionHD.label>
+  <!--EN: Drains heat and energy from the body; prevents heat stroke. Mages only: lowers room temperature.-->
+  <TM_WinterStaffHD.description>Drains heat and energy from the body; prevents heat stroke. Mages only: lowers room temperature.</TM_WinterStaffHD.description>
+  <!--EN: Winter's Chill-->
+  <TM_WinterStaffHD.label>Winter&amp;apos;s Chill</TM_WinterStaffHD.label>
+</LanguageData>

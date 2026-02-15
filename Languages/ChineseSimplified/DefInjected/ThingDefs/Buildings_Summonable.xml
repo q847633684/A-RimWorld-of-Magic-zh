@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Arcane energy bottled for fuel. Used to charge portals.-->
+  <Portfuel.description>Arcane energy bottled for fuel. Used to charge portals.</Portfuel.description>
+  <!--EN: portfuel-->
+  <Portfuel.label>portfuel</Portfuel.label>
+  <!--EN: An active dimensional tap into the Plane of Ice that can be used to cool confined spaces.-->
+  <TM_Cooler.description>An active dimensional tap into the Plane of Ice that can be used to cool confined spaces.</TM_Cooler.description>
+  <!--EN: magical cooler-->
+  <TM_Cooler.label>magical cooler</TM_Cooler.label>
+  <!--EN: An active dimensional tap into the Plane of Fire that can be used to heat confined spaces. Can also be used for various cooking or cremating tasks. Remains as long as it is sustained by a mage.-->
+  <TM_Heater.description>An active dimensional tap into the Plane of Fire that can be used to heat confined spaces. Can also be used for various cooking or cremating tasks. Remains as long as it is sustained by a mage.</TM_Heater.description>
+  <!--EN: magical heater-->
+  <TM_Heater.label>magical heater</TM_Heater.label>
+  <!--EN: Transportation along a beam of light.-->
+  <TM_LightPod.description>Transportation along a beam of light.</TM_LightPod.description>
+  <!--EN: Light Beam-->
+  <TM_LightPod.label>Light Beam</TM_LightPod.label>
+  <!--EN: A light source created by a mage.-->
+  <TM_MageLightTD.description>A light source created by a mage.</TM_MageLightTD.description>
+  <!--EN: magelight-->
+  <TM_MageLightTD.label>magelight</TM_MageLightTD.label>
+  <!--EN: An arcane energy node that provides power as long as it is sustained by a mage.-->
+  <TM_PowerNode.description>An arcane energy node that provides power as long as it is sustained by a mage.</TM_PowerNode.description>
+  <!--EN: Arcane power node-->
+  <TM_PowerNode.label>Arcane power node</TM_PowerNode.label>
+  <!--EN: This statue is made of stone and shaped to look like a terrifying creature. The statue is smaller than an average person and has the look of a rough cut and quality, though, you notice the eyes, ears, and claws seems to have finer detail.
+	
+As you drawn near the statue, an eerie glint from the eyes of the stone sentinel seems to follow you, and you get the feeling that you are being watched.-->
+  <TM_Sentinel.description>This statue is made of stone and shaped to look like a terrifying creature. The statue is smaller than an average person and has the look of a rough cut and quality, though, you notice the eyes, ears, and claws seems to have finer detail.
+	
+As you drawn near the statue, an eerie glint from the eyes of the stone sentinel seems to follow you, and you get the feeling that you are being watched.</TM_Sentinel.description>
+  <!--EN: Sentinel-->
+  <TM_Sentinel.label>Sentinel</TM_Sentinel.label>
+  <!--EN: A dimensional pocket emitting a continous source of light strong enough to grow crops.-->
+  <TM_Sunlight.description>A dimensional pocket emitting a continous source of light strong enough to grow crops.</TM_Sunlight.description>
+  <!--EN: sun light-->
+  <TM_Sunlight.label>sun light</TM_Sunlight.label>
+  <!--EN: Large flat cylinder used by warlocks to rapidly transport between locations.-->
+  <TM_TeleportPod.description>Large flat cylinder used by warlocks to rapidly transport between locations.</TM_TeleportPod.description>
+  <!--EN: Teleport Pod-->
+  <TM_TeleportPod.label>Teleport Pod</TM_TeleportPod.label>
+  <!--EN: Large flat cylinder used by warlocks to rapidly transport between locations.-->
+  <TM_TeleportPod_I.description>Large flat cylinder used by warlocks to rapidly transport between locations.</TM_TeleportPod_I.description>
+  <!--EN: Teleport Pod (I)-->
+  <TM_TeleportPod_I.label>Teleport Pod (I)</TM_TeleportPod_I.label>
+  <!--EN: Large flat cylinder used by warlocks to rapidly transport between locations.-->
+  <TM_TeleportPod_II.description>Large flat cylinder used by warlocks to rapidly transport between locations.</TM_TeleportPod_II.description>
+  <!--EN: Teleport Pod (II)-->
+  <TM_TeleportPod_II.label>Teleport Pod (II)</TM_TeleportPod_II.label>
+  <!--EN: Large flat cylinder used by warlocks to rapidly transport between locations.-->
+  <TM_TeleportPod_III.description>Large flat cylinder used by warlocks to rapidly transport between locations.</TM_TeleportPod_III.description>
+  <!--EN: Teleport Pod (III)-->
+  <TM_TeleportPod_III.label>Teleport Pod (III)</TM_TeleportPod_III.label>
+  <!--EN: A portal platform used to contain teleport pods.-->
+  <TM_Teleporter.description>A portal platform used to contain teleport pods.</TM_Teleporter.description>
+  <!--EN: Teleporter-->
+  <TM_Teleporter.label>Teleporter</TM_Teleporter.label>
+  <!--EN: A portal platform used to contain teleport pods.-->
+  <TM_Teleporter_I.description>A portal platform used to contain teleport pods.</TM_Teleporter_I.description>
+  <!--EN: Teleporter (I)-->
+  <TM_Teleporter_I.label>Teleporter (I)</TM_Teleporter_I.label>
+  <!--EN: A portal platform used to contain teleport pods.-->
+  <TM_Teleporter_II.description>A portal platform used to contain teleport pods.</TM_Teleporter_II.description>
+  <!--EN: Teleporter (II)-->
+  <TM_Teleporter_II.label>Teleporter (II)</TM_Teleporter_II.label>
+  <!--EN: A portal platform used to contain teleport pods.-->
+  <TM_Teleporter_III.description>A portal platform used to contain teleport pods.</TM_Teleporter_III.description>
+  <!--EN: Teleporter (III)-->
+  <TM_Teleporter_III.label>Teleporter (III)</TM_Teleporter_III.label>
+</LanguageData>

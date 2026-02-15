@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Pain, blindness and disorientation as a result of intense light effecting sensory organs. Disoriented pawns are unable to distinguish enemies from allies.-->
+  <TM_LightBurstHD.description>Pain, blindness and disorientation as a result of intense light effecting sensory organs. Disoriented pawns are unable to distinguish enemies from allies.</TM_LightBurstHD.description>
+  <!--EN: Blinding Flash-->
+  <TM_LightBurstHD.label>Blinding Flash</TM_LightBurstHD.label>
+  <!--EN: dim vision-->
+  <TM_LightBurstHD.stages.0.label>dim vision</TM_LightBurstHD.stages.0.label>
+  <!--EN: blinded-->
+  <TM_LightBurstHD.stages.1.label>blinded</TM_LightBurstHD.stages.1.label>
+  <!--EN: disoriented-->
+  <TM_LightBurstHD.stages.2.label>disoriented</TM_LightBurstHD.stages.2.label>
+  <!--EN: The amount of stored light power available to a mage - acts as a catalyst for light magic.-->
+  <TM_LightCapacitanceHD.description>The amount of stored light power available to a mage - acts as a catalyst for light magic.</TM_LightCapacitanceHD.description>
+  <!--EN: Light power-->
+  <TM_LightCapacitanceHD.label>Light power</TM_LightCapacitanceHD.label>
+</LanguageData>

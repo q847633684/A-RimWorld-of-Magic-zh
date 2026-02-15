@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: This pawn has been taunted and will focus their attacks on the offending pawn.-->
+  <TM_TauntHD.description>This pawn has been taunted and will focus their attacks on the offending pawn.</TM_TauntHD.description>
+  <!--EN: Taunted!-->
+  <TM_TauntHD.label>Taunted!</TM_TauntHD.label>
+</LanguageData>

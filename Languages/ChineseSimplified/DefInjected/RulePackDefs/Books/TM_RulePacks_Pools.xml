@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: subject_bookType->grimoire-->
+  <TM_Book_Pools.rulePack.rulesStrings.0>subject_bookType-&amp;gt;grimoire</TM_Book_Pools.rulePack.rulesStrings.0>
+  <!--EN: subject_bookType->tome-->
+  <TM_Book_Pools.rulePack.rulesStrings.1>subject_bookType-&amp;gt;tome</TM_Book_Pools.rulePack.rulesStrings.1>
+  <!--EN: subject_teachingType->sheaf-->
+  <TM_Book_Pools.rulePack.rulesStrings.10>subject_teachingType-&amp;gt;sheaf</TM_Book_Pools.rulePack.rulesStrings.10>
+  <!--EN: TM_randAdjective_Magic->Esoteric-->
+  <TM_Book_Pools.rulePack.rulesStrings.100>TM_randAdjective_Magic-&amp;gt;Esoteric</TM_Book_Pools.rulePack.rulesStrings.100>
+  <!--EN: TM_randAdjective_Magic->Divine-->
+  <TM_Book_Pools.rulePack.rulesStrings.101>TM_randAdjective_Magic-&amp;gt;Divine</TM_Book_Pools.rulePack.rulesStrings.101>
+  <!--EN: TM_randAdjective_Magic->Spectral-->
+  <TM_Book_Pools.rulePack.rulesStrings.102>TM_randAdjective_Magic-&amp;gt;Spectral</TM_Book_Pools.rulePack.rulesStrings.102>
+  <!--EN: TM_randTheme_Magic->knowledge-->
+  <TM_Book_Pools.rulePack.rulesStrings.103>TM_randTheme_Magic-&amp;gt;knowledge</TM_Book_Pools.rulePack.rulesStrings.103>
+  <!--EN: TM_randTheme_Magic->understanding-->
+  <TM_Book_Pools.rulePack.rulesStrings.104>TM_randTheme_Magic-&amp;gt;understanding</TM_Book_Pools.rulePack.rulesStrings.104>
+  <!--EN: TM_randTheme_Magic->power-->
+  <TM_Book_Pools.rulePack.rulesStrings.105>TM_randTheme_Magic-&amp;gt;power</TM_Book_Pools.rulePack.rulesStrings.105>
+  <!--EN: TM_randTheme_Magic->transformation-->
+  <TM_Book_Pools.rulePack.rulesStrings.106>TM_randTheme_Magic-&amp;gt;transformation</TM_Book_Pools.rulePack.rulesStrings.106>
+  <!--EN: TM_randTheme_Magic->mystery-->
+  <TM_Book_Pools.rulePack.rulesStrings.107>TM_randTheme_Magic-&amp;gt;mystery</TM_Book_Pools.rulePack.rulesStrings.107>
+  <!--EN: TM_randTheme_Magic->enlightenment-->
+  <TM_Book_Pools.rulePack.rulesStrings.108>TM_randTheme_Magic-&amp;gt;enlightenment</TM_Book_Pools.rulePack.rulesStrings.108>
+  <!--EN: TM_randTheme_Magic->balance-->
+  <TM_Book_Pools.rulePack.rulesStrings.109>TM_randTheme_Magic-&amp;gt;balance</TM_Book_Pools.rulePack.rulesStrings.109>
+  <!--EN: subject_teachingType->chronicle-->
+  <TM_Book_Pools.rulePack.rulesStrings.11>subject_teachingType-&amp;gt;chronicle</TM_Book_Pools.rulePack.rulesStrings.11>
+  <!--EN: TM_randTheme_Magic->protection-->
+  <TM_Book_Pools.rulePack.rulesStrings.110>TM_randTheme_Magic-&amp;gt;protection</TM_Book_Pools.rulePack.rulesStrings.110>
+  <!--EN: TM_randTheme_Magic->healing-->
+  <TM_Book_Pools.rulePack.rulesStrings.111>TM_randTheme_Magic-&amp;gt;healing</TM_Book_Pools.rulePack.rulesStrings.111>
+  <!--EN: TM_randTheme_Magic->wisdom-->
+  <TM_Book_Pools.rulePack.rulesStrings.112>TM_randTheme_Magic-&amp;gt;wisdom</TM_Book_Pools.rulePack.rulesStrings.112>
+  <!--EN: TM_randTheme_Magic->discovery-->
+  <TM_Book_Pools.rulePack.rulesStrings.113>TM_randTheme_Magic-&amp;gt;discovery</TM_Book_Pools.rulePack.rulesStrings.113>
+  <!--EN: TM_randTheme_Magic->creation-->
+  <TM_Book_Pools.rulePack.rulesStrings.114>TM_randTheme_Magic-&amp;gt;creation</TM_Book_Pools.rulePack.rulesStrings.114>
+  <!--EN: TM_randTheme_Magic->legacy-->
+  <TM_Book_Pools.rulePack.rulesStrings.115>TM_randTheme_Magic-&amp;gt;legacy</TM_Book_Pools.rulePack.rulesStrings.115>
+  <!--EN: TM_randTheme_Magic->alchemy-->
+  <TM_Book_Pools.rulePack.rulesStrings.116>TM_randTheme_Magic-&amp;gt;alchemy</TM_Book_Pools.rulePack.rulesStrings.116>
+  <!--EN: TM_randTheme_Magic->destiny-->
+  <TM_Book_Pools.rulePack.rulesStrings.117>TM_randTheme_Magic-&amp;gt;destiny</TM_Book_Pools.rulePack.rulesStrings.117>
+  <!--EN: TM_randTheme_Magic->harmony-->
+  <TM_Book_Pools.rulePack.rulesStrings.118>TM_randTheme_Magic-&amp;gt;harmony</TM_Book_Pools.rulePack.rulesStrings.118>
+  <!--EN: TM_randTheme_Magic->nature-->
+  <TM_Book_Pools.rulePack.rulesStrings.119>TM_randTheme_Magic-&amp;gt;nature</TM_Book_Pools.rulePack.rulesStrings.119>
+  <!--EN: subject_teachingType->guide-->
+  <TM_Book_Pools.rulePack.rulesStrings.12>subject_teachingType-&amp;gt;guide</TM_Book_Pools.rulePack.rulesStrings.12>
+  <!--EN: TM_randNoun_Might->Battle-->
+  <TM_Book_Pools.rulePack.rulesStrings.120>TM_randNoun_Might-&amp;gt;Battle</TM_Book_Pools.rulePack.rulesStrings.120>
+  <!--EN: TM_randNoun_Might->War-->
+  <TM_Book_Pools.rulePack.rulesStrings.121>TM_randNoun_Might-&amp;gt;War</TM_Book_Pools.rulePack.rulesStrings.121>
+  <!--EN: TM_randNoun_Might->Fight-->
+  <TM_Book_Pools.rulePack.rulesStrings.122>TM_randNoun_Might-&amp;gt;Fight</TM_Book_Pools.rulePack.rulesStrings.122>
+  <!--EN: TM_randNoun_Might->Struggle-->
+  <TM_Book_Pools.rulePack.rulesStrings.123>TM_randNoun_Might-&amp;gt;Struggle</TM_Book_Pools.rulePack.rulesStrings.123>
+  <!--EN: TM_randNoun_Might->Conflict-->
+  <TM_Book_Pools.rulePack.rulesStrings.124>TM_randNoun_Might-&amp;gt;Conflict</TM_Book_Pools.rulePack.rulesStrings.124>
+  <!--EN: TM_randNoun_Might->Conquest-->
+  <TM_Book_Pools.rulePack.rulesStrings.125>TM_randNoun_Might-&amp;gt;Conquest</TM_Book_Pools.rulePack.rulesStrings.125>
+  <!--EN: TM_randNoun_Might->Victory-->
+  <TM_Book_Pools.rulePack.rulesStrings.126>TM_randNoun_Might-&amp;gt;Victory</TM_Book_Pools.rulePack.rulesStrings.126>
+  <!--EN: TM_randNoun_Might->Triumph-->
+  <TM_Book_Pools.rulePack.rulesStrings.127>TM_randNoun_Might-&amp;gt;Triumph</TM_Book_Pools.rulePack.rulesStrings.127>
+  <!--EN: TM_randNoun_Might->Glory-->
+  <TM_Book_Pools.rulePack.rulesStrings.128>TM_randNoun_Might-&amp;gt;Glory</TM_Book_Pools.rulePack.rulesStrings.128>
+  <!--EN: TM_randNoun_Might->Valor-->
+  <TM_Book_Pools.rulePack.rulesStrings.129>TM_randNoun_Might-&amp;gt;Valor</TM_Book_Pools.rulePack.rulesStrings.129>
+  <!--EN: subject_teachingType->technique-->
+  <TM_Book_Pools.rulePack.rulesStrings.13>subject_teachingType-&amp;gt;technique</TM_Book_Pools.rulePack.rulesStrings.13>
+  <!--EN: TM_randNoun_Might->Heroism-->
+  <TM_Book_Pools.rulePack.rulesStrings.130>TM_randNoun_Might-&amp;gt;Heroism</TM_Book_Pools.rulePack.rulesStrings.130>
+  <!--EN: TM_randNoun_Might->Weapon-->
+  <TM_Book_Pools.rulePack.rulesStrings.131>TM_randNoun_Might-&amp;gt;Weapon</TM_Book_Pools.rulePack.rulesStrings.131>
+  <!--EN: TM_randNoun_Might->Shield-->
+  <TM_Book_Pools.rulePack.rulesStrings.132>TM_randNoun_Might-&amp;gt;Shield</TM_Book_Pools.rulePack.rulesStrings.132>
+  <!--EN: TM_randNoun_Might->Armor-->
+  <TM_Book_Pools.rulePack.rulesStrings.133>TM_randNoun_Might-&amp;gt;Armor</TM_Book_Pools.rulePack.rulesStrings.133>
+  <!--EN: TM_randNoun_Might->Sword-->
+  <TM_Book_Pools.rulePack.rulesStrings.134>TM_randNoun_Might-&amp;gt;Sword</TM_Book_Pools.rulePack.rulesStrings.134>
+  <!--EN: TM_randNoun_Might->Axe-->
+  <TM_Book_Pools.rulePack.rulesStrings.135>TM_randNoun_Might-&amp;gt;Axe</TM_Book_Pools.rulePack.rulesStrings.135>
+  <!--EN: TM_randNoun_Might->Spear-->
+  <TM_Book_Pools.rulePack.rulesStrings.136>TM_randNoun_Might-&amp;gt;Spear</TM_Book_Pools.rulePack.rulesStrings.136>
+  <!--EN: TM_randNoun_Might->Bow-->
+  <TM_Book_Pools.rulePack.rulesStrings.137>TM_randNoun_Might-&amp;gt;Bow</TM_Book_Pools.rulePack.rulesStrings.137>
+  <!--EN: TM_randNoun_Might->Arrow-->
+  <TM_Book_Pools.rulePack.rulesStrings.138>TM_randNoun_Might-&amp;gt;Arrow</TM_Book_Pools.rulePack.rulesStrings.138>
+  <!--EN: TM_randNoun_Might->Challenge-->
+  <TM_Book_Pools.rulePack.rulesStrings.139>TM_randNoun_Might-&amp;gt;Challenge</TM_Book_Pools.rulePack.rulesStrings.139>
+  <!--EN: TM_randNoun_Magic->Death-->
+  <TM_Book_Pools.rulePack.rulesStrings.14>TM_randNoun_Magic-&amp;gt;Death</TM_Book_Pools.rulePack.rulesStrings.14>
+  <!--EN: TM_randNoun_Might->Combat-->
+  <TM_Book_Pools.rulePack.rulesStrings.140>TM_randNoun_Might-&amp;gt;Combat</TM_Book_Pools.rulePack.rulesStrings.140>
+  <!--EN: TM_randNoun_Might->Warrior-->
+  <TM_Book_Pools.rulePack.rulesStrings.141>TM_randNoun_Might-&amp;gt;Warrior</TM_Book_Pools.rulePack.rulesStrings.141>
+  <!--EN: TM_randNoun_Might->Gladiator-->
+  <TM_Book_Pools.rulePack.rulesStrings.142>TM_randNoun_Might-&amp;gt;Gladiator</TM_Book_Pools.rulePack.rulesStrings.142>
+  <!--EN: TM_randNoun_Might->Mercenary-->
+  <TM_Book_Pools.rulePack.rulesStrings.143>TM_randNoun_Might-&amp;gt;Mercenary</TM_Book_Pools.rulePack.rulesStrings.143>
+  <!--EN: TM_randNoun_Might->Knight-->
+  <TM_Book_Pools.rulePack.rulesStrings.144>TM_randNoun_Might-&amp;gt;Knight</TM_Book_Pools.rulePack.rulesStrings.144>
+  <!--EN: TM_randNoun_Might->Champion-->
+  <TM_Book_Pools.rulePack.rulesStrings.145>TM_randNoun_Might-&amp;gt;Champion</TM_Book_Pools.rulePack.rulesStrings.145>
+  <!--EN: TM_randNoun_Might->Soldier-->
+  <TM_Book_Pools.rulePack.rulesStrings.146>TM_randNoun_Might-&amp;gt;Soldier</TM_Book_Pools.rulePack.rulesStrings.146>
+  <!--EN: TM_randNoun_Might->Fighter-->
+  <TM_Book_Pools.rulePack.rulesStrings.147>TM_randNoun_Might-&amp;gt;Fighter</TM_Book_Pools.rulePack.rulesStrings.147>
+  <!--EN: TM_randNoun_Might->Samurai-->
+  <TM_Book_Pools.rulePack.rulesStrings.148>TM_randNoun_Might-&amp;gt;Samurai</TM_Book_Pools.rulePack.rulesStrings.148>
+  <!--EN: TM_randNoun_Might->Ninja-->
+  <TM_Book_Pools.rulePack.rulesStrings.149>TM_randNoun_Might-&amp;gt;Ninja</TM_Book_Pools.rulePack.rulesStrings.149>
+  <!--EN: TM_randNoun_Magic->Life-->
+  <TM_Book_Pools.rulePack.rulesStrings.15>TM_randNoun_Magic-&amp;gt;Life</TM_Book_Pools.rulePack.rulesStrings.15>
+  <!--EN: TM_randNoun_Might->Assassin-->
+  <TM_Book_Pools.rulePack.rulesStrings.150>TM_randNoun_Might-&amp;gt;Assassin</TM_Book_Pools.rulePack.rulesStrings.150>
+  <!--EN: TM_randNoun_Might->Commando-->
+  <TM_Book_Pools.rulePack.rulesStrings.151>TM_randNoun_Might-&amp;gt;Commando</TM_Book_Pools.rulePack.rulesStrings.151>
+  <!--EN: TM_randNoun_Might->Berserker-->
+  <TM_Book_Pools.rulePack.rulesStrings.152>TM_randNoun_Might-&amp;gt;Berserker</TM_Book_Pools.rulePack.rulesStrings.152>
+  <!--EN: TM_randNoun_Might->Paladin-->
+  <TM_Book_Pools.rulePack.rulesStrings.153>TM_randNoun_Might-&amp;gt;Paladin</TM_Book_Pools.rulePack.rulesStrings.153>
+  <!--EN: subject_Might->Battle-->
+  <TM_Book_Pools.rulePack.rulesStrings.154>subject_Might-&amp;gt;Battle</TM_Book_Pools.rulePack.rulesStrings.154>
+  <!--EN: subject_Might->War-->
+  <TM_Book_Pools.rulePack.rulesStrings.155>subject_Might-&amp;gt;War</TM_Book_Pools.rulePack.rulesStrings.155>
+  <!--EN: subject_Might->Conflict-->
+  <TM_Book_Pools.rulePack.rulesStrings.156>subject_Might-&amp;gt;Conflict</TM_Book_Pools.rulePack.rulesStrings.156>
+  <!--EN: subject_Might->Combat-->
+  <TM_Book_Pools.rulePack.rulesStrings.157>subject_Might-&amp;gt;Combat</TM_Book_Pools.rulePack.rulesStrings.157>
+  <!--EN: subject_Might->Fight-->
+  <TM_Book_Pools.rulePack.rulesStrings.158>subject_Might-&amp;gt;Fight</TM_Book_Pools.rulePack.rulesStrings.158>
+  <!--EN: subject_Might->Struggle-->
+  <TM_Book_Pools.rulePack.rulesStrings.159>subject_Might-&amp;gt;Struggle</TM_Book_Pools.rulePack.rulesStrings.159>
+  <!--EN: TM_randNoun_Magic->Love-->
+  <TM_Book_Pools.rulePack.rulesStrings.16>TM_randNoun_Magic-&amp;gt;Love</TM_Book_Pools.rulePack.rulesStrings.16>
+  <!--EN: subject_Might->Conquest-->
+  <TM_Book_Pools.rulePack.rulesStrings.160>subject_Might-&amp;gt;Conquest</TM_Book_Pools.rulePack.rulesStrings.160>
+  <!--EN: subject_Might->Victory-->
+  <TM_Book_Pools.rulePack.rulesStrings.161>subject_Might-&amp;gt;Victory</TM_Book_Pools.rulePack.rulesStrings.161>
+  <!--EN: subject_Might->Triumph-->
+  <TM_Book_Pools.rulePack.rulesStrings.162>subject_Might-&amp;gt;Triumph</TM_Book_Pools.rulePack.rulesStrings.162>
+  <!--EN: subject_Might->Glory-->
+  <TM_Book_Pools.rulePack.rulesStrings.163>subject_Might-&amp;gt;Glory</TM_Book_Pools.rulePack.rulesStrings.163>
+  <!--EN: subject_Might->Valor-->
+  <TM_Book_Pools.rulePack.rulesStrings.164>subject_Might-&amp;gt;Valor</TM_Book_Pools.rulePack.rulesStrings.164>
+  <!--EN: subject_Might->Heroism-->
+  <TM_Book_Pools.rulePack.rulesStrings.165>subject_Might-&amp;gt;Heroism</TM_Book_Pools.rulePack.rulesStrings.165>
+  <!--EN: subject_Might->Weaponry-->
+  <TM_Book_Pools.rulePack.rulesStrings.166>subject_Might-&amp;gt;Weaponry</TM_Book_Pools.rulePack.rulesStrings.166>
+  <!--EN: subject_Might->Tactics-->
+  <TM_Book_Pools.rulePack.rulesStrings.167>subject_Might-&amp;gt;Tactics</TM_Book_Pools.rulePack.rulesStrings.167>
+  <!--EN: subject_Might->Strategy-->
+  <TM_Book_Pools.rulePack.rulesStrings.168>subject_Might-&amp;gt;Strategy</TM_Book_Pools.rulePack.rulesStrings.168>
+  <!--EN: subject_Might->Warfare-->
+  <TM_Book_Pools.rulePack.rulesStrings.169>subject_Might-&amp;gt;Warfare</TM_Book_Pools.rulePack.rulesStrings.169>
+  <!--EN: TM_randNoun_Magic->Wisdom-->
+  <TM_Book_Pools.rulePack.rulesStrings.17>TM_randNoun_Magic-&amp;gt;Wisdom</TM_Book_Pools.rulePack.rulesStrings.17>
+  <!--EN: subject_Might->Skirmish-->
+  <TM_Book_Pools.rulePack.rulesStrings.170>subject_Might-&amp;gt;Skirmish</TM_Book_Pools.rulePack.rulesStrings.170>
+  <!--EN: subject_Might->Assault-->
+  <TM_Book_Pools.rulePack.rulesStrings.171>subject_Might-&amp;gt;Assault</TM_Book_Pools.rulePack.rulesStrings.171>
+  <!--EN: subject_Might->Defense-->
+  <TM_Book_Pools.rulePack.rulesStrings.172>subject_Might-&amp;gt;Defense</TM_Book_Pools.rulePack.rulesStrings.172>
+  <!--EN: subject_Might->Martial Arts-->
+  <TM_Book_Pools.rulePack.rulesStrings.173>subject_Might-&amp;gt;Martial Arts</TM_Book_Pools.rulePack.rulesStrings.173>
+  <!--EN: subject_Might->Duel-->
+  <TM_Book_Pools.rulePack.rulesStrings.174>subject_Might-&amp;gt;Duel</TM_Book_Pools.rulePack.rulesStrings.174>
+  <!--EN: subject_Might->Arena Combat-->
+  <TM_Book_Pools.rulePack.rulesStrings.175>subject_Might-&amp;gt;Arena Combat</TM_Book_Pools.rulePack.rulesStrings.175>
+  <!--EN: subject_Might->Military-->
+  <TM_Book_Pools.rulePack.rulesStrings.176>subject_Might-&amp;gt;Military</TM_Book_Pools.rulePack.rulesStrings.176>
+  <!--EN: subject_Might->Swordplay-->
+  <TM_Book_Pools.rulePack.rulesStrings.177>subject_Might-&amp;gt;Swordplay</TM_Book_Pools.rulePack.rulesStrings.177>
+  <!--EN: subject_Might->Archery-->
+  <TM_Book_Pools.rulePack.rulesStrings.178>subject_Might-&amp;gt;Archery</TM_Book_Pools.rulePack.rulesStrings.178>
+  <!--EN: subject_Might->Melee-->
+  <TM_Book_Pools.rulePack.rulesStrings.179>subject_Might-&amp;gt;Melee</TM_Book_Pools.rulePack.rulesStrings.179>
+  <!--EN: TM_randNoun_Magic->Spell-->
+  <TM_Book_Pools.rulePack.rulesStrings.18>TM_randNoun_Magic-&amp;gt;Spell</TM_Book_Pools.rulePack.rulesStrings.18>
+  <!--EN: subject_Might->Close Quarters Combat-->
+  <TM_Book_Pools.rulePack.rulesStrings.180>subject_Might-&amp;gt;Close Quarters Combat</TM_Book_Pools.rulePack.rulesStrings.180>
+  <!--EN: subject_Might->Warrior's Code-->
+  <TM_Book_Pools.rulePack.rulesStrings.181>subject_Might-&amp;gt;Warrior&amp;apos;s Code</TM_Book_Pools.rulePack.rulesStrings.181>
+  <!--EN: subject_Might->Command-->
+  <TM_Book_Pools.rulePack.rulesStrings.182>subject_Might-&amp;gt;Command</TM_Book_Pools.rulePack.rulesStrings.182>
+  <!--EN: subject_Might->Ambush-->
+  <TM_Book_Pools.rulePack.rulesStrings.183>subject_Might-&amp;gt;Ambush</TM_Book_Pools.rulePack.rulesStrings.183>
+  <!--EN: subject_Might->Siege-->
+  <TM_Book_Pools.rulePack.rulesStrings.184>subject_Might-&amp;gt;Siege</TM_Book_Pools.rulePack.rulesStrings.184>
+  <!--EN: subject_Might->Guerrilla Warfare-->
+  <TM_Book_Pools.rulePack.rulesStrings.185>subject_Might-&amp;gt;Guerrilla Warfare</TM_Book_Pools.rulePack.rulesStrings.185>
+  <!--EN: subject_Might->Formation-->
+  <TM_Book_Pools.rulePack.rulesStrings.186>subject_Might-&amp;gt;Formation</TM_Book_Pools.rulePack.rulesStrings.186>
+  <!--EN: subject_Might->Battlefield-->
+  <TM_Book_Pools.rulePack.rulesStrings.187>subject_Might-&amp;gt;Battlefield</TM_Book_Pools.rulePack.rulesStrings.187>
+  <!--EN: subject_Might->Warrior Spirit-->
+  <TM_Book_Pools.rulePack.rulesStrings.188>subject_Might-&amp;gt;Warrior Spirit</TM_Book_Pools.rulePack.rulesStrings.188>
+  <!--EN: TM_randAdjective_Might->Legendary-->
+  <TM_Book_Pools.rulePack.rulesStrings.189>TM_randAdjective_Might-&amp;gt;Legendary</TM_Book_Pools.rulePack.rulesStrings.189>
+  <!--EN: TM_randNoun_Magic->Charm-->
+  <TM_Book_Pools.rulePack.rulesStrings.19>TM_randNoun_Magic-&amp;gt;Charm</TM_Book_Pools.rulePack.rulesStrings.19>
+  <!--EN: TM_randAdjective_Might->Heroic-->
+  <TM_Book_Pools.rulePack.rulesStrings.190>TM_randAdjective_Might-&amp;gt;Heroic</TM_Book_Pools.rulePack.rulesStrings.190>
+  <!--EN: TM_randAdjective_Might->Fearless-->
+  <TM_Book_Pools.rulePack.rulesStrings.191>TM_randAdjective_Might-&amp;gt;Fearless</TM_Book_Pools.rulePack.rulesStrings.191>
+  <!--EN: TM_randAdjective_Might->Valiant-->
+  <TM_Book_Pools.rulePack.rulesStrings.192>TM_randAdjective_Might-&amp;gt;Valiant</TM_Book_Pools.rulePack.rulesStrings.192>
+  <!--EN: TM_randAdjective_Might->Skilled-->
+  <TM_Book_Pools.rulePack.rulesStrings.193>TM_randAdjective_Might-&amp;gt;Skilled</TM_Book_Pools.rulePack.rulesStrings.193>
+  <!--EN: TM_randAdjective_Might->Brave-->
+  <TM_Book_Pools.rulePack.rulesStrings.194>TM_randAdjective_Might-&amp;gt;Brave</TM_Book_Pools.rulePack.rulesStrings.194>
+  <!--EN: TM_randAdjective_Might->Fierce-->
+  <TM_Book_Pools.rulePack.rulesStrings.195>TM_randAdjective_Might-&amp;gt;Fierce</TM_Book_Pools.rulePack.rulesStrings.195>
+  <!--EN: TM_randAdjective_Might->Formidable-->
+  <TM_Book_Pools.rulePack.rulesStrings.196>TM_randAdjective_Might-&amp;gt;Formidable</TM_Book_Pools.rulePack.rulesStrings.196>
+  <!--EN: TM_randAdjective_Might->Mighty-->
+  <TM_Book_Pools.rulePack.rulesStrings.197>TM_randAdjective_Might-&amp;gt;Mighty</TM_Book_Pools.rulePack.rulesStrings.197>
+  <!--EN: TM_randAdjective_Might->Swift-->
+  <TM_Book_Pools.rulePack.rulesStrings.198>TM_randAdjective_Might-&amp;gt;Swift</TM_Book_Pools.rulePack.rulesStrings.198>
+  <!--EN: TM_randAdjective_Might->Agile-->
+  <TM_Book_Pools.rulePack.rulesStrings.199>TM_randAdjective_Might-&amp;gt;Agile</TM_Book_Pools.rulePack.rulesStrings.199>
+  <!--EN: subject_bookType->codex-->
+  <TM_Book_Pools.rulePack.rulesStrings.2>subject_bookType-&amp;gt;codex</TM_Book_Pools.rulePack.rulesStrings.2>
+  <!--EN: TM_randNoun_Magic->Potion-->
+  <TM_Book_Pools.rulePack.rulesStrings.20>TM_randNoun_Magic-&amp;gt;Potion</TM_Book_Pools.rulePack.rulesStrings.20>
+  <!--EN: TM_randAdjective_Might->Cunning-->
+  <TM_Book_Pools.rulePack.rulesStrings.200>TM_randAdjective_Might-&amp;gt;Cunning</TM_Book_Pools.rulePack.rulesStrings.200>
+  <!--EN: TM_randAdjective_Might->Tenacious-->
+  <TM_Book_Pools.rulePack.rulesStrings.201>TM_randAdjective_Might-&amp;gt;Tenacious</TM_Book_Pools.rulePack.rulesStrings.201>
+  <!--EN: TM_randAdjective_Might->Resilient-->
+  <TM_Book_Pools.rulePack.rulesStrings.202>TM_randAdjective_Might-&amp;gt;Resilient</TM_Book_Pools.rulePack.rulesStrings.202>
+  <!--EN: TM_randAdjective_Might->Stalwart-->
+  <TM_Book_Pools.rulePack.rulesStrings.203>TM_randAdjective_Might-&amp;gt;Stalwart</TM_Book_Pools.rulePack.rulesStrings.203>
+  <!--EN: TM_randAdjective_Might->Daring-->
+  <TM_Book_Pools.rulePack.rulesStrings.204>TM_randAdjective_Might-&amp;gt;Daring</TM_Book_Pools.rulePack.rulesStrings.204>
+  <!--EN: TM_randAdjective_Might->Gritty-->
+  <TM_Book_Pools.rulePack.rulesStrings.205>TM_randAdjective_Might-&amp;gt;Gritty</TM_Book_Pools.rulePack.rulesStrings.205>
+  <!--EN: TM_randAdjective_Might->Bold-->
+  <TM_Book_Pools.rulePack.rulesStrings.206>TM_randAdjective_Might-&amp;gt;Bold</TM_Book_Pools.rulePack.rulesStrings.206>
+  <!--EN: TM_randAdjective_Might->Unyielding-->
+  <TM_Book_Pools.rulePack.rulesStrings.207>TM_randAdjective_Might-&amp;gt;Unyielding</TM_Book_Pools.rulePack.rulesStrings.207>
+  <!--EN: TM_randAdjective_Might->Vigilant-->
+  <TM_Book_Pools.rulePack.rulesStrings.208>TM_randAdjective_Might-&amp;gt;Vigilant</TM_Book_Pools.rulePack.rulesStrings.208>
+  <!--EN: TM_randAdjective_Might->Unstoppable-->
+  <TM_Book_Pools.rulePack.rulesStrings.209>TM_randAdjective_Might-&amp;gt;Unstoppable</TM_Book_Pools.rulePack.rulesStrings.209>
+  <!--EN: TM_randNoun_Magic->Wand-->
+  <TM_Book_Pools.rulePack.rulesStrings.21>TM_randNoun_Magic-&amp;gt;Wand</TM_Book_Pools.rulePack.rulesStrings.21>
+  <!--EN: TM_randAdjective_Might->Relentless-->
+  <TM_Book_Pools.rulePack.rulesStrings.210>TM_randAdjective_Might-&amp;gt;Relentless</TM_Book_Pools.rulePack.rulesStrings.210>
+  <!--EN: TM_randAdjective_Might->Ruthless-->
+  <TM_Book_Pools.rulePack.rulesStrings.211>TM_randAdjective_Might-&amp;gt;Ruthless</TM_Book_Pools.rulePack.rulesStrings.211>
+  <!--EN: TM_randAdjective_Might->Tactical-->
+  <TM_Book_Pools.rulePack.rulesStrings.212>TM_randAdjective_Might-&amp;gt;Tactical</TM_Book_Pools.rulePack.rulesStrings.212>
+  <!--EN: TM_randAdjective_Might->Strategic-->
+  <TM_Book_Pools.rulePack.rulesStrings.213>TM_randAdjective_Might-&amp;gt;Strategic</TM_Book_Pools.rulePack.rulesStrings.213>
+  <!--EN: TM_randAdjective_Might->Disciplined-->
+  <TM_Book_Pools.rulePack.rulesStrings.214>TM_randAdjective_Might-&amp;gt;Disciplined</TM_Book_Pools.rulePack.rulesStrings.214>
+  <!--EN: TM_randAdjective_Might->Honorable-->
+  <TM_Book_Pools.rulePack.rulesStrings.215>TM_randAdjective_Might-&amp;gt;Honorable</TM_Book_Pools.rulePack.rulesStrings.215>
+  <!--EN: TM_randAdjective_Might->Savage-->
+  <TM_Book_Pools.rulePack.rulesStrings.216>TM_randAdjective_Might-&amp;gt;Savage</TM_Book_Pools.rulePack.rulesStrings.216>
+  <!--EN: TM_randAdjective_Might->Lethal-->
+  <TM_Book_Pools.rulePack.rulesStrings.217>TM_randAdjective_Might-&amp;gt;Lethal</TM_Book_Pools.rulePack.rulesStrings.217>
+  <!--EN: TM_randAdjective_Might->Noble-->
+  <TM_Book_Pools.rulePack.rulesStrings.218>TM_randAdjective_Might-&amp;gt;Noble</TM_Book_Pools.rulePack.rulesStrings.218>
+  <!--EN: TM_randAdjective_Might->Merciless-->
+  <TM_Book_Pools.rulePack.rulesStrings.219>TM_randAdjective_Might-&amp;gt;Merciless</TM_Book_Pools.rulePack.rulesStrings.219>
+  <!--EN: TM_randNoun_Magic->Incantation-->
+  <TM_Book_Pools.rulePack.rulesStrings.22>TM_randNoun_Magic-&amp;gt;Incantation</TM_Book_Pools.rulePack.rulesStrings.22>
+  <!--EN: TM_randTheme_Might->Victory-->
+  <TM_Book_Pools.rulePack.rulesStrings.220>TM_randTheme_Might-&amp;gt;Victory</TM_Book_Pools.rulePack.rulesStrings.220>
+  <!--EN: TM_randTheme_Might->Honor-->
+  <TM_Book_Pools.rulePack.rulesStrings.221>TM_randTheme_Might-&amp;gt;Honor</TM_Book_Pools.rulePack.rulesStrings.221>
+  <!--EN: TM_randTheme_Might->Valor-->
+  <TM_Book_Pools.rulePack.rulesStrings.222>TM_randTheme_Might-&amp;gt;Valor</TM_Book_Pools.rulePack.rulesStrings.222>
+  <!--EN: TM_randTheme_Might->Courage-->
+  <TM_Book_Pools.rulePack.rulesStrings.223>TM_randTheme_Might-&amp;gt;Courage</TM_Book_Pools.rulePack.rulesStrings.223>
+  <!--EN: TM_randTheme_Might->Glory-->
+  <TM_Book_Pools.rulePack.rulesStrings.224>TM_randTheme_Might-&amp;gt;Glory</TM_Book_Pools.rulePack.rulesStrings.224>
+  <!--EN: TM_randTheme_Might->Strategy-->
+  <TM_Book_Pools.rulePack.rulesStrings.225>TM_randTheme_Might-&amp;gt;Strategy</TM_Book_Pools.rulePack.rulesStrings.225>
+  <!--EN: TM_randTheme_Might->Tactics-->
+  <TM_Book_Pools.rulePack.rulesStrings.226>TM_randTheme_Might-&amp;gt;Tactics</TM_Book_Pools.rulePack.rulesStrings.226>
+  <!--EN: TM_randTheme_Might->Leadership-->
+  <TM_Book_Pools.rulePack.rulesStrings.227>TM_randTheme_Might-&amp;gt;Leadership</TM_Book_Pools.rulePack.rulesStrings.227>
+  <!--EN: TM_randTheme_Might->Brotherhood-->
+  <TM_Book_Pools.rulePack.rulesStrings.228>TM_randTheme_Might-&amp;gt;Brotherhood</TM_Book_Pools.rulePack.rulesStrings.228>
+  <!--EN: TM_randTheme_Might->Sacrifice-->
+  <TM_Book_Pools.rulePack.rulesStrings.229>TM_randTheme_Might-&amp;gt;Sacrifice</TM_Book_Pools.rulePack.rulesStrings.229>
+  <!--EN: TM_randNoun_Magic->Ritual-->
+  <TM_Book_Pools.rulePack.rulesStrings.23>TM_randNoun_Magic-&amp;gt;Ritual</TM_Book_Pools.rulePack.rulesStrings.23>
+  <!--EN: TM_randTheme_Might->Unity-->
+  <TM_Book_Pools.rulePack.rulesStrings.230>TM_randTheme_Might-&amp;gt;Unity</TM_Book_Pools.rulePack.rulesStrings.230>
+  <!--EN: TM_randTheme_Might->Bravery-->
+  <TM_Book_Pools.rulePack.rulesStrings.231>TM_randTheme_Might-&amp;gt;Bravery</TM_Book_Pools.rulePack.rulesStrings.231>
+  <!--EN: TM_randTheme_Might->Resilience-->
+  <TM_Book_Pools.rulePack.rulesStrings.232>TM_randTheme_Might-&amp;gt;Resilience</TM_Book_Pools.rulePack.rulesStrings.232>
+  <!--EN: TM_randTheme_Might->Duty-->
+  <TM_Book_Pools.rulePack.rulesStrings.233>TM_randTheme_Might-&amp;gt;Duty</TM_Book_Pools.rulePack.rulesStrings.233>
+  <!--EN: TM_randTheme_Might->Justice-->
+  <TM_Book_Pools.rulePack.rulesStrings.234>TM_randTheme_Might-&amp;gt;Justice</TM_Book_Pools.rulePack.rulesStrings.234>
+  <!--EN: TM_randTheme_Might->Respect-->
+  <TM_Book_Pools.rulePack.rulesStrings.235>TM_randTheme_Might-&amp;gt;Respect</TM_Book_Pools.rulePack.rulesStrings.235>
+  <!--EN: TM_randTheme_Might->Camraderie-->
+  <TM_Book_Pools.rulePack.rulesStrings.236>TM_randTheme_Might-&amp;gt;Camraderie</TM_Book_Pools.rulePack.rulesStrings.236>
+  <!--EN: TM_randTheme_Might->Loyalty-->
+  <TM_Book_Pools.rulePack.rulesStrings.237>TM_randTheme_Might-&amp;gt;Loyalty</TM_Book_Pools.rulePack.rulesStrings.237>
+  <!--EN: TM_randTheme_Might->Training-->
+  <TM_Book_Pools.rulePack.rulesStrings.238>TM_randTheme_Might-&amp;gt;Training</TM_Book_Pools.rulePack.rulesStrings.238>
+  <!--EN: TM_randTheme_Might->Preparation-->
+  <TM_Book_Pools.rulePack.rulesStrings.239>TM_randTheme_Might-&amp;gt;Preparation</TM_Book_Pools.rulePack.rulesStrings.239>
+  <!--EN: TM_randNoun_Magic->Alchemy-->
+  <TM_Book_Pools.rulePack.rulesStrings.24>TM_randNoun_Magic-&amp;gt;Alchemy</TM_Book_Pools.rulePack.rulesStrings.24>
+  <!--EN: TM_randTheme_Might->Combat Readiness-->
+  <TM_Book_Pools.rulePack.rulesStrings.240>TM_randTheme_Might-&amp;gt;Combat Readiness</TM_Book_Pools.rulePack.rulesStrings.240>
+  <!--EN: TM_randTheme_Might->Conflict Resolution-->
+  <TM_Book_Pools.rulePack.rulesStrings.241>TM_randTheme_Might-&amp;gt;Conflict Resolution</TM_Book_Pools.rulePack.rulesStrings.241>
+  <!--EN: TM_randTheme_Might->Endurance-->
+  <TM_Book_Pools.rulePack.rulesStrings.242>TM_randTheme_Might-&amp;gt;Endurance</TM_Book_Pools.rulePack.rulesStrings.242>
+  <!--EN: TM_randTheme_Might->Mastery-->
+  <TM_Book_Pools.rulePack.rulesStrings.243>TM_randTheme_Might-&amp;gt;Mastery</TM_Book_Pools.rulePack.rulesStrings.243>
+  <!--EN: TM_randTheme_Might->Warrior Spirit-->
+  <TM_Book_Pools.rulePack.rulesStrings.244>TM_randTheme_Might-&amp;gt;Warrior Spirit</TM_Book_Pools.rulePack.rulesStrings.244>
+  <!--EN: TM_randTheme_Might->Battlefield-->
+  <TM_Book_Pools.rulePack.rulesStrings.245>TM_randTheme_Might-&amp;gt;Battlefield</TM_Book_Pools.rulePack.rulesStrings.245>
+  <!--EN: TM_randTheme_Might->Command-->
+  <TM_Book_Pools.rulePack.rulesStrings.246>TM_randTheme_Might-&amp;gt;Command</TM_Book_Pools.rulePack.rulesStrings.246>
+  <!--EN: TM_randTheme_Might->Legacy-->
+  <TM_Book_Pools.rulePack.rulesStrings.247>TM_randTheme_Might-&amp;gt;Legacy</TM_Book_Pools.rulePack.rulesStrings.247>
+  <!--EN: TM_randTheme_Might->Combat Arts-->
+  <TM_Book_Pools.rulePack.rulesStrings.248>TM_randTheme_Might-&amp;gt;Combat Arts</TM_Book_Pools.rulePack.rulesStrings.248>
+  <!--EN: TM_randTheme_Might->Weapons Mastery-->
+  <TM_Book_Pools.rulePack.rulesStrings.249>TM_randTheme_Might-&amp;gt;Weapons Mastery</TM_Book_Pools.rulePack.rulesStrings.249>
+  <!--EN: TM_randNoun_Magic->Sorcery-->
+  <TM_Book_Pools.rulePack.rulesStrings.25>TM_randNoun_Magic-&amp;gt;Sorcery</TM_Book_Pools.rulePack.rulesStrings.25>
+  <!--EN: TM_randTheme_Might->Survival-->
+  <TM_Book_Pools.rulePack.rulesStrings.250>TM_randTheme_Might-&amp;gt;Survival</TM_Book_Pools.rulePack.rulesStrings.250>
+  <!--EN: TM_randTheme_Might->Training Regimen-->
+  <TM_Book_Pools.rulePack.rulesStrings.251>TM_randTheme_Might-&amp;gt;Training Regimen</TM_Book_Pools.rulePack.rulesStrings.251>
+  <!--EN: TM_randTheme_Might->Martial Discipline-->
+  <TM_Book_Pools.rulePack.rulesStrings.252>TM_randTheme_Might-&amp;gt;Martial Discipline</TM_Book_Pools.rulePack.rulesStrings.252>
+  <!--EN: TM_randTheme_Might->Strength-->
+  <TM_Book_Pools.rulePack.rulesStrings.253>TM_randTheme_Might-&amp;gt;Strength</TM_Book_Pools.rulePack.rulesStrings.253>
+  <!--EN: TM_randTheme_Might->Endurance-->
+  <TM_Book_Pools.rulePack.rulesStrings.254>TM_randTheme_Might-&amp;gt;Endurance</TM_Book_Pools.rulePack.rulesStrings.254>
+  <!--EN: TM_randTheme_Might->Perseverance-->
+  <TM_Book_Pools.rulePack.rulesStrings.255>TM_randTheme_Might-&amp;gt;Perseverance</TM_Book_Pools.rulePack.rulesStrings.255>
+  <!--EN: TM_randTheme_Might->Skill-->
+  <TM_Book_Pools.rulePack.rulesStrings.256>TM_randTheme_Might-&amp;gt;Skill</TM_Book_Pools.rulePack.rulesStrings.256>
+  <!--EN: TM_randTheme_Might->Training-->
+  <TM_Book_Pools.rulePack.rulesStrings.257>TM_randTheme_Might-&amp;gt;Training</TM_Book_Pools.rulePack.rulesStrings.257>
+  <!--EN: TM_randNoun_Magic->Wizard-->
+  <TM_Book_Pools.rulePack.rulesStrings.26>TM_randNoun_Magic-&amp;gt;Wizard</TM_Book_Pools.rulePack.rulesStrings.26>
+  <!--EN: TM_randNoun_Magic->Witch-->
+  <TM_Book_Pools.rulePack.rulesStrings.27>TM_randNoun_Magic-&amp;gt;Witch</TM_Book_Pools.rulePack.rulesStrings.27>
+  <!--EN: TM_randNoun_Magic->Enchantress-->
+  <TM_Book_Pools.rulePack.rulesStrings.28>TM_randNoun_Magic-&amp;gt;Enchantress</TM_Book_Pools.rulePack.rulesStrings.28>
+  <!--EN: TM_randNoun_Magic->Mystic-->
+  <TM_Book_Pools.rulePack.rulesStrings.29>TM_randNoun_Magic-&amp;gt;Mystic</TM_Book_Pools.rulePack.rulesStrings.29>
+  <!--EN: subject_bookType->anthology-->
+  <TM_Book_Pools.rulePack.rulesStrings.3>subject_bookType-&amp;gt;anthology</TM_Book_Pools.rulePack.rulesStrings.3>
+  <!--EN: TM_randNoun_Magic->Conjuring-->
+  <TM_Book_Pools.rulePack.rulesStrings.30>TM_randNoun_Magic-&amp;gt;Conjuring</TM_Book_Pools.rulePack.rulesStrings.30>
+  <!--EN: TM_randNoun_Magic->Talisman-->
+  <TM_Book_Pools.rulePack.rulesStrings.31>TM_randNoun_Magic-&amp;gt;Talisman</TM_Book_Pools.rulePack.rulesStrings.31>
+  <!--EN: TM_randNoun_Magic->Amulet-->
+  <TM_Book_Pools.rulePack.rulesStrings.32>TM_randNoun_Magic-&amp;gt;Amulet</TM_Book_Pools.rulePack.rulesStrings.32>
+  <!--EN: TM_randNoun_Magic->Sigil-->
+  <TM_Book_Pools.rulePack.rulesStrings.33>TM_randNoun_Magic-&amp;gt;Sigil</TM_Book_Pools.rulePack.rulesStrings.33>
+  <!--EN: TM_randNoun_Magic->Grimoire-->
+  <TM_Book_Pools.rulePack.rulesStrings.34>TM_randNoun_Magic-&amp;gt;Grimoire</TM_Book_Pools.rulePack.rulesStrings.34>
+  <!--EN: TM_randNoun_Magic->Arcana-->
+  <TM_Book_Pools.rulePack.rulesStrings.35>TM_randNoun_Magic-&amp;gt;Arcana</TM_Book_Pools.rulePack.rulesStrings.35>
+  <!--EN: TM_randNoun_Magic->Summoning-->
+  <TM_Book_Pools.rulePack.rulesStrings.36>TM_randNoun_Magic-&amp;gt;Summoning</TM_Book_Pools.rulePack.rulesStrings.36>
+  <!--EN: TM_randNoun_Magic->Hex-->
+  <TM_Book_Pools.rulePack.rulesStrings.37>TM_randNoun_Magic-&amp;gt;Hex</TM_Book_Pools.rulePack.rulesStrings.37>
+  <!--EN: TM_randNoun_Magic->Curse-->
+  <TM_Book_Pools.rulePack.rulesStrings.38>TM_randNoun_Magic-&amp;gt;Curse</TM_Book_Pools.rulePack.rulesStrings.38>
+  <!--EN: TM_randNoun_Magic->Divination-->
+  <TM_Book_Pools.rulePack.rulesStrings.39>TM_randNoun_Magic-&amp;gt;Divination</TM_Book_Pools.rulePack.rulesStrings.39>
+  <!--EN: subject_bookType->sheaf-->
+  <TM_Book_Pools.rulePack.rulesStrings.4>subject_bookType-&amp;gt;sheaf</TM_Book_Pools.rulePack.rulesStrings.4>
+  <!--EN: TM_randNoun_Magic->Necromancy-->
+  <TM_Book_Pools.rulePack.rulesStrings.40>TM_randNoun_Magic-&amp;gt;Necromancy</TM_Book_Pools.rulePack.rulesStrings.40>
+  <!--EN: TM_randNoun_Magic->Spellbook-->
+  <TM_Book_Pools.rulePack.rulesStrings.41>TM_randNoun_Magic-&amp;gt;Spellbook</TM_Book_Pools.rulePack.rulesStrings.41>
+  <!--EN: TM_randNoun_Magic->Familiar-->
+  <TM_Book_Pools.rulePack.rulesStrings.42>TM_randNoun_Magic-&amp;gt;Familiar</TM_Book_Pools.rulePack.rulesStrings.42>
+  <!--EN: TM_randNoun_Magic->Elixir-->
+  <TM_Book_Pools.rulePack.rulesStrings.43>TM_randNoun_Magic-&amp;gt;Elixir</TM_Book_Pools.rulePack.rulesStrings.43>
+  <!--EN: TM_randNoun_Magic->Coven-->
+  <TM_Book_Pools.rulePack.rulesStrings.44>TM_randNoun_Magic-&amp;gt;Coven</TM_Book_Pools.rulePack.rulesStrings.44>
+  <!--EN: TM_randNoun_Magic->Oracle-->
+  <TM_Book_Pools.rulePack.rulesStrings.45>TM_randNoun_Magic-&amp;gt;Oracle</TM_Book_Pools.rulePack.rulesStrings.45>
+  <!--EN: TM_randNoun_Magic->Seer-->
+  <TM_Book_Pools.rulePack.rulesStrings.46>TM_randNoun_Magic-&amp;gt;Seer</TM_Book_Pools.rulePack.rulesStrings.46>
+  <!--EN: TM_randNoun_Magic->Runes-->
+  <TM_Book_Pools.rulePack.rulesStrings.47>TM_randNoun_Magic-&amp;gt;Runes</TM_Book_Pools.rulePack.rulesStrings.47>
+  <!--EN: subject_Magic->Death-->
+  <TM_Book_Pools.rulePack.rulesStrings.48>subject_Magic-&amp;gt;Death</TM_Book_Pools.rulePack.rulesStrings.48>
+  <!--EN: subject_Magic->Life-->
+  <TM_Book_Pools.rulePack.rulesStrings.49>subject_Magic-&amp;gt;Life</TM_Book_Pools.rulePack.rulesStrings.49>
+  <!--EN: subject_bookType->chronicle-->
+  <TM_Book_Pools.rulePack.rulesStrings.5>subject_bookType-&amp;gt;chronicle</TM_Book_Pools.rulePack.rulesStrings.5>
+  <!--EN: subject_Magic->Power-->
+  <TM_Book_Pools.rulePack.rulesStrings.50>subject_Magic-&amp;gt;Power</TM_Book_Pools.rulePack.rulesStrings.50>
+  <!--EN: subject_Magic->Fire-->
+  <TM_Book_Pools.rulePack.rulesStrings.51>subject_Magic-&amp;gt;Fire</TM_Book_Pools.rulePack.rulesStrings.51>
+  <!--EN: subject_Magic->Ice-->
+  <TM_Book_Pools.rulePack.rulesStrings.52>subject_Magic-&amp;gt;Ice</TM_Book_Pools.rulePack.rulesStrings.52>
+  <!--EN: subject_Magic->Lightning-->
+  <TM_Book_Pools.rulePack.rulesStrings.53>subject_Magic-&amp;gt;Lightning</TM_Book_Pools.rulePack.rulesStrings.53>
+  <!--EN: subject_Magic->Power-->
+  <TM_Book_Pools.rulePack.rulesStrings.54>subject_Magic-&amp;gt;Power</TM_Book_Pools.rulePack.rulesStrings.54>
+  <!--EN: subject_Magic->the Arcane-->
+  <TM_Book_Pools.rulePack.rulesStrings.55>subject_Magic-&amp;gt;the Arcane</TM_Book_Pools.rulePack.rulesStrings.55>
+  <!--EN: subject_Magic->Magic-->
+  <TM_Book_Pools.rulePack.rulesStrings.56>subject_Magic-&amp;gt;Magic</TM_Book_Pools.rulePack.rulesStrings.56>
+  <!--EN: subject_Magic->Wind-->
+  <TM_Book_Pools.rulePack.rulesStrings.57>subject_Magic-&amp;gt;Wind</TM_Book_Pools.rulePack.rulesStrings.57>
+  <!--EN: subject_Magic->Earth-->
+  <TM_Book_Pools.rulePack.rulesStrings.58>subject_Magic-&amp;gt;Earth</TM_Book_Pools.rulePack.rulesStrings.58>
+  <!--EN: subject_Magic->Water-->
+  <TM_Book_Pools.rulePack.rulesStrings.59>subject_Magic-&amp;gt;Water</TM_Book_Pools.rulePack.rulesStrings.59>
+  <!--EN: subject_bookType->guide-->
+  <TM_Book_Pools.rulePack.rulesStrings.6>subject_bookType-&amp;gt;guide</TM_Book_Pools.rulePack.rulesStrings.6>
+  <!--EN: subject_Magic->Spirit-->
+  <TM_Book_Pools.rulePack.rulesStrings.60>subject_Magic-&amp;gt;Spirit</TM_Book_Pools.rulePack.rulesStrings.60>
+  <!--EN: subject_Magic->Darkness-->
+  <TM_Book_Pools.rulePack.rulesStrings.61>subject_Magic-&amp;gt;Darkness</TM_Book_Pools.rulePack.rulesStrings.61>
+  <!--EN: subject_Magic->Light-->
+  <TM_Book_Pools.rulePack.rulesStrings.62>subject_Magic-&amp;gt;Light</TM_Book_Pools.rulePack.rulesStrings.62>
+  <!--EN: subject_Magic->Time-->
+  <TM_Book_Pools.rulePack.rulesStrings.63>subject_Magic-&amp;gt;Time</TM_Book_Pools.rulePack.rulesStrings.63>
+  <!--EN: subject_Magic->Illusion-->
+  <TM_Book_Pools.rulePack.rulesStrings.64>subject_Magic-&amp;gt;Illusion</TM_Book_Pools.rulePack.rulesStrings.64>
+  <!--EN: subject_Magic->Healing-->
+  <TM_Book_Pools.rulePack.rulesStrings.65>subject_Magic-&amp;gt;Healing</TM_Book_Pools.rulePack.rulesStrings.65>
+  <!--EN: subject_Magic->Transformation-->
+  <TM_Book_Pools.rulePack.rulesStrings.66>subject_Magic-&amp;gt;Transformation</TM_Book_Pools.rulePack.rulesStrings.66>
+  <!--EN: subject_Magic->Summoning-->
+  <TM_Book_Pools.rulePack.rulesStrings.67>subject_Magic-&amp;gt;Summoning</TM_Book_Pools.rulePack.rulesStrings.67>
+  <!--EN: subject_Magic->Alchemy-->
+  <TM_Book_Pools.rulePack.rulesStrings.68>subject_Magic-&amp;gt;Alchemy</TM_Book_Pools.rulePack.rulesStrings.68>
+  <!--EN: subject_Magic->Necromancy-->
+  <TM_Book_Pools.rulePack.rulesStrings.69>subject_Magic-&amp;gt;Necromancy</TM_Book_Pools.rulePack.rulesStrings.69>
+  <!--EN: subject_teachingType->codex-->
+  <TM_Book_Pools.rulePack.rulesStrings.7>subject_teachingType-&amp;gt;codex</TM_Book_Pools.rulePack.rulesStrings.7>
+  <!--EN: subject_Magic->Enchantments-->
+  <TM_Book_Pools.rulePack.rulesStrings.70>subject_Magic-&amp;gt;Enchantments</TM_Book_Pools.rulePack.rulesStrings.70>
+  <!--EN: subject_Magic->Runes-->
+  <TM_Book_Pools.rulePack.rulesStrings.71>subject_Magic-&amp;gt;Runes</TM_Book_Pools.rulePack.rulesStrings.71>
+  <!--EN: subject_Magic->Divination-->
+  <TM_Book_Pools.rulePack.rulesStrings.72>subject_Magic-&amp;gt;Divination</TM_Book_Pools.rulePack.rulesStrings.72>
+  <!--EN: subject_Magic->Mysticism-->
+  <TM_Book_Pools.rulePack.rulesStrings.73>subject_Magic-&amp;gt;Mysticism</TM_Book_Pools.rulePack.rulesStrings.73>
+  <!--EN: subject_Magic->Astral Projection-->
+  <TM_Book_Pools.rulePack.rulesStrings.74>subject_Magic-&amp;gt;Astral Projection</TM_Book_Pools.rulePack.rulesStrings.74>
+  <!--EN: subject_Magic->Telekinesis-->
+  <TM_Book_Pools.rulePack.rulesStrings.75>subject_Magic-&amp;gt;Telekinesis</TM_Book_Pools.rulePack.rulesStrings.75>
+  <!--EN: subject_Magic->Telepathy-->
+  <TM_Book_Pools.rulePack.rulesStrings.76>subject_Magic-&amp;gt;Telepathy</TM_Book_Pools.rulePack.rulesStrings.76>
+  <!--EN: subject_Magic->Shapeshifting-->
+  <TM_Book_Pools.rulePack.rulesStrings.77>subject_Magic-&amp;gt;Shapeshifting</TM_Book_Pools.rulePack.rulesStrings.77>
+  <!--EN: subject_Magic->Elementals-->
+  <TM_Book_Pools.rulePack.rulesStrings.78>subject_Magic-&amp;gt;Elementals</TM_Book_Pools.rulePack.rulesStrings.78>
+  <!--EN: subject_Magic->Portals-->
+  <TM_Book_Pools.rulePack.rulesStrings.79>subject_Magic-&amp;gt;Portals</TM_Book_Pools.rulePack.rulesStrings.79>
+  <!--EN: subject_teachingType->illustration-->
+  <TM_Book_Pools.rulePack.rulesStrings.8>subject_teachingType-&amp;gt;illustration</TM_Book_Pools.rulePack.rulesStrings.8>
+  <!--EN: subject_Magic->Dreamwalking-->
+  <TM_Book_Pools.rulePack.rulesStrings.80>subject_Magic-&amp;gt;Dreamwalking</TM_Book_Pools.rulePack.rulesStrings.80>
+  <!--EN: subject_Magic->Sigils-->
+  <TM_Book_Pools.rulePack.rulesStrings.81>subject_Magic-&amp;gt;Sigils</TM_Book_Pools.rulePack.rulesStrings.81>
+  <!--EN: subject_Magic->Familiars-->
+  <TM_Book_Pools.rulePack.rulesStrings.82>subject_Magic-&amp;gt;Familiars</TM_Book_Pools.rulePack.rulesStrings.82>
+  <!--EN: subject_Magic->Hexes-->
+  <TM_Book_Pools.rulePack.rulesStrings.83>subject_Magic-&amp;gt;Hexes</TM_Book_Pools.rulePack.rulesStrings.83>
+  <!--EN: subject_Magic->Curses-->
+  <TM_Book_Pools.rulePack.rulesStrings.84>subject_Magic-&amp;gt;Curses</TM_Book_Pools.rulePack.rulesStrings.84>
+  <!--EN: subject_Magic->Potions-->
+  <TM_Book_Pools.rulePack.rulesStrings.85>subject_Magic-&amp;gt;Potions</TM_Book_Pools.rulePack.rulesStrings.85>
+  <!--EN: subject_Magic->Charms-->
+  <TM_Book_Pools.rulePack.rulesStrings.86>subject_Magic-&amp;gt;Charms</TM_Book_Pools.rulePack.rulesStrings.86>
+  <!--EN: TM_randAdjective_Magic->Ancient-->
+  <TM_Book_Pools.rulePack.rulesStrings.87>TM_randAdjective_Magic-&amp;gt;Ancient</TM_Book_Pools.rulePack.rulesStrings.87>
+  <!--EN: TM_randAdjective_Magic->Magical-->
+  <TM_Book_Pools.rulePack.rulesStrings.88>TM_randAdjective_Magic-&amp;gt;Magical</TM_Book_Pools.rulePack.rulesStrings.88>
+  <!--EN: TM_randAdjective_Magic->Inspired-->
+  <TM_Book_Pools.rulePack.rulesStrings.89>TM_randAdjective_Magic-&amp;gt;Inspired</TM_Book_Pools.rulePack.rulesStrings.89>
+  <!--EN: subject_teachingType->collection-->
+  <TM_Book_Pools.rulePack.rulesStrings.9>subject_teachingType-&amp;gt;collection</TM_Book_Pools.rulePack.rulesStrings.9>
+  <!--EN: TM_randAdjective_Magic->Fervent-->
+  <TM_Book_Pools.rulePack.rulesStrings.90>TM_randAdjective_Magic-&amp;gt;Fervent</TM_Book_Pools.rulePack.rulesStrings.90>
+  <!--EN: TM_randAdjective_Magic->Nefarious-->
+  <TM_Book_Pools.rulePack.rulesStrings.91>TM_randAdjective_Magic-&amp;gt;Nefarious</TM_Book_Pools.rulePack.rulesStrings.91>
+  <!--EN: TM_randAdjective_Magic->Chaotic-->
+  <TM_Book_Pools.rulePack.rulesStrings.92>TM_randAdjective_Magic-&amp;gt;Chaotic</TM_Book_Pools.rulePack.rulesStrings.92>
+  <!--EN: TM_randAdjective_Magic->Mysterious-->
+  <TM_Book_Pools.rulePack.rulesStrings.93>TM_randAdjective_Magic-&amp;gt;Mysterious</TM_Book_Pools.rulePack.rulesStrings.93>
+  <!--EN: TM_randAdjective_Magic->Enigmatic-->
+  <TM_Book_Pools.rulePack.rulesStrings.94>TM_randAdjective_Magic-&amp;gt;Enigmatic</TM_Book_Pools.rulePack.rulesStrings.94>
+  <!--EN: TM_randAdjective_Magic->Arcane-->
+  <TM_Book_Pools.rulePack.rulesStrings.95>TM_randAdjective_Magic-&amp;gt;Arcane</TM_Book_Pools.rulePack.rulesStrings.95>
+  <!--EN: TM_randAdjective_Magic->Powerful-->
+  <TM_Book_Pools.rulePack.rulesStrings.96>TM_randAdjective_Magic-&amp;gt;Powerful</TM_Book_Pools.rulePack.rulesStrings.96>
+  <!--EN: TM_randAdjective_Magic->Ethereal-->
+  <TM_Book_Pools.rulePack.rulesStrings.97>TM_randAdjective_Magic-&amp;gt;Ethereal</TM_Book_Pools.rulePack.rulesStrings.97>
+  <!--EN: TM_randAdjective_Magic->Forbidden-->
+  <TM_Book_Pools.rulePack.rulesStrings.98>TM_randAdjective_Magic-&amp;gt;Forbidden</TM_Book_Pools.rulePack.rulesStrings.98>
+  <!--EN: TM_randAdjective_Magic->Intricate-->
+  <TM_Book_Pools.rulePack.rulesStrings.99>TM_randAdjective_Magic-&amp;gt;Intricate</TM_Book_Pools.rulePack.rulesStrings.99>
+</LanguageData>

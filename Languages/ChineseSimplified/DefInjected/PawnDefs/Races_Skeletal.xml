@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: death stare-->
+  <TM_DeathGaze.label>death stare</TM_DeathGaze.label>
+  <!--EN: giant skeleton-->
+  <TM_GiantSkeleton.label>giant skeleton</TM_GiantSkeleton.label>
+  <!--EN: giant skeleton-->
+  <TM_GiantSkeleton.lifeStages.0.label>giant skeleton</TM_GiantSkeleton.lifeStages.0.label>
+  <!--EN: skeletal-->
+  <TM_GiantSkeleton.lifeStages.0.labelPlural>skeletal</TM_GiantSkeleton.lifeStages.0.labelPlural>
+  <!--EN: An enormous skeleton; this abomination was either created from the bones of a giant creature or by combining the bones of lesser creatures. This skeleton is animated by necromancy and embodied by a vengeful spirit that has wandered the world for ages - long enough to develop a simple, single-minded hate for life.-->
+  <TM_GiantSkeletonR.description>An enormous skeleton; this abomination was either created from the bones of a giant creature or by combining the bones of lesser creatures. This skeleton is animated by necromancy and embodied by a vengeful spirit that has wandered the world for ages - long enough to develop a simple, single-minded hate for life.</TM_GiantSkeletonR.description>
+  <!--EN: Giant skeleton-->
+  <TM_GiantSkeletonR.label>Giant skeleton</TM_GiantSkeletonR.label>
+  <!--EN: left fist-->
+  <TM_GiantSkeletonR.tools.0.label>left fist</TM_GiantSkeletonR.tools.0.label>
+  <!--EN: right fist-->
+  <TM_GiantSkeletonR.tools.1.label>right fist</TM_GiantSkeletonR.tools.1.label>
+  <!--EN: teeth-->
+  <TM_GiantSkeletonR.tools.2.label>teeth</TM_GiantSkeletonR.tools.2.label>
+  <!--EN: shadow burn-->
+  <TM_ShadowBurn.label>shadow burn</TM_ShadowBurn.label>
+  <!--EN: skeleton-->
+  <TM_Skeleton.label>skeleton</TM_Skeleton.label>
+  <!--EN: skeleton-->
+  <TM_Skeleton.lifeStages.0.label>skeleton</TM_Skeleton.lifeStages.0.label>
+  <!--EN: skeletal-->
+  <TM_Skeleton.lifeStages.0.labelPlural>skeletal</TM_Skeleton.lifeStages.0.labelPlural>
+  <!--EN: skeleton lich-->
+  <TM_SkeletonLich.label>skeleton lich</TM_SkeletonLich.label>
+  <!--EN: skeleton lich-->
+  <TM_SkeletonLich.lifeStages.0.label>skeleton lich</TM_SkeletonLich.lifeStages.0.label>
+  <!--EN: skeletal lich-->
+  <TM_SkeletonLich.lifeStages.0.labelPlural>skeletal lich</TM_SkeletonLich.lifeStages.0.labelPlural>
+  <!--EN: The withered and faded bones of an ancient lich embodied by the spirit of malevolence and hatred; whoever, or whatever, this being once was is no more; its sole purpose is to destroy all life and replace it with undeath.-->
+  <TM_SkeletonLichR.description>The withered and faded bones of an ancient lich embodied by the spirit of malevolence and hatred; whoever, or whatever, this being once was is no more; its sole purpose is to destroy all life and replace it with undeath.</TM_SkeletonLichR.description>
+  <!--EN: skeleton lich-->
+  <TM_SkeletonLichR.label>skeleton lich</TM_SkeletonLichR.label>
+  <!--EN: left hand-->
+  <TM_SkeletonLichR.tools.0.label>left hand</TM_SkeletonLichR.tools.0.label>
+  <!--EN: right hand-->
+  <TM_SkeletonLichR.tools.1.label>right hand</TM_SkeletonLichR.tools.1.label>
+  <!--EN: death stare-->
+  <TM_SkeletonLichR.tools.2.label>death stare</TM_SkeletonLichR.tools.2.label>
+  <!--EN: Physical husks of creatures raised through the power of necromancy; their sole instinct is to obey their master and destroy all life.-->
+  <TM_SkeletonR.description>Physical husks of creatures raised through the power of necromancy; their sole instinct is to obey their master and destroy all life.</TM_SkeletonR.description>
+  <!--EN: Skeleton-->
+  <TM_SkeletonR.label>Skeleton</TM_SkeletonR.label>
+  <!--EN: left fist-->
+  <TM_SkeletonR.tools.0.label>left fist</TM_SkeletonR.tools.0.label>
+  <!--EN: right fist-->
+  <TM_SkeletonR.tools.1.label>right fist</TM_SkeletonR.tools.1.label>
+  <!--EN: teeth-->
+  <TM_SkeletonR.tools.2.label>teeth</TM_SkeletonR.tools.2.label>
+</LanguageData>

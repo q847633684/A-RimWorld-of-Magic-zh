@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: flying object that does lots of stuff-->
+  <FlyingObject_Advanced.label>flying object that does lots of stuff</FlyingObject_Advanced.label>
+  <!--EN: flying object that spins-->
+  <FlyingObject_Spinning.label>flying object that spins</FlyingObject_Spinning.label>
+  <!--EN: flying object that spins-->
+  <FlyingObject_SpinningBone.label>flying object that spins</FlyingObject_SpinningBone.label>
+  <!--EN: default-->
+  <Projectile_Default.label>default</Projectile_Default.label>
+  <!--EN: verb used in secondary targeting-->
+  <TM_CompVerb.description>verb used in secondary targeting</TM_CompVerb.description>
+  <!--EN: secondary targeter-->
+  <TM_CompVerb.label>secondary targeter</TM_CompVerb.label>
+</LanguageData>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Improves armor, but reduces movement speed.-->
+  <TM_Mecha.Golem_BallisticPlateHD.description>Improves armor, but reduces movement speed.</TM_Mecha.Golem_BallisticPlateHD.description>
+  <!--EN: Ballistic plate-->
+  <TM_Mecha.Golem_BallisticPlateHD.label>Ballistic plate</TM_Mecha.Golem_BallisticPlateHD.label>
+  <!--EN: Earth core processor upgrades increase armor and protection.-->
+  <TM_Mecha.Golem_EarthCoreHD.description>Earth core processor upgrades increase armor and protection.</TM_Mecha.Golem_EarthCoreHD.description>
+  <!--EN: Earth core-->
+  <TM_Mecha.Golem_EarthCoreHD.label>Earth core</TM_Mecha.Golem_EarthCoreHD.label>
+  <!--EN: Mk.1-->
+  <TM_Mecha.Golem_EarthCoreHD.stages.0.label>Mk.1</TM_Mecha.Golem_EarthCoreHD.stages.0.label>
+  <!--EN: Mk.2-->
+  <TM_Mecha.Golem_EarthCoreHD.stages.1.label>Mk.2</TM_Mecha.Golem_EarthCoreHD.stages.1.label>
+  <!--EN: Mk.3-->
+  <TM_Mecha.Golem_EarthCoreHD.stages.2.label>Mk.3</TM_Mecha.Golem_EarthCoreHD.stages.2.label>
+  <!--EN: Flame core upgrades increase movement speed and decreases cooldown time for attacks and abilities.-->
+  <TM_Mecha.Golem_FlameCoreHD.description>Flame core upgrades increase movement speed and decreases cooldown time for attacks and abilities.</TM_Mecha.Golem_FlameCoreHD.description>
+  <!--EN: Flame core-->
+  <TM_Mecha.Golem_FlameCoreHD.label>Flame core</TM_Mecha.Golem_FlameCoreHD.label>
+  <!--EN: Mk.1-->
+  <TM_Mecha.Golem_FlameCoreHD.stages.0.label>Mk.1</TM_Mecha.Golem_FlameCoreHD.stages.0.label>
+  <!--EN: Mk.2-->
+  <TM_Mecha.Golem_FlameCoreHD.stages.1.label>Mk.2</TM_Mecha.Golem_FlameCoreHD.stages.1.label>
+  <!--EN: Mk.3-->
+  <TM_Mecha.Golem_FlameCoreHD.stages.2.label>Mk.3</TM_Mecha.Golem_FlameCoreHD.stages.2.label>
+  <!--EN: A gatling cannon mounted to the right shoulder.-->
+  <TM_Mecha.Golem_GatlingCannonHD.description>A gatling cannon mounted to the right shoulder.</TM_Mecha.Golem_GatlingCannonHD.description>
+  <!--EN: Gatling Cannon-->
+  <TM_Mecha.Golem_GatlingCannonHD.label>Gatling Cannon</TM_Mecha.Golem_GatlingCannonHD.label>
+  <!--EN: Lightning core upgrades increase improve movement and processing speed.-->
+  <TM_Mecha.Golem_LightningCoreHD.description>Lightning core upgrades increase improve movement and processing speed.</TM_Mecha.Golem_LightningCoreHD.description>
+  <!--EN: Lightning core-->
+  <TM_Mecha.Golem_LightningCoreHD.label>Lightning core</TM_Mecha.Golem_LightningCoreHD.label>
+  <!--EN: Mk.1-->
+  <TM_Mecha.Golem_LightningCoreHD.stages.0.label>Mk.1</TM_Mecha.Golem_LightningCoreHD.stages.0.label>
+  <!--EN: Mk.2-->
+  <TM_Mecha.Golem_LightningCoreHD.stages.1.label>Mk.2</TM_Mecha.Golem_LightningCoreHD.stages.1.label>
+  <!--EN: Mk.3-->
+  <TM_Mecha.Golem_LightningCoreHD.stages.2.label>Mk.3</TM_Mecha.Golem_LightningCoreHD.stages.2.label>
+  <!--EN: Water core processor upgrades increase armor and regeneration, and improve energy conservation.-->
+  <TM_Mecha.Golem_WaterCoreHD.description>Water core processor upgrades increase armor and regeneration, and improve energy conservation.</TM_Mecha.Golem_WaterCoreHD.description>
+  <!--EN: Water core-->
+  <TM_Mecha.Golem_WaterCoreHD.label>Water core</TM_Mecha.Golem_WaterCoreHD.label>
+  <!--EN: Mk.1-->
+  <TM_Mecha.Golem_WaterCoreHD.stages.0.label>Mk.1</TM_Mecha.Golem_WaterCoreHD.stages.0.label>
+  <!--EN: Mk.2-->
+  <TM_Mecha.Golem_WaterCoreHD.stages.1.label>Mk.2</TM_Mecha.Golem_WaterCoreHD.stages.1.label>
+  <!--EN: Mk.3-->
+  <TM_Mecha.Golem_WaterCoreHD.stages.2.label>Mk.3</TM_Mecha.Golem_WaterCoreHD.stages.2.label>
+</LanguageData>

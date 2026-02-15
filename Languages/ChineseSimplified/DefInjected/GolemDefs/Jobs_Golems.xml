@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: cutting plants and trees-->
+  <JobDriver_FleshChop.reportString>cutting plants and trees</JobDriver_FleshChop.reportString>
+  <!--EN: harvesting plants-->
+  <JobDriver_FleshHarvest.reportString>harvesting plants</JobDriver_FleshHarvest.reportString>
+  <!--EN: using ability-->
+  <JobDriver_GolemAbilityJob.reportString>using ability</JobDriver_GolemAbilityJob.reportString>
+  <!--EN: targeting TargetA.-->
+  <JobDriver_GolemAttackStatic.reportString>targeting TargetA.</JobDriver_GolemAttackStatic.reportString>
+  <!--EN: deactivating-->
+  <JobDriver_GolemDespawn.reportString>deactivating</JobDriver_GolemDespawn.reportString>
+  <!--EN: deactivating-->
+  <JobDriver_GolemDespawnWait.reportString>deactivating</JobDriver_GolemDespawnWait.reportString>
+  <!--EN: auto tend-->
+  <JobDriver_GolemSelfTend.reportString>auto tend</JobDriver_GolemSelfTend.reportString>
+  <!--EN: mining protocol-->
+  <JobDriver_MechaMine.reportString>mining protocol</JobDriver_MechaMine.reportString>
+</LanguageData>

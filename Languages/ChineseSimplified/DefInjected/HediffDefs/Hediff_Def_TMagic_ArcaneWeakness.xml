@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Arcane Weakness is a byproduct of casting magical abilities. Minor abilities with a mana cost less than 25 will not incur Arcane Weakness. The amount of Arcane Weakness that will affect a mage is relative to the mana cost of the ability.-->
+  <TM_ArcaneWeakness.description>Arcane Weakness is a byproduct of casting magical abilities. Minor abilities with a mana cost less than 25 will not incur Arcane Weakness. The amount of Arcane Weakness that will affect a mage is relative to the mana cost of the ability.</TM_ArcaneWeakness.description>
+  <!--EN: arcane weakness-->
+  <TM_ArcaneWeakness.label>arcane weakness</TM_ArcaneWeakness.label>
+  <!--EN: weakened-->
+  <TM_ArcaneWeakness.stages.0.label>weakened</TM_ArcaneWeakness.stages.0.label>
+  <!--EN: drained-->
+  <TM_ArcaneWeakness.stages.1.label>drained</TM_ArcaneWeakness.stages.1.label>
+  <!--EN: severely ill-->
+  <TM_ArcaneWeakness.stages.2.label>severely ill</TM_ArcaneWeakness.stages.2.label>
+  <!--EN: catatonic-->
+  <TM_ArcaneWeakness.stages.3.label>catatonic</TM_ArcaneWeakness.stages.3.label>
+  <!--EN: near death-->
+  <TM_ArcaneWeakness.stages.4.label>near death</TM_ArcaneWeakness.stages.4.label>
+  <!--EN: Arcane curse is a byproduct of the cursed trait. The cursed pawn is constantly affected by arcane weakness that will gradually increase until it is a persistent illness. The effects of the curse can be offset by using magic, however, the pain caused by the curse does provide a unique clarity. The curse can be lifted by removing the pawn's magical trait.-->
+  <TM_CursedHD.description>Arcane curse is a byproduct of the cursed trait. The cursed pawn is constantly affected by arcane weakness that will gradually increase until it is a persistent illness. The effects of the curse can be offset by using magic, however, the pain caused by the curse does provide a unique clarity. The curse can be lifted by removing the pawn&amp;apos;s magical trait.</TM_CursedHD.description>
+  <!--EN: arcane curse-->
+  <TM_CursedHD.label>arcane curse</TM_CursedHD.label>
+  <!--EN: faded-->
+  <TM_CursedHD.stages.0.label>faded</TM_CursedHD.stages.0.label>
+  <!--EN: moderate-->
+  <TM_CursedHD.stages.1.label>moderate</TM_CursedHD.stages.1.label>
+  <!--EN: heightened-->
+  <TM_CursedHD.stages.2.label>heightened</TM_CursedHD.stages.2.label>
+</LanguageData>

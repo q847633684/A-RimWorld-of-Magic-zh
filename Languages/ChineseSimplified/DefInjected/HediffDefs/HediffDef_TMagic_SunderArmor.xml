@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Target takes more damage from all sources.-->
+  <TM_FrailtyHD.description>Target takes more damage from all sources.</TM_FrailtyHD.description>
+  <!--EN: Frailty-->
+  <TM_FrailtyHD.label>Frailty</TM_FrailtyHD.label>
+  <!--EN: Reduces armor rating.-->
+  <TM_SunderArmorHD.description>Reduces armor rating.</TM_SunderArmorHD.description>
+  <!--EN: Sunder Armor-->
+  <TM_SunderArmorHD.label>Sunder Armor</TM_SunderArmorHD.label>
+  <!--EN: I-->
+  <TM_SunderArmorHD.stages.0.label>I</TM_SunderArmorHD.stages.0.label>
+  <!--EN: II-->
+  <TM_SunderArmorHD.stages.1.label>II</TM_SunderArmorHD.stages.1.label>
+  <!--EN: III-->
+  <TM_SunderArmorHD.stages.2.label>III</TM_SunderArmorHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_SunderArmorHD.stages.3.label>IV</TM_SunderArmorHD.stages.3.label>
+  <!--EN: V-->
+  <TM_SunderArmorHD.stages.4.label>V</TM_SunderArmorHD.stages.4.label>
+  <!--EN: VI-->
+  <TM_SunderArmorHD.stages.5.label>VI</TM_SunderArmorHD.stages.5.label>
+  <!--EN: VII-->
+  <TM_SunderArmorHD.stages.6.label>VII</TM_SunderArmorHD.stages.6.label>
+</LanguageData>

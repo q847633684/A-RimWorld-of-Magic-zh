@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Engraves the body with arcane symbols and markings.-->
+  <TM_ArcaneTatooPartHD.description>Engraves the body with arcane symbols and markings.</TM_ArcaneTatooPartHD.description>
+  <!--EN: runic body-->
+  <TM_ArcaneTatooPartHD.label>runic body</TM_ArcaneTatooPartHD.label>
+  <!--EN: I-->
+  <TM_ArcaneTatooPartHD.stages.0.label>I</TM_ArcaneTatooPartHD.stages.0.label>
+  <!--EN: II-->
+  <TM_ArcaneTatooPartHD.stages.1.label>II</TM_ArcaneTatooPartHD.stages.1.label>
+  <!--EN: III-->
+  <TM_ArcaneTatooPartHD.stages.2.label>III</TM_ArcaneTatooPartHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_ArcaneTatooPartHD.stages.3.label>IV</TM_ArcaneTatooPartHD.stages.3.label>
+  <!--EN: Increases senses and perception.-->
+  <TM_AwarenessBrandHD.description>Increases senses and perception.</TM_AwarenessBrandHD.description>
+  <!--EN: Awareness Brand-->
+  <TM_AwarenessBrandHD.label>Awareness Brand</TM_AwarenessBrandHD.label>
+  <!--EN: dormant-->
+  <TM_AwarenessBrandHD.stages.0.label>dormant</TM_AwarenessBrandHD.stages.0.label>
+  <!--EN: I-->
+  <TM_AwarenessBrandHD.stages.1.label>I</TM_AwarenessBrandHD.stages.1.label>
+  <!--EN: surging VI-->
+  <TM_AwarenessBrandHD.stages.10.label>surging VI</TM_AwarenessBrandHD.stages.10.label>
+  <!--EN: II-->
+  <TM_AwarenessBrandHD.stages.2.label>II</TM_AwarenessBrandHD.stages.2.label>
+  <!--EN: III-->
+  <TM_AwarenessBrandHD.stages.3.label>III</TM_AwarenessBrandHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_AwarenessBrandHD.stages.4.label>IV</TM_AwarenessBrandHD.stages.4.label>
+  <!--EN: surging I-->
+  <TM_AwarenessBrandHD.stages.5.label>surging I</TM_AwarenessBrandHD.stages.5.label>
+  <!--EN: surging II-->
+  <TM_AwarenessBrandHD.stages.6.label>surging II</TM_AwarenessBrandHD.stages.6.label>
+  <!--EN: surging III-->
+  <TM_AwarenessBrandHD.stages.7.label>surging III</TM_AwarenessBrandHD.stages.7.label>
+  <!--EN: surging IV-->
+  <TM_AwarenessBrandHD.stages.8.label>surging IV</TM_AwarenessBrandHD.stages.8.label>
+  <!--EN: surging V-->
+  <TM_AwarenessBrandHD.stages.9.label>surging V</TM_AwarenessBrandHD.stages.9.label>
+  <!--EN: Causes mood to increase faster and decrease slower; has a chance to recover a pawn from a mental breakdown when surging.-->
+  <TM_EmotionBrandHD.description>Causes mood to increase faster and decrease slower; has a chance to recover a pawn from a mental breakdown when surging.</TM_EmotionBrandHD.description>
+  <!--EN: Emotion Brand-->
+  <TM_EmotionBrandHD.label>Emotion Brand</TM_EmotionBrandHD.label>
+  <!--EN: dormant-->
+  <TM_EmotionBrandHD.stages.0.label>dormant</TM_EmotionBrandHD.stages.0.label>
+  <!--EN: surging-->
+  <TM_EmotionBrandHD.stages.2.label>surging</TM_EmotionBrandHD.stages.2.label>
+  <!--EN: Increases moving and manipulation.-->
+  <TM_FitnessBrandHD.description>Increases moving and manipulation.</TM_FitnessBrandHD.description>
+  <!--EN: Fitness Brand-->
+  <TM_FitnessBrandHD.label>Fitness Brand</TM_FitnessBrandHD.label>
+  <!--EN: dormant-->
+  <TM_FitnessBrandHD.stages.0.label>dormant</TM_FitnessBrandHD.stages.0.label>
+  <!--EN: I-->
+  <TM_FitnessBrandHD.stages.1.label>I</TM_FitnessBrandHD.stages.1.label>
+  <!--EN: surging VI-->
+  <TM_FitnessBrandHD.stages.10.label>surging VI</TM_FitnessBrandHD.stages.10.label>
+  <!--EN: II-->
+  <TM_FitnessBrandHD.stages.2.label>II</TM_FitnessBrandHD.stages.2.label>
+  <!--EN: III-->
+  <TM_FitnessBrandHD.stages.3.label>III</TM_FitnessBrandHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_FitnessBrandHD.stages.4.label>IV</TM_FitnessBrandHD.stages.4.label>
+  <!--EN: surging I-->
+  <TM_FitnessBrandHD.stages.5.label>surging I</TM_FitnessBrandHD.stages.5.label>
+  <!--EN: surging II-->
+  <TM_FitnessBrandHD.stages.6.label>surging II</TM_FitnessBrandHD.stages.6.label>
+  <!--EN: surging III-->
+  <TM_FitnessBrandHD.stages.7.label>surging III</TM_FitnessBrandHD.stages.7.label>
+  <!--EN: surging IV-->
+  <TM_FitnessBrandHD.stages.8.label>surging IV</TM_FitnessBrandHD.stages.8.label>
+  <!--EN: surging V-->
+  <TM_FitnessBrandHD.stages.9.label>surging V</TM_FitnessBrandHD.stages.9.label>
+  <!--EN: The golem is linked to a golemancer and has acquired a higher state of awareness.-->
+  <TM_GolemancyEfficiencyHD.description>The golem is linked to a golemancer and has acquired a higher state of awareness.</TM_GolemancyEfficiencyHD.description>
+  <!--EN: Mind-link-->
+  <TM_GolemancyEfficiencyHD.label>Mind-link</TM_GolemancyEfficiencyHD.label>
+  <!--EN: I-->
+  <TM_GolemancyEfficiencyHD.stages.1.label>I</TM_GolemancyEfficiencyHD.stages.1.label>
+  <!--EN: II-->
+  <TM_GolemancyEfficiencyHD.stages.2.label>II</TM_GolemancyEfficiencyHD.stages.2.label>
+  <!--EN: III-->
+  <TM_GolemancyEfficiencyHD.stages.3.label>III</TM_GolemancyEfficiencyHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_GolemancyEfficiencyHD.stages.4.label>IV</TM_GolemancyEfficiencyHD.stages.4.label>
+  <!--EN: V-->
+  <TM_GolemancyEfficiencyHD.stages.5.label>V</TM_GolemancyEfficiencyHD.stages.5.label>
+  <!--EN: The golem is linked to a golemancer able to augment the power and endurance output of the golem.-->
+  <TM_GolemancyPowerHD.description>The golem is linked to a golemancer able to augment the power and endurance output of the golem.</TM_GolemancyPowerHD.description>
+  <!--EN: Golem augmentation-->
+  <TM_GolemancyPowerHD.label>Golem augmentation</TM_GolemancyPowerHD.label>
+  <!--EN: I-->
+  <TM_GolemancyPowerHD.stages.1.label>I</TM_GolemancyPowerHD.stages.1.label>
+  <!--EN: II-->
+  <TM_GolemancyPowerHD.stages.2.label>II</TM_GolemancyPowerHD.stages.2.label>
+  <!--EN: III-->
+  <TM_GolemancyPowerHD.stages.3.label>III</TM_GolemancyPowerHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_GolemancyPowerHD.stages.4.label>IV</TM_GolemancyPowerHD.stages.4.label>
+  <!--EN: V-->
+  <TM_GolemancyPowerHD.stages.5.label>V</TM_GolemancyPowerHD.stages.5.label>
+  <!--EN: The golemancer is linked to a golem and is able to siphon off some of its energy for personal use.-->
+  <TM_GolemancyVersatilityHD.description>The golemancer is linked to a golem and is able to siphon off some of its energy for personal use.</TM_GolemancyVersatilityHD.description>
+  <!--EN: Golem bond-->
+  <TM_GolemancyVersatilityHD.label>Golem bond</TM_GolemancyVersatilityHD.label>
+  <!--EN: I-->
+  <TM_GolemancyVersatilityHD.stages.1.label>I</TM_GolemancyVersatilityHD.stages.1.label>
+  <!--EN: II-->
+  <TM_GolemancyVersatilityHD.stages.2.label>II</TM_GolemancyVersatilityHD.stages.2.label>
+  <!--EN: III-->
+  <TM_GolemancyVersatilityHD.stages.3.label>III</TM_GolemancyVersatilityHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_GolemancyVersatilityHD.stages.4.label>IV</TM_GolemancyVersatilityHD.stages.4.label>
+  <!--EN: V-->
+  <TM_GolemancyVersatilityHD.stages.5.label>V</TM_GolemancyVersatilityHD.stages.5.label>
+  <!--EN: The rune of protection is able prevent the bearer from taking damage but uses some or all of its charge when doing so; this rune recharges over time.-->
+  <TM_ProtectionBrandHD.description>The rune of protection is able prevent the bearer from taking damage but uses some or all of its charge when doing so; this rune recharges over time.</TM_ProtectionBrandHD.description>
+  <!--EN: Protection Brand-->
+  <TM_ProtectionBrandHD.label>Protection Brand</TM_ProtectionBrandHD.label>
+  <!--EN: dormant-->
+  <TM_ProtectionBrandHD.stages.0.label>dormant</TM_ProtectionBrandHD.stages.0.label>
+  <!--EN: surging-->
+  <TM_ProtectionBrandHD.stages.2.label>surging</TM_ProtectionBrandHD.stages.2.label>
+  <!--EN: Empowers a body part with runic energy.-->
+  <TM_RuneCarvedPartHD.description>Empowers a body part with runic energy.</TM_RuneCarvedPartHD.description>
+  <!--EN: Rune carved-->
+  <TM_RuneCarvedPartHD.label>Rune carved</TM_RuneCarvedPartHD.label>
+  <!--EN: Runic (I)-->
+  <TM_RuneCarvedPartHD.stages.0.label>Runic (I)</TM_RuneCarvedPartHD.stages.0.label>
+  <!--EN: Runic (II)-->
+  <TM_RuneCarvedPartHD.stages.1.label>Runic (II)</TM_RuneCarvedPartHD.stages.1.label>
+  <!--EN: Runic (III)-->
+  <TM_RuneCarvedPartHD.stages.2.label>Runic (III)</TM_RuneCarvedPartHD.stages.2.label>
+  <!--EN: Runic (IV)-->
+  <TM_RuneCarvedPartHD.stages.3.label>Runic (IV)</TM_RuneCarvedPartHD.stages.3.label>
+  <!--EN: Maintaining sigils beyond their normal capacity strains the caster, causing pain.-->
+  <TM_SigilPainHD.description>Maintaining sigils beyond their normal capacity strains the caster, causing pain.</TM_SigilPainHD.description>
+  <!--EN: sigil strain-->
+  <TM_SigilPainHD.label>sigil strain</TM_SigilPainHD.label>
+  <!--EN: negligible-->
+  <TM_SigilPainHD.stages.0.label>negligible</TM_SigilPainHD.stages.0.label>
+  <!--EN: I-->
+  <TM_SigilPainHD.stages.1.label>I</TM_SigilPainHD.stages.1.label>
+  <!--EN: II-->
+  <TM_SigilPainHD.stages.2.label>II</TM_SigilPainHD.stages.2.label>
+  <!--EN: III-->
+  <TM_SigilPainHD.stages.3.label>III</TM_SigilPainHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_SigilPainHD.stages.4.label>IV</TM_SigilPainHD.stages.4.label>
+  <!--EN: V-->
+  <TM_SigilPainHD.stages.5.label>V</TM_SigilPainHD.stages.5.label>
+  <!--EN: VI-->
+  <TM_SigilPainHD.stages.6.label>VI</TM_SigilPainHD.stages.6.label>
+  <!--EN: VII-->
+  <TM_SigilPainHD.stages.7.label>VII</TM_SigilPainHD.stages.7.label>
+  <!--EN: Slowly transfers mana to the brand recipient.-->
+  <TM_SiphonBrandHD.description>Slowly transfers mana to the brand recipient.</TM_SiphonBrandHD.description>
+  <!--EN: Siphon Brand-->
+  <TM_SiphonBrandHD.label>Siphon Brand</TM_SiphonBrandHD.label>
+  <!--EN: dormant-->
+  <TM_SiphonBrandHD.stages.0.label>dormant</TM_SiphonBrandHD.stages.0.label>
+  <!--EN: surging-->
+  <TM_SiphonBrandHD.stages.2.label>surging</TM_SiphonBrandHD.stages.2.label>
+  <!--EN: Increases vitality and recovery.-->
+  <TM_VitalityBrandHD.description>Increases vitality and recovery.</TM_VitalityBrandHD.description>
+  <!--EN: Vitality Brand-->
+  <TM_VitalityBrandHD.label>Vitality Brand</TM_VitalityBrandHD.label>
+  <!--EN: dormant-->
+  <TM_VitalityBrandHD.stages.0.label>dormant</TM_VitalityBrandHD.stages.0.label>
+  <!--EN: I-->
+  <TM_VitalityBrandHD.stages.1.label>I</TM_VitalityBrandHD.stages.1.label>
+  <!--EN: surging VI-->
+  <TM_VitalityBrandHD.stages.10.label>surging VI</TM_VitalityBrandHD.stages.10.label>
+  <!--EN: II-->
+  <TM_VitalityBrandHD.stages.2.label>II</TM_VitalityBrandHD.stages.2.label>
+  <!--EN: III-->
+  <TM_VitalityBrandHD.stages.3.label>III</TM_VitalityBrandHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_VitalityBrandHD.stages.4.label>IV</TM_VitalityBrandHD.stages.4.label>
+  <!--EN: surging I-->
+  <TM_VitalityBrandHD.stages.5.label>surging I</TM_VitalityBrandHD.stages.5.label>
+  <!--EN: surging II-->
+  <TM_VitalityBrandHD.stages.6.label>surging II</TM_VitalityBrandHD.stages.6.label>
+  <!--EN: surging III-->
+  <TM_VitalityBrandHD.stages.7.label>surging III</TM_VitalityBrandHD.stages.7.label>
+  <!--EN: surging IV-->
+  <TM_VitalityBrandHD.stages.8.label>surging IV</TM_VitalityBrandHD.stages.8.label>
+  <!--EN: surging V-->
+  <TM_VitalityBrandHD.stages.9.label>surging V</TM_VitalityBrandHD.stages.9.label>
+</LanguageData>

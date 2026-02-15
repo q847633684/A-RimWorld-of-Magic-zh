@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.-->
+  <TM_ChaosTraditionHD.description>Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.</TM_ChaosTraditionHD.description>
+  <!--EN: Chaotic Flux-->
+  <TM_ChaosTraditionHD.label>Chaotic Flux</TM_ChaosTraditionHD.label>
+  <!--EN: I-->
+  <TM_ChaosTraditionHD.stages.0.label>I</TM_ChaosTraditionHD.stages.0.label>
+  <!--EN: II-->
+  <TM_ChaosTraditionHD.stages.1.label>II</TM_ChaosTraditionHD.stages.1.label>
+  <!--EN: III-->
+  <TM_ChaosTraditionHD.stages.2.label>III</TM_ChaosTraditionHD.stages.2.label>
+  <!--EN: Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.-->
+  <TM_ChaoticMindHD.description>Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.</TM_ChaoticMindHD.description>
+  <!--EN: Chaotic Mind-->
+  <TM_ChaoticMindHD.label>Chaotic Mind</TM_ChaoticMindHD.label>
+  <!--EN: thought-->
+  <TM_ChaoticMindHD.stages.0.label>thought</TM_ChaoticMindHD.stages.0.label>
+  <!--EN: I felt the endless possibilities of magic when I allowed my mind to be unfettered by order.-->
+  <TM_ChaoticMindTD.stages.0.description>I felt the endless possibilities of magic when I allowed my mind to be unfettered by order.</TM_ChaoticMindTD.stages.0.description>
+  <!--EN: Chaotic-->
+  <TM_ChaoticMindTD.stages.0.label>Chaotic</TM_ChaoticMindTD.stages.0.label>
+  <!--EN: Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.-->
+  <TM_ControlledChaosHD.description>Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.</TM_ControlledChaosHD.description>
+  <!--EN: Controlled Chaos-->
+  <TM_ControlledChaosHD.label>Controlled Chaos</TM_ControlledChaosHD.label>
+  <!--EN: CHAOS-->
+  <TM_ControlledChaosHD.stages.0.label>CHAOS</TM_ControlledChaosHD.stages.0.label>
+</LanguageData>

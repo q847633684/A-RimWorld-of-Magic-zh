@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Herbs, seeds, and other ingredients used by an apothecary to concoct a variety of items.-->
+  <TM_ApothecaryHerbsHD.description>Herbs, seeds, and other ingredients used by an apothecary to concoct a variety of items.</TM_ApothecaryHerbsHD.description>
+  <!--EN: apothecary herbs-->
+  <TM_ApothecaryHerbsHD.label>apothecary herbs</TM_ApothecaryHerbsHD.label>
+  <!--EN: I'm in a state of wonderful, euphoric bliss.-->
+  <TM_BlissThought.stages.0.description>I&amp;apos;m in a state of wonderful, euphoric bliss.</TM_BlissThought.stages.0.description>
+  <!--EN: bliss-->
+  <TM_BlissThought.stages.0.label>bliss</TM_BlissThought.stages.0.label>
+  <!--EN: Puts the user in a state of bliss, able to almost completely mask emotions and pain. This drug will cause the consumer to slowly lose skills, and skill gain while under the influence of this drug is heavily suppressed.-->
+  <TM_HerbalBlissHD.description>Puts the user in a state of bliss, able to almost completely mask emotions and pain. This drug will cause the consumer to slowly lose skills, and skill gain while under the influence of this drug is heavily suppressed.</TM_HerbalBlissHD.description>
+  <!--EN: Bliss-->
+  <TM_HerbalBlissHD.label>Bliss</TM_HerbalBlissHD.label>
+  <!--EN: A potion that helps the consumer open themselves to the arcane. Mana regeneration is increased up to 300% and psychic sensitivity is increased up to 50%. Effects also decrease mental stability. The effects of this drug last several days but lose potency over time.-->
+  <TM_HerbalClarityHD.description>A potion that helps the consumer open themselves to the arcane. Mana regeneration is increased up to 300% and psychic sensitivity is increased up to 50%. Effects also decrease mental stability. The effects of this drug last several days but lose potency over time.</TM_HerbalClarityHD.description>
+  <!--EN: Clarity-->
+  <TM_HerbalClarityHD.label>Clarity</TM_HerbalClarityHD.label>
+  <!--EN: fading-->
+  <TM_HerbalClarityHD.stages.0.label>fading</TM_HerbalClarityHD.stages.0.label>
+  <!--EN: active-->
+  <TM_HerbalClarityHD.stages.1.label>active</TM_HerbalClarityHD.stages.1.label>
+  <!--EN: vibrant-->
+  <TM_HerbalClarityHD.stages.2.label>vibrant</TM_HerbalClarityHD.stages.2.label>
+  <!--EN: A herbal elixir that increases health regeneration and fights diseases; also improves mental health and reduces weariness.-->
+  <TM_HerbalElixirHD.description>A herbal elixir that increases health regeneration and fights diseases; also improves mental health and reduces weariness.</TM_HerbalElixirHD.description>
+  <!--EN: herbal elixir-->
+  <TM_HerbalElixirHD.label>herbal elixir</TM_HerbalElixirHD.label>
+  <!--EN: fading-->
+  <TM_HerbalElixirHD.stages.0.label>fading</TM_HerbalElixirHD.stages.0.label>
+  <!--EN: active-->
+  <TM_HerbalElixirHD.stages.1.label>active</TM_HerbalElixirHD.stages.1.label>
+  <!--EN: strong-->
+  <TM_HerbalElixirHD.stages.2.label>strong</TM_HerbalElixirHD.stages.2.label>
+  <!--EN: A topical balm used to stop bleeding, heal wounds, and reduce pain. Soothing balm acts as a mild anesthetic and reduces the awareness of the patient.-->
+  <TM_SoothingBalmHD.description>A topical balm used to stop bleeding, heal wounds, and reduce pain. Soothing balm acts as a mild anesthetic and reduces the awareness of the patient.</TM_SoothingBalmHD.description>
+  <!--EN: soothing balm-->
+  <TM_SoothingBalmHD.label>soothing balm</TM_SoothingBalmHD.label>
+</LanguageData>

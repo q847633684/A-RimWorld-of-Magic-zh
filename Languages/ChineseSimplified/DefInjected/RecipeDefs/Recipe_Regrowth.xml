@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Use druidic powers to regrow body parts.-->
+  <Regrowth.description>Use druidic powers to regrow body parts.</Regrowth.description>
+  <!--EN: Regrowing body part.-->
+  <Regrowth.jobString>Regrowing body part.</Regrowth.jobString>
+  <!--EN: regrow body part (Druid only, 90% mana required)-->
+  <Regrowth.label>regrow body part (Druid only, 90% mana required)</Regrowth.label>
+  <!--EN: Use druidic powers to regrow body parts.-->
+  <UniversalRegrowth.description>Use druidic powers to regrow body parts.</UniversalRegrowth.description>
+  <!--EN: Regrowing body part.-->
+  <UniversalRegrowth.jobString>Regrowing body part.</UniversalRegrowth.jobString>
+  <!--EN: regrow body part (Druid only, 90% mana required)-->
+  <UniversalRegrowth.label>regrow body part (Druid only, 90% mana required)</UniversalRegrowth.label>
+</LanguageData>

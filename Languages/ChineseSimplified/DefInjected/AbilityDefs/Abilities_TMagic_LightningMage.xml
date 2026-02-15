@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: AMP-->
+  <Buff_AMP.label>AMP</Buff_AMP.label>
+  <!--EN: flying object-->
+  <FlyingObject_EyeOfTheStorm.label>flying object</FlyingObject_EyeOfTheStorm.label>
+  <!--EN: Lightning Bolt-->
+  <Laser_LightningBolt.label>Lightning Bolt</Laser_LightningBolt.label>
+  <!--EN: Eye of the Storm-->
+  <Projectile_EyeOfTheStorm.label>Eye of the Storm</Projectile_EyeOfTheStorm.label>
+  <!--EN: Lightning Cloud-->
+  <Projectile_LightningCloud.label>Lightning Cloud</Projectile_LightningCloud.label>
+  <!--EN: Lightning Storm-->
+  <Projectile_LightningStorm.label>Lightning Storm</Projectile_LightningStorm.label>
+  <!--EN: Blessing: Augmented by Magical Power - aka "AMP."  Short term augmentation that drastically increases physical capacity at the cost of increased stress on the body.
+
+Duration: 		30-40s
+Physical capacity: 	~+30%
+Physical demand: 	+40%
+Pain:		-20%-->
+  <TM_AMP.description>Blessing: Augmented by Magical Power - aka &amp;quot;AMP.&amp;quot;  Short term augmentation that drastically increases physical capacity at the cost of increased stress on the body.
+
+Duration: 		30-40s
+Physical capacity: 	~+30%
+Physical demand: 	+40%
+Pain:		-20%</TM_AMP.description>
+  <!--EN: AMP-->
+  <TM_AMP.label>AMP</TM_AMP.label>
+  <!--EN: Blessing: Augmented by Magical Power - aka "AMP."  Drastically increases physical capacity at the cost of increased stress on the body.
+		
+Duration: 		30-40s
+Physical capacity: 	~+50%
+Physical demand: 	+60%
+Pain:		-20%-->
+  <TM_AMP_I.description>Blessing: Augmented by Magical Power - aka &amp;quot;AMP.&amp;quot;  Drastically increases physical capacity at the cost of increased stress on the body.
+		
+Duration: 		30-40s
+Physical capacity: 	~+50%
+Physical demand: 	+60%
+Pain:		-20%</TM_AMP_I.description>
+  <!--EN: AMP-->
+  <TM_AMP_I.label>AMP</TM_AMP_I.label>
+  <!--EN: Blessing: Augmented by Magical Power - aka "AMP."  Drastically increases physical capacity at the cost of increased stress on the body.
+		
+Duration: 		50-60s
+Physical capacity: 	~+65%
+Physical demand: 	+60%
+Pain:		-30%-->
+  <TM_AMP_II.description>Blessing: Augmented by Magical Power - aka &amp;quot;AMP.&amp;quot;  Drastically increases physical capacity at the cost of increased stress on the body.
+		
+Duration: 		50-60s
+Physical capacity: 	~+65%
+Physical demand: 	+60%
+Pain:		-30%</TM_AMP_II.description>
+  <!--EN: AMP-->
+  <TM_AMP_II.label>AMP</TM_AMP_II.label>
+  <!--EN: Blessing: Augmented by Magical Power - aka "AMP."  Drastically increases physical capacity at the cost of increased stress on the body.
+		
+Duration: 		50-60s
+Physical capacity: 	~+80%
+Physical demand: 	+100%
+Pain:		-40%-->
+  <TM_AMP_III.description>Blessing: Augmented by Magical Power - aka &amp;quot;AMP.&amp;quot;  Drastically increases physical capacity at the cost of increased stress on the body.
+		
+Duration: 		50-60s
+Physical capacity: 	~+80%
+Physical demand: 	+100%
+Pain:		-40%</TM_AMP_III.description>
+  <!--EN: AMP-->
+  <TM_AMP_III.label>AMP</TM_AMP_III.label>
+  <!--EN: Release a ball of pure electrical energy that annihilates everything it its path.-->
+  <TM_EyeOfTheStorm.description>Release a ball of pure electrical energy that annihilates everything it its path.</TM_EyeOfTheStorm.description>
+  <!--EN: Eye of the Storm-->
+  <TM_EyeOfTheStorm.label>Eye of the Storm</TM_EyeOfTheStorm.label>
+  <!--EN: Launch a bolt of lightning to strike your target.-->
+  <TM_LightningBolt.description>Launch a bolt of lightning to strike your target.</TM_LightningBolt.description>
+  <!--EN: Lightning Bolt-->
+  <TM_LightningBolt.label>Lightning Bolt</TM_LightningBolt.label>
+  <!--EN: Creates an area charged with lightning. Damages and stuns anything in its mists.-->
+  <TM_LightningCloud.description>Creates an area charged with lightning. Damages and stuns anything in its mists.</TM_LightningCloud.description>
+  <!--EN: Lightning Cloud-->
+  <TM_LightningCloud.label>Lightning Cloud</TM_LightningCloud.label>
+  <!--EN: Create a fierce, but uncontrolled, lightning storm over the target location.-->
+  <TM_LightningStorm.description>Create a fierce, but uncontrolled, lightning storm over the target location.</TM_LightningStorm.description>
+  <!--EN: Lightning Storm-->
+  <TM_LightningStorm.label>Lightning Storm</TM_LightningStorm.label>
+</LanguageData>

@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Soothing Breeze-->
+  <Buff_Soothe.label>Soothing Breeze</Buff_Soothe.label>
+  <!--EN: Frost Ray-->
+  <Laser_FrostRay.label>Frost Ray</Laser_FrostRay.label>
+  <!--EN: Blizzard-->
+  <Projectile_Blizzard.label>Blizzard</Projectile_Blizzard.label>
+  <!--EN: Icebolt-->
+  <Projectile_Icebolt.label>Icebolt</Projectile_Icebolt.label>
+  <!--EN: Rainmaker-->
+  <Projectile_Rainmaker.label>Rainmaker</Projectile_Rainmaker.label>
+  <!--EN: Snowball-->
+  <Projectile_Snowball.label>Snowball</Projectile_Snowball.label>
+  <!--EN: Calls forth a deadly blizzard to bury your enemies in ice.-->
+  <TM_Blizzard.description>Calls forth a deadly blizzard to bury your enemies in ice.</TM_Blizzard.description>
+  <!--EN: Blizzard-->
+  <TM_Blizzard.label>Blizzard</TM_Blizzard.label>
+  <!--EN: Rapidly extending ray of super cooled particles that damages and freezes targets.
+		
+Recharge time: 12s
+Range: 28
+Shots: 1-->
+  <TM_FrostRay.description>Rapidly extending ray of super cooled particles that damages and freezes targets.
+		
+Recharge time: 12s
+Range: 28
+Shots: 1</TM_FrostRay.description>
+  <!--EN: Frost Ray-->
+  <TM_FrostRay.label>Frost Ray</TM_FrostRay.label>
+  <!--EN: Rapidly extending ray of super cooled particles that damages and freezes targets.
+		
+Recharge time: 10s
+Range: 30
+Shots: 1-->
+  <TM_FrostRay_I.description>Rapidly extending ray of super cooled particles that damages and freezes targets.
+		
+Recharge time: 10s
+Range: 30
+Shots: 1</TM_FrostRay_I.description>
+  <!--EN: Frost Ray-->
+  <TM_FrostRay_I.label>Frost Ray</TM_FrostRay_I.label>
+  <!--EN: Rapidly extending ray of super cooled particles that damages and freezes targets.
+		
+Recharge time: 8s
+Range: 32
+Shots: 2-->
+  <TM_FrostRay_II.description>Rapidly extending ray of super cooled particles that damages and freezes targets.
+		
+Recharge time: 8s
+Range: 32
+Shots: 2</TM_FrostRay_II.description>
+  <!--EN: Frost Ray-->
+  <TM_FrostRay_II.label>Frost Ray</TM_FrostRay_II.label>
+  <!--EN: Rapidly extending ray of super cooled particles that damages and freezes targets.
+		
+Recharge time: 8s
+Range: 34
+Shots: 3-->
+  <TM_FrostRay_III.description>Rapidly extending ray of super cooled particles that damages and freezes targets.
+		
+Recharge time: 8s
+Range: 34
+Shots: 3</TM_FrostRay_III.description>
+  <!--EN: Frost Ray-->
+  <TM_FrostRay_III.label>Frost Ray</TM_FrostRay_III.label>
+  <!--EN: Launches a bolt of ice specially created to shatter into glass-like shards upon impact, causing damage and severe bleeding.-->
+  <TM_Icebolt.description>Launches a bolt of ice specially created to shatter into glass-like shards upon impact, causing damage and severe bleeding.</TM_Icebolt.description>
+  <!--EN: Icebolt-->
+  <TM_Icebolt.label>Icebolt</TM_Icebolt.label>
+  <!--EN: Alters the conditions in the atmosphere causing it to rain. If it's already raining, this ability will stop the rain.-->
+  <TM_Rainmaker.description>Alters the conditions in the atmosphere causing it to rain. If it&amp;apos;s already raining, this ability will stop the rain.</TM_Rainmaker.description>
+  <!--EN: Rainmaker-->
+  <TM_Rainmaker.label>Rainmaker</TM_Rainmaker.label>
+  <!--EN: Launch a massive ball of ice and snow that damages and freezes a large area upon impact.-->
+  <TM_Snowball.description>Launch a massive ball of ice and snow that damages and freezes a large area upon impact.</TM_Snowball.description>
+  <!--EN: Snowball-->
+  <TM_Snowball.label>Snowball</TM_Snowball.label>
+  <!--EN: Creates a soothing aura around the caster that periodically buffs an ally.
+		
+Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus.
+	
+Application Frequency: 	80-90s	
+Duration:	200-223s
+Consciousness:	+10%
+Mood increase:	+2
+Rest and pain: 	-10%
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.-->
+  <TM_Soothe.description>Creates a soothing aura around the caster that periodically buffs an ally.
+		
+Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus.
+	
+Application Frequency: 	80-90s	
+Duration:	200-223s
+Consciousness:	+10%
+Mood increase:	+2
+Rest and pain: 	-10%
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Soothe.description>
+  <!--EN: Soothing Breeze-->
+  <TM_Soothe.label>Soothing Breeze</TM_Soothe.label>
+  <!--EN: Creates a soothing aura around the caster that periodically buffs an ally.
+		
+Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus.
+	
+Application Frequency: 	80-90s	
+Duration:	200-223s
+Consciousness: 	+12%
+Mood increase:	+3
+Rest and pain: 	-12%
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.-->
+  <TM_Soothe_I.description>Creates a soothing aura around the caster that periodically buffs an ally.
+		
+Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus.
+	
+Application Frequency: 	80-90s	
+Duration:	200-223s
+Consciousness: 	+12%
+Mood increase:	+3
+Rest and pain: 	-12%
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Soothe_I.description>
+  <!--EN: Soothing Breeze-->
+  <TM_Soothe_I.label>Soothing Breeze</TM_Soothe_I.label>
+  <!--EN: Creates a soothing aura around the caster that periodically buffs an ally.
+		
+Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus
+	
+Application Frequency: 	80-90s	
+Duration:	500-600s
+Consciousness 	+14%
+Mood increase:	+4
+Rest and pain: 	-14%
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.-->
+  <TM_Soothe_II.description>Creates a soothing aura around the caster that periodically buffs an ally.
+		
+Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus
+	
+Application Frequency: 	80-90s	
+Duration:	500-600s
+Consciousness 	+14%
+Mood increase:	+4
+Rest and pain: 	-14%
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Soothe_II.description>
+  <!--EN: Soothing Breeze-->
+  <TM_Soothe_II.label>Soothing Breeze</TM_Soothe_II.label>
+  <!--EN: Creates a soothing aura around the caster that periodically buffs an ally.
+		
+Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus
+	
+Application Frequency: 	80-90s	
+Duration:	500-600s
+Consciousness: 	+15%
+Mood increase:	+5
+Rest and pain:	-15%
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.-->
+  <TM_Soothe_III.description>Creates a soothing aura around the caster that periodically buffs an ally.
+		
+Soothing Breeze: Arcane augmentation that assists the worker, reducing pain and fatigue and increasing focus
+	
+Application Frequency: 	80-90s	
+Duration:	500-600s
+Consciousness: 	+15%
+Mood increase:	+5
+Rest and pain:	-15%
+
+Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.</TM_Soothe_III.description>
+  <!--EN: Soothing Breeze-->
+  <TM_Soothe_III.label>Soothing Breeze</TM_Soothe_III.label>
+</LanguageData>

@@ -1,0 +1,347 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Chain mail forged with an ancient design that provides above average physical defense. The design of the armor includes a symmetrical etching of arcane runes that bestow the wearer with enhanced power. Once crafted, these runes will attract an ancient spirit to embody the mail and grants the wearer a chance to cause additional arcane damage following any attack; however, this comes at a price - all abilities will require more energy to use, and the bearer is beset with nightmares that slowly break down mental resistances.
+	
+Ancient mail is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +8%
+Energy Regen: +10%
+Energy Costs: +15%
+Arcane Resistance: +20%
+
+Augmented by Arcane Spectre: 50% chance to deal 20% bonus damage-->
+  <AncientMail.description>Chain mail forged with an ancient design that provides above average physical defense. The design of the armor includes a symmetrical etching of arcane runes that bestow the wearer with enhanced power. Once crafted, these runes will attract an ancient spirit to embody the mail and grants the wearer a chance to cause additional arcane damage following any attack; however, this comes at a price - all abilities will require more energy to use, and the bearer is beset with nightmares that slowly break down mental resistances.
+	
+Ancient mail is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +8%
+Energy Regen: +10%
+Energy Costs: +15%
+Arcane Resistance: +20%
+
+Augmented by Arcane Spectre: 50% chance to deal 20% bonus damage</AncientMail.description>
+  <!--EN: Ancient Mail-->
+  <AncientMail.label>Ancient Mail</AncientMail.label>
+  <!--EN: A hood preferred by mages for its magical properties, light weight, and comfort. The method of infusing fabric with enchantments prior to weaving the hood returns improved enchanting results.
+
+The Arcane Hood is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +10%
+Energy Regen: +10%
+Arcane Resistance: +10%-->
+  <ArcaneHood.description>A hood preferred by mages for its magical properties, light weight, and comfort. The method of infusing fabric with enchantments prior to weaving the hood returns improved enchanting results.
+
+The Arcane Hood is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +10%
+Energy Regen: +10%
+Arcane Resistance: +10%</ArcaneHood.description>
+  <!--EN: Arcane Hood-->
+  <ArcaneHood.label>Arcane Hood</ArcaneHood.label>
+  <!--EN: Robes designed by a superior race that are meant for the highest class of magic users who are worthy of additional power and insight. These lightweight, flowing robes seem to propel the wearer as if carried by a great winged beast.
+
+Robes of the Archmage are enchanted and provide additional benefits to trained mages and fighters:
+Max Energy: +25
+Energy Regen: +25%
+Ability Cooldown: -20%
+Energy Costs: -10%
+Arcane Res: +15%
+Ability Damage: +20%-->
+  <ArchMageRobe.description>Robes designed by a superior race that are meant for the highest class of magic users who are worthy of additional power and insight. These lightweight, flowing robes seem to propel the wearer as if carried by a great winged beast.
+
+Robes of the Archmage are enchanted and provide additional benefits to trained mages and fighters:
+Max Energy: +25
+Energy Regen: +25%
+Ability Cooldown: -20%
+Energy Costs: -10%
+Arcane Res: +15%
+Ability Damage: +20%</ArchMageRobe.description>
+  <!--EN: Robes of the Archmage-->
+  <ArchMageRobe.label>Robes of the Archmage</ArchMageRobe.label>
+  <!--EN: Robes worn by the heralds of magic. Wearers of this robe demonstrate a willingness to make physical sacrifices to increase their innate power.
+	
+Mage robes are enchanted and provide additional benefits to trained mages and fighters:
+Max Energy: +17.5%
+Energy Regen: +10%
+Ability Cooldown: -15%
+Energy Costs: -15%
+Class XP Gain: +10%
+Arcane Power: +10%-->
+  <DarkRobe.description>Robes worn by the heralds of magic. Wearers of this robe demonstrate a willingness to make physical sacrifices to increase their innate power.
+	
+Mage robes are enchanted and provide additional benefits to trained mages and fighters:
+Max Energy: +17.5%
+Energy Regen: +10%
+Ability Cooldown: -15%
+Energy Costs: -15%
+Class XP Gain: +10%
+Arcane Power: +10%</DarkRobe.description>
+  <!--EN: Mage Robe-->
+  <DarkRobe.label>Mage Robe</DarkRobe.label>
+  <!--EN: A cloak heavily augmented by arcane power believed to have been first made for a black knight acting as the ambassador for an astral demon. The fabric is difficult to focus on in a way that can only be described as "visual noise" and the folds of cloth move in an unnatural way as if unrestrained by natural law. Those few who have worn this cloak in battle swear that it possesses a consciousness of its own and tell stories of the cloth shielding them from certain destruction.  Others claim those observations were nothing but hallucinations by deranged fools. Because of these claims, it is rumored that the cloak possesses the ability to completely mitigate attacks against the wearer, but no one has been able to reproduce these results with any reliability.
+
+Robes of Supremacy are enchanted and provide additional benefits to trained mages and fighters:
+Max Energy: +40%
+Energy Regen: +40%
+Ability Cooldown: -20%
+
+Augmented by Phantom Shift: 20% chance to avoid an attack-->
+  <DemonLordCloak.description>A cloak heavily augmented by arcane power believed to have been first made for a black knight acting as the ambassador for an astral demon. The fabric is difficult to focus on in a way that can only be described as &amp;quot;visual noise&amp;quot; and the folds of cloth move in an unnatural way as if unrestrained by natural law. Those few who have worn this cloak in battle swear that it possesses a consciousness of its own and tell stories of the cloth shielding them from certain destruction.  Others claim those observations were nothing but hallucinations by deranged fools. Because of these claims, it is rumored that the cloak possesses the ability to completely mitigate attacks against the wearer, but no one has been able to reproduce these results with any reliability.
+
+Robes of Supremacy are enchanted and provide additional benefits to trained mages and fighters:
+Max Energy: +40%
+Energy Regen: +40%
+Ability Cooldown: -20%
+
+Augmented by Phantom Shift: 20% chance to avoid an attack</DemonLordCloak.description>
+  <!--EN: Cloak of Supremacy-->
+  <DemonLordCloak.label>Cloak of Supremacy</DemonLordCloak.label>
+  <!--EN: A dark cowl that has a reputation of being cursed, though its magical properties are undeniable. Those who don this hood gain the ability to see manifestations of arcane energy and learn things they otherwise wouldn't. The hood's appearance and fear of revealed secrets lead most to distrust those who wear this hood. Likewise, those who see through the eyes of this hood begin to distrust those around them.
+
+The Hood of Madness is enchanted and provides additional benefits to trained mages and fighters:
+Class XP Gain: +30%
+Arcane Resistance: 30%-->
+  <HoodOfMadness.description>A dark cowl that has a reputation of being cursed, though its magical properties are undeniable. Those who don this hood gain the ability to see manifestations of arcane energy and learn things they otherwise wouldn&amp;apos;t. The hood&amp;apos;s appearance and fear of revealed secrets lead most to distrust those who wear this hood. Likewise, those who see through the eyes of this hood begin to distrust those around them.
+
+The Hood of Madness is enchanted and provides additional benefits to trained mages and fighters:
+Class XP Gain: +30%
+Arcane Resistance: 30%</HoodOfMadness.description>
+  <!--EN: Hood of Madness-->
+  <HoodOfMadness.label>Hood of Madness</HoodOfMadness.label>
+  <!--EN: A heavily enchanted helm meant to identify elite warriors of the Valiant.
+
+Paragon's Helm is enchanted and provides additional benefits to trained mages and fighters:
+Energy Costs: -5%
+Class XP Gain: +15%
+Max Energy: +5%
+Arcane Res: +10%-->
+  <ParagonHelm.description>A heavily enchanted helm meant to identify elite warriors of the Valiant.
+
+Paragon&amp;apos;s Helm is enchanted and provides additional benefits to trained mages and fighters:
+Energy Costs: -5%
+Class XP Gain: +15%
+Max Energy: +5%
+Arcane Res: +10%</ParagonHelm.description>
+  <!--EN: Paragon's Helm-->
+  <ParagonHelm.label>Paragon&amp;apos;s Helm</ParagonHelm.label>
+  <!--EN: A breastplate etched in holy symbols that is designed to protect vital areas without restricting movement. Said to have been worn by holy warriors of a bygone age who maintained peace with justice and compassion in equal measure. It is unknown what became of this order, though it is hard to believe it had anything to do with their skill in armor craft.
+
+Armor of the Valiant is enchanted and provides additional benefits to trained mages and fighters:
+Energy Costs: -10%
+Class XP Gain: +10%-->
+  <RoyalArmor.description>A breastplate etched in holy symbols that is designed to protect vital areas without restricting movement. Said to have been worn by holy warriors of a bygone age who maintained peace with justice and compassion in equal measure. It is unknown what became of this order, though it is hard to believe it had anything to do with their skill in armor craft.
+
+Armor of the Valiant is enchanted and provides additional benefits to trained mages and fighters:
+Energy Costs: -10%
+Class XP Gain: +10%</RoyalArmor.description>
+  <!--EN: Armor of the Valiant-->
+  <RoyalArmor.label>Armor of the Valiant</RoyalArmor.label>
+  <!--EN: A barbute shaped helm designed to maximize protection without restricting vision or voice. These helmets are a complementary piece to the Armor of the Valiant set and further enhance a wearers arcane capabilities while also providing noteworthy physical protection.
+
+Helm of the Valiant is enchanted and provides additional benefits to trained mages and fighters:
+Energy Costs: -5%
+Class XP Gain: +10%-->
+  <RoyalHelm.description>A barbute shaped helm designed to maximize protection without restricting vision or voice. These helmets are a complementary piece to the Armor of the Valiant set and further enhance a wearers arcane capabilities while also providing noteworthy physical protection.
+
+Helm of the Valiant is enchanted and provides additional benefits to trained mages and fighters:
+Energy Costs: -5%
+Class XP Gain: +10%</RoyalHelm.description>
+  <!--EN: Helm of the Valiant-->
+  <RoyalHelm.label>Helm of the Valiant</RoyalHelm.label>
+  <!--EN: cloak-->
+  <TM_Cloak.label>cloak</TM_Cloak.label>
+  <!--EN: Emblazoned with symbols and sigils that carry profound significance within the disciple's chosen path, this hood becomes a canvas for sacred artistry. Each stitch tells a tale of trials faced, wisdom gained, and the ongoing journey towards a higher plane of understanding. The hood serves not only as a physical covering but as a metaphysical barrier, shielding the disciple from distractions and worldly influences.
+
+The Disiple Hood is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +25%
+Energy Regen: +5%
+Energy Costs: -5%
+Class XP Gain: +10%
+Arcane Resistance: +15%-->
+  <TM_DiscipleHood.description>Emblazoned with symbols and sigils that carry profound significance within the disciple&amp;apos;s chosen path, this hood becomes a canvas for sacred artistry. Each stitch tells a tale of trials faced, wisdom gained, and the ongoing journey towards a higher plane of understanding. The hood serves not only as a physical covering but as a metaphysical barrier, shielding the disciple from distractions and worldly influences.
+
+The Disiple Hood is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +25%
+Energy Regen: +5%
+Energy Costs: -5%
+Class XP Gain: +10%
+Arcane Resistance: +15%</TM_DiscipleHood.description>
+  <!--EN: Disciple Hood-->
+  <TM_DiscipleHood.label>Disciple Hood</TM_DiscipleHood.label>
+  <!--EN: The uniform of an ardent disciple - this outfit is comprised of assorted pockets, pouches, and straps designed to allow the disciple to be prepared for any situation. Wearers of the disciple robe value protection and adaptability.
+	
+Disciple robes are enchanted and provide additional benefits to trained mages and fighters:
+Max Energy: +20%
+Energy Regen: +5%
+Energy Costs: -5%
+Class XP Gain: +10%
+Arcane Res: +30%-->
+  <TM_DiscipleRobe.description>The uniform of an ardent disciple - this outfit is comprised of assorted pockets, pouches, and straps designed to allow the disciple to be prepared for any situation. Wearers of the disciple robe value protection and adaptability.
+	
+Disciple robes are enchanted and provide additional benefits to trained mages and fighters:
+Max Energy: +20%
+Energy Regen: +5%
+Energy Costs: -5%
+Class XP Gain: +10%
+Arcane Res: +30%</TM_DiscipleRobe.description>
+  <!--EN: Disciple Robe-->
+  <TM_DiscipleRobe.label>Disciple Robe</TM_DiscipleRobe.label>
+  <!--EN: This masterpiece of craftsmanship and resilience is a symphony of layered plates intricately layered over an armored mesh that offers unmatched protection. Gleaming rivets and jagged edges trace a pattern reminiscent of ethereal flames engulfing a fearless warrior. Forged in the crucible of peril, Dragon Slayer plate is a symbol of defiance against scaled tyrants that darken the sky and mechanical abominations that despoil the land. Infused with enchanted energies, the armor radiates magical might that acts as a guiding light - assuring that this warrior shall emerge victorious amidst fire and fang.
+
+Dragon slayer Plate is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +30
+Energy Regen: +20%
+Ability Cooldown: -20%
+Energy Costs: -20%
+Arcane Res: +30%
+Ability Damage: +30%-->
+  <TM_DragonSlayer.description>This masterpiece of craftsmanship and resilience is a symphony of layered plates intricately layered over an armored mesh that offers unmatched protection. Gleaming rivets and jagged edges trace a pattern reminiscent of ethereal flames engulfing a fearless warrior. Forged in the crucible of peril, Dragon Slayer plate is a symbol of defiance against scaled tyrants that darken the sky and mechanical abominations that despoil the land. Infused with enchanted energies, the armor radiates magical might that acts as a guiding light - assuring that this warrior shall emerge victorious amidst fire and fang.
+
+Dragon slayer Plate is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +30
+Energy Regen: +20%
+Ability Cooldown: -20%
+Energy Costs: -20%
+Arcane Res: +30%
+Ability Damage: +30%</TM_DragonSlayer.description>
+  <!--EN: Dragon Slayer Plate-->
+  <TM_DragonSlayer.label>Dragon Slayer Plate</TM_DragonSlayer.label>
+  <!--EN: A patchwork buckskin of threaded leather adorned with animal memento and permeated with mystical energies. Primarily worn by tribal mystic leaders, the dreamcatcher buckskin represents the dream-like connection between nature and spirits. 
+	
+Mystics derive additional power from the symbolism of this outfit:
+Max Energy: +40
+Class XP Gain: +30%
+Arcane Res: +25%-->
+  <TM_DreamcatcherBuckskin.description>A patchwork buckskin of threaded leather adorned with animal memento and permeated with mystical energies. Primarily worn by tribal mystic leaders, the dreamcatcher buckskin represents the dream-like connection between nature and spirits. 
+	
+Mystics derive additional power from the symbolism of this outfit:
+Max Energy: +40
+Class XP Gain: +30%
+Arcane Res: +25%</TM_DreamcatcherBuckskin.description>
+  <!--EN: Dreamcatcher Buckskin-->
+  <TM_DreamcatcherBuckskin.label>Dreamcatcher Buckskin</TM_DreamcatcherBuckskin.label>
+  <!--EN: A patchwork headdress of animal leather topped with a majestic crown of antlers. This hood marks the bearer as the spiritual leader of a tribe. The dreamcatcher raiment is said to grant gifted users with the ability to view nature through the eyes of their spirit animal.
+
+Mystics derive additional power from the symbolism of this outfit:
+Max Energy: +25
+Class XP Gain: +20%
+Arcane Res: +20%-->
+  <TM_DreamcatcherCoronet.description>A patchwork headdress of animal leather topped with a majestic crown of antlers. This hood marks the bearer as the spiritual leader of a tribe. The dreamcatcher raiment is said to grant gifted users with the ability to view nature through the eyes of their spirit animal.
+
+Mystics derive additional power from the symbolism of this outfit:
+Max Energy: +25
+Class XP Gain: +20%
+Arcane Res: +20%</TM_DreamcatcherCoronet.description>
+  <!--EN: Dreamcatcher Coronet-->
+  <TM_DreamcatcherCoronet.label>Dreamcatcher Coronet</TM_DreamcatcherCoronet.label>
+  <!--EN: A simple hood that increases protection, both magical and mundane. The method of infusing fabric with enchantments prior to weaving the hood returns improved enchanting results.
+
+The Hood of Protection is enchanted and provides additional benefits to trained mages and fighters:
+Arcane Resistance: +10%-->
+  <TM_HoodOfProtection.description>A simple hood that increases protection, both magical and mundane. The method of infusing fabric with enchantments prior to weaving the hood returns improved enchanting results.
+
+The Hood of Protection is enchanted and provides additional benefits to trained mages and fighters:
+Arcane Resistance: +10%</TM_HoodOfProtection.description>
+  <!--EN: Hood of Protection-->
+  <TM_HoodOfProtection.label>Hood of Protection</TM_HoodOfProtection.label>
+  <!--EN: A cloak designed for traveling mages that provides protection against the elements and improves energy recovery rates. The method of infusing arcane gemstones into the fabric during crafting yields unparalleled enchantment effectiveness.
+	
+This cloak is enchanted and provides additional benefits to trained mages:
+Max Energy: +12%
+Ability Cooldown: -20%
+Arcane Resistance: +5%-->
+  <TM_MaestersCloak.description>A cloak designed for traveling mages that provides protection against the elements and improves energy recovery rates. The method of infusing arcane gemstones into the fabric during crafting yields unparalleled enchantment effectiveness.
+	
+This cloak is enchanted and provides additional benefits to trained mages:
+Max Energy: +12%
+Ability Cooldown: -20%
+Arcane Resistance: +5%</TM_MaestersCloak.description>
+  <!--EN: Wanderer's Cloak-->
+  <TM_MaestersCloak.label>Wanderer&amp;apos;s Cloak</TM_MaestersCloak.label>
+  <!--EN: A loose, cape-like coat worn over other garments and offering added protection against weather and other hazards. The Mantle of Protection is magically infused with warding runes to further its defense. The method of infusing arcane gemstones into the fabric during crafting yields unparalleled enchantment effectiveness.
+	
+This cloak is enchanted and provides additional benefits to trained mages:
+Class XP Gain: +20%
+Arcane Resistance: +30%-->
+  <TM_MantleOfProtection.description>A loose, cape-like coat worn over other garments and offering added protection against weather and other hazards. The Mantle of Protection is magically infused with warding runes to further its defense. The method of infusing arcane gemstones into the fabric during crafting yields unparalleled enchantment effectiveness.
+	
+This cloak is enchanted and provides additional benefits to trained mages:
+Class XP Gain: +20%
+Arcane Resistance: +30%</TM_MantleOfProtection.description>
+  <!--EN: Mantle of Protection-->
+  <TM_MantleOfProtection.label>Mantle of Protection</TM_MantleOfProtection.label>
+  <!--EN: This dark and mystical ensemble is crafted with a macabre elegance, blending bone motifs and shadowy enchantments to provide both protection and serve as a conduit for the necromancer's unholy powers. The Shroud of the Soulreaper is a testament to the necromancer's mastery over the forces of death, shrouding them in an aura of ominous power as they manipulate the very fabric of life and afterlife. While the shroud may be worn by anyone, its unique properties improve the necromancer's control over the undead.
+	
+Necromancers derive additional power from the symbolism of this dark garment:
+Max Energy: +40
+Energy Regen: +30%
+Arcane Power: +30%
+
+Shroud of Undeath: reduces undead upkeep costs by 30% for this necromancer and increases movement and attack power by 15% for nearby undead-->
+  <TM_Necromancer_Body.description>This dark and mystical ensemble is crafted with a macabre elegance, blending bone motifs and shadowy enchantments to provide both protection and serve as a conduit for the necromancer&amp;apos;s unholy powers. The Shroud of the Soulreaper is a testament to the necromancer&amp;apos;s mastery over the forces of death, shrouding them in an aura of ominous power as they manipulate the very fabric of life and afterlife. While the shroud may be worn by anyone, its unique properties improve the necromancer&amp;apos;s control over the undead.
+	
+Necromancers derive additional power from the symbolism of this dark garment:
+Max Energy: +40
+Energy Regen: +30%
+Arcane Power: +30%
+
+Shroud of Undeath: reduces undead upkeep costs by 30% for this necromancer and increases movement and attack power by 15% for nearby undead</TM_Necromancer_Body.description>
+  <!--EN: Shroud of the Soulreaper-->
+  <TM_Necromancer_Body.label>Shroud of the Soulreaper</TM_Necromancer_Body.label>
+  <!--EN: This ominous garment is woven from shadowy fabrics and imbued with dark enchantments, concealing the visage of the necromancer beneath a mask of cloth and bone. The Cowl of the Soulreaper serves not only as a practical accessory to shield the wearer from prying eyes but also as a symbolic manifestation of the necromancer's communion with the realms beyond life. Its eerie aura and sinister design make it a fitting adornment for those who harness the powers of the undead and tread the paths of necromantic arts.
+
+Necromancers derive additional power from the symbolism of this item:
+Max Energy: +20
+Energy Regen: +5%
+
+Shroud of Undeath: reduces undead upkeep costs by 20% for this necromancer and increases movement and attack power by 10% for nearby undead-->
+  <TM_Necromancer_Hood.description>This ominous garment is woven from shadowy fabrics and imbued with dark enchantments, concealing the visage of the necromancer beneath a mask of cloth and bone. The Cowl of the Soulreaper serves not only as a practical accessory to shield the wearer from prying eyes but also as a symbolic manifestation of the necromancer&amp;apos;s communion with the realms beyond life. Its eerie aura and sinister design make it a fitting adornment for those who harness the powers of the undead and tread the paths of necromantic arts.
+
+Necromancers derive additional power from the symbolism of this item:
+Max Energy: +20
+Energy Regen: +5%
+
+Shroud of Undeath: reduces undead upkeep costs by 20% for this necromancer and increases movement and attack power by 10% for nearby undead</TM_Necromancer_Hood.description>
+  <!--EN: Cowl of the Soulreaper-->
+  <TM_Necromancer_Hood.label>Cowl of the Soulreaper</TM_Necromancer_Hood.label>
+  <!--EN: Crafted with an eerie elegance, this disconcerting mask combines dark materials and arcane symbols, concealing the necromancer's countenance behind a haunting facade. Its eerie aura and sinister design make it a fitting adornment for those who harness the powers of undeath and tread the paths of necromantic arts.
+
+Necromancers derive additional power from the symbolism of this item:
+Max Energy: +10
+Energy Regen: +5%
+
+Shroud of Undeath: reduces undead upkeep costs by 10% for this necromancer and increases movement and attack power by 5% for nearby undead-->
+  <TM_Necromancer_Mask.description>Crafted with an eerie elegance, this disconcerting mask combines dark materials and arcane symbols, concealing the necromancer&amp;apos;s countenance behind a haunting facade. Its eerie aura and sinister design make it a fitting adornment for those who harness the powers of undeath and tread the paths of necromantic arts.
+
+Necromancers derive additional power from the symbolism of this item:
+Max Energy: +10
+Energy Regen: +5%
+
+Shroud of Undeath: reduces undead upkeep costs by 10% for this necromancer and increases movement and attack power by 5% for nearby undead</TM_Necromancer_Mask.description>
+  <!--EN: Mask of the Soulreaper-->
+  <TM_Necromancer_Mask.label>Mask of the Soulreaper</TM_Necromancer_Mask.label>
+  <!--EN: This mask is a captivating blend of mystery and wisdom, meticulously crafted to veil the countenance of the wearer. Delicate lines are etched upon the mask's surface, depicting an intricate dance of ancient symbols and rhythmic lines that combine to form a visage of wisdom and power. Masks of this nature are intended to suppress the physical senses of the wearer, granting them increased concentration and focus.
+
+The Mask of Serenity is enchanted and provides additional benefits to trained mages and fighters:
+Energy Costs: -10%
+Energy Regen: +10%
+Class XP Gain: +10%
+Arcane Power: +10%-->
+  <TM_SagesMask.description>This mask is a captivating blend of mystery and wisdom, meticulously crafted to veil the countenance of the wearer. Delicate lines are etched upon the mask&amp;apos;s surface, depicting an intricate dance of ancient symbols and rhythmic lines that combine to form a visage of wisdom and power. Masks of this nature are intended to suppress the physical senses of the wearer, granting them increased concentration and focus.
+
+The Mask of Serenity is enchanted and provides additional benefits to trained mages and fighters:
+Energy Costs: -10%
+Energy Regen: +10%
+Class XP Gain: +10%
+Arcane Power: +10%</TM_SagesMask.description>
+  <!--EN: Mask of Serenity-->
+  <TM_SagesMask.label>Mask of Serenity</TM_SagesMask.label>
+  <!--EN: A classic hat styled for any wizard or witch. This hat has secret carrying compartments and also has social and drug production bonuses.
+
+The Wizard Hat is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +5%
+Arcane Power: +5%-->
+  <TM_WizardHat.description>A classic hat styled for any wizard or witch. This hat has secret carrying compartments and also has social and drug production bonuses.
+
+The Wizard Hat is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +5%
+Arcane Power: +5%</TM_WizardHat.description>
+  <!--EN: Wizard Hat-->
+  <TM_WizardHat.label>Wizard Hat</TM_WizardHat.label>
+</LanguageData>

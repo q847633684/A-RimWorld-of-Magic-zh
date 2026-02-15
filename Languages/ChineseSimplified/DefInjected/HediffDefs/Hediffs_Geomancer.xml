@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Each charge nullifies the damage from a single attack.-->
+  <TM_StoneskinHD.description>Each charge nullifies the damage from a single attack.</TM_StoneskinHD.description>
+  <!--EN: Stoneskin-->
+  <TM_StoneskinHD.label>Stoneskin</TM_StoneskinHD.label>
+</LanguageData>

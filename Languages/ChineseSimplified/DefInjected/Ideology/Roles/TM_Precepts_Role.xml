@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: role-->
+  <TM_IdeoRole.label>role</TM_IdeoRole.label>
+  <!--EN: A mysterious figure with abilities able to manipulate the connection to magic.-->
+  <TM_IdeoRole_VoidSeeker.description>A mysterious figure with abilities able to manipulate the connection to magic.</TM_IdeoRole_VoidSeeker.description>
+  <!--EN: Void seeker-->
+  <TM_IdeoRole_VoidSeeker.label>Void seeker</TM_IdeoRole_VoidSeeker.label>
+  <!--EN: r_roleName(p=7)->[firstPart][secondPart]-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.0>r_roleName(p=7)-&amp;gt;[firstPart][secondPart]</TM_NamerRoleVoidseeker.rulePack.rulesStrings.0>
+  <!--EN: firstPart->void- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.1>firstPart-&amp;gt;void-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.1>
+  <!--EN: secondPart->seeker-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.10>secondPart-&amp;gt;seeker</TM_NamerRoleVoidseeker.rulePack.rulesStrings.10>
+  <!--EN: secondPart->touched-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.11>secondPart-&amp;gt;touched</TM_NamerRoleVoidseeker.rulePack.rulesStrings.11>
+  <!--EN: secondPart->caller-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.12>secondPart-&amp;gt;caller</TM_NamerRoleVoidseeker.rulePack.rulesStrings.12>
+  <!--EN: secondPart->searcher-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.13>secondPart-&amp;gt;searcher</TM_NamerRoleVoidseeker.rulePack.rulesStrings.13>
+  <!--EN: secondPart->manipulator-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.14>secondPart-&amp;gt;manipulator</TM_NamerRoleVoidseeker.rulePack.rulesStrings.14>
+  <!--EN: secondPart->culler-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.15>secondPart-&amp;gt;culler</TM_NamerRoleVoidseeker.rulePack.rulesStrings.15>
+  <!--EN: secondPart->eraser-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.16>secondPart-&amp;gt;eraser</TM_NamerRoleVoidseeker.rulePack.rulesStrings.16>
+  <!--EN: secondPart->mind-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.17>secondPart-&amp;gt;mind</TM_NamerRoleVoidseeker.rulePack.rulesStrings.17>
+  <!--EN: secondPart->whisperer-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.18>secondPart-&amp;gt;whisperer</TM_NamerRoleVoidseeker.rulePack.rulesStrings.18>
+  <!--EN: secondPart->bringer-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.19>secondPart-&amp;gt;bringer</TM_NamerRoleVoidseeker.rulePack.rulesStrings.19>
+  <!--EN: firstPart->null- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.2>firstPart-&amp;gt;null-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.2>
+  <!--EN: secondPart->speaker-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.20>secondPart-&amp;gt;speaker</TM_NamerRoleVoidseeker.rulePack.rulesStrings.20>
+  <!--EN: secondPart->steward-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.21>secondPart-&amp;gt;steward</TM_NamerRoleVoidseeker.rulePack.rulesStrings.21>
+  <!--EN: secondPart->slave-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.22>secondPart-&amp;gt;slave</TM_NamerRoleVoidseeker.rulePack.rulesStrings.22>
+  <!--EN: secondPart->being-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.23>secondPart-&amp;gt;being</TM_NamerRoleVoidseeker.rulePack.rulesStrings.23>
+  <!--EN: secondPart->one-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.24>secondPart-&amp;gt;one</TM_NamerRoleVoidseeker.rulePack.rulesStrings.24>
+  <!--EN: secondPart->guide-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.25>secondPart-&amp;gt;guide</TM_NamerRoleVoidseeker.rulePack.rulesStrings.25>
+  <!--EN: firstPart->hidden- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.3>firstPart-&amp;gt;hidden-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.3>
+  <!--EN: firstPart->star- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.4>firstPart-&amp;gt;star-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.4>
+  <!--EN: firstPart->link- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.5>firstPart-&amp;gt;link-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.5>
+  <!--EN: firstPart->soul- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.6>firstPart-&amp;gt;soul-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.6>
+  <!--EN: firstPart->spirit- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.7>firstPart-&amp;gt;spirit-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.7>
+  <!--EN: firstPart->mind- -->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.8>firstPart-&amp;gt;mind-</TM_NamerRoleVoidseeker.rulePack.rulesStrings.8>
+  <!--EN: secondPart->master-->
+  <TM_NamerRoleVoidseeker.rulePack.rulesStrings.9>secondPart-&amp;gt;master</TM_NamerRoleVoidseeker.rulePack.rulesStrings.9>
+</LanguageData>

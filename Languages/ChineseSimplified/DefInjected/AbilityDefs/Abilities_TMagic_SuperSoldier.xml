@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: breaching charge-->
+  <Projectile_BreachingCharge.label>breaching charge</Projectile_BreachingCharge.label>
+  <!--EN: buckshot pellet-->
+  <Projectile_Buckshot.label>buckshot pellet</Projectile_Buckshot.label>
+  <!--EN: Grenade-->
+  <Projectile_Mk203GL.label>Grenade</Projectile_Mk203GL.label>
+  <!--EN: Soften up enemy targets before a fight even begins with a personal mortar system. The 60mm Mortar can easily be transported by a Super Soldier and quickly deployed to launch 3-rounds of indirect fire.-->
+  <TM_60mmMortar.description>Soften up enemy targets before a fight even begins with a personal mortar system. The 60mm Mortar can easily be transported by a Super Soldier and quickly deployed to launch 3-rounds of indirect fire.</TM_60mmMortar.description>
+  <!--EN: 60mm Mortar-->
+  <TM_60mmMortar.label>60mm Mortar</TM_60mmMortar.label>
+  <!--EN: Throws a specialized explosive that excels at destroying structures or stopping enemy clusters. Deals 30x damage to structures.-->
+  <TM_BreachingCharge.description>Throws a specialized explosive that excels at destroying structures or stopping enemy clusters. Deals 30x damage to structures.</TM_BreachingCharge.description>
+  <!--EN: Breaching charge-->
+  <TM_BreachingCharge.label>Breaching charge</TM_BreachingCharge.label>
+  <!--EN: A shotgun shell that fires multiple pellets. The sheer volume of rounds discharged can be devastating at short range, but disperses rapidly.-->
+  <TM_Buckshot.description>A shotgun shell that fires multiple pellets. The sheer volume of rounds discharged can be devastating at short range, but disperses rapidly.</TM_Buckshot.description>
+  <!--EN: Buckshot-->
+  <TM_Buckshot.label>Buckshot</TM_Buckshot.label>
+  <!--EN: Close Quarters Combat (CQC) is common training for Soldiers that allows them to smoothly execute a vicious combo attack against an enemy in melee range.-->
+  <TM_CQC.description>Close Quarters Combat (CQC) is common training for Soldiers that allows them to smoothly execute a vicious combo attack against an enemy in melee range.</TM_CQC.description>
+  <!--EN: CQC-->
+  <TM_CQC.label>CQC</TM_CQC.label>
+  <!--EN: Self Aid is possible for Super Soldiers as a result of the genetic enhancements they acquire from the serum. This ability allows them to consciously focus energy to rapid tend wounds. Self Aid is unable to tend grievous wounds, such as missing body parts.-->
+  <TM_FirstAid.description>Self Aid is possible for Super Soldiers as a result of the genetic enhancements they acquire from the serum. This ability allows them to consciously focus energy to rapid tend wounds. Self Aid is unable to tend grievous wounds, such as missing body parts.</TM_FirstAid.description>
+  <!--EN: Self Aid-->
+  <TM_FirstAid.label>Self Aid</TM_FirstAid.label>
+  <!--EN: Fires a grenade using the Mk203 under-barrel grenade launcher.-->
+  <TM_Mk203GL.description>Fires a grenade using the Mk203 under-barrel grenade launcher.</TM_Mk203GL.description>
+  <!--EN: Mk203_GL-->
+  <TM_Mk203GL.label>Mk203_GL</TM_Mk203GL.label>
+  <!--EN: Weapon Specialization: Pistol
+
+This specialization improves all aspects of pistols: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name.
+
+Super Soldiers with a specialized pistol equipped gain a unique "double tap" talent which will occasionally ignore cooldown and immediately begin another shot burst; this talent consumes stamina when it occurs.-->
+  <TM_PistolSpec.description>Weapon Specialization: Pistol
+
+This specialization improves all aspects of pistols: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a &amp;quot;++&amp;quot; after the item name.
+
+Super Soldiers with a specialized pistol equipped gain a unique &amp;quot;double tap&amp;quot; talent which will occasionally ignore cooldown and immediately begin another shot burst; this talent consumes stamina when it occurs.</TM_PistolSpec.description>
+  <!--EN: Pistol Specialization-->
+  <TM_PistolSpec.label>Pistol Specialization</TM_PistolSpec.label>
+  <!--EN: A pistol in the hands of a specialist.-->
+  <TM_PistolSpec_Base0.description>A pistol in the hands of a specialist.</TM_PistolSpec_Base0.description>
+  <!--EN: pistol spec weapon-->
+  <TM_PistolSpec_Base0.label>pistol spec weapon</TM_PistolSpec_Base0.label>
+  <!--EN: pistol whip-->
+  <TM_PistolSpec_Base0.tools.0.label>pistol whip</TM_PistolSpec_Base0.tools.0.label>
+  <!--EN: A sudden attack using the pistol stock as a blunt weapon; successful attacks will stun a target, leaving them dazed for a short period, and may also disarm them.-->
+  <TM_PistolWhip.description>A sudden attack using the pistol stock as a blunt weapon; successful attacks will stun a target, leaving them dazed for a short period, and may also disarm them.</TM_PistolWhip.description>
+  <!--EN: Pistol Whip-->
+  <TM_PistolWhip.label>Pistol Whip</TM_PistolWhip.label>
+  <!--EN: Weapon Specialization: Rifle 
+
+This specialization improves all aspects of rifles: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name.-->
+  <TM_RifleSpec.description>Weapon Specialization: Rifle 
+
+This specialization improves all aspects of rifles: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a &amp;quot;++&amp;quot; after the item name.</TM_RifleSpec.description>
+  <!--EN: Rifle Specialization-->
+  <TM_RifleSpec.label>Rifle Specialization</TM_RifleSpec.label>
+  <!--EN: A rifle in the hands of a specialist.-->
+  <TM_RifleSpec_Base0.description>A rifle in the hands of a specialist.</TM_RifleSpec_Base0.description>
+  <!--EN: rifle spec weapon-->
+  <TM_RifleSpec_Base0.label>rifle spec weapon</TM_RifleSpec_Base0.label>
+  <!--EN: rifle stock-->
+  <TM_RifleSpec_Base0.tools.0.label>rifle stock</TM_RifleSpec_Base0.tools.0.label>
+  <!--EN: Weapon Specialization: Shotgun 
+
+This specialization improves all aspects of shotguns: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name.-->
+  <TM_ShotgunSpec.description>Weapon Specialization: Shotgun 
+
+This specialization improves all aspects of shotguns: accuracy, damage, shot delay, shot count, range, and more.
+Weapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a &amp;quot;++&amp;quot; after the item name.</TM_ShotgunSpec.description>
+  <!--EN: Shotgun Specialization-->
+  <TM_ShotgunSpec.label>Shotgun Specialization</TM_ShotgunSpec.label>
+  <!--EN: A shotgun in the hands of a specialist.-->
+  <TM_ShotgunSpec_Base0.description>A shotgun in the hands of a specialist.</TM_ShotgunSpec_Base0.description>
+  <!--EN: shotgun spec weapon-->
+  <TM_ShotgunSpec_Base0.label>shotgun spec weapon</TM_ShotgunSpec_Base0.label>
+  <!--EN: weapon smash-->
+  <TM_ShotgunSpec_Base0.tools.0.label>weapon smash</TM_ShotgunSpec_Base0.tools.0.label>
+  <!--EN: Suppress enemy positions with a storm of bullets.-->
+  <TM_SuppressingFire.description>Suppress enemy positions with a storm of bullets.</TM_SuppressingFire.description>
+  <!--EN: Suppressing Fire-->
+  <TM_SuppressingFire.label>Suppressing Fire</TM_SuppressingFire.label>
+</LanguageData>

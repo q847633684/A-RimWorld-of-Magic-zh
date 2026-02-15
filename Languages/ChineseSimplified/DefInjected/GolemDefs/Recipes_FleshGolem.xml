@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Improves frontal body armor by grafting a cage made from the bones of human corpses around the chest.-->
+  <TM_FleshGolem_ChestCage.description>Improves frontal body armor by grafting a cage made from the bones of human corpses around the chest.</TM_FleshGolem_ChestCage.description>
+  <!--EN: attaching bone chest cage-->
+  <TM_FleshGolem_ChestCage.jobString>attaching bone chest cage</TM_FleshGolem_ChestCage.jobString>
+  <!--EN: attach chest cage-->
+  <TM_FleshGolem_ChestCage.label>attach chest cage</TM_FleshGolem_ChestCage.label>
+  <!--EN: Increases the efficiency of energy absorbed and used by the golem by 10% for digestive system added.-->
+  <TM_FleshGolem_DigestiveOrgans.description>Increases the efficiency of energy absorbed and used by the golem by 10% for digestive system added.</TM_FleshGolem_DigestiveOrgans.description>
+  <!--EN: adding digestive organs-->
+  <TM_FleshGolem_DigestiveOrgans.jobString>adding digestive organs</TM_FleshGolem_DigestiveOrgans.jobString>
+  <!--EN: add digestive organs-->
+  <TM_FleshGolem_DigestiveOrgans.label>add digestive organs</TM_FleshGolem_DigestiveOrgans.label>
+  <!--EN: Increases the rate energy dispersed throughout the golem.-->
+  <TM_FleshGolem_EnergySynthesis.description>Increases the rate energy dispersed throughout the golem.</TM_FleshGolem_EnergySynthesis.description>
+  <!--EN: improving muscle metabolism-->
+  <TM_FleshGolem_EnergySynthesis.jobString>improving muscle metabolism</TM_FleshGolem_EnergySynthesis.jobString>
+  <!--EN: enhance nutrient absorption-->
+  <TM_FleshGolem_EnergySynthesis.label>enhance nutrient absorption</TM_FleshGolem_EnergySynthesis.label>
+  <!--EN: Inserts a pair of eyes underneath the original pair that improve vision and reduces the chance the golem can be fully blinded.-->
+  <TM_FleshGolem_EyesT1.description>Inserts a pair of eyes underneath the original pair that improve vision and reduces the chance the golem can be fully blinded.</TM_FleshGolem_EyesT1.description>
+  <!--EN: insert eyes-->
+  <TM_FleshGolem_EyesT1.jobString>insert eyes</TM_FleshGolem_EyesT1.jobString>
+  <!--EN: insert quad-eyes-->
+  <TM_FleshGolem_EyesT1.label>insert quad-eyes</TM_FleshGolem_EyesT1.label>
+  <!--EN: Carves an eye socket into the forehead of a flesh golem that is filled with molded magicyte in the shape of an eye. Arcane symbols are etched around the eye, forming a magical link between the golem and the eye. The evil eye is able to manifest the suppressed rage of the flesh golem to curse their target with feebleness.-->
+  <TM_FleshGolem_EyesT2.description>Carves an eye socket into the forehead of a flesh golem that is filled with molded magicyte in the shape of an eye. Arcane symbols are etched around the eye, forming a magical link between the golem and the eye. The evil eye is able to manifest the suppressed rage of the flesh golem to curse their target with feebleness.</TM_FleshGolem_EyesT2.description>
+  <!--EN: carving evil eye-->
+  <TM_FleshGolem_EyesT2.jobString>carving evil eye</TM_FleshGolem_EyesT2.jobString>
+  <!--EN: carve evil eye-->
+  <TM_FleshGolem_EyesT2.label>carve evil eye</TM_FleshGolem_EyesT2.label>
+  <!--EN: Attaches horns into the skull of a flesh golem. Horns grant the flesh golem the lethal gore attack and allows the golem to charge into battle.-->
+  <TM_FleshGolem_Horns.description>Attaches horns into the skull of a flesh golem. Horns grant the flesh golem the lethal gore attack and allows the golem to charge into battle.</TM_FleshGolem_Horns.description>
+  <!--EN: attaching horns-->
+  <TM_FleshGolem_Horns.jobString>attaching horns</TM_FleshGolem_Horns.jobString>
+  <!--EN: attach horns-->
+  <TM_FleshGolem_Horns.label>attach horns</TM_FleshGolem_Horns.label>
+  <!--EN: Adds a metallic bracer to the arm of a flesh golem to increase blunt damage and allow blocking.-->
+  <TM_FleshGolem_LeftArm_Bracer.description>Adds a metallic bracer to the arm of a flesh golem to increase blunt damage and allow blocking.</TM_FleshGolem_LeftArm_Bracer.description>
+  <!--EN: crafting golem bracer-->
+  <TM_FleshGolem_LeftArm_Bracer.jobString>crafting golem bracer</TM_FleshGolem_LeftArm_Bracer.jobString>
+  <!--EN: craft golem left bracer-->
+  <TM_FleshGolem_LeftArm_Bracer.label>craft golem left bracer</TM_FleshGolem_LeftArm_Bracer.label>
+  <!--EN: Adds a metallic cleaver to the arm of a flesh golem, enabling an AoE cutting attack and allows the golem the ability to harvest plants.-->
+  <TM_FleshGolem_LeftArm_Cleaver.description>Adds a metallic cleaver to the arm of a flesh golem, enabling an AoE cutting attack and allows the golem the ability to harvest plants.</TM_FleshGolem_LeftArm_Cleaver.description>
+  <!--EN: crafting golem cleaver-->
+  <TM_FleshGolem_LeftArm_Cleaver.jobString>crafting golem cleaver</TM_FleshGolem_LeftArm_Cleaver.jobString>
+  <!--EN: craft golem left cleaver-->
+  <TM_FleshGolem_LeftArm_Cleaver.label>craft golem left cleaver</TM_FleshGolem_LeftArm_Cleaver.label>
+  <!--EN: Grafts metal plates around the legs of a flesh golem.-->
+  <TM_FleshGolem_LegPlates.description>Grafts metal plates around the legs of a flesh golem.</TM_FleshGolem_LegPlates.description>
+  <!--EN: grafting leg plates-->
+  <TM_FleshGolem_LegPlates.jobString>grafting leg plates</TM_FleshGolem_LegPlates.jobString>
+  <!--EN: graft leg plates-->
+  <TM_FleshGolem_LegPlates.label>graft leg plates</TM_FleshGolem_LegPlates.label>
+  <!--EN: Enhances the flesh golem by removing excess or unnecessary body parts or organs and replacing them with extra muscle tissues, sinew and bone to further shape the flesh golem into a lethal abomination. This upgrade provides the following benefits per upgrade level [1/2/3]:
+Movement:	+[20%/35%/50%]
+Health:		+[30%/50%/70%]
+
+In addition, this upgrade allows the flesh golem to use their rage to tear the limbs off their enemies.-->
+  <TM_FleshGolem_LifeStage.description>Enhances the flesh golem by removing excess or unnecessary body parts or organs and replacing them with extra muscle tissues, sinew and bone to further shape the flesh golem into a lethal abomination. This upgrade provides the following benefits per upgrade level [1/2/3]:
+Movement:	+[20%/35%/50%]
+Health:		+[30%/50%/70%]
+
+In addition, this upgrade allows the flesh golem to use their rage to tear the limbs off their enemies.</TM_FleshGolem_LifeStage.description>
+  <!--EN: enhancing flesh golem-->
+  <TM_FleshGolem_LifeStage.jobString>enhancing flesh golem</TM_FleshGolem_LifeStage.jobString>
+  <!--EN: enhance automaton biomass-->
+  <TM_FleshGolem_LifeStage.label>enhance automaton biomass</TM_FleshGolem_LifeStage.label>
+  <!--EN: Grafts muscle tissue onto the golem to enhance strength and endurance.-->
+  <TM_FleshGolem_MuscleTissue.description>Grafts muscle tissue onto the golem to enhance strength and endurance.</TM_FleshGolem_MuscleTissue.description>
+  <!--EN: grafting muscle tissue-->
+  <TM_FleshGolem_MuscleTissue.jobString>grafting muscle tissue</TM_FleshGolem_MuscleTissue.jobString>
+  <!--EN: graft muscle tissue-->
+  <TM_FleshGolem_MuscleTissue.label>graft muscle tissue</TM_FleshGolem_MuscleTissue.label>
+  <!--EN: Restores missing golem parts that do not require a specific upgrade.-->
+  <TM_FleshGolem_RestorePart.description>Restores missing golem parts that do not require a specific upgrade.</TM_FleshGolem_RestorePart.description>
+  <!--EN: grafting golem part-->
+  <TM_FleshGolem_RestorePart.jobString>grafting golem part</TM_FleshGolem_RestorePart.jobString>
+  <!--EN: restore body part-->
+  <TM_FleshGolem_RestorePart.label>restore body part</TM_FleshGolem_RestorePart.label>
+  <!--EN: Adds a metallic bracer to the arm of a flesh golem to increase blunt damage and allow blocking.-->
+  <TM_FleshGolem_RightArm_Bracer.description>Adds a metallic bracer to the arm of a flesh golem to increase blunt damage and allow blocking.</TM_FleshGolem_RightArm_Bracer.description>
+  <!--EN: crafting golem bracer-->
+  <TM_FleshGolem_RightArm_Bracer.jobString>crafting golem bracer</TM_FleshGolem_RightArm_Bracer.jobString>
+  <!--EN: craft golem right bracer-->
+  <TM_FleshGolem_RightArm_Bracer.label>craft golem right bracer</TM_FleshGolem_RightArm_Bracer.label>
+  <!--EN: Adds a metallic cleaver to the arm of a flesh golem, enabling an AoE cutting attack and allows the golem the ability to cut down trees.-->
+  <TM_FleshGolem_RightArm_Cleaver.description>Adds a metallic cleaver to the arm of a flesh golem, enabling an AoE cutting attack and allows the golem the ability to cut down trees.</TM_FleshGolem_RightArm_Cleaver.description>
+  <!--EN: crafting golem cleaver-->
+  <TM_FleshGolem_RightArm_Cleaver.jobString>crafting golem cleaver</TM_FleshGolem_RightArm_Cleaver.jobString>
+  <!--EN: craft golem right cleaver-->
+  <TM_FleshGolem_RightArm_Cleaver.label>craft golem right cleaver</TM_FleshGolem_RightArm_Cleaver.label>
+  <!--EN: Grafts metal plates onto the shoulders of a flesh golem.-->
+  <TM_FleshGolem_ShoulderPlates.description>Grafts metal plates onto the shoulders of a flesh golem.</TM_FleshGolem_ShoulderPlates.description>
+  <!--EN: grafting shoulder plates-->
+  <TM_FleshGolem_ShoulderPlates.jobString>grafting shoulder plates</TM_FleshGolem_ShoulderPlates.jobString>
+  <!--EN: graft shoulder plates-->
+  <TM_FleshGolem_ShoulderPlates.label>graft shoulder plates</TM_FleshGolem_ShoulderPlates.label>
+  <!--EN: Grafts a metal plate around the skull of a flesh golem.-->
+  <TM_FleshGolem_SkullPlate.description>Grafts a metal plate around the skull of a flesh golem.</TM_FleshGolem_SkullPlate.description>
+  <!--EN: grafting skull plate-->
+  <TM_FleshGolem_SkullPlate.jobString>grafting skull plate</TM_FleshGolem_SkullPlate.jobString>
+  <!--EN: graft skull plate-->
+  <TM_FleshGolem_SkullPlate.label>graft skull plate</TM_FleshGolem_SkullPlate.label>
+  <!--EN: Improves back armor by grafting a shell made from the bones of a corpse along the spinal column of a flesh golem.-->
+  <TM_FleshGolem_SpineGuard.description>Improves back armor by grafting a shell made from the bones of a corpse along the spinal column of a flesh golem.</TM_FleshGolem_SpineGuard.description>
+  <!--EN: attaching spine bone plate-->
+  <TM_FleshGolem_SpineGuard.jobString>attaching spine bone plate</TM_FleshGolem_SpineGuard.jobString>
+  <!--EN: attach spine guard-->
+  <TM_FleshGolem_SpineGuard.label>attach spine guard</TM_FleshGolem_SpineGuard.label>
+  <!--EN: Inserts tusks into the mandibles of a flesh golem.-->
+  <TM_FleshGolem_Tusks.description>Inserts tusks into the mandibles of a flesh golem.</TM_FleshGolem_Tusks.description>
+  <!--EN: attaching golem tusks-->
+  <TM_FleshGolem_Tusks.jobString>attaching golem tusks</TM_FleshGolem_Tusks.jobString>
+  <!--EN: attach tusks-->
+  <TM_FleshGolem_Tusks.label>attach tusks</TM_FleshGolem_Tusks.label>
+  <!--EN: Increases speed and balance by grafting wings into the back of a flesh golem. These wings are not intended for flight, rather they serve the golem by helping it offset some of its considerable bulk during combat.-->
+  <TM_FleshGolem_Wings.description>Increases speed and balance by grafting wings into the back of a flesh golem. These wings are not intended for flight, rather they serve the golem by helping it offset some of its considerable bulk during combat.</TM_FleshGolem_Wings.description>
+  <!--EN: attaching wings-->
+  <TM_FleshGolem_Wings.jobString>attaching wings</TM_FleshGolem_Wings.jobString>
+  <!--EN: attach wings-->
+  <TM_FleshGolem_Wings.label>attach wings</TM_FleshGolem_Wings.label>
+</LanguageData>

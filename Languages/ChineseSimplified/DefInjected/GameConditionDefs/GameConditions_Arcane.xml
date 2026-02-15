@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: A foreboding shadow has been cast over the land; there is an ominous presence in the dark shadow of these clouds that curses the living.-->
+  <DarkClouds.description>A foreboding shadow has been cast over the land; there is an ominous presence in the dark shadow of these clouds that curses the living.</DarkClouds.description>
+  <!--EN: The dark clouds are dispersing.-->
+  <DarkClouds.endMessage>The dark clouds are dispersing.</DarkClouds.endMessage>
+  <!--EN: dark clouds-->
+  <DarkClouds.label>dark clouds</DarkClouds.label>
+  <!--EN: A foreboding shadow has been cast over the land; there is an ominous presence in the dark shadow of these clouds that curses the living.-->
+  <DarkClouds.letterText>A foreboding shadow has been cast over the land; there is an ominous presence in the dark shadow of these clouds that curses the living.</DarkClouds.letterText>
+  <!--EN: There is a malicious energy hidden within these dark clouds.-->
+  <DarkThunderstorm.description>There is a malicious energy hidden within these dark clouds.</DarkThunderstorm.description>
+  <!--EN: The violent thunderstorm is receding.-->
+  <DarkThunderstorm.endMessage>The violent thunderstorm is receding.</DarkThunderstorm.endMessage>
+  <!--EN: Violent Storm-->
+  <DarkThunderstorm.label>Violent Storm</DarkThunderstorm.label>
+  <!--EN: The end is nigh - rampaging demons are attacking your colony!\nLike a herald to impending doom, fire and ash have begun falling from the skies.\n\nThese infernal beings have an assortment of attacks and challenging tactics.\nHowever, demons are unable to remain in this realm for extended periods and will be force to return to their hellish plane in about 3 hours. Defeat or outlast this nightmare.\nThere is very little time to prepare.\n\nGood luck!-->
+  <DemonAssault.description>The end is nigh - rampaging demons are attacking your colony!\nLike a herald to impending doom, fire and ash have begun falling from the skies.\n\nThese infernal beings have an assortment of attacks and challenging tactics.\nHowever, demons are unable to remain in this realm for extended periods and will be force to return to their hellish plane in about 3 hours. Defeat or outlast this nightmare.\nThere is very little time to prepare.\n\nGood luck!</DemonAssault.description>
+  <!--EN: The demons have returned to their infernal plane.-->
+  <DemonAssault.endMessage>The demons have returned to their infernal plane.</DemonAssault.endMessage>
+  <!--EN: demon attack-->
+  <DemonAssault.label>demon attack</DemonAssault.label>
+  <!--EN: demon attack-->
+  <DemonAssault.label>demon attack</DemonAssault.label>
+  <!--EN: Demon attack-->
+  <DemonAssault.letterLabel>Demon attack</DemonAssault.letterLabel>
+  <!--EN: The end is nigh - rampaging demons are attacking your colony!\nLike a herald to impending doom, fire and ash have begun falling from the skies.\n\nThese infernal beings have an assortment of attacks and challenging tactics.\nHowever, demons are unable to remain in this realm for extended periods and will be force to return to their hellish plane in about 3 hours. Defeat or outlast this nightmare.\nThere is very little time to prepare.\n\nGood luck!-->
+  <DemonAssault.letterText>The end is nigh - rampaging demons are attacking your colony!\nLike a herald to impending doom, fire and ash have begun falling from the skies.\n\nThese infernal beings have an assortment of attacks and challenging tactics.\nHowever, demons are unable to remain in this realm for extended periods and will be force to return to their hellish plane in about 3 hours. Defeat or outlast this nightmare.\nThere is very little time to prepare.\n\nGood luck!</DemonAssault.letterText>
+  <!--EN: The end is nigh - rampaging demons are attacking your colony!\nLike a herald to impending doom, fire and ash have begun falling from the skies.\n\nThese infernal beings have an assortment of attacks and challenging tactics.\nHowever, demons are unable to remain in this realm for extended periods and will be force to return to their hellish plane in about 3 hours. Defeat or outlast this nightmare.\nThere is very little time to prepare.\n\nGood luck!-->
+  <DemonAssault.letterText>The end is nigh - rampaging demons are attacking your colony!\nLike a herald to impending doom, fire and ash have begun falling from the skies.\n\nThese infernal beings have an assortment of attacks and challenging tactics.\nHowever, demons are unable to remain in this realm for extended periods and will be force to return to their hellish plane in about 3 hours. Defeat or outlast this nightmare.\nThere is very little time to prepare.\n\nGood luck!</DemonAssault.letterText>
+  <!--EN: mana sickness-->
+  <Disease_ManaSickness.label>mana sickness</Disease_ManaSickness.label>
+  <!--EN: Mana sickness-->
+  <Disease_ManaSickness.letterLabel>Mana sickness</Disease_ManaSickness.letterLabel>
+  <!--EN: {0} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.  During this period {0} will be unable to gain mana.-->
+  <Disease_ManaSickness.letterText>{0} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.  During this period {0} will be unable to gain mana.</Disease_ManaSickness.letterText>
+  <!--EN: A higher power answers your plea for mercy.-->
+  <DivineBlessing.description>A higher power answers your plea for mercy.</DivineBlessing.description>
+  <!--EN: The benevolent presence fades away.-->
+  <DivineBlessing.endMessage>The benevolent presence fades away.</DivineBlessing.endMessage>
+  <!--EN: divine blessing-->
+  <DivineBlessing.label>divine blessing</DivineBlessing.label>
+  <!--EN: Your plea for mercy has been answered by a higher power. Various blessings have been bestowed to contest existing ailments.-->
+  <DivineBlessing.letterText>Your plea for mercy has been answered by a higher power. Various blessings have been bestowed to contest existing ailments.</DivineBlessing.letterText>
+  <!--EN: Hostile elementals have created a breach into your world and are preparing to send assault teams through the rift!\n\nRifts cause mayhem in the atmosphere as energy leaks through the rift into your world. The following effects occur for each rift element:\n\nFire Rift: meteor showers and heat waves.\nEarth Rift: toxic fumes and causes animals to go berserk\nIce Rift: hailstorms and rapid decline in temperature\nAir Rift: lightning storms-->
+  <ElementalAssault.description>Hostile elementals have created a breach into your world and are preparing to send assault teams through the rift!\n\nRifts cause mayhem in the atmosphere as energy leaks through the rift into your world. The following effects occur for each rift element:\n\nFire Rift: meteor showers and heat waves.\nEarth Rift: toxic fumes and causes animals to go berserk\nIce Rift: hailstorms and rapid decline in temperature\nAir Rift: lightning storms</ElementalAssault.description>
+  <!--EN: The rift has closed.-->
+  <ElementalAssault.endMessage>The rift has closed.</ElementalAssault.endMessage>
+  <!--EN: elemental assault-->
+  <ElementalAssault.label>elemental assault</ElementalAssault.label>
+  <!--EN: elemental assault-->
+  <ElementalAssault.label>elemental assault</ElementalAssault.label>
+  <!--EN: Elemental assault-->
+  <ElementalAssault.letterLabel>Elemental assault</ElementalAssault.letterLabel>
+  <!--EN: Hostile elementals have created a breach into your world and are preparing to send assault teams through the rift!\n\nRifts cause mayhem in the atmosphere as energy leaks through the rift into your world. The following effects occur for each rift element:\n\nFire Rift: meteor showers and heat waves.\nEarth Rift: toxic fumes and causes animals to go berserk\nIce Rift: hailstorms and rapid decline in temperature\nAir Rift: lightning storms\n\nDestroy the rift to end this nightmare!-->
+  <ElementalAssault.letterText>Hostile elementals have created a breach into your world and are preparing to send assault teams through the rift!\n\nRifts cause mayhem in the atmosphere as energy leaks through the rift into your world. The following effects occur for each rift element:\n\nFire Rift: meteor showers and heat waves.\nEarth Rift: toxic fumes and causes animals to go berserk\nIce Rift: hailstorms and rapid decline in temperature\nAir Rift: lightning storms\n\nDestroy the rift to end this nightmare!</ElementalAssault.letterText>
+  <!--EN: Hostile elementals have created a breach into your world and are preparing to send assault teams through the rift!\n\nRifts cause mayhem in the atmosphere as energy leaks through the rift into your world. The following effects occur for each rift element:\n\nFire Rift: meteor showers and heat waves.\nEarth Rift: toxic fumes and causes animals to go berserk\nIce Rift: hailstorms and rapid decline in temperature\nAir Rift: lightning storms\n\nDestroy the rift to end this nightmare!-->
+  <ElementalAssault.letterText>Hostile elementals have created a breach into your world and are preparing to send assault teams through the rift!\n\nRifts cause mayhem in the atmosphere as energy leaks through the rift into your world. The following effects occur for each rift element:\n\nFire Rift: meteor showers and heat waves.\nEarth Rift: toxic fumes and causes animals to go berserk\nIce Rift: hailstorms and rapid decline in temperature\nAir Rift: lightning storms\n\nDestroy the rift to end this nightmare!</ElementalAssault.letterText>
+  <!--EN: The planet's celestial alignment is causing an ebb in mana.  All creatures attuned with magical powers will slowly lose power.-->
+  <ManaDrain.description>The planet&amp;apos;s celestial alignment is causing an ebb in mana.  All creatures attuned with magical powers will slowly lose power.</ManaDrain.description>
+  <!--EN: Magic is returning to normal.-->
+  <ManaDrain.endMessage>Magic is returning to normal.</ManaDrain.endMessage>
+  <!--EN: mana drain-->
+  <ManaDrain.label>mana drain</ManaDrain.label>
+  <!--EN: mana drain-->
+  <ManaDrain.label>mana drain</ManaDrain.label>
+  <!--EN: Mana drain-->
+  <ManaDrain.letterLabel>Mana drain</ManaDrain.letterLabel>
+  <!--EN: The planet's celestial alignment is shifting, causing an ebb in mana.\n\nAll creatures attuned with magical powers will slowly lose mana and will become physically ill if they have no mana remaining.-->
+  <ManaDrain.letterText>The planet&amp;apos;s celestial alignment is shifting, causing an ebb in mana.\n\nAll creatures attuned with magical powers will slowly lose mana and will become physically ill if they have no mana remaining.</ManaDrain.letterText>
+  <!--EN: The planet's celestial alignment is shifting, causing an ebb in mana.\n\nAll creatures attuned with magical powers will slowly lose mana.\n\nCreatures may become physically ill if they have no mana remaining.-->
+  <ManaDrain.letterText>The planet&amp;apos;s celestial alignment is shifting, causing an ebb in mana.\n\nAll creatures attuned with magical powers will slowly lose mana.\n\nCreatures may become physically ill if they have no mana remaining.</ManaDrain.letterText>
+  <!--EN: The planet's celestial alignment is causing a surge in mana.  All creatures attuned with magical powers will gain mana at an increased rate.-->
+  <ManaSurge.description>The planet&amp;apos;s celestial alignment is causing a surge in mana.  All creatures attuned with magical powers will gain mana at an increased rate.</ManaSurge.description>
+  <!--EN: Magic is returning to normal.-->
+  <ManaSurge.endMessage>Magic is returning to normal.</ManaSurge.endMessage>
+  <!--EN: mana surge-->
+  <ManaSurge.label>mana surge</ManaSurge.label>
+  <!--EN: mana surge-->
+  <ManaSurge.label>mana surge</ManaSurge.label>
+  <!--EN: Mana surge-->
+  <ManaSurge.letterLabel>Mana surge</ManaSurge.letterLabel>
+  <!--EN: The planet's celestial alignment has shifted, causing a surge in mana.  All creatures attuned with magical powers will gain mana at an increased rate.-->
+  <ManaSurge.letterText>The planet&amp;apos;s celestial alignment has shifted, causing a surge in mana.  All creatures attuned with magical powers will gain mana at an increased rate.</ManaSurge.letterText>
+  <!--EN: The planet's celestial alignment has shifted, causing a surge in mana.  All creatures attuned with magical powers will gain mana at an increased rate.-->
+  <ManaSurge.letterText>The planet&amp;apos;s celestial alignment has shifted, causing a surge in mana.  All creatures attuned with magical powers will gain mana at an increased rate.</ManaSurge.letterText>
+  <!--EN: Chaotic forces are causing a dangerous mana storm. During a mana storm, attempts to use mana to realize magical intent external to the caster will harm the caster proportionally to the mana cost of the spell. This damage is applied before the spell incantation begins. Unformed used of mana and internal use of magic, such as the transfer of mana or dispelling an enchantment, remains unaffected. Magic circles or foci cannot be used during this event. While the mana storm is active, energy costs are halved and mana reduction limit is removed..-->
+  <TM_ManaStorm.description>Chaotic forces are causing a dangerous mana storm. During a mana storm, attempts to use mana to realize magical intent external to the caster will harm the caster proportionally to the mana cost of the spell. This damage is applied before the spell incantation begins. Unformed used of mana and internal use of magic, such as the transfer of mana or dispelling an enchantment, remains unaffected. Magic circles or foci cannot be used during this event. While the mana storm is active, energy costs are halved and mana reduction limit is removed..</TM_ManaStorm.description>
+  <!--EN: Magic is returning to normal.-->
+  <TM_ManaStorm.endMessage>Magic is returning to normal.</TM_ManaStorm.endMessage>
+  <!--EN: mana storm-->
+  <TM_ManaStorm.label>mana storm</TM_ManaStorm.label>
+  <!--EN: mana storm-->
+  <TM_ManaStorm.label>mana storm</TM_ManaStorm.label>
+  <!--EN: Mana storm-->
+  <TM_ManaStorm.letterLabel>Mana storm</TM_ManaStorm.letterLabel>
+  <!--EN: Chaotic forces are causing a dangerous tide of mana.\n\nDuring a mana storm, attempts to use mana to realize magical intent external to the caster will harm the caster proportionally to the mana cost of the spell. This damage is applied before the spell incantation begins. Unformed used of mana and internal use of magic, such as the transfer of mana or dispelling an enchantment, remains unaffected. Magic circles or foci cannot be used during this event. While the mana storm is active, energy costs are halved and mana reduction limit is removed..-->
+  <TM_ManaStorm.letterText>Chaotic forces are causing a dangerous tide of mana.\n\nDuring a mana storm, attempts to use mana to realize magical intent external to the caster will harm the caster proportionally to the mana cost of the spell. This damage is applied before the spell incantation begins. Unformed used of mana and internal use of magic, such as the transfer of mana or dispelling an enchantment, remains unaffected. Magic circles or foci cannot be used during this event. While the mana storm is active, energy costs are halved and mana reduction limit is removed..</TM_ManaStorm.letterText>
+  <!--EN: Chaotic forces are causing a dangerous mana tides.\n\nDuring a mana storm, attempts to use mana to realize magical intent external to the caster will harm the caster proportionally to the mana cost of the spell. This damage is applied before the spell incantation begins. Unformed use of mana and internal use of magic, such as the transfer of mana or dispelling an enchantment is unaffected. Magic circles or foci cannot be used during this event. While the mana storm is active, energy costs are halved and mana reduction limit is removed.-->
+  <TM_ManaStorm.letterText>Chaotic forces are causing a dangerous mana tides.\n\nDuring a mana storm, attempts to use mana to realize magical intent external to the caster will harm the caster proportionally to the mana cost of the spell. This damage is applied before the spell incantation begins. Unformed use of mana and internal use of magic, such as the transfer of mana or dispelling an enchantment is unaffected. Magic circles or foci cannot be used during this event. While the mana storm is active, energy costs are halved and mana reduction limit is removed.</TM_ManaStorm.letterText>
+  <!--EN: A psychic pulse enrages nearby predators... and nudges them towards aggressive humans.-->
+  <TargetedPredatorInsanity.description>A psychic pulse enrages nearby predators... and nudges them towards aggressive humans.</TargetedPredatorInsanity.description>
+  <!--EN: The predator pulse fades.-->
+  <TargetedPredatorInsanity.endMessage>The predator pulse fades.</TargetedPredatorInsanity.endMessage>
+  <!--EN: predator insanity-->
+  <TargetedPredatorInsanity.label>predator insanity</TargetedPredatorInsanity.label>
+  <!--EN: You have enraged all nearby predators and focused them on your enemies. Be warned, the enraged animals will continue to hunt even after your enemies are gone.-->
+  <TargetedPredatorInsanity.letterText>You have enraged all nearby predators and focused them on your enemies. Be warned, the enraged animals will continue to hunt even after your enemies are gone.</TargetedPredatorInsanity.letterText>
+  <!--EN: An ancient lich has wandered into the area and is preparing to assault your colony.\n\nLichs are powerful creatures by themselves, but their true strength resides in their ability to create animated undead from the corpses of the deceased.\n\nThis lich is an ancient being that despises all life, and your merry band of living -things- has so far resisted being snuffed out. It will actively seek to end your story of survival by creating a horde of undead to overwhelm your defenses.\n\nThe lich will periodically create new skeleton warriors to attack the colony; allowing the lich to complete a ritual near an exposed corpse will increase the chance skeleton giants are created. Ultimately, the lich will assault the colony itself, if waves of undead are unable to complete the task first.-->
+  <WanderingLich.description>An ancient lich has wandered into the area and is preparing to assault your colony.\n\nLichs are powerful creatures by themselves, but their true strength resides in their ability to create animated undead from the corpses of the deceased.\n\nThis lich is an ancient being that despises all life, and your merry band of living -things- has so far resisted being snuffed out. It will actively seek to end your story of survival by creating a horde of undead to overwhelm your defenses.\n\nThe lich will periodically create new skeleton warriors to attack the colony; allowing the lich to complete a ritual near an exposed corpse will increase the chance skeleton giants are created. Ultimately, the lich will assault the colony itself, if waves of undead are unable to complete the task first.</WanderingLich.description>
+  <!--EN: The lich's assault is coming to an end.-->
+  <WanderingLich.endMessage>The lich&amp;apos;s assault is coming to an end.</WanderingLich.endMessage>
+  <!--EN: Wandering lich-->
+  <WanderingLich.label>Wandering lich</WanderingLich.label>
+  <!--EN: Wandering lich-->
+  <WanderingLich.label>Wandering lich</WanderingLich.label>
+  <!--EN: Wandering lich-->
+  <WanderingLich.letterLabel>Wandering lich</WanderingLich.letterLabel>
+  <!--EN: An ancient lich has wandered into the area and is preparing to assault your colony.\n\nLichs are powerful creatures by themselves, but their true strength resides in their ability to create animated undead from the corpses of the deceased.\n\nThis lich is an ancient being that despises all life, and your merry band of living -things- has so far resisted being snuffed out. It will actively seek to end your story of survival by creating a horde of undead to overwhelm your defenses.\n\nThe lich will periodically create new skeleton warriors to attack the colony; allowing the lich to complete a ritual near an exposed corpse will increase the chance skeleton giants are created. Ultimately, the lich will assault the colony itself, if waves of undead are unable to complete the task first.-->
+  <WanderingLich.letterText>An ancient lich has wandered into the area and is preparing to assault your colony.\n\nLichs are powerful creatures by themselves, but their true strength resides in their ability to create animated undead from the corpses of the deceased.\n\nThis lich is an ancient being that despises all life, and your merry band of living -things- has so far resisted being snuffed out. It will actively seek to end your story of survival by creating a horde of undead to overwhelm your defenses.\n\nThe lich will periodically create new skeleton warriors to attack the colony; allowing the lich to complete a ritual near an exposed corpse will increase the chance skeleton giants are created. Ultimately, the lich will assault the colony itself, if waves of undead are unable to complete the task first.</WanderingLich.letterText>
+  <!--EN: An ancient lich has wandered into the area and is preparing to assault your colony.\n\nLichs are powerful creatures by themselves, but their true strength resides in their ability to create animated undead from the corpses of the deceased.\n\nThis lich is an ancient being that despises all life, and your merry band of living -things- has so far resisted being snuffed out. It will actively seek to end your story of survival by creating a horde of undead to overwhelm your defenses.\n\nThe lich will periodically create new skeleton warriors to attack the colony; allowing the lich to complete a ritual near an exposed corpse will increase the chance skeleton giants are created. Ultimately, the lich will assault the colony itself, if waves of undead are unable to complete the task first.-->
+  <WanderingLich.letterText>An ancient lich has wandered into the area and is preparing to assault your colony.\n\nLichs are powerful creatures by themselves, but their true strength resides in their ability to create animated undead from the corpses of the deceased.\n\nThis lich is an ancient being that despises all life, and your merry band of living -things- has so far resisted being snuffed out. It will actively seek to end your story of survival by creating a horde of undead to overwhelm your defenses.\n\nThe lich will periodically create new skeleton warriors to attack the colony; allowing the lich to complete a ritual near an exposed corpse will increase the chance skeleton giants are created. Ultimately, the lich will assault the colony itself, if waves of undead are unable to complete the task first.</WanderingLich.letterText>
+</LanguageData>

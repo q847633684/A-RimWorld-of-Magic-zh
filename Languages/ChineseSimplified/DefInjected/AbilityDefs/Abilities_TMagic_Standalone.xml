@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: flying object-->
+  <FlyingObject_DirtDevil.label>flying object</FlyingObject_DirtDevil.label>
+  <!--EN: flying object-->
+  <FlyingObject_Flight.label>flying object</FlyingObject_Flight.label>
+  <!--EN: lightning-->
+  <FlyingObject_LightningTrap.label>lightning</FlyingObject_LightningTrap.label>
+  <!--EN: arcane bolt-->
+  <Projectile_ArcaneBolt.label>arcane bolt</Projectile_ArcaneBolt.label>
+  <!--EN: briar patch-->
+  <Projectile_BriarPatch.label>briar patch</Projectile_BriarPatch.label>
+  <!--EN: charge battery-->
+  <Projectile_ChargeBattery.label>charge battery</Projectile_ChargeBattery.label>
+  <!--EN: spawn magic cooler-->
+  <Projectile_Cooler.label>spawn magic cooler</Projectile_Cooler.label>
+  <!--EN: dirt devil-->
+  <Projectile_DirtDevil.label>dirt devil</Projectile_DirtDevil.label>
+  <!--EN: dry ground-->
+  <Projectile_DryGround.label>dry ground</Projectile_DryGround.label>
+  <!--EN: EMP-->
+  <Projectile_EMP.label>EMP</Projectile_EMP.label>
+  <!--EN: extinguish-->
+  <Projectile_Extinguish.label>extinguish</Projectile_Extinguish.label>
+  <!--EN: fertile lands-->
+  <Projectile_FertileLands.label>fertile lands</Projectile_FertileLands.label>
+  <!--EN: flight-->
+  <Projectile_Flight.label>flight</Projectile_Flight.label>
+  <!--EN: spawn magic heater-->
+  <Projectile_Heater.label>spawn magic heater</Projectile_Heater.label>
+  <!--EN: spawn arcane power node-->
+  <Projectile_PowerNode.label>spawn arcane power node</Projectile_PowerNode.label>
+  <!--EN: siphon mana-->
+  <Projectile_SiphonMana.label>siphon mana</Projectile_SiphonMana.label>
+  <!--EN: smoke cloud-->
+  <Projectile_SmokeCloud.label>smoke cloud</Projectile_SmokeCloud.label>
+  <!--EN: spawn magic light-->
+  <Projectile_Sunlight.label>spawn magic light</Projectile_Sunlight.label>
+  <!--EN: spawn magical item-->
+  <Projectile_TM_SpawnThing.label>spawn magical item</Projectile_TM_SpawnThing.label>
+  <!--EN: Tempest strike-->
+  <Projectile_TempestStrike.label>Tempest strike</Projectile_TempestStrike.label>
+  <!--EN: Throwing Knife-->
+  <Projectile_ThrowingKnife.label>Throwing Knife</Projectile_ThrowingKnife.label>
+  <!--EN: transfer mana-->
+  <Projectile_TransferMana.label>transfer mana</Projectile_TransferMana.label>
+  <!--EN: moisturize ground-->
+  <Projectile_WetGround.label>moisturize ground</Projectile_WetGround.label>
+  <!--EN: Alters the weather to create new conditions. Rainy storms will be changed to healing rain. Snow will be changed to a hailstorm. The hailstorm can be partially controlled by directing the hail towards enemies on the map, but once this weather even is started it must run its course and cannot be influenced by rainmaker.-->
+  <TM_AlterStorm.description>Alters the weather to create new conditions. Rainy storms will be changed to healing rain. Snow will be changed to a hailstorm. The hailstorm can be partially controlled by directing the hail towards enemies on the map, but once this weather even is started it must run its course and cannot be influenced by rainmaker.</TM_AlterStorm.description>
+  <!--EN: Alter Storm-->
+  <TM_AlterStorm.label>Alter Storm</TM_AlterStorm.label>
+  <!--EN: Creates an arcane barrier at the target location that is horizontal to the caster. The barrier lasts 60 seconds.-->
+  <TM_ArcaneBarrier.description>Creates an arcane barrier at the target location that is horizontal to the caster. The barrier lasts 60 seconds.</TM_ArcaneBarrier.description>
+  <!--EN: Arcane Barrier-->
+  <TM_ArcaneBarrier.label>Arcane Barrier</TM_ArcaneBarrier.label>
+  <!--EN: Launches a bolt of raw arcane energy. This ability will slowly grow in power based on the casters magic level.
+
+Arcane Bolt is inefficient because of the unrefined nature of the spell, but it can be learned and cast by any mage capable of violence.-->
+  <TM_ArcaneBolt.description>Launches a bolt of raw arcane energy. This ability will slowly grow in power based on the casters magic level.
+
+Arcane Bolt is inefficient because of the unrefined nature of the spell, but it can be learned and cast by any mage capable of violence.</TM_ArcaneBolt.description>
+  <!--EN: Arcane Bolt-->
+  <TM_ArcaneBolt.label>Arcane Bolt</TM_ArcaneBolt.label>
+  <!--EN: Wipes the memories of a pawn and breaks them out of any mental state but will induce a brief period of confusion as they gather their wits. When used on enemies, it will apply a mental freeze, stunning the enemy for a brief period.
+		
+AoE effects are only applied when the primary target is not a friendly pawn. Friendly pawns will lose both good and bad memories.-->
+  <TM_BlankMind.description>Wipes the memories of a pawn and breaks them out of any mental state but will induce a brief period of confusion as they gather their wits. When used on enemies, it will apply a mental freeze, stunning the enemy for a brief period.
+		
+AoE effects are only applied when the primary target is not a friendly pawn. Friendly pawns will lose both good and bad memories.</TM_BlankMind.description>
+  <!--EN: Blank Mind-->
+  <TM_BlankMind.label>Blank Mind</TM_BlankMind.label>
+  <!--EN: Additional 20% chance to avoid all attacks by distorting light around the caster. Requires 20 mana to sustain and reduces mana regeneration by 10%. Re-use the ability to deactivate blur.-->
+  <TM_Blur.description>Additional 20% chance to avoid all attacks by distorting light around the caster. Requires 20 mana to sustain and reduces mana regeneration by 10%. Re-use the ability to deactivate blur.</TM_Blur.description>
+  <!--EN: Blur-->
+  <TM_Blur.label>Blur</TM_Blur.label>
+  <!--EN: Creates a hazard made of thorny vines. Any movement over the affected area will be slowed, and creatures moving through the briar patch may take minor damage.-->
+  <TM_BriarPatch.description>Creates a hazard made of thorny vines. Any movement over the affected area will be slowed, and creatures moving through the briar patch may take minor damage.</TM_BriarPatch.description>
+  <!--EN: Briar Patch-->
+  <TM_BriarPatch.label>Briar Patch</TM_BriarPatch.label>
+  <!--EN: The fire mage invokes elemental fire to instantly cauterize wounds on a patient. However, this process is likely to leave burn scars.-->
+  <TM_CauterizeWound.description>The fire mage invokes elemental fire to instantly cauterize wounds on a patient. However, this process is likely to leave burn scars.</TM_CauterizeWound.description>
+  <!--EN: Cauterize Wounds-->
+  <TM_CauterizeWound.label>Cauterize Wounds</TM_CauterizeWound.label>
+  <!--EN: Converts raw magic power into electrical energy. This spell can only be used on batteries or golems. Generates 400Wd.-->
+  <TM_ChargeBattery.description>Converts raw magic power into electrical energy. This spell can only be used on batteries or golems. Generates 400Wd.</TM_ChargeBattery.description>
+  <!--EN: Charge Battery-->
+  <TM_ChargeBattery.label>Charge Battery</TM_ChargeBattery.label>
+  <!--EN: Creates a dimensional pocket that taps into the Plane of Ice, reducing heat in a confined area. The cooler must be sustained by the mage - reduces max mana by 25 while active.-->
+  <TM_Cooler.description>Creates a dimensional pocket that taps into the Plane of Ice, reducing heat in a confined area. The cooler must be sustained by the mage - reduces max mana by 25 while active.</TM_Cooler.description>
+  <!--EN: Magical cooler-->
+  <TM_Cooler.label>Magical cooler</TM_Cooler.label>
+  <!--EN: Create a small vacuum of elemental air that seeks out and vaporizes dirt and debris.-->
+  <TM_DirtDevil.description>Create a small vacuum of elemental air that seeks out and vaporizes dirt and debris.</TM_DirtDevil.description>
+  <!--EN: Dirt Devil-->
+  <TM_DirtDevil.label>Dirt Devil</TM_DirtDevil.label>
+  <!--EN: A channeled ability that continually assaults the senses of the victim with random and jarring signals. This sensory overload will gradually weaken mental stability and eventually the mental harmony of the target will collapse altogether. The results of this ability vary, but will grow stronger with each iteration. 
+		
+Effects include dizziness, nausea, vision and hearing loss, vomiting, inability to determine friend from foe, can no longer maths, dislike of other pawns, loss of motor skills, loss of reason, urge to discuss politics, paroxysm, brain hemorrhaging and cranial detonation. Results may vary when targeting friendly pawns. Consult your therapist channel before using.-->
+  <TM_Discord.description>A channeled ability that continually assaults the senses of the victim with random and jarring signals. This sensory overload will gradually weaken mental stability and eventually the mental harmony of the target will collapse altogether. The results of this ability vary, but will grow stronger with each iteration. 
+		
+Effects include dizziness, nausea, vision and hearing loss, vomiting, inability to determine friend from foe, can no longer maths, dislike of other pawns, loss of motor skills, loss of reason, urge to discuss politics, paroxysm, brain hemorrhaging and cranial detonation. Results may vary when targeting friendly pawns. Consult your therapist channel before using.</TM_Discord.description>
+  <!--EN: Discord-->
+  <TM_Discord.label>Discord</TM_Discord.label>
+  <!--EN: Dismisses a magical cooler-->
+  <TM_DismissCooler.description>Dismisses a magical cooler</TM_DismissCooler.description>
+  <!--EN: Dismiss Cooler-->
+  <TM_DismissCooler.label>Dismiss Cooler</TM_DismissCooler.label>
+  <!--EN: Releases the druid's power infusing the land with fertility.-->
+  <TM_DismissFertileLands.description>Releases the druid&amp;apos;s power infusing the land with fertility.</TM_DismissFertileLands.description>
+  <!--EN: End Fertile Lands-->
+  <TM_DismissFertileLands.label>End Fertile Lands</TM_DismissFertileLands.label>
+  <!--EN: Dismisses a magical heater-->
+  <TM_DismissHeater.description>Dismisses a magical heater</TM_DismissHeater.description>
+  <!--EN: Dismiss Heater-->
+  <TM_DismissHeater.label>Dismiss Heater</TM_DismissHeater.label>
+  <!--EN: Dismisses a lightning trap-->
+  <TM_DismissLightningTrap.description>Dismisses a lightning trap</TM_DismissLightningTrap.description>
+  <!--EN: Dismiss Lightning Trap-->
+  <TM_DismissLightningTrap.label>Dismiss Lightning Trap</TM_DismissLightningTrap.label>
+  <!--EN: Dismisses an arcane power node-->
+  <TM_DismissPowerNode.description>Dismisses an arcane power node</TM_DismissPowerNode.description>
+  <!--EN: Dismiss Power Node-->
+  <TM_DismissPowerNode.label>Dismiss Power Node</TM_DismissPowerNode.label>
+  <!--EN: Dismisses a Sun Light-->
+  <TM_DismissSunlight.description>Dismisses a Sun Light</TM_DismissSunlight.description>
+  <!--EN: Dismiss Sun Light-->
+  <TM_DismissSunlight.label>Dismiss Sun Light</TM_DismissSunlight.label>
+  <!--EN: Infuses the ground with heat, evaporating most of the moisture from a patch of ground. Only works on muddy ground.-->
+  <TM_DryGround.description>Infuses the ground with heat, evaporating most of the moisture from a patch of ground. Only works on muddy ground.</TM_DryGround.description>
+  <!--EN: Dry Ground-->
+  <TM_DryGround.label>Dry Ground</TM_DryGround.label>
+  <!--EN: Generate a burst of electromagnetic radiation at a target site, disabling mechanoids for a short period.-->
+  <TM_EMP.description>Generate a burst of electromagnetic radiation at a target site, disabling mechanoids for a short period.</TM_EMP.description>
+  <!--EN: EMP-->
+  <TM_EMP.label>EMP</TM_EMP.label>
+  <!--EN: Removes the fire element from the target location, instantly extinguishing undesired fires.-->
+  <TM_Extinguish.description>Removes the fire element from the target location, instantly extinguishing undesired fires.</TM_Extinguish.description>
+  <!--EN: Extinguish-->
+  <TM_Extinguish.label>Extinguish</TM_Extinguish.label>
+  <!--EN: Infuses an area of land with power from the druid that increases its fertility. This ability must be maintained and reduces mana regeneration by 40%. The druid is limited to one area.-->
+  <TM_FertileLands.description>Infuses an area of land with power from the druid that increases its fertility. This ability must be maintained and reduces mana regeneration by 40%. The druid is limited to one area.</TM_FertileLands.description>
+  <!--EN: Fertile Lands-->
+  <TM_FertileLands.label>Fertile Lands</TM_FertileLands.label>
+  <!--EN: Quickly fly to a target location.-->
+  <TM_Flight.description>Quickly fly to a target location.</TM_Flight.description>
+  <!--EN: Flight-->
+  <TM_Flight.label>Flight</TM_Flight.label>
+  <!--EN: Place a heat barrier on allies that provides 75% bonus protection against heat damage and prevents catching on fire. Effects up to 6 targets and lasts about 30 seconds.-->
+  <TM_HeatShield.description>Place a heat barrier on allies that provides 75% bonus protection against heat damage and prevents catching on fire. Effects up to 6 targets and lasts about 30 seconds.</TM_HeatShield.description>
+  <!--EN: Heat Shield-->
+  <TM_HeatShield.label>Heat Shield</TM_HeatShield.label>
+  <!--EN: Creates a dimensional pocket that taps into the Plane of Fire, generating constant heat in a confined area. The heater must be sustained by the mage - reduces max mana by 25 while active.-->
+  <TM_Heater.description>Creates a dimensional pocket that taps into the Plane of Fire, generating constant heat in a confined area. The heater must be sustained by the mage - reduces max mana by 25 while active.</TM_Heater.description>
+  <!--EN: Magical heater-->
+  <TM_Heater.label>Magical heater</TM_Heater.label>
+  <!--EN: Concentrates and enormous amount of heat at a focus point and then releases it. The released heat can ignite nearby creatures and will always set fire to corpses. The released heat will also dramatically increase the room temperature for any enclosed area.-->
+  <TM_Ignite.description>Concentrates and enormous amount of heat at a focus point and then releases it. The released heat can ignite nearby creatures and will always set fire to corpses. The released heat will also dramatically increase the room temperature for any enclosed area.</TM_Ignite.description>
+  <!--EN: Ignite-->
+  <TM_Ignite.label>Ignite</TM_Ignite.label>
+  <!--EN: Become invisible for 20 seconds. Any overt interaction will immediately break the spell. Clears caster from all hostile targeting.-->
+  <TM_Invisibility.description>Become invisible for 20 seconds. Any overt interaction will immediately break the spell. Clears caster from all hostile targeting.</TM_Invisibility.description>
+  <!--EN: Invisibility-->
+  <TM_Invisibility.label>Invisibility</TM_Invisibility.label>
+  <!--EN: Copy an ability from another fighter. All bonuses and restrictions of the copied ability apply. Only one ability may be stored at a time.-->
+  <TM_Legion.description>Copy an ability from another fighter. All bonuses and restrictions of the copied ability apply. Only one ability may be stored at a time.</TM_Legion.description>
+  <!--EN: Legion-->
+  <TM_Legion.label>Legion</TM_Legion.label>
+  <!--EN: Elemental lightning is charged inside a hardened arcane shell and placed as a trap. Arcane strands that activate the spell are extended around the trap and trigger when disturbed by enemies. Traps last indefinitely, but a mage is only able to sustain a single trap.-->
+  <TM_LightningTrap.description>Elemental lightning is charged inside a hardened arcane shell and placed as a trap. Arcane strands that activate the spell are extended around the trap and trigger when disturbed by enemies. Traps last indefinitely, but a mage is only able to sustain a single trap.</TM_LightningTrap.description>
+  <!--EN: Lightning Trap-->
+  <TM_LightningTrap.label>Lightning Trap</TM_LightningTrap.label>
+  <!--EN: Creates a small orb of light that banishes the darkness. Magelight will remain in the proximity of the casting mage. This spell has an upkeep cost of 10 mana and 5% mana regen.
+
+Magelight grants a 20% vision bonus; only the caster benefits from this bonus.
+
+Magelight can be dispelled by using this ability on the caster.-->
+  <TM_MageLight.description>Creates a small orb of light that banishes the darkness. Magelight will remain in the proximity of the casting mage. This spell has an upkeep cost of 10 mana and 5% mana regen.
+
+Magelight grants a 20% vision bonus; only the caster benefits from this bonus.
+
+Magelight can be dispelled by using this ability on the caster.</TM_MageLight.description>
+  <!--EN: Magelight-->
+  <TM_MageLight.label>Magelight</TM_MageLight.label>
+  <!--EN: A simple ability that stores all equipped clothing in a dimensional pocket. When used again, the stored clothing becomes equipped and any current equipment becomes stored. Works for all apparel, but not weapons or held items. Useful for storing gear or for quickly swapping between equipment sets.-->
+  <TM_MagicWardrobe.description>A simple ability that stores all equipped clothing in a dimensional pocket. When used again, the stored clothing becomes equipped and any current equipment becomes stored. Works for all apparel, but not weapons or held items. Useful for storing gear or for quickly swapping between equipment sets.</TM_MagicWardrobe.description>
+  <!--EN: Magic Wardrobe-->
+  <TM_MagicWardrobe.label>Magic Wardrobe</TM_MagicWardrobe.label>
+  <!--EN: Summons a protective barrier that draws power from the caster's mana. Damage absorption rate is 1dmg to 1 mana. The barrier breaks when the caster has insufficient mana to absorb an attack.  
+
+Casting the spell when a barrier is active will remove the barrier. Can be used in conjunction with shield belts. Does not impede spell casting of any type.-->
+  <TM_ManaShield.description>Summons a protective barrier that draws power from the caster&amp;apos;s mana. Damage absorption rate is 1dmg to 1 mana. The barrier breaks when the caster has insufficient mana to absorb an attack.  
+
+Casting the spell when a barrier is active will remove the barrier. Can be used in conjunction with shield belts. Does not impede spell casting of any type.</TM_ManaShield.description>
+  <!--EN: Mana Shield-->
+  <TM_ManaShield.label>Mana Shield</TM_ManaShield.label>
+  <!--EN: Reprograms fibrous or sensory mechanites to harmonize with a hosts biological systems. The result will significantly reduce the strain on the host while the mechanites are active.-->
+  <TM_MechaniteReprogramming.description>Reprograms fibrous or sensory mechanites to harmonize with a hosts biological systems. The result will significantly reduce the strain on the host while the mechanites are active.</TM_MechaniteReprogramming.description>
+  <!--EN: Reprogram Mechanites-->
+  <TM_MechaniteReprogramming.label>Reprogram Mechanites</TM_MechaniteReprogramming.label>
+  <!--EN: A melee attack that delivers a non-lethal blow dealing minor damage and stunning the target for a short period. 
+	
+This ability can instantly down a target pawn; the more pain the target is in, the more likely the blow will knock down the target instead of stun.
+
+Autocast only triggers when the target has 80% or greater chance of being downed from this attack.-->
+  <TM_PommelStrike.description>A melee attack that delivers a non-lethal blow dealing minor damage and stunning the target for a short period. 
+	
+This ability can instantly down a target pawn; the more pain the target is in, the more likely the blow will knock down the target instead of stun.
+
+Autocast only triggers when the target has 80% or greater chance of being downed from this attack.</TM_PommelStrike.description>
+  <!--EN: Pommel Strike-->
+  <TM_PommelStrike.label>Pommel Strike</TM_PommelStrike.label>
+  <!--EN: Creates an energy node that slowly releases arcane energy in the form of electricity. Can be used as a power source. The power node must be sustained by the mage - reduces max mana by 25 and mana regen by 25% while active.-->
+  <TM_PowerNode.description>Creates an energy node that slowly releases arcane energy in the form of electricity. Can be used as a power source. The power node must be sustained by the mage - reduces max mana by 25 and mana regen by 25% while active.</TM_PowerNode.description>
+  <!--EN: Arcane Power Node-->
+  <TM_PowerNode.label>Arcane Power Node</TM_PowerNode.label>
+  <!--EN: Siphons magical energy from another caster. Recipients that are not magic users will have physical capacities drained instead. Can be lethal if too much life force is drained.-->
+  <TM_SiphonMana.description>Siphons magical energy from another caster. Recipients that are not magic users will have physical capacities drained instead. Can be lethal if too much life force is drained.</TM_SiphonMana.description>
+  <!--EN: Siphon Mana-->
+  <TM_SiphonMana.label>Siphon Mana</TM_SiphonMana.label>
+  <!--EN: Draws in and ignites water and dirt particles in the air to create a smoke screen that temporarily conceals the area.-->
+  <TM_SmokeCloud.description>Draws in and ignites water and dirt particles in the air to create a smoke screen that temporarily conceals the area.</TM_SmokeCloud.description>
+  <!--EN: Smoke Cloud-->
+  <TM_SmokeCloud.label>Smoke Cloud</TM_SmokeCloud.label>
+  <!--EN: Removes almost all heat at a focus point causing a snap freeze of any living object. Creatures may suffer from frostbite and most plant life will die. The removal of heat will also dramatically decrease the room temperature for any enclosed area.-->
+  <TM_SnapFreeze.description>Removes almost all heat at a focus point causing a snap freeze of any living object. Creatures may suffer from frostbite and most plant life will die. The removal of heat will also dramatically decrease the room temperature for any enclosed area.</TM_SnapFreeze.description>
+  <!--EN: Snap Freeze-->
+  <TM_SnapFreeze.label>Snap Freeze</TM_SnapFreeze.label>
+  <!--EN: Cast an enchantment upon a person that slowly reconstructs their equipment at a molecular level. Spell mending requires a the equipment to be worn in order to extract 'memories' from the wearer to perform the reconstruction. This places a physical strain on the affected pawn and will slow their physical activities. Spell mending dissipates after several hours.-->
+  <TM_SpellMending.description>Cast an enchantment upon a person that slowly reconstructs their equipment at a molecular level. Spell mending requires a the equipment to be worn in order to extract &amp;apos;memories&amp;apos; from the wearer to perform the reconstruction. This places a physical strain on the affected pawn and will slow their physical activities. Spell mending dissipates after several hours.</TM_SpellMending.description>
+  <!--EN: Spell Mending-->
+  <TM_SpellMending.label>Spell Mending</TM_SpellMending.label>
+  <!--EN: Creates a beacon of sunlight strong enough to grow plants. The beacon must be sustained by the mage - reduces max mana by 40 and mana regeneration by 40% while active.-->
+  <TM_Sunlight.description>Creates a beacon of sunlight strong enough to grow plants. The beacon must be sustained by the mage - reduces max mana by 40 and mana regeneration by 40% while active.</TM_Sunlight.description>
+  <!--EN: Sun Light-->
+  <TM_Sunlight.label>Sun Light</TM_Sunlight.label>
+  <!--EN: Mentor a mage of lesser level to increase their magic skill. 
+		
+Mentored mages will gain class XP.  The amount of XP gained depends on the social status and difference in levels between the two mages.-->
+  <TM_TeachMagic.description>Mentor a mage of lesser level to increase their magic skill. 
+		
+Mentored mages will gain class XP.  The amount of XP gained depends on the social status and difference in levels between the two mages.</TM_TeachMagic.description>
+  <!--EN: Mentor Magic-->
+  <TM_TeachMagic.label>Mentor Magic</TM_TeachMagic.label>
+  <!--EN: Train a fighter of lesser level to increase their combat skill. 
+		
+Trained fighters will gain class XP.  The amount of XP gained depends on the social status and difference in levels between the two fighters.-->
+  <TM_TeachMight.description>Train a fighter of lesser level to increase their combat skill. 
+		
+Trained fighters will gain class XP.  The amount of XP gained depends on the social status and difference in levels between the two fighters.</TM_TeachMight.description>
+  <!--EN: Combat Training-->
+  <TM_TeachMight.label>Combat Training</TM_TeachMight.label>
+  <!--EN: Launch multiple attacks in rapid succession. Each attack consumes 20 stamina. Tempest Strike will end when the fighter has insufficient stamina or after 5 attacks.
+	
+Melee weapons generate blades of energy.
+	
+This attack only works when the weapon equipped is not normally consumed after use.-->
+  <TM_TempestStrike.description>Launch multiple attacks in rapid succession. Each attack consumes 20 stamina. Tempest Strike will end when the fighter has insufficient stamina or after 5 attacks.
+	
+Melee weapons generate blades of energy.
+	
+This attack only works when the weapon equipped is not normally consumed after use.</TM_TempestStrike.description>
+  <!--EN: Tempest Strike-->
+  <TM_TempestStrike.label>Tempest Strike</TM_TempestStrike.label>
+  <!--EN: A ranged attack using a concealed throwing knife, designed to complement any equipped weapon system.-->
+  <TM_ThrowingKnife.description>A ranged attack using a concealed throwing knife, designed to complement any equipped weapon system.</TM_ThrowingKnife.description>
+  <!--EN: Throwing Knife-->
+  <TM_ThrowingKnife.label>Throwing Knife</TM_ThrowingKnife.label>
+  <!--EN: Transfers magical energy from one caster to another. Recipients that are not magic users will receive significant, if random, physical augmentation for a short period. Can be harmful, even lethal, at extreme levels.-->
+  <TM_TransferMana.description>Transfers magical energy from one caster to another. Recipients that are not magic users will receive significant, if random, physical augmentation for a short period. Can be harmful, even lethal, at extreme levels.</TM_TransferMana.description>
+  <!--EN: Transfer Mana-->
+  <TM_TransferMana.label>Transfer Mana</TM_TransferMana.label>
+  <!--EN: Infuses sand with water, creating usable soil.-->
+  <TM_WetGround.description>Infuses sand with water, creating usable soil.</TM_WetGround.description>
+  <!--EN: Moisturize Ground-->
+  <TM_WetGround.label>Moisturize Ground</TM_WetGround.label>
+</LanguageData>

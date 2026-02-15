@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Periodically strikes nearby targets with death magic.-->
+  <TM_DeathFieldHD.description>Periodically strikes nearby targets with death magic.</TM_DeathFieldHD.description>
+  <!--EN: Death Field-->
+  <TM_DeathFieldHD.label>Death Field</TM_DeathFieldHD.label>
+  <!--EN: Rapidly decays, corrodes, and dissolves material and tissue.-->
+  <TM_DecayHD.description>Rapidly decays, corrodes, and dissolves material and tissue.</TM_DecayHD.description>
+  <!--EN: Decay-->
+  <TM_DecayHD.label>Decay</TM_DecayHD.label>
+  <!--EN: Periodically slows nearby targets with their impending doom.-->
+  <TM_DoomFieldHD.description>Periodically slows nearby targets with their impending doom.</TM_DoomFieldHD.description>
+  <!--EN: Death's Abyss-->
+  <TM_DoomFieldHD.label>Death&amp;apos;s Abyss</TM_DoomFieldHD.label>
+  <!--EN: Protects the torso and chest from attacks.-->
+  <TM_HollowGolem_BreastPlateHD.description>Protects the torso and chest from attacks.</TM_HollowGolem_BreastPlateHD.description>
+  <!--EN: breastplate-->
+  <TM_HollowGolem_BreastPlateHD.label>breastplate</TM_HollowGolem_BreastPlateHD.label>
+  <!--EN: Increases movement speed and provides a small amount of protection.-->
+  <TM_HollowGolem_CloakHD.description>Increases movement speed and provides a small amount of protection.</TM_HollowGolem_CloakHD.description>
+  <!--EN: fade cloak-->
+  <TM_HollowGolem_CloakHD.label>fade cloak</TM_HollowGolem_CloakHD.label>
+  <!--EN: Increases movement speed and heat resistance.-->
+  <TM_HollowGolem_CoAFireHD.description>Increases movement speed and heat resistance.</TM_HollowGolem_CoAFireHD.description>
+  <!--EN: Coat of Arms: Fire-->
+  <TM_HollowGolem_CoAFireHD.label>Coat of Arms: Fire</TM_HollowGolem_CoAFireHD.label>
+  <!--EN: I-->
+  <TM_HollowGolem_CoAFireHD.stages.0.label>I</TM_HollowGolem_CoAFireHD.stages.0.label>
+  <!--EN: II-->
+  <TM_HollowGolem_CoAFireHD.stages.1.label>II</TM_HollowGolem_CoAFireHD.stages.1.label>
+  <!--EN: III-->
+  <TM_HollowGolem_CoAFireHD.stages.2.label>III</TM_HollowGolem_CoAFireHD.stages.2.label>
+  <!--EN: Increases armor.-->
+  <TM_HollowGolem_CoAIceHD.description>Increases armor.</TM_HollowGolem_CoAIceHD.description>
+  <!--EN: Coat of Arms-->
+  <TM_HollowGolem_CoAIceHD.label>Coat of Arms</TM_HollowGolem_CoAIceHD.label>
+  <!--EN: I-->
+  <TM_HollowGolem_CoAIceHD.stages.0.label>I</TM_HollowGolem_CoAIceHD.stages.0.label>
+  <!--EN: II-->
+  <TM_HollowGolem_CoAIceHD.stages.1.label>II</TM_HollowGolem_CoAIceHD.stages.1.label>
+  <!--EN: III-->
+  <TM_HollowGolem_CoAIceHD.stages.2.label>III</TM_HollowGolem_CoAIceHD.stages.2.label>
+  <!--EN: Strengthens willpower and offers minor protection against physical attacks.-->
+  <TM_HollowGolem_CrownHD.description>Strengthens willpower and offers minor protection against physical attacks.</TM_HollowGolem_CrownHD.description>
+  <!--EN: crown of awakening-->
+  <TM_HollowGolem_CrownHD.label>crown of awakening</TM_HollowGolem_CrownHD.label>
+  <!--EN: Protects the head and skull.-->
+  <TM_HollowGolem_HelmHD.description>Protects the head and skull.</TM_HollowGolem_HelmHD.description>
+  <!--EN: helmet-->
+  <TM_HollowGolem_HelmHD.label>helmet</TM_HollowGolem_HelmHD.label>
+  <!--EN: Protects the shoulders, collar, and neck.-->
+  <TM_HollowGolem_ShoulderHD.description>Protects the shoulders, collar, and neck.</TM_HollowGolem_ShoulderHD.description>
+  <!--EN: shoulders-->
+  <TM_HollowGolem_ShoulderHD.label>shoulders</TM_HollowGolem_ShoulderHD.label>
+</LanguageData>

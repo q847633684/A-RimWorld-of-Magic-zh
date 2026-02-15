@@ -1,0 +1,469 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: set-->
+  <Blizzard.comps.0.labelSolidTendedWell>set</Blizzard.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <Blizzard.comps.0.labelTendedWell>bandaged</Blizzard.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <Blizzard.comps.0.labelTendedWellInner>sutured</Blizzard.comps.0.labelTendedWellInner>
+  <!--EN: destroyed in blizzard-->
+  <Blizzard.comps.1.permanentLabel>destroyed in blizzard</Blizzard.comps.1.permanentLabel>
+  <!--EN: A storm of ice and snow.-->
+  <Blizzard.description>A storm of ice and snow.</Blizzard.description>
+  <!--EN: frozen-->
+  <Blizzard.injuryProps.destroyedLabel>frozen</Blizzard.injuryProps.destroyedLabel>
+  <!--EN: shattered-->
+  <Blizzard.injuryProps.destroyedOutLabel>shattered</Blizzard.injuryProps.destroyedOutLabel>
+  <!--EN: blizzard-->
+  <Blizzard.label>blizzard</Blizzard.label>
+  <!--EN: set-->
+  <FrostRay.comps.0.labelSolidTendedWell>set</FrostRay.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <FrostRay.comps.0.labelTendedWell>bandaged</FrostRay.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <FrostRay.comps.0.labelTendedWellInner>sutured</FrostRay.comps.0.labelTendedWellInner>
+  <!--EN: frostbite scar-->
+  <FrostRay.comps.1.permanentLabel>frostbite scar</FrostRay.comps.1.permanentLabel>
+  <!--EN: Super-cooled bolt of energy.-->
+  <FrostRay.description>Super-cooled bolt of energy.</FrostRay.description>
+  <!--EN: frozen off-->
+  <FrostRay.injuryProps.destroyedLabel>frozen off</FrostRay.injuryProps.destroyedLabel>
+  <!--EN: Shattered-->
+  <FrostRay.injuryProps.destroyedOutLabel>Shattered</FrostRay.injuryProps.destroyedOutLabel>
+  <!--EN: frostray-->
+  <FrostRay.label>frostray</FrostRay.label>
+  <!--EN: set-->
+  <Iceshard.comps.0.labelSolidTendedWell>set</Iceshard.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <Iceshard.comps.0.labelTendedWell>bandaged</Iceshard.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <Iceshard.comps.0.labelTendedWellInner>sutured</Iceshard.comps.0.labelTendedWellInner>
+  <!--EN: iceshard scar-->
+  <Iceshard.comps.1.permanentLabel>iceshard scar</Iceshard.comps.1.permanentLabel>
+  <!--EN: A projected bolt of ice formed with razor sharp edges.-->
+  <Iceshard.description>A projected bolt of ice formed with razor sharp edges.</Iceshard.description>
+  <!--EN: Shredded-->
+  <Iceshard.injuryProps.destroyedLabel>Shredded</Iceshard.injuryProps.destroyedLabel>
+  <!--EN: Torn to shreds-->
+  <Iceshard.injuryProps.destroyedOutLabel>Torn to shreds</Iceshard.injuryProps.destroyedOutLabel>
+  <!--EN: iceshard-->
+  <Iceshard.label>iceshard</Iceshard.label>
+  <!--EN: set-->
+  <Snowball.comps.0.labelSolidTendedWell>set</Snowball.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <Snowball.comps.0.labelTendedWell>bandaged</Snowball.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <Snowball.comps.0.labelTendedWellInner>sutured</Snowball.comps.0.labelTendedWellInner>
+  <!--EN: frostbite scar-->
+  <Snowball.comps.1.permanentLabel>frostbite scar</Snowball.comps.1.permanentLabel>
+  <!--EN: Packed ice and snow.-->
+  <Snowball.description>Packed ice and snow.</Snowball.description>
+  <!--EN: frozen off-->
+  <Snowball.injuryProps.destroyedLabel>frozen off</Snowball.injuryProps.destroyedLabel>
+  <!--EN: Shattered-->
+  <Snowball.injuryProps.destroyedOutLabel>Shattered</Snowball.injuryProps.destroyedOutLabel>
+  <!--EN: snowball-->
+  <Snowball.label>snowball</Snowball.label>
+  <!--EN: set-->
+  <TM_ArcaneHD.comps.0.labelSolidTendedWell>set</TM_ArcaneHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_ArcaneHD.comps.0.labelTendedWell>bandaged</TM_ArcaneHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_ArcaneHD.comps.0.labelTendedWellInner>sutured</TM_ArcaneHD.comps.0.labelTendedWellInner>
+  <!--EN: destroyed by arcane power-->
+  <TM_ArcaneHD.comps.1.permanentLabel>destroyed by arcane power</TM_ArcaneHD.comps.1.permanentLabel>
+  <!--EN: Destructive arcane power-->
+  <TM_ArcaneHD.description>Destructive arcane power</TM_ArcaneHD.description>
+  <!--EN: blasted off-->
+  <TM_ArcaneHD.injuryProps.destroyedLabel>blasted off</TM_ArcaneHD.injuryProps.destroyedLabel>
+  <!--EN: blasted out-->
+  <TM_ArcaneHD.injuryProps.destroyedOutLabel>blasted out</TM_ArcaneHD.injuryProps.destroyedOutLabel>
+  <!--EN: arcane-->
+  <TM_ArcaneHD.label>arcane</TM_ArcaneHD.label>
+  <!--EN: set-->
+  <TM_BlazingPowerHD.comps.0.labelSolidTendedWell>set</TM_BlazingPowerHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_BlazingPowerHD.comps.0.labelTendedWell>bandaged</TM_BlazingPowerHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_BlazingPowerHD.comps.0.labelTendedWellInner>sutured</TM_BlazingPowerHD.comps.0.labelTendedWellInner>
+  <!--EN: destroyed by blazing power-->
+  <TM_BlazingPowerHD.comps.1.permanentLabel>destroyed by blazing power</TM_BlazingPowerHD.comps.1.permanentLabel>
+  <!--EN: Arcane power directed through a focusing vessel.-->
+  <TM_BlazingPowerHD.description>Arcane power directed through a focusing vessel.</TM_BlazingPowerHD.description>
+  <!--EN: destroyed-->
+  <TM_BlazingPowerHD.injuryProps.destroyedLabel>destroyed</TM_BlazingPowerHD.injuryProps.destroyedLabel>
+  <!--EN: destroyed-->
+  <TM_BlazingPowerHD.injuryProps.destroyedOutLabel>destroyed</TM_BlazingPowerHD.injuryProps.destroyedOutLabel>
+  <!--EN: Blazing Power-->
+  <TM_BlazingPowerHD.label>Blazing Power</TM_BlazingPowerHD.label>
+  <!--EN: set-->
+  <TM_BloodyCutHD.comps.0.labelSolidTendedWell>set</TM_BloodyCutHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_BloodyCutHD.comps.0.labelTendedWell>bandaged</TM_BloodyCutHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_BloodyCutHD.comps.0.labelTendedWellInner>sutured</TM_BloodyCutHD.comps.0.labelTendedWellInner>
+  <!--EN: cut scar-->
+  <TM_BloodyCutHD.comps.2.permanentLabel>cut scar</TM_BloodyCutHD.comps.2.permanentLabel>
+  <!--EN: A deep cut that bleeds profusely.-->
+  <TM_BloodyCutHD.description>A deep cut that bleeds profusely.</TM_BloodyCutHD.description>
+  <!--EN: Cut off-->
+  <TM_BloodyCutHD.injuryProps.destroyedLabel>Cut off</TM_BloodyCutHD.injuryProps.destroyedLabel>
+  <!--EN: Cut out-->
+  <TM_BloodyCutHD.injuryProps.destroyedOutLabel>Cut out</TM_BloodyCutHD.injuryProps.destroyedOutLabel>
+  <!--EN: bloody cut-->
+  <TM_BloodyCutHD.label>bloody cut</TM_BloodyCutHD.label>
+  <!--EN: a bloody cut-->
+  <TM_BloodyCutHD.labelNoun>a bloody cut</TM_BloodyCutHD.labelNoun>
+  <!--EN: set-->
+  <TM_ChiBurnHD.comps.0.labelSolidTendedWell>set</TM_ChiBurnHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_ChiBurnHD.comps.0.labelTendedWell>bandaged</TM_ChiBurnHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_ChiBurnHD.comps.0.labelTendedWellInner>sutured</TM_ChiBurnHD.comps.0.labelTendedWellInner>
+  <!--EN: destroyed-->
+  <TM_ChiBurnHD.comps.1.permanentLabel>destroyed</TM_ChiBurnHD.comps.1.permanentLabel>
+  <!--EN: Damage sustained from a burst of ch'i energy.-->
+  <TM_ChiBurnHD.description>Damage sustained from a burst of ch&amp;apos;i energy.</TM_ChiBurnHD.description>
+  <!--EN: burned-->
+  <TM_ChiBurnHD.injuryProps.destroyedLabel>burned</TM_ChiBurnHD.injuryProps.destroyedLabel>
+  <!--EN: disintegrated-->
+  <TM_ChiBurnHD.injuryProps.destroyedOutLabel>disintegrated</TM_ChiBurnHD.injuryProps.destroyedOutLabel>
+  <!--EN: Chi burn-->
+  <TM_ChiBurnHD.label>Chi burn</TM_ChiBurnHD.label>
+  <!--EN: set-->
+  <TM_ChiFistHD.comps.0.labelSolidTendedWell>set</TM_ChiFistHD.comps.0.labelSolidTendedWell>
+  <!--EN: tended-->
+  <TM_ChiFistHD.comps.0.labelTendedWell>tended</TM_ChiFistHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_ChiFistHD.comps.0.labelTendedWellInner>sutured</TM_ChiFistHD.comps.0.labelTendedWellInner>
+  <!--EN: destroyed-->
+  <TM_ChiFistHD.comps.1.permanentLabel>destroyed</TM_ChiFistHD.comps.1.permanentLabel>
+  <!--EN: A melee strike from a monk.-->
+  <TM_ChiFistHD.description>A melee strike from a monk.</TM_ChiFistHD.description>
+  <!--EN: broken-->
+  <TM_ChiFistHD.injuryProps.destroyedLabel>broken</TM_ChiFistHD.injuryProps.destroyedLabel>
+  <!--EN: removed-->
+  <TM_ChiFistHD.injuryProps.destroyedOutLabel>removed</TM_ChiFistHD.injuryProps.destroyedOutLabel>
+  <!--EN: strike-->
+  <TM_ChiFistHD.label>strike</TM_ChiFistHD.label>
+  <!--EN: treated-->
+  <TM_DecayDamage.comps.0.labelSolidTendedWell>treated</TM_DecayDamage.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_DecayDamage.comps.0.labelTendedWell>bandaged</TM_DecayDamage.comps.0.labelTendedWell>
+  <!--EN: tended-->
+  <TM_DecayDamage.comps.0.labelTendedWellInner>tended</TM_DecayDamage.comps.0.labelTendedWellInner>
+  <!--EN: lifeless-->
+  <TM_DecayDamage.comps.1.permanentLabel>lifeless</TM_DecayDamage.comps.1.permanentLabel>
+  <!--EN: Organic decay.-->
+  <TM_DecayDamage.description>Organic decay.</TM_DecayDamage.description>
+  <!--EN: lifeless-->
+  <TM_DecayDamage.injuryProps.destroyedLabel>lifeless</TM_DecayDamage.injuryProps.destroyedLabel>
+  <!--EN: decayed-->
+  <TM_DecayDamage.injuryProps.destroyedOutLabel>decayed</TM_DecayDamage.injuryProps.destroyedOutLabel>
+  <!--EN: Decay-->
+  <TM_DecayDamage.label>Decay</TM_DecayDamage.label>
+  <!--EN: set-->
+  <TM_DisablingBlowHD.comps.0.labelSolidTendedWell>set</TM_DisablingBlowHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_DisablingBlowHD.comps.0.labelTendedWell>bandaged</TM_DisablingBlowHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_DisablingBlowHD.comps.0.labelTendedWellInner>sutured</TM_DisablingBlowHD.comps.0.labelTendedWellInner>
+  <!--EN: smashed-->
+  <TM_DisablingBlowHD.comps.2.permanentLabel>smashed</TM_DisablingBlowHD.comps.2.permanentLabel>
+  <!--EN: A melee blow meant to disable rather than kill.-->
+  <TM_DisablingBlowHD.description>A melee blow meant to disable rather than kill.</TM_DisablingBlowHD.description>
+  <!--EN: smashed-->
+  <TM_DisablingBlowHD.injuryProps.destroyedLabel>smashed</TM_DisablingBlowHD.injuryProps.destroyedLabel>
+  <!--EN: crushed-->
+  <TM_DisablingBlowHD.injuryProps.destroyedOutLabel>crushed</TM_DisablingBlowHD.injuryProps.destroyedOutLabel>
+  <!--EN: disabling blow-->
+  <TM_DisablingBlowHD.label>disabling blow</TM_DisablingBlowHD.label>
+  <!--EN: set-->
+  <TM_DisablingShot_HD.comps.0.labelSolidTendedWell>set</TM_DisablingShot_HD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_DisablingShot_HD.comps.0.labelTendedWell>bandaged</TM_DisablingShot_HD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_DisablingShot_HD.comps.0.labelTendedWellInner>sutured</TM_DisablingShot_HD.comps.0.labelTendedWellInner>
+  <!--EN: shot off-->
+  <TM_DisablingShot_HD.comps.2.permanentLabel>shot off</TM_DisablingShot_HD.comps.2.permanentLabel>
+  <!--EN: A projectile designed to disable rather than kill.-->
+  <TM_DisablingShot_HD.description>A projectile designed to disable rather than kill.</TM_DisablingShot_HD.description>
+  <!--EN: shot off-->
+  <TM_DisablingShot_HD.injuryProps.destroyedLabel>shot off</TM_DisablingShot_HD.injuryProps.destroyedLabel>
+  <!--EN: shot out-->
+  <TM_DisablingShot_HD.injuryProps.destroyedOutLabel>shot out</TM_DisablingShot_HD.injuryProps.destroyedOutLabel>
+  <!--EN: disabling shot-->
+  <TM_DisablingShot_HD.label>disabling shot</TM_DisablingShot_HD.label>
+  <!--EN: set-->
+  <TM_Dismember.comps.0.labelSolidTendedWell>set</TM_Dismember.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_Dismember.comps.0.labelTendedWell>bandaged</TM_Dismember.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_Dismember.comps.0.labelTendedWellInner>sutured</TM_Dismember.comps.0.labelTendedWellInner>
+  <!--EN: An attack that tears a limb (or head) off a target.-->
+  <TM_Dismember.description>An attack that tears a limb (or head) off a target.</TM_Dismember.description>
+  <!--EN: torn off-->
+  <TM_Dismember.injuryProps.destroyedLabel>torn off</TM_Dismember.injuryProps.destroyedLabel>
+  <!--EN: torn out-->
+  <TM_Dismember.injuryProps.destroyedOutLabel>torn out</TM_Dismember.injuryProps.destroyedOutLabel>
+  <!--EN: dismember-->
+  <TM_Dismember.label>dismember</TM_Dismember.label>
+  <!--EN: a massive wound-->
+  <TM_Dismember.labelNoun>a massive wound</TM_Dismember.labelNoun>
+  <!--EN: set-->
+  <TM_Firebolt.comps.0.labelSolidTendedWell>set</TM_Firebolt.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_Firebolt.comps.0.labelTendedWell>bandaged</TM_Firebolt.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_Firebolt.comps.0.labelTendedWellInner>sutured</TM_Firebolt.comps.0.labelTendedWellInner>
+  <!--EN: burn scar-->
+  <TM_Firebolt.comps.1.permanentLabel>burn scar</TM_Firebolt.comps.1.permanentLabel>
+  <!--EN: Projected bolt of elemental fire.-->
+  <TM_Firebolt.description>Projected bolt of elemental fire.</TM_Firebolt.description>
+  <!--EN: burned-->
+  <TM_Firebolt.injuryProps.destroyedLabel>burned</TM_Firebolt.injuryProps.destroyedLabel>
+  <!--EN: burned out-->
+  <TM_Firebolt.injuryProps.destroyedOutLabel>burned out</TM_Firebolt.injuryProps.destroyedOutLabel>
+  <!--EN: Firebolt-->
+  <TM_Firebolt.label>Firebolt</TM_Firebolt.label>
+  <!--EN: tended-->
+  <TM_Frozen.comps.0.labelSolidTendedWell>tended</TM_Frozen.comps.0.labelSolidTendedWell>
+  <!--EN: tended-->
+  <TM_Frozen.comps.0.labelTendedWell>tended</TM_Frozen.comps.0.labelTendedWell>
+  <!--EN: tended-->
+  <TM_Frozen.comps.0.labelTendedWellInner>tended</TM_Frozen.comps.0.labelTendedWellInner>
+  <!--EN: frostbite-->
+  <TM_Frozen.comps.1.permanentLabel>frostbite</TM_Frozen.comps.1.permanentLabel>
+  <!--EN: Bitterly cold winds.-->
+  <TM_Frozen.description>Bitterly cold winds.</TM_Frozen.description>
+  <!--EN: Frozen-->
+  <TM_Frozen.injuryProps.destroyedLabel>Frozen</TM_Frozen.injuryProps.destroyedLabel>
+  <!--EN: Frozen-->
+  <TM_Frozen.injuryProps.destroyedOutLabel>Frozen</TM_Frozen.injuryProps.destroyedOutLabel>
+  <!--EN: freezing winds-->
+  <TM_Frozen.label>freezing winds</TM_Frozen.label>
+  <!--EN: set-->
+  <TM_GrapplingHook.comps.0.labelSolidTendedWell>set</TM_GrapplingHook.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_GrapplingHook.comps.0.labelTendedWell>bandaged</TM_GrapplingHook.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_GrapplingHook.comps.0.labelTendedWellInner>sutured</TM_GrapplingHook.comps.0.labelTendedWellInner>
+  <!--EN: torn off-->
+  <TM_GrapplingHook.comps.2.permanentLabel>torn off</TM_GrapplingHook.comps.2.permanentLabel>
+  <!--EN: Pulls targets close.-->
+  <TM_GrapplingHook.description>Pulls targets close.</TM_GrapplingHook.description>
+  <!--EN: torn off-->
+  <TM_GrapplingHook.injuryProps.destroyedLabel>torn off</TM_GrapplingHook.injuryProps.destroyedLabel>
+  <!--EN: torn out-->
+  <TM_GrapplingHook.injuryProps.destroyedOutLabel>torn out</TM_GrapplingHook.injuryProps.destroyedOutLabel>
+  <!--EN: Grappling Hook-->
+  <TM_GrapplingHook.label>Grappling Hook</TM_GrapplingHook.label>
+  <!--EN: set-->
+  <TM_Holy.comps.0.labelSolidTendedWell>set</TM_Holy.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_Holy.comps.0.labelTendedWell>bandaged</TM_Holy.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_Holy.comps.0.labelTendedWellInner>sutured</TM_Holy.comps.0.labelTendedWellInner>
+  <!--EN: destroyed by holy power-->
+  <TM_Holy.comps.1.permanentLabel>destroyed by holy power</TM_Holy.comps.1.permanentLabel>
+  <!--EN: Belief made into destructive energy.-->
+  <TM_Holy.description>Belief made into destructive energy.</TM_Holy.description>
+  <!--EN: burned off-->
+  <TM_Holy.injuryProps.destroyedLabel>burned off</TM_Holy.injuryProps.destroyedLabel>
+  <!--EN: burned out-->
+  <TM_Holy.injuryProps.destroyedOutLabel>burned out</TM_Holy.injuryProps.destroyedOutLabel>
+  <!--EN: Holy Wrath-->
+  <TM_Holy.label>Holy Wrath</TM_Holy.label>
+  <!--EN: set-->
+  <TM_LightDD.comps.0.labelSolidTendedWell>set</TM_LightDD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_LightDD.comps.0.labelTendedWell>bandaged</TM_LightDD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_LightDD.comps.0.labelTendedWellInner>sutured</TM_LightDD.comps.0.labelTendedWellInner>
+  <!--EN: burned by light-->
+  <TM_LightDD.comps.1.permanentLabel>burned by light</TM_LightDD.comps.1.permanentLabel>
+  <!--EN: Destructive energy from the domain of light.-->
+  <TM_LightDD.description>Destructive energy from the domain of light.</TM_LightDD.description>
+  <!--EN: burned away-->
+  <TM_LightDD.injuryProps.destroyedLabel>burned away</TM_LightDD.injuryProps.destroyedLabel>
+  <!--EN: burned out-->
+  <TM_LightDD.injuryProps.destroyedOutLabel>burned out</TM_LightDD.injuryProps.destroyedOutLabel>
+  <!--EN: Light-->
+  <TM_LightDD.label>Light</TM_LightDD.label>
+  <!--EN: set-->
+  <TM_Lightning.comps.0.labelSolidTendedWell>set</TM_Lightning.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_Lightning.comps.0.labelTendedWell>bandaged</TM_Lightning.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_Lightning.comps.0.labelTendedWellInner>sutured</TM_Lightning.comps.0.labelTendedWellInner>
+  <!--EN: struck by lightning-->
+  <TM_Lightning.comps.1.permanentLabel>struck by lightning</TM_Lightning.comps.1.permanentLabel>
+  <!--EN: A powerful bolt of electricity.-->
+  <TM_Lightning.description>A powerful bolt of electricity.</TM_Lightning.description>
+  <!--EN: melted-->
+  <TM_Lightning.injuryProps.destroyedLabel>melted</TM_Lightning.injuryProps.destroyedLabel>
+  <!--EN: burned out-->
+  <TM_Lightning.injuryProps.destroyedOutLabel>burned out</TM_Lightning.injuryProps.destroyedOutLabel>
+  <!--EN: Lightning-->
+  <TM_Lightning.label>Lightning</TM_Lightning.label>
+  <!--EN: set-->
+  <TM_LightningCloud.comps.0.labelSolidTendedWell>set</TM_LightningCloud.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_LightningCloud.comps.0.labelTendedWell>bandaged</TM_LightningCloud.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_LightningCloud.comps.0.labelTendedWellInner>sutured</TM_LightningCloud.comps.0.labelTendedWellInner>
+  <!--EN: electrocuted-->
+  <TM_LightningCloud.comps.1.permanentLabel>electrocuted</TM_LightningCloud.comps.1.permanentLabel>
+  <!--EN: Ambient electrical discharge caused by condensing charged particles.-->
+  <TM_LightningCloud.description>Ambient electrical discharge caused by condensing charged particles.</TM_LightningCloud.description>
+  <!--EN: melted-->
+  <TM_LightningCloud.injuryProps.destroyedLabel>melted</TM_LightningCloud.injuryProps.destroyedLabel>
+  <!--EN: burned out-->
+  <TM_LightningCloud.injuryProps.destroyedOutLabel>burned out</TM_LightningCloud.injuryProps.destroyedOutLabel>
+  <!--EN: Lightning-->
+  <TM_LightningCloud.label>Lightning</TM_LightningCloud.label>
+  <!--EN: set-->
+  <TM_MagicMissile.comps.0.labelSolidTendedWell>set</TM_MagicMissile.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_MagicMissile.comps.0.labelTendedWell>bandaged</TM_MagicMissile.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_MagicMissile.comps.0.labelTendedWellInner>sutured</TM_MagicMissile.comps.0.labelTendedWellInner>
+  <!--EN: touched by the arcane-->
+  <TM_MagicMissile.comps.1.permanentLabel>touched by the arcane</TM_MagicMissile.comps.1.permanentLabel>
+  <!--EN: Arcane energy projected in small, focused bursts.-->
+  <TM_MagicMissile.description>Arcane energy projected in small, focused bursts.</TM_MagicMissile.description>
+  <!--EN: sliced off-->
+  <TM_MagicMissile.injuryProps.destroyedLabel>sliced off</TM_MagicMissile.injuryProps.destroyedLabel>
+  <!--EN: cut out-->
+  <TM_MagicMissile.injuryProps.destroyedOutLabel>cut out</TM_MagicMissile.injuryProps.destroyedOutLabel>
+  <!--EN: Magic Missile-->
+  <TM_MagicMissile.label>Magic Missile</TM_MagicMissile.label>
+  <!--EN: set-->
+  <TM_ManaMine.comps.0.labelSolidTendedWell>set</TM_ManaMine.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_ManaMine.comps.0.labelTendedWell>bandaged</TM_ManaMine.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_ManaMine.comps.0.labelTendedWellInner>sutured</TM_ManaMine.comps.0.labelTendedWellInner>
+  <!--EN: destroyed by a mana explosion-->
+  <TM_ManaMine.comps.1.permanentLabel>destroyed by a mana explosion</TM_ManaMine.comps.1.permanentLabel>
+  <!--EN: Explosive release of contained mana.-->
+  <TM_ManaMine.description>Explosive release of contained mana.</TM_ManaMine.description>
+  <!--EN: blasted off-->
+  <TM_ManaMine.injuryProps.destroyedLabel>blasted off</TM_ManaMine.injuryProps.destroyedLabel>
+  <!--EN: burned out-->
+  <TM_ManaMine.injuryProps.destroyedOutLabel>burned out</TM_ManaMine.injuryProps.destroyedOutLabel>
+  <!--EN: mana explosion-->
+  <TM_ManaMine.label>mana explosion</TM_ManaMine.label>
+  <!--EN: A missing bodypart.-->
+  <TM_PartRemovalHD.description>A missing bodypart.</TM_PartRemovalHD.description>
+  <!--EN: missing-->
+  <TM_PartRemovalHD.injuryProps.destroyedLabel>missing</TM_PartRemovalHD.injuryProps.destroyedLabel>
+  <!--EN: missing-->
+  <TM_PartRemovalHD.injuryProps.destroyedOutLabel>missing</TM_PartRemovalHD.injuryProps.destroyedOutLabel>
+  <!--EN: missing-->
+  <TM_PartRemovalHD.label>missing</TM_PartRemovalHD.label>
+  <!--EN: missing-->
+  <TM_PartRemovalHD.labelNoun>missing</TM_PartRemovalHD.labelNoun>
+  <!--EN: set-->
+  <TM_SpiritHD.comps.0.labelSolidTendedWell>set</TM_SpiritHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_SpiritHD.comps.0.labelTendedWell>bandaged</TM_SpiritHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_SpiritHD.comps.0.labelTendedWellInner>sutured</TM_SpiritHD.comps.0.labelTendedWellInner>
+  <!--EN: drained of spirit-->
+  <TM_SpiritHD.comps.1.permanentLabel>drained of spirit</TM_SpiritHD.comps.1.permanentLabel>
+  <!--EN: Harmful spiritual energy.-->
+  <TM_SpiritHD.description>Harmful spiritual energy.</TM_SpiritHD.description>
+  <!--EN: lifeless-->
+  <TM_SpiritHD.injuryProps.destroyedLabel>lifeless</TM_SpiritHD.injuryProps.destroyedLabel>
+  <!--EN: lifeless-->
+  <TM_SpiritHD.injuryProps.destroyedOutLabel>lifeless</TM_SpiritHD.injuryProps.destroyedOutLabel>
+  <!--EN: Spirit-->
+  <TM_SpiritHD.label>Spirit</TM_SpiritHD.label>
+  <!--EN: set-->
+  <TM_SymbiosisDamage.comps.0.labelSolidTendedWell>set</TM_SymbiosisDamage.comps.0.labelSolidTendedWell>
+  <!--EN: tended-->
+  <TM_SymbiosisDamage.comps.0.labelTendedWell>tended</TM_SymbiosisDamage.comps.0.labelTendedWell>
+  <!--EN: tended-->
+  <TM_SymbiosisDamage.comps.0.labelTendedWellInner>tended</TM_SymbiosisDamage.comps.0.labelTendedWellInner>
+  <!--EN: residual injury-->
+  <TM_SymbiosisDamage.comps.2.permanentLabel>residual injury</TM_SymbiosisDamage.comps.2.permanentLabel>
+  <!--EN: Damage inferred through a symbiosis connection.-->
+  <TM_SymbiosisDamage.description>Damage inferred through a symbiosis connection.</TM_SymbiosisDamage.description>
+  <!--EN: destroyed-->
+  <TM_SymbiosisDamage.injuryProps.destroyedLabel>destroyed</TM_SymbiosisDamage.injuryProps.destroyedLabel>
+  <!--EN: severed-->
+  <TM_SymbiosisDamage.injuryProps.destroyedOutLabel>severed</TM_SymbiosisDamage.injuryProps.destroyedOutLabel>
+  <!--EN: symbiosis-->
+  <TM_SymbiosisDamage.label>symbiosis</TM_SymbiosisDamage.label>
+  <!--EN: symbiotic transfer-->
+  <TM_SymbiosisDamage.labelNoun>symbiotic transfer</TM_SymbiosisDamage.labelNoun>
+  <!--EN: set-->
+  <TM_ThrumboCleave.comps.0.labelSolidTendedWell>set</TM_ThrumboCleave.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_ThrumboCleave.comps.0.labelTendedWell>bandaged</TM_ThrumboCleave.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_ThrumboCleave.comps.0.labelTendedWellInner>sutured</TM_ThrumboCleave.comps.0.labelTendedWellInner>
+  <!--EN: scar-->
+  <TM_ThrumboCleave.comps.2.permanentLabel>scar</TM_ThrumboCleave.comps.2.permanentLabel>
+  <!--EN: An attack powerful enough to shear through multiple objects.-->
+  <TM_ThrumboCleave.description>An attack powerful enough to shear through multiple objects.</TM_ThrumboCleave.description>
+  <!--EN: Sliced off-->
+  <TM_ThrumboCleave.injuryProps.destroyedLabel>Sliced off</TM_ThrumboCleave.injuryProps.destroyedLabel>
+  <!--EN: Sliced out-->
+  <TM_ThrumboCleave.injuryProps.destroyedOutLabel>Sliced out</TM_ThrumboCleave.injuryProps.destroyedOutLabel>
+  <!--EN: cleave-->
+  <TM_ThrumboCleave.label>cleave</TM_ThrumboCleave.label>
+  <!--EN: a massive wound-->
+  <TM_ThrumboCleave.labelNoun>a massive wound</TM_ThrumboCleave.labelNoun>
+  <!--EN: tended-->
+  <TM_ToxinHD.comps.0.labelSolidTendedWell>tended</TM_ToxinHD.comps.0.labelSolidTendedWell>
+  <!--EN: tended-->
+  <TM_ToxinHD.comps.0.labelTendedWell>tended</TM_ToxinHD.comps.0.labelTendedWell>
+  <!--EN: tended-->
+  <TM_ToxinHD.comps.0.labelTendedWellInner>tended</TM_ToxinHD.comps.0.labelTendedWellInner>
+  <!--EN: toxic tissue-->
+  <TM_ToxinHD.comps.2.permanentLabel>toxic tissue</TM_ToxinHD.comps.2.permanentLabel>
+  <!--EN: damage from toxins.-->
+  <TM_ToxinHD.description>damage from toxins.</TM_ToxinHD.description>
+  <!--EN: destroyed-->
+  <TM_ToxinHD.injuryProps.destroyedLabel>destroyed</TM_ToxinHD.injuryProps.destroyedLabel>
+  <!--EN: toxin-->
+  <TM_ToxinHD.label>toxin</TM_ToxinHD.label>
+  <!--EN: toxin-->
+  <TM_ToxinHD.labelNoun>toxin</TM_ToxinHD.labelNoun>
+  <!--EN: set-->
+  <TM_Whirlwind_Knockdown.comps.0.labelSolidTendedWell>set</TM_Whirlwind_Knockdown.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_Whirlwind_Knockdown.comps.0.labelTendedWell>bandaged</TM_Whirlwind_Knockdown.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_Whirlwind_Knockdown.comps.0.labelTendedWellInner>sutured</TM_Whirlwind_Knockdown.comps.0.labelTendedWellInner>
+  <!--EN: sliced off-->
+  <TM_Whirlwind_Knockdown.comps.2.permanentLabel>sliced off</TM_Whirlwind_Knockdown.comps.2.permanentLabel>
+  <!--EN: Overwhelmed from a flurry of attacks.-->
+  <TM_Whirlwind_Knockdown.description>Overwhelmed from a flurry of attacks.</TM_Whirlwind_Knockdown.description>
+  <!--EN: sliced off-->
+  <TM_Whirlwind_Knockdown.injuryProps.destroyedLabel>sliced off</TM_Whirlwind_Knockdown.injuryProps.destroyedLabel>
+  <!--EN: cut out-->
+  <TM_Whirlwind_Knockdown.injuryProps.destroyedOutLabel>cut out</TM_Whirlwind_Knockdown.injuryProps.destroyedOutLabel>
+  <!--EN: Whirlwind Knockdown-->
+  <TM_Whirlwind_Knockdown.label>Whirlwind Knockdown</TM_Whirlwind_Knockdown.label>
+  <!--EN: set-->
+  <TM_arcaneSpectre.comps.0.labelSolidTendedWell>set</TM_arcaneSpectre.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_arcaneSpectre.comps.0.labelTendedWell>bandaged</TM_arcaneSpectre.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_arcaneSpectre.comps.0.labelTendedWellInner>sutured</TM_arcaneSpectre.comps.0.labelTendedWellInner>
+  <!--EN: pale scar-->
+  <TM_arcaneSpectre.comps.2.permanentLabel>pale scar</TM_arcaneSpectre.comps.2.permanentLabel>
+  <!--EN: Spirit damage from a spectre.-->
+  <TM_arcaneSpectre.description>Spirit damage from a spectre.</TM_arcaneSpectre.description>
+  <!--EN: Cut off-->
+  <TM_arcaneSpectre.injuryProps.destroyedLabel>Cut off</TM_arcaneSpectre.injuryProps.destroyedLabel>
+  <!--EN: Cut out-->
+  <TM_arcaneSpectre.injuryProps.destroyedOutLabel>Cut out</TM_arcaneSpectre.injuryProps.destroyedOutLabel>
+  <!--EN: spirit cut-->
+  <TM_arcaneSpectre.label>spirit cut</TM_arcaneSpectre.label>
+  <!--EN: a cut-->
+  <TM_arcaneSpectre.labelNoun>a cut</TM_arcaneSpectre.labelNoun>
+</LanguageData>

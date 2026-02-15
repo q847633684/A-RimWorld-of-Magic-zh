@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Charging into battle.-->
+  <TM_BullChargeHD.description>Charging into battle.</TM_BullChargeHD.description>
+  <!--EN: charge-->
+  <TM_BullChargeHD.label>charge</TM_BullChargeHD.label>
+  <!--EN: chance to block attacks-->
+  <TM_FleshGolem_BracerGuardHD.description>chance to block attacks</TM_FleshGolem_BracerGuardHD.description>
+  <!--EN: bracer guard-->
+  <TM_FleshGolem_BracerGuardHD.label>bracer guard</TM_FleshGolem_BracerGuardHD.label>
+  <!--EN: Deflects attacks against the chest and torso, works best against larger weapons.-->
+  <TM_FleshGolem_ChestCageHD.description>Deflects attacks against the chest and torso, works best against larger weapons.</TM_FleshGolem_ChestCageHD.description>
+  <!--EN: chest cage-->
+  <TM_FleshGolem_ChestCageHD.label>chest cage</TM_FleshGolem_ChestCageHD.label>
+  <!--EN: Vision is improved with four eyes.-->
+  <TM_FleshGolem_EyesT1HD.description>Vision is improved with four eyes.</TM_FleshGolem_EyesT1HD.description>
+  <!--EN: quad sight-->
+  <TM_FleshGolem_EyesT1HD.label>quad sight</TM_FleshGolem_EyesT1HD.label>
+  <!--EN: Wings are granting movement agility.-->
+  <TM_FleshGolem_HasteHD.description>Wings are granting movement agility.</TM_FleshGolem_HasteHD.description>
+  <!--EN: swiftness-->
+  <TM_FleshGolem_HasteHD.label>swiftness</TM_FleshGolem_HasteHD.label>
+  <!--EN: Improves armor around over the legs.-->
+  <TM_FleshGolem_LegPlatesHD.description>Improves armor around over the legs.</TM_FleshGolem_LegPlatesHD.description>
+  <!--EN: leg plates-->
+  <TM_FleshGolem_LegPlatesHD.label>leg plates</TM_FleshGolem_LegPlatesHD.label>
+  <!--EN: Improves armor around the shoulders.-->
+  <TM_FleshGolem_ShoulderPlatesHD.description>Improves armor around the shoulders.</TM_FleshGolem_ShoulderPlatesHD.description>
+  <!--EN: shoulder plates-->
+  <TM_FleshGolem_ShoulderPlatesHD.label>shoulder plates</TM_FleshGolem_ShoulderPlatesHD.label>
+  <!--EN: Improves armor over the skull.-->
+  <TM_FleshGolem_SkullPlateHD.description>Improves armor over the skull.</TM_FleshGolem_SkullPlateHD.description>
+  <!--EN: skull plate-->
+  <TM_FleshGolem_SkullPlateHD.label>skull plate</TM_FleshGolem_SkullPlateHD.label>
+  <!--EN: Deflects attacks against the back.-->
+  <TM_FleshGolem_SpineGuardHD.description>Deflects attacks against the back.</TM_FleshGolem_SpineGuardHD.description>
+  <!--EN: spine guard-->
+  <TM_FleshGolem_SpineGuardHD.label>spine guard</TM_FleshGolem_SpineGuardHD.label>
+  <!--EN: The gaze of an evil eye has applied this curse.-->
+  <TM_FrailtyCurseHD.description>The gaze of an evil eye has applied this curse.</TM_FrailtyCurseHD.description>
+  <!--EN: Cursed-->
+  <TM_FrailtyCurseHD.label>Cursed</TM_FrailtyCurseHD.label>
+  <!--EN: frail-->
+  <TM_FrailtyCurseHD.stages.0.label>frail</TM_FrailtyCurseHD.stages.0.label>
+  <!--EN: crippled-->
+  <TM_FrailtyCurseHD.stages.1.label>crippled</TM_FrailtyCurseHD.stages.1.label>
+</LanguageData>

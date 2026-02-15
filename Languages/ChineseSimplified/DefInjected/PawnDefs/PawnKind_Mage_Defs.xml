@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Seer Archer-->
+  <SeerBowman.label>Seer Archer</SeerBowman.label>
+  <!--EN: Seer Archers-->
+  <SeerBowman.labelPlural>Seer Archers</SeerBowman.labelPlural>
+  <!--EN: Magic Protector-->
+  <SeerDefender.label>Magic Protector</SeerDefender.label>
+  <!--EN: magic protectors-->
+  <SeerDefender.labelPlural>magic protectors</SeerDefender.labelPlural>
+  <!--EN: Seer Elite-->
+  <SeerElite.label>Seer Elite</SeerElite.label>
+  <!--EN: Seer Elite-->
+  <SeerElite.labelPlural>Seer Elite</SeerElite.labelPlural>
+  <!--EN: Guardsman-->
+  <SeerSpearman.label>Guardsman</SeerSpearman.label>
+  <!--EN: Guardsmen-->
+  <SeerSpearman.labelPlural>Guardsmen</SeerSpearman.labelPlural>
+</LanguageData>

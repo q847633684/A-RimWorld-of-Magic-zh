@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Active state-->
+  <TM_GolemActive.headerTip>Active state</TM_GolemActive.headerTip>
+  <!--EN: Age-->
+  <TM_GolemAge.label>Age</TM_GolemAge.label>
+  <!--EN: List and manage golems that belong to the colony.-->
+  <TM_GolemButton.description>List and manage golems that belong to the colony.</TM_GolemButton.description>
+  <!--EN: golems-->
+  <TM_GolemButton.label>golems</TM_GolemButton.label>
+  <!--EN: Assigned to:-->
+  <TM_GolemMaster.label>Assigned to:</TM_GolemMaster.label>
+  <!--EN: Energy-->
+  <TM_GolemNeeds.label>Energy</TM_GolemNeeds.label>
+</LanguageData>

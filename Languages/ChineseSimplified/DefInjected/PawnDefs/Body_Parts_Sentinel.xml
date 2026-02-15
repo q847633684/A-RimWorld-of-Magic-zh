@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: abdomen-->
+  <Sentinel_Abdomen.label>abdomen</Sentinel_Abdomen.label>
+  <!--EN: sentinel legs-->
+  <Sentinel_Base.label>sentinel legs</Sentinel_Base.label>
+  <!--EN: body-->
+  <Sentinel_Body.label>body</Sentinel_Body.label>
+  <!--EN: brain-->
+  <Sentinel_Brain.label>brain</Sentinel_Brain.label>
+  <!--EN: chest-->
+  <Sentinel_Chest.label>chest</Sentinel_Chest.label>
+  <!--EN: claws-->
+  <Sentinel_Claws.label>claws</Sentinel_Claws.label>
+  <!--EN: head-->
+  <Sentinel_Head.label>head</Sentinel_Head.label>
+  <!--EN: jaw-->
+  <Sentinel_Jaw.label>jaw</Sentinel_Jaw.label>
+  <!--EN: left arm-->
+  <Sentinel_LeftArm.label>left arm</Sentinel_LeftArm.label>
+  <!--EN: left ear-->
+  <Sentinel_LeftEar.label>left ear</Sentinel_LeftEar.label>
+  <!--EN: left eye-->
+  <Sentinel_LeftEye.label>left eye</Sentinel_LeftEye.label>
+  <!--EN: neck-->
+  <Sentinel_Neck.label>neck</Sentinel_Neck.label>
+  <!--EN: right arm-->
+  <Sentinel_RightArm.label>right arm</Sentinel_RightArm.label>
+  <!--EN: right ear-->
+  <Sentinel_RightEar.label>right ear</Sentinel_RightEar.label>
+  <!--EN: right eye-->
+  <Sentinel_RightEye.label>right eye</Sentinel_RightEye.label>
+  <!--EN: skull-->
+  <Sentinel_Skull.label>skull</Sentinel_Skull.label>
+  <!--EN: spine-->
+  <Sentinel_Spine.label>spine</Sentinel_Spine.label>
+  <!--EN: teeth-->
+  <Sentinel_Teeth.label>teeth</Sentinel_Teeth.label>
+</LanguageData>

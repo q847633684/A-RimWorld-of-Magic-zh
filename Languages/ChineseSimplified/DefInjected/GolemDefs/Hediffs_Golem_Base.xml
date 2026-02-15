@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Health effects applied to all golems.-->
+  <TM_GolemHD.description>Health effects applied to all golems.</TM_GolemHD.description>
+  <!--EN: Golem-->
+  <TM_GolemHD.label>Golem</TM_GolemHD.label>
+</LanguageData>

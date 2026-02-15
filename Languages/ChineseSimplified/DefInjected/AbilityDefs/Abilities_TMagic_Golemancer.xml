@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Living Wall-->
+  <FlyingObject_LivingWall.label>Living Wall</FlyingObject_LivingWall.label>
+  <!--EN: The awareness brand may be placed on another pawn to increase their vision, hearing, speaking, and intellect.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.-->
+  <TM_AwarenessBrand.description>The awareness brand may be placed on another pawn to increase their vision, hearing, speaking, and intellect.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.</TM_AwarenessBrand.description>
+  <!--EN: Brand: Awareness-->
+  <TM_AwarenessBrand.label>Brand: Awareness</TM_AwarenessBrand.label>
+  <!--EN: Branding is used to create a temporary, magical mark on a pawn that creates a link between the caster and the branded. Multiple brands may be placed on a single pawn as long as each brand is a different type. A caster may create as many brands as they wish, but each brand subtracts from the energy regeneration of the caster. Brands will become dormant if the caster runs out of mana. Brands are a unique type of spell, and each brand must be learned separately. Skill in branding affects all types of brands.-->
+  <TM_Branding.description>Branding is used to create a temporary, magical mark on a pawn that creates a link between the caster and the branded. Multiple brands may be placed on a single pawn as long as each brand is a different type. A caster may create as many brands as they wish, but each brand subtracts from the energy regeneration of the caster. Brands will become dormant if the caster runs out of mana. Brands are a unique type of spell, and each brand must be learned separately. Skill in branding affects all types of brands.</TM_Branding.description>
+  <!--EN: Branding-->
+  <TM_Branding.label>Branding</TM_Branding.label>
+  <!--EN: Dispels all active brands.-->
+  <TM_DispelBranding.description>Dispels all active brands.</TM_DispelBranding.description>
+  <!--EN: Dispel Brands-->
+  <TM_DispelBranding.label>Dispel Brands</TM_DispelBranding.label>
+  <!--EN: Dispels the living wall.-->
+  <TM_DispelLivingWall.description>Dispels the living wall.</TM_DispelLivingWall.description>
+  <!--EN: Dispel Living Wall-->
+  <TM_DispelLivingWall.label>Dispel Living Wall</TM_DispelLivingWall.label>
+  <!--EN: The emotion brand may be placed on another pawn to improve their mood.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.-->
+  <TM_EmotionBrand.description>The emotion brand may be placed on another pawn to improve their mood.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.</TM_EmotionBrand.description>
+  <!--EN: Brand: Emotion-->
+  <TM_EmotionBrand.label>Brand: Emotion</TM_EmotionBrand.label>
+  <!--EN: The fitness brand may be placed on another pawn to improve their physical performance.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.-->
+  <TM_FitnessBrand.description>The fitness brand may be placed on another pawn to improve their physical performance.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.</TM_FitnessBrand.description>
+  <!--EN: Brand: Fitness-->
+  <TM_FitnessBrand.label>Brand: Fitness</TM_FitnessBrand.label>
+  <!--EN: Golemancy is the art of infusing magical energy into an object through the use of runes or markings that create a link to the caster. This energy link is commonly used for to achieve the purpose of object animation, energy conversion, or information gathering.
+
+Both the golem and golemancer gain a boost to their capabilities when paired. A golem may only be assigned to one pawn, but multiple golems may be assigned to a single pawn. Golemancy benefits only apply to an assigned golem.
+
+Golems may be crafted from their respective workbenches after the appropriate research is complete. Check the research tab for each golem type and their corresponding workbench.-->
+  <TM_Golemancy.description>Golemancy is the art of infusing magical energy into an object through the use of runes or markings that create a link to the caster. This energy link is commonly used for to achieve the purpose of object animation, energy conversion, or information gathering.
+
+Both the golem and golemancer gain a boost to their capabilities when paired. A golem may only be assigned to one pawn, but multiple golems may be assigned to a single pawn. Golemancy benefits only apply to an assigned golem.
+
+Golems may be crafted from their respective workbenches after the appropriate research is complete. Check the research tab for each golem type and their corresponding workbench.</TM_Golemancy.description>
+  <!--EN: Golemancy-->
+  <TM_Golemancy.label>Golemancy</TM_Golemancy.label>
+  <!--EN: Enchants a wall with purpose allowing it to become semi-intelligent. The living wall will strike out at enemies within reach and will repair itself when damaged. The animated creature within the wall may travel to any adjacent section of wall and treats an entire connected section of wall as an extension of itself. A living wall will attempt to move to the closest wall segment of the closest enemy. The living wall cannot move between disconnected wall segments and may only move to another segment that is cardinal adjacent. A caster can only maintain a single living wall, regardless of the size of the wall it occupies. Multiple living wall's may occupy a single wall.-->
+  <TM_LivingWall.description>Enchants a wall with purpose allowing it to become semi-intelligent. The living wall will strike out at enemies within reach and will repair itself when damaged. The animated creature within the wall may travel to any adjacent section of wall and treats an entire connected section of wall as an extension of itself. A living wall will attempt to move to the closest wall segment of the closest enemy. The living wall cannot move between disconnected wall segments and may only move to another segment that is cardinal adjacent. A caster can only maintain a single living wall, regardless of the size of the wall it occupies. Multiple living wall&amp;apos;s may occupy a single wall.</TM_LivingWall.description>
+  <!--EN: Living Wall-->
+  <TM_LivingWall.label>Living Wall</TM_LivingWall.label>
+  <!--EN: The protection brand may be placed on another pawn to absorb attacks. The protection rune recharges periodically.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.-->
+  <TM_ProtectionBrand.description>The protection brand may be placed on another pawn to absorb attacks. The protection rune recharges periodically.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.</TM_ProtectionBrand.description>
+  <!--EN: Brand: Protection-->
+  <TM_ProtectionBrand.label>Brand: Protection</TM_ProtectionBrand.label>
+  <!--EN: Rune carving is a magical art used to permanently instill magical power into an object. This process has long been performed to inscribe runes into equipment and weapons to bestow magical properties. The Golemancer uses a similar, but more delicate, process using runes to increase the efficacy of bodyparts. While only specific parts may be enhanced through rune carving, any variation of those parts can be enhanced. 
+
+Rune carving requires additional material resources in a marked stockpile: 225 magicyte, 2 mana potions, and 1 medicine. Successful rune carving is determined by the golemancer's skill in crafting, art, and ability skill. Medical work must also be enabled for the caster since rune carving is a form of a medical operation. Rune carving will never be successful if either crafting or artistic skill is disabled.
+
+To apply runes, select the pawn you wish to inscribe and create the rune carving surgery under their health options. All components must be available before the surgery option will appear.-->
+  <TM_RuneCarving.description>Rune carving is a magical art used to permanently instill magical power into an object. This process has long been performed to inscribe runes into equipment and weapons to bestow magical properties. The Golemancer uses a similar, but more delicate, process using runes to increase the efficacy of bodyparts. While only specific parts may be enhanced through rune carving, any variation of those parts can be enhanced. 
+
+Rune carving requires additional material resources in a marked stockpile: 225 magicyte, 2 mana potions, and 1 medicine. Successful rune carving is determined by the golemancer&amp;apos;s skill in crafting, art, and ability skill. Medical work must also be enabled for the caster since rune carving is a form of a medical operation. Rune carving will never be successful if either crafting or artistic skill is disabled.
+
+To apply runes, select the pawn you wish to inscribe and create the rune carving surgery under their health options. All components must be available before the surgery option will appear.</TM_RuneCarving.description>
+  <!--EN: Rune Carving-->
+  <TM_RuneCarving.label>Rune Carving</TM_RuneCarving.label>
+  <!--EN: Activating this ability causes all brands to invert their effects, granting bonuses to the caster instead of the branded. This ability causes moderate pain to the branded and bonuses to the caster for each brand they control. Use this ability again to stop draining.-->
+  <TM_SigilDrain.description>Activating this ability causes all brands to invert their effects, granting bonuses to the caster instead of the branded. This ability causes moderate pain to the branded and bonuses to the caster for each brand they control. Use this ability again to stop draining.</TM_SigilDrain.description>
+  <!--EN: Sigil Drain-->
+  <TM_SigilDrain.label>Sigil Drain</TM_SigilDrain.label>
+  <!--EN: Activating this ability causes all brands to become super-charged. This ability causes moderate pain to the Golemancer and triples the energy drain of each brand. Use the ability again to stop surging.-->
+  <TM_SigilSurge.description>Activating this ability causes all brands to become super-charged. This ability causes moderate pain to the Golemancer and triples the energy drain of each brand. Use the ability again to stop surging.</TM_SigilSurge.description>
+  <!--EN: Sigil Surge-->
+  <TM_SigilSurge.label>Sigil Surge</TM_SigilSurge.label>
+  <!--EN: The siphon brand may be placed on another mage to periodically transfer their mana to the caster.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.-->
+  <TM_SiphonBrand.description>The siphon brand may be placed on another mage to periodically transfer their mana to the caster.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.</TM_SiphonBrand.description>
+  <!--EN: Brand: Siphon-->
+  <TM_SiphonBrand.label>Brand: Siphon</TM_SiphonBrand.label>
+  <!--EN: The vitality brand may be placed on another pawn to improve their overall health, healing, and disease resistance.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.-->
+  <TM_VitalityBrand.description>The vitality brand may be placed on another pawn to improve their overall health, healing, and disease resistance.
+		
+Brands are a semi-permanent form of magic typically created using some form of marking or engraving, much like a magical tattoo, that creates a link between two pawns. Brands require a constant flow of mana to maintain, however, the brand becomes dormant if the caster is unable to sustain the spell. The brand is removed if the caster dies or chooses to dispel the brand.</TM_VitalityBrand.description>
+  <!--EN: Brand: Vitality-->
+  <TM_VitalityBrand.label>Brand: Vitality</TM_VitalityBrand.label>
+</LanguageData>

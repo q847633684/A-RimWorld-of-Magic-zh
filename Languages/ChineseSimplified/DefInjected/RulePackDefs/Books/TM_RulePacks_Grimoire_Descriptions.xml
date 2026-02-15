@@ -1,0 +1,1739 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: subject->[subject_Might]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.0>subject-&amp;gt;[subject_Might]</TM_Description_CombatTechnique.rulePack.rulesStrings.0>
+  <!--EN: object->[subject_teachingType]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.1>object-&amp;gt;[subject_teachingType]</TM_Description_CombatTechnique.rulePack.rulesStrings.1>
+  <!--EN: detail->. The instructions focus on the finer aspects of mastering [subject]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.10>detail-&amp;gt;. The instructions focus on the finer aspects of mastering [subject]</TM_Description_CombatTechnique.rulePack.rulesStrings.10>
+  <!--EN: skill_combat->focus-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.100>skill_combat-&amp;gt;focus</TM_Description_CombatTechnique.rulePack.rulesStrings.100>
+  <!--EN: skill_combat->discipline-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.101>skill_combat-&amp;gt;discipline</TM_Description_CombatTechnique.rulePack.rulesStrings.101>
+  <!--EN: skill_combat->coordination-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.102>skill_combat-&amp;gt;coordination</TM_Description_CombatTechnique.rulePack.rulesStrings.102>
+  <!--EN: skill_combat->aggression-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.103>skill_combat-&amp;gt;aggression</TM_Description_CombatTechnique.rulePack.rulesStrings.103>
+  <!--EN: skill_combat->reflexes-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.104>skill_combat-&amp;gt;reflexes</TM_Description_CombatTechnique.rulePack.rulesStrings.104>
+  <!--EN: skill_combat->fortitude-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.105>skill_combat-&amp;gt;fortitude</TM_Description_CombatTechnique.rulePack.rulesStrings.105>
+  <!--EN: combatLocation->a secluded dojo-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.106>combatLocation-&amp;gt;a secluded dojo</TM_Description_CombatTechnique.rulePack.rulesStrings.106>
+  <!--EN: combatLocation->an ancient battleground-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.107>combatLocation-&amp;gt;an ancient battleground</TM_Description_CombatTechnique.rulePack.rulesStrings.107>
+  <!--EN: combatLocation->a deserted island-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.108>combatLocation-&amp;gt;a deserted island</TM_Description_CombatTechnique.rulePack.rulesStrings.108>
+  <!--EN: combatLocation->a fortified castle-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.109>combatLocation-&amp;gt;a fortified castle</TM_Description_CombatTechnique.rulePack.rulesStrings.109>
+  <!--EN: detail->. It is a succinct instruction of a complex subject-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.11>detail-&amp;gt;. It is a succinct instruction of a complex subject</TM_Description_CombatTechnique.rulePack.rulesStrings.11>
+  <!--EN: combatLocation->a hidden training camp-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.110>combatLocation-&amp;gt;a hidden training camp</TM_Description_CombatTechnique.rulePack.rulesStrings.110>
+  <!--EN: combatLocation->a dense forest-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.111>combatLocation-&amp;gt;a dense forest</TM_Description_CombatTechnique.rulePack.rulesStrings.111>
+  <!--EN: combatLocation->a mountain peak-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.112>combatLocation-&amp;gt;a mountain peak</TM_Description_CombatTechnique.rulePack.rulesStrings.112>
+  <!--EN: combatLocation->an abandoned arena-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.113>combatLocation-&amp;gt;an abandoned arena</TM_Description_CombatTechnique.rulePack.rulesStrings.113>
+  <!--EN: combatLocation->a sunlit clearing-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.114>combatLocation-&amp;gt;a sunlit clearing</TM_Description_CombatTechnique.rulePack.rulesStrings.114>
+  <!--EN: combatLocation->a mystical cave-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.115>combatLocation-&amp;gt;a mystical cave</TM_Description_CombatTechnique.rulePack.rulesStrings.115>
+  <!--EN: combatLocation->a windswept plateau-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.116>combatLocation-&amp;gt;a windswept plateau</TM_Description_CombatTechnique.rulePack.rulesStrings.116>
+  <!--EN: combatLocation->a remote monastery-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.117>combatLocation-&amp;gt;a remote monastery</TM_Description_CombatTechnique.rulePack.rulesStrings.117>
+  <!--EN: combatLocation->a sprawling desert-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.118>combatLocation-&amp;gt;a sprawling desert</TM_Description_CombatTechnique.rulePack.rulesStrings.118>
+  <!--EN: combatLocation->a tranquil lakeside-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.119>combatLocation-&amp;gt;a tranquil lakeside</TM_Description_CombatTechnique.rulePack.rulesStrings.119>
+  <!--EN: detail->. The introductions say that, when [ANYPAWN_label] wrote this, it was a new application in the field-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.12>detail-&amp;gt;. The introductions say that, when [ANYPAWN_label] wrote this, it was a new application in the field</TM_Description_CombatTechnique.rulePack.rulesStrings.12>
+  <!--EN: combatLocation->an underground chamber-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.120>combatLocation-&amp;gt;an underground chamber</TM_Description_CombatTechnique.rulePack.rulesStrings.120>
+  <!--EN: combatLocation->a shadowy canyon-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.121>combatLocation-&amp;gt;a shadowy canyon</TM_Description_CombatTechnique.rulePack.rulesStrings.121>
+  <!--EN: combatLocation->a labyrinthine ruin-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.122>combatLocation-&amp;gt;a labyrinthine ruin</TM_Description_CombatTechnique.rulePack.rulesStrings.122>
+  <!--EN: combatLocation->a bustling marketplace-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.123>combatLocation-&amp;gt;a bustling marketplace</TM_Description_CombatTechnique.rulePack.rulesStrings.123>
+  <!--EN: combatLocation->a perilous cliffside-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.124>combatLocation-&amp;gt;a perilous cliffside</TM_Description_CombatTechnique.rulePack.rulesStrings.124>
+  <!--EN: combatLocation->a sacred temple-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.125>combatLocation-&amp;gt;a sacred temple</TM_Description_CombatTechnique.rulePack.rulesStrings.125>
+  <!--EN: textbook->primer-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.126>textbook-&amp;gt;primer</TM_Description_CombatTechnique.rulePack.rulesStrings.126>
+  <!--EN: textbook->manual-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.127>textbook-&amp;gt;manual</TM_Description_CombatTechnique.rulePack.rulesStrings.127>
+  <!--EN: textbook(p=6)->book-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.128>textbook(p=6)-&amp;gt;book</TM_Description_CombatTechnique.rulePack.rulesStrings.128>
+  <!--EN: textbook->workbook-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.129>textbook-&amp;gt;workbook</TM_Description_CombatTechnique.rulePack.rulesStrings.129>
+  <!--EN: detail->. A quote on the [note_location] says, 'True [students] of [subject] cannot ignore [ANYPAWN_label]'s book-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.13>detail-&amp;gt;. A quote on the [note_location] says, &amp;apos;True [students] of [subject] cannot ignore [ANYPAWN_label]&amp;apos;s book</TM_Description_CombatTechnique.rulePack.rulesStrings.13>
+  <!--EN: textbook->reference book-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.130>textbook-&amp;gt;reference book</TM_Description_CombatTechnique.rulePack.rulesStrings.130>
+  <!--EN: textbook->compendium-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.131>textbook-&amp;gt;compendium</TM_Description_CombatTechnique.rulePack.rulesStrings.131>
+  <!--EN: textbook->guidebook-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.132>textbook-&amp;gt;guidebook</TM_Description_CombatTechnique.rulePack.rulesStrings.132>
+  <!--EN: textbook->booklet-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.133>textbook-&amp;gt;booklet</TM_Description_CombatTechnique.rulePack.rulesStrings.133>
+  <!--EN: textbook->reference book-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.134>textbook-&amp;gt;reference book</TM_Description_CombatTechnique.rulePack.rulesStrings.134>
+  <!--EN: textbook->account-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.135>textbook-&amp;gt;account</TM_Description_CombatTechnique.rulePack.rulesStrings.135>
+  <!--EN: textbook->handbook-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.136>textbook-&amp;gt;handbook</TM_Description_CombatTechnique.rulePack.rulesStrings.136>
+  <!--EN: textbook->tradebook-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.137>textbook-&amp;gt;tradebook</TM_Description_CombatTechnique.rulePack.rulesStrings.137>
+  <!--EN: textbook->work-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.138>textbook-&amp;gt;work</TM_Description_CombatTechnique.rulePack.rulesStrings.138>
+  <!--EN: note_location->front cover-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.139>note_location-&amp;gt;front cover</TM_Description_CombatTechnique.rulePack.rulesStrings.139>
+  <!--EN: students->students-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.14>students-&amp;gt;students</TM_Description_CombatTechnique.rulePack.rulesStrings.14>
+  <!--EN: note_location->back cover-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.140>note_location-&amp;gt;back cover</TM_Description_CombatTechnique.rulePack.rulesStrings.140>
+  <!--EN: note_location->front flap-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.141>note_location-&amp;gt;front flap</TM_Description_CombatTechnique.rulePack.rulesStrings.141>
+  <!--EN: note_location->back flap-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.142>note_location-&amp;gt;back flap</TM_Description_CombatTechnique.rulePack.rulesStrings.142>
+  <!--EN: note_location->first page-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.143>note_location-&amp;gt;first page</TM_Description_CombatTechnique.rulePack.rulesStrings.143>
+  <!--EN: note_location->last page-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.144>note_location-&amp;gt;last page</TM_Description_CombatTechnique.rulePack.rulesStrings.144>
+  <!--EN: note_location->margins-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.145>note_location-&amp;gt;margins</TM_Description_CombatTechnique.rulePack.rulesStrings.145>
+  <!--EN: note_location->title page-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.146>note_location-&amp;gt;title page</TM_Description_CombatTechnique.rulePack.rulesStrings.146>
+  <!--EN: note_location->footnote-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.147>note_location-&amp;gt;footnote</TM_Description_CombatTechnique.rulePack.rulesStrings.147>
+  <!--EN: note_location->endnote-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.148>note_location-&amp;gt;endnote</TM_Description_CombatTechnique.rulePack.rulesStrings.148>
+  <!--EN: note_location->author's biography-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.149>note_location-&amp;gt;author&amp;apos;s biography</TM_Description_CombatTechnique.rulePack.rulesStrings.149>
+  <!--EN: students->lovers-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.15>students-&amp;gt;lovers</TM_Description_CombatTechnique.rulePack.rulesStrings.15>
+  <!--EN: note->note-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.150>note-&amp;gt;note</TM_Description_CombatTechnique.rulePack.rulesStrings.150>
+  <!--EN: note->addendum-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.151>note-&amp;gt;addendum</TM_Description_CombatTechnique.rulePack.rulesStrings.151>
+  <!--EN: note->postscript-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.152>note-&amp;gt;postscript</TM_Description_CombatTechnique.rulePack.rulesStrings.152>
+  <!--EN: note->afterword-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.153>note-&amp;gt;afterword</TM_Description_CombatTechnique.rulePack.rulesStrings.153>
+  <!--EN: note->appendix-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.154>note-&amp;gt;appendix</TM_Description_CombatTechnique.rulePack.rulesStrings.154>
+  <!--EN: note->coda-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.155>note-&amp;gt;coda</TM_Description_CombatTechnique.rulePack.rulesStrings.155>
+  <!--EN: note->footnote-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.156>note-&amp;gt;footnote</TM_Description_CombatTechnique.rulePack.rulesStrings.156>
+  <!--EN: note->endnote-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.157>note-&amp;gt;endnote</TM_Description_CombatTechnique.rulePack.rulesStrings.157>
+  <!--EN: useful_information->useful tidbits of information-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.158>useful_information-&amp;gt;useful tidbits of information</TM_Description_CombatTechnique.rulePack.rulesStrings.158>
+  <!--EN: useful_information->useful information-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.159>useful_information-&amp;gt;useful information</TM_Description_CombatTechnique.rulePack.rulesStrings.159>
+  <!--EN: students->practitioners-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.16>students-&amp;gt;practitioners</TM_Description_CombatTechnique.rulePack.rulesStrings.16>
+  <!--EN: useful_information->interesting facts-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.160>useful_information-&amp;gt;interesting facts</TM_Description_CombatTechnique.rulePack.rulesStrings.160>
+  <!--EN: useful_information->valuable insights-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.161>useful_information-&amp;gt;valuable insights</TM_Description_CombatTechnique.rulePack.rulesStrings.161>
+  <!--EN: useful_information->practical insights-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.162>useful_information-&amp;gt;practical insights</TM_Description_CombatTechnique.rulePack.rulesStrings.162>
+  <!--EN: useful_information->helpful tips-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.163>useful_information-&amp;gt;helpful tips</TM_Description_CombatTechnique.rulePack.rulesStrings.163>
+  <!--EN: useful_information->informative details-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.164>useful_information-&amp;gt;informative details</TM_Description_CombatTechnique.rulePack.rulesStrings.164>
+  <!--EN: understanding_synonym->knowledge of-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.165>understanding_synonym-&amp;gt;knowledge of</TM_Description_CombatTechnique.rulePack.rulesStrings.165>
+  <!--EN: understanding_synonym->self-improvement in-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.166>understanding_synonym-&amp;gt;self-improvement in</TM_Description_CombatTechnique.rulePack.rulesStrings.166>
+  <!--EN: understanding_synonym->an understanding of-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.167>understanding_synonym-&amp;gt;an understanding of</TM_Description_CombatTechnique.rulePack.rulesStrings.167>
+  <!--EN: understanding_synonym->scholarship in-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.168>understanding_synonym-&amp;gt;scholarship in</TM_Description_CombatTechnique.rulePack.rulesStrings.168>
+  <!--EN: understanding_synonym->erudition in-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.169>understanding_synonym-&amp;gt;erudition in</TM_Description_CombatTechnique.rulePack.rulesStrings.169>
+  <!--EN: students->warriors-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.17>students-&amp;gt;warriors</TM_Description_CombatTechnique.rulePack.rulesStrings.17>
+  <!--EN: understanding_synonym->expertise in-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.170>understanding_synonym-&amp;gt;expertise in</TM_Description_CombatTechnique.rulePack.rulesStrings.170>
+  <!--EN: understanding_synonym->a philosophy of-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.171>understanding_synonym-&amp;gt;a philosophy of</TM_Description_CombatTechnique.rulePack.rulesStrings.171>
+  <!--EN: understanding_synonym->the ethics of-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.172>understanding_synonym-&amp;gt;the ethics of</TM_Description_CombatTechnique.rulePack.rulesStrings.172>
+  <!--EN: notable_adjective->famous-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.173>notable_adjective-&amp;gt;famous</TM_Description_CombatTechnique.rulePack.rulesStrings.173>
+  <!--EN: notable_adjective->obscure-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.174>notable_adjective-&amp;gt;obscure</TM_Description_CombatTechnique.rulePack.rulesStrings.174>
+  <!--EN: notable_adjective->iconic-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.175>notable_adjective-&amp;gt;iconic</TM_Description_CombatTechnique.rulePack.rulesStrings.175>
+  <!--EN: notable_adjective->classic-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.176>notable_adjective-&amp;gt;classic</TM_Description_CombatTechnique.rulePack.rulesStrings.176>
+  <!--EN: notable_adjective->common-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.177>notable_adjective-&amp;gt;common</TM_Description_CombatTechnique.rulePack.rulesStrings.177>
+  <!--EN: notable_adjective->familiar-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.178>notable_adjective-&amp;gt;familiar</TM_Description_CombatTechnique.rulePack.rulesStrings.178>
+  <!--EN: notable_adjective->timeless-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.179>notable_adjective-&amp;gt;timeless</TM_Description_CombatTechnique.rulePack.rulesStrings.179>
+  <!--EN: students->fighters-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.18>students-&amp;gt;fighters</TM_Description_CombatTechnique.rulePack.rulesStrings.18>
+  <!--EN: notable_adjective->lopsided-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.180>notable_adjective-&amp;gt;lopsided</TM_Description_CombatTechnique.rulePack.rulesStrings.180>
+  <!--EN: notable_adjective->harmonious-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.181>notable_adjective-&amp;gt;harmonious</TM_Description_CombatTechnique.rulePack.rulesStrings.181>
+  <!--EN: notable_adjective->elegant-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.182>notable_adjective-&amp;gt;elegant</TM_Description_CombatTechnique.rulePack.rulesStrings.182>
+  <!--EN: notable_adjective->simple-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.183>notable_adjective-&amp;gt;simple</TM_Description_CombatTechnique.rulePack.rulesStrings.183>
+  <!--EN: notable_adjective->functional-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.184>notable_adjective-&amp;gt;functional</TM_Description_CombatTechnique.rulePack.rulesStrings.184>
+  <!--EN: notable_adjective->urbworld-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.185>notable_adjective-&amp;gt;urbworld</TM_Description_CombatTechnique.rulePack.rulesStrings.185>
+  <!--EN: notable_adjective->Glitterworld-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.186>notable_adjective-&amp;gt;Glitterworld</TM_Description_CombatTechnique.rulePack.rulesStrings.186>
+  <!--EN: notable_adjective->primitive-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.187>notable_adjective-&amp;gt;primitive</TM_Description_CombatTechnique.rulePack.rulesStrings.187>
+  <!--EN: notable_adjective->decorative-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.188>notable_adjective-&amp;gt;decorative</TM_Description_CombatTechnique.rulePack.rulesStrings.188>
+  <!--EN: exterior_quality(quality[greater_than]4)->The exterior of this book is finely bound and-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.189>exterior_quality(quality[greater_than]4)-&amp;gt;The exterior of this book is finely bound and</TM_Description_CombatTechnique.rulePack.rulesStrings.189>
+  <!--EN: detail->. It takes you through the subject step-by-step-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.19>detail-&amp;gt;. It takes you through the subject step-by-step</TM_Description_CombatTechnique.rulePack.rulesStrings.19>
+  <!--EN: exterior_quality(quality[greater_than]4)->A masterpiece of the printer's art, this book shines and-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.190>exterior_quality(quality[greater_than]4)-&amp;gt;A masterpiece of the printer&amp;apos;s art, this book shines and</TM_Description_CombatTechnique.rulePack.rulesStrings.190>
+  <!--EN: exterior_quality(quality[greater_than]4)->Its leather cover is rough yet-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.191>exterior_quality(quality[greater_than]4)-&amp;gt;Its leather cover is rough yet</TM_Description_CombatTechnique.rulePack.rulesStrings.191>
+  <!--EN: exterior_quality(quality[greater_than]4)->Though the cover is very plain,-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.192>exterior_quality(quality[greater_than]4)-&amp;gt;Though the cover is very plain,</TM_Description_CombatTechnique.rulePack.rulesStrings.192>
+  <!--EN: exterior_quality(quality[less_than]5,quality[greater_than]1)->This textbook has seen better days, but-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.193>exterior_quality(quality[less_than]5,quality[greater_than]1)-&amp;gt;This textbook has seen better days, but</TM_Description_CombatTechnique.rulePack.rulesStrings.193>
+  <!--EN: exterior_quality(quality[less_than]5,quality[greater_than]1)->Despite being a second-hand schoolbook,-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.194>exterior_quality(quality[less_than]5,quality[greater_than]1)-&amp;gt;Despite being a second-hand schoolbook,</TM_Description_CombatTechnique.rulePack.rulesStrings.194>
+  <!--EN: exterior_quality(quality[less_than]5,quality[greater_than]1)->This book has had many owners, but-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.195>exterior_quality(quality[less_than]5,quality[greater_than]1)-&amp;gt;This book has had many owners, but</TM_Description_CombatTechnique.rulePack.rulesStrings.195>
+  <!--EN: exterior_quality(quality[less_than]2)->The front of this book seems attractive but-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.196>exterior_quality(quality[less_than]2)-&amp;gt;The front of this book seems attractive but</TM_Description_CombatTechnique.rulePack.rulesStrings.196>
+  <!--EN: exterior_quality(quality[less_than]2)->Someone has torn away the first third of the book and-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.197>exterior_quality(quality[less_than]2)-&amp;gt;Someone has torn away the first third of the book and</TM_Description_CombatTechnique.rulePack.rulesStrings.197>
+  <!--EN: exterior_quality(quality[less_than]2)->The cover is soaked in a strong-smelling liquid and-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.198>exterior_quality(quality[less_than]2)-&amp;gt;The cover is soaked in a strong-smelling liquid and</TM_Description_CombatTechnique.rulePack.rulesStrings.198>
+  <!--EN: exterior_quality(quality[less_than]2)->At first sight nothing is wrong with the book, but-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.199>exterior_quality(quality[less_than]2)-&amp;gt;At first sight nothing is wrong with the book, but</TM_Description_CombatTechnique.rulePack.rulesStrings.199>
+  <!--EN: desc->[discussion].\n\n[anecdote]. \n\n[quality_statement].-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.2>desc-&amp;gt;[discussion].\n\n[anecdote]. \n\n[quality_statement].</TM_Description_CombatTechnique.rulePack.rulesStrings.2>
+  <!--EN: detail(quality[less_than]4)->, even though the author rushes through the subject-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.20>detail(quality[less_than]4)-&amp;gt;, even though the author rushes through the subject</TM_Description_CombatTechnique.rulePack.rulesStrings.20>
+  <!--EN: page_quality->the pages [page_condition]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.200>page_quality-&amp;gt;the pages [page_condition]</TM_Description_CombatTechnique.rulePack.rulesStrings.200>
+  <!--EN: page_condition(quality[greater_than]4)->[page_excellent]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.201>page_condition(quality[greater_than]4)-&amp;gt;[page_excellent]</TM_Description_CombatTechnique.rulePack.rulesStrings.201>
+  <!--EN: page_condition(quality[less_than]5,quality[greater_than]1)->[page_decent]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.202>page_condition(quality[less_than]5,quality[greater_than]1)-&amp;gt;[page_decent]</TM_Description_CombatTechnique.rulePack.rulesStrings.202>
+  <!--EN: page_condition(quality[less_than]2)->[page_awful]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.203>page_condition(quality[less_than]2)-&amp;gt;[page_awful]</TM_Description_CombatTechnique.rulePack.rulesStrings.203>
+  <!--EN: page_excellent->are in amazing condition, as if never touched-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.204>page_excellent-&amp;gt;are in amazing condition, as if never touched</TM_Description_CombatTechnique.rulePack.rulesStrings.204>
+  <!--EN: page_excellent->are in great condition-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.205>page_excellent-&amp;gt;are in great condition</TM_Description_CombatTechnique.rulePack.rulesStrings.205>
+  <!--EN: page_excellent->are pristine-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.206>page_excellent-&amp;gt;are pristine</TM_Description_CombatTechnique.rulePack.rulesStrings.206>
+  <!--EN: page_excellent->are bright and clean-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.207>page_excellent-&amp;gt;are bright and clean</TM_Description_CombatTechnique.rulePack.rulesStrings.207>
+  <!--EN: page_excellent->are uniquely well-preserved-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.208>page_excellent-&amp;gt;are uniquely well-preserved</TM_Description_CombatTechnique.rulePack.rulesStrings.208>
+  <!--EN: page_decent->are in a decent condition-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.209>page_decent-&amp;gt;are in a decent condition</TM_Description_CombatTechnique.rulePack.rulesStrings.209>
+  <!--EN: detail(quality[greater_than]3)->. It is a comprehensive treatment of the subject-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.21>detail(quality[greater_than]3)-&amp;gt;. It is a comprehensive treatment of the subject</TM_Description_CombatTechnique.rulePack.rulesStrings.21>
+  <!--EN: page_decent->are legible, if crumpled-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.210>page_decent-&amp;gt;are legible, if crumpled</TM_Description_CombatTechnique.rulePack.rulesStrings.210>
+  <!--EN: page_decent->are perfectly readable-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.211>page_decent-&amp;gt;are perfectly readable</TM_Description_CombatTechnique.rulePack.rulesStrings.211>
+  <!--EN: page_decent->are decent, if slightly scored-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.212>page_decent-&amp;gt;are decent, if slightly scored</TM_Description_CombatTechnique.rulePack.rulesStrings.212>
+  <!--EN: page_awful->appear to be written on crumbling parchment-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.213>page_awful-&amp;gt;appear to be written on crumbling parchment</TM_Description_CombatTechnique.rulePack.rulesStrings.213>
+  <!--EN: page_awful->are badly damaged-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.214>page_awful-&amp;gt;are badly damaged</TM_Description_CombatTechnique.rulePack.rulesStrings.214>
+  <!--EN: page_awful->are stained with a dark substance-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.215>page_awful-&amp;gt;are stained with a dark substance</TM_Description_CombatTechnique.rulePack.rulesStrings.215>
+  <!--EN: page_awful->are illegible-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.216>page_awful-&amp;gt;are illegible</TM_Description_CombatTechnique.rulePack.rulesStrings.216>
+  <!--EN: page_awful->have been annotated in an unreadable hand-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.217>page_awful-&amp;gt;have been annotated in an unreadable hand</TM_Description_CombatTechnique.rulePack.rulesStrings.217>
+  <!--EN: worldname->[glitterworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.218>worldname-&amp;gt;[glitterworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.218>
+  <!--EN: worldname->[urbworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.219>worldname-&amp;gt;[urbworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.219>
+  <!--EN: detail(quality[greater_than]4)->. The pages of this [object] are made from thin sheets of metal-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.22>detail(quality[greater_than]4)-&amp;gt;. The pages of this [object] are made from thin sheets of metal</TM_Description_CombatTechnique.rulePack.rulesStrings.22>
+  <!--EN: worldname->[deadworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.220>worldname-&amp;gt;[deadworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.220>
+  <!--EN: worldname->[shellworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.221>worldname-&amp;gt;[shellworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.221>
+  <!--EN: worldname->[ruinworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.222>worldname-&amp;gt;[ruinworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.222>
+  <!--EN: worldname->[medievalworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.223>worldname-&amp;gt;[medievalworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.223>
+  <!--EN: worldname->[steamworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.224>worldname-&amp;gt;[steamworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.224>
+  <!--EN: worldname->[midworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.225>worldname-&amp;gt;[midworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.225>
+  <!--EN: worldname->[rimworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.226>worldname-&amp;gt;[rimworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.226>
+  <!--EN: worldname->[coreworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.227>worldname-&amp;gt;[coreworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.227>
+  <!--EN: worldname->[toxicworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.228>worldname-&amp;gt;[toxicworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.228>
+  <!--EN: worldname->[glassworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.229>worldname-&amp;gt;[glassworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.229>
+  <!--EN: detail(quality[greater_than]5)->. The [object] is covered in chains-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.23>detail(quality[greater_than]5)-&amp;gt;. The [object] is covered in chains</TM_Description_CombatTechnique.rulePack.rulesStrings.23>
+  <!--EN: worldname->[transcendentworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.230>worldname-&amp;gt;[transcendentworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.230>
+  <!--EN: worldname->[indworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.231>worldname-&amp;gt;[indworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.231>
+  <!--EN: worldname->[prisonworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.232>worldname-&amp;gt;[prisonworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.232>
+  <!--EN: worldname->[feudalworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.233>worldname-&amp;gt;[feudalworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.233>
+  <!--EN: worldname->[trashworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.234>worldname-&amp;gt;[trashworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.234>
+  <!--EN: worldname->[iceworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.235>worldname-&amp;gt;[iceworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.235>
+  <!--EN: worldname->[dinoworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.236>worldname-&amp;gt;[dinoworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.236>
+  <!--EN: worldname->[warworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.237>worldname-&amp;gt;[warworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.237>
+  <!--EN: worldname->[oceanicworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.238>worldname-&amp;gt;[oceanicworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.238>
+  <!--EN: worldname->[mineworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.239>worldname-&amp;gt;[mineworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.239>
+  <!--EN: detail->. There are strange scratches on the cover of this [object]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.24>detail-&amp;gt;. There are strange scratches on the cover of this [object]</TM_Description_CombatTechnique.rulePack.rulesStrings.24>
+  <!--EN: worldname->[animalworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.240>worldname-&amp;gt;[animalworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.240>
+  <!--EN: worldname->[asteroid]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.241>worldname-&amp;gt;[asteroid]</TM_Description_CombatTechnique.rulePack.rulesStrings.241>
+  <!--EN: worldname->[animalworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.242>worldname-&amp;gt;[animalworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.242>
+  <!--EN: feralworld->[animalworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.243>feralworld-&amp;gt;[animalworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.243>
+  <!--EN: milworld->[warworld]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.244>milworld-&amp;gt;[warworld]</TM_Description_CombatTechnique.rulePack.rulesStrings.244>
+  <!--EN: animalworld->Sorne-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.245>animalworld-&amp;gt;Sorne</TM_Description_CombatTechnique.rulePack.rulesStrings.245>
+  <!--EN: animalworld->Rhydell-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.246>animalworld-&amp;gt;Rhydell</TM_Description_CombatTechnique.rulePack.rulesStrings.246>
+  <!--EN: animalworld->Zoutera-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.247>animalworld-&amp;gt;Zoutera</TM_Description_CombatTechnique.rulePack.rulesStrings.247>
+  <!--EN: animalworld->Thylacine-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.248>animalworld-&amp;gt;Thylacine</TM_Description_CombatTechnique.rulePack.rulesStrings.248>
+  <!--EN: animalworld->Jiai-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.249>animalworld-&amp;gt;Jiai</TM_Description_CombatTechnique.rulePack.rulesStrings.249>
+  <!--EN: detail->. Dried blood marrs the cover of this [object]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.25>detail-&amp;gt;. Dried blood marrs the cover of this [object]</TM_Description_CombatTechnique.rulePack.rulesStrings.25>
+  <!--EN: animalworld->Steller's World-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.250>animalworld-&amp;gt;Steller&amp;apos;s World</TM_Description_CombatTechnique.rulePack.rulesStrings.250>
+  <!--EN: animalworld->Aukton-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.251>animalworld-&amp;gt;Aukton</TM_Description_CombatTechnique.rulePack.rulesStrings.251>
+  <!--EN: asteroid->Iwamura-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.252>asteroid-&amp;gt;Iwamura</TM_Description_CombatTechnique.rulePack.rulesStrings.252>
+  <!--EN: asteroid->Atura-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.253>asteroid-&amp;gt;Atura</TM_Description_CombatTechnique.rulePack.rulesStrings.253>
+  <!--EN: asteroid->Widdershins-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.254>asteroid-&amp;gt;Widdershins</TM_Description_CombatTechnique.rulePack.rulesStrings.254>
+  <!--EN: asteroid->Ranomi-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.255>asteroid-&amp;gt;Ranomi</TM_Description_CombatTechnique.rulePack.rulesStrings.255>
+  <!--EN: asteroid->Aesh 265-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.256>asteroid-&amp;gt;Aesh 265</TM_Description_CombatTechnique.rulePack.rulesStrings.256>
+  <!--EN: asteroid->Taxlos-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.257>asteroid-&amp;gt;Taxlos</TM_Description_CombatTechnique.rulePack.rulesStrings.257>
+  <!--EN: asteroid->Aryn Sigma-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.258>asteroid-&amp;gt;Aryn Sigma</TM_Description_CombatTechnique.rulePack.rulesStrings.258>
+  <!--EN: coreworld->Novaroma-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.259>coreworld-&amp;gt;Novaroma</TM_Description_CombatTechnique.rulePack.rulesStrings.259>
+  <!--EN: detail(quality[less_than]3)->, though the author's rhetoric distracts from the core concept-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.26>detail(quality[less_than]3)-&amp;gt;, though the author&amp;apos;s rhetoric distracts from the core concept</TM_Description_CombatTechnique.rulePack.rulesStrings.26>
+  <!--EN: coreworld->Lutuni-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.260>coreworld-&amp;gt;Lutuni</TM_Description_CombatTechnique.rulePack.rulesStrings.260>
+  <!--EN: coreworld->Zeglar-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.261>coreworld-&amp;gt;Zeglar</TM_Description_CombatTechnique.rulePack.rulesStrings.261>
+  <!--EN: coreworld->Novaroma-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.262>coreworld-&amp;gt;Novaroma</TM_Description_CombatTechnique.rulePack.rulesStrings.262>
+  <!--EN: coreworld->Cormora Prime-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.263>coreworld-&amp;gt;Cormora Prime</TM_Description_CombatTechnique.rulePack.rulesStrings.263>
+  <!--EN: coreworld->Glossolia-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.264>coreworld-&amp;gt;Glossolia</TM_Description_CombatTechnique.rulePack.rulesStrings.264>
+  <!--EN: coreworld->Barbaros-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.265>coreworld-&amp;gt;Barbaros</TM_Description_CombatTechnique.rulePack.rulesStrings.265>
+  <!--EN: deadworld->Callos IX-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.266>deadworld-&amp;gt;Callos IX</TM_Description_CombatTechnique.rulePack.rulesStrings.266>
+  <!--EN: deadworld->Haspia-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.267>deadworld-&amp;gt;Haspia</TM_Description_CombatTechnique.rulePack.rulesStrings.267>
+  <!--EN: deadworld->Gost IV-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.268>deadworld-&amp;gt;Gost IV</TM_Description_CombatTechnique.rulePack.rulesStrings.268>
+  <!--EN: deadworld->Berimund-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.269>deadworld-&amp;gt;Berimund</TM_Description_CombatTechnique.rulePack.rulesStrings.269>
+  <!--EN: detail(quality[less_than]3)->, some of the pages have been torn out-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.27>detail(quality[less_than]3)-&amp;gt;, some of the pages have been torn out</TM_Description_CombatTechnique.rulePack.rulesStrings.27>
+  <!--EN: deadworld->Ardar-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.270>deadworld-&amp;gt;Ardar</TM_Description_CombatTechnique.rulePack.rulesStrings.270>
+  <!--EN: deadworld->Kremhild-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.271>deadworld-&amp;gt;Kremhild</TM_Description_CombatTechnique.rulePack.rulesStrings.271>
+  <!--EN: deadworld->Melisandz-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.272>deadworld-&amp;gt;Melisandz</TM_Description_CombatTechnique.rulePack.rulesStrings.272>
+  <!--EN: deathworld->Creticon-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.273>deathworld-&amp;gt;Creticon</TM_Description_CombatTechnique.rulePack.rulesStrings.273>
+  <!--EN: deathworld->Zartza-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.274>deathworld-&amp;gt;Zartza</TM_Description_CombatTechnique.rulePack.rulesStrings.274>
+  <!--EN: deathworld->Rayth-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.275>deathworld-&amp;gt;Rayth</TM_Description_CombatTechnique.rulePack.rulesStrings.275>
+  <!--EN: deathworld->Spectra-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.276>deathworld-&amp;gt;Spectra</TM_Description_CombatTechnique.rulePack.rulesStrings.276>
+  <!--EN: deathworld->JNovahex-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.277>deathworld-&amp;gt;JNovahex</TM_Description_CombatTechnique.rulePack.rulesStrings.277>
+  <!--EN: deathworld->Carthago-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.278>deathworld-&amp;gt;Carthago</TM_Description_CombatTechnique.rulePack.rulesStrings.278>
+  <!--EN: deathworld->Grimcore-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.279>deathworld-&amp;gt;Grimcore</TM_Description_CombatTechnique.rulePack.rulesStrings.279>
+  <!--EN: quality_statement->[exterior_quality] [page_quality]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.28>quality_statement-&amp;gt;[exterior_quality] [page_quality]</TM_Description_CombatTechnique.rulePack.rulesStrings.28>
+  <!--EN: dinoworld->Oubanyen-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.280>dinoworld-&amp;gt;Oubanyen</TM_Description_CombatTechnique.rulePack.rulesStrings.280>
+  <!--EN: dinoworld->Zoutera-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.281>dinoworld-&amp;gt;Zoutera</TM_Description_CombatTechnique.rulePack.rulesStrings.281>
+  <!--EN: dinoworld->Einio-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.282>dinoworld-&amp;gt;Einio</TM_Description_CombatTechnique.rulePack.rulesStrings.282>
+  <!--EN: dinoworld->Baryonyx-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.283>dinoworld-&amp;gt;Baryonyx</TM_Description_CombatTechnique.rulePack.rulesStrings.283>
+  <!--EN: dinoworld->N'cilo-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.284>dinoworld-&amp;gt;N&amp;apos;cilo</TM_Description_CombatTechnique.rulePack.rulesStrings.284>
+  <!--EN: dinoworld->Venator-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.285>dinoworld-&amp;gt;Venator</TM_Description_CombatTechnique.rulePack.rulesStrings.285>
+  <!--EN: dinoworld->Brach-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.286>dinoworld-&amp;gt;Brach</TM_Description_CombatTechnique.rulePack.rulesStrings.286>
+  <!--EN: feudalworld->Aracena VI-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.287>feudalworld-&amp;gt;Aracena VI</TM_Description_CombatTechnique.rulePack.rulesStrings.287>
+  <!--EN: feudalworld->Nuchadus-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.288>feudalworld-&amp;gt;Nuchadus</TM_Description_CombatTechnique.rulePack.rulesStrings.288>
+  <!--EN: feudalworld->Filson-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.289>feudalworld-&amp;gt;Filson</TM_Description_CombatTechnique.rulePack.rulesStrings.289>
+  <!--EN: anecdote->In a secluded glade, an experienced [author_type] by the name of [ANYPAWN_label], known for [ANYPAWN_possessive] relentless pursuit of [skill_combat], took on a young apprentice. Every morning, they would meet at the [combatLocation] to practice new battle techniques. [ANYPAWN_label] would skillfully demonstrate each move, explaining the nuances that would cause the techniques to resonate with deadly precision. The apprentice learned that combat wasn't just about [skill_combat] or [skill_combat] but also about understanding the flow of battle and executing it with utmost precision-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.29>anecdote-&amp;gt;In a secluded glade, an experienced [author_type] by the name of [ANYPAWN_label], known for [ANYPAWN_possessive] relentless pursuit of [skill_combat], took on a young apprentice. Every morning, they would meet at the [combatLocation] to practice new battle techniques. [ANYPAWN_label] would skillfully demonstrate each move, explaining the nuances that would cause the techniques to resonate with deadly precision. The apprentice learned that combat wasn&amp;apos;t just about [skill_combat] or [skill_combat] but also about understanding the flow of battle and executing it with utmost precision</TM_Description_CombatTechnique.rulePack.rulesStrings.29>
+  <!--EN: feudalworld->Fieth-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.290>feudalworld-&amp;gt;Fieth</TM_Description_CombatTechnique.rulePack.rulesStrings.290>
+  <!--EN: feudalworld->Bloch Regis-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.291>feudalworld-&amp;gt;Bloch Regis</TM_Description_CombatTechnique.rulePack.rulesStrings.291>
+  <!--EN: feudalworld->Carlosphere-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.292>feudalworld-&amp;gt;Carlosphere</TM_Description_CombatTechnique.rulePack.rulesStrings.292>
+  <!--EN: feudalworld->Magna Dijou-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.293>feudalworld-&amp;gt;Magna Dijou</TM_Description_CombatTechnique.rulePack.rulesStrings.293>
+  <!--EN: glassworld->Ceti V-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.294>glassworld-&amp;gt;Ceti V</TM_Description_CombatTechnique.rulePack.rulesStrings.294>
+  <!--EN: glassworld->Thebes XIV-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.295>glassworld-&amp;gt;Thebes XIV</TM_Description_CombatTechnique.rulePack.rulesStrings.295>
+  <!--EN: glassworld->Naga-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.296>glassworld-&amp;gt;Naga</TM_Description_CombatTechnique.rulePack.rulesStrings.296>
+  <!--EN: glassworld->Merv-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.297>glassworld-&amp;gt;Merv</TM_Description_CombatTechnique.rulePack.rulesStrings.297>
+  <!--EN: glassworld->Perse-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.298>glassworld-&amp;gt;Perse</TM_Description_CombatTechnique.rulePack.rulesStrings.298>
+  <!--EN: glassworld->Shechem-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.299>glassworld-&amp;gt;Shechem</TM_Description_CombatTechnique.rulePack.rulesStrings.299>
+  <!--EN: discussion->This [object] provides [useful_information] about [subject][detail]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.3>discussion-&amp;gt;This [object] provides [useful_information] about [subject][detail]</TM_Description_CombatTechnique.rulePack.rulesStrings.3>
+  <!--EN: anecdote->According to the legends, [ANYPAWN_nameFull] was a renowned [author_type]. This [object] provides insight into how [ANYPAWN_label] mastered [skill_combat]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.30>anecdote-&amp;gt;According to the legends, [ANYPAWN_nameFull] was a renowned [author_type]. This [object] provides insight into how [ANYPAWN_label] mastered [skill_combat]</TM_Description_CombatTechnique.rulePack.rulesStrings.30>
+  <!--EN: glassworld->Yelhazor-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.300>glassworld-&amp;gt;Yelhazor</TM_Description_CombatTechnique.rulePack.rulesStrings.300>
+  <!--EN: glitterworld->Kalthas IV-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.301>glitterworld-&amp;gt;Kalthas IV</TM_Description_CombatTechnique.rulePack.rulesStrings.301>
+  <!--EN: glitterworld->Amen-Ti-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.302>glitterworld-&amp;gt;Amen-Ti</TM_Description_CombatTechnique.rulePack.rulesStrings.302>
+  <!--EN: glitterworld->Sophiamunda-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.303>glitterworld-&amp;gt;Sophiamunda</TM_Description_CombatTechnique.rulePack.rulesStrings.303>
+  <!--EN: glitterworld->Rogia-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.304>glitterworld-&amp;gt;Rogia</TM_Description_CombatTechnique.rulePack.rulesStrings.304>
+  <!--EN: glitterworld->Utmaior-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.305>glitterworld-&amp;gt;Utmaior</TM_Description_CombatTechnique.rulePack.rulesStrings.305>
+  <!--EN: glitterworld->Caspian-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.306>glitterworld-&amp;gt;Caspian</TM_Description_CombatTechnique.rulePack.rulesStrings.306>
+  <!--EN: glitterworld->Kenerella-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.307>glitterworld-&amp;gt;Kenerella</TM_Description_CombatTechnique.rulePack.rulesStrings.307>
+  <!--EN: iceworld->Yttak-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.308>iceworld-&amp;gt;Yttak</TM_Description_CombatTechnique.rulePack.rulesStrings.308>
+  <!--EN: iceworld->Dedchenko-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.309>iceworld-&amp;gt;Dedchenko</TM_Description_CombatTechnique.rulePack.rulesStrings.309>
+  <!--EN: anecdote->According to the chronicles, the people of [worldname] still talk of [ANYPAWN_nameFull] and reminisce about [ANYPAWN_possessive] love of combat. This [object] provides instructions on mastering [skill_combat]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.31>anecdote-&amp;gt;According to the chronicles, the people of [worldname] still talk of [ANYPAWN_nameFull] and reminisce about [ANYPAWN_possessive] love of combat. This [object] provides instructions on mastering [skill_combat]</TM_Description_CombatTechnique.rulePack.rulesStrings.31>
+  <!--EN: iceworld->Baltoro-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.310>iceworld-&amp;gt;Baltoro</TM_Description_CombatTechnique.rulePack.rulesStrings.310>
+  <!--EN: iceworld->Furtwale-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.311>iceworld-&amp;gt;Furtwale</TM_Description_CombatTechnique.rulePack.rulesStrings.311>
+  <!--EN: iceworld->Jaqua-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.312>iceworld-&amp;gt;Jaqua</TM_Description_CombatTechnique.rulePack.rulesStrings.312>
+  <!--EN: iceworld->Christensen-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.313>iceworld-&amp;gt;Christensen</TM_Description_CombatTechnique.rulePack.rulesStrings.313>
+  <!--EN: iceworld->Barnes-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.314>iceworld-&amp;gt;Barnes</TM_Description_CombatTechnique.rulePack.rulesStrings.314>
+  <!--EN: indworld->Irithir-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.315>indworld-&amp;gt;Irithir</TM_Description_CombatTechnique.rulePack.rulesStrings.315>
+  <!--EN: indworld->New China-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.316>indworld-&amp;gt;New China</TM_Description_CombatTechnique.rulePack.rulesStrings.316>
+  <!--EN: indworld->Hudders-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.317>indworld-&amp;gt;Hudders</TM_Description_CombatTechnique.rulePack.rulesStrings.317>
+  <!--EN: indworld->Iver-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.318>indworld-&amp;gt;Iver</TM_Description_CombatTechnique.rulePack.rulesStrings.318>
+  <!--EN: indworld->Achesta-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.319>indworld-&amp;gt;Achesta</TM_Description_CombatTechnique.rulePack.rulesStrings.319>
+  <!--EN: anecdote->According to the archives, a fateful duel with a rival warlord ended the life of the [author_type], [ANYPAWN_nameFull]. This [object] are the final words of [ANYPAWN_label] the [author_type], passing on [ANYPAWN_possessive] techniques to develop [skill_combat]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.32>anecdote-&amp;gt;According to the archives, a fateful duel with a rival warlord ended the life of the [author_type], [ANYPAWN_nameFull]. This [object] are the final words of [ANYPAWN_label] the [author_type], passing on [ANYPAWN_possessive] techniques to develop [skill_combat]</TM_Description_CombatTechnique.rulePack.rulesStrings.32>
+  <!--EN: indworld->Oods-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.320>indworld-&amp;gt;Oods</TM_Description_CombatTechnique.rulePack.rulesStrings.320>
+  <!--EN: indworld->Iladelf-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.321>indworld-&amp;gt;Iladelf</TM_Description_CombatTechnique.rulePack.rulesStrings.321>
+  <!--EN: medievalworld->Chelis-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.322>medievalworld-&amp;gt;Chelis</TM_Description_CombatTechnique.rulePack.rulesStrings.322>
+  <!--EN: medievalworld->Vinna-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.323>medievalworld-&amp;gt;Vinna</TM_Description_CombatTechnique.rulePack.rulesStrings.323>
+  <!--EN: medievalworld->Cassone-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.324>medievalworld-&amp;gt;Cassone</TM_Description_CombatTechnique.rulePack.rulesStrings.324>
+  <!--EN: medievalworld->Jork-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.325>medievalworld-&amp;gt;Jork</TM_Description_CombatTechnique.rulePack.rulesStrings.325>
+  <!--EN: medievalworld->Cochmar-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.326>medievalworld-&amp;gt;Cochmar</TM_Description_CombatTechnique.rulePack.rulesStrings.326>
+  <!--EN: medievalworld->Alin-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.327>medievalworld-&amp;gt;Alin</TM_Description_CombatTechnique.rulePack.rulesStrings.327>
+  <!--EN: medievalworld->Dubrognago-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.328>medievalworld-&amp;gt;Dubrognago</TM_Description_CombatTechnique.rulePack.rulesStrings.328>
+  <!--EN: midworld->Khalderia-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.329>midworld-&amp;gt;Khalderia</TM_Description_CombatTechnique.rulePack.rulesStrings.329>
+  <!--EN: anecdote->According to the records, [ANYPAWN_nameFull] spent [ANYPAWN_possessive] last days teaching in the renowned academy on [worldname]. This book is taken from [ANYPAWN_possessive] lectures on [skill_combat]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.33>anecdote-&amp;gt;According to the records, [ANYPAWN_nameFull] spent [ANYPAWN_possessive] last days teaching in the renowned academy on [worldname]. This book is taken from [ANYPAWN_possessive] lectures on [skill_combat]</TM_Description_CombatTechnique.rulePack.rulesStrings.33>
+  <!--EN: midworld->Elsin-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.330>midworld-&amp;gt;Elsin</TM_Description_CombatTechnique.rulePack.rulesStrings.330>
+  <!--EN: midworld->Haihan-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.331>midworld-&amp;gt;Haihan</TM_Description_CombatTechnique.rulePack.rulesStrings.331>
+  <!--EN: midworld->Seolure-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.332>midworld-&amp;gt;Seolure</TM_Description_CombatTechnique.rulePack.rulesStrings.332>
+  <!--EN: midworld->Panga-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.333>midworld-&amp;gt;Panga</TM_Description_CombatTechnique.rulePack.rulesStrings.333>
+  <!--EN: midworld->New London CXI-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.334>midworld-&amp;gt;New London CXI</TM_Description_CombatTechnique.rulePack.rulesStrings.334>
+  <!--EN: midworld->San Delenda-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.335>midworld-&amp;gt;San Delenda</TM_Description_CombatTechnique.rulePack.rulesStrings.335>
+  <!--EN: mineworld->Xanides-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.336>mineworld-&amp;gt;Xanides</TM_Description_CombatTechnique.rulePack.rulesStrings.336>
+  <!--EN: mineworld->Bingham-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.337>mineworld-&amp;gt;Bingham</TM_Description_CombatTechnique.rulePack.rulesStrings.337>
+  <!--EN: mineworld->Saarhi-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.338>mineworld-&amp;gt;Saarhi</TM_Description_CombatTechnique.rulePack.rulesStrings.338>
+  <!--EN: mineworld->Grasbeg-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.339>mineworld-&amp;gt;Grasbeg</TM_Description_CombatTechnique.rulePack.rulesStrings.339>
+  <!--EN: anecdote->In a bustling city, nestled between towering buildings, there was a hidden entrance to a [combatLocation] accessible only to those who knew the password. Within this place of combat, there existed an old dojo with walls adorned with weapons of every kind. The sensei, a stoic [author_type] with a gleam in his eye, guided eager students through the intricacies of combat, teaching them to master [skill_combat] by illustrating each move with fluid grace-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.34>anecdote-&amp;gt;In a bustling city, nestled between towering buildings, there was a hidden entrance to a [combatLocation] accessible only to those who knew the password. Within this place of combat, there existed an old dojo with walls adorned with weapons of every kind. The sensei, a stoic [author_type] with a gleam in his eye, guided eager students through the intricacies of combat, teaching them to master [skill_combat] by illustrating each move with fluid grace</TM_Description_CombatTechnique.rulePack.rulesStrings.34>
+  <!--EN: mineworld->Chuqui-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.340>mineworld-&amp;gt;Chuqui</TM_Description_CombatTechnique.rulePack.rulesStrings.340>
+  <!--EN: mineworld->Olimpia-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.341>mineworld-&amp;gt;Olimpia</TM_Description_CombatTechnique.rulePack.rulesStrings.341>
+  <!--EN: mineworld->Orme-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.342>mineworld-&amp;gt;Orme</TM_Description_CombatTechnique.rulePack.rulesStrings.342>
+  <!--EN: oceanicworld->Wavia-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.343>oceanicworld-&amp;gt;Wavia</TM_Description_CombatTechnique.rulePack.rulesStrings.343>
+  <!--EN: oceanicworld->Wadka-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.344>oceanicworld-&amp;gt;Wadka</TM_Description_CombatTechnique.rulePack.rulesStrings.344>
+  <!--EN: oceanicworld->Gichen-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.345>oceanicworld-&amp;gt;Gichen</TM_Description_CombatTechnique.rulePack.rulesStrings.345>
+  <!--EN: oceanicworld->Port Yam-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.346>oceanicworld-&amp;gt;Port Yam</TM_Description_CombatTechnique.rulePack.rulesStrings.346>
+  <!--EN: oceanicworld->Baia-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.347>oceanicworld-&amp;gt;Baia</TM_Description_CombatTechnique.rulePack.rulesStrings.347>
+  <!--EN: oceanicworld->Thonis-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.348>oceanicworld-&amp;gt;Thonis</TM_Description_CombatTechnique.rulePack.rulesStrings.348>
+  <!--EN: oceanicworld->Moaui-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.349>oceanicworld-&amp;gt;Moaui</TM_Description_CombatTechnique.rulePack.rulesStrings.349>
+  <!--EN: anecdote->A young [author_type] stumbled upon this ancient manuscript in [ANYPAWN_possessive] grandfather's attic. This [object] details the ruthless methods that the warlord [ANYPAWN_nameFull] used to brutally destroy a nearby city using [ANYPAWN_possessive] unnatural [skill_combat]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.35>anecdote-&amp;gt;A young [author_type] stumbled upon this ancient manuscript in [ANYPAWN_possessive] grandfather&amp;apos;s attic. This [object] details the ruthless methods that the warlord [ANYPAWN_nameFull] used to brutally destroy a nearby city using [ANYPAWN_possessive] unnatural [skill_combat]</TM_Description_CombatTechnique.rulePack.rulesStrings.35>
+  <!--EN: prisonworld->Yttak-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.350>prisonworld-&amp;gt;Yttak</TM_Description_CombatTechnique.rulePack.rulesStrings.350>
+  <!--EN: prisonworld->Aldgate-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.351>prisonworld-&amp;gt;Aldgate</TM_Description_CombatTechnique.rulePack.rulesStrings.351>
+  <!--EN: prisonworld->Borren-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.352>prisonworld-&amp;gt;Borren</TM_Description_CombatTechnique.rulePack.rulesStrings.352>
+  <!--EN: prisonworld->Hoalo-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.353>prisonworld-&amp;gt;Hoalo</TM_Description_CombatTechnique.rulePack.rulesStrings.353>
+  <!--EN: prisonworld->Casmina-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.354>prisonworld-&amp;gt;Casmina</TM_Description_CombatTechnique.rulePack.rulesStrings.354>
+  <!--EN: prisonworld->Port Basil-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.355>prisonworld-&amp;gt;Port Basil</TM_Description_CombatTechnique.rulePack.rulesStrings.355>
+  <!--EN: prisonworld->Chateau D'Ouen-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.356>prisonworld-&amp;gt;Chateau D&amp;apos;Ouen</TM_Description_CombatTechnique.rulePack.rulesStrings.356>
+  <!--EN: rimworld->Filson-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.357>rimworld-&amp;gt;Filson</TM_Description_CombatTechnique.rulePack.rulesStrings.357>
+  <!--EN: rimworld->La Grand-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.358>rimworld-&amp;gt;La Grand</TM_Description_CombatTechnique.rulePack.rulesStrings.358>
+  <!--EN: rimworld->Dalles-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.359>rimworld-&amp;gt;Dalles</TM_Description_CombatTechnique.rulePack.rulesStrings.359>
+  <!--EN: student_learn->decipher-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.36>student_learn-&amp;gt;decipher</TM_Description_CombatTechnique.rulePack.rulesStrings.36>
+  <!--EN: rimworld->Twig Falls-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.360>rimworld-&amp;gt;Twig Falls</TM_Description_CombatTechnique.rulePack.rulesStrings.360>
+  <!--EN: rimworld->Old Boise-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.361>rimworld-&amp;gt;Old Boise</TM_Description_CombatTechnique.rulePack.rulesStrings.361>
+  <!--EN: rimworld->Devil's Gate-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.362>rimworld-&amp;gt;Devil&amp;apos;s Gate</TM_Description_CombatTechnique.rulePack.rulesStrings.362>
+  <!--EN: rimworld->Laramiere-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.363>rimworld-&amp;gt;Laramiere</TM_Description_CombatTechnique.rulePack.rulesStrings.363>
+  <!--EN: ruinworld->Earth-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.364>ruinworld-&amp;gt;Earth</TM_Description_CombatTechnique.rulePack.rulesStrings.364>
+  <!--EN: ruinworld->Ilwaba-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.365>ruinworld-&amp;gt;Ilwaba</TM_Description_CombatTechnique.rulePack.rulesStrings.365>
+  <!--EN: ruinworld->Xennoa-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.366>ruinworld-&amp;gt;Xennoa</TM_Description_CombatTechnique.rulePack.rulesStrings.366>
+  <!--EN: ruinworld->Pichu-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.367>ruinworld-&amp;gt;Pichu</TM_Description_CombatTechnique.rulePack.rulesStrings.367>
+  <!--EN: ruinworld->Perdida-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.368>ruinworld-&amp;gt;Perdida</TM_Description_CombatTechnique.rulePack.rulesStrings.368>
+  <!--EN: ruinworld->Hisarlik-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.369>ruinworld-&amp;gt;Hisarlik</TM_Description_CombatTechnique.rulePack.rulesStrings.369>
+  <!--EN: student_learn->learn-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.37>student_learn-&amp;gt;learn</TM_Description_CombatTechnique.rulePack.rulesStrings.37>
+  <!--EN: ruinworld->Helike-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.370>ruinworld-&amp;gt;Helike</TM_Description_CombatTechnique.rulePack.rulesStrings.370>
+  <!--EN: shellworld->Boccocarro-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.371>shellworld-&amp;gt;Boccocarro</TM_Description_CombatTechnique.rulePack.rulesStrings.371>
+  <!--EN: shellworld->Destria-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.372>shellworld-&amp;gt;Destria</TM_Description_CombatTechnique.rulePack.rulesStrings.372>
+  <!--EN: shellworld->Trophic-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.373>shellworld-&amp;gt;Trophic</TM_Description_CombatTechnique.rulePack.rulesStrings.373>
+  <!--EN: shellworld->Matrio-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.374>shellworld-&amp;gt;Matrio</TM_Description_CombatTechnique.rulePack.rulesStrings.374>
+  <!--EN: shellworld->Samen-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.375>shellworld-&amp;gt;Samen</TM_Description_CombatTechnique.rulePack.rulesStrings.375>
+  <!--EN: shellworld->Xinthia-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.376>shellworld-&amp;gt;Xinthia</TM_Description_CombatTechnique.rulePack.rulesStrings.376>
+  <!--EN: shellworld->Ferbine-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.377>shellworld-&amp;gt;Ferbine</TM_Description_CombatTechnique.rulePack.rulesStrings.377>
+  <!--EN: steamworld->Corliss-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.378>steamworld-&amp;gt;Corliss</TM_Description_CombatTechnique.rulePack.rulesStrings.378>
+  <!--EN: steamworld->Borassic-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.379>steamworld-&amp;gt;Borassic</TM_Description_CombatTechnique.rulePack.rulesStrings.379>
+  <!--EN: student_learn->understand-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.38>student_learn-&amp;gt;understand</TM_Description_CombatTechnique.rulePack.rulesStrings.38>
+  <!--EN: steamworld->Savery II-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.380>steamworld-&amp;gt;Savery II</TM_Description_CombatTechnique.rulePack.rulesStrings.380>
+  <!--EN: steamworld->Heron-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.381>steamworld-&amp;gt;Heron</TM_Description_CombatTechnique.rulePack.rulesStrings.381>
+  <!--EN: steamworld->Malmesburi-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.382>steamworld-&amp;gt;Malmesburi</TM_Description_CombatTechnique.rulePack.rulesStrings.382>
+  <!--EN: steamworld->Architonnerre-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.383>steamworld-&amp;gt;Architonnerre</TM_Description_CombatTechnique.rulePack.rulesStrings.383>
+  <!--EN: steamworld->Escapement-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.384>steamworld-&amp;gt;Escapement</TM_Description_CombatTechnique.rulePack.rulesStrings.384>
+  <!--EN: toxicworld->Scylla-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.385>toxicworld-&amp;gt;Scylla</TM_Description_CombatTechnique.rulePack.rulesStrings.385>
+  <!--EN: toxicworld->Mauro-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.386>toxicworld-&amp;gt;Mauro</TM_Description_CombatTechnique.rulePack.rulesStrings.386>
+  <!--EN: toxicworld->Cerospor-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.387>toxicworld-&amp;gt;Cerospor</TM_Description_CombatTechnique.rulePack.rulesStrings.387>
+  <!--EN: toxicworld->Oxy VI-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.388>toxicworld-&amp;gt;Oxy VI</TM_Description_CombatTechnique.rulePack.rulesStrings.388>
+  <!--EN: toxicworld->Sangwine-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.389>toxicworld-&amp;gt;Sangwine</TM_Description_CombatTechnique.rulePack.rulesStrings.389>
+  <!--EN: student_learn->master-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.39>student_learn-&amp;gt;master</TM_Description_CombatTechnique.rulePack.rulesStrings.39>
+  <!--EN: toxicworld->Soleno-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.390>toxicworld-&amp;gt;Soleno</TM_Description_CombatTechnique.rulePack.rulesStrings.390>
+  <!--EN: toxicworld->Imbatus-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.391>toxicworld-&amp;gt;Imbatus</TM_Description_CombatTechnique.rulePack.rulesStrings.391>
+  <!--EN: transcendentworld->Xaroh-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.392>transcendentworld-&amp;gt;Xaroh</TM_Description_CombatTechnique.rulePack.rulesStrings.392>
+  <!--EN: transcendentworld->Immanence VI-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.393>transcendentworld-&amp;gt;Immanence VI</TM_Description_CombatTechnique.rulePack.rulesStrings.393>
+  <!--EN: transcendentworld->Qabba-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.394>transcendentworld-&amp;gt;Qabba</TM_Description_CombatTechnique.rulePack.rulesStrings.394>
+  <!--EN: transcendentworld->Einsof-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.395>transcendentworld-&amp;gt;Einsof</TM_Description_CombatTechnique.rulePack.rulesStrings.395>
+  <!--EN: transcendentworld->Mitvo-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.396>transcendentworld-&amp;gt;Mitvo</TM_Description_CombatTechnique.rulePack.rulesStrings.396>
+  <!--EN: transcendentworld->Samydi-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.397>transcendentworld-&amp;gt;Samydi</TM_Description_CombatTechnique.rulePack.rulesStrings.397>
+  <!--EN: transcendentworld->Samsarr-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.398>transcendentworld-&amp;gt;Samsarr</TM_Description_CombatTechnique.rulePack.rulesStrings.398>
+  <!--EN: trashworld->Bagua 5-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.399>trashworld-&amp;gt;Bagua 5</TM_Description_CombatTechnique.rulePack.rulesStrings.399>
+  <!--EN: discussion->This [object] establishes the author's authority on the subject of [subject][detail]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.4>discussion-&amp;gt;This [object] establishes the author&amp;apos;s authority on the subject of [subject][detail]</TM_Description_CombatTechnique.rulePack.rulesStrings.4>
+  <!--EN: student_learn->see-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.40>student_learn-&amp;gt;see</TM_Description_CombatTechnique.rulePack.rulesStrings.40>
+  <!--EN: trashworld->Puobell-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.400>trashworld-&amp;gt;Puobell</TM_Description_CombatTechnique.rulePack.rulesStrings.400>
+  <!--EN: trashworld->Deni IX-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.401>trashworld-&amp;gt;Deni IX</TM_Description_CombatTechnique.rulePack.rulesStrings.401>
+  <!--EN: trashworld->Garbsh-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.402>trashworld-&amp;gt;Garbsh</TM_Description_CombatTechnique.rulePack.rulesStrings.402>
+  <!--EN: trashworld->Tra'age-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.403>trashworld-&amp;gt;Tra&amp;apos;age</TM_Description_CombatTechnique.rulePack.rulesStrings.403>
+  <!--EN: trashworld->Reepsyk-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.404>trashworld-&amp;gt;Reepsyk</TM_Description_CombatTechnique.rulePack.rulesStrings.404>
+  <!--EN: trashworld->Mystras-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.405>trashworld-&amp;gt;Mystras</TM_Description_CombatTechnique.rulePack.rulesStrings.405>
+  <!--EN: urbworld->Euterpe-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.406>urbworld-&amp;gt;Euterpe</TM_Description_CombatTechnique.rulePack.rulesStrings.406>
+  <!--EN: urbworld->Avenna-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.407>urbworld-&amp;gt;Avenna</TM_Description_CombatTechnique.rulePack.rulesStrings.407>
+  <!--EN: urbworld->Essalon-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.408>urbworld-&amp;gt;Essalon</TM_Description_CombatTechnique.rulePack.rulesStrings.408>
+  <!--EN: urbworld->Enike-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.409>urbworld-&amp;gt;Enike</TM_Description_CombatTechnique.rulePack.rulesStrings.409>
+  <!--EN: student_learn->visualize-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.41>student_learn-&amp;gt;visualize</TM_Description_CombatTechnique.rulePack.rulesStrings.41>
+  <!--EN: urbworld->Adocia-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.410>urbworld-&amp;gt;Adocia</TM_Description_CombatTechnique.rulePack.rulesStrings.410>
+  <!--EN: urbworld->N'toch-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.411>urbworld-&amp;gt;N&amp;apos;toch</TM_Description_CombatTechnique.rulePack.rulesStrings.411>
+  <!--EN: urbworld->Barca-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.412>urbworld-&amp;gt;Barca</TM_Description_CombatTechnique.rulePack.rulesStrings.412>
+  <!--EN: warworld->Kemia-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.413>warworld-&amp;gt;Kemia</TM_Description_CombatTechnique.rulePack.rulesStrings.413>
+  <!--EN: warworld->Vanu-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.414>warworld-&amp;gt;Vanu</TM_Description_CombatTechnique.rulePack.rulesStrings.414>
+  <!--EN: warworld->Samnium-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.415>warworld-&amp;gt;Samnium</TM_Description_CombatTechnique.rulePack.rulesStrings.415>
+  <!--EN: warworld->Kyrus-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.416>warworld-&amp;gt;Kyrus</TM_Description_CombatTechnique.rulePack.rulesStrings.416>
+  <!--EN: warworld->Punica-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.417>warworld-&amp;gt;Punica</TM_Description_CombatTechnique.rulePack.rulesStrings.417>
+  <!--EN: warworld->Cimbria XII-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.418>warworld-&amp;gt;Cimbria XII</TM_Description_CombatTechnique.rulePack.rulesStrings.418>
+  <!--EN: warworld->Barkitos-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.419>warworld-&amp;gt;Barkitos</TM_Description_CombatTechnique.rulePack.rulesStrings.419>
+  <!--EN: student_learn->gain control of-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.42>student_learn-&amp;gt;gain control of</TM_Description_CombatTechnique.rulePack.rulesStrings.42>
+  <!--EN: student_learn->comprehend-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.43>student_learn-&amp;gt;comprehend</TM_Description_CombatTechnique.rulePack.rulesStrings.43>
+  <!--EN: student_learn->acquire-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.44>student_learn-&amp;gt;acquire</TM_Description_CombatTechnique.rulePack.rulesStrings.44>
+  <!--EN: student_learn->grasp-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.45>student_learn-&amp;gt;grasp</TM_Description_CombatTechnique.rulePack.rulesStrings.45>
+  <!--EN: student_learn->attain-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.46>student_learn-&amp;gt;attain</TM_Description_CombatTechnique.rulePack.rulesStrings.46>
+  <!--EN: student_learn->assimilate-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.47>student_learn-&amp;gt;assimilate</TM_Description_CombatTechnique.rulePack.rulesStrings.47>
+  <!--EN: student_learn->absorb-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.48>student_learn-&amp;gt;absorb</TM_Description_CombatTechnique.rulePack.rulesStrings.48>
+  <!--EN: student_learn->procure-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.49>student_learn-&amp;gt;procure</TM_Description_CombatTechnique.rulePack.rulesStrings.49>
+  <!--EN: discussion->Those seeking [understanding_synonym] [subject] head to this [notable_adjective] [textbook][detail]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.5>discussion-&amp;gt;Those seeking [understanding_synonym] [subject] head to this [notable_adjective] [textbook][detail]</TM_Description_CombatTechnique.rulePack.rulesStrings.5>
+  <!--EN: student_learn->capture-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.50>student_learn-&amp;gt;capture</TM_Description_CombatTechnique.rulePack.rulesStrings.50>
+  <!--EN: student_learn->take command of-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.51>student_learn-&amp;gt;take command of</TM_Description_CombatTechnique.rulePack.rulesStrings.51>
+  <!--EN: student_learn->fathom-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.52>student_learn-&amp;gt;fathom</TM_Description_CombatTechnique.rulePack.rulesStrings.52>
+  <!--EN: author_adjective->elderly-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.53>author_adjective-&amp;gt;elderly</TM_Description_CombatTechnique.rulePack.rulesStrings.53>
+  <!--EN: author_adjective->sinister-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.54>author_adjective-&amp;gt;sinister</TM_Description_CombatTechnique.rulePack.rulesStrings.54>
+  <!--EN: author_adjective->beautiful-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.55>author_adjective-&amp;gt;beautiful</TM_Description_CombatTechnique.rulePack.rulesStrings.55>
+  <!--EN: author_adjective->wizened-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.56>author_adjective-&amp;gt;wizened</TM_Description_CombatTechnique.rulePack.rulesStrings.56>
+  <!--EN: author_adjective->mysterious-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.57>author_adjective-&amp;gt;mysterious</TM_Description_CombatTechnique.rulePack.rulesStrings.57>
+  <!--EN: author_adjective->enigmatic-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.58>author_adjective-&amp;gt;enigmatic</TM_Description_CombatTechnique.rulePack.rulesStrings.58>
+  <!--EN: author_adjective->wise-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.59>author_adjective-&amp;gt;wise</TM_Description_CombatTechnique.rulePack.rulesStrings.59>
+  <!--EN: discussion->A [object_adjective] [object] on [subject][detail]-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.6>discussion-&amp;gt;A [object_adjective] [object] on [subject][detail]</TM_Description_CombatTechnique.rulePack.rulesStrings.6>
+  <!--EN: author_adjective->ancient-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.60>author_adjective-&amp;gt;ancient</TM_Description_CombatTechnique.rulePack.rulesStrings.60>
+  <!--EN: author_adjective->powerful-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.61>author_adjective-&amp;gt;powerful</TM_Description_CombatTechnique.rulePack.rulesStrings.61>
+  <!--EN: author_adjective->forgotten-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.62>author_adjective-&amp;gt;forgotten</TM_Description_CombatTechnique.rulePack.rulesStrings.62>
+  <!--EN: author_adjective->arcane-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.63>author_adjective-&amp;gt;arcane</TM_Description_CombatTechnique.rulePack.rulesStrings.63>
+  <!--EN: author_adjective->legendary-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.64>author_adjective-&amp;gt;legendary</TM_Description_CombatTechnique.rulePack.rulesStrings.64>
+  <!--EN: author_adjective->shadowy-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.65>author_adjective-&amp;gt;shadowy</TM_Description_CombatTechnique.rulePack.rulesStrings.65>
+  <!--EN: author_adjective->mythical-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.66>author_adjective-&amp;gt;mythical</TM_Description_CombatTechnique.rulePack.rulesStrings.66>
+  <!--EN: author_type->fighter-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.67>author_type-&amp;gt;fighter</TM_Description_CombatTechnique.rulePack.rulesStrings.67>
+  <!--EN: author_type->ninja-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.68>author_type-&amp;gt;ninja</TM_Description_CombatTechnique.rulePack.rulesStrings.68>
+  <!--EN: author_type->warrior-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.69>author_type-&amp;gt;warrior</TM_Description_CombatTechnique.rulePack.rulesStrings.69>
+  <!--EN: object_adjective->dusty-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.7>object_adjective-&amp;gt;dusty</TM_Description_CombatTechnique.rulePack.rulesStrings.7>
+  <!--EN: author_type->warlord-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.70>author_type-&amp;gt;warlord</TM_Description_CombatTechnique.rulePack.rulesStrings.70>
+  <!--EN: author_type->conqueror-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.71>author_type-&amp;gt;conqueror</TM_Description_CombatTechnique.rulePack.rulesStrings.71>
+  <!--EN: author_type->gladiator-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.72>author_type-&amp;gt;gladiator</TM_Description_CombatTechnique.rulePack.rulesStrings.72>
+  <!--EN: author_type->death knight-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.73>author_type-&amp;gt;death knight</TM_Description_CombatTechnique.rulePack.rulesStrings.73>
+  <!--EN: author_type->samurai-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.74>author_type-&amp;gt;samurai</TM_Description_CombatTechnique.rulePack.rulesStrings.74>
+  <!--EN: author_type->mercenary-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.75>author_type-&amp;gt;mercenary</TM_Description_CombatTechnique.rulePack.rulesStrings.75>
+  <!--EN: author_type->duelist-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.76>author_type-&amp;gt;duelist</TM_Description_CombatTechnique.rulePack.rulesStrings.76>
+  <!--EN: author_type->berserker-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.77>author_type-&amp;gt;berserker</TM_Description_CombatTechnique.rulePack.rulesStrings.77>
+  <!--EN: author_type->ranger-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.78>author_type-&amp;gt;ranger</TM_Description_CombatTechnique.rulePack.rulesStrings.78>
+  <!--EN: author_type->brawler-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.79>author_type-&amp;gt;brawler</TM_Description_CombatTechnique.rulePack.rulesStrings.79>
+  <!--EN: object_adjective->ancient-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.8>object_adjective-&amp;gt;ancient</TM_Description_CombatTechnique.rulePack.rulesStrings.8>
+  <!--EN: author_type->shadow-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.80>author_type-&amp;gt;shadow</TM_Description_CombatTechnique.rulePack.rulesStrings.80>
+  <!--EN: author_type->bladedancer-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.81>author_type-&amp;gt;bladedancer</TM_Description_CombatTechnique.rulePack.rulesStrings.81>
+  <!--EN: skill_combat->speed-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.82>skill_combat-&amp;gt;speed</TM_Description_CombatTechnique.rulePack.rulesStrings.82>
+  <!--EN: skill_combat->strength-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.83>skill_combat-&amp;gt;strength</TM_Description_CombatTechnique.rulePack.rulesStrings.83>
+  <!--EN: skill_combat->cunning-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.84>skill_combat-&amp;gt;cunning</TM_Description_CombatTechnique.rulePack.rulesStrings.84>
+  <!--EN: skill_combat->accuracy-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.85>skill_combat-&amp;gt;accuracy</TM_Description_CombatTechnique.rulePack.rulesStrings.85>
+  <!--EN: skill_combat->endurance-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.86>skill_combat-&amp;gt;endurance</TM_Description_CombatTechnique.rulePack.rulesStrings.86>
+  <!--EN: skill_combat->agility-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.87>skill_combat-&amp;gt;agility</TM_Description_CombatTechnique.rulePack.rulesStrings.87>
+  <!--EN: skill_combat->dexterity-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.88>skill_combat-&amp;gt;dexterity</TM_Description_CombatTechnique.rulePack.rulesStrings.88>
+  <!--EN: skill_combat->resilience-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.89>skill_combat-&amp;gt;resilience</TM_Description_CombatTechnique.rulePack.rulesStrings.89>
+  <!--EN: object_adjective->worn-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.9>object_adjective-&amp;gt;worn</TM_Description_CombatTechnique.rulePack.rulesStrings.9>
+  <!--EN: skill_combat->precision-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.90>skill_combat-&amp;gt;precision</TM_Description_CombatTechnique.rulePack.rulesStrings.90>
+  <!--EN: skill_combat->strategy-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.91>skill_combat-&amp;gt;strategy</TM_Description_CombatTechnique.rulePack.rulesStrings.91>
+  <!--EN: skill_combat->tactics-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.92>skill_combat-&amp;gt;tactics</TM_Description_CombatTechnique.rulePack.rulesStrings.92>
+  <!--EN: skill_combat->ferocity-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.93>skill_combat-&amp;gt;ferocity</TM_Description_CombatTechnique.rulePack.rulesStrings.93>
+  <!--EN: skill_combat->defense-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.94>skill_combat-&amp;gt;defense</TM_Description_CombatTechnique.rulePack.rulesStrings.94>
+  <!--EN: skill_combat->balance-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.95>skill_combat-&amp;gt;balance</TM_Description_CombatTechnique.rulePack.rulesStrings.95>
+  <!--EN: skill_combat->awareness-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.96>skill_combat-&amp;gt;awareness</TM_Description_CombatTechnique.rulePack.rulesStrings.96>
+  <!--EN: skill_combat->technique-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.97>skill_combat-&amp;gt;technique</TM_Description_CombatTechnique.rulePack.rulesStrings.97>
+  <!--EN: skill_combat->reaction time-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.98>skill_combat-&amp;gt;reaction time</TM_Description_CombatTechnique.rulePack.rulesStrings.98>
+  <!--EN: skill_combat->power-->
+  <TM_Description_CombatTechnique.rulePack.rulesStrings.99>skill_combat-&amp;gt;power</TM_Description_CombatTechnique.rulePack.rulesStrings.99>
+  <!--EN: subject->[subject_Magic]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.0>subject-&amp;gt;[subject_Magic]</TM_Description_Grimoire.rulePack.rulesStrings.0>
+  <!--EN: object->[subject_bookType]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.1>object-&amp;gt;[subject_bookType]</TM_Description_Grimoire.rulePack.rulesStrings.1>
+  <!--EN: detail->. The instructions focus on the finer aspects of manipulating [subject]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.10>detail-&amp;gt;. The instructions focus on the finer aspects of manipulating [subject]</TM_Description_Grimoire.rulePack.rulesStrings.10>
+  <!--EN: author_skillLevel->mastery of-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.100>author_skillLevel-&amp;gt;mastery of</TM_Description_Grimoire.rulePack.rulesStrings.100>
+  <!--EN: author_skillLevel->foundation in-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.101>author_skillLevel-&amp;gt;foundation in</TM_Description_Grimoire.rulePack.rulesStrings.101>
+  <!--EN: author_skillLevel->dominance of-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.102>author_skillLevel-&amp;gt;dominance of</TM_Description_Grimoire.rulePack.rulesStrings.102>
+  <!--EN: author_skillLevel->proficiency in-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.103>author_skillLevel-&amp;gt;proficiency in</TM_Description_Grimoire.rulePack.rulesStrings.103>
+  <!--EN: author_skillLevel->prowess in-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.104>author_skillLevel-&amp;gt;prowess in</TM_Description_Grimoire.rulePack.rulesStrings.104>
+  <!--EN: author_skillLevel->aptitude in-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.105>author_skillLevel-&amp;gt;aptitude in</TM_Description_Grimoire.rulePack.rulesStrings.105>
+  <!--EN: author_skillLevel->expertise of-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.106>author_skillLevel-&amp;gt;expertise of</TM_Description_Grimoire.rulePack.rulesStrings.106>
+  <!--EN: author_skillLevel->competence in-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.107>author_skillLevel-&amp;gt;competence in</TM_Description_Grimoire.rulePack.rulesStrings.107>
+  <!--EN: author_skillLevel->adeptness with-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.108>author_skillLevel-&amp;gt;adeptness with</TM_Description_Grimoire.rulePack.rulesStrings.108>
+  <!--EN: author_skillLevel->capabilities in-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.109>author_skillLevel-&amp;gt;capabilities in</TM_Description_Grimoire.rulePack.rulesStrings.109>
+  <!--EN: detail->. It is a succinct instruction of a complex subject-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.11>detail-&amp;gt;. It is a succinct instruction of a complex subject</TM_Description_Grimoire.rulePack.rulesStrings.11>
+  <!--EN: author_skillLevel->skillfulness with-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.110>author_skillLevel-&amp;gt;skillfulness with</TM_Description_Grimoire.rulePack.rulesStrings.110>
+  <!--EN: author_skillLevel->acumen of-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.111>author_skillLevel-&amp;gt;acumen of</TM_Description_Grimoire.rulePack.rulesStrings.111>
+  <!--EN: author_action->summoning familiars that whispered secrets from the ether-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.112>author_action-&amp;gt;summoning familiars that whispered secrets from the ether</TM_Description_Grimoire.rulePack.rulesStrings.112>
+  <!--EN: author_action->opening windows of time throughout history-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.113>author_action-&amp;gt;opening windows of time throughout history</TM_Description_Grimoire.rulePack.rulesStrings.113>
+  <!--EN: author_action->weaving tethers of control throughout the spell-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.114>author_action-&amp;gt;weaving tethers of control throughout the spell</TM_Description_Grimoire.rulePack.rulesStrings.114>
+  <!--EN: author_action->concocting potions that altered reality-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.115>author_action-&amp;gt;concocting potions that altered reality</TM_Description_Grimoire.rulePack.rulesStrings.115>
+  <!--EN: author_action->singing spells that echoed across dimensions-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.116>author_action-&amp;gt;singing spells that echoed across dimensions</TM_Description_Grimoire.rulePack.rulesStrings.116>
+  <!--EN: author_action->sculpting illusions able to fool even the keenest minds-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.117>author_action-&amp;gt;sculpting illusions able to fool even the keenest minds</TM_Description_Grimoire.rulePack.rulesStrings.117>
+  <!--EN: author_action->weaving dreams that shaped destinies-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.118>author_action-&amp;gt;weaving dreams that shaped destinies</TM_Description_Grimoire.rulePack.rulesStrings.118>
+  <!--EN: author_action->forging artifacts that harnessed cosmic energies-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.119>author_action-&amp;gt;forging artifacts that harnessed cosmic energies</TM_Description_Grimoire.rulePack.rulesStrings.119>
+  <!--EN: detail->. The introductions say that, when [ANYPAWN_label] wrote this, it was a new application in the field-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.12>detail-&amp;gt;. The introductions say that, when [ANYPAWN_label] wrote this, it was a new application in the field</TM_Description_Grimoire.rulePack.rulesStrings.12>
+  <!--EN: author_action->whispering incantations that stirred ancient spirits-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.120>author_action-&amp;gt;whispering incantations that stirred ancient spirits</TM_Description_Grimoire.rulePack.rulesStrings.120>
+  <!--EN: author_action->painting spells onto canvases that came alive-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.121>author_action-&amp;gt;painting spells onto canvases that came alive</TM_Description_Grimoire.rulePack.rulesStrings.121>
+  <!--EN: author_action->dancing rituals under moonlit skies to bend fate-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.122>author_action-&amp;gt;dancing rituals under moonlit skies to bend fate</TM_Description_Grimoire.rulePack.rulesStrings.122>
+  <!--EN: author_action->carving runes into stone to bind elemental forces-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.123>author_action-&amp;gt;carving runes into stone to bind elemental forces</TM_Description_Grimoire.rulePack.rulesStrings.123>
+  <!--EN: author_action->chanting hymns that healed wounds and mended souls-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.124>author_action-&amp;gt;chanting hymns that healed wounds and mended souls</TM_Description_Grimoire.rulePack.rulesStrings.124>
+  <!--EN: author_action->pitting elementals against each other in mortal combat-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.125>author_action-&amp;gt;pitting elementals against each other in mortal combat</TM_Description_Grimoire.rulePack.rulesStrings.125>
+  <!--EN: phenomena->mysteries-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.126>phenomena-&amp;gt;mysteries</TM_Description_Grimoire.rulePack.rulesStrings.126>
+  <!--EN: phenomena->phenomena-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.127>phenomena-&amp;gt;phenomena</TM_Description_Grimoire.rulePack.rulesStrings.127>
+  <!--EN: phenomena->secrets-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.128>phenomena-&amp;gt;secrets</TM_Description_Grimoire.rulePack.rulesStrings.128>
+  <!--EN: phenomena->enigmas-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.129>phenomena-&amp;gt;enigmas</TM_Description_Grimoire.rulePack.rulesStrings.129>
+  <!--EN: detail->. A quote on the [note_location] says, 'True [students] of [subject] cannot ignore [ANYPAWN_label]'s book'-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.13>detail-&amp;gt;. A quote on the [note_location] says, &amp;apos;True [students] of [subject] cannot ignore [ANYPAWN_label]&amp;apos;s book&amp;apos;</TM_Description_Grimoire.rulePack.rulesStrings.13>
+  <!--EN: phenomena->marvels-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.130>phenomena-&amp;gt;marvels</TM_Description_Grimoire.rulePack.rulesStrings.130>
+  <!--EN: phenomena->wonders-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.131>phenomena-&amp;gt;wonders</TM_Description_Grimoire.rulePack.rulesStrings.131>
+  <!--EN: phenomena->curiosities-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.132>phenomena-&amp;gt;curiosities</TM_Description_Grimoire.rulePack.rulesStrings.132>
+  <!--EN: phenomena->anomalies-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.133>phenomena-&amp;gt;anomalies</TM_Description_Grimoire.rulePack.rulesStrings.133>
+  <!--EN: phenomena->occurrences-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.134>phenomena-&amp;gt;occurrences</TM_Description_Grimoire.rulePack.rulesStrings.134>
+  <!--EN: phenomena->peculiarities-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.135>phenomena-&amp;gt;peculiarities</TM_Description_Grimoire.rulePack.rulesStrings.135>
+  <!--EN: phenomena->revelations-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.136>phenomena-&amp;gt;revelations</TM_Description_Grimoire.rulePack.rulesStrings.136>
+  <!--EN: phenomena->miracles-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.137>phenomena-&amp;gt;miracles</TM_Description_Grimoire.rulePack.rulesStrings.137>
+  <!--EN: magicLocation->a secluded glade-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.138>magicLocation-&amp;gt;a secluded glade</TM_Description_Grimoire.rulePack.rulesStrings.138>
+  <!--EN: magicLocation->a floating library-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.139>magicLocation-&amp;gt;a floating library</TM_Description_Grimoire.rulePack.rulesStrings.139>
+  <!--EN: students->students-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.14>students-&amp;gt;students</TM_Description_Grimoire.rulePack.rulesStrings.14>
+  <!--EN: magicLocation->an enchanted garden-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.140>magicLocation-&amp;gt;an enchanted garden</TM_Description_Grimoire.rulePack.rulesStrings.140>
+  <!--EN: magicLocation->an elemental plane-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.141>magicLocation-&amp;gt;an elemental plane</TM_Description_Grimoire.rulePack.rulesStrings.141>
+  <!--EN: magicLocation->a fiery abyss-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.142>magicLocation-&amp;gt;a fiery abyss</TM_Description_Grimoire.rulePack.rulesStrings.142>
+  <!--EN: magicLocation->an astral plane-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.143>magicLocation-&amp;gt;an astral plane</TM_Description_Grimoire.rulePack.rulesStrings.143>
+  <!--EN: magicLocation->an ancient city-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.144>magicLocation-&amp;gt;an ancient city</TM_Description_Grimoire.rulePack.rulesStrings.144>
+  <!--EN: magicLocation->a spectral palace-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.145>magicLocation-&amp;gt;a spectral palace</TM_Description_Grimoire.rulePack.rulesStrings.145>
+  <!--EN: magicLocation->a shimmering oasis-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.146>magicLocation-&amp;gt;a shimmering oasis</TM_Description_Grimoire.rulePack.rulesStrings.146>
+  <!--EN: magicLocation->a hidden valley-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.147>magicLocation-&amp;gt;a hidden valley</TM_Description_Grimoire.rulePack.rulesStrings.147>
+  <!--EN: magicLocation->dark whispering woods-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.148>magicLocation-&amp;gt;dark whispering woods</TM_Description_Grimoire.rulePack.rulesStrings.148>
+  <!--EN: magicLocation->a starlit cavern-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.149>magicLocation-&amp;gt;a starlit cavern</TM_Description_Grimoire.rulePack.rulesStrings.149>
+  <!--EN: students->lovers-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.15>students-&amp;gt;lovers</TM_Description_Grimoire.rulePack.rulesStrings.15>
+  <!--EN: magicLocation->a cosmic rift-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.150>magicLocation-&amp;gt;a cosmic rift</TM_Description_Grimoire.rulePack.rulesStrings.150>
+  <!--EN: magicLocation->a twilight spire-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.151>magicLocation-&amp;gt;a twilight spire</TM_Description_Grimoire.rulePack.rulesStrings.151>
+  <!--EN: magicLocation->a sunken citadel-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.152>magicLocation-&amp;gt;a sunken citadel</TM_Description_Grimoire.rulePack.rulesStrings.152>
+  <!--EN: magicLocation->an emerald labyrinth-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.153>magicLocation-&amp;gt;an emerald labyrinth</TM_Description_Grimoire.rulePack.rulesStrings.153>
+  <!--EN: magicLocation->an ethereal realm-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.154>magicLocation-&amp;gt;an ethereal realm</TM_Description_Grimoire.rulePack.rulesStrings.154>
+  <!--EN: textbook->primer-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.155>textbook-&amp;gt;primer</TM_Description_Grimoire.rulePack.rulesStrings.155>
+  <!--EN: textbook->manual-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.156>textbook-&amp;gt;manual</TM_Description_Grimoire.rulePack.rulesStrings.156>
+  <!--EN: textbook->textbook-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.157>textbook-&amp;gt;textbook</TM_Description_Grimoire.rulePack.rulesStrings.157>
+  <!--EN: textbook(p=6)->book-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.158>textbook(p=6)-&amp;gt;book</TM_Description_Grimoire.rulePack.rulesStrings.158>
+  <!--EN: textbook->workbook-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.159>textbook-&amp;gt;workbook</TM_Description_Grimoire.rulePack.rulesStrings.159>
+  <!--EN: students->practitioners-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.16>students-&amp;gt;practitioners</TM_Description_Grimoire.rulePack.rulesStrings.16>
+  <!--EN: textbook->compendium-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.160>textbook-&amp;gt;compendium</TM_Description_Grimoire.rulePack.rulesStrings.160>
+  <!--EN: textbook->guidebook-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.161>textbook-&amp;gt;guidebook</TM_Description_Grimoire.rulePack.rulesStrings.161>
+  <!--EN: textbook->booklet-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.162>textbook-&amp;gt;booklet</TM_Description_Grimoire.rulePack.rulesStrings.162>
+  <!--EN: textbook->encyclopedia-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.163>textbook-&amp;gt;encyclopedia</TM_Description_Grimoire.rulePack.rulesStrings.163>
+  <!--EN: textbook->handbook-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.164>textbook-&amp;gt;handbook</TM_Description_Grimoire.rulePack.rulesStrings.164>
+  <!--EN: textbook->tradebook-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.165>textbook-&amp;gt;tradebook</TM_Description_Grimoire.rulePack.rulesStrings.165>
+  <!--EN: textbook->work-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.166>textbook-&amp;gt;work</TM_Description_Grimoire.rulePack.rulesStrings.166>
+  <!--EN: note_location->front cover-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.167>note_location-&amp;gt;front cover</TM_Description_Grimoire.rulePack.rulesStrings.167>
+  <!--EN: note_location->back cover-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.168>note_location-&amp;gt;back cover</TM_Description_Grimoire.rulePack.rulesStrings.168>
+  <!--EN: note_location->front flap-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.169>note_location-&amp;gt;front flap</TM_Description_Grimoire.rulePack.rulesStrings.169>
+  <!--EN: students->mages-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.17>students-&amp;gt;mages</TM_Description_Grimoire.rulePack.rulesStrings.17>
+  <!--EN: note_location->back flap-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.170>note_location-&amp;gt;back flap</TM_Description_Grimoire.rulePack.rulesStrings.170>
+  <!--EN: note_location->first page-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.171>note_location-&amp;gt;first page</TM_Description_Grimoire.rulePack.rulesStrings.171>
+  <!--EN: note_location->last page-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.172>note_location-&amp;gt;last page</TM_Description_Grimoire.rulePack.rulesStrings.172>
+  <!--EN: note_location->margins-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.173>note_location-&amp;gt;margins</TM_Description_Grimoire.rulePack.rulesStrings.173>
+  <!--EN: note_location->title page-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.174>note_location-&amp;gt;title page</TM_Description_Grimoire.rulePack.rulesStrings.174>
+  <!--EN: note_location->footnote-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.175>note_location-&amp;gt;footnote</TM_Description_Grimoire.rulePack.rulesStrings.175>
+  <!--EN: note_location->endnote-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.176>note_location-&amp;gt;endnote</TM_Description_Grimoire.rulePack.rulesStrings.176>
+  <!--EN: note_location->author's biography-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.177>note_location-&amp;gt;author&amp;apos;s biography</TM_Description_Grimoire.rulePack.rulesStrings.177>
+  <!--EN: note->note-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.178>note-&amp;gt;note</TM_Description_Grimoire.rulePack.rulesStrings.178>
+  <!--EN: note->addendum-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.179>note-&amp;gt;addendum</TM_Description_Grimoire.rulePack.rulesStrings.179>
+  <!--EN: students->wizards-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.18>students-&amp;gt;wizards</TM_Description_Grimoire.rulePack.rulesStrings.18>
+  <!--EN: note->postscript-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.180>note-&amp;gt;postscript</TM_Description_Grimoire.rulePack.rulesStrings.180>
+  <!--EN: note->afterword-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.181>note-&amp;gt;afterword</TM_Description_Grimoire.rulePack.rulesStrings.181>
+  <!--EN: note->appendix-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.182>note-&amp;gt;appendix</TM_Description_Grimoire.rulePack.rulesStrings.182>
+  <!--EN: note->coda-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.183>note-&amp;gt;coda</TM_Description_Grimoire.rulePack.rulesStrings.183>
+  <!--EN: note->footnote-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.184>note-&amp;gt;footnote</TM_Description_Grimoire.rulePack.rulesStrings.184>
+  <!--EN: note->endnote-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.185>note-&amp;gt;endnote</TM_Description_Grimoire.rulePack.rulesStrings.185>
+  <!--EN: useful_information->useful tidbits of information-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.186>useful_information-&amp;gt;useful tidbits of information</TM_Description_Grimoire.rulePack.rulesStrings.186>
+  <!--EN: useful_information->useful information-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.187>useful_information-&amp;gt;useful information</TM_Description_Grimoire.rulePack.rulesStrings.187>
+  <!--EN: useful_information->interesting facts-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.188>useful_information-&amp;gt;interesting facts</TM_Description_Grimoire.rulePack.rulesStrings.188>
+  <!--EN: useful_information->valuable insights-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.189>useful_information-&amp;gt;valuable insights</TM_Description_Grimoire.rulePack.rulesStrings.189>
+  <!--EN: detail->. It takes you through the subject step-by-step-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.19>detail-&amp;gt;. It takes you through the subject step-by-step</TM_Description_Grimoire.rulePack.rulesStrings.19>
+  <!--EN: useful_information->practical insights-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.190>useful_information-&amp;gt;practical insights</TM_Description_Grimoire.rulePack.rulesStrings.190>
+  <!--EN: useful_information->helpful tips-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.191>useful_information-&amp;gt;helpful tips</TM_Description_Grimoire.rulePack.rulesStrings.191>
+  <!--EN: useful_information->informative details-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.192>useful_information-&amp;gt;informative details</TM_Description_Grimoire.rulePack.rulesStrings.192>
+  <!--EN: understanding_synonym->knowledge of-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.193>understanding_synonym-&amp;gt;knowledge of</TM_Description_Grimoire.rulePack.rulesStrings.193>
+  <!--EN: understanding_synonym->self-improvement in-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.194>understanding_synonym-&amp;gt;self-improvement in</TM_Description_Grimoire.rulePack.rulesStrings.194>
+  <!--EN: understanding_synonym->an understanding of-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.195>understanding_synonym-&amp;gt;an understanding of</TM_Description_Grimoire.rulePack.rulesStrings.195>
+  <!--EN: understanding_synonym->skills in-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.196>understanding_synonym-&amp;gt;skills in</TM_Description_Grimoire.rulePack.rulesStrings.196>
+  <!--EN: understanding_synonym->techniques in-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.197>understanding_synonym-&amp;gt;techniques in</TM_Description_Grimoire.rulePack.rulesStrings.197>
+  <!--EN: understanding_synonym->expertise in-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.198>understanding_synonym-&amp;gt;expertise in</TM_Description_Grimoire.rulePack.rulesStrings.198>
+  <!--EN: understanding_synonym->a philosophy of-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.199>understanding_synonym-&amp;gt;a philosophy of</TM_Description_Grimoire.rulePack.rulesStrings.199>
+  <!--EN: desc->[discussion].\n\n[anecdote]. \n\n[quality_statement].-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.2>desc-&amp;gt;[discussion].\n\n[anecdote]. \n\n[quality_statement].</TM_Description_Grimoire.rulePack.rulesStrings.2>
+  <!--EN: detail(quality[less_than]4)->, even though the author rushes through the subject-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.20>detail(quality[less_than]4)-&amp;gt;, even though the author rushes through the subject</TM_Description_Grimoire.rulePack.rulesStrings.20>
+  <!--EN: understanding_synonym->the ethics of-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.200>understanding_synonym-&amp;gt;the ethics of</TM_Description_Grimoire.rulePack.rulesStrings.200>
+  <!--EN: notable_adjective->famous-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.201>notable_adjective-&amp;gt;famous</TM_Description_Grimoire.rulePack.rulesStrings.201>
+  <!--EN: notable_adjective->obscure-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.202>notable_adjective-&amp;gt;obscure</TM_Description_Grimoire.rulePack.rulesStrings.202>
+  <!--EN: notable_adjective->iconic-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.203>notable_adjective-&amp;gt;iconic</TM_Description_Grimoire.rulePack.rulesStrings.203>
+  <!--EN: notable_adjective->classic-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.204>notable_adjective-&amp;gt;classic</TM_Description_Grimoire.rulePack.rulesStrings.204>
+  <!--EN: notable_adjective->common-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.205>notable_adjective-&amp;gt;common</TM_Description_Grimoire.rulePack.rulesStrings.205>
+  <!--EN: notable_adjective->familiar-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.206>notable_adjective-&amp;gt;familiar</TM_Description_Grimoire.rulePack.rulesStrings.206>
+  <!--EN: notable_adjective->timeless-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.207>notable_adjective-&amp;gt;timeless</TM_Description_Grimoire.rulePack.rulesStrings.207>
+  <!--EN: notable_adjective->lopsided-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.208>notable_adjective-&amp;gt;lopsided</TM_Description_Grimoire.rulePack.rulesStrings.208>
+  <!--EN: notable_adjective->harmonious-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.209>notable_adjective-&amp;gt;harmonious</TM_Description_Grimoire.rulePack.rulesStrings.209>
+  <!--EN: detail(quality[greater_than]3)->. It is a comprehensive treatment of the subject-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.21>detail(quality[greater_than]3)-&amp;gt;. It is a comprehensive treatment of the subject</TM_Description_Grimoire.rulePack.rulesStrings.21>
+  <!--EN: notable_adjective->elegant-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.210>notable_adjective-&amp;gt;elegant</TM_Description_Grimoire.rulePack.rulesStrings.210>
+  <!--EN: notable_adjective->simple-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.211>notable_adjective-&amp;gt;simple</TM_Description_Grimoire.rulePack.rulesStrings.211>
+  <!--EN: notable_adjective->functional-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.212>notable_adjective-&amp;gt;functional</TM_Description_Grimoire.rulePack.rulesStrings.212>
+  <!--EN: notable_adjective->urbworld-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.213>notable_adjective-&amp;gt;urbworld</TM_Description_Grimoire.rulePack.rulesStrings.213>
+  <!--EN: notable_adjective->Glitterworld-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.214>notable_adjective-&amp;gt;Glitterworld</TM_Description_Grimoire.rulePack.rulesStrings.214>
+  <!--EN: notable_adjective->primitive-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.215>notable_adjective-&amp;gt;primitive</TM_Description_Grimoire.rulePack.rulesStrings.215>
+  <!--EN: notable_adjective->decorative-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.216>notable_adjective-&amp;gt;decorative</TM_Description_Grimoire.rulePack.rulesStrings.216>
+  <!--EN: exterior_quality(quality[greater_than]4)->The exterior of this book is finely bound and-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.217>exterior_quality(quality[greater_than]4)-&amp;gt;The exterior of this book is finely bound and</TM_Description_Grimoire.rulePack.rulesStrings.217>
+  <!--EN: exterior_quality(quality[greater_than]4)->A masterpiece of the printer's art, this book shines and-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.218>exterior_quality(quality[greater_than]4)-&amp;gt;A masterpiece of the printer&amp;apos;s art, this book shines and</TM_Description_Grimoire.rulePack.rulesStrings.218>
+  <!--EN: exterior_quality(quality[greater_than]4)->Its leather cover is rough yet-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.219>exterior_quality(quality[greater_than]4)-&amp;gt;Its leather cover is rough yet</TM_Description_Grimoire.rulePack.rulesStrings.219>
+  <!--EN: detail(quality[greater_than]4)->. The pages of this [object] are made from human skin-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.22>detail(quality[greater_than]4)-&amp;gt;. The pages of this [object] are made from human skin</TM_Description_Grimoire.rulePack.rulesStrings.22>
+  <!--EN: exterior_quality(quality[greater_than]4)->Though the cover is very plain,-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.220>exterior_quality(quality[greater_than]4)-&amp;gt;Though the cover is very plain,</TM_Description_Grimoire.rulePack.rulesStrings.220>
+  <!--EN: exterior_quality(quality[less_than]5,quality[greater_than]1)->This textbook has seen better days, but-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.221>exterior_quality(quality[less_than]5,quality[greater_than]1)-&amp;gt;This textbook has seen better days, but</TM_Description_Grimoire.rulePack.rulesStrings.221>
+  <!--EN: exterior_quality(quality[less_than]5,quality[greater_than]1)->Despite being a second-hand schoolbook,-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.222>exterior_quality(quality[less_than]5,quality[greater_than]1)-&amp;gt;Despite being a second-hand schoolbook,</TM_Description_Grimoire.rulePack.rulesStrings.222>
+  <!--EN: exterior_quality(quality[less_than]5,quality[greater_than]1)->This book has had many owners, but-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.223>exterior_quality(quality[less_than]5,quality[greater_than]1)-&amp;gt;This book has had many owners, but</TM_Description_Grimoire.rulePack.rulesStrings.223>
+  <!--EN: exterior_quality(quality[less_than]2)->The front of this book seems attractive but-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.224>exterior_quality(quality[less_than]2)-&amp;gt;The front of this book seems attractive but</TM_Description_Grimoire.rulePack.rulesStrings.224>
+  <!--EN: exterior_quality(quality[less_than]2)->Someone has torn away the first third of the book and-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.225>exterior_quality(quality[less_than]2)-&amp;gt;Someone has torn away the first third of the book and</TM_Description_Grimoire.rulePack.rulesStrings.225>
+  <!--EN: exterior_quality(quality[less_than]2)->The cover is soaked in a strong-smelling liquid and-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.226>exterior_quality(quality[less_than]2)-&amp;gt;The cover is soaked in a strong-smelling liquid and</TM_Description_Grimoire.rulePack.rulesStrings.226>
+  <!--EN: exterior_quality(quality[less_than]2)->At first sight nothing is wrong with the book, but-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.227>exterior_quality(quality[less_than]2)-&amp;gt;At first sight nothing is wrong with the book, but</TM_Description_Grimoire.rulePack.rulesStrings.227>
+  <!--EN: page_quality->the pages [page_condition]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.228>page_quality-&amp;gt;the pages [page_condition]</TM_Description_Grimoire.rulePack.rulesStrings.228>
+  <!--EN: page_condition(quality[greater_than]4)->[page_excellent]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.229>page_condition(quality[greater_than]4)-&amp;gt;[page_excellent]</TM_Description_Grimoire.rulePack.rulesStrings.229>
+  <!--EN: detail(quality[greater_than]5)->. The [object] is covered in glowing runes-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.23>detail(quality[greater_than]5)-&amp;gt;. The [object] is covered in glowing runes</TM_Description_Grimoire.rulePack.rulesStrings.23>
+  <!--EN: page_condition(quality[less_than]5,quality[greater_than]1)->[page_decent]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.230>page_condition(quality[less_than]5,quality[greater_than]1)-&amp;gt;[page_decent]</TM_Description_Grimoire.rulePack.rulesStrings.230>
+  <!--EN: page_condition(quality[less_than]2)->[page_awful]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.231>page_condition(quality[less_than]2)-&amp;gt;[page_awful]</TM_Description_Grimoire.rulePack.rulesStrings.231>
+  <!--EN: page_excellent->are in amazing condition, as if never touched-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.232>page_excellent-&amp;gt;are in amazing condition, as if never touched</TM_Description_Grimoire.rulePack.rulesStrings.232>
+  <!--EN: page_excellent->are in great condition-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.233>page_excellent-&amp;gt;are in great condition</TM_Description_Grimoire.rulePack.rulesStrings.233>
+  <!--EN: page_excellent->are pristine-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.234>page_excellent-&amp;gt;are pristine</TM_Description_Grimoire.rulePack.rulesStrings.234>
+  <!--EN: page_excellent->are bright and clean-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.235>page_excellent-&amp;gt;are bright and clean</TM_Description_Grimoire.rulePack.rulesStrings.235>
+  <!--EN: page_excellent->are uniquely well-preserved-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.236>page_excellent-&amp;gt;are uniquely well-preserved</TM_Description_Grimoire.rulePack.rulesStrings.236>
+  <!--EN: page_decent->are in a decent condition-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.237>page_decent-&amp;gt;are in a decent condition</TM_Description_Grimoire.rulePack.rulesStrings.237>
+  <!--EN: page_decent->are legible, if crumpled-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.238>page_decent-&amp;gt;are legible, if crumpled</TM_Description_Grimoire.rulePack.rulesStrings.238>
+  <!--EN: page_decent->are perfectly readable-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.239>page_decent-&amp;gt;are perfectly readable</TM_Description_Grimoire.rulePack.rulesStrings.239>
+  <!--EN: detail->. There are strange scratches on the cover of this [object]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.24>detail-&amp;gt;. There are strange scratches on the cover of this [object]</TM_Description_Grimoire.rulePack.rulesStrings.24>
+  <!--EN: page_decent->are decent, if slightly scored-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.240>page_decent-&amp;gt;are decent, if slightly scored</TM_Description_Grimoire.rulePack.rulesStrings.240>
+  <!--EN: page_awful->appear to be written on crumbling parchment-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.241>page_awful-&amp;gt;appear to be written on crumbling parchment</TM_Description_Grimoire.rulePack.rulesStrings.241>
+  <!--EN: page_awful->are badly damaged-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.242>page_awful-&amp;gt;are badly damaged</TM_Description_Grimoire.rulePack.rulesStrings.242>
+  <!--EN: page_awful->are stained with a dark substance-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.243>page_awful-&amp;gt;are stained with a dark substance</TM_Description_Grimoire.rulePack.rulesStrings.243>
+  <!--EN: page_awful->are illegible-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.244>page_awful-&amp;gt;are illegible</TM_Description_Grimoire.rulePack.rulesStrings.244>
+  <!--EN: page_awful->have been annotated in an unreadable hand-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.245>page_awful-&amp;gt;have been annotated in an unreadable hand</TM_Description_Grimoire.rulePack.rulesStrings.245>
+  <!--EN: worldname->[glitterworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.246>worldname-&amp;gt;[glitterworld]</TM_Description_Grimoire.rulePack.rulesStrings.246>
+  <!--EN: worldname->[urbworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.247>worldname-&amp;gt;[urbworld]</TM_Description_Grimoire.rulePack.rulesStrings.247>
+  <!--EN: worldname->[deadworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.248>worldname-&amp;gt;[deadworld]</TM_Description_Grimoire.rulePack.rulesStrings.248>
+  <!--EN: worldname->[shellworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.249>worldname-&amp;gt;[shellworld]</TM_Description_Grimoire.rulePack.rulesStrings.249>
+  <!--EN: detail->. Dried blood marrs the cover of this [object]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.25>detail-&amp;gt;. Dried blood marrs the cover of this [object]</TM_Description_Grimoire.rulePack.rulesStrings.25>
+  <!--EN: worldname->[ruinworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.250>worldname-&amp;gt;[ruinworld]</TM_Description_Grimoire.rulePack.rulesStrings.250>
+  <!--EN: worldname->[medievalworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.251>worldname-&amp;gt;[medievalworld]</TM_Description_Grimoire.rulePack.rulesStrings.251>
+  <!--EN: worldname->[steamworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.252>worldname-&amp;gt;[steamworld]</TM_Description_Grimoire.rulePack.rulesStrings.252>
+  <!--EN: worldname->[midworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.253>worldname-&amp;gt;[midworld]</TM_Description_Grimoire.rulePack.rulesStrings.253>
+  <!--EN: worldname->[rimworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.254>worldname-&amp;gt;[rimworld]</TM_Description_Grimoire.rulePack.rulesStrings.254>
+  <!--EN: worldname->[coreworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.255>worldname-&amp;gt;[coreworld]</TM_Description_Grimoire.rulePack.rulesStrings.255>
+  <!--EN: worldname->[toxicworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.256>worldname-&amp;gt;[toxicworld]</TM_Description_Grimoire.rulePack.rulesStrings.256>
+  <!--EN: worldname->[glassworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.257>worldname-&amp;gt;[glassworld]</TM_Description_Grimoire.rulePack.rulesStrings.257>
+  <!--EN: worldname->[transcendentworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.258>worldname-&amp;gt;[transcendentworld]</TM_Description_Grimoire.rulePack.rulesStrings.258>
+  <!--EN: worldname->[indworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.259>worldname-&amp;gt;[indworld]</TM_Description_Grimoire.rulePack.rulesStrings.259>
+  <!--EN: detail(quality[less_than]3)->, though the author's rhetoric distracts from the core concept-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.26>detail(quality[less_than]3)-&amp;gt;, though the author&amp;apos;s rhetoric distracts from the core concept</TM_Description_Grimoire.rulePack.rulesStrings.26>
+  <!--EN: worldname->[prisonworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.260>worldname-&amp;gt;[prisonworld]</TM_Description_Grimoire.rulePack.rulesStrings.260>
+  <!--EN: worldname->[feudalworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.261>worldname-&amp;gt;[feudalworld]</TM_Description_Grimoire.rulePack.rulesStrings.261>
+  <!--EN: worldname->[trashworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.262>worldname-&amp;gt;[trashworld]</TM_Description_Grimoire.rulePack.rulesStrings.262>
+  <!--EN: worldname->[iceworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.263>worldname-&amp;gt;[iceworld]</TM_Description_Grimoire.rulePack.rulesStrings.263>
+  <!--EN: worldname->[dinoworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.264>worldname-&amp;gt;[dinoworld]</TM_Description_Grimoire.rulePack.rulesStrings.264>
+  <!--EN: worldname->[warworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.265>worldname-&amp;gt;[warworld]</TM_Description_Grimoire.rulePack.rulesStrings.265>
+  <!--EN: worldname->[oceanicworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.266>worldname-&amp;gt;[oceanicworld]</TM_Description_Grimoire.rulePack.rulesStrings.266>
+  <!--EN: worldname->[mineworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.267>worldname-&amp;gt;[mineworld]</TM_Description_Grimoire.rulePack.rulesStrings.267>
+  <!--EN: worldname->[animalworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.268>worldname-&amp;gt;[animalworld]</TM_Description_Grimoire.rulePack.rulesStrings.268>
+  <!--EN: worldname->[asteroid]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.269>worldname-&amp;gt;[asteroid]</TM_Description_Grimoire.rulePack.rulesStrings.269>
+  <!--EN: detail(quality[less_than]3)->, some of the pages have been torn out-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.27>detail(quality[less_than]3)-&amp;gt;, some of the pages have been torn out</TM_Description_Grimoire.rulePack.rulesStrings.27>
+  <!--EN: worldname->[animalworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.270>worldname-&amp;gt;[animalworld]</TM_Description_Grimoire.rulePack.rulesStrings.270>
+  <!--EN: feralworld->[animalworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.271>feralworld-&amp;gt;[animalworld]</TM_Description_Grimoire.rulePack.rulesStrings.271>
+  <!--EN: milworld->[warworld]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.272>milworld-&amp;gt;[warworld]</TM_Description_Grimoire.rulePack.rulesStrings.272>
+  <!--EN: animalworld->Sorne-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.273>animalworld-&amp;gt;Sorne</TM_Description_Grimoire.rulePack.rulesStrings.273>
+  <!--EN: animalworld->Rhydell-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.274>animalworld-&amp;gt;Rhydell</TM_Description_Grimoire.rulePack.rulesStrings.274>
+  <!--EN: animalworld->Zoutera-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.275>animalworld-&amp;gt;Zoutera</TM_Description_Grimoire.rulePack.rulesStrings.275>
+  <!--EN: animalworld->Thylacine-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.276>animalworld-&amp;gt;Thylacine</TM_Description_Grimoire.rulePack.rulesStrings.276>
+  <!--EN: animalworld->Jiai-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.277>animalworld-&amp;gt;Jiai</TM_Description_Grimoire.rulePack.rulesStrings.277>
+  <!--EN: animalworld->Steller's World-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.278>animalworld-&amp;gt;Steller&amp;apos;s World</TM_Description_Grimoire.rulePack.rulesStrings.278>
+  <!--EN: animalworld->Aukton-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.279>animalworld-&amp;gt;Aukton</TM_Description_Grimoire.rulePack.rulesStrings.279>
+  <!--EN: quality_statement->[exterior_quality] [page_quality]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.28>quality_statement-&amp;gt;[exterior_quality] [page_quality]</TM_Description_Grimoire.rulePack.rulesStrings.28>
+  <!--EN: asteroid->Iwamura-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.280>asteroid-&amp;gt;Iwamura</TM_Description_Grimoire.rulePack.rulesStrings.280>
+  <!--EN: asteroid->Atura-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.281>asteroid-&amp;gt;Atura</TM_Description_Grimoire.rulePack.rulesStrings.281>
+  <!--EN: asteroid->Widdershins-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.282>asteroid-&amp;gt;Widdershins</TM_Description_Grimoire.rulePack.rulesStrings.282>
+  <!--EN: asteroid->Ranomi-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.283>asteroid-&amp;gt;Ranomi</TM_Description_Grimoire.rulePack.rulesStrings.283>
+  <!--EN: asteroid->Aesh 265-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.284>asteroid-&amp;gt;Aesh 265</TM_Description_Grimoire.rulePack.rulesStrings.284>
+  <!--EN: asteroid->Taxlos-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.285>asteroid-&amp;gt;Taxlos</TM_Description_Grimoire.rulePack.rulesStrings.285>
+  <!--EN: asteroid->Aryn Sigma-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.286>asteroid-&amp;gt;Aryn Sigma</TM_Description_Grimoire.rulePack.rulesStrings.286>
+  <!--EN: coreworld->Novaroma-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.287>coreworld-&amp;gt;Novaroma</TM_Description_Grimoire.rulePack.rulesStrings.287>
+  <!--EN: coreworld->Lutuni-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.288>coreworld-&amp;gt;Lutuni</TM_Description_Grimoire.rulePack.rulesStrings.288>
+  <!--EN: coreworld->Zeglar-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.289>coreworld-&amp;gt;Zeglar</TM_Description_Grimoire.rulePack.rulesStrings.289>
+  <!--EN: anecdote->In [magicLocation], [author_adjective] [author_type] by the name of [ANYPAWN_nameFull] was known for [ANYPAWN_possessive] [author_skillLevel]  [subject] took on a young apprentice. Every morning, they would travel across the [magicLocation], discovering new [phenomena]. The wizard would gently unravel each [phenomena], whispering ancient incantations that caused the [phenomena] to shimmer with magical light. The apprentice learned that [subject] wasn't just about spells but also about understanding the essence of magic and nurturing it with respect-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.29>anecdote-&amp;gt;In [magicLocation], [author_adjective] [author_type] by the name of [ANYPAWN_nameFull] was known for [ANYPAWN_possessive] [author_skillLevel]  [subject] took on a young apprentice. Every morning, they would travel across the [magicLocation], discovering new [phenomena]. The wizard would gently unravel each [phenomena], whispering ancient incantations that caused the [phenomena] to shimmer with magical light. The apprentice learned that [subject] wasn&amp;apos;t just about spells but also about understanding the essence of magic and nurturing it with respect</TM_Description_Grimoire.rulePack.rulesStrings.29>
+  <!--EN: coreworld->Novaroma-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.290>coreworld-&amp;gt;Novaroma</TM_Description_Grimoire.rulePack.rulesStrings.290>
+  <!--EN: coreworld->Cormora Prime-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.291>coreworld-&amp;gt;Cormora Prime</TM_Description_Grimoire.rulePack.rulesStrings.291>
+  <!--EN: coreworld->Glossolia-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.292>coreworld-&amp;gt;Glossolia</TM_Description_Grimoire.rulePack.rulesStrings.292>
+  <!--EN: coreworld->Barbaros-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.293>coreworld-&amp;gt;Barbaros</TM_Description_Grimoire.rulePack.rulesStrings.293>
+  <!--EN: deadworld->Callos IX-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.294>deadworld-&amp;gt;Callos IX</TM_Description_Grimoire.rulePack.rulesStrings.294>
+  <!--EN: deadworld->Haspia-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.295>deadworld-&amp;gt;Haspia</TM_Description_Grimoire.rulePack.rulesStrings.295>
+  <!--EN: deadworld->Gost IV-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.296>deadworld-&amp;gt;Gost IV</TM_Description_Grimoire.rulePack.rulesStrings.296>
+  <!--EN: deadworld->Berimund-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.297>deadworld-&amp;gt;Berimund</TM_Description_Grimoire.rulePack.rulesStrings.297>
+  <!--EN: deadworld->Ardar-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.298>deadworld-&amp;gt;Ardar</TM_Description_Grimoire.rulePack.rulesStrings.298>
+  <!--EN: deadworld->Kremhild-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.299>deadworld-&amp;gt;Kremhild</TM_Description_Grimoire.rulePack.rulesStrings.299>
+  <!--EN: discussion->This [object] provides [useful_information] about [subject][detail]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.3>discussion-&amp;gt;This [object] provides [useful_information] about [subject][detail]</TM_Description_Grimoire.rulePack.rulesStrings.3>
+  <!--EN: anecdote->According to the [note_location], [ANYPAWN_nameFull] was known for being a master of many subjects-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.30>anecdote-&amp;gt;According to the [note_location], [ANYPAWN_nameFull] was known for being a master of many subjects</TM_Description_Grimoire.rulePack.rulesStrings.30>
+  <!--EN: deadworld->Melisandz-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.300>deadworld-&amp;gt;Melisandz</TM_Description_Grimoire.rulePack.rulesStrings.300>
+  <!--EN: deathworld->Creticon-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.301>deathworld-&amp;gt;Creticon</TM_Description_Grimoire.rulePack.rulesStrings.301>
+  <!--EN: deathworld->Zartza-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.302>deathworld-&amp;gt;Zartza</TM_Description_Grimoire.rulePack.rulesStrings.302>
+  <!--EN: deathworld->Rayth-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.303>deathworld-&amp;gt;Rayth</TM_Description_Grimoire.rulePack.rulesStrings.303>
+  <!--EN: deathworld->Spectra-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.304>deathworld-&amp;gt;Spectra</TM_Description_Grimoire.rulePack.rulesStrings.304>
+  <!--EN: deathworld->JNovahex-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.305>deathworld-&amp;gt;JNovahex</TM_Description_Grimoire.rulePack.rulesStrings.305>
+  <!--EN: deathworld->Carthago-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.306>deathworld-&amp;gt;Carthago</TM_Description_Grimoire.rulePack.rulesStrings.306>
+  <!--EN: deathworld->Grimcore-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.307>deathworld-&amp;gt;Grimcore</TM_Description_Grimoire.rulePack.rulesStrings.307>
+  <!--EN: dinoworld->Oubanyen-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.308>dinoworld-&amp;gt;Oubanyen</TM_Description_Grimoire.rulePack.rulesStrings.308>
+  <!--EN: dinoworld->Zoutera-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.309>dinoworld-&amp;gt;Zoutera</TM_Description_Grimoire.rulePack.rulesStrings.309>
+  <!--EN: anecdote->According to the [note_location], the people of [worldname] still talk of [ANYPAWN_nameFull] and reminisce about [ANYPAWN_possessive] love of [subject]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.31>anecdote-&amp;gt;According to the [note_location], the people of [worldname] still talk of [ANYPAWN_nameFull] and reminisce about [ANYPAWN_possessive] love of [subject]</TM_Description_Grimoire.rulePack.rulesStrings.31>
+  <!--EN: dinoworld->Einio-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.310>dinoworld-&amp;gt;Einio</TM_Description_Grimoire.rulePack.rulesStrings.310>
+  <!--EN: dinoworld->Baryonyx-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.311>dinoworld-&amp;gt;Baryonyx</TM_Description_Grimoire.rulePack.rulesStrings.311>
+  <!--EN: dinoworld->N'cilo-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.312>dinoworld-&amp;gt;N&amp;apos;cilo</TM_Description_Grimoire.rulePack.rulesStrings.312>
+  <!--EN: dinoworld->Venator-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.313>dinoworld-&amp;gt;Venator</TM_Description_Grimoire.rulePack.rulesStrings.313>
+  <!--EN: dinoworld->Brach-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.314>dinoworld-&amp;gt;Brach</TM_Description_Grimoire.rulePack.rulesStrings.314>
+  <!--EN: feudalworld->Aracena VI-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.315>feudalworld-&amp;gt;Aracena VI</TM_Description_Grimoire.rulePack.rulesStrings.315>
+  <!--EN: feudalworld->Nuchadus-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.316>feudalworld-&amp;gt;Nuchadus</TM_Description_Grimoire.rulePack.rulesStrings.316>
+  <!--EN: feudalworld->Filson-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.317>feudalworld-&amp;gt;Filson</TM_Description_Grimoire.rulePack.rulesStrings.317>
+  <!--EN: feudalworld->Fieth-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.318>feudalworld-&amp;gt;Fieth</TM_Description_Grimoire.rulePack.rulesStrings.318>
+  <!--EN: feudalworld->Bloch Regis-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.319>feudalworld-&amp;gt;Bloch Regis</TM_Description_Grimoire.rulePack.rulesStrings.319>
+  <!--EN: anecdote->According to the [note_location], a freak entanglement accident killed the author, [ANYPAWN_nameFull], shortly after publication-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.32>anecdote-&amp;gt;According to the [note_location], a freak entanglement accident killed the author, [ANYPAWN_nameFull], shortly after publication</TM_Description_Grimoire.rulePack.rulesStrings.32>
+  <!--EN: feudalworld->Carlosphere-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.320>feudalworld-&amp;gt;Carlosphere</TM_Description_Grimoire.rulePack.rulesStrings.320>
+  <!--EN: feudalworld->Magna Dijou-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.321>feudalworld-&amp;gt;Magna Dijou</TM_Description_Grimoire.rulePack.rulesStrings.321>
+  <!--EN: glassworld->Ceti V-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.322>glassworld-&amp;gt;Ceti V</TM_Description_Grimoire.rulePack.rulesStrings.322>
+  <!--EN: glassworld->Thebes XIV-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.323>glassworld-&amp;gt;Thebes XIV</TM_Description_Grimoire.rulePack.rulesStrings.323>
+  <!--EN: glassworld->Naga-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.324>glassworld-&amp;gt;Naga</TM_Description_Grimoire.rulePack.rulesStrings.324>
+  <!--EN: glassworld->Merv-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.325>glassworld-&amp;gt;Merv</TM_Description_Grimoire.rulePack.rulesStrings.325>
+  <!--EN: glassworld->Perse-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.326>glassworld-&amp;gt;Perse</TM_Description_Grimoire.rulePack.rulesStrings.326>
+  <!--EN: glassworld->Shechem-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.327>glassworld-&amp;gt;Shechem</TM_Description_Grimoire.rulePack.rulesStrings.327>
+  <!--EN: glassworld->Yelhazor-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.328>glassworld-&amp;gt;Yelhazor</TM_Description_Grimoire.rulePack.rulesStrings.328>
+  <!--EN: glitterworld->Kalthas IV-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.329>glitterworld-&amp;gt;Kalthas IV</TM_Description_Grimoire.rulePack.rulesStrings.329>
+  <!--EN: anecdote->According to the [precis_synonym], [ANYPAWN_nameFull] spent [ANYPAWN_possessive] days teaching in the academy on [coreworld]. This book is taken from [ANYPAWN_possessive] lectures-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.33>anecdote-&amp;gt;According to the [precis_synonym], [ANYPAWN_nameFull] spent [ANYPAWN_possessive] days teaching in the academy on [coreworld]. This book is taken from [ANYPAWN_possessive] lectures</TM_Description_Grimoire.rulePack.rulesStrings.33>
+  <!--EN: glitterworld->Amen-Ti-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.330>glitterworld-&amp;gt;Amen-Ti</TM_Description_Grimoire.rulePack.rulesStrings.330>
+  <!--EN: glitterworld->Sophiamunda-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.331>glitterworld-&amp;gt;Sophiamunda</TM_Description_Grimoire.rulePack.rulesStrings.331>
+  <!--EN: glitterworld->Rogia-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.332>glitterworld-&amp;gt;Rogia</TM_Description_Grimoire.rulePack.rulesStrings.332>
+  <!--EN: glitterworld->Utmaior-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.333>glitterworld-&amp;gt;Utmaior</TM_Description_Grimoire.rulePack.rulesStrings.333>
+  <!--EN: glitterworld->Caspian-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.334>glitterworld-&amp;gt;Caspian</TM_Description_Grimoire.rulePack.rulesStrings.334>
+  <!--EN: glitterworld->Kenerella-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.335>glitterworld-&amp;gt;Kenerella</TM_Description_Grimoire.rulePack.rulesStrings.335>
+  <!--EN: iceworld->Yttak-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.336>iceworld-&amp;gt;Yttak</TM_Description_Grimoire.rulePack.rulesStrings.336>
+  <!--EN: iceworld->Dedchenko-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.337>iceworld-&amp;gt;Dedchenko</TM_Description_Grimoire.rulePack.rulesStrings.337>
+  <!--EN: iceworld->Baltoro-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.338>iceworld-&amp;gt;Baltoro</TM_Description_Grimoire.rulePack.rulesStrings.338>
+  <!--EN: iceworld->Furtwale-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.339>iceworld-&amp;gt;Furtwale</TM_Description_Grimoire.rulePack.rulesStrings.339>
+  <!--EN: anecdote->According to the [precis_synonym], [ANYPAWN_nameFull]'s knowledge of [subject] was so renowned that people would stop [ANYPAWN_objective] in the street to question [ANYPAWN_objective] about it-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.34>anecdote-&amp;gt;According to the [precis_synonym], [ANYPAWN_nameFull]&amp;apos;s knowledge of [subject] was so renowned that people would stop [ANYPAWN_objective] in the street to question [ANYPAWN_objective] about it</TM_Description_Grimoire.rulePack.rulesStrings.34>
+  <!--EN: iceworld->Jaqua-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.340>iceworld-&amp;gt;Jaqua</TM_Description_Grimoire.rulePack.rulesStrings.340>
+  <!--EN: iceworld->Christensen-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.341>iceworld-&amp;gt;Christensen</TM_Description_Grimoire.rulePack.rulesStrings.341>
+  <!--EN: iceworld->Barnes-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.342>iceworld-&amp;gt;Barnes</TM_Description_Grimoire.rulePack.rulesStrings.342>
+  <!--EN: indworld->Irithir-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.343>indworld-&amp;gt;Irithir</TM_Description_Grimoire.rulePack.rulesStrings.343>
+  <!--EN: indworld->New China-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.344>indworld-&amp;gt;New China</TM_Description_Grimoire.rulePack.rulesStrings.344>
+  <!--EN: indworld->Hudders-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.345>indworld-&amp;gt;Hudders</TM_Description_Grimoire.rulePack.rulesStrings.345>
+  <!--EN: indworld->Iver-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.346>indworld-&amp;gt;Iver</TM_Description_Grimoire.rulePack.rulesStrings.346>
+  <!--EN: indworld->Achesta-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.347>indworld-&amp;gt;Achesta</TM_Description_Grimoire.rulePack.rulesStrings.347>
+  <!--EN: indworld->Oods-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.348>indworld-&amp;gt;Oods</TM_Description_Grimoire.rulePack.rulesStrings.348>
+  <!--EN: indworld->Iladelf-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.349>indworld-&amp;gt;Iladelf</TM_Description_Grimoire.rulePack.rulesStrings.349>
+  <!--EN: anecdote->In a bustling city, nestled between towering buildings, there was a hidden gateway to [magicLocation] accessible only to those who knew the secret. Within this magical realm, there existed an old structure lined with shelves containing books on every branch of magic imaginable. The librarian, an eccentric [author_type] with a twinkle in [ANYPAWN_possessive] eye, guided eager students through the maze of [phenomena]. [ANYPAWN_pronoun] taught them to [student_learn] [subject] by [author_action]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.35>anecdote-&amp;gt;In a bustling city, nestled between towering buildings, there was a hidden gateway to [magicLocation] accessible only to those who knew the secret. Within this magical realm, there existed an old structure lined with shelves containing books on every branch of magic imaginable. The librarian, an eccentric [author_type] with a twinkle in [ANYPAWN_possessive] eye, guided eager students through the maze of [phenomena]. [ANYPAWN_pronoun] taught them to [student_learn] [subject] by [author_action]</TM_Description_Grimoire.rulePack.rulesStrings.35>
+  <!--EN: medievalworld->Chelis-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.350>medievalworld-&amp;gt;Chelis</TM_Description_Grimoire.rulePack.rulesStrings.350>
+  <!--EN: medievalworld->Vinna-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.351>medievalworld-&amp;gt;Vinna</TM_Description_Grimoire.rulePack.rulesStrings.351>
+  <!--EN: medievalworld->Cassone-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.352>medievalworld-&amp;gt;Cassone</TM_Description_Grimoire.rulePack.rulesStrings.352>
+  <!--EN: medievalworld->Jork-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.353>medievalworld-&amp;gt;Jork</TM_Description_Grimoire.rulePack.rulesStrings.353>
+  <!--EN: medievalworld->Cochmar-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.354>medievalworld-&amp;gt;Cochmar</TM_Description_Grimoire.rulePack.rulesStrings.354>
+  <!--EN: medievalworld->Alin-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.355>medievalworld-&amp;gt;Alin</TM_Description_Grimoire.rulePack.rulesStrings.355>
+  <!--EN: medievalworld->Dubrognago-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.356>medievalworld-&amp;gt;Dubrognago</TM_Description_Grimoire.rulePack.rulesStrings.356>
+  <!--EN: midworld->Khalderia-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.357>midworld-&amp;gt;Khalderia</TM_Description_Grimoire.rulePack.rulesStrings.357>
+  <!--EN: midworld->Elsin-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.358>midworld-&amp;gt;Elsin</TM_Description_Grimoire.rulePack.rulesStrings.358>
+  <!--EN: midworld->Haihan-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.359>midworld-&amp;gt;Haihan</TM_Description_Grimoire.rulePack.rulesStrings.359>
+  <!--EN: anecdote->A young apprentice stumbled upon an old [textbook] in [ANYPAWN_possessive] attic. In [ANYPAWN_possessive] eagerness, [ANYPAWN_pronoun] attempted a spell far beyond [ANYPAWN_possessive] understanding. [author_event] ensued, nearly destroying [ANYPAWN_label]. This [object] is the life work of the master [author_type] [ANYPAWN_nameFull] as [ANYPAWN_pronoun] journaled [ANYPAWN_possessive] odyssey into the wonders of magic-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.36>anecdote-&amp;gt;A young apprentice stumbled upon an old [textbook] in [ANYPAWN_possessive] attic. In [ANYPAWN_possessive] eagerness, [ANYPAWN_pronoun] attempted a spell far beyond [ANYPAWN_possessive] understanding. [author_event] ensued, nearly destroying [ANYPAWN_label]. This [object] is the life work of the master [author_type] [ANYPAWN_nameFull] as [ANYPAWN_pronoun] journaled [ANYPAWN_possessive] odyssey into the wonders of magic</TM_Description_Grimoire.rulePack.rulesStrings.36>
+  <!--EN: midworld->Seolure-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.360>midworld-&amp;gt;Seolure</TM_Description_Grimoire.rulePack.rulesStrings.360>
+  <!--EN: midworld->Panga-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.361>midworld-&amp;gt;Panga</TM_Description_Grimoire.rulePack.rulesStrings.361>
+  <!--EN: midworld->New London CXI-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.362>midworld-&amp;gt;New London CXI</TM_Description_Grimoire.rulePack.rulesStrings.362>
+  <!--EN: midworld->San Delenda-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.363>midworld-&amp;gt;San Delenda</TM_Description_Grimoire.rulePack.rulesStrings.363>
+  <!--EN: mineworld->Xanides-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.364>mineworld-&amp;gt;Xanides</TM_Description_Grimoire.rulePack.rulesStrings.364>
+  <!--EN: mineworld->Bingham-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.365>mineworld-&amp;gt;Bingham</TM_Description_Grimoire.rulePack.rulesStrings.365>
+  <!--EN: mineworld->Saarhi-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.366>mineworld-&amp;gt;Saarhi</TM_Description_Grimoire.rulePack.rulesStrings.366>
+  <!--EN: mineworld->Grasbeg-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.367>mineworld-&amp;gt;Grasbeg</TM_Description_Grimoire.rulePack.rulesStrings.367>
+  <!--EN: mineworld->Chuqui-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.368>mineworld-&amp;gt;Chuqui</TM_Description_Grimoire.rulePack.rulesStrings.368>
+  <!--EN: mineworld->Olimpia-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.369>mineworld-&amp;gt;Olimpia</TM_Description_Grimoire.rulePack.rulesStrings.369>
+  <!--EN: anecdote->In the midst of a fierce battle, an inexperienced [author_type] found a mysterious [author_item] on the battlefield. Driven by curiosity, [ANYPAWN_pronoun] activated it, unleashing a torrent of uncontrollable [subject]. [author_event] erupted, causing destruction among the combatants. This [object] holds the chronicles of the legendary [author_type] [ANYPAWN_nameFull], who documented [ANYPAWN_possessive] journey to mastering the art of [subject] amidst such unpredictable events-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.37>anecdote-&amp;gt;In the midst of a fierce battle, an inexperienced [author_type] found a mysterious [author_item] on the battlefield. Driven by curiosity, [ANYPAWN_pronoun] activated it, unleashing a torrent of uncontrollable [subject]. [author_event] erupted, causing destruction among the combatants. This [object] holds the chronicles of the legendary [author_type] [ANYPAWN_nameFull], who documented [ANYPAWN_possessive] journey to mastering the art of [subject] amidst such unpredictable events</TM_Description_Grimoire.rulePack.rulesStrings.37>
+  <!--EN: mineworld->Orme-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.370>mineworld-&amp;gt;Orme</TM_Description_Grimoire.rulePack.rulesStrings.370>
+  <!--EN: oceanicworld->Wavia-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.371>oceanicworld-&amp;gt;Wavia</TM_Description_Grimoire.rulePack.rulesStrings.371>
+  <!--EN: oceanicworld->Wadka-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.372>oceanicworld-&amp;gt;Wadka</TM_Description_Grimoire.rulePack.rulesStrings.372>
+  <!--EN: oceanicworld->Gichen-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.373>oceanicworld-&amp;gt;Gichen</TM_Description_Grimoire.rulePack.rulesStrings.373>
+  <!--EN: oceanicworld->Port Yam-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.374>oceanicworld-&amp;gt;Port Yam</TM_Description_Grimoire.rulePack.rulesStrings.374>
+  <!--EN: oceanicworld->Baia-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.375>oceanicworld-&amp;gt;Baia</TM_Description_Grimoire.rulePack.rulesStrings.375>
+  <!--EN: oceanicworld->Thonis-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.376>oceanicworld-&amp;gt;Thonis</TM_Description_Grimoire.rulePack.rulesStrings.376>
+  <!--EN: oceanicworld->Moaui-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.377>oceanicworld-&amp;gt;Moaui</TM_Description_Grimoire.rulePack.rulesStrings.377>
+  <!--EN: prisonworld->Yttak-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.378>prisonworld-&amp;gt;Yttak</TM_Description_Grimoire.rulePack.rulesStrings.378>
+  <!--EN: prisonworld->Aldgate-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.379>prisonworld-&amp;gt;Aldgate</TM_Description_Grimoire.rulePack.rulesStrings.379>
+  <!--EN: author_item->shard-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.38>author_item-&amp;gt;shard</TM_Description_Grimoire.rulePack.rulesStrings.38>
+  <!--EN: prisonworld->Borren-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.380>prisonworld-&amp;gt;Borren</TM_Description_Grimoire.rulePack.rulesStrings.380>
+  <!--EN: prisonworld->Hoalo-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.381>prisonworld-&amp;gt;Hoalo</TM_Description_Grimoire.rulePack.rulesStrings.381>
+  <!--EN: prisonworld->Casmina-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.382>prisonworld-&amp;gt;Casmina</TM_Description_Grimoire.rulePack.rulesStrings.382>
+  <!--EN: prisonworld->Port Basil-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.383>prisonworld-&amp;gt;Port Basil</TM_Description_Grimoire.rulePack.rulesStrings.383>
+  <!--EN: prisonworld->Chateau D'Ouen-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.384>prisonworld-&amp;gt;Chateau D&amp;apos;Ouen</TM_Description_Grimoire.rulePack.rulesStrings.384>
+  <!--EN: rimworld->Filson-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.385>rimworld-&amp;gt;Filson</TM_Description_Grimoire.rulePack.rulesStrings.385>
+  <!--EN: rimworld->La Grand-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.386>rimworld-&amp;gt;La Grand</TM_Description_Grimoire.rulePack.rulesStrings.386>
+  <!--EN: rimworld->Dalles-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.387>rimworld-&amp;gt;Dalles</TM_Description_Grimoire.rulePack.rulesStrings.387>
+  <!--EN: rimworld->Twig Falls-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.388>rimworld-&amp;gt;Twig Falls</TM_Description_Grimoire.rulePack.rulesStrings.388>
+  <!--EN: rimworld->Old Boise-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.389>rimworld-&amp;gt;Old Boise</TM_Description_Grimoire.rulePack.rulesStrings.389>
+  <!--EN: author_item->darkness-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.39>author_item-&amp;gt;darkness</TM_Description_Grimoire.rulePack.rulesStrings.39>
+  <!--EN: rimworld->Devil's Gate-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.390>rimworld-&amp;gt;Devil&amp;apos;s Gate</TM_Description_Grimoire.rulePack.rulesStrings.390>
+  <!--EN: rimworld->Laramiere-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.391>rimworld-&amp;gt;Laramiere</TM_Description_Grimoire.rulePack.rulesStrings.391>
+  <!--EN: ruinworld->Earth-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.392>ruinworld-&amp;gt;Earth</TM_Description_Grimoire.rulePack.rulesStrings.392>
+  <!--EN: ruinworld->Ilwaba-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.393>ruinworld-&amp;gt;Ilwaba</TM_Description_Grimoire.rulePack.rulesStrings.393>
+  <!--EN: ruinworld->Xennoa-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.394>ruinworld-&amp;gt;Xennoa</TM_Description_Grimoire.rulePack.rulesStrings.394>
+  <!--EN: ruinworld->Pichu-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.395>ruinworld-&amp;gt;Pichu</TM_Description_Grimoire.rulePack.rulesStrings.395>
+  <!--EN: ruinworld->Perdida-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.396>ruinworld-&amp;gt;Perdida</TM_Description_Grimoire.rulePack.rulesStrings.396>
+  <!--EN: ruinworld->Hisarlik-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.397>ruinworld-&amp;gt;Hisarlik</TM_Description_Grimoire.rulePack.rulesStrings.397>
+  <!--EN: ruinworld->Helike-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.398>ruinworld-&amp;gt;Helike</TM_Description_Grimoire.rulePack.rulesStrings.398>
+  <!--EN: shellworld->Boccocarro-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.399>shellworld-&amp;gt;Boccocarro</TM_Description_Grimoire.rulePack.rulesStrings.399>
+  <!--EN: discussion->This [object] establishes the author's authority on the subject of [subject][detail]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.4>discussion-&amp;gt;This [object] establishes the author&amp;apos;s authority on the subject of [subject][detail]</TM_Description_Grimoire.rulePack.rulesStrings.4>
+  <!--EN: author_item->light-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.40>author_item-&amp;gt;light</TM_Description_Grimoire.rulePack.rulesStrings.40>
+  <!--EN: shellworld->Destria-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.400>shellworld-&amp;gt;Destria</TM_Description_Grimoire.rulePack.rulesStrings.400>
+  <!--EN: shellworld->Trophic-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.401>shellworld-&amp;gt;Trophic</TM_Description_Grimoire.rulePack.rulesStrings.401>
+  <!--EN: shellworld->Matrio-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.402>shellworld-&amp;gt;Matrio</TM_Description_Grimoire.rulePack.rulesStrings.402>
+  <!--EN: shellworld->Samen-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.403>shellworld-&amp;gt;Samen</TM_Description_Grimoire.rulePack.rulesStrings.403>
+  <!--EN: shellworld->Xinthia-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.404>shellworld-&amp;gt;Xinthia</TM_Description_Grimoire.rulePack.rulesStrings.404>
+  <!--EN: shellworld->Ferbine-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.405>shellworld-&amp;gt;Ferbine</TM_Description_Grimoire.rulePack.rulesStrings.405>
+  <!--EN: steamworld->Corliss-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.406>steamworld-&amp;gt;Corliss</TM_Description_Grimoire.rulePack.rulesStrings.406>
+  <!--EN: steamworld->Borassic-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.407>steamworld-&amp;gt;Borassic</TM_Description_Grimoire.rulePack.rulesStrings.407>
+  <!--EN: steamworld->Savery II-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.408>steamworld-&amp;gt;Savery II</TM_Description_Grimoire.rulePack.rulesStrings.408>
+  <!--EN: steamworld->Heron-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.409>steamworld-&amp;gt;Heron</TM_Description_Grimoire.rulePack.rulesStrings.409>
+  <!--EN: author_item->fragment-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.41>author_item-&amp;gt;fragment</TM_Description_Grimoire.rulePack.rulesStrings.41>
+  <!--EN: steamworld->Malmesburi-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.410>steamworld-&amp;gt;Malmesburi</TM_Description_Grimoire.rulePack.rulesStrings.410>
+  <!--EN: steamworld->Architonnerre-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.411>steamworld-&amp;gt;Architonnerre</TM_Description_Grimoire.rulePack.rulesStrings.411>
+  <!--EN: steamworld->Escapement-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.412>steamworld-&amp;gt;Escapement</TM_Description_Grimoire.rulePack.rulesStrings.412>
+  <!--EN: toxicworld->Scylla-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.413>toxicworld-&amp;gt;Scylla</TM_Description_Grimoire.rulePack.rulesStrings.413>
+  <!--EN: toxicworld->Mauro-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.414>toxicworld-&amp;gt;Mauro</TM_Description_Grimoire.rulePack.rulesStrings.414>
+  <!--EN: toxicworld->Cerospor-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.415>toxicworld-&amp;gt;Cerospor</TM_Description_Grimoire.rulePack.rulesStrings.415>
+  <!--EN: toxicworld->Oxy VI-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.416>toxicworld-&amp;gt;Oxy VI</TM_Description_Grimoire.rulePack.rulesStrings.416>
+  <!--EN: toxicworld->Sangwine-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.417>toxicworld-&amp;gt;Sangwine</TM_Description_Grimoire.rulePack.rulesStrings.417>
+  <!--EN: toxicworld->Soleno-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.418>toxicworld-&amp;gt;Soleno</TM_Description_Grimoire.rulePack.rulesStrings.418>
+  <!--EN: toxicworld->Imbatus-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.419>toxicworld-&amp;gt;Imbatus</TM_Description_Grimoire.rulePack.rulesStrings.419>
+  <!--EN: author_item->illusion-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.42>author_item-&amp;gt;illusion</TM_Description_Grimoire.rulePack.rulesStrings.42>
+  <!--EN: transcendentworld->Xaroh-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.420>transcendentworld-&amp;gt;Xaroh</TM_Description_Grimoire.rulePack.rulesStrings.420>
+  <!--EN: transcendentworld->Immanence VI-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.421>transcendentworld-&amp;gt;Immanence VI</TM_Description_Grimoire.rulePack.rulesStrings.421>
+  <!--EN: transcendentworld->Qabba-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.422>transcendentworld-&amp;gt;Qabba</TM_Description_Grimoire.rulePack.rulesStrings.422>
+  <!--EN: transcendentworld->Einsof-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.423>transcendentworld-&amp;gt;Einsof</TM_Description_Grimoire.rulePack.rulesStrings.423>
+  <!--EN: transcendentworld->Mitvo-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.424>transcendentworld-&amp;gt;Mitvo</TM_Description_Grimoire.rulePack.rulesStrings.424>
+  <!--EN: transcendentworld->Samydi-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.425>transcendentworld-&amp;gt;Samydi</TM_Description_Grimoire.rulePack.rulesStrings.425>
+  <!--EN: transcendentworld->Samsarr-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.426>transcendentworld-&amp;gt;Samsarr</TM_Description_Grimoire.rulePack.rulesStrings.426>
+  <!--EN: trashworld->Bagua 5-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.427>trashworld-&amp;gt;Bagua 5</TM_Description_Grimoire.rulePack.rulesStrings.427>
+  <!--EN: trashworld->Puobell-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.428>trashworld-&amp;gt;Puobell</TM_Description_Grimoire.rulePack.rulesStrings.428>
+  <!--EN: trashworld->Deni IX-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.429>trashworld-&amp;gt;Deni IX</TM_Description_Grimoire.rulePack.rulesStrings.429>
+  <!--EN: author_item->enchantment-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.43>author_item-&amp;gt;enchantment</TM_Description_Grimoire.rulePack.rulesStrings.43>
+  <!--EN: trashworld->Garbsh-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.430>trashworld-&amp;gt;Garbsh</TM_Description_Grimoire.rulePack.rulesStrings.430>
+  <!--EN: trashworld->Tra'age-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.431>trashworld-&amp;gt;Tra&amp;apos;age</TM_Description_Grimoire.rulePack.rulesStrings.431>
+  <!--EN: trashworld->Reepsyk-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.432>trashworld-&amp;gt;Reepsyk</TM_Description_Grimoire.rulePack.rulesStrings.432>
+  <!--EN: trashworld->Mystras-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.433>trashworld-&amp;gt;Mystras</TM_Description_Grimoire.rulePack.rulesStrings.433>
+  <!--EN: urbworld->Euterpe-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.434>urbworld-&amp;gt;Euterpe</TM_Description_Grimoire.rulePack.rulesStrings.434>
+  <!--EN: urbworld->Avenna-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.435>urbworld-&amp;gt;Avenna</TM_Description_Grimoire.rulePack.rulesStrings.435>
+  <!--EN: urbworld->Essalon-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.436>urbworld-&amp;gt;Essalon</TM_Description_Grimoire.rulePack.rulesStrings.436>
+  <!--EN: urbworld->Enike-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.437>urbworld-&amp;gt;Enike</TM_Description_Grimoire.rulePack.rulesStrings.437>
+  <!--EN: urbworld->Adocia-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.438>urbworld-&amp;gt;Adocia</TM_Description_Grimoire.rulePack.rulesStrings.438>
+  <!--EN: urbworld->N'toch-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.439>urbworld-&amp;gt;N&amp;apos;toch</TM_Description_Grimoire.rulePack.rulesStrings.439>
+  <!--EN: author_item->rune-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.44>author_item-&amp;gt;rune</TM_Description_Grimoire.rulePack.rulesStrings.44>
+  <!--EN: urbworld->Barca-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.440>urbworld-&amp;gt;Barca</TM_Description_Grimoire.rulePack.rulesStrings.440>
+  <!--EN: warworld->Kemia-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.441>warworld-&amp;gt;Kemia</TM_Description_Grimoire.rulePack.rulesStrings.441>
+  <!--EN: warworld->Vanu-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.442>warworld-&amp;gt;Vanu</TM_Description_Grimoire.rulePack.rulesStrings.442>
+  <!--EN: warworld->Samnium-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.443>warworld-&amp;gt;Samnium</TM_Description_Grimoire.rulePack.rulesStrings.443>
+  <!--EN: warworld->Kyrus-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.444>warworld-&amp;gt;Kyrus</TM_Description_Grimoire.rulePack.rulesStrings.444>
+  <!--EN: warworld->Punica-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.445>warworld-&amp;gt;Punica</TM_Description_Grimoire.rulePack.rulesStrings.445>
+  <!--EN: warworld->Cimbria XII-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.446>warworld-&amp;gt;Cimbria XII</TM_Description_Grimoire.rulePack.rulesStrings.446>
+  <!--EN: warworld->Barkitos-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.447>warworld-&amp;gt;Barkitos</TM_Description_Grimoire.rulePack.rulesStrings.447>
+  <!--EN: author_item->portal-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.45>author_item-&amp;gt;portal</TM_Description_Grimoire.rulePack.rulesStrings.45>
+  <!--EN: author_item->sigil-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.46>author_item-&amp;gt;sigil</TM_Description_Grimoire.rulePack.rulesStrings.46>
+  <!--EN: author_item->hex-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.47>author_item-&amp;gt;hex</TM_Description_Grimoire.rulePack.rulesStrings.47>
+  <!--EN: author_item->curse-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.48>author_item-&amp;gt;curse</TM_Description_Grimoire.rulePack.rulesStrings.48>
+  <!--EN: author_item->charm-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.49>author_item-&amp;gt;charm</TM_Description_Grimoire.rulePack.rulesStrings.49>
+  <!--EN: discussion->Those seeking [understanding_synonym] [subject] head to this [notable_adjective] [textbook][detail]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.5>discussion-&amp;gt;Those seeking [understanding_synonym] [subject] head to this [notable_adjective] [textbook][detail]</TM_Description_Grimoire.rulePack.rulesStrings.5>
+  <!--EN: author_event->Chaos-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.50>author_event-&amp;gt;Chaos</TM_Description_Grimoire.rulePack.rulesStrings.50>
+  <!--EN: author_event->Mayhem-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.51>author_event-&amp;gt;Mayhem</TM_Description_Grimoire.rulePack.rulesStrings.51>
+  <!--EN: author_event->Disaster-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.52>author_event-&amp;gt;Disaster</TM_Description_Grimoire.rulePack.rulesStrings.52>
+  <!--EN: author_event->Calamity-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.53>author_event-&amp;gt;Calamity</TM_Description_Grimoire.rulePack.rulesStrings.53>
+  <!--EN: author_event->A catastrophe-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.54>author_event-&amp;gt;A catastrophe</TM_Description_Grimoire.rulePack.rulesStrings.54>
+  <!--EN: author_event->Pandemonium-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.55>author_event-&amp;gt;Pandemonium</TM_Description_Grimoire.rulePack.rulesStrings.55>
+  <!--EN: student_learn->decipher-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.56>student_learn-&amp;gt;decipher</TM_Description_Grimoire.rulePack.rulesStrings.56>
+  <!--EN: student_learn->learn-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.57>student_learn-&amp;gt;learn</TM_Description_Grimoire.rulePack.rulesStrings.57>
+  <!--EN: student_learn->understand-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.58>student_learn-&amp;gt;understand</TM_Description_Grimoire.rulePack.rulesStrings.58>
+  <!--EN: student_learn->master-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.59>student_learn-&amp;gt;master</TM_Description_Grimoire.rulePack.rulesStrings.59>
+  <!--EN: discussion->A [object_adjective] [object] on [subject][detail]-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.6>discussion-&amp;gt;A [object_adjective] [object] on [subject][detail]</TM_Description_Grimoire.rulePack.rulesStrings.6>
+  <!--EN: student_learn->see-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.60>student_learn-&amp;gt;see</TM_Description_Grimoire.rulePack.rulesStrings.60>
+  <!--EN: student_learn->visualize-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.61>student_learn-&amp;gt;visualize</TM_Description_Grimoire.rulePack.rulesStrings.61>
+  <!--EN: student_learn->gain control of-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.62>student_learn-&amp;gt;gain control of</TM_Description_Grimoire.rulePack.rulesStrings.62>
+  <!--EN: student_learn->comprehend-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.63>student_learn-&amp;gt;comprehend</TM_Description_Grimoire.rulePack.rulesStrings.63>
+  <!--EN: student_learn->acquire-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.64>student_learn-&amp;gt;acquire</TM_Description_Grimoire.rulePack.rulesStrings.64>
+  <!--EN: student_learn->grasp-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.65>student_learn-&amp;gt;grasp</TM_Description_Grimoire.rulePack.rulesStrings.65>
+  <!--EN: student_learn->attain-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.66>student_learn-&amp;gt;attain</TM_Description_Grimoire.rulePack.rulesStrings.66>
+  <!--EN: student_learn->assimilate-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.67>student_learn-&amp;gt;assimilate</TM_Description_Grimoire.rulePack.rulesStrings.67>
+  <!--EN: student_learn->absorb-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.68>student_learn-&amp;gt;absorb</TM_Description_Grimoire.rulePack.rulesStrings.68>
+  <!--EN: student_learn->procure-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.69>student_learn-&amp;gt;procure</TM_Description_Grimoire.rulePack.rulesStrings.69>
+  <!--EN: object_adjective->dusty-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.7>object_adjective-&amp;gt;dusty</TM_Description_Grimoire.rulePack.rulesStrings.7>
+  <!--EN: student_learn->capture-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.70>student_learn-&amp;gt;capture</TM_Description_Grimoire.rulePack.rulesStrings.70>
+  <!--EN: student_learn->take command of-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.71>student_learn-&amp;gt;take command of</TM_Description_Grimoire.rulePack.rulesStrings.71>
+  <!--EN: student_learn->fathom-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.72>student_learn-&amp;gt;fathom</TM_Description_Grimoire.rulePack.rulesStrings.72>
+  <!--EN: author_adjective->an elderly-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.73>author_adjective-&amp;gt;an elderly</TM_Description_Grimoire.rulePack.rulesStrings.73>
+  <!--EN: author_adjective->a sinister-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.74>author_adjective-&amp;gt;a sinister</TM_Description_Grimoire.rulePack.rulesStrings.74>
+  <!--EN: author_adjective->a beautiful-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.75>author_adjective-&amp;gt;a beautiful</TM_Description_Grimoire.rulePack.rulesStrings.75>
+  <!--EN: author_adjective->awizened-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.76>author_adjective-&amp;gt;awizened</TM_Description_Grimoire.rulePack.rulesStrings.76>
+  <!--EN: author_adjective->a mysterious-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.77>author_adjective-&amp;gt;a mysterious</TM_Description_Grimoire.rulePack.rulesStrings.77>
+  <!--EN: author_adjective->an enigmatic-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.78>author_adjective-&amp;gt;an enigmatic</TM_Description_Grimoire.rulePack.rulesStrings.78>
+  <!--EN: author_adjective->a wise-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.79>author_adjective-&amp;gt;a wise</TM_Description_Grimoire.rulePack.rulesStrings.79>
+  <!--EN: object_adjective->ancient-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.8>object_adjective-&amp;gt;ancient</TM_Description_Grimoire.rulePack.rulesStrings.8>
+  <!--EN: author_adjective->an ancient-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.80>author_adjective-&amp;gt;an ancient</TM_Description_Grimoire.rulePack.rulesStrings.80>
+  <!--EN: author_adjective->a powerful-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.81>author_adjective-&amp;gt;a powerful</TM_Description_Grimoire.rulePack.rulesStrings.81>
+  <!--EN: author_adjective->a forgotten-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.82>author_adjective-&amp;gt;a forgotten</TM_Description_Grimoire.rulePack.rulesStrings.82>
+  <!--EN: author_adjective->an arcane-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.83>author_adjective-&amp;gt;an arcane</TM_Description_Grimoire.rulePack.rulesStrings.83>
+  <!--EN: author_adjective->a legendary-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.84>author_adjective-&amp;gt;a legendary</TM_Description_Grimoire.rulePack.rulesStrings.84>
+  <!--EN: author_adjective->a shadowy-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.85>author_adjective-&amp;gt;a shadowy</TM_Description_Grimoire.rulePack.rulesStrings.85>
+  <!--EN: author_adjective->a mythical-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.86>author_adjective-&amp;gt;a mythical</TM_Description_Grimoire.rulePack.rulesStrings.86>
+  <!--EN: author_type->wizard-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.87>author_type-&amp;gt;wizard</TM_Description_Grimoire.rulePack.rulesStrings.87>
+  <!--EN: author_type->sorcerer-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.88>author_type-&amp;gt;sorcerer</TM_Description_Grimoire.rulePack.rulesStrings.88>
+  <!--EN: author_type->witch-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.89>author_type-&amp;gt;witch</TM_Description_Grimoire.rulePack.rulesStrings.89>
+  <!--EN: object_adjective->worn-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.9>object_adjective-&amp;gt;worn</TM_Description_Grimoire.rulePack.rulesStrings.9>
+  <!--EN: author_type->warlock-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.90>author_type-&amp;gt;warlock</TM_Description_Grimoire.rulePack.rulesStrings.90>
+  <!--EN: author_type->mage-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.91>author_type-&amp;gt;mage</TM_Description_Grimoire.rulePack.rulesStrings.91>
+  <!--EN: author_type->enchanter-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.92>author_type-&amp;gt;enchanter</TM_Description_Grimoire.rulePack.rulesStrings.92>
+  <!--EN: author_type->conjurer-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.93>author_type-&amp;gt;conjurer</TM_Description_Grimoire.rulePack.rulesStrings.93>
+  <!--EN: author_type->magician-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.94>author_type-&amp;gt;magician</TM_Description_Grimoire.rulePack.rulesStrings.94>
+  <!--EN: author_type->thaumaturge-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.95>author_type-&amp;gt;thaumaturge</TM_Description_Grimoire.rulePack.rulesStrings.95>
+  <!--EN: author_type->necromancer-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.96>author_type-&amp;gt;necromancer</TM_Description_Grimoire.rulePack.rulesStrings.96>
+  <!--EN: author_type->archmage-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.97>author_type-&amp;gt;archmage</TM_Description_Grimoire.rulePack.rulesStrings.97>
+  <!--EN: author_type->sorceress-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.98>author_type-&amp;gt;sorceress</TM_Description_Grimoire.rulePack.rulesStrings.98>
+  <!--EN: author_type->spellcaster-->
+  <TM_Description_Grimoire.rulePack.rulesStrings.99>author_type-&amp;gt;spellcaster</TM_Description_Grimoire.rulePack.rulesStrings.99>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Increases overall protection:
+Blunt:	+[9,17,23]%
+Sharp:	+[8,15,21]%
+Heat:	+[4,7,10]%-->
+  <TM_Golem_WoodArmor.description>Increases overall protection:
+Blunt:	+[9,17,23]%
+Sharp:	+[8,15,21]%
+Heat:	+[4,7,10]%</TM_Golem_WoodArmor.description>
+  <!--EN: armor-->
+  <TM_Golem_WoodArmor.label>armor</TM_Golem_WoodArmor.label>
+  <!--EN: Increases energy efficiency by 5% per level. Starting energy efficiency is 25%.-->
+  <TM_Golem_WoodEnergyEfficiency.description>Increases energy efficiency by 5% per level. Starting energy efficiency is 25%.</TM_Golem_WoodEnergyEfficiency.description>
+  <!--EN: energy efficiency-->
+  <TM_Golem_WoodEnergyEfficiency.label>energy efficiency</TM_Golem_WoodEnergyEfficiency.label>
+  <!--EN: Increases energy charge rate by 15% per level. Starting recharge rate is 25 energy/hour.-->
+  <TM_Golem_WoodEnergyRate.description>Increases energy charge rate by 15% per level. Starting recharge rate is 25 energy/hour.</TM_Golem_WoodEnergyRate.description>
+  <!--EN: energy regeneration-->
+  <TM_Golem_WoodEnergyRate.label>energy regeneration</TM_Golem_WoodEnergyRate.label>
+  <!--EN: Increases stats:
+Movement:	+[20%/30%/40%]
+Health:		+[20%/40%/60%]-->
+  <TM_Golem_WoodLifeStage.description>Increases stats:
+Movement:	+[20%/30%/40%]
+Health:		+[20%/40%/60%]</TM_Golem_WoodLifeStage.description>
+  <!--EN: frame tier-->
+  <TM_Golem_WoodLifeStage.label>frame tier</TM_Golem_WoodLifeStage.label>
+  <!--EN: Increases maximum energy by 100 per level. Starting max energy is 400.-->
+  <TM_Golem_WoodMaxEnergy.description>Increases maximum energy by 100 per level. Starting max energy is 400.</TM_Golem_WoodMaxEnergy.description>
+  <!--EN: energy storage-->
+  <TM_Golem_WoodMaxEnergy.label>energy storage</TM_Golem_WoodMaxEnergy.label>
+  <!--EN: restore part-->
+  <TM_Golem_WoodRepair.label>restore part</TM_Golem_WoodRepair.label>
+  <!--EN: Increases the skill levels of construction and handling by 2 per skill level and cooking by 1 per skill level.-->
+  <TM_Golem_WoodSkills.description>Increases the skill levels of construction and handling by 2 per skill level and cooking by 1 per skill level.</TM_Golem_WoodSkills.description>
+  <!--EN: Skill Enhancement-->
+  <TM_Golem_WoodSkills.label>Skill Enhancement</TM_Golem_WoodSkills.label>
+</LanguageData>

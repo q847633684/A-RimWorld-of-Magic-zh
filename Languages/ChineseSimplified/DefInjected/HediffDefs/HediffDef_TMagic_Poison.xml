@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: set-->
+  <TM_Poison_HD.comps.0.labelSolidTendedWell>set</TM_Poison_HD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_Poison_HD.comps.0.labelTendedWell>bandaged</TM_Poison_HD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_Poison_HD.comps.0.labelTendedWellInner>sutured</TM_Poison_HD.comps.0.labelTendedWellInner>
+  <!--EN: withered away-->
+  <TM_Poison_HD.comps.1.permanentLabel>withered away</TM_Poison_HD.comps.1.permanentLabel>
+  <!--EN: Damage caused by poison.-->
+  <TM_Poison_HD.description>Damage caused by poison.</TM_Poison_HD.description>
+  <!--EN: withered-->
+  <TM_Poison_HD.injuryProps.destroyedLabel>withered</TM_Poison_HD.injuryProps.destroyedLabel>
+  <!--EN: withered-->
+  <TM_Poison_HD.injuryProps.destroyedOutLabel>withered</TM_Poison_HD.injuryProps.destroyedOutLabel>
+  <!--EN: Poison-->
+  <TM_Poison_HD.label>Poison</TM_Poison_HD.label>
+  <!--EN: Side effects of poison.-->
+  <TM_Poisoned_HD.description>Side effects of poison.</TM_Poisoned_HD.description>
+  <!--EN: Poisoned-->
+  <TM_Poisoned_HD.label>Poisoned</TM_Poisoned_HD.label>
+  <!--EN: minor-->
+  <TM_Poisoned_HD.stages.0.label>minor</TM_Poisoned_HD.stages.0.label>
+  <!--EN: moderate-->
+  <TM_Poisoned_HD.stages.1.label>moderate</TM_Poisoned_HD.stages.1.label>
+  <!--EN: major-->
+  <TM_Poisoned_HD.stages.2.label>major</TM_Poisoned_HD.stages.2.label>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: brain-->
+  <Minion_Brain.label>brain</Minion_Brain.label>
+  <!--EN: core-->
+  <Minion_Core.label>core</Minion_Core.label>
+  <!--EN: eye-->
+  <Minion_Eye.label>eye</Minion_Eye.label>
+  <!--EN: head-->
+  <Minion_Head.label>head</Minion_Head.label>
+  <!--EN: horns-->
+  <Minion_Horns.label>horns</Minion_Horns.label>
+  <!--EN: jaw-->
+  <Minion_Jaw.label>jaw</Minion_Jaw.label>
+  <!--EN: left arm-->
+  <Minion_LeftArm.label>left arm</Minion_LeftArm.label>
+  <!--EN: left horn-->
+  <Minion_LeftHorn.label>left horn</Minion_LeftHorn.label>
+  <!--EN: mouth-->
+  <Minion_Mouth.label>mouth</Minion_Mouth.label>
+  <!--EN: right arm-->
+  <Minion_RightArm.label>right arm</Minion_RightArm.label>
+  <!--EN: right horn-->
+  <Minion_RightHorn.label>right horn</Minion_RightHorn.label>
+  <!--EN: teeth-->
+  <Minion_Teeth.label>teeth</Minion_Teeth.label>
+</LanguageData>

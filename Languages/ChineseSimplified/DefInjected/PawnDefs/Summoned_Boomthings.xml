@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: leap-->
+  <FlyingObject_Leap.label>leap</FlyingObject_Leap.label>
+  <!--EN: snuggling-->
+  <Snuggle.label>snuggling</Snuggle.label>
+  <!--EN: Deceptively harmless and impossibly cute, these little critters want nothing more than to bound into your arms and light up your life.-->
+  <TM_Poppi.description>Deceptively harmless and impossibly cute, these little critters want nothing more than to bound into your arms and light up your life.</TM_Poppi.description>
+  <!--EN: poppi-->
+  <TM_Poppi.label>poppi</TM_Poppi.label>
+  <!--EN: poppi-->
+  <TM_Poppi.label>poppi</TM_Poppi.label>
+  <!--EN: snuggle-->
+  <TM_Poppi.tools.0.label>snuggle</TM_Poppi.tools.0.label>
+  <!--EN: jaw-->
+  <TM_PoppiAnimalJaw.label>jaw</TM_PoppiAnimalJaw.label>
+  <!--EN: body-->
+  <TM_PoppiBody.label>body</TM_PoppiBody.label>
+  <!--EN: brain-->
+  <TM_PoppiBrain.label>brain</TM_PoppiBrain.label>
+  <!--EN: ear-->
+  <TM_PoppiEar.label>ear</TM_PoppiEar.label>
+  <!--EN: eye-->
+  <TM_PoppiEye.label>eye</TM_PoppiEye.label>
+  <!--EN: foot-->
+  <TM_PoppiFoot.label>foot</TM_PoppiFoot.label>
+  <!--EN: head-->
+  <TM_PoppiHead.label>head</TM_PoppiHead.label>
+  <!--EN: heart-->
+  <TM_PoppiHeart.label>heart</TM_PoppiHeart.label>
+  <!--EN: kidney-->
+  <TM_PoppiKidney.label>kidney</TM_PoppiKidney.label>
+  <!--EN: leg-->
+  <TM_PoppiLeg.label>leg</TM_PoppiLeg.label>
+  <!--EN: liver-->
+  <TM_PoppiLiver.label>liver</TM_PoppiLiver.label>
+  <!--EN: lung-->
+  <TM_PoppiLung.label>lung</TM_PoppiLung.label>
+  <!--EN: neck-->
+  <TM_PoppiNeck.label>neck</TM_PoppiNeck.label>
+  <!--EN: nose-->
+  <TM_PoppiNose.label>nose</TM_PoppiNose.label>
+  <!--EN: paw-->
+  <TM_PoppiPaw.label>paw</TM_PoppiPaw.label>
+  <!--EN: ribcage-->
+  <TM_PoppiRibcage.label>ribcage</TM_PoppiRibcage.label>
+  <!--EN: skull-->
+  <TM_PoppiSkull.label>skull</TM_PoppiSkull.label>
+  <!--EN: teeth-->
+  <TM_PoppiSnuggle.label>teeth</TM_PoppiSnuggle.label>
+  <!--EN: spine-->
+  <TM_PoppiSpine.label>spine</TM_PoppiSpine.label>
+  <!--EN: stomach-->
+  <TM_PoppiStomach.label>stomach</TM_PoppiStomach.label>
+  <!--EN: tail-->
+  <TM_PoppiTail.label>tail</TM_PoppiTail.label>
+  <!--EN: front left leg-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.10.customLabel>front left leg</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.10.customLabel>
+  <!--EN: front left paw-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.10.parts.0.customLabel>front left paw</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.10.parts.0.customLabel>
+  <!--EN: front right leg-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.11.customLabel>front right leg</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.11.customLabel>
+  <!--EN: front right paw-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.11.parts.0.customLabel>front right paw</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.11.parts.0.customLabel>
+  <!--EN: rear left leg-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.12.customLabel>rear left leg</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.12.customLabel>
+  <!--EN: rear left paw-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.12.parts.0.customLabel>rear left paw</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.12.parts.0.customLabel>
+  <!--EN: rear right leg-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.13.customLabel>rear right leg</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.13.customLabel>
+  <!--EN: rear right paw-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.13.parts.0.customLabel>rear right paw</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.13.parts.0.customLabel>
+  <!--EN: left lung-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.4.customLabel>left lung</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.4.customLabel>
+  <!--EN: right lung-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.5.customLabel>right lung</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.5.customLabel>
+  <!--EN: left kidney-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.6.customLabel>left kidney</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.6.customLabel>
+  <!--EN: right kidney-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.7.customLabel>right kidney</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.7.customLabel>
+  <!--EN: left eye-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.1.customLabel>left eye</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.1.customLabel>
+  <!--EN: right eye-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.2.customLabel>right eye</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.2.customLabel>
+  <!--EN: left ear-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.3.customLabel>left ear</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.3.customLabel>
+  <!--EN: right ear-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.4.customLabel>right ear</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.4.customLabel>
+  <!--EN: quadruped animal-->
+  <TM_QuadrupedAnimalWithPawsAndTail.label>quadruped animal</TM_QuadrupedAnimalWithPawsAndTail.label>
+</LanguageData>

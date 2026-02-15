@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: This pawn's spirit is distorted and is unable to maintain cohesion with its body. This pawn is vulnerable and will take more damage.-->
+  <TM_SpiritDistortionHD.description>This pawn&amp;apos;s spirit is distorted and is unable to maintain cohesion with its body. This pawn is vulnerable and will take more damage.</TM_SpiritDistortionHD.description>
+  <!--EN: spirit distortion-->
+  <TM_SpiritDistortionHD.label>spirit distortion</TM_SpiritDistortionHD.label>
+  <!--EN: This pawn has been drained of spirit and their future looks grim.-->
+  <TM_SpiritDrainHD.description>This pawn has been drained of spirit and their future looks grim.</TM_SpiritDrainHD.description>
+  <!--EN: spirit drain-->
+  <TM_SpiritDrainHD.label>spirit drain</TM_SpiritDrainHD.label>
+  <!--EN: recovering-->
+  <TM_SpiritDrainHD.stages.0.label>recovering</TM_SpiritDrainHD.stages.0.label>
+  <!--EN: minor-->
+  <TM_SpiritDrainHD.stages.1.label>minor</TM_SpiritDrainHD.stages.1.label>
+  <!--EN: low-->
+  <TM_SpiritDrainHD.stages.2.label>low</TM_SpiritDrainHD.stages.2.label>
+  <!--EN: moderate-->
+  <TM_SpiritDrainHD.stages.3.label>moderate</TM_SpiritDrainHD.stages.3.label>
+  <!--EN: severe-->
+  <TM_SpiritDrainHD.stages.4.label>severe</TM_SpiritDrainHD.stages.4.label>
+  <!--EN: deadly-->
+  <TM_SpiritDrainHD.stages.5.label>deadly</TM_SpiritDrainHD.stages.5.label>
+  <!--EN: Drained of spirit.-->
+  <TM_SpiritDrainTD.stages.0.description>Drained of spirit.</TM_SpiritDrainTD.stages.0.description>
+  <!--EN: spirit drain-->
+  <TM_SpiritDrainTD.stages.0.label>spirit drain</TM_SpiritDrainTD.stages.0.label>
+  <!--EN: Current spirit level.-->
+  <TM_SpiritND.description>Current spirit level.</TM_SpiritND.description>
+  <!--EN: spirit-->
+  <TM_SpiritND.label>spirit</TM_SpiritND.label>
+  <!--EN: My body is possessed by another spirit.-->
+  <TM_SpiritPossessedTD.stages.0.description>My body is possessed by another spirit.</TM_SpiritPossessedTD.stages.0.description>
+  <!--EN: possessed-->
+  <TM_SpiritPossessedTD.stages.0.label>possessed</TM_SpiritPossessedTD.stages.0.label>
+  <!--EN: Possessed by a spirit.-->
+  <TM_SpiritPossessionHD.description>Possessed by a spirit.</TM_SpiritPossessionHD.description>
+  <!--EN: spirit possession-->
+  <TM_SpiritPossessionHD.label>spirit possession</TM_SpiritPossessionHD.label>
+  <!--EN: distorted-->
+  <TM_SpiritPossessionHD.stages.0.label>distorted</TM_SpiritPossessionHD.stages.0.label>
+  <!--EN: conflicted-->
+  <TM_SpiritPossessionHD.stages.1.label>conflicted</TM_SpiritPossessionHD.stages.1.label>
+  <!--EN: unstable-->
+  <TM_SpiritPossessionHD.stages.2.label>unstable</TM_SpiritPossessionHD.stages.2.label>
+  <!--EN: stable-->
+  <TM_SpiritPossessionHD.stages.3.label>stable</TM_SpiritPossessionHD.stages.3.label>
+  <!--EN: cooperative-->
+  <TM_SpiritPossessionHD.stages.4.label>cooperative</TM_SpiritPossessionHD.stages.4.label>
+  <!--EN: harmonious-->
+  <TM_SpiritPossessionHD.stages.5.label>harmonious</TM_SpiritPossessionHD.stages.5.label>
+  <!--EN: This pawn is a spirit, unable to interact with the physical world in common ways. Spirit's are unable to be physically harmed, but will lose spirit strength if their form receives damage.-->
+  <TM_SpiritPossessorHD.description>This pawn is a spirit, unable to interact with the physical world in common ways. Spirit&amp;apos;s are unable to be physically harmed, but will lose spirit strength if their form receives damage.</TM_SpiritPossessorHD.description>
+  <!--EN: spirit-->
+  <TM_SpiritPossessorHD.label>spirit</TM_SpiritPossessorHD.label>
+  <!--EN: I-->
+  <TM_SpiritPossessorHD.stages.0.label>I</TM_SpiritPossessorHD.stages.0.label>
+  <!--EN: II-->
+  <TM_SpiritPossessorHD.stages.1.label>II</TM_SpiritPossessorHD.stages.1.label>
+  <!--EN: III-->
+  <TM_SpiritPossessorHD.stages.2.label>III</TM_SpiritPossessorHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_SpiritPossessorHD.stages.3.label>IV</TM_SpiritPossessorHD.stages.3.label>
+</LanguageData>

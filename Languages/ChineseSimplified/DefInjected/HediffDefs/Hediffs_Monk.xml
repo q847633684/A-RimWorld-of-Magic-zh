@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Accounts for the unique energy utilized by a Monk.-->
+  <TM_ChiHD.description>Accounts for the unique energy utilized by a Monk.</TM_ChiHD.description>
+  <!--EN: Ch'i-->
+  <TM_ChiHD.label>Ch&amp;apos;i</TM_ChiHD.label>
+  <!--EN: Reinforces physical power by overcoming the limitations of the body.-->
+  <TM_MindOverBodyHD.description>Reinforces physical power by overcoming the limitations of the body.</TM_MindOverBodyHD.description>
+  <!--EN: Mind over body-->
+  <TM_MindOverBodyHD.label>Mind over body</TM_MindOverBodyHD.label>
+  <!--EN: I-->
+  <TM_MindOverBodyHD.stages.0.label>I</TM_MindOverBodyHD.stages.0.label>
+  <!--EN: II-->
+  <TM_MindOverBodyHD.stages.1.label>II</TM_MindOverBodyHD.stages.1.label>
+  <!--EN: III-->
+  <TM_MindOverBodyHD.stages.2.label>III</TM_MindOverBodyHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_MindOverBodyHD.stages.3.label>IV</TM_MindOverBodyHD.stages.3.label>
+</LanguageData>

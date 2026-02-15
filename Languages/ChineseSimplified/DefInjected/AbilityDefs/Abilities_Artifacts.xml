@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Overpower a pawn with conviction to join your cause. This power will exact a heavy toll on the caster.
+		
+Use of Conviction will destroy the orb.-->
+  <TM_Artifact_Conviction.description>Overpower a pawn with conviction to join your cause. This power will exact a heavy toll on the caster.
+		
+Use of Conviction will destroy the orb.</TM_Artifact_Conviction.description>
+  <!--EN: Conviction-->
+  <TM_Artifact_Conviction.label>Conviction</TM_Artifact_Conviction.label>
+  <!--EN: Infuse sealed traits into a human-like pawn.-->
+  <TM_Artifact_TraitInfuse.description>Infuse sealed traits into a human-like pawn.</TM_Artifact_TraitInfuse.description>
+  <!--EN: Infuse Soul-->
+  <TM_Artifact_TraitInfuse.label>Infuse Soul</TM_Artifact_TraitInfuse.label>
+  <!--EN: Steal the traits of another pawn.-->
+  <TM_Artifact_TraitThief.description>Steal the traits of another pawn.</TM_Artifact_TraitThief.description>
+  <!--EN: Devour Soul-->
+  <TM_Artifact_TraitThief.label>Devour Soul</TM_Artifact_TraitThief.label>
+  <!--EN: Covers the map in rolling waves of dark, angry clouds carrying winters' biting scorn.-->
+  <TM_Weapon_WintersFury.description>Covers the map in rolling waves of dark, angry clouds carrying winters&amp;apos; biting scorn.</TM_Weapon_WintersFury.description>
+  <!--EN: Winter's Fury-->
+  <TM_Weapon_WintersFury.label>Winter&amp;apos;s Fury</TM_Weapon_WintersFury.label>
+</LanguageData>

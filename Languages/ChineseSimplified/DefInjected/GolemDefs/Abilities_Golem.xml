@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: blazing power-->
+  <Projectile_BlazingEnergy.label>blazing power</Projectile_BlazingEnergy.label>
+  <!--EN: Darkbolt-->
+  <Projectile_DarkBolt.label>Darkbolt</Projectile_DarkBolt.label>
+  <!--EN: Firebolt-->
+  <Projectile_FireBlossomBolt.label>Firebolt</Projectile_FireBlossomBolt.label>
+  <!--EN: Icebolt-->
+  <Projectile_IceBlossomBolt.label>Icebolt</Projectile_IceBlossomBolt.label>
+  <!--EN: Reverse Shield-->
+  <Projectile_ReverseShield.label>Reverse Shield</Projectile_ReverseShield.label>
+  <!--EN: bull charge-->
+  <TM_FleshGolem_BullCharge.label>bull charge</TM_FleshGolem_BullCharge.label>
+  <!--EN: dismember-->
+  <TM_FleshGolem_Dismember.label>dismember</TM_FleshGolem_Dismember.label>
+  <!--EN: enfeeble-->
+  <TM_FleshGolem_EyeCurse.label>enfeeble</TM_FleshGolem_EyeCurse.label>
+  <!--EN: cleave-->
+  <TM_FleshGolem_LeftCleave.label>cleave</TM_FleshGolem_LeftCleave.label>
+  <!--EN: cleave-->
+  <TM_FleshGolem_RightCleave.label>cleave</TM_FleshGolem_RightCleave.label>
+  <!--EN: haste-->
+  <TM_FleshGolem_WingHaste.label>haste</TM_FleshGolem_WingHaste.label>
+  <!--EN: absorb fire-->
+  <TM_HollowGolem_AbsorbFire.label>absorb fire</TM_HollowGolem_AbsorbFire.label>
+  <!--EN: awakening-->
+  <TM_HollowGolem_Awakening.label>awakening</TM_HollowGolem_Awakening.label>
+  <!--EN: burning fury-->
+  <TM_HollowGolem_BurningFury.label>burning fury</TM_HollowGolem_BurningFury.label>
+  <!--EN: fade-->
+  <TM_HollowGolem_Fade.label>fade</TM_HollowGolem_Fade.label>
+  <!--EN: well of despair-->
+  <TM_HollowGolem_WellOfDespair.label>well of despair</TM_HollowGolem_WellOfDespair.label>
+  <!--EN: waste conversion-->
+  <TM_Mecha.Golem_AbsorbFilth.label>waste conversion</TM_Mecha.Golem_AbsorbFilth.label>
+  <!--EN: Shoulder mounted gatling cannon for mecha-golem-->
+  <TM_Mecha.Golem_GatlingCannon.label>Shoulder mounted gatling cannon for mecha-golem</TM_Mecha.Golem_GatlingCannon.label>
+  <!--EN: self-repair module-->
+  <TM_Mecha.Golem_HealSelf.label>self-repair module</TM_Mecha.Golem_HealSelf.label>
+  <!--EN: Shoulder mounted mining laser for mecha-golem-->
+  <TM_Mecha.Golem_MiningLaser.label>Shoulder mounted mining laser for mecha-golem</TM_Mecha.Golem_MiningLaser.label>
+  <!--EN: energy shield module-->
+  <TM_Mecha.Golem_ShieldSelf.label>energy shield module</TM_Mecha.Golem_ShieldSelf.label>
+</LanguageData>

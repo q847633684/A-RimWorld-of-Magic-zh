@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Inspires nearby pawns with charisma and leadership.-->
+  <TM_CommanderAuraHD.description>Inspires nearby pawns with charisma and leadership.</TM_CommanderAuraHD.description>
+  <!--EN: Commander Aura-->
+  <TM_CommanderAuraHD.label>Commander Aura</TM_CommanderAuraHD.label>
+  <!--EN: Inspired by a Commander.-->
+  <TM_CommanderHD.description>Inspired by a Commander.</TM_CommanderHD.description>
+  <!--EN: Emotionally Inspired (I)-->
+  <TM_CommanderHD.label>Emotionally Inspired (I)</TM_CommanderHD.label>
+  <!--EN: Commander-->
+  <TM_CommanderHD.stages.0.label>Commander</TM_CommanderHD.stages.0.label>
+  <!--EN: Inspired by a Commander.-->
+  <TM_CommanderHD_I.description>Inspired by a Commander.</TM_CommanderHD_I.description>
+  <!--EN: Emotionally Inspired (II)-->
+  <TM_CommanderHD_I.label>Emotionally Inspired (II)</TM_CommanderHD_I.label>
+  <!--EN: Inspired by a Commander.-->
+  <TM_CommanderHD_II.description>Inspired by a Commander.</TM_CommanderHD_II.description>
+  <!--EN: Emotionally Inspired (III)-->
+  <TM_CommanderHD_II.label>Emotionally Inspired (III)</TM_CommanderHD_II.label>
+  <!--EN: Inspired by a Commander.-->
+  <TM_CommanderHD_III.description>Inspired by a Commander.</TM_CommanderHD_III.description>
+  <!--EN: Emotionally Inspired (IV)-->
+  <TM_CommanderHD_III.label>Emotionally Inspired (IV)</TM_CommanderHD_III.label>
+  <!--EN: I've been emotionally charged! I'm not sure what, but good things are bound to happen around such a charismatic commander.-->
+  <TM_CommanderTD.stages.0.description>I&amp;apos;ve been emotionally charged! I&amp;apos;m not sure what, but good things are bound to happen around such a charismatic commander.</TM_CommanderTD.stages.0.description>
+  <!--EN: Charismatic pawn-->
+  <TM_CommanderTD.stages.0.label>Charismatic pawn</TM_CommanderTD.stages.0.label>
+  <!--EN: I've been emotionally charged! Good things are bound to happen around such a charismatic commander, though it's not exactly clear how.-->
+  <TM_CommanderTD_I.stages.0.description>I&amp;apos;ve been emotionally charged! Good things are bound to happen around such a charismatic commander, though it&amp;apos;s not exactly clear how.</TM_CommanderTD_I.stages.0.description>
+  <!--EN: Charismatic commander-->
+  <TM_CommanderTD_I.stages.0.label>Charismatic commander</TM_CommanderTD_I.stages.0.label>
+  <!--EN: I've been emotionally charged! Good things are bound to happen around such a charismatic leader.-->
+  <TM_CommanderTD_II.stages.0.description>I&amp;apos;ve been emotionally charged! Good things are bound to happen around such a charismatic leader.</TM_CommanderTD_II.stages.0.description>
+  <!--EN: Charismatic leader-->
+  <TM_CommanderTD_II.stages.0.label>Charismatic leader</TM_CommanderTD_II.stages.0.label>
+  <!--EN: I've been emotionally charged! Good things are bound to happen around such a charismatic visionary.-->
+  <TM_CommanderTD_III.stages.0.description>I&amp;apos;ve been emotionally charged! Good things are bound to happen around such a charismatic visionary.</TM_CommanderTD_III.stages.0.description>
+  <!--EN: Charismatic visionary-->
+  <TM_CommanderTD_III.stages.0.label>Charismatic visionary</TM_CommanderTD_III.stages.0.label>
+  <!--EN: Increased fortitude from being ordered to hold the line.-->
+  <TM_HTLShieldHD.description>Increased fortitude from being ordered to hold the line.</TM_HTLShieldHD.description>
+  <!--EN: HTL Shield-->
+  <TM_HTLShieldHD.label>HTL Shield</TM_HTLShieldHD.label>
+  <!--EN: Received an order to hold position and fight bravely.-->
+  <TM_HoldTheLineHD.description>Received an order to hold position and fight bravely.</TM_HoldTheLineHD.description>
+  <!--EN: Defensive stance-->
+  <TM_HoldTheLineHD.label>Defensive stance</TM_HoldTheLineHD.label>
+  <!--EN: Received an order to move quickly.-->
+  <TM_MoveOutHD.description>Received an order to move quickly.</TM_MoveOutHD.description>
+  <!--EN: Double Time-->
+  <TM_MoveOutHD.label>Double Time</TM_MoveOutHD.label>
+  <!--EN: Recovering-->
+  <TM_MoveOutHD.stages.0.label>Recovering</TM_MoveOutHD.stages.0.label>
+  <!--EN: Improves the availability of provisions for nearby pawns.-->
+  <TM_ProvisionerAuraHD.description>Improves the availability of provisions for nearby pawns.</TM_ProvisionerAuraHD.description>
+  <!--EN: Provisioner Aura-->
+  <TM_ProvisionerAuraHD.label>Provisioner Aura</TM_ProvisionerAuraHD.label>
+  <!--EN: Acquired supplies and information from a Commander.-->
+  <TM_ProvisionerHD.description>Acquired supplies and information from a Commander.</TM_ProvisionerHD.description>
+  <!--EN: Provisions-->
+  <TM_ProvisionerHD.label>Provisions</TM_ProvisionerHD.label>
+  <!--EN: I-->
+  <TM_ProvisionerHD.stages.0.label>I</TM_ProvisionerHD.stages.0.label>
+  <!--EN: II-->
+  <TM_ProvisionerHD.stages.1.label>II</TM_ProvisionerHD.stages.1.label>
+  <!--EN: III-->
+  <TM_ProvisionerHD.stages.2.label>III</TM_ProvisionerHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_ProvisionerHD.stages.3.label>IV</TM_ProvisionerHD.stages.3.label>
+  <!--EN: Received an order to invigorate alert levels.-->
+  <TM_StayAlertHD.description>Received an order to invigorate alert levels.</TM_StayAlertHD.description>
+  <!--EN: Alert-->
+  <TM_StayAlertHD.label>Alert</TM_StayAlertHD.label>
+  <!--EN: Manages the tasks and priorities of nearby pawns, increasing diligence but reduces mood.-->
+  <TM_TaskMasterAuraHD.description>Manages the tasks and priorities of nearby pawns, increasing diligence but reduces mood.</TM_TaskMasterAuraHD.description>
+  <!--EN: Task Master Aura-->
+  <TM_TaskMasterAuraHD.label>Task Master Aura</TM_TaskMasterAuraHD.label>
+  <!--EN: Tasks and priorities are being controlled by a Commander.-->
+  <TM_TaskMasterHD.description>Tasks and priorities are being controlled by a Commander.</TM_TaskMasterHD.description>
+  <!--EN: Task Master-->
+  <TM_TaskMasterHD.label>Task Master</TM_TaskMasterHD.label>
+  <!--EN: I-->
+  <TM_TaskMasterHD.stages.0.label>I</TM_TaskMasterHD.stages.0.label>
+  <!--EN: II-->
+  <TM_TaskMasterHD.stages.1.label>II</TM_TaskMasterHD.stages.1.label>
+  <!--EN: III-->
+  <TM_TaskMasterHD.stages.2.label>III</TM_TaskMasterHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_TaskMasterHD.stages.3.label>IV</TM_TaskMasterHD.stages.3.label>
+  <!--EN: Every aspect of my life has become micro-managed; I barely have time to eat a decent meal.-->
+  <TM_TaskMasterTD.stages.0.description>Every aspect of my life has become micro-managed; I barely have time to eat a decent meal.</TM_TaskMasterTD.stages.0.description>
+  <!--EN: Task master-->
+  <TM_TaskMasterTD.stages.0.label>Task master</TM_TaskMasterTD.stages.0.label>
+</LanguageData>

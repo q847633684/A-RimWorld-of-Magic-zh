@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Combat drugs enhancing accuracy-->
+  <TM_CombatDrugsAccuracy_HD.description>Combat drugs enhancing accuracy</TM_CombatDrugsAccuracy_HD.description>
+  <!--EN: Combat Drugs (accuracy)-->
+  <TM_CombatDrugsAccuracy_HD.label>Combat Drugs (accuracy)</TM_CombatDrugsAccuracy_HD.label>
+  <!--EN: Combat drugs enhancing awareness-->
+  <TM_CombatDrugsAwareness_HD.description>Combat drugs enhancing awareness</TM_CombatDrugsAwareness_HD.description>
+  <!--EN: Combat Drugs (awareness)-->
+  <TM_CombatDrugsAwareness_HD.label>Combat Drugs (awareness)</TM_CombatDrugsAwareness_HD.label>
+  <!--EN: Combat drugs enhancing movement-->
+  <TM_CombatDrugsMoving_HD.description>Combat drugs enhancing movement</TM_CombatDrugsMoving_HD.description>
+  <!--EN: Combat Drugs (movement)-->
+  <TM_CombatDrugsMoving_HD.label>Combat Drugs (movement)</TM_CombatDrugsMoving_HD.label>
+  <!--EN: Combat drugs reducing pain-->
+  <TM_CombatDrugsPain_HD.description>Combat drugs reducing pain</TM_CombatDrugsPain_HD.description>
+  <!--EN: Combat Drugs (painkiller)-->
+  <TM_CombatDrugsPain_HD.label>Combat Drugs (painkiller)</TM_CombatDrugsPain_HD.label>
+  <!--EN: I'll do my best.-->
+  <TM_EmergencyHD.description>I&amp;apos;ll do my best.</TM_EmergencyHD.description>
+  <!--EN: Emergency-->
+  <TM_EmergencyHD.label>Emergency</TM_EmergencyHD.label>
+  <!--EN: I-->
+  <TM_EmergencyHD.stages.0.label>I</TM_EmergencyHD.stages.0.label>
+  <!--EN: medical supplies are not meant to regen-->
+  <TM_MedicalSupplyHD.comps.0.regenPerTickUpgradeName>medical supplies are not meant to regen</TM_MedicalSupplyHD.comps.0.regenPerTickUpgradeName>
+  <!--EN: Accounts for the medical supplies equipped by a Field Medic.-->
+  <TM_MedicalSupplyHD.description>Accounts for the medical supplies equipped by a Field Medic.</TM_MedicalSupplyHD.description>
+  <!--EN: Medical Supplies-->
+  <TM_MedicalSupplyHD.label>Medical Supplies</TM_MedicalSupplyHD.label>
+  <!--EN: Medigel increases healing rates and fights infections.-->
+  <TM_MedigelHD.description>Medigel increases healing rates and fights infections.</TM_MedigelHD.description>
+  <!--EN: Medigel-->
+  <TM_MedigelHD.label>Medigel</TM_MedigelHD.label>
+  <!--EN: I-->
+  <TM_MedigelHD.stages.0.label>I</TM_MedigelHD.stages.0.label>
+</LanguageData>

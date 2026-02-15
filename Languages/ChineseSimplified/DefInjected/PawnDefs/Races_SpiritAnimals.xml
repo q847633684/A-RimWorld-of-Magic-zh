@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: flying-->
+  <Flight.label>flying</Flight.label>
+  <!--EN: adult-->
+  <TM_SpiritAnimal.label>adult</TM_SpiritAnimal.label>
+  <!--EN: spirit bear-->
+  <TM_SpiritBear.label>spirit bear</TM_SpiritBear.label>
+  <!--EN: spirit bears-->
+  <TM_SpiritBear.labelPlural>spirit bears</TM_SpiritBear.labelPlural>
+  <!--EN: The spirit bear is emblematic of stability and strength. This animal has been admired throughout time as a powerful inspiration for those who need courage to stand up against adversity. The spirit bear is a powerful guide to support physical strength and constitution and will actively protect its young.-->
+  <TM_SpiritBearR.description>The spirit bear is emblematic of stability and strength. This animal has been admired throughout time as a powerful inspiration for those who need courage to stand up against adversity. The spirit bear is a powerful guide to support physical strength and constitution and will actively protect its young.</TM_SpiritBearR.description>
+  <!--EN: spirit bear-->
+  <TM_SpiritBearR.label>spirit bear</TM_SpiritBearR.label>
+  <!--EN: left paw-->
+  <TM_SpiritBearR.tools.0.label>left paw</TM_SpiritBearR.tools.0.label>
+  <!--EN: right paw-->
+  <TM_SpiritBearR.tools.1.label>right paw</TM_SpiritBearR.tools.1.label>
+  <!--EN: mauled-->
+  <TM_SpiritBearR.tools.2.label>mauled</TM_SpiritBearR.tools.2.label>
+  <!--EN: head-->
+  <TM_SpiritBearR.tools.3.label>head</TM_SpiritBearR.tools.3.label>
+  <!--EN: spirit crow-->
+  <TM_SpiritCrow.label>spirit crow</TM_SpiritCrow.label>
+  <!--EN: spirit crows-->
+  <TM_SpiritCrow.labelPlural>spirit crows</TM_SpiritCrow.labelPlural>
+  <!--EN: flight1-->
+  <TM_SpiritCrow.lifeStages.0.label>flight1</TM_SpiritCrow.lifeStages.0.label>
+  <!--EN: flight2-->
+  <TM_SpiritCrow.lifeStages.1.label>flight2</TM_SpiritCrow.lifeStages.1.label>
+  <!--EN: crow chick-->
+  <TM_SpiritCrow.lifeStages.2.label>crow chick</TM_SpiritCrow.lifeStages.2.label>
+  <!--EN: crow fledgling-->
+  <TM_SpiritCrow.lifeStages.3.label>crow fledgling</TM_SpiritCrow.lifeStages.3.label>
+  <!--EN: The crow is a spirit animal associated with life mysteries and magic. The spirit crow provides insight and means of supporting intentions. It is also a sign of fortune, though not always good fortune. If the crow has chosen you as your spirit or totem animal, it supports you in developing the power of sight, transformation, and connection with magic and will assist in these endeavors.-->
+  <TM_SpiritCrowR.description>The crow is a spirit animal associated with life mysteries and magic. The spirit crow provides insight and means of supporting intentions. It is also a sign of fortune, though not always good fortune. If the crow has chosen you as your spirit or totem animal, it supports you in developing the power of sight, transformation, and connection with magic and will assist in these endeavors.</TM_SpiritCrowR.description>
+  <!--EN: spirit crow-->
+  <TM_SpiritCrowR.label>spirit crow</TM_SpiritCrowR.label>
+  <!--EN: claws-->
+  <TM_SpiritCrowR.tools.0.label>claws</TM_SpiritCrowR.tools.0.label>
+  <!--EN: beak-->
+  <TM_SpiritCrowR.tools.1.label>beak</TM_SpiritCrowR.tools.1.label>
+  <!--EN: head-->
+  <TM_SpiritCrowR.tools.2.label>head</TM_SpiritCrowR.tools.2.label>
+  <!--EN: spirit mongoose-->
+  <TM_SpiritMongoose.label>spirit mongoose</TM_SpiritMongoose.label>
+  <!--EN: spirit mongoose-->
+  <TM_SpiritMongoose.labelPlural>spirit mongoose</TM_SpiritMongoose.labelPlural>
+  <!--EN: The mongoose spirit animal is clever and adaptable. It represents an insatiable curiosity about the world around them while possessing the wherewithal to know to look before they leap. The mongoose uses their cunning and agility to quickly deliver lethal strikes against an enemy or swiftly deliver resources. The mongoose is also the most playful of spirit animals.-->
+  <TM_SpiritMongooseR.description>The mongoose spirit animal is clever and adaptable. It represents an insatiable curiosity about the world around them while possessing the wherewithal to know to look before they leap. The mongoose uses their cunning and agility to quickly deliver lethal strikes against an enemy or swiftly deliver resources. The mongoose is also the most playful of spirit animals.</TM_SpiritMongooseR.description>
+  <!--EN: spirit mongoose-->
+  <TM_SpiritMongooseR.label>spirit mongoose</TM_SpiritMongooseR.label>
+  <!--EN: left claw-->
+  <TM_SpiritMongooseR.tools.0.label>left claw</TM_SpiritMongooseR.tools.0.label>
+  <!--EN: right claw-->
+  <TM_SpiritMongooseR.tools.1.label>right claw</TM_SpiritMongooseR.tools.1.label>
+  <!--EN: head-->
+  <TM_SpiritMongooseR.tools.3.label>head</TM_SpiritMongooseR.tools.3.label>
+</LanguageData>

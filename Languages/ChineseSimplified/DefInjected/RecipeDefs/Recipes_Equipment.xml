@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Craft the Shroud of the Soulreaper - a mystical ensemble that augments the art of necromancy.-->
+  <TM_ShroudOfUndeath_Recipe.description>Craft the Shroud of the Soulreaper - a mystical ensemble that augments the art of necromancy.</TM_ShroudOfUndeath_Recipe.description>
+  <!--EN: crafting Shroud-->
+  <TM_ShroudOfUndeath_Recipe.jobString>crafting Shroud</TM_ShroudOfUndeath_Recipe.jobString>
+  <!--EN: craft shroud of soulreaper-->
+  <TM_ShroudOfUndeath_Recipe.label>craft shroud of soulreaper</TM_ShroudOfUndeath_Recipe.label>
+</LanguageData>
