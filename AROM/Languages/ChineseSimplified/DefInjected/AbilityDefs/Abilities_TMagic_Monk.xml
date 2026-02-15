@@ -9,7 +9,7 @@
   <!--EN: Ch'i, or spirit, is the life force that resides in all living things. Monks cultivate and harness this force to perform their art. Balancing the rhythm and flow of Ch'i takes time and is generally gained through dedicated meditation.-->
   <TM_Chi.description>“气”或者说魂力，是存在于所有生命中的特殊能量，武僧们通过修炼来使用这种力量击退敌人施展法术，平衡“气”的节奏和流动需要大量的时间，通常武僧们会选择通过冥想来平衡。</TM_Chi.description>
   <!--EN: Ch'i-->
-  <TM_Chi.label>&amp;quot;气&amp;quot;</TM_Chi.label>
+  <TM_Chi.label>&quot;气&quot;</TM_Chi.label>
   <!--EN: Projects an enormous amount of ch'i into a target area, overloading and disrupting the energy of all pawns within the area of effect.
 
 Ch'i Burst will interrupt fighter and mage abilities and will cause harm based on the amount of energy disrupted. This affects chi, mana, blood magic, stamina, hate and psionic energy.

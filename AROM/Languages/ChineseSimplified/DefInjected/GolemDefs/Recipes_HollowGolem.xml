@@ -43,7 +43,7 @@ Hit:	+12%-->
   <!--EN: Hollowed Breastplate-->
   <TM_HollowGolem_Armor.label>空洞胸甲</TM_HollowGolem_Armor.label>
   <!--EN: Fuses a thrumbo axe to the arcane extremities of the hollow golem. When swung, this axe releases a wave of arcane energy that is capable cleaving through multiple foes and almost any armor.-->
-  <TM_HollowGolem_Axe.description>将一把撼地斧熔合到空洞傀儡的&amp;quot;奥术&amp;quot;躯体。当挥动时，这把斧头会释放出一股奥术能量波，能够劈开多个敌人和几乎任何护甲。</TM_HollowGolem_Axe.description>
+  <TM_HollowGolem_Axe.description>将一把撼地斧熔合到空洞傀儡的&quot;奥术&quot;躯体。当挥动时，这把斧头会释放出一股奥术能量波，能够劈开多个敌人和几乎任何护甲。</TM_HollowGolem_Axe.description>
   <!--EN: crafting hollow axe-->
   <TM_HollowGolem_Axe.jobString>打造空洞之斧</TM_HollowGolem_Axe.jobString>
   <!--EN: Hollowed Axe-->
@@ -205,7 +205,7 @@ Hit:	+15%-->
 Cooldown:	1200s
 Duration:	100s
 Energy Cost:	50-->
-  <TM_HollowGolem_PGFire.description>为傀儡装备一块火焰保护宝石，在傀儡周边形成一个火焰保护领域。&amp;apos;amp;quot;燃烧之怒&amp;apos;amp;quot;降低所有受到的攻击35%的伤害，烧灼伤口，防止眩晕，并灼伤附近的敌人。一个傀儡只能佩戴一块保护宝石。\n\n冷却：1200秒\n持续时间：100秒\n能源消耗：50</TM_HollowGolem_PGFire.description>
+  <TM_HollowGolem_PGFire.description>为傀儡装备一块火焰保护宝石，在傀儡周边形成一个火焰保护领域。&apos;amp;quot;燃烧之怒&apos;amp;quot;降低所有受到的攻击35%的伤害，烧灼伤口，防止眩晕，并灼伤附近的敌人。一个傀儡只能佩戴一块保护宝石。\n\n冷却：1200秒\n持续时间：100秒\n能源消耗：50</TM_HollowGolem_PGFire.description>
   <!--EN: crafting golem part-->
   <TM_HollowGolem_PGFire.jobString>制造傀儡部位</TM_HollowGolem_PGFire.jobString>
   <!--EN: Protection Gem: Fire-->

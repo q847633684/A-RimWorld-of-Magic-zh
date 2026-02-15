@@ -18,7 +18,7 @@ Duration: 		30-40s
 Physical capacity: 	~+30%
 Physical demand: 	+40%
 Pain:		-20%-->
-  <TM_AMP.description>祝福: 由魔法能量获得增益 - 又叫做 &amp;quot;AMP&amp;quot;。短时间内大幅度增强身体能力，作为代价会增加身体的压力。\n\n持续时间: 30-40s\n身体能力: ~+30%\n身体需求: +40%\n疼痛:  -20%</TM_AMP.description>
+  <TM_AMP.description>祝福: 由魔法能量获得增益 - 又叫做 &quot;AMP&quot;。短时间内大幅度增强身体能力，作为代价会增加身体的压力。\n\n持续时间: 30-40s\n身体能力: ~+30%\n身体需求: +40%\n疼痛:  -20%</TM_AMP.description>
   <!--EN: AMP-->
   <TM_AMP.label>安普（I）</TM_AMP.label>
   <!--EN: Blessing: Augmented by Magical Power - aka "AMP."  Drastically increases physical capacity at the cost of increased stress on the body.
@@ -27,7 +27,7 @@ Duration: 		30-40s
 Physical capacity: 	~+50%
 Physical demand: 	+60%
 Pain:		-20%-->
-  <TM_AMP_I.description>祝福: 由魔法能量获得增益 - 又叫做 &amp;quot;AMP&amp;quot;。短时间内大幅度增强身体能力，作为代价会增加身体的压力。\n持续时间: 30-40s\n身体能力: ~+50%\n身体需求: +60%\n疼痛:  -20%</TM_AMP_I.description>
+  <TM_AMP_I.description>祝福: 由魔法能量获得增益 - 又叫做 &quot;AMP&quot;。短时间内大幅度增强身体能力，作为代价会增加身体的压力。\n持续时间: 30-40s\n身体能力: ~+50%\n身体需求: +60%\n疼痛:  -20%</TM_AMP_I.description>
   <!--EN: AMP-->
   <TM_AMP_I.label>安普（II）</TM_AMP_I.label>
   <!--EN: Blessing: Augmented by Magical Power - aka "AMP."  Drastically increases physical capacity at the cost of increased stress on the body.
@@ -36,7 +36,7 @@ Duration: 		50-60s
 Physical capacity: 	~+65%
 Physical demand: 	+60%
 Pain:		-30%-->
-  <TM_AMP_II.description>祝福: 由魔法能量获得增益 - 又叫做 &amp;quot;AMP&amp;quot;。短时间内大幅度增强身体能力，作为代价会增加身体的压力。\n持续时间: 50-60s\n身体能力: ~+65%\n身体需求: +60%\n疼痛:  -30%</TM_AMP_II.description>
+  <TM_AMP_II.description>祝福: 由魔法能量获得增益 - 又叫做 &quot;AMP&quot;。短时间内大幅度增强身体能力，作为代价会增加身体的压力。\n持续时间: 50-60s\n身体能力: ~+65%\n身体需求: +60%\n疼痛:  -30%</TM_AMP_II.description>
   <!--EN: AMP-->
   <TM_AMP_II.label>安普（III）</TM_AMP_II.label>
   <!--EN: Blessing: Augmented by Magical Power - aka "AMP."  Drastically increases physical capacity at the cost of increased stress on the body.
@@ -45,7 +45,7 @@ Duration: 		50-60s
 Physical capacity: 	~+80%
 Physical demand: 	+100%
 Pain:		-40%-->
-  <TM_AMP_III.description>祝福: 由魔法能量获得增益 - 又叫做 &amp;quot;AMP&amp;quot;。短时间内大幅度增强身体能力，作为代价会增加身体的压力。\n持续时间: 50-60s\n身体能力: ~+80%\n身体需求: +100%\n疼痛:  -40%</TM_AMP_III.description>
+  <TM_AMP_III.description>祝福: 由魔法能量获得增益 - 又叫做 &quot;AMP&quot;。短时间内大幅度增强身体能力，作为代价会增加身体的压力。\n持续时间: 50-60s\n身体能力: ~+80%\n身体需求: +100%\n疼痛:  -40%</TM_AMP_III.description>
   <!--EN: AMP-->
   <TM_AMP_III.label>安普（IV）</TM_AMP_III.label>
   <!--EN: Release a ball of pure electrical energy that annihilates everything it its path.-->

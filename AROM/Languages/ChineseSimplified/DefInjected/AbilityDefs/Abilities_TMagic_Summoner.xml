@@ -15,7 +15,7 @@
   <!--EN: Dismiss Minion-->
   <TM_DismissMinion.label>解散仆从</TM_DismissMinion.label>
   <!--EN: Calls forth a monstrous elemental from a plane of power to crush your foes.  These beings will defend a location and immediately engage an enemy if one is nearby.  However, if there are no enemies, they tend to get bored rather quickly and will wander from their summoned position.  They will not do such menial tasks as "hauling" or "cleaning," as these are the jobs of lesser beings.  Due to the power of the summoning, the elemental can only exist in this realm for a short time.  The type of elemental is random.-->
-  <TM_SummonElemental.description>从力量位面召唤一个巨大且怪异的元素生物来碾压你的敌人。这些生物会守卫在一个地点并立即嘲讽附近的一个敌人。然而， 如果附近没有敌人， 它们往往很快就会感到厌烦并逐渐偏离召唤它们的位置。它们无法做仆人的工作类似 &amp;quot;搬运&amp;quot; 或者 &amp;quot;清洁，&amp;quot; 因为它们认为这些工作应该由低等的生物来完成。由于召唤魔法的原因， 该元素提只能在现实世界停留一小段时间。元素的种类是随机的。</TM_SummonElemental.description>
+  <TM_SummonElemental.description>从力量位面召唤一个巨大且怪异的元素生物来碾压你的敌人。这些生物会守卫在一个地点并立即嘲讽附近的一个敌人。然而， 如果附近没有敌人， 它们往往很快就会感到厌烦并逐渐偏离召唤它们的位置。它们无法做仆人的工作类似 &quot;搬运&quot; 或者 &quot;清洁，&quot; 因为它们认为这些工作应该由低等的生物来完成。由于召唤魔法的原因， 该元素提只能在现实世界停留一小段时间。元素的种类是随机的。</TM_SummonElemental.description>
   <!--EN: Summon Elemental-->
   <TM_SummonElemental.label>元素召唤</TM_SummonElemental.label>
   <!--EN: Creates a mine out of compressed, raw mana and tethers it to a physical location.  The mine will harmlessly dissolve if the tether runs out of energy that is holding the mine.-->

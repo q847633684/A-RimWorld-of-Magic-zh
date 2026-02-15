@@ -3,15 +3,15 @@
   <!--EN: entertained-->
   <TM_EntertainAuraID.label>款待</TM_EntertainAuraID.label>
   <!--EN: r_logentry->Had an entertaining chat with [RECIPIENT_nameDef].-->
-  <TM_EntertainAuraID.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;与 [RECIPIENT_nameDef] 进行愉快交流.</TM_EntertainAuraID.logRulesInitiator.rulesStrings.0>
+  <TM_EntertainAuraID.logRulesInitiator.rulesStrings.0>r_logentry-&gt;与 [RECIPIENT_nameDef] 进行愉快交流.</TM_EntertainAuraID.logRulesInitiator.rulesStrings.0>
   <!--EN: r_logentry->Had an entertaining chat with [INITIATOR_nameDef].-->
-  <TM_EntertainAuraID.logRulesRecipient.rulesStrings.0>r_logentry-&amp;gt;与 [INITIATOR_nameDef] 进行愉快交流.</TM_EntertainAuraID.logRulesRecipient.rulesStrings.0>
+  <TM_EntertainAuraID.logRulesRecipient.rulesStrings.0>r_logentry-&gt;与 [INITIATOR_nameDef] 进行愉快交流.</TM_EntertainAuraID.logRulesRecipient.rulesStrings.0>
   <!--EN: entertained-->
   <TM_EntertainID.label>款待</TM_EntertainID.label>
   <!--EN: r_logentry->Entertained [RECIPIENT_nameDef].-->
-  <TM_EntertainID.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;款待 [RECIPIENT_nameDef].</TM_EntertainID.logRulesInitiator.rulesStrings.0>
+  <TM_EntertainID.logRulesInitiator.rulesStrings.0>r_logentry-&gt;款待 [RECIPIENT_nameDef].</TM_EntertainID.logRulesInitiator.rulesStrings.0>
   <!--EN: r_logentry->Was entertained by [INITIATOR_nameDef].-->
-  <TM_EntertainID.logRulesRecipient.rulesStrings.0>r_logentry-&amp;gt;受到 [INITIATOR_nameDef] 款待.</TM_EntertainID.logRulesRecipient.rulesStrings.0>
+  <TM_EntertainID.logRulesRecipient.rulesStrings.0>r_logentry-&gt;受到 [INITIATOR_nameDef] 款待.</TM_EntertainID.logRulesRecipient.rulesStrings.0>
   <!--EN: I had a really fun time talking with others.-->
   <TM_EntertainedAuraTD.stages.0.description>我和别人聊天时度过了一段有趣的时光。</TM_EntertainedAuraTD.stages.0.description>
   <!--EN: social entertainment-->
@@ -27,9 +27,9 @@
   <!--EN: discussed magic theories and practices-->
   <TM_MagicLore.label>谈论魔法理论与实践</TM_MagicLore.label>
   <!--EN: r_logentry->Mentored [RECIPIENT_nameDef] in magic.-->
-  <TM_MagicLore.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;辅导 [RECIPIENT_nameDef] 魔法知识.</TM_MagicLore.logRulesInitiator.rulesStrings.0>
+  <TM_MagicLore.logRulesInitiator.rulesStrings.0>r_logentry-&gt;辅导 [RECIPIENT_nameDef] 魔法知识.</TM_MagicLore.logRulesInitiator.rulesStrings.0>
   <!--EN: r_logentry->Learned magic theories from [INITIATOR_nameDef].-->
-  <TM_MagicLore.logRulesRecipient.rulesStrings.0>r_logentry-&amp;gt;跟随 [INITIATOR_nameDef] 学习魔法理论.</TM_MagicLore.logRulesRecipient.rulesStrings.0>
+  <TM_MagicLore.logRulesRecipient.rulesStrings.0>r_logentry-&gt;跟随 [INITIATOR_nameDef] 学习魔法理论.</TM_MagicLore.logRulesRecipient.rulesStrings.0>
   <!--EN: I've been enlightened by words from a powerful mage, now I just have to apply this knowledge...-->
   <TM_MagicLoreTD.stages.0.description>我被一个强大法师的话语启发了,现在我只需要应用这些知识...</TM_MagicLoreTD.stages.0.description>
   <!--EN: gained arcane knowledge-->
@@ -37,9 +37,9 @@
   <!--EN: discussed combat techniques-->
   <TM_MightLore.label>谈论战斗技巧</TM_MightLore.label>
   <!--EN: r_logentry->Taught combat techniques to [RECIPIENT_nameDef].-->
-  <TM_MightLore.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;传授 [RECIPIENT_nameDef] 战斗技巧.</TM_MightLore.logRulesInitiator.rulesStrings.0>
+  <TM_MightLore.logRulesInitiator.rulesStrings.0>r_logentry-&gt;传授 [RECIPIENT_nameDef] 战斗技巧.</TM_MightLore.logRulesInitiator.rulesStrings.0>
   <!--EN: r_logentry->Trained in combat by [INITIATOR_nameDef].-->
-  <TM_MightLore.logRulesRecipient.rulesStrings.0>r_logentry-&amp;gt;跟随 [INITIATOR_nameDef] 学习战斗技巧.</TM_MightLore.logRulesRecipient.rulesStrings.0>
+  <TM_MightLore.logRulesRecipient.rulesStrings.0>r_logentry-&gt;跟随 [INITIATOR_nameDef] 学习战斗技巧.</TM_MightLore.logRulesRecipient.rulesStrings.0>
   <!--EN: A more experienced fighter has taught me how to improve my combat techniques.-->
   <TM_MightLoreTD.stages.0.description>一位经验丰富的战斗机教会了我如何改善战斗技术。</TM_MightLoreTD.stages.0.description>
   <!--EN: gained combat experience-->

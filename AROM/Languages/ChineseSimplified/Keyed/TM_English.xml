@@ -369,7 +369,7 @@ Level 3: Moving +50%, Manipulation +50%, Blood pumping +40%, Dodge chance +35%--
   <!--EN: Bard Training-->
   <TM_BardTraining_pwr>吟游诗人训练</TM_BardTraining_pwr>
   <!--EN: Advances the Bard trait to the next level. Entertainer -> Performer -> Minstrel -> Bard. Requires 2 points to train.-->
-  <TM_BardTraining_pwr_desc>将吟游诗人的特性提升到一个新的水平。艺人-&amp;gt; 表演者-&amp;gt; 吟游诗人。需要 2 个点的时间来训练。</TM_BardTraining_pwr_desc>
+  <TM_BardTraining_pwr_desc>将吟游诗人的特性提升到一个新的水平。艺人-&gt; 表演者-&gt; 吟游诗人。需要 2 个点的时间来训练。</TM_BardTraining_pwr_desc>
   <!--EN: A wandering spirit, anchored to this realm by some unknown force. The events surrounding the origins of this spirit are unknown, but powerful enough to cause the spirit to seek answers, justice, or redemption from the living.-->
   <TM_BaseSpiritDesc>一个徘徊的灵魂，通过某种未知的力量锚定到这个领域。围绕这种精神起源的事件尚不清楚，但强大到足以导致精神从活人那里寻求答案、正义或赎回。</TM_BaseSpiritDesc>
   <!--EN: Vocalist-->
@@ -1717,9 +1717,9 @@ Spirit Bear: Increased taunt targets (4 -> 9), taunt chance (60% -> 78%), and ta
 Spirit Mongoose: Increases shadow strike damage (11 -> 16) and crit chance (40% -> 65%); increases duration of invisibility (1.5s -> 2.5s) and haste (2s -> 3s) following a shadow strike
 Spirit Crow: Increases hex chance (50% -> 75%); increases the effectiveness of "Crows Insight" mental buff Psychic Sensitivity and Research speed (20% -> 30%)-->
   <TM_GuardianSpirit_pwr_desc>提高守护者之灵的能力:
-灵熊: 增加了嘲弄目标 (4-&amp;gt; 9)，嘲弄几率 (60%-&amp;gt; 78%)，嘲弄范围 (15-&amp;gt; 21); 提高伤害减轻 (4-&amp;gt; 7)
-灵 mon: 增加影击伤害 (11-&amp;gt; 16) 和暴击几率 (40%-&amp;gt; 65%); 增加隐形持续时间 (1.5 s-&amp;gt; 2.5 s) 以及阴影攻击后的匆忙 (2 s-&amp;gt; 3 s)
-灵兽: 增加十六进制几率 (50%-&amp;gt; 75%); 增加 “乌鸦洞察” 的效力心灵狂飙心灵敏感度和研究速度 (20%-&amp;gt; 30%)</TM_GuardianSpirit_pwr_desc>
+灵熊: 增加了嘲弄目标 (4-&gt; 9)，嘲弄几率 (60%-&gt; 78%)，嘲弄范围 (15-&gt; 21); 提高伤害减轻 (4-&gt; 7)
+灵 mon: 增加影击伤害 (11-&gt; 16) 和暴击几率 (40%-&gt; 65%); 增加隐形持续时间 (1.5 s-&gt; 2.5 s) 以及阴影攻击后的匆忙 (2 s-&gt; 3 s)
+灵兽: 增加十六进制几率 (50%-&gt; 75%); 增加 “乌鸦洞察” 的效力心灵狂飙心灵敏感度和研究速度 (20%-&gt; 30%)</TM_GuardianSpirit_pwr_desc>
   <!--EN: Spirit Bond-->
   <TM_GuardianSpirit_ver>心灵纽带</TM_GuardianSpirit_ver>
   <!--EN: Increases the effectiveness of the Spirit Guardian's spirit bond to increase movement, manipulation, healing rate, ignore pain, and dodge rate by 10% per skill point.-->
@@ -4104,10 +4104,10 @@ Equipment will disintegrate if it degrades below 0 durability. Equipment transmu
   <TM_Transmutate_pwr_desc>对资源进行畸变时，每技能等级减少价值损失 5%。基础教化值为 70%。
 当改变物资制作的装备时，改变的物资价值可以从原来的物资的 10% 到 300%，每个级别都提高这个范围。
 改变装备会降低装备的等级:
-等级 0:-20% 耐久，10%-&amp;gt; 300% 值
-等级 1:-10% HP，20%-&amp;gt; 330% value
-等级二: 不退化，20%-&amp;gt; 360% 值
-等级 3: + 10% 生命，40%-&amp;gt; 390% 值
+等级 0:-20% 耐久，10%-&gt; 300% 值
+等级 1:-10% HP，20%-&gt; 330% value
+等级二: 不退化，20%-&gt; 360% 值
+等级 3: + 10% 生命，40%-&gt; 390% 值
 
 如果设备的耐久度退化到 0 以下，它就会解体。装备突变将始终移除 “已死人的”。</TM_Transmutate_pwr_desc>
   <!--EN: Material Application-->
