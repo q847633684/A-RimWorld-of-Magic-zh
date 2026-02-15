@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Increases energy efficiency by 10% per level. Starting energy efficiency is 50%.-->
-  <TM_Golem_FleshEnergyEfficiency.description>Increases energy efficiency by 10% per level. Starting energy efficiency is 50%.</TM_Golem_FleshEnergyEfficiency.description>
+  <TM_Golem_FleshEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_FleshEnergyEfficiency.description>
   <!--EN: muscular efficiency-->
-  <TM_Golem_FleshEnergyEfficiency.label>muscular efficiency</TM_Golem_FleshEnergyEfficiency.label>
+  <TM_Golem_FleshEnergyEfficiency.label>增加消化器官</TM_Golem_FleshEnergyEfficiency.label>
   <!--EN: Increases energy charge rate by 20% per level. Starting recharge rate is 100 energy/hour.-->
-  <TM_Golem_FleshEnergyRate.description>Increases energy charge rate by 20% per level. Starting recharge rate is 100 energy/hour.</TM_Golem_FleshEnergyRate.description>
+  <TM_Golem_FleshEnergyRate.description>每个水平的能源充电率提高20％。开始充电率为100能量/小时。</TM_Golem_FleshEnergyRate.description>
   <!--EN: energy synthesis-->
-  <TM_Golem_FleshEnergyRate.label>energy synthesis</TM_Golem_FleshEnergyRate.label>
+  <TM_Golem_FleshEnergyRate.label>能量合成</TM_Golem_FleshEnergyRate.label>
   <!--EN: Increases stats and adds the dismember ability.
 Movement:	+[20%/35%/50%]
 Health:		+[30%/50%/70%]
@@ -16,154 +16,154 @@ Dismember
 Rage Cost:	25
 Cooldown:	13s
 Range:	1c-->
-  <TM_Golem_FleshLifeStage.description>Increases stats and adds the dismember ability.
-Movement:	+[20%/35%/50%]
-Health:		+[30%/50%/70%]
+  <TM_Golem_FleshLifeStage.description>增加数据并增加肢解能力。
+移动速度:	+[20%/35%/50%]
+生命值:		+[30%/50%/70%]
 
-Dismember
-Rage Cost:	25
-Cooldown:	13s
-Range:	1c</TM_Golem_FleshLifeStage.description>
+愤怒撕裂
+消耗愤怒:	25
+冷却:	13s
+射程:	1c</TM_Golem_FleshLifeStage.description>
   <!--EN: automaton power-->
-  <TM_Golem_FleshLifeStage.label>automaton power</TM_Golem_FleshLifeStage.label>
+  <TM_Golem_FleshLifeStage.label>提高人造肌肉质量</TM_Golem_FleshLifeStage.label>
   <!--EN: Increases maximum energy by 400 per level. Starting max energy is 800.-->
-  <TM_Golem_FleshMaxEnergy.description>Increases maximum energy by 400 per level. Starting max energy is 800.</TM_Golem_FleshMaxEnergy.description>
+  <TM_Golem_FleshMaxEnergy.description>将最大能量增加400个水平。开始最大能量为800。</TM_Golem_FleshMaxEnergy.description>
   <!--EN: muscular endurance-->
-  <TM_Golem_FleshMaxEnergy.label>muscular endurance</TM_Golem_FleshMaxEnergy.label>
+  <TM_Golem_FleshMaxEnergy.label>移植肌肉组织</TM_Golem_FleshMaxEnergy.label>
   <!--EN: restore part-->
-  <TM_Golem_FleshRestore.label>restore part</TM_Golem_FleshRestore.label>
+  <TM_Golem_FleshRestore.label>维修部位</TM_Golem_FleshRestore.label>
   <!--EN: Increases armor:
 Blunt:	28%
 Sharp:	10%
 Heat:	5%-->
-  <TM_Golem_Flesh_ChestCage.description>Increases armor:
-Blunt:	28%
-Sharp:	10%
-Heat:	5%</TM_Golem_Flesh_ChestCage.description>
+  <TM_Golem_Flesh_ChestCage.description>增强傀儡护甲：
+钝器:	28%
+利器:	10%
+热能:	5%</TM_Golem_Flesh_ChestCage.description>
   <!--EN: chest cage-->
-  <TM_Golem_Flesh_ChestCage.label>chest cage</TM_Golem_Flesh_ChestCage.label>
+  <TM_Golem_Flesh_ChestCage.label>连接胸笼</TM_Golem_Flesh_ChestCage.label>
   <!--EN: Increases sight by 100%.-->
-  <TM_Golem_Flesh_EyesT1.description>Increases sight by 100%.</TM_Golem_Flesh_EyesT1.description>
+  <TM_Golem_Flesh_EyesT1.description>提升傀儡100%的视力。</TM_Golem_Flesh_EyesT1.description>
   <!--EN: quad sight-->
-  <TM_Golem_Flesh_EyesT1.label>quad sight</TM_Golem_Flesh_EyesT1.label>
+  <TM_Golem_Flesh_EyesT1.label>嵌入四只眼</TM_Golem_Flesh_EyesT1.label>
   <!--EN: Enables an ability that terrifies and slows enemies.
 
 Evil Eye
 Rage Cost:	10
 Cooldown:	2.2s
 Range:	40-->
-  <TM_Golem_Flesh_EyesT2.description>Enables an ability that terrifies and slows enemies.
+  <TM_Golem_Flesh_EyesT2.description>邪眼能够释放血肉傀儡被压抑的愤怒，使其能虚弱地诅咒目标。
 
-Evil Eye
-Rage Cost:	10
-Cooldown:	2.2s
-Range:	40</TM_Golem_Flesh_EyesT2.description>
+邪眼诅咒
+消耗愤怒:	10
+冷却:	2.2s
+射程:	40</TM_Golem_Flesh_EyesT2.description>
   <!--EN: evil eye-->
-  <TM_Golem_Flesh_EyesT2.label>evil eye</TM_Golem_Flesh_EyesT2.label>
+  <TM_Golem_Flesh_EyesT2.label>雕刻邪眼</TM_Golem_Flesh_EyesT2.label>
   <!--EN: Adds a piercing attack and charge ability.
 
 Bull Charge
 Rage Cost:	5
 Cooldown:	10s-->
-  <TM_Golem_Flesh_Horns.description>Adds a piercing attack and charge ability.
+  <TM_Golem_Flesh_Horns.description>增加了穿孔攻击和充电能力。
 
-Bull Charge
-Rage Cost:	5
-Cooldown:	10s</TM_Golem_Flesh_Horns.description>
+冲锋
+消耗愤怒:	5
+冷却:	10s</TM_Golem_Flesh_Horns.description>
   <!--EN: horns-->
-  <TM_Golem_Flesh_Horns.label>horns</TM_Golem_Flesh_Horns.label>
+  <TM_Golem_Flesh_Horns.label>犄角</TM_Golem_Flesh_Horns.label>
   <!--EN: Increases block chance by 20%, stacks with right bracer.-->
-  <TM_Golem_Flesh_LeftArmBrace.description>Increases block chance by 20%, stacks with right bracer.</TM_Golem_Flesh_LeftArmBrace.description>
+  <TM_Golem_Flesh_LeftArmBrace.description>增加一个金属护腕，以增加钝性伤害并允许20%的概率进行格挡。左右腕可叠加。</TM_Golem_Flesh_LeftArmBrace.description>
   <!--EN: left arm brace-->
-  <TM_Golem_Flesh_LeftArmBrace.label>left arm brace</TM_Golem_Flesh_LeftArmBrace.label>
+  <TM_Golem_Flesh_LeftArmBrace.label>左臂支撑</TM_Golem_Flesh_LeftArmBrace.label>
   <!--EN: Harvest plants
 		
 AoE Cleave
 Rage Cost:	15
 Damage:	15
 Splash:	2c-->
-  <TM_Golem_Flesh_LeftArmCleaver.description>Harvest plants
-		
-AoE Cleave
-Rage Cost:	15
-Damage:	15
-Splash:	2c</TM_Golem_Flesh_LeftArmCleaver.description>
+  <TM_Golem_Flesh_LeftArmCleaver.description>允许魔像收集植物并实现AOE裂解攻击。
+
+劈砍
+消耗愤怒:	15
+伤害:	15
+溅射:	2c</TM_Golem_Flesh_LeftArmCleaver.description>
   <!--EN: left arm (harvest) cleaver-->
-  <TM_Golem_Flesh_LeftArmCleaver.label>left arm (harvest) cleaver</TM_Golem_Flesh_LeftArmCleaver.label>
+  <TM_Golem_Flesh_LeftArmCleaver.label>左臂切肉刀</TM_Golem_Flesh_LeftArmCleaver.label>
   <!--EN: Increases armor:
 Blunt:	10%
 Sharp:	15%
 Heat:	8%-->
-  <TM_Golem_Flesh_LegPlates.description>Increases armor:
-Blunt:	10%
-Sharp:	15%
-Heat:	8%</TM_Golem_Flesh_LegPlates.description>
+  <TM_Golem_Flesh_LegPlates.description>增强傀儡护甲：
+钝器:	10%
+利器:	15%
+热能:	8%</TM_Golem_Flesh_LegPlates.description>
   <!--EN: leg plates-->
-  <TM_Golem_Flesh_LegPlates.label>leg plates</TM_Golem_Flesh_LegPlates.label>
+  <TM_Golem_Flesh_LegPlates.label>移植腿护板</TM_Golem_Flesh_LegPlates.label>
   <!--EN: Increases block chance by 20%, stacks with left bracer.-->
-  <TM_Golem_Flesh_RightArmBrace.description>Increases block chance by 20%, stacks with left bracer.</TM_Golem_Flesh_RightArmBrace.description>
+  <TM_Golem_Flesh_RightArmBrace.description>增加一个金属护腕，以增加钝性伤害并允许20%的概率进行格挡。左右腕可叠加</TM_Golem_Flesh_RightArmBrace.description>
   <!--EN: right arm brace-->
-  <TM_Golem_Flesh_RightArmBrace.label>right arm brace</TM_Golem_Flesh_RightArmBrace.label>
+  <TM_Golem_Flesh_RightArmBrace.label>右臂支撑</TM_Golem_Flesh_RightArmBrace.label>
   <!--EN: Cut trees
 
 AoE Cleave
 Rage Cost:	15
 Damage:	15
 Splash:	2c-->
-  <TM_Golem_Flesh_RightArmCleaver.description>Cut trees
+  <TM_Golem_Flesh_RightArmCleaver.description>允许魔像收集植物并实现AOE裂解攻击。
 
-AoE Cleave
-Rage Cost:	15
-Damage:	15
-Splash:	2c</TM_Golem_Flesh_RightArmCleaver.description>
+劈砍
+消耗愤怒:	15
+伤害:	15
+溅射:	2c</TM_Golem_Flesh_RightArmCleaver.description>
   <!--EN: right arm (chop) cleaver-->
-  <TM_Golem_Flesh_RightArmCleaver.label>right arm (chop) cleaver</TM_Golem_Flesh_RightArmCleaver.label>
+  <TM_Golem_Flesh_RightArmCleaver.label>右臂切肉刀</TM_Golem_Flesh_RightArmCleaver.label>
   <!--EN: Increases armor:
 Blunt:	14%
 Sharp:	12%
 Heat:	10%-->
-  <TM_Golem_Flesh_ShoulderPlates.description>Increases armor:
-Blunt:	14%
-Sharp:	12%
-Heat:	10%</TM_Golem_Flesh_ShoulderPlates.description>
+  <TM_Golem_Flesh_ShoulderPlates.description>增强傀儡护甲：
+钝器:	14%
+利器:	12%
+热能:	10%</TM_Golem_Flesh_ShoulderPlates.description>
   <!--EN: shoulder plates-->
-  <TM_Golem_Flesh_ShoulderPlates.label>shoulder plates</TM_Golem_Flesh_ShoulderPlates.label>
+  <TM_Golem_Flesh_ShoulderPlates.label>移植肩护板</TM_Golem_Flesh_ShoulderPlates.label>
   <!--EN: Increases armor:
 Blunt:	12%
 Sharp:	18%
 Heat:	8%-->
-  <TM_Golem_Flesh_SkullPlate.description>Increases armor:
-Blunt:	12%
-Sharp:	18%
-Heat:	8%</TM_Golem_Flesh_SkullPlate.description>
+  <TM_Golem_Flesh_SkullPlate.description>增强傀儡护甲：
+钝器:	12%
+利器:	18%
+热能:	8%</TM_Golem_Flesh_SkullPlate.description>
   <!--EN: skull plate-->
-  <TM_Golem_Flesh_SkullPlate.label>skull plate</TM_Golem_Flesh_SkullPlate.label>
+  <TM_Golem_Flesh_SkullPlate.label>移植颅板</TM_Golem_Flesh_SkullPlate.label>
   <!--EN: Increases armor:
 Blunt:	12%
 Sharp:	14%
 Heat:	5%-->
-  <TM_Golem_Flesh_SpineGuard.description>Increases armor:
-Blunt:	12%
-Sharp:	14%
-Heat:	5%</TM_Golem_Flesh_SpineGuard.description>
+  <TM_Golem_Flesh_SpineGuard.description>增强傀儡护甲：
+钝器:	12%
+利器:	14%
+热能:	5%</TM_Golem_Flesh_SpineGuard.description>
   <!--EN: spine guard-->
-  <TM_Golem_Flesh_SpineGuard.label>spine guard</TM_Golem_Flesh_SpineGuard.label>
+  <TM_Golem_Flesh_SpineGuard.label>装上脊椎护板</TM_Golem_Flesh_SpineGuard.label>
   <!--EN: Adds a powerful bite attack.-->
-  <TM_Golem_Flesh_Tusks.description>Adds a powerful bite attack.</TM_Golem_Flesh_Tusks.description>
+  <TM_Golem_Flesh_Tusks.description>添加了强大的咬合攻击。</TM_Golem_Flesh_Tusks.description>
   <!--EN: tusks-->
-  <TM_Golem_Flesh_Tusks.label>tusks</TM_Golem_Flesh_Tusks.label>
+  <TM_Golem_Flesh_Tusks.label>附牙</TM_Golem_Flesh_Tusks.label>
   <!--EN: Adds an ability that can grant the golem haste.
 
 Haste
 Rage Cost:	15
 Cooldown:	6s
 Double attack and move speed-->
-  <TM_Golem_Flesh_Wings.description>Adds an ability that can grant the golem haste.
+  <TM_Golem_Flesh_Wings.description>通过将翼移植到血肉傀儡的背部来提高速度性和平衡性
 
-Haste
-Rage Cost:	15
-Cooldown:	6s
-Double attack and move speed</TM_Golem_Flesh_Wings.description>
+极速
+消耗愤怒:	15
+冷却:	6s
+攻击速度与移动速度翻倍</TM_Golem_Flesh_Wings.description>
   <!--EN: wings-->
-  <TM_Golem_Flesh_Wings.label>wings</TM_Golem_Flesh_Wings.label>
+  <TM_Golem_Flesh_Wings.label>嵌翼</TM_Golem_Flesh_Wings.label>
 </LanguageData>

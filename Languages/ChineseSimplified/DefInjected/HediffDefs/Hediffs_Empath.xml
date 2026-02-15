@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: The emotions of this pawn are being suppressed; this pawn will not experience a mental break and most mood related thoughts will be filtered.-->
-  <TM_EmotionSuppressionHD.description>The emotions of this pawn are being suppressed; this pawn will not experience a mental break and most mood related thoughts will be filtered.</TM_EmotionSuppressionHD.description>
+  <TM_EmotionSuppressionHD.description>这个人的情绪正在被压抑；ta不会精神崩溃，大多数与情绪相关的想法都会消逝。</TM_EmotionSuppressionHD.description>
   <!--EN: suppressed emotions-->
-  <TM_EmotionSuppressionHD.label>suppressed emotions</TM_EmotionSuppressionHD.label>
+  <TM_EmotionSuppressionHD.label>压抑的情绪</TM_EmotionSuppressionHD.label>
   <!--EN: Bearing the weight of everyone's emotions.-->
-  <TM_EmotionalWeightTD.stages.0.description>Bearing the weight of everyone&amp;apos;s emotions.</TM_EmotionalWeightTD.stages.0.description>
+  <TM_EmotionalWeightTD.stages.0.description>我正承受着每个人的情绪。</TM_EmotionalWeightTD.stages.0.description>
   <!--EN: Emotional baggage-->
-  <TM_EmotionalWeightTD.stages.0.label>Emotional baggage</TM_EmotionalWeightTD.stages.0.label>
+  <TM_EmotionalWeightTD.stages.0.label>思维负担</TM_EmotionalWeightTD.stages.0.label>
   <!--EN: Represents the skill of an empath to control their innate abilities.-->
-  <TM_EmpathHD.description>Represents the skill of an empath to control their innate abilities.</TM_EmpathHD.description>
+  <TM_EmpathHD.description>读心师与生俱来的能力</TM_EmpathHD.description>
   <!--EN: empath-->
-  <TM_EmpathHD.label>empath</TM_EmpathHD.label>
+  <TM_EmpathHD.label>共感</TM_EmpathHD.label>
   <!--EN: Uncontrolled-->
-  <TM_EmpathHD.stages.0.label>Uncontrolled</TM_EmpathHD.stages.0.label>
+  <TM_EmpathHD.stages.0.label>不受控制</TM_EmpathHD.stages.0.label>
   <!--EN: Untrained-->
-  <TM_EmpathHD.stages.1.label>Untrained</TM_EmpathHD.stages.1.label>
+  <TM_EmpathHD.stages.1.label>未加训练</TM_EmpathHD.stages.1.label>
   <!--EN: Familiar-->
-  <TM_EmpathHD.stages.2.label>Familiar</TM_EmpathHD.stages.2.label>
+  <TM_EmpathHD.stages.2.label>初步了解</TM_EmpathHD.stages.2.label>
   <!--EN: Trained-->
-  <TM_EmpathHD.stages.3.label>Trained</TM_EmpathHD.stages.3.label>
+  <TM_EmpathHD.stages.3.label>受训</TM_EmpathHD.stages.3.label>
   <!--EN: Skilled-->
-  <TM_EmpathHD.stages.4.label>Skilled</TM_EmpathHD.stages.4.label>
+  <TM_EmpathHD.stages.4.label>熟练</TM_EmpathHD.stages.4.label>
   <!--EN: Mastery-->
-  <TM_EmpathHD.stages.5.label>Mastery</TM_EmpathHD.stages.5.label>
+  <TM_EmpathHD.stages.5.label>精通</TM_EmpathHD.stages.5.label>
   <!--EN: A passion is being stolen by another pawn.-->
-  <TM_HarvestPassionHD.description>A passion is being stolen by another pawn.</TM_HarvestPassionHD.description>
+  <TM_HarvestPassionHD.description>源于他人的激情</TM_HarvestPassionHD.description>
   <!--EN: passion harvesting-->
-  <TM_HarvestPassionHD.label>passion harvesting</TM_HarvestPassionHD.label>
+  <TM_HarvestPassionHD.label>激情鼓舞</TM_HarvestPassionHD.label>
   <!--EN: This pawn has been overwhelmed with a flood of emotions and is unable to think or act with clear intention; this can cause a pawn to drop their weapon or flee in fear.-->
-  <TM_MindKillerHD.description>This pawn has been overwhelmed with a flood of emotions and is unable to think or act with clear intention; this can cause a pawn to drop their weapon or flee in fear.</TM_MindKillerHD.description>
+  <TM_MindKillerHD.description>此人已经被洪水般的情绪所淹没，无法有明确的意图去思考或行动; 这可以导致其放下武器或在恐惧中逃跑。</TM_MindKillerHD.description>
   <!--EN: emotion shock-->
-  <TM_MindKillerHD.label>emotion shock</TM_MindKillerHD.label>
+  <TM_MindKillerHD.label>情感崩坏</TM_MindKillerHD.label>
   <!--EN: recovering-->
-  <TM_MindKillerHD.stages.0.label>recovering</TM_MindKillerHD.stages.0.label>
+  <TM_MindKillerHD.stages.0.label>恢复</TM_MindKillerHD.stages.0.label>
   <!--EN: I-->
   <TM_MindKillerHD.stages.1.label>I</TM_MindKillerHD.stages.1.label>
   <!--EN: II-->
@@ -41,33 +41,33 @@
   <!--EN: III-->
   <TM_MindKillerHD.stages.3.label>III</TM_MindKillerHD.stages.3.label>
   <!--EN: Emotions gained through empathy.-->
-  <TM_NegativeEmpathyTD.stages.0.description>Emotions gained through empathy.</TM_NegativeEmpathyTD.stages.0.description>
+  <TM_NegativeEmpathyTD.stages.0.description>读心师所传递的消极情绪</TM_NegativeEmpathyTD.stages.0.description>
   <!--EN: negative vibes-->
-  <TM_NegativeEmpathyTD.stages.0.label>negative vibes</TM_NegativeEmpathyTD.stages.0.label>
+  <TM_NegativeEmpathyTD.stages.0.label>消极情绪</TM_NegativeEmpathyTD.stages.0.label>
   <!--EN: The emotions and awareness of this pawn have been attached to another pawn; this body is currently an empty shell.-->
-  <TM_OutOfBodyHD.description>The emotions and awareness of this pawn have been attached to another pawn; this body is currently an empty shell.</TM_OutOfBodyHD.description>
+  <TM_OutOfBodyHD.description>这个人的情感和意识依附在另一个人上; 这个身体现在只是个空壳。</TM_OutOfBodyHD.description>
   <!--EN: out of body-->
-  <TM_OutOfBodyHD.label>out of body</TM_OutOfBodyHD.label>
+  <TM_OutOfBodyHD.label>灵魂出窍</TM_OutOfBodyHD.label>
   <!--EN: Emotional energy is being used to augment another pawn.-->
-  <TM_OutOfBodyThought.stages.0.description>Emotional energy is being used to augment another pawn.</TM_OutOfBodyThought.stages.0.description>
+  <TM_OutOfBodyThought.stages.0.description>情绪能量被用来增加另一个典当。</TM_OutOfBodyThought.stages.0.description>
   <!--EN: out of body-->
-  <TM_OutOfBodyThought.stages.0.label>out of body</TM_OutOfBodyThought.stages.0.label>
+  <TM_OutOfBodyThought.stages.0.label>脱离身体</TM_OutOfBodyThought.stages.0.label>
   <!--EN: Emotions gained through empathy.-->
-  <TM_PositiveEmpathyTD.stages.0.description>Emotions gained through empathy.</TM_PositiveEmpathyTD.stages.0.description>
+  <TM_PositiveEmpathyTD.stages.0.description>读心师所传递的积极情绪。</TM_PositiveEmpathyTD.stages.0.description>
   <!--EN: positive vibes-->
-  <TM_PositiveEmpathyTD.stages.0.label>positive vibes</TM_PositiveEmpathyTD.stages.0.label>
+  <TM_PositiveEmpathyTD.stages.0.label>积极情绪</TM_PositiveEmpathyTD.stages.0.label>
   <!--EN: The empath is suppression the emotions of of nearby pawns; affected pawns will be unable to enter into a mental break or gain any mood related thoughts that are not allowed by the empath.-->
-  <TM_SuppressiveAuraHD.description>The empath is suppression the emotions of of nearby pawns; affected pawns will be unable to enter into a mental break or gain any mood related thoughts that are not allowed by the empath.</TM_SuppressiveAuraHD.description>
+  <TM_SuppressiveAuraHD.description>读心师正在接受与改变周围人群的情绪。</TM_SuppressiveAuraHD.description>
   <!--EN: suppressive aura-->
-  <TM_SuppressiveAuraHD.label>suppressive aura</TM_SuppressiveAuraHD.label>
+  <TM_SuppressiveAuraHD.label>共感网络</TM_SuppressiveAuraHD.label>
   <!--EN: I have a deep sense of sadness and loss when depriving others of their ability to feel.-->
-  <TM_SuppressiveAuraTD.stages.0.description>I have a deep sense of sadness and loss when depriving others of their ability to feel.</TM_SuppressiveAuraTD.stages.0.description>
+  <TM_SuppressiveAuraTD.stages.0.description>当剥夺他人的感觉能力时，我会深深地感情和失落。</TM_SuppressiveAuraTD.stages.0.description>
   <!--EN: Emotion thief-->
-  <TM_SuppressiveAuraTD.stages.0.label>Emotion thief</TM_SuppressiveAuraTD.stages.0.label>
+  <TM_SuppressiveAuraTD.stages.0.label>情感窃取</TM_SuppressiveAuraTD.stages.0.label>
   <!--EN: The emotions and awareness of this pawn have been reinforced and fortified by the mind of an empath. For all intents and purposes, the mind of the empath is joined with this pawn - if this pawn dies then the empath will also die.-->
-  <TM_SymbiosisHD.description>The emotions and awareness of this pawn have been reinforced and fortified by the mind of an empath. For all intents and purposes, the mind of the empath is joined with this pawn - if this pawn dies then the empath will also die.</TM_SymbiosisHD.description>
+  <TM_SymbiosisHD.description>ta的情感和意识已经被读心师的心灵强化了。 为了维持思维共生，读心师的心灵与ta紧密相连——如果此人死了，那么读心师也会死。</TM_SymbiosisHD.description>
   <!--EN: symbiosis-->
-  <TM_SymbiosisHD.label>symbiosis</TM_SymbiosisHD.label>
+  <TM_SymbiosisHD.label>思维共生</TM_SymbiosisHD.label>
   <!--EN: I-->
   <TM_SymbiosisHD.stages.0.label>I</TM_SymbiosisHD.stages.0.label>
   <!--EN: II-->
@@ -77,7 +77,7 @@
   <!--EN: IV-->
   <TM_SymbiosisHD.stages.3.label>IV</TM_SymbiosisHD.stages.3.label>
   <!--EN: Emotional fortitude provided by a symbiotic connection with an empath.-->
-  <TM_SymbiosisThought.stages.0.description>Emotional fortitude provided by a symbiotic connection with an empath.</TM_SymbiosisThought.stages.0.description>
+  <TM_SymbiosisThought.stages.0.description>情感共生，有人在心底支撑着我。</TM_SymbiosisThought.stages.0.description>
   <!--EN: symbiosis-->
-  <TM_SymbiosisThought.stages.0.label>symbiosis</TM_SymbiosisThought.stages.0.label>
+  <TM_SymbiosisThought.stages.0.label>思维链接</TM_SymbiosisThought.stages.0.label>
 </LanguageData>

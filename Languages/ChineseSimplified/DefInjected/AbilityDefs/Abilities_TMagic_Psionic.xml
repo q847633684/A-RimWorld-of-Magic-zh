@@ -1,101 +1,79 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: psi storm-->
-  <FlyingObject_PsiStorm.label>psi storm</FlyingObject_PsiStorm.label>
+  <FlyingObject_PsiStorm.label>心灵风暴</FlyingObject_PsiStorm.label>
   <!--EN: psionic dash-->
-  <FlyingObject_PsionicDash.label>psionic dash</FlyingObject_PsionicDash.label>
+  <FlyingObject_PsionicDash.label>灵能跃进</FlyingObject_PsionicDash.label>
   <!--EN: psionic leap-->
-  <FlyingObject_PsionicLeap.label>psionic leap</FlyingObject_PsionicLeap.label>
+  <FlyingObject_PsionicLeap.label>灵能跳跃</FlyingObject_PsionicLeap.label>
   <!--EN: psi storm-->
-  <FlyingObject_PsionicStorm.label>psi storm</FlyingObject_PsionicStorm.label>
+  <FlyingObject_PsionicStorm.label>心灵风暴</FlyingObject_PsionicStorm.label>
   <!--EN: psionic dash-->
-  <Projectile_PsionicDash.label>psionic dash</Projectile_PsionicDash.label>
+  <Projectile_PsionicDash.label>灵能跃进</Projectile_PsionicDash.label>
   <!--EN: PsionicStorm-->
-  <Projectile_PsionicStorm.label>PsionicStorm</Projectile_PsionicStorm.label>
+  <Projectile_PsionicStorm.label>心灵风暴</Projectile_PsionicStorm.label>
   <!--EN: psionic barrier-->
-  <TM_Projectile_PsionicBarrier.label>psionic barrier</TM_Projectile_PsionicBarrier.label>
+  <TM_Projectile_PsionicBarrier.label>心灵屏障</TM_Projectile_PsionicBarrier.label>
   <!--EN: psionic blast-->
-  <TM_Projectile_PsionicBlast.label>psionic blast</TM_Projectile_PsionicBlast.label>
+  <TM_Projectile_PsionicBlast.label>灵能爆炸</TM_Projectile_PsionicBlast.label>
   <!--EN: Psionic power is a physical manifestation of mental energy in the form of kinetic or potential energy. A Psionic is able to utilize this power most efficiently by directing it throughout their body to reinforce physical action.
 	
 A well trained psionic is able to achieve incredible physical feats using a blend of psionic and physical strength. Psionic augmentation becomes second nature and occurs naturally both in and out of combat.-->
-  <TM_PsionicAugmentation.description>Psionic power is a physical manifestation of mental energy in the form of kinetic or potential energy. A Psionic is able to utilize this power most efficiently by directing it throughout their body to reinforce physical action.
-	
-A well trained psionic is able to achieve incredible physical feats using a blend of psionic and physical strength. Psionic augmentation becomes second nature and occurs naturally both in and out of combat.</TM_PsionicAugmentation.description>
+  <TM_PsionicAugmentation.description>灵能是一种以动能或势能的形式表现的精神能量。灵能战士将其引导到全身以加强身体活动。\n  \n一个训练有素的灵能战士能够通过使用灵能和身体完成不可思议的壮举。灵能增幅作为第二天性，在战斗中和战斗之外都能自然发生。</TM_PsionicAugmentation.description>
   <!--EN: Psionic Augmentation-->
-  <TM_PsionicAugmentation.label>Psionic Augmentation</TM_PsionicAugmentation.label>
+  <TM_PsionicAugmentation.label>灵能增幅</TM_PsionicAugmentation.label>
   <!--EN: The Psionic forms a psychic barrier that repels kinetic energy in a small area around the user. Using this ability requires constant concentration in order to maintain the barrier and the Psionic will be unable to perform any other action while this is active.
 
 This ability requires 2 points to level.-->
-  <TM_PsionicBarrier.description>The Psionic forms a psychic barrier that repels kinetic energy in a small area around the user. Using this ability requires constant concentration in order to maintain the barrier and the Psionic will be unable to perform any other action while this is active.
-
-This ability requires 2 points to level.</TM_PsionicBarrier.description>
+  <TM_PsionicBarrier.description>灵能形成一种精神屏障，在使用者周围一小块区域内排斥动能。使用此能力需要持续集中以维持屏障，灵能战士在此激活期间将无法执行任何其他动作。\n  \n此技能需要2点才能升级。</TM_PsionicBarrier.description>
   <!--EN: Psionic Barrier-->
-  <TM_PsionicBarrier.label>Psionic Barrier</TM_PsionicBarrier.label>
+  <TM_PsionicBarrier.label>心灵屏障</TM_PsionicBarrier.label>
   <!--EN: The Psionic forms a psychic barrier that repels kinetic energy in a small area around the user. Using this ability requires constant concentration in order to maintain the barrier and the Psionic will be unable to perform any other action while this is active.
 
 This barrier can be projected to a designation location.-->
-  <TM_PsionicBarrier_Projected.description>The Psionic forms a psychic barrier that repels kinetic energy in a small area around the user. Using this ability requires constant concentration in order to maintain the barrier and the Psionic will be unable to perform any other action while this is active.
-
-This barrier can be projected to a designation location.</TM_PsionicBarrier_Projected.description>
+  <TM_PsionicBarrier_Projected.description>灵能形成一种精神屏障，在使用者周围一小块区域内排斥动能。使用此能力需要持续集中以维持屏障，灵能战士在此激活期间将无法执行任何其他动作。\n  \n心灵屏障可以投射到指定的位置。</TM_PsionicBarrier_Projected.description>
   <!--EN: Psionic Barrier-->
-  <TM_PsionicBarrier_Projected.label>Psionic Barrier</TM_PsionicBarrier_Projected.label>
+  <TM_PsionicBarrier_Projected.label>心灵屏障</TM_PsionicBarrier_Projected.label>
   <!--EN: Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.
 		
 Cast time: 	2s
 Cooldown:	12s
 Range:		28-->
-  <TM_PsionicBlast.description>Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.
-		
-Cast time: 	2s
-Cooldown:	12s
-Range:		28</TM_PsionicBlast.description>
+  <TM_PsionicBlast.description>投掷一团不稳定的的能量，当它与物体碰撞时会产生爆炸。根据灵能储量最多可以投射5次。\n  \n施法时间: 	2s\n冷却时间:	12s\n范围:		28</TM_PsionicBlast.description>
   <!--EN: Psionic Blast-->
-  <TM_PsionicBlast.label>Psionic Blast</TM_PsionicBlast.label>
+  <TM_PsionicBlast.label>灵能爆炸（I）</TM_PsionicBlast.label>
   <!--EN: Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.
 		
 Cast time: 	1.6s
 Cooldown:	10s
 Range:		34-->
-  <TM_PsionicBlast_I.description>Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.
-		
-Cast time: 	1.6s
-Cooldown:	10s
-Range:		34</TM_PsionicBlast_I.description>
+  <TM_PsionicBlast_I.description>投掷一团不稳定的的能量，当它与物体碰撞时会产生爆炸。根据灵能储量最多可以投射5次。\n  \n施法时间: 	1.6s\n冷却时间:	10s\n范围:		34</TM_PsionicBlast_I.description>
   <!--EN: Psionic Blast I-->
-  <TM_PsionicBlast_I.label>Psionic Blast I</TM_PsionicBlast_I.label>
+  <TM_PsionicBlast_I.label>灵能爆炸（II）</TM_PsionicBlast_I.label>
   <!--EN: Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.
 		
 Cast time: 	1.2s
 Cooldown:	8s
 Range:		40-->
-  <TM_PsionicBlast_II.description>Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.
-		
-Cast time: 	1.2s
-Cooldown:	8s
-Range:		40</TM_PsionicBlast_II.description>
+  <TM_PsionicBlast_II.description>投掷一团不稳定的的能量，当它与物体碰撞时会产生爆炸。根据灵能储量最多可以投射5次。\n  \n施法时间: 	1.2s\n冷却时间:	8s\n范围:		40</TM_PsionicBlast_II.description>
   <!--EN: Psionic Blast II-->
-  <TM_PsionicBlast_II.label>Psionic Blast II</TM_PsionicBlast_II.label>
+  <TM_PsionicBlast_II.label>灵能爆炸（III）</TM_PsionicBlast_II.label>
   <!--EN: Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.
 		
 Cast time: 	.8s
 Cooldown:	6s
 Range:		46-->
-  <TM_PsionicBlast_III.description>Projects volatile psionic energy that creates a small detonation when it collides with a physical object. Up to five bursts may be projected, depending on how much energy is available to the psionic.
-		
-Cast time: 	.8s
-Cooldown:	6s
-Range:		46</TM_PsionicBlast_III.description>
+  <TM_PsionicBlast_III.description>投掷一团不稳定的的能量，当它与物体碰撞时会产生爆炸。根据灵能储量最多可以投射5次。\n  \n施法时间: 	0.8s\n冷却时间:	6s\n范围:		46</TM_PsionicBlast_III.description>
   <!--EN: Psionic Blast III-->
-  <TM_PsionicBlast_III.label>Psionic Blast III</TM_PsionicBlast_III.label>
+  <TM_PsionicBlast_III.label>灵能爆炸（IV）</TM_PsionicBlast_III.label>
   <!--EN: The Psionic infuses their body with an overwhelming amount of energy and uses it to propel themselves in a rapid burst of movement. Each step emits shockwaves of energy.-->
-  <TM_PsionicDash.description>The Psionic infuses their body with an overwhelming amount of energy and uses it to propel themselves in a rapid burst of movement. Each step emits shockwaves of energy.</TM_PsionicDash.description>
+  <TM_PsionicDash.description>向他们的身体注入大量的灵能，推动自己快速爆发运动。每一步都会发出能量冲击波。</TM_PsionicDash.description>
   <!--EN: Psionic Dash-->
-  <TM_PsionicDash.label>Psionic Dash</TM_PsionicDash.label>
+  <TM_PsionicDash.label>灵能跃进</TM_PsionicDash.label>
   <!--EN: The Psionic lets down all mental barriers and unleashes their unrestrained psionic power. Due to the nature of this attack, the psionic will expend a tremendous amount of energy and will be left vulnerable, unable to exert psionic power, for a period following the attack.-->
-  <TM_PsionicStorm.description>The Psionic lets down all mental barriers and unleashes their unrestrained psionic power. Due to the nature of this attack, the psionic will expend a tremendous amount of energy and will be left vulnerable, unable to exert psionic power, for a period following the attack.</TM_PsionicStorm.description>
+  <TM_PsionicStorm.description>灵能战士解除所有精神障碍，释放出无限的灵能冲击。灵能战士将消耗大量能量，并在攻击后一段时间内处于脆弱状态，无法施展灵能。</TM_PsionicStorm.description>
   <!--EN: Psionic Storm-->
-  <TM_PsionicStorm.label>Psionic Storm</TM_PsionicStorm.label>
+  <TM_PsionicStorm.label>灵能风暴</TM_PsionicStorm.label>
   <!--EN: psionic projectile-->
-  <TM_Psionic_Projectile.label>psionic projectile</TM_Psionic_Projectile.label>
+  <TM_Psionic_Projectile.label>投掷灵能</TM_Psionic_Projectile.label>
 </LanguageData>

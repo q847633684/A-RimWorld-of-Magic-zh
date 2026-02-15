@@ -1,267 +1,267 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A voidseeker will guide a pawn possessing the gift of magic during a ritual to become a mage. The audience will watch as the mage attempts to realize their inspiration with the guidance of the voidseeker. Upon completion, the target will acquire their inspired magic class.-->
-  <TM_BestowClassRitual.description>A voidseeker will guide a pawn possessing the gift of magic during a ritual to become a mage. The audience will watch as the mage attempts to realize their inspiration with the guidance of the voidseeker. Upon completion, the target will acquire their inspired magic class.</TM_BestowClassRitual.description>
+  <TM_BestowClassRitual.description>在这个仪式中，寻虚者将引导拥有魔法天赋的小人成为法师。观众将看到法师试图在寻虚者的指导下实现他们的灵感。完成后，目标将获得受启发魔法职业。</TM_BestowClassRitual.description>
   <!--EN: arcane path-->
-  <TM_BestowClassRitual.label>arcane path</TM_BestowClassRitual.label>
+  <TM_BestowClassRitual.label>神秘之路</TM_BestowClassRitual.label>
   <!--EN: A voidseeker will attempt to bridge a connection between the target and magic. The audience will watch as the voidseeker says a few words of wisdom, attempts to bestows the spark of magic, and then says some closing words. This ritual may fail, and can only be performed on a specific date.-->
-  <TM_BestowMagicRitual.description>A voidseeker will attempt to bridge a connection between the target and magic. The audience will watch as the voidseeker says a few words of wisdom, attempts to bestows the spark of magic, and then says some closing words. This ritual may fail, and can only be performed on a specific date.</TM_BestowMagicRitual.description>
+  <TM_BestowMagicRitual.description>寻虚者会试图在目标和魔法之间架起一座桥梁。观众将会看到，寻虚者说了几句充满智慧的话，试图赋予目标魔法之源，然后说了一些结束语。这种仪式可能会失败，只能在特定的日期进行。</TM_BestowMagicRitual.description>
   <!--EN: bestow magic-->
-  <TM_BestowMagicRitual.label>bestow magic</TM_BestowMagicRitual.label>
+  <TM_BestowMagicRitual.label>授予魔法</TM_BestowMagicRitual.label>
   <!--EN: mage-->
-  <TM_IsMage_Abhorrent_Social.stages.0.label>mage</TM_IsMage_Abhorrent_Social.stages.0.label>
+  <TM_IsMage_Abhorrent_Social.stages.0.label>法师</TM_IsMage_Abhorrent_Social.stages.0.label>
   <!--EN: mage-->
-  <TM_IsMage_Approve_Social.stages.0.label>mage</TM_IsMage_Approve_Social.stages.0.label>
+  <TM_IsMage_Approve_Social.stages.0.label>法师</TM_IsMage_Approve_Social.stages.0.label>
   <!--EN: mage kinship-->
-  <TM_IsMage_Approve_Social.stages.1.label>mage kinship</TM_IsMage_Approve_Social.stages.1.label>
+  <TM_IsMage_Approve_Social.stages.1.label>法师亲属关系</TM_IsMage_Approve_Social.stages.1.label>
   <!--EN: non-mage-->
-  <TM_IsMage_Approve_Social.stages.2.label>non-mage</TM_IsMage_Approve_Social.stages.2.label>
+  <TM_IsMage_Approve_Social.stages.2.label>非法师</TM_IsMage_Approve_Social.stages.2.label>
   <!--EN: mage-->
-  <TM_IsMage_Disapprove_Social.stages.0.label>mage</TM_IsMage_Disapprove_Social.stages.0.label>
+  <TM_IsMage_Disapprove_Social.stages.0.label>法师</TM_IsMage_Disapprove_Social.stages.0.label>
   <!--EN: mage-->
-  <TM_IsMage_Venerated_Social.stages.0.label>mage</TM_IsMage_Venerated_Social.stages.0.label>
+  <TM_IsMage_Venerated_Social.stages.0.label>法师</TM_IsMage_Venerated_Social.stages.0.label>
   <!--EN: mage kinship-->
-  <TM_IsMage_Venerated_Social.stages.1.label>mage kinship</TM_IsMage_Venerated_Social.stages.1.label>
+  <TM_IsMage_Venerated_Social.stages.1.label>法师亲属关系</TM_IsMage_Venerated_Social.stages.1.label>
   <!--EN: non-mage-->
-  <TM_IsMage_Venerated_Social.stages.2.label>non-mage</TM_IsMage_Venerated_Social.stages.2.label>
+  <TM_IsMage_Venerated_Social.stages.2.label>非法师</TM_IsMage_Venerated_Social.stages.2.label>
   <!--EN: I killed a mage! One less abberation to worry about.-->
-  <TM_KilledMage_Abhorrent_Mood.stages.0.description>I killed a mage! One less abberation to worry about.</TM_KilledMage_Abhorrent_Mood.stages.0.description>
+  <TM_KilledMage_Abhorrent_Mood.stages.0.description>我杀了一位法师！不必担心的少结。</TM_KilledMage_Abhorrent_Mood.stages.0.description>
   <!--EN: killed a mage-->
-  <TM_KilledMage_Abhorrent_Mood.stages.0.label>killed a mage</TM_KilledMage_Abhorrent_Mood.stages.0.label>
+  <TM_KilledMage_Abhorrent_Mood.stages.0.label>杀死了法师</TM_KilledMage_Abhorrent_Mood.stages.0.label>
   <!--EN: mage killer-->
-  <TM_KilledMage_Abhorrent_Social.stages.0.label>mage killer</TM_KilledMage_Abhorrent_Social.stages.0.label>
+  <TM_KilledMage_Abhorrent_Social.stages.0.label>法师杀手</TM_KilledMage_Abhorrent_Social.stages.0.label>
   <!--EN: We killed a mage! Our colony will trimph over these abominations.-->
-  <TM_KilledMage_Know_Abhorrent_Mood.stages.0.description>We killed a mage! Our colony will trimph over these abominations.</TM_KilledMage_Know_Abhorrent_Mood.stages.0.description>
+  <TM_KilledMage_Know_Abhorrent_Mood.stages.0.description>我们杀死了法师！我们的殖民地将胜过这些憎恶。</TM_KilledMage_Know_Abhorrent_Mood.stages.0.description>
   <!--EN: we killed a mage-->
-  <TM_KilledMage_Know_Abhorrent_Mood.stages.0.label>we killed a mage</TM_KilledMage_Know_Abhorrent_Mood.stages.0.label>
+  <TM_KilledMage_Know_Abhorrent_Mood.stages.0.label>我们杀了一名法师</TM_KilledMage_Know_Abhorrent_Mood.stages.0.label>
   <!--EN: We killed a mage; this goes against our prime ideoligion!-->
-  <TM_KilledMage_Know_Venerated_Mood.stages.0.description>We killed a mage; this goes against our prime ideoligion!</TM_KilledMage_Know_Venerated_Mood.stages.0.description>
+  <TM_KilledMage_Know_Venerated_Mood.stages.0.description>我们杀死了一名法师；这违背了我们的质疑！</TM_KilledMage_Know_Venerated_Mood.stages.0.description>
   <!--EN: killed a mage-->
-  <TM_KilledMage_Know_Venerated_Mood.stages.0.label>killed a mage</TM_KilledMage_Know_Venerated_Mood.stages.0.label>
+  <TM_KilledMage_Know_Venerated_Mood.stages.0.label>杀死了法师</TM_KilledMage_Know_Venerated_Mood.stages.0.label>
   <!--EN: I killed a being blessed with magic... how can I live with myself?-->
-  <TM_KilledMage_Venerated_Mood.stages.0.description>I killed a being blessed with magic... how can I live with myself?</TM_KilledMage_Venerated_Mood.stages.0.description>
+  <TM_KilledMage_Venerated_Mood.stages.0.description>我杀死了一个充满魔法的祝福...我怎么能和自己一起生活？</TM_KilledMage_Venerated_Mood.stages.0.description>
   <!--EN: mage killer-->
-  <TM_KilledMage_Venerated_Mood.stages.0.label>mage killer</TM_KilledMage_Venerated_Mood.stages.0.label>
+  <TM_KilledMage_Venerated_Mood.stages.0.label>法师杀手</TM_KilledMage_Venerated_Mood.stages.0.label>
   <!--EN: I was forced to slay another mage and it weighs heavily on my conscience.-->
-  <TM_KilledMage_Venerated_Mood.stages.1.description>I was forced to slay another mage and it weighs heavily on my conscience.</TM_KilledMage_Venerated_Mood.stages.1.description>
+  <TM_KilledMage_Venerated_Mood.stages.1.description>我被迫杀死另一个法师，这对我的良心重视。</TM_KilledMage_Venerated_Mood.stages.1.description>
   <!--EN: mage slayer-->
-  <TM_KilledMage_Venerated_Mood.stages.1.label>mage slayer</TM_KilledMage_Venerated_Mood.stages.1.label>
+  <TM_KilledMage_Venerated_Mood.stages.1.label>法师杀手</TM_KilledMage_Venerated_Mood.stages.1.label>
   <!--EN: mage killer-->
-  <TM_KilledMage_Venerated_Social.stages.0.label>mage killer</TM_KilledMage_Venerated_Social.stages.0.label>
+  <TM_KilledMage_Venerated_Social.stages.0.label>法师杀手</TM_KilledMage_Venerated_Social.stages.0.label>
   <!--EN: Magic-->
-  <TM_MageOpinion.label>Magic</TM_MageOpinion.label>
+  <TM_MageOpinion.label>魔法</TM_MageOpinion.label>
   <!--EN: We have enslaved a mage; we don't need its magic, -it- is better off dead.-->
-  <TM_MagesInColonySlave_Abhorrent_Mood.stages.0.description>We have enslaved a mage; we don&amp;apos;t need its magic, -it- is better off dead.</TM_MagesInColonySlave_Abhorrent_Mood.stages.0.description>
+  <TM_MagesInColonySlave_Abhorrent_Mood.stages.0.description>我们已经奴役了一名法师。我们不需要它的魔术，-IT-最好死了。</TM_MagesInColonySlave_Abhorrent_Mood.stages.0.description>
   <!--EN: slave mage-->
-  <TM_MagesInColonySlave_Abhorrent_Mood.stages.0.label>slave mage</TM_MagesInColonySlave_Abhorrent_Mood.stages.0.label>
+  <TM_MagesInColonySlave_Abhorrent_Mood.stages.0.label>奴隶法师</TM_MagesInColonySlave_Abhorrent_Mood.stages.0.label>
   <!--EN: Our colony is free from the abhorrent machinations of mages.-->
-  <TM_MagesInColony_Abhorrent_Mood.stages.0.description>Our colony is free from the abhorrent machinations of mages.</TM_MagesInColony_Abhorrent_Mood.stages.0.description>
+  <TM_MagesInColony_Abhorrent_Mood.stages.0.description>我们的殖民地摆脱了法师的憎恶阴谋。</TM_MagesInColony_Abhorrent_Mood.stages.0.description>
   <!--EN: freedom from mages-->
-  <TM_MagesInColony_Abhorrent_Mood.stages.0.label>freedom from mages</TM_MagesInColony_Abhorrent_Mood.stages.0.label>
+  <TM_MagesInColony_Abhorrent_Mood.stages.0.label>从魔法中解放</TM_MagesInColony_Abhorrent_Mood.stages.0.label>
   <!--EN: A free mage was allowed into the colony; destroy or enslave the abomination!-->
-  <TM_MagesInColony_Abhorrent_Mood.stages.1.description>A free mage was allowed into the colony; destroy or enslave the abomination!</TM_MagesInColony_Abhorrent_Mood.stages.1.description>
+  <TM_MagesInColony_Abhorrent_Mood.stages.1.description>一名自由法师被允许进入殖民地； 摧毁或奴役可憎之物！</TM_MagesInColony_Abhorrent_Mood.stages.1.description>
   <!--EN: mage abomination-->
-  <TM_MagesInColony_Abhorrent_Mood.stages.1.label>mage abomination</TM_MagesInColony_Abhorrent_Mood.stages.1.label>
+  <TM_MagesInColony_Abhorrent_Mood.stages.1.label>法师憎恶</TM_MagesInColony_Abhorrent_Mood.stages.1.label>
   <!--EN: The number of mages clearly demonstrates the superiority of our colony.-->
-  <TM_MagesInColony_Approve_Mood.stages.0.description>The number of mages clearly demonstrates the superiority of our colony.</TM_MagesInColony_Approve_Mood.stages.0.description>
+  <TM_MagesInColony_Approve_Mood.stages.0.description>法师的数量清楚地表明了我们殖民地的优势。</TM_MagesInColony_Approve_Mood.stages.0.description>
   <!--EN: mage dominance-->
-  <TM_MagesInColony_Approve_Mood.stages.0.label>mage dominance</TM_MagesInColony_Approve_Mood.stages.0.label>
+  <TM_MagesInColony_Approve_Mood.stages.0.label>法师主宰</TM_MagesInColony_Approve_Mood.stages.0.label>
   <!--EN: Our colony is blessed with a large number of mages, our success is assured!-->
-  <TM_MagesInColony_Approve_Mood.stages.1.description>Our colony is blessed with a large number of mages, our success is assured!</TM_MagesInColony_Approve_Mood.stages.1.description>
+  <TM_MagesInColony_Approve_Mood.stages.1.description>我们的殖民地拥有大量法师，我们的成功是有保证的！</TM_MagesInColony_Approve_Mood.stages.1.description>
   <!--EN: abundant mages-->
-  <TM_MagesInColony_Approve_Mood.stages.1.label>abundant mages</TM_MagesInColony_Approve_Mood.stages.1.label>
+  <TM_MagesInColony_Approve_Mood.stages.1.label>丰富的法师</TM_MagesInColony_Approve_Mood.stages.1.label>
   <!--EN: The number of mages in the colony enriches many aspects of life.-->
-  <TM_MagesInColony_Approve_Mood.stages.2.description>The number of mages in the colony enriches many aspects of life.</TM_MagesInColony_Approve_Mood.stages.2.description>
+  <TM_MagesInColony_Approve_Mood.stages.2.description>殖民地中法师的数量丰富了生活的方方面面。</TM_MagesInColony_Approve_Mood.stages.2.description>
   <!--EN: mages collective-->
-  <TM_MagesInColony_Approve_Mood.stages.2.label>mages collective</TM_MagesInColony_Approve_Mood.stages.2.label>
+  <TM_MagesInColony_Approve_Mood.stages.2.label>法师集体</TM_MagesInColony_Approve_Mood.stages.2.label>
   <!--EN: We have several mages in the colony who will guide us in the ways of magic.-->
-  <TM_MagesInColony_Approve_Mood.stages.3.description>We have several mages in the colony who will guide us in the ways of magic.</TM_MagesInColony_Approve_Mood.stages.3.description>
+  <TM_MagesInColony_Approve_Mood.stages.3.description>我们的殖民地有几位法师，他们会指导我们魔法之路。</TM_MagesInColony_Approve_Mood.stages.3.description>
   <!--EN: mages present-->
-  <TM_MagesInColony_Approve_Mood.stages.3.label>mages present</TM_MagesInColony_Approve_Mood.stages.3.label>
+  <TM_MagesInColony_Approve_Mood.stages.3.label>法师在场</TM_MagesInColony_Approve_Mood.stages.3.label>
   <!--EN: How can we rely on magic if we don't have a mage in the colony?-->
-  <TM_MagesInColony_Approve_Mood.stages.4.description>How can we rely on magic if we don&amp;apos;t have a mage in the colony?</TM_MagesInColony_Approve_Mood.stages.4.description>
+  <TM_MagesInColony_Approve_Mood.stages.4.description>如果殖民地没有法师，我们如何依靠魔法？</TM_MagesInColony_Approve_Mood.stages.4.description>
   <!--EN: no mages-->
-  <TM_MagesInColony_Approve_Mood.stages.4.label>no mages</TM_MagesInColony_Approve_Mood.stages.4.label>
+  <TM_MagesInColony_Approve_Mood.stages.4.label>没有法师</TM_MagesInColony_Approve_Mood.stages.4.label>
   <!--EN: A tight reign is being kept on how many free mages are allowed in our colony.-->
-  <TM_MagesInColony_Disapprove_Mood.stages.0.description>A tight reign is being kept on how many free mages are allowed in our colony.</TM_MagesInColony_Disapprove_Mood.stages.0.description>
+  <TM_MagesInColony_Disapprove_Mood.stages.0.description>我们的殖民地对自由法师的数量有严格的控制。</TM_MagesInColony_Disapprove_Mood.stages.0.description>
   <!--EN: restricted mages-->
-  <TM_MagesInColony_Disapprove_Mood.stages.0.label>restricted mages</TM_MagesInColony_Disapprove_Mood.stages.0.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.0.label>受限法师</TM_MagesInColony_Disapprove_Mood.stages.0.label>
   <!--EN: There are too many free mages in the colony, this needs to be controlled quickly - make them slaves!-->
-  <TM_MagesInColony_Disapprove_Mood.stages.1.description>There are too many free mages in the colony, this needs to be controlled quickly - make them slaves!</TM_MagesInColony_Disapprove_Mood.stages.1.description>
+  <TM_MagesInColony_Disapprove_Mood.stages.1.description>殖民地中有太多的自由法师，需要快速控制这一点-使它们成为奴隶！</TM_MagesInColony_Disapprove_Mood.stages.1.description>
   <!--EN: too many mages-->
-  <TM_MagesInColony_Disapprove_Mood.stages.1.label>too many mages</TM_MagesInColony_Disapprove_Mood.stages.1.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.1.label>法师太多</TM_MagesInColony_Disapprove_Mood.stages.1.label>
   <!--EN: The number of mages in the colony is excessive and out of control; we should immediately enslave all mages to restore good order and discipline.-->
-  <TM_MagesInColony_Disapprove_Mood.stages.2.description>The number of mages in the colony is excessive and out of control; we should immediately enslave all mages to restore good order and discipline.</TM_MagesInColony_Disapprove_Mood.stages.2.description>
+  <TM_MagesInColony_Disapprove_Mood.stages.2.description>殖民地中的法师数量过多，无法控制。我们应该立即奴役所有法师，以恢复良好的订单和纪律。</TM_MagesInColony_Disapprove_Mood.stages.2.description>
   <!--EN: excessive mages-->
-  <TM_MagesInColony_Disapprove_Mood.stages.2.label>excessive mages</TM_MagesInColony_Disapprove_Mood.stages.2.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.2.label>过多的法师</TM_MagesInColony_Disapprove_Mood.stages.2.label>
   <!--EN: We've clearly failed at restricting the number of free mages in the colony.-->
-  <TM_MagesInColony_Disapprove_Mood.stages.3.description>We&amp;apos;ve clearly failed at restricting the number of free mages in the colony.</TM_MagesInColony_Disapprove_Mood.stages.3.description>
+  <TM_MagesInColony_Disapprove_Mood.stages.3.description>我们显然无法限制殖民地中的免费法师数量。</TM_MagesInColony_Disapprove_Mood.stages.3.description>
   <!--EN: rampant mage count-->
-  <TM_MagesInColony_Disapprove_Mood.stages.3.label>rampant mage count</TM_MagesInColony_Disapprove_Mood.stages.3.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.3.label>法师数量飙升</TM_MagesInColony_Disapprove_Mood.stages.3.label>
   <!--EN: There are now more free mages than not; what are we even trying to accomplish?-->
-  <TM_MagesInColony_Disapprove_Mood.stages.4.description>There are now more free mages than not; what are we even trying to accomplish?</TM_MagesInColony_Disapprove_Mood.stages.4.description>
+  <TM_MagesInColony_Disapprove_Mood.stages.4.description>现在有更多的自由法师。我们甚至想完成什么？</TM_MagesInColony_Disapprove_Mood.stages.4.description>
   <!--EN: mage majority-->
-  <TM_MagesInColony_Disapprove_Mood.stages.4.label>mage majority</TM_MagesInColony_Disapprove_Mood.stages.4.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.4.label>法师多数</TM_MagesInColony_Disapprove_Mood.stages.4.label>
   <!--EN: The success of our colony is assured through the power of magic.-->
-  <TM_MagesInColony_Venerated_Mood.stages.0.description>The success of our colony is assured through the power of magic.</TM_MagesInColony_Venerated_Mood.stages.0.description>
+  <TM_MagesInColony_Venerated_Mood.stages.0.description>通过魔术的力量确保了我们殖民地的成功。</TM_MagesInColony_Venerated_Mood.stages.0.description>
   <!--EN: mage dominance-->
-  <TM_MagesInColony_Venerated_Mood.stages.0.label>mage dominance</TM_MagesInColony_Venerated_Mood.stages.0.label>
+  <TM_MagesInColony_Venerated_Mood.stages.0.label>法师的主导地位</TM_MagesInColony_Venerated_Mood.stages.0.label>
   <!--EN: Our colony is surely chosen for greatness while graced with this many mages; their combined power is indomitable.-->
-  <TM_MagesInColony_Venerated_Mood.stages.1.description>Our colony is surely chosen for greatness while graced with this many mages; their combined power is indomitable.</TM_MagesInColony_Venerated_Mood.stages.1.description>
+  <TM_MagesInColony_Venerated_Mood.stages.1.description>我们的殖民地肯定是为了伟大而选择的，同时对这么多的法师进行了敬意。他们的联合力量是顽强的。</TM_MagesInColony_Venerated_Mood.stages.1.description>
   <!--EN: abundant mages-->
-  <TM_MagesInColony_Venerated_Mood.stages.1.label>abundant mages</TM_MagesInColony_Venerated_Mood.stages.1.label>
+  <TM_MagesInColony_Venerated_Mood.stages.1.label>丰富的法师</TM_MagesInColony_Venerated_Mood.stages.1.label>
   <!--EN: Like a tapestry, the number of mages in the colony has begun to reveal a grand design.-->
-  <TM_MagesInColony_Venerated_Mood.stages.2.description>Like a tapestry, the number of mages in the colony has begun to reveal a grand design.</TM_MagesInColony_Venerated_Mood.stages.2.description>
+  <TM_MagesInColony_Venerated_Mood.stages.2.description>像挂毯一样，殖民地中的法师数量已经开始揭示出宏伟的设计。</TM_MagesInColony_Venerated_Mood.stages.2.description>
   <!--EN: mages collective-->
-  <TM_MagesInColony_Venerated_Mood.stages.2.label>mages collective</TM_MagesInColony_Venerated_Mood.stages.2.label>
+  <TM_MagesInColony_Venerated_Mood.stages.2.label>法师集体</TM_MagesInColony_Venerated_Mood.stages.2.label>
   <!--EN: Mages in our colony will guide us in our chosen path.-->
-  <TM_MagesInColony_Venerated_Mood.stages.3.description>Mages in our colony will guide us in our chosen path.</TM_MagesInColony_Venerated_Mood.stages.3.description>
+  <TM_MagesInColony_Venerated_Mood.stages.3.description>我们殖民地中的法师将指导我们进入所选的道路。</TM_MagesInColony_Venerated_Mood.stages.3.description>
   <!--EN: mages present-->
-  <TM_MagesInColony_Venerated_Mood.stages.3.label>mages present</TM_MagesInColony_Venerated_Mood.stages.3.label>
+  <TM_MagesInColony_Venerated_Mood.stages.3.label>法师在场</TM_MagesInColony_Venerated_Mood.stages.3.label>
   <!--EN: Has magic forsaken us!?-->
-  <TM_MagesInColony_Venerated_Mood.stages.4.description>Has magic forsaken us!?</TM_MagesInColony_Venerated_Mood.stages.4.description>
+  <TM_MagesInColony_Venerated_Mood.stages.4.description>有魔术抛弃我们！？</TM_MagesInColony_Venerated_Mood.stages.4.description>
   <!--EN: no mages-->
-  <TM_MagesInColony_Venerated_Mood.stages.4.label>no mages</TM_MagesInColony_Venerated_Mood.stages.4.label>
+  <TM_MagesInColony_Venerated_Mood.stages.4.label>没有法师</TM_MagesInColony_Venerated_Mood.stages.4.label>
   <!--EN: We've emprisoned a mage, are we sure our actions are justified?-->
-  <TM_MagesPrisoner_Venerated_Mood.stages.0.description>We&amp;apos;ve emprisoned a mage, are we sure our actions are justified?</TM_MagesPrisoner_Venerated_Mood.stages.0.description>
+  <TM_MagesPrisoner_Venerated_Mood.stages.0.description>我们已经提出了一名法师，我们确定我们的行动是合理的吗？</TM_MagesPrisoner_Venerated_Mood.stages.0.description>
   <!--EN: mage prisoner-->
-  <TM_MagesPrisoner_Venerated_Mood.stages.0.label>mage prisoner</TM_MagesPrisoner_Venerated_Mood.stages.0.label>
+  <TM_MagesPrisoner_Venerated_Mood.stages.0.label>法师囚犯</TM_MagesPrisoner_Venerated_Mood.stages.0.label>
   <!--EN: We've enslaved a mage, what a despicable act.-->
-  <TM_MagesSlave_Venerated_Mood.stages.0.description>We&amp;apos;ve enslaved a mage, what a despicable act.</TM_MagesSlave_Venerated_Mood.stages.0.description>
+  <TM_MagesSlave_Venerated_Mood.stages.0.description>我们已经奴役了一名法师，这是一种卑鄙的行为。</TM_MagesSlave_Venerated_Mood.stages.0.description>
   <!--EN: mage slave-->
-  <TM_MagesSlave_Venerated_Mood.stages.0.label>mage slave</TM_MagesSlave_Venerated_Mood.stages.0.label>
+  <TM_MagesSlave_Venerated_Mood.stages.0.label>法师奴隶</TM_MagesSlave_Venerated_Mood.stages.0.label>
   <!--EN: I killed a mage-->
-  <TM_Mages_Abhorrent.comps.1.description>I killed a mage</TM_Mages_Abhorrent.comps.1.description>
+  <TM_Mages_Abhorrent.comps.1.description>我杀死了一位法师</TM_Mages_Abhorrent.comps.1.description>
   <!--EN: We killed a mage-->
-  <TM_Mages_Abhorrent.comps.2.description>We killed a mage</TM_Mages_Abhorrent.comps.2.description>
+  <TM_Mages_Abhorrent.comps.2.description>我们杀死了一位法师</TM_Mages_Abhorrent.comps.2.description>
   <!--EN: used magic-->
-  <TM_Mages_Abhorrent.comps.4.description>used magic</TM_Mages_Abhorrent.comps.4.description>
+  <TM_Mages_Abhorrent.comps.4.description>使用魔法</TM_Mages_Abhorrent.comps.4.description>
   <!--EN: mage in colony-->
-  <TM_Mages_Abhorrent.comps.5.description>mage in colony</TM_Mages_Abhorrent.comps.5.description>
+  <TM_Mages_Abhorrent.comps.5.description>法师在殖民地</TM_Mages_Abhorrent.comps.5.description>
   <!--EN: mage in colony-->
-  <TM_Mages_Abhorrent.comps.6.description>mage in colony</TM_Mages_Abhorrent.comps.6.description>
+  <TM_Mages_Abhorrent.comps.6.description>法师在殖民地</TM_Mages_Abhorrent.comps.6.description>
   <!--EN: Magic is an abomination to be reviled and cleansed from existence. Mage's manipulation of energy goes against natural order. Killing an enemy mage is justified regardless of the circumstances. Allowing a free mage to reside in the colony is a mockery of our beliefs. Mages should be put to death quickly or enslaved until they can be disposed. The use of magic is absolutely forbidden, and mages are hated.-->
-  <TM_Mages_Abhorrent.description>Magic is an abomination to be reviled and cleansed from existence. Mage&amp;apos;s manipulation of energy goes against natural order. Killing an enemy mage is justified regardless of the circumstances. Allowing a free mage to reside in the colony is a mockery of our beliefs. Mages should be put to death quickly or enslaved until they can be disposed. The use of magic is absolutely forbidden, and mages are hated.</TM_Mages_Abhorrent.description>
+  <TM_Mages_Abhorrent.description>魔法是一种可憎的东西，需要被辱骂和净化。法师对能量的操控违反了自然规律。无论怎么样，杀死敌对法师都是正当的。允许法师自由地居住在殖民地是对我们信仰的亵渎。法师应该被迅速处死或奴役，直到他们被处死。绝对禁止使用魔法。</TM_Mages_Abhorrent.description>
   <!--EN: abhore magic-->
-  <TM_Mages_Abhorrent.label>abhore magic</TM_Mages_Abhorrent.label>
+  <TM_Mages_Abhorrent.label>憎恶魔法</TM_Mages_Abhorrent.label>
   <!--EN: magic use-->
-  <TM_Mages_Approve.comps.1.description>magic use</TM_Mages_Approve.comps.1.description>
+  <TM_Mages_Approve.comps.1.description>使用魔法</TM_Mages_Approve.comps.1.description>
   <!--EN: magic use-->
-  <TM_Mages_Approve.comps.2.description>magic use</TM_Mages_Approve.comps.2.description>
+  <TM_Mages_Approve.comps.2.description>使用魔法</TM_Mages_Approve.comps.2.description>
   <!--EN: mages in colony-->
-  <TM_Mages_Approve.comps.3.description>mages in colony</TM_Mages_Approve.comps.3.description>
+  <TM_Mages_Approve.comps.3.description>法师在殖民地</TM_Mages_Approve.comps.3.description>
   <!--EN: performed sever magic-->
-  <TM_Mages_Approve.comps.5.description>performed sever magic</TM_Mages_Approve.comps.5.description>
+  <TM_Mages_Approve.comps.5.description>斩断与魔法的联系</TM_Mages_Approve.comps.5.description>
   <!--EN: Magic is a powerful and useful resource, we would be insane to discard its potential. Mages allow us to tap into this resource and can improve our quality of life. Because of their value to our colony, mages should be treated with respect similar to a noble. It is understood and tolerated if those with power hold those without in lesser esteem. We should focus our efforts and increase our knowledge of this mysterious power.-->
-  <TM_Mages_Approve.description>Magic is a powerful and useful resource, we would be insane to discard its potential. Mages allow us to tap into this resource and can improve our quality of life. Because of their value to our colony, mages should be treated with respect similar to a noble. It is understood and tolerated if those with power hold those without in lesser esteem. We should focus our efforts and increase our knowledge of this mysterious power.</TM_Mages_Approve.description>
+  <TM_Mages_Approve.description>魔法是一种强大而有用的资源，如果我们放弃它，就证明我们疯了。法师允许我们利用这一资源，提高我们的生活质量。由于法师对我们殖民地十分有用，他们应该像对待贵族一样受到尊重。我们应该集中精力，增加对这种神秘力量的认识。</TM_Mages_Approve.description>
   <!--EN: approve of magic-->
-  <TM_Mages_Approve.label>approve of magic</TM_Mages_Approve.label>
+  <TM_Mages_Approve.label>赞成魔法</TM_Mages_Approve.label>
   <!--EN: governed use of magic-->
-  <TM_Mages_Disapprove.comps.0.description>governed use of magic</TM_Mages_Disapprove.comps.0.description>
+  <TM_Mages_Disapprove.comps.0.description>控制魔法的使用</TM_Mages_Disapprove.comps.0.description>
   <!--EN: governed existence of mages-->
-  <TM_Mages_Disapprove.comps.1.description>governed existence of mages</TM_Mages_Disapprove.comps.1.description>
+  <TM_Mages_Disapprove.comps.1.description>控制魔法的存在</TM_Mages_Disapprove.comps.1.description>
   <!--EN: Reliance on an unknown and unpredictable source of power should be avoided. Science and technology are the future and their benefits can be enjoyed by all and contributed to by everyone. The colony should limit the number of free mages to 10% or less and only to the most vigilant of residents, and the number of spells should be limited to 5 a day. Mages should be made slaves to ensure they know their rightful place, and will always be viewed with minor disdain. Abiding by these rules will allow our colony to prosper and make everyone happier.-->
-  <TM_Mages_Disapprove.description>Reliance on an unknown and unpredictable source of power should be avoided. Science and technology are the future and their benefits can be enjoyed by all and contributed to by everyone. The colony should limit the number of free mages to 10% or less and only to the most vigilant of residents, and the number of spells should be limited to 5 a day. Mages should be made slaves to ensure they know their rightful place, and will always be viewed with minor disdain. Abiding by these rules will allow our colony to prosper and make everyone happier.</TM_Mages_Disapprove.description>
+  <TM_Mages_Disapprove.description>应避免依赖未知和不可预测的力量。科学技术才是未来，所有人都可以享受并为之做出贡献。殖民地应该将自由法师的数量限制在10%或更少，并且只有最值得信任的殖民者才能成为法师，还有每天使用的法术数量应该限制在5个。法师应该成为奴隶，以确保他们知道自己的合法地位。遵守这些规则将使我们的殖民地繁荣，使每个人都更幸福。</TM_Mages_Disapprove.description>
   <!--EN: disapprove of magic-->
-  <TM_Mages_Disapprove.label>disapprove of magic</TM_Mages_Disapprove.label>
+  <TM_Mages_Disapprove.label>不赞成魔法</TM_Mages_Disapprove.label>
   <!--EN: performed sever magic-->
-  <TM_Mages_Venerated.comps.11.description>performed sever magic</TM_Mages_Venerated.comps.11.description>
+  <TM_Mages_Venerated.comps.11.description>斩断与魔法的联系</TM_Mages_Venerated.comps.11.description>
   <!--EN: I killed a mage-->
-  <TM_Mages_Venerated.comps.2.description>I killed a mage</TM_Mages_Venerated.comps.2.description>
+  <TM_Mages_Venerated.comps.2.description>我杀死了一个法师</TM_Mages_Venerated.comps.2.description>
   <!--EN: We killed a mage-->
-  <TM_Mages_Venerated.comps.3.description>We killed a mage</TM_Mages_Venerated.comps.3.description>
+  <TM_Mages_Venerated.comps.3.description>我们杀死了一个法师</TM_Mages_Venerated.comps.3.description>
   <!--EN: used magic-->
-  <TM_Mages_Venerated.comps.5.description>used magic</TM_Mages_Venerated.comps.5.description>
+  <TM_Mages_Venerated.comps.5.description>目击魔法</TM_Mages_Venerated.comps.5.description>
   <!--EN: witness magic-->
-  <TM_Mages_Venerated.comps.6.description>witness magic</TM_Mages_Venerated.comps.6.description>
+  <TM_Mages_Venerated.comps.6.description>法师在殖民地</TM_Mages_Venerated.comps.6.description>
   <!--EN: mage in colony-->
-  <TM_Mages_Venerated.comps.7.description>mage in colony</TM_Mages_Venerated.comps.7.description>
+  <TM_Mages_Venerated.comps.7.description>法师囚犯</TM_Mages_Venerated.comps.7.description>
   <!--EN: mage prisoner-->
-  <TM_Mages_Venerated.comps.8.description>mage prisoner</TM_Mages_Venerated.comps.8.description>
+  <TM_Mages_Venerated.comps.8.description>法师奴隶</TM_Mages_Venerated.comps.8.description>
   <!--EN: mage slave-->
-  <TM_Mages_Venerated.comps.9.description>mage slave</TM_Mages_Venerated.comps.9.description>
+  <TM_Mages_Venerated.comps.9.description>法师奴隶</TM_Mages_Venerated.comps.9.description>
   <!--EN: Magic is wondrous, mystical, powerful and infinite. It is capable of performing mundane tasks or obliterating our enemies in the blink of an eye. It is a source of both creation and destruction and worthy of reverence. Those who can tap into this power are blessed - touched by divinity - and are to be exalted above all others. Killing an enemy mage is abhorrent and should only be done as a last resort. Mages are held in high regard, and those without magic are lesser beings. Magic reveals the path to our salvation! Its use upholds our cause, and we must resolve ourselves to spread the blessing of magic to all.-->
-  <TM_Mages_Venerated.description>Magic is wondrous, mystical, powerful and infinite. It is capable of performing mundane tasks or obliterating our enemies in the blink of an eye. It is a source of both creation and destruction and worthy of reverence. Those who can tap into this power are blessed - touched by divinity - and are to be exalted above all others. Killing an enemy mage is abhorrent and should only be done as a last resort. Mages are held in high regard, and those without magic are lesser beings. Magic reveals the path to our salvation! Its use upholds our cause, and we must resolve ourselves to spread the blessing of magic to all.</TM_Mages_Venerated.description>
+  <TM_Mages_Venerated.description>魔法是奇妙的、神秘的、强大的和无限的。它能够执行平凡的任务，或者在眨眼之间消灭我们的敌人。它是创造和毁灭的源泉，值得被尊敬。那些能够利用这种力量的人是有福的——被神所感动——并且他们的地位将被提升到高于其他人。杀死敌对法师是令人憎恶的，只能作为最后的手段。魔法揭示了拯救我们的道路！使用它使我们万世不竭，我们必须下定决心将魔法的祝福传播给所有人。</TM_Mages_Venerated.description>
   <!--EN: venerate magic-->
-  <TM_Mages_Venerated.label>venerate magic</TM_Mages_Venerated.label>
+  <TM_Mages_Venerated.label>崇敬魔法</TM_Mages_Venerated.label>
   <!--EN: used magic-->
-  <TM_MagicUse_Abhorrent_Social.stages.0.label>used magic</TM_MagicUse_Abhorrent_Social.stages.0.label>
+  <TM_MagicUse_Abhorrent_Social.stages.0.label>魔法使用</TM_MagicUse_Abhorrent_Social.stages.0.label>
   <!--EN: magical energy is rushing through me, I feel like I could do anything!-->
-  <TM_MagicUse_Approve_Mood.stages.0.description>magical energy is rushing through me, I feel like I could do anything!</TM_MagicUse_Approve_Mood.stages.0.description>
+  <TM_MagicUse_Approve_Mood.stages.0.description>神奇的能量正冲过我，我觉得我可以做任何事情！</TM_MagicUse_Approve_Mood.stages.0.description>
   <!--EN: magic rush-->
-  <TM_MagicUse_Approve_Mood.stages.0.label>magic rush</TM_MagicUse_Approve_Mood.stages.0.label>
+  <TM_MagicUse_Approve_Mood.stages.0.label>魔法冲击</TM_MagicUse_Approve_Mood.stages.0.label>
   <!--EN: I used magic and it felt great.-->
-  <TM_MagicUse_Approve_Mood.stages.1.description>I used magic and it felt great.</TM_MagicUse_Approve_Mood.stages.1.description>
+  <TM_MagicUse_Approve_Mood.stages.1.description>我使用了魔术，感觉很棒。</TM_MagicUse_Approve_Mood.stages.1.description>
   <!--EN: magic use-->
-  <TM_MagicUse_Approve_Mood.stages.1.label>magic use</TM_MagicUse_Approve_Mood.stages.1.label>
+  <TM_MagicUse_Approve_Mood.stages.1.label>魔法使用</TM_MagicUse_Approve_Mood.stages.1.label>
   <!--EN: I haven't used any magic recently; I feel out of touch with my power.-->
-  <TM_MagicUse_Approve_Mood.stages.2.description>I haven&amp;apos;t used any magic recently; I feel out of touch with my power.</TM_MagicUse_Approve_Mood.stages.2.description>
+  <TM_MagicUse_Approve_Mood.stages.2.description>我最近没有使用任何魔术。我对自己的力量感到失去联系。</TM_MagicUse_Approve_Mood.stages.2.description>
   <!--EN: magic deprevation-->
-  <TM_MagicUse_Approve_Mood.stages.2.label>magic deprevation</TM_MagicUse_Approve_Mood.stages.2.label>
+  <TM_MagicUse_Approve_Mood.stages.2.label>魔术剥夺</TM_MagicUse_Approve_Mood.stages.2.label>
   <!--EN: We're successfully limiting the use of magic.-->
-  <TM_MagicUse_Disapprove_Mood.stages.0.description>We&amp;apos;re successfully limiting the use of magic.</TM_MagicUse_Disapprove_Mood.stages.0.description>
+  <TM_MagicUse_Disapprove_Mood.stages.0.description>我们成功地限制了魔术的使用。</TM_MagicUse_Disapprove_Mood.stages.0.description>
   <!--EN: magic use restricted-->
-  <TM_MagicUse_Disapprove_Mood.stages.0.label>magic use restricted</TM_MagicUse_Disapprove_Mood.stages.0.label>
+  <TM_MagicUse_Disapprove_Mood.stages.0.label>魔法使用受到限制</TM_MagicUse_Disapprove_Mood.stages.0.label>
   <!--EN: Too much magic is being used, this is not good for the colony.-->
-  <TM_MagicUse_Disapprove_Mood.stages.1.description>Too much magic is being used, this is not good for the colony.</TM_MagicUse_Disapprove_Mood.stages.1.description>
+  <TM_MagicUse_Disapprove_Mood.stages.1.description>使用了太多的魔法，这对殖民地不利。</TM_MagicUse_Disapprove_Mood.stages.1.description>
   <!--EN: too much magic-->
-  <TM_MagicUse_Disapprove_Mood.stages.1.label>too much magic</TM_MagicUse_Disapprove_Mood.stages.1.label>
+  <TM_MagicUse_Disapprove_Mood.stages.1.label>太多的魔法</TM_MagicUse_Disapprove_Mood.stages.1.label>
   <!--EN: Way too much magic is being used!-->
-  <TM_MagicUse_Disapprove_Mood.stages.2.description>Way too much magic is being used!</TM_MagicUse_Disapprove_Mood.stages.2.description>
+  <TM_MagicUse_Disapprove_Mood.stages.2.description>使用太多的魔术了！</TM_MagicUse_Disapprove_Mood.stages.2.description>
   <!--EN: excessive magic use-->
-  <TM_MagicUse_Disapprove_Mood.stages.2.label>excessive magic use</TM_MagicUse_Disapprove_Mood.stages.2.label>
+  <TM_MagicUse_Disapprove_Mood.stages.2.label>过度使用魔术</TM_MagicUse_Disapprove_Mood.stages.2.label>
   <!--EN: Magic is utterly dominating the environment; our ideoligion is a sham.-->
-  <TM_MagicUse_Disapprove_Mood.stages.3.description>Magic is utterly dominating the environment; our ideoligion is a sham.</TM_MagicUse_Disapprove_Mood.stages.3.description>
+  <TM_MagicUse_Disapprove_Mood.stages.3.description>魔术完全主导着环境。我们的思想是假的。</TM_MagicUse_Disapprove_Mood.stages.3.description>
   <!--EN: magic dominance-->
-  <TM_MagicUse_Disapprove_Mood.stages.3.label>magic dominance</TM_MagicUse_Disapprove_Mood.stages.3.label>
+  <TM_MagicUse_Disapprove_Mood.stages.3.label>魔术主导地位</TM_MagicUse_Disapprove_Mood.stages.3.label>
   <!--EN: Magic was used in our colony - what a disgusting, filthy act.-->
-  <TM_MagicUse_Know_Abhorrent_Mood.stages.0.description>Magic was used in our colony - what a disgusting, filthy act.</TM_MagicUse_Know_Abhorrent_Mood.stages.0.description>
+  <TM_MagicUse_Know_Abhorrent_Mood.stages.0.description>魔术在我们的殖民地中使用了 - 这是一种令人恶心的肮脏行为。</TM_MagicUse_Know_Abhorrent_Mood.stages.0.description>
   <!--EN: we used magic-->
-  <TM_MagicUse_Know_Abhorrent_Mood.stages.0.label>we used magic</TM_MagicUse_Know_Abhorrent_Mood.stages.0.label>
+  <TM_MagicUse_Know_Abhorrent_Mood.stages.0.label>我们使用了魔法</TM_MagicUse_Know_Abhorrent_Mood.stages.0.label>
   <!--EN: I'm surrounded by powerful magic - our colony can surely withstand any challenge.-->
-  <TM_MagicUse_Know_Approve_Mood.stages.0.description>I&amp;apos;m surrounded by powerful magic - our colony can surely withstand any challenge.</TM_MagicUse_Know_Approve_Mood.stages.0.description>
+  <TM_MagicUse_Know_Approve_Mood.stages.0.description>我被强大的魔术所包围-我们的殖民地肯定可以承受任何挑战。</TM_MagicUse_Know_Approve_Mood.stages.0.description>
   <!--EN: magic abundance-->
-  <TM_MagicUse_Know_Approve_Mood.stages.0.label>magic abundance</TM_MagicUse_Know_Approve_Mood.stages.0.label>
+  <TM_MagicUse_Know_Approve_Mood.stages.0.label>魔法丰富</TM_MagicUse_Know_Approve_Mood.stages.0.label>
   <!--EN: I saw some magic and it was amazing!-->
-  <TM_MagicUse_Know_Approve_Mood.stages.1.description>I saw some magic and it was amazing!</TM_MagicUse_Know_Approve_Mood.stages.1.description>
+  <TM_MagicUse_Know_Approve_Mood.stages.1.description>我看到了一些魔术，真是太神奇了！</TM_MagicUse_Know_Approve_Mood.stages.1.description>
   <!--EN: magic use-->
-  <TM_MagicUse_Know_Approve_Mood.stages.1.label>magic use</TM_MagicUse_Know_Approve_Mood.stages.1.label>
+  <TM_MagicUse_Know_Approve_Mood.stages.1.label>魔法使用</TM_MagicUse_Know_Approve_Mood.stages.1.label>
   <!--EN: I haven't seen any magic recently; are my hopes misplaced?-->
-  <TM_MagicUse_Know_Approve_Mood.stages.2.description>I haven&amp;apos;t seen any magic recently; are my hopes misplaced?</TM_MagicUse_Know_Approve_Mood.stages.2.description>
+  <TM_MagicUse_Know_Approve_Mood.stages.2.description>我最近没有看到任何魔术。我的希望放错了吗？</TM_MagicUse_Know_Approve_Mood.stages.2.description>
   <!--EN: magic absence-->
-  <TM_MagicUse_Know_Approve_Mood.stages.2.label>magic absence</TM_MagicUse_Know_Approve_Mood.stages.2.label>
+  <TM_MagicUse_Know_Approve_Mood.stages.2.label>没用魔法</TM_MagicUse_Know_Approve_Mood.stages.2.label>
   <!--EN: I'm in awe and terror by the power of magic!-->
-  <TM_MagicUse_Know_Venerated_Mood.stages.0.description>I&amp;apos;m in awe and terror by the power of magic!</TM_MagicUse_Know_Venerated_Mood.stages.0.description>
+  <TM_MagicUse_Know_Venerated_Mood.stages.0.description>我对魔术的力量感到敬畏和恐惧！</TM_MagicUse_Know_Venerated_Mood.stages.0.description>
   <!--EN: magic abundance-->
-  <TM_MagicUse_Know_Venerated_Mood.stages.0.label>magic abundance</TM_MagicUse_Know_Venerated_Mood.stages.0.label>
+  <TM_MagicUse_Know_Venerated_Mood.stages.0.label>魔术丰富</TM_MagicUse_Know_Venerated_Mood.stages.0.label>
   <!--EN: I witnessed glorious magic!-->
-  <TM_MagicUse_Know_Venerated_Mood.stages.1.description>I witnessed glorious magic!</TM_MagicUse_Know_Venerated_Mood.stages.1.description>
+  <TM_MagicUse_Know_Venerated_Mood.stages.1.description>我目睹了光荣的魔法！</TM_MagicUse_Know_Venerated_Mood.stages.1.description>
   <!--EN: magic use-->
-  <TM_MagicUse_Know_Venerated_Mood.stages.1.label>magic use</TM_MagicUse_Know_Venerated_Mood.stages.1.label>
+  <TM_MagicUse_Know_Venerated_Mood.stages.1.label>魔术使用</TM_MagicUse_Know_Venerated_Mood.stages.1.label>
   <!--EN: I haven't seen any magic recently; its absence leaves me hollow.-->
-  <TM_MagicUse_Know_Venerated_Mood.stages.2.description>I haven&amp;apos;t seen any magic recently; its absence leaves me hollow.</TM_MagicUse_Know_Venerated_Mood.stages.2.description>
+  <TM_MagicUse_Know_Venerated_Mood.stages.2.description>我最近没有看到任何魔术。它的缺席使我空洞。</TM_MagicUse_Know_Venerated_Mood.stages.2.description>
   <!--EN: magic absence-->
-  <TM_MagicUse_Know_Venerated_Mood.stages.2.label>magic absence</TM_MagicUse_Know_Venerated_Mood.stages.2.label>
+  <TM_MagicUse_Know_Venerated_Mood.stages.2.label>神奇的缺席</TM_MagicUse_Know_Venerated_Mood.stages.2.label>
   <!--EN: magical energy is rushing through me, I feel like I could do anything!-->
-  <TM_MagicUse_Venerated_Mood.stages.0.description>magical energy is rushing through me, I feel like I could do anything!</TM_MagicUse_Venerated_Mood.stages.0.description>
+  <TM_MagicUse_Venerated_Mood.stages.0.description>神奇的能量正在奔波我，我觉得我可以做任何事情！</TM_MagicUse_Venerated_Mood.stages.0.description>
   <!--EN: magic rush-->
-  <TM_MagicUse_Venerated_Mood.stages.0.label>magic rush</TM_MagicUse_Venerated_Mood.stages.0.label>
+  <TM_MagicUse_Venerated_Mood.stages.0.label>魔法冲击</TM_MagicUse_Venerated_Mood.stages.0.label>
   <!--EN: I used magic; it's a core part of my being and reaffirms confidence in my superiority.-->
-  <TM_MagicUse_Venerated_Mood.stages.1.description>I used magic; it&amp;apos;s a core part of my being and reaffirms confidence in my superiority.</TM_MagicUse_Venerated_Mood.stages.1.description>
+  <TM_MagicUse_Venerated_Mood.stages.1.description>我使用魔法；这是我存在的核心部分，并重申对我的优越性的信心。</TM_MagicUse_Venerated_Mood.stages.1.description>
   <!--EN: magic use-->
-  <TM_MagicUse_Venerated_Mood.stages.1.label>magic use</TM_MagicUse_Venerated_Mood.stages.1.label>
+  <TM_MagicUse_Venerated_Mood.stages.1.label>魔法使用</TM_MagicUse_Venerated_Mood.stages.1.label>
   <!--EN: I haven't used any magic recently; I feel out of touch with my power.-->
-  <TM_MagicUse_Venerated_Mood.stages.2.description>I haven&amp;apos;t used any magic recently; I feel out of touch with my power.</TM_MagicUse_Venerated_Mood.stages.2.description>
+  <TM_MagicUse_Venerated_Mood.stages.2.description>我最近没有使用任何魔法；我感觉与我的力量失去联系。</TM_MagicUse_Venerated_Mood.stages.2.description>
   <!--EN: magic deprevation-->
-  <TM_MagicUse_Venerated_Mood.stages.2.label>magic deprevation</TM_MagicUse_Venerated_Mood.stages.2.label>
+  <TM_MagicUse_Venerated_Mood.stages.2.label>魔法剥夺</TM_MagicUse_Venerated_Mood.stages.2.label>
   <!--EN: used magic-->
-  <TM_MagicUse_Venerated_Social.stages.0.label>used magic</TM_MagicUse_Venerated_Social.stages.0.label>
+  <TM_MagicUse_Venerated_Social.stages.0.label>魔法使用</TM_MagicUse_Venerated_Social.stages.0.label>
   <!--EN: barbaric ritual-->
-  <TM_PerformedSeverenceRitual_Social.stages.0.label>barbaric ritual</TM_PerformedSeverenceRitual_Social.stages.0.label>
+  <TM_PerformedSeverenceRitual_Social.stages.0.label>野蛮仪式</TM_PerformedSeverenceRitual_Social.stages.0.label>
   <!--EN: villainous ritual-->
-  <TM_PerformedSeverenceRitual_Social.stages.1.label>villainous ritual</TM_PerformedSeverenceRitual_Social.stages.1.label>
+  <TM_PerformedSeverenceRitual_Social.stages.1.label>恶棍仪式</TM_PerformedSeverenceRitual_Social.stages.1.label>
   <!--EN: A voidseeker will sever magic from a target. The audience will watch as the voidseeker gives a unification speech, severs the magic from a mage, and says some closing words. The target may attempt one last retaliation spell if the ritual is poorly performed. If successful, the target will be free from magic.-->
-  <TM_SeverenceRitual.description>A voidseeker will sever magic from a target. The audience will watch as the voidseeker gives a unification speech, severs the magic from a mage, and says some closing words. The target may attempt one last retaliation spell if the ritual is poorly performed. If successful, the target will be free from magic.</TM_SeverenceRitual.description>
+  <TM_SeverenceRitual.description>寻虚者会斩断目标与魔法的联系。观众将观看寻虚者的统一演讲，从法师那里斩断魔法，之后说出一些结束语。如果仪式执行不当，目标可能会尝试最后的报复法术。如果成功，目标将从魔法中解放出来。</TM_SeverenceRitual.description>
   <!--EN: sever magic-->
-  <TM_SeverenceRitual.label>sever magic</TM_SeverenceRitual.label>
+  <TM_SeverenceRitual.label>斩断与魔法的联系</TM_SeverenceRitual.label>
 </LanguageData>

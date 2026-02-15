@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: This person has become addicted to the chemicals and affects of mana potions and will suffer severe withdrawal symptoms if they don't continue consuming mana potions.-->
-  <Chemical_ManaPotion.description>This person has become addicted to the chemicals and affects of mana potions and will suffer severe withdrawal symptoms if they don&amp;apos;t continue consuming mana potions.</Chemical_ManaPotion.description>
+  <Chemical_ManaPotion.description>这个人开始沉迷于魔法药剂的影响，如果他不继续服用魔法药剂将会承受严重的戒断反应。</Chemical_ManaPotion.description>
   <!--EN: mana potion-->
-  <Chemical_ManaPotion.label>mana potion</Chemical_ManaPotion.label>
+  <Chemical_ManaPotion.label>魔法药剂成瘾</Chemical_ManaPotion.label>
   <!--EN: A magical supplement that allows arcane users to rapidly recover mana. Mana potions work by acting as a natural suppressant to the bodies mana absorption resistances \n\nUsers are warned, bypassing natural resistances can cause mental and sensory damage.-->
-  <ManaPotion.description>A magical supplement that allows arcane users to rapidly recover mana. Mana potions work by acting as a natural suppressant to the bodies mana absorption resistances \n\nUsers are warned, bypassing natural resistances can cause mental and sensory damage.</ManaPotion.description>
+  <ManaPotion.description>一种法力补充药剂，可以使法师迅速恢复法力.其原理为用一种天然的抑制剂用来解除身体对魔力的吸收限制 \n\n值得注意的是， 这种绕过身体自然防御机制的方法可能会对精神和感官造成伤害。</ManaPotion.description>
   <!--EN: Consume {0}-->
-  <ManaPotion.ingestible.ingestCommandString>Consume {0}</ManaPotion.ingestible.ingestCommandString>
+  <ManaPotion.ingestible.ingestCommandString>饮用 {0}</ManaPotion.ingestible.ingestCommandString>
   <!--EN: Consuming {0}.-->
-  <ManaPotion.ingestible.ingestReportString>Consuming {0}.</ManaPotion.ingestible.ingestReportString>
+  <ManaPotion.ingestible.ingestReportString>饮用{0}中。</ManaPotion.ingestible.ingestReportString>
   <!--EN: Mana Potion-->
-  <ManaPotion.label>Mana Potion</ManaPotion.label>
+  <ManaPotion.label>魔法药剂</ManaPotion.label>
   <!--EN: mana potion-->
-  <ManaPotion.label>mana potion</ManaPotion.label>
+  <ManaPotion.label>魔法药剂</ManaPotion.label>
   <!--EN: The urge to consume mana potions has developed into a need.-->
-  <ManaPotionAddiction.description>The urge to consume mana potions has developed into a need.</ManaPotionAddiction.description>
+  <ManaPotionAddiction.description>渴望魔法药剂</ManaPotionAddiction.description>
   <!--EN: mana potion addiction-->
-  <ManaPotionAddiction.label>mana potion addiction</ManaPotionAddiction.label>
+  <ManaPotionAddiction.label>魔法药剂成瘾</ManaPotionAddiction.label>
   <!--EN: withdrawal-->
-  <ManaPotionAddiction.stages.1.label>withdrawal</ManaPotionAddiction.stages.1.label>
+  <ManaPotionAddiction.stages.1.label>戒断</ManaPotionAddiction.stages.1.label>
   <!--EN: Consciousness is raised by consuming liquid mana.-->
-  <ManaPotionHigh.description>Consciousness is raised by consuming liquid mana.</ManaPotionHigh.description>
+  <ManaPotionHigh.description>通过消耗液体法力来提高意识。</ManaPotionHigh.description>
   <!--EN: arcane high-->
-  <ManaPotionHigh.label>arcane high</ManaPotionHigh.label>
+  <ManaPotionHigh.label>奥术沉醉</ManaPotionHigh.label>
   <!--EN: This power... it's overwhelming. I feel the power of the cosmos at my fingertips, but it's turning my bones to ash.-->
-  <ManaPotionHigh.stages.0.description>This power... it&amp;apos;s overwhelming. I feel the power of the cosmos at my fingertips, but it&amp;apos;s turning my bones to ash.</ManaPotionHigh.stages.0.description>
+  <ManaPotionHigh.stages.0.description>这种力量....太强大了！ 我感觉到整个宇宙的力量都汇聚在我的指尖, 我整个身体都燃烧了起来！</ManaPotionHigh.stages.0.description>
   <!--EN: mana surge-->
-  <ManaPotionHigh.stages.0.label>mana surge</ManaPotionHigh.stages.0.label>
+  <ManaPotionHigh.stages.0.label>法力涌动</ManaPotionHigh.stages.0.label>
   <!--EN: Natural adjustment to normalize the effects of consuming liquid mana.-->
-  <ManaPotionTolerance.description>Natural adjustment to normalize the effects of consuming liquid mana.</ManaPotionTolerance.description>
+  <ManaPotionTolerance.description>使食用魔法药剂的效果正常化。</ManaPotionTolerance.description>
   <!--EN: mana potion tolerance-->
-  <ManaPotionTolerance.label>mana potion tolerance</ManaPotionTolerance.label>
+  <ManaPotionTolerance.label>魔法药剂耐受</ManaPotionTolerance.label>
   <!--EN: Ugh... everything is a blur. I can't seem to focus or control my body, I feel separated from reality. I need to feel mana flowing into my soul.-->
-  <ManaPotionWithdrawal.stages.1.description>Ugh... everything is a blur. I can&amp;apos;t seem to focus or control my body, I feel separated from reality. I need to feel mana flowing into my soul.</ManaPotionWithdrawal.stages.1.description>
+  <ManaPotionWithdrawal.stages.1.description>呃……一切都很模糊。我似乎无法集中精神或控制身体，感觉脱离了现实。我需要感受魔力流入我的灵魂。</ManaPotionWithdrawal.stages.1.description>
   <!--EN: mana withdrawal-->
-  <ManaPotionWithdrawal.stages.1.label>mana withdrawal</ManaPotionWithdrawal.stages.1.label>
+  <ManaPotionWithdrawal.stages.1.label>魔力戒断</ManaPotionWithdrawal.stages.1.label>
 </LanguageData>

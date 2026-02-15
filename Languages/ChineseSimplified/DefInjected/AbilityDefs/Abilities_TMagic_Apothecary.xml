@@ -1,93 +1,73 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Fire dousing flask-->
-  <Projectile_FireDousingFlask.label>Fire dousing flask</Projectile_FireDousingFlask.label>
+  <Projectile_FireDousingFlask.label>灭火瓶</Projectile_FireDousingFlask.label>
   <!--EN: Fire dousing flask-->
-  <Projectile_FireDousingFlask_I.label>Fire dousing flask</Projectile_FireDousingFlask_I.label>
+  <Projectile_FireDousingFlask_I.label>灭火瓶</Projectile_FireDousingFlask_I.label>
   <!--EN: Fire dousing flask-->
-  <Projectile_FireDousingFlask_II.label>Fire dousing flask</Projectile_FireDousingFlask_II.label>
+  <Projectile_FireDousingFlask_II.label>灭火瓶</Projectile_FireDousingFlask_II.label>
   <!--EN: Fire dousing flask-->
-  <Projectile_FireDousingFlask_III.label>Fire dousing flask</Projectile_FireDousingFlask_III.label>
+  <Projectile_FireDousingFlask_III.label>灭火瓶</Projectile_FireDousingFlask_III.label>
   <!--EN: Poison flask-->
-  <Projectile_PoisonFlask.label>Poison flask</Projectile_PoisonFlask.label>
+  <Projectile_PoisonFlask.label>毒瓶</Projectile_PoisonFlask.label>
   <!--EN: Herbal elixirs are created through a mixture of potent herbs, herbal extracts, and other organic matter. The potency of the herbal elixir comes from the immediate reaction of ingredients when they are combined. The chemical reaction has a short half-life, which make it impractical and uneconomical for mass production and distribution. When immediately consumed, the elixir's potent health benefits are powerful enough to bring a pawn back from the brink of death. The elixir's effects last for nearly a day.-->
-  <TM_Elixir.description>Herbal elixirs are created through a mixture of potent herbs, herbal extracts, and other organic matter. The potency of the herbal elixir comes from the immediate reaction of ingredients when they are combined. The chemical reaction has a short half-life, which make it impractical and uneconomical for mass production and distribution. When immediately consumed, the elixir&amp;apos;s potent health benefits are powerful enough to bring a pawn back from the brink of death. The elixir&amp;apos;s effects last for nearly a day.</TM_Elixir.description>
+  <TM_Elixir.description>回生丹是由强效草药、草药提取物和其他有机物质混合而成的。 回生丹的效力来自于成分组合时的即时反应。 它的化学药效的半衰期很短，因此不适合大规模生产。 当被食用时，回生丹的强大健康效益足以将一名将死之人挽救回来。 回生丹的药效可以持续将近一天。</TM_Elixir.description>
   <!--EN: Elixir-->
-  <TM_Elixir.label>Elixir</TM_Elixir.label>
+  <TM_Elixir.label>回生丹</TM_Elixir.label>
   <!--EN: Throw a canister containing fire suppression liquid that quickly smothers flames.
 		
 Range: 20
 Cooldown: 30
 Radius: 6-->
-  <TM_FireSuppressionFlask.description>Throw a canister containing fire suppression liquid that quickly smothers flames.
-		
-Range: 20
-Cooldown: 30
-Radius: 6</TM_FireSuppressionFlask.description>
+  <TM_FireSuppressionFlask.description>投掷装有灭火液体的罐子，可以迅速扑灭火焰。\n		\n范围: 20\n冷却: 30\n灭火半径: 6</TM_FireSuppressionFlask.description>
   <!--EN: Fire Suppression Flask-->
-  <TM_FireSuppressionFlask.label>Fire Suppression Flask</TM_FireSuppressionFlask.label>
+  <TM_FireSuppressionFlask.label>灭火瓶（I）</TM_FireSuppressionFlask.label>
   <!--EN: Throw a canister containing fire suppression liquid that quickly smothers flames.
 		
 Range: 25
 Cooldown: 20
 Radius: 8-->
-  <TM_FireSuppressionFlask_I.description>Throw a canister containing fire suppression liquid that quickly smothers flames.
-		
-Range: 25
-Cooldown: 20
-Radius: 8</TM_FireSuppressionFlask_I.description>
+  <TM_FireSuppressionFlask_I.description>投掷装有灭火液体的罐子，可以迅速扑灭火焰。\n		\n范围: 25\n冷却: 20\n灭火半径: 8</TM_FireSuppressionFlask_I.description>
   <!--EN: Fire Suppression Flask-->
-  <TM_FireSuppressionFlask_I.label>Fire Suppression Flask</TM_FireSuppressionFlask_I.label>
+  <TM_FireSuppressionFlask_I.label>灭火瓶（II）</TM_FireSuppressionFlask_I.label>
   <!--EN: Throw a canister containing fire suppression liquid that quickly smothers flames.
 		
 Range: 30
 Cooldown: 15
 Radius: 10-->
-  <TM_FireSuppressionFlask_II.description>Throw a canister containing fire suppression liquid that quickly smothers flames.
-		
-Range: 30
-Cooldown: 15
-Radius: 10</TM_FireSuppressionFlask_II.description>
+  <TM_FireSuppressionFlask_II.description>投掷装有灭火液体的罐子，可以迅速扑灭火焰。\n		\n范围: 30\n冷却: 15\n灭火半径: 10</TM_FireSuppressionFlask_II.description>
   <!--EN: Fire Suppression Flask-->
-  <TM_FireSuppressionFlask_II.label>Fire Suppression Flask</TM_FireSuppressionFlask_II.label>
+  <TM_FireSuppressionFlask_II.label>灭火瓶（III）</TM_FireSuppressionFlask_II.label>
   <!--EN: Throw a canister containing fire suppression liquid that quickly smothers flames.
 		
 Range: 34
 Cooldown: 10
 Radius: 11-->
-  <TM_FireSuppressionFlask_III.description>Throw a canister containing fire suppression liquid that quickly smothers flames.
-		
-Range: 34
-Cooldown: 10
-Radius: 11</TM_FireSuppressionFlask_III.description>
+  <TM_FireSuppressionFlask_III.description>投掷装有灭火液体的罐子，可以迅速扑灭火焰。\n		\n范围: 34\nCooldown: 10\n灭火半径: 11</TM_FireSuppressionFlask_III.description>
   <!--EN: Fire Suppression Flask-->
-  <TM_FireSuppressionFlask_III.label>Fire Suppression Flask</TM_FireSuppressionFlask_III.label>
+  <TM_FireSuppressionFlask_III.label>灭火瓶（IV）</TM_FireSuppressionFlask_III.label>
   <!--EN: Administers one of the most hazardous drugs known in the region, possibly second only to luciferum. Bliss puts the user into a state of bliss, able to mask nearly all emotions and pain. A creative mixture of local plant extract and ingredients can be used to create this drug. True to the saying 'ignorance is bliss, this drug will cause the user to slowly lose their learned skills and skill gain while under the influence of this drug is heavily suppressed.
 		
 *Ability may autocast when a nearby pawn is is below 5% mood.-->
-  <TM_HerbalBliss.description>Administers one of the most hazardous drugs known in the region, possibly second only to luciferum. Bliss puts the user into a state of bliss, able to mask nearly all emotions and pain. A creative mixture of local plant extract and ingredients can be used to create this drug. True to the saying &amp;apos;ignorance is bliss, this drug will cause the user to slowly lose their learned skills and skill gain while under the influence of this drug is heavily suppressed.
-		
-*Ability may autocast when a nearby pawn is is below 5% mood.</TM_HerbalBliss.description>
+  <TM_HerbalBliss.description>一种创造性的混合药剂。它是该地区已知的最危险的药物之一，可能仅次于荧光素。顾名思义，“极乐”让使用者处于极乐状态，能够掩盖几乎所有的情绪和痛苦。 正如俗话所说的“无知是福”，这种药物会导致使用者在受到严重抑制使用者的学习能力，慢慢失去他们所学的技能和知识。\n		\n当附近有人的心情低于5%时，技能会自动施放。</TM_HerbalBliss.description>
   <!--EN: Bliss-->
-  <TM_HerbalBliss.label>Bliss</TM_HerbalBliss.label>
+  <TM_HerbalBliss.label>“极乐”</TM_HerbalBliss.label>
   <!--EN: Administers a concoction that helps the consumer open themselves to the arcane. Mana regeneration is increased up to 300% and psychic sensitivity is increased up to 50%. Effects decrease mental stability. Clarity last several days but lose potency over time. Use of this drug can be risky, even fatal to a mage, when combined with a mana drain event - use with caution.
 		
 *Ability may autocast when a nearby mage is below 20 mana.-->
-  <TM_HerbalClarity.description>Administers a concoction that helps the consumer open themselves to the arcane. Mana regeneration is increased up to 300% and psychic sensitivity is increased up to 50%. Effects decrease mental stability. Clarity last several days but lose potency over time. Use of this drug can be risky, even fatal to a mage, when combined with a mana drain event - use with caution.
-		
-*Ability may autocast when a nearby mage is below 20 mana.</TM_HerbalClarity.description>
+  <TM_HerbalClarity.description>调配一种混合药物，帮助食用者挖掘自身的秘能。 法力回复提高到300%，心灵敏感度提高到50%，同时影响食用者的心理。清醒剂可以持续几天，但随着时间的推移会逐渐失去效力。 使用这种药物是存在风险的，甚至对法师而言可能致命。当发生魔法流失事件时请谨慎使用。\n		\n当附近法师的法力值低于20时，技能会自动施放。</TM_HerbalClarity.description>
   <!--EN: Clarity-->
-  <TM_HerbalClarity.label>Clarity</TM_HerbalClarity.label>
+  <TM_HerbalClarity.label>清醒剂</TM_HerbalClarity.label>
   <!--EN: Training in herbalism allows the apothecary to identify and efficiently harvest the ingredients for their concoctions.-->
-  <TM_Herbalist.description>Training in herbalism allows the apothecary to identify and efficiently harvest the ingredients for their concoctions.</TM_Herbalist.description>
+  <TM_Herbalist.description>草药学方面的培训可以让药剂师鉴别并有效地获取调配物的成分。</TM_Herbalist.description>
   <!--EN: Herbalist-->
-  <TM_Herbalist.label>Herbalist</TM_Herbalist.label>
+  <TM_Herbalist.label>草药学</TM_Herbalist.label>
   <!--EN: Throw a noxious concoction that bursts into a thick cloud of poisonous gas. The poison gas will remain in proximity for a small time before dispersing. Any person that inhales the fumes will suffer corrosive damage to their throat and lungs.-->
-  <TM_PoisonFlask.description>Throw a noxious concoction that bursts into a thick cloud of poisonous gas. The poison gas will remain in proximity for a small time before dispersing. Any person that inhales the fumes will suffer corrosive damage to their throat and lungs.</TM_PoisonFlask.description>
+  <TM_PoisonFlask.description>投掷一种有毒的混合物，它会爆炸成一团厚厚的有毒气体。 毒气会在附近停留一段时间然后消散。 任何人吸入这种烟雾都会对喉咙和肺造成腐蚀性损害。</TM_PoisonFlask.description>
   <!--EN: Poison Flask-->
-  <TM_PoisonFlask.label>Poison Flask</TM_PoisonFlask.label>
+  <TM_PoisonFlask.label>毒剂瓶</TM_PoisonFlask.label>
   <!--EN: The apothecary's soothing balm can be applied to open wounds to fight infection, promote blood clotting, and reduce pain. Side effects may include hallucinations, a sense of euphoria, and loss of consciousness.-->
-  <TM_SoothingBalm.description>The apothecary&amp;apos;s soothing balm can be applied to open wounds to fight infection, promote blood clotting, and reduce pain. Side effects may include hallucinations, a sense of euphoria, and loss of consciousness.</TM_SoothingBalm.description>
+  <TM_SoothingBalm.description>这种药膏可以用来治疗伤口，防止感染，促进血液凝结，减少疼痛。 副作用可能包括幻觉、飘飘然感和意识的减少。</TM_SoothingBalm.description>
   <!--EN: Soothing Balm-->
-  <TM_SoothingBalm.label>Soothing Balm</TM_SoothingBalm.label>
+  <TM_SoothingBalm.label>舒缓药膏</TM_SoothingBalm.label>
 </LanguageData>

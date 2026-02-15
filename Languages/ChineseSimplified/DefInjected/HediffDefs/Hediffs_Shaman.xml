@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Increased movement while flying.-->
-  <TM_BirdflightHD.description>Increased movement while flying.</TM_BirdflightHD.description>
+  <TM_BirdflightHD.description>飞行时增加移动.</TM_BirdflightHD.description>
   <!--EN: flying-->
-  <TM_BirdflightHD.label>flying</TM_BirdflightHD.label>
+  <TM_BirdflightHD.label>飞行</TM_BirdflightHD.label>
   <!--EN: Insight gained from the spirit crow - enhances research speed and psychic sensitivity.-->
-  <TM_CrowInsightHD.description>Insight gained from the spirit crow - enhances research speed and psychic sensitivity.</TM_CrowInsightHD.description>
+  <TM_CrowInsightHD.description>从幽灵乌鸦获得的洞察力-提高研究速度和心灵敏感性。</TM_CrowInsightHD.description>
   <!--EN: Crows Insight-->
-  <TM_CrowInsightHD.label>Crows Insight</TM_CrowInsightHD.label>
+  <TM_CrowInsightHD.label>乌鸦洞察</TM_CrowInsightHD.label>
   <!--EN: I-->
   <TM_CrowInsightHD.stages.0.label>I</TM_CrowInsightHD.stages.0.label>
   <!--EN: II-->
@@ -17,9 +17,9 @@
   <!--EN: IV-->
   <TM_CrowInsightHD.stages.3.label>IV</TM_CrowInsightHD.stages.3.label>
   <!--EN: Consume all positive emotions as fuel for physical power, the spell will fade once all happiness is burned off. While under this curse, a pawn is cannot be staggered, has increased pain resistance, attack speed, and melee damage.-->
-  <TM_EnrageHD.description>Consume all positive emotions as fuel for physical power, the spell will fade once all happiness is burned off. While under this curse, a pawn is cannot be staggered, has increased pain resistance, attack speed, and melee damage.</TM_EnrageHD.description>
+  <TM_EnrageHD.description>把一个人变成一个几乎不可阻挡的狂暴怪物。愤怒会强化近战；远程武器将被丢弃.</TM_EnrageHD.description>
   <!--EN: Enrage-->
-  <TM_EnrageHD.label>Enrage</TM_EnrageHD.label>
+  <TM_EnrageHD.label>激怒</TM_EnrageHD.label>
   <!--EN: I-->
   <TM_EnrageHD.stages.0.label>I</TM_EnrageHD.stages.0.label>
   <!--EN: II-->
@@ -31,33 +31,33 @@
   <!--EN: V-->
   <TM_EnrageHD.stages.4.label>V</TM_EnrageHD.stages.4.label>
   <!--EN: Under the effects of a hex.-->
-  <TM_HexHD.description>Under the effects of a hex.</TM_HexHD.description>
+  <TM_HexHD.description>在妖术的影响下.</TM_HexHD.description>
   <!--EN: Hexed-->
-  <TM_HexHD.label>Hexed</TM_HexHD.label>
+  <TM_HexHD.label>邪咒</TM_HexHD.label>
   <!--EN: Cursed with dangerously bad luck.-->
-  <TM_Hex_CriticalFailHD.description>Cursed with dangerously bad luck.</TM_Hex_CriticalFailHD.description>
+  <TM_Hex_CriticalFailHD.description>被危险的厄运所诅咒。</TM_Hex_CriticalFailHD.description>
   <!--EN: Unlucky-->
-  <TM_Hex_CriticalFailHD.label>Unlucky</TM_Hex_CriticalFailHD.label>
+  <TM_Hex_CriticalFailHD.label>不幸</TM_Hex_CriticalFailHD.label>
   <!--EN: set-->
-  <TM_PainHD.comps.0.labelSolidTendedWell>set</TM_PainHD.comps.0.labelSolidTendedWell>
+  <TM_PainHD.comps.0.labelSolidTendedWell>已固定</TM_PainHD.comps.0.labelSolidTendedWell>
   <!--EN: bandaged-->
-  <TM_PainHD.comps.0.labelTendedWell>bandaged</TM_PainHD.comps.0.labelTendedWell>
+  <TM_PainHD.comps.0.labelTendedWell>已包扎</TM_PainHD.comps.0.labelTendedWell>
   <!--EN: sutured-->
-  <TM_PainHD.comps.0.labelTendedWellInner>sutured</TM_PainHD.comps.0.labelTendedWellInner>
+  <TM_PainHD.comps.0.labelTendedWellInner>已缝合</TM_PainHD.comps.0.labelTendedWellInner>
   <!--EN: withered-->
-  <TM_PainHD.comps.1.permanentLabel>withered</TM_PainHD.comps.1.permanentLabel>
+  <TM_PainHD.comps.1.permanentLabel>干枯</TM_PainHD.comps.1.permanentLabel>
   <!--EN: An injury cursed with extreme pain.-->
-  <TM_PainHD.description>An injury cursed with extreme pain.</TM_PainHD.description>
+  <TM_PainHD.description>因诅咒而受到极度疼痛的伤害。</TM_PainHD.description>
   <!--EN: withered away-->
-  <TM_PainHD.injuryProps.destroyedLabel>withered away</TM_PainHD.injuryProps.destroyedLabel>
+  <TM_PainHD.injuryProps.destroyedLabel>已幻灭</TM_PainHD.injuryProps.destroyedLabel>
   <!--EN: withered away-->
-  <TM_PainHD.injuryProps.destroyedOutLabel>withered away</TM_PainHD.injuryProps.destroyedOutLabel>
+  <TM_PainHD.injuryProps.destroyedOutLabel>已幻灭</TM_PainHD.injuryProps.destroyedOutLabel>
   <!--EN: Pain-->
-  <TM_PainHD.label>Pain</TM_PainHD.label>
+  <TM_PainHD.label>痛苦</TM_PainHD.label>
   <!--EN: Represents the bond this animal spirit shares with a shaman. Increases physical attributes and enhances healing.-->
-  <TM_SpiritBondHD.description>Represents the bond this animal spirit shares with a shaman. Increases physical attributes and enhances healing.</TM_SpiritBondHD.description>
+  <TM_SpiritBondHD.description>代表着这个动物灵魂与萨满签订的契约。增加物理属性，增强治疗效果。</TM_SpiritBondHD.description>
   <!--EN: Spirit Bond-->
-  <TM_SpiritBondHD.label>Spirit Bond</TM_SpiritBondHD.label>
+  <TM_SpiritBondHD.label>精神契约</TM_SpiritBondHD.label>
   <!--EN: I-->
   <TM_SpiritBondHD.stages.0.label>I</TM_SpiritBondHD.stages.0.label>
   <!--EN: II-->

@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: charging arcane object-->
-  <ChargeStructure.gerund>charging arcane object</ChargeStructure.gerund>
+  <ChargeStructure.gerund>魔法物品充能中</ChargeStructure.gerund>
   <!--EN: charge arcane object-->
-  <ChargeStructure.label>charge arcane object</ChargeStructure.label>
+  <ChargeStructure.label>魔法物品充能</ChargeStructure.label>
   <!--EN: charge arcane object-->
-  <ChargeStructure.verb>charge arcane object</ChargeStructure.verb>
+  <ChargeStructure.verb>魔法物品充能</ChargeStructure.verb>
   <!--EN: working magic-->
-  <DoBillsArcaneForge.gerund>working magic</DoBillsArcaneForge.gerund>
+  <DoBillsArcaneForge.gerund>锻造中</DoBillsArcaneForge.gerund>
   <!--EN: work magic-->
-  <DoBillsArcaneForge.label>work magic</DoBillsArcaneForge.label>
+  <DoBillsArcaneForge.label>在奥术熔炉完成清单</DoBillsArcaneForge.label>
   <!--EN: work magic-->
-  <DoBillsArcaneForge.verb>work magic</DoBillsArcaneForge.verb>
+  <DoBillsArcaneForge.verb>锻造</DoBillsArcaneForge.verb>
   <!--EN: gemcutting-->
-  <DoBillsGemcutting.gerund>gemcutting</DoBillsGemcutting.gerund>
+  <DoBillsGemcutting.gerund>宝石加工</DoBillsGemcutting.gerund>
   <!--EN: do bills at gemcutting table-->
-  <DoBillsGemcutting.label>do bills at gemcutting table</DoBillsGemcutting.label>
+  <DoBillsGemcutting.label>在附魔台完成清单</DoBillsGemcutting.label>
   <!--EN: craft-->
-  <DoBillsGemcutting.verb>craft</DoBillsGemcutting.verb>
+  <DoBillsGemcutting.verb>打造</DoBillsGemcutting.verb>
   <!--EN: working on golems-->
-  <DoBillsGolemBuilding.gerund>working on golems</DoBillsGolemBuilding.gerund>
+  <DoBillsGolemBuilding.gerund>正在傀儡上工作</DoBillsGolemBuilding.gerund>
   <!--EN: work on golem-->
-  <DoBillsGolemBuilding.label>work on golem</DoBillsGolemBuilding.label>
+  <DoBillsGolemBuilding.label>在傀儡上工作</DoBillsGolemBuilding.label>
   <!--EN: golem work-->
-  <DoBillsGolemBuilding.verb>golem work</DoBillsGolemBuilding.verb>
+  <DoBillsGolemBuilding.verb>傀儡工作</DoBillsGolemBuilding.verb>
   <!--EN: printing-->
-  <DoBillsPrintingPress.gerund>printing</DoBillsPrintingPress.gerund>
+  <DoBillsPrintingPress.gerund>刻绘中</DoBillsPrintingPress.gerund>
   <!--EN: do bills at printing table-->
-  <DoBillsPrintingPress.label>do bills at printing table</DoBillsPrintingPress.label>
+  <DoBillsPrintingPress.label>在刻绘台完成清单</DoBillsPrintingPress.label>
   <!--EN: craft-->
-  <DoBillsPrintingPress.verb>craft</DoBillsPrintingPress.verb>
+  <DoBillsPrintingPress.verb>打造</DoBillsPrintingPress.verb>
   <!--EN: motivating-->
-  <DoCommanderMotivate.gerund>motivating</DoCommanderMotivate.gerund>
+  <DoCommanderMotivate.gerund>激励</DoCommanderMotivate.gerund>
   <!--EN: motivating pawn-->
-  <DoCommanderMotivate.label>motivating pawn</DoCommanderMotivate.label>
+  <DoCommanderMotivate.label>激励殖民者</DoCommanderMotivate.label>
   <!--EN: motivate-->
-  <DoCommanderMotivate.verb>motivate</DoCommanderMotivate.verb>
+  <DoCommanderMotivate.verb>激励</DoCommanderMotivate.verb>
   <!--EN: entertaining-->
-  <DoEntertain.gerund>entertaining</DoEntertain.gerund>
+  <DoEntertain.gerund>招待中</DoEntertain.gerund>
   <!--EN: entertain colonist-->
-  <DoEntertain.label>entertain colonist</DoEntertain.label>
+  <DoEntertain.label>招待殖民者</DoEntertain.label>
   <!--EN: entertain-->
-  <DoEntertain.verb>entertain</DoEntertain.verb>
+  <DoEntertain.verb>招待</DoEntertain.verb>
 </LanguageData>

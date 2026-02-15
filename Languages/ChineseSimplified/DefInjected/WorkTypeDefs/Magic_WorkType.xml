@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: perform arcane and magic dependent tasks-->
-  <TM_Magic.description>perform arcane and magic dependent tasks</TM_Magic.description>
+  <TM_Magic.description>执行奥术和魔法相关任务</TM_Magic.description>
   <!--EN: magic manipulation-->
-  <TM_Magic.gerundLabel>magic manipulation</TM_Magic.gerundLabel>
+  <TM_Magic.gerundLabel>魔法操纵</TM_Magic.gerundLabel>
   <!--EN: Magic-->
-  <TM_Magic.labelShort>Magic</TM_Magic.labelShort>
+  <TM_Magic.labelShort>魔法</TM_Magic.labelShort>
   <!--EN: Magic-->
-  <TM_Magic.pawnLabel>Magic</TM_Magic.pawnLabel>
+  <TM_Magic.pawnLabel>魔法</TM_Magic.pawnLabel>
   <!--EN: Perform Magic-->
-  <TM_Magic.verb>Perform Magic</TM_Magic.verb>
+  <TM_Magic.verb>使用魔法</TM_Magic.verb>
 </LanguageData>

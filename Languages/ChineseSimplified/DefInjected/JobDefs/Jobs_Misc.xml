@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: preparing circle magic-->
-  <JobDriver_AssistMagicCircle.reportString>preparing circle magic</JobDriver_AssistMagicCircle.reportString>
+  <JobDriver_AssistMagicCircle.reportString>准备施展大型魔法</JobDriver_AssistMagicCircle.reportString>
   <!--EN: creating discord-->
-  <JobDriver_Discord.reportString>creating discord</JobDriver_Discord.reportString>
+  <JobDriver_Discord.reportString>演凑“纪声”</JobDriver_Discord.reportString>
   <!--EN: preparing attack-->
-  <JobDriver_DoFor.reportString>preparing attack</JobDriver_DoFor.reportString>
+  <JobDriver_DoFor.reportString>准备攻击</JobDriver_DoFor.reportString>
   <!--EN: doing magic bill at TargetA.-->
-  <JobDriver_DoMagicBill.reportString>doing magic bill at TargetA.</JobDriver_DoMagicBill.reportString>
+  <JobDriver_DoMagicBill.reportString>在TargetA处施展魔法.</JobDriver_DoMagicBill.reportString>
   <!--EN: entertaining-->
-  <JobDriver_Entertain.reportString>entertaining</JobDriver_Entertain.reportString>
+  <JobDriver_Entertain.reportString>款待</JobDriver_Entertain.reportString>
   <!--EN: doing magic job-->
-  <JobDriver_GotoAndCast.reportString>doing magic job</JobDriver_GotoAndCast.reportString>
+  <JobDriver_GotoAndCast.reportString>做魔法工作</JobDriver_GotoAndCast.reportString>
   <!--EN: placing lightning trap-->
-  <JobDriver_PlaceLightningTrap.reportString>placing lightning trap</JobDriver_PlaceLightningTrap.reportString>
+  <JobDriver_PlaceLightningTrap.reportString>放置闪电陷阱</JobDriver_PlaceLightningTrap.reportString>
   <!--EN: projecting psionic barrier-->
-  <JobDriver_PsionicBarrier.reportString>projecting psionic barrier</JobDriver_PsionicBarrier.reportString>
+  <JobDriver_PsionicBarrier.reportString>投射灵能屏障</JobDriver_PsionicBarrier.reportString>
   <!--EN: sleeping (lullaby)-->
-  <JobDriver_SleepNow.reportString>sleeping (lullaby)</JobDriver_SleepNow.reportString>
+  <JobDriver_SleepNow.reportString>睡眠 (催眠)</JobDriver_SleepNow.reportString>
   <!--EN: draining spirit-->
-  <JobDriver_SpiritDrain.reportString>draining spirit</JobDriver_SpiritDrain.reportString>
+  <JobDriver_SpiritDrain.reportString>摄取灵魂</JobDriver_SpiritDrain.reportString>
   <!--EN: marking sacrifice-->
-  <JobDriver_SummonDemon.reportString>marking sacrifice</JobDriver_SummonDemon.reportString>
+  <JobDriver_SummonDemon.reportString>进行献祭</JobDriver_SummonDemon.reportString>
   <!--EN: motivating pawn-->
-  <JobDriver_TM_Command.reportString>motivating pawn</JobDriver_TM_Command.reportString>
+  <JobDriver_TM_Command.reportString>激励殖民者</JobDriver_TM_Command.reportString>
   <!--EN: waiting at location-->
-  <JobDriver_TM_GotoAndWait.reportString>waiting at location</JobDriver_TM_GotoAndWait.reportString>
+  <JobDriver_TM_GotoAndWait.reportString>等待</JobDriver_TM_GotoAndWait.reportString>
   <!--EN: deep meditation-->
-  <JobDriver_TM_Meditate.reportString>deep meditation</JobDriver_TM_Meditate.reportString>
+  <JobDriver_TM_Meditate.reportString>冥想</JobDriver_TM_Meditate.reportString>
   <!--EN: training and mentoring-->
-  <JobDriver_TM_Teach.reportString>training and mentoring</JobDriver_TM_Teach.reportString>
+  <JobDriver_TM_Teach.reportString>培训指导</JobDriver_TM_Teach.reportString>
   <!--EN: placing poison trap-->
-  <PlacePoisonTrap.reportString>placing poison trap</PlacePoisonTrap.reportString>
+  <PlacePoisonTrap.reportString>放置毒素陷阱</PlacePoisonTrap.reportString>
 </LanguageData>

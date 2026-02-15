@@ -1,69 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: r_ritualName->[ritNoun] of [keyDeity]-->
-  <NamerRitualGifting.rulePack.rulesStrings.0>r_ritualName-&amp;gt;[ritNoun] of [keyDeity]</NamerRitualGifting.rulePack.rulesStrings.0>
+  <NamerRitualGifting.rulePack.rulesStrings.0>r_ritualName-&amp;gt;[keyDeity]的[ritNoun]</NamerRitualGifting.rulePack.rulesStrings.0>
   <!--EN: r_ritualName->[ritNoun] of [chosenTheme]-->
-  <NamerRitualGifting.rulePack.rulesStrings.1>r_ritualName-&amp;gt;[ritNoun] of [chosenTheme]</NamerRitualGifting.rulePack.rulesStrings.1>
+  <NamerRitualGifting.rulePack.rulesStrings.1>r_ritualName-&amp;gt;[chosenTheme]的[ritNoun]</NamerRitualGifting.rulePack.rulesStrings.1>
   <!--EN: ritNoun->melding-->
-  <NamerRitualGifting.rulePack.rulesStrings.10>ritNoun-&amp;gt;melding</NamerRitualGifting.rulePack.rulesStrings.10>
+  <NamerRitualGifting.rulePack.rulesStrings.10>ritNoun-&amp;gt;融合</NamerRitualGifting.rulePack.rulesStrings.10>
   <!--EN: ritNoun->calling-->
-  <NamerRitualGifting.rulePack.rulesStrings.11>ritNoun-&amp;gt;calling</NamerRitualGifting.rulePack.rulesStrings.11>
+  <NamerRitualGifting.rulePack.rulesStrings.11>ritNoun-&amp;gt;调用</NamerRitualGifting.rulePack.rulesStrings.11>
   <!--EN: ritNoun->clarity-->
-  <NamerRitualGifting.rulePack.rulesStrings.12>ritNoun-&amp;gt;clarity</NamerRitualGifting.rulePack.rulesStrings.12>
+  <NamerRitualGifting.rulePack.rulesStrings.12>ritNoun-&amp;gt;清晰</NamerRitualGifting.rulePack.rulesStrings.12>
   <!--EN: ritNoun->ascendence-->
-  <NamerRitualGifting.rulePack.rulesStrings.13>ritNoun-&amp;gt;ascendence</NamerRitualGifting.rulePack.rulesStrings.13>
+  <NamerRitualGifting.rulePack.rulesStrings.13>ritNoun-&amp;gt;上升</NamerRitualGifting.rulePack.rulesStrings.13>
   <!--EN: ritNoun->awakening-->
-  <NamerRitualGifting.rulePack.rulesStrings.14>ritNoun-&amp;gt;awakening</NamerRitualGifting.rulePack.rulesStrings.14>
+  <NamerRitualGifting.rulePack.rulesStrings.14>ritNoun-&amp;gt;觉醒</NamerRitualGifting.rulePack.rulesStrings.14>
   <!--EN: ritNoun->evoking-->
-  <NamerRitualGifting.rulePack.rulesStrings.15>ritNoun-&amp;gt;evoking</NamerRitualGifting.rulePack.rulesStrings.15>
+  <NamerRitualGifting.rulePack.rulesStrings.15>ritNoun-&amp;gt;唤起</NamerRitualGifting.rulePack.rulesStrings.15>
   <!--EN: r_ritualName->[ritNoun] of [memeConcept]-->
-  <NamerRitualGifting.rulePack.rulesStrings.2>r_ritualName-&amp;gt;[ritNoun] of [memeConcept]</NamerRitualGifting.rulePack.rulesStrings.2>
+  <NamerRitualGifting.rulePack.rulesStrings.2>r_ritualName-&amp;gt;[memeConcept]的[ritNoun]</NamerRitualGifting.rulePack.rulesStrings.2>
   <!--EN: r_ritualName->[memeAdjective] [ritNoun]-->
   <NamerRitualGifting.rulePack.rulesStrings.3>r_ritualName-&amp;gt;[memeAdjective] [ritNoun]</NamerRitualGifting.rulePack.rulesStrings.3>
   <!--EN: ritNoun->gifting-->
-  <NamerRitualGifting.rulePack.rulesStrings.4>ritNoun-&amp;gt;gifting</NamerRitualGifting.rulePack.rulesStrings.4>
+  <NamerRitualGifting.rulePack.rulesStrings.4>ritNoun-&amp;gt;赠送</NamerRitualGifting.rulePack.rulesStrings.4>
   <!--EN: ritNoun->ascending-->
-  <NamerRitualGifting.rulePack.rulesStrings.5>ritNoun-&amp;gt;ascending</NamerRitualGifting.rulePack.rulesStrings.5>
+  <NamerRitualGifting.rulePack.rulesStrings.5>ritNoun-&amp;gt;升序</NamerRitualGifting.rulePack.rulesStrings.5>
   <!--EN: ritNoun->becoming-->
-  <NamerRitualGifting.rulePack.rulesStrings.6>ritNoun-&amp;gt;becoming</NamerRitualGifting.rulePack.rulesStrings.6>
+  <NamerRitualGifting.rulePack.rulesStrings.6>ritNoun-&amp;gt;成为</NamerRitualGifting.rulePack.rulesStrings.6>
   <!--EN: ritNoun->enlightenment-->
-  <NamerRitualGifting.rulePack.rulesStrings.7>ritNoun-&amp;gt;enlightenment</NamerRitualGifting.rulePack.rulesStrings.7>
+  <NamerRitualGifting.rulePack.rulesStrings.7>ritNoun-&amp;gt;启蒙</NamerRitualGifting.rulePack.rulesStrings.7>
   <!--EN: ritNoun->bridging-->
-  <NamerRitualGifting.rulePack.rulesStrings.8>ritNoun-&amp;gt;bridging</NamerRitualGifting.rulePack.rulesStrings.8>
+  <NamerRitualGifting.rulePack.rulesStrings.8>ritNoun-&amp;gt;桥接</NamerRitualGifting.rulePack.rulesStrings.8>
   <!--EN: ritNoun->linking-->
-  <NamerRitualGifting.rulePack.rulesStrings.9>ritNoun-&amp;gt;linking</NamerRitualGifting.rulePack.rulesStrings.9>
+  <NamerRitualGifting.rulePack.rulesStrings.9>ritNoun-&amp;gt;链接</NamerRitualGifting.rulePack.rulesStrings.9>
   <!--EN: r_ritualName->[ritNoun] of [keyDeity]-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.0>r_ritualName-&amp;gt;[ritNoun] of [keyDeity]</NamerRitualMindMutilation.rulePack.rulesStrings.0>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.0>r_ritualName-&amp;gt;[keyDeity]的[ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.0>
   <!--EN: r_ritualName->[ritNoun] of [chosenTheme]-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.1>r_ritualName-&amp;gt;[ritNoun] of [chosenTheme]</NamerRitualMindMutilation.rulePack.rulesStrings.1>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.1>r_ritualName-&amp;gt;[chosenTheme]的[ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.1>
   <!--EN: ritNoun->soul mangling-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.10>ritNoun-&amp;gt;soul mangling</NamerRitualMindMutilation.rulePack.rulesStrings.10>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.10>ritNoun-&amp;gt;灵魂破坏</NamerRitualMindMutilation.rulePack.rulesStrings.10>
   <!--EN: ritNoun->mind carving-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.11>ritNoun-&amp;gt;mind carving</NamerRitualMindMutilation.rulePack.rulesStrings.11>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.11>ritNoun-&amp;gt;心灵雕刻</NamerRitualMindMutilation.rulePack.rulesStrings.11>
   <!--EN: ritNoun->spirit gashing-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.12>ritNoun-&amp;gt;spirit gashing</NamerRitualMindMutilation.rulePack.rulesStrings.12>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.12>ritNoun-&amp;gt;精神割伤</NamerRitualMindMutilation.rulePack.rulesStrings.12>
   <!--EN: ritNoun->soul rending-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.13>ritNoun-&amp;gt;soul rending</NamerRitualMindMutilation.rulePack.rulesStrings.13>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.13>ritNoun-&amp;gt;灵魂撕裂</NamerRitualMindMutilation.rulePack.rulesStrings.13>
   <!--EN: ritNoun->silencing-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.14>ritNoun-&amp;gt;silencing</NamerRitualMindMutilation.rulePack.rulesStrings.14>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.14>ritNoun-&amp;gt;沉默</NamerRitualMindMutilation.rulePack.rulesStrings.14>
   <!--EN: ritNoun->quieting-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.15>ritNoun-&amp;gt;quieting</NamerRitualMindMutilation.rulePack.rulesStrings.15>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.15>ritNoun-&amp;gt;安静</NamerRitualMindMutilation.rulePack.rulesStrings.15>
   <!--EN: ritNoun->quelling-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.16>ritNoun-&amp;gt;quelling</NamerRitualMindMutilation.rulePack.rulesStrings.16>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.16>ritNoun-&amp;gt;镇压</NamerRitualMindMutilation.rulePack.rulesStrings.16>
   <!--EN: r_ritualName->[ritNoun] of [memeConcept]-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.2>r_ritualName-&amp;gt;[ritNoun] of [memeConcept]</NamerRitualMindMutilation.rulePack.rulesStrings.2>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.2>r_ritualName-&amp;gt;[memeConcept]的[ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.2>
   <!--EN: r_ritualName->[memeAdjective] [ritNoun]-->
   <NamerRitualMindMutilation.rulePack.rulesStrings.3>r_ritualName-&amp;gt;[memeAdjective] [ritNoun]</NamerRitualMindMutilation.rulePack.rulesStrings.3>
   <!--EN: ritNoun->spirit mutilation-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.4>ritNoun-&amp;gt;spirit mutilation</NamerRitualMindMutilation.rulePack.rulesStrings.4>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.4>ritNoun-&amp;gt;精神残害</NamerRitualMindMutilation.rulePack.rulesStrings.4>
   <!--EN: ritNoun->soul cutting-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.5>ritNoun-&amp;gt;soul cutting</NamerRitualMindMutilation.rulePack.rulesStrings.5>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.5>ritNoun-&amp;gt;灵魂切割</NamerRitualMindMutilation.rulePack.rulesStrings.5>
   <!--EN: ritNoun->soul slicing-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.6>ritNoun-&amp;gt;soul slicing</NamerRitualMindMutilation.rulePack.rulesStrings.6>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.6>ritNoun-&amp;gt;灵魂切片</NamerRitualMindMutilation.rulePack.rulesStrings.6>
   <!--EN: ritNoun->severing-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.7>ritNoun-&amp;gt;severing</NamerRitualMindMutilation.rulePack.rulesStrings.7>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.7>ritNoun-&amp;gt;切断</NamerRitualMindMutilation.rulePack.rulesStrings.7>
   <!--EN: ritNoun->mindrip-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.8>ritNoun-&amp;gt;mindrip</NamerRitualMindMutilation.rulePack.rulesStrings.8>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.8>ritNoun-&amp;gt;铭记</NamerRitualMindMutilation.rulePack.rulesStrings.8>
   <!--EN: ritNoun->mind ripping-->
-  <NamerRitualMindMutilation.rulePack.rulesStrings.9>ritNoun-&amp;gt;mind ripping</NamerRitualMindMutilation.rulePack.rulesStrings.9>
+  <NamerRitualMindMutilation.rulePack.rulesStrings.9>ritNoun-&amp;gt;心灵撕裂</NamerRitualMindMutilation.rulePack.rulesStrings.9>
 </LanguageData>

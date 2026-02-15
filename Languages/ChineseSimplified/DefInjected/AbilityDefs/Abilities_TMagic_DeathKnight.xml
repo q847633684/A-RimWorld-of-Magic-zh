@@ -1,69 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Grave Blade-->
-  <Projectile_GraveBlade.label>Grave Blade</Projectile_GraveBlade.label>
+  <Projectile_GraveBlade.label>唤灵冲击</Projectile_GraveBlade.label>
   <!--EN: Grave Blade-->
-  <Projectile_GraveBlade_I.label>Grave Blade</Projectile_GraveBlade_I.label>
+  <Projectile_GraveBlade_I.label>唤灵冲击</Projectile_GraveBlade_I.label>
   <!--EN: Grave Blade-->
-  <Projectile_GraveBlade_II.label>Grave Blade</Projectile_GraveBlade_II.label>
+  <Projectile_GraveBlade_II.label>唤灵冲击</Projectile_GraveBlade_II.label>
   <!--EN: Grave Blade-->
-  <Projectile_GraveBlade_III.label>Grave Blade</Projectile_GraveBlade_III.label>
+  <Projectile_GraveBlade_III.label>唤灵冲击</Projectile_GraveBlade_III.label>
   <!--EN: spite-->
-  <Projectile_Spite.label>spite</Projectile_Spite.label>
+  <Projectile_Spite.label>恶意</Projectile_Spite.label>
   <!--EN: Wave of Fear-->
-  <Projectile_WaveOfFear.label>Wave of Fear</Projectile_WaveOfFear.label>
+  <Projectile_WaveOfFear.label>恐惧之波</Projectile_WaveOfFear.label>
   <!--EN: Spirit blades strike from the grave.
 
 Range: 35
 Cast time: 1.6s
 Radius: 3.0-->
-  <TM_GraveBlade.description>Spirit blades strike from the grave.
-
-Range: 35
-Cast time: 1.6s
-Radius: 3.0</TM_GraveBlade.description>
+  <TM_GraveBlade.description>灵魂之刃从坟墓中射出。\n\n范围: 30\n发动时间: 1.6s\n半径: 3.0</TM_GraveBlade.description>
   <!--EN: Grave Blade-->
-  <TM_GraveBlade.label>Grave Blade</TM_GraveBlade.label>
+  <TM_GraveBlade.label>唤灵冲击（I）</TM_GraveBlade.label>
   <!--EN: Spirit blades strike from the grave.
 
 Range: 38
 Cast time: 1.4s
 Radius: 3.4-->
-  <TM_GraveBlade_I.description>Spirit blades strike from the grave.
-
-Range: 38
-Cast time: 1.4s
-Radius: 3.4</TM_GraveBlade_I.description>
+  <TM_GraveBlade_I.description>灵魂之刃从坟墓中射出。\n\n范围: 33\n发动时间: 1.4s\n半径: 3.4</TM_GraveBlade_I.description>
   <!--EN: Grave Blade I-->
-  <TM_GraveBlade_I.label>Grave Blade I</TM_GraveBlade_I.label>
+  <TM_GraveBlade_I.label>唤灵冲击 （II）</TM_GraveBlade_I.label>
   <!--EN: Spirit blades strike from the grave.
 
 Range: 41
 Cast time: 1.2s
 Radius: 3.8-->
-  <TM_GraveBlade_II.description>Spirit blades strike from the grave.
-
-Range: 41
-Cast time: 1.2s
-Radius: 3.8</TM_GraveBlade_II.description>
+  <TM_GraveBlade_II.description>灵魂之刃从坟墓中射出。\n\n范围: 36\n发动时间: 1.2s\n半径: 3.8</TM_GraveBlade_II.description>
   <!--EN: Grave Blade II-->
-  <TM_GraveBlade_II.label>Grave Blade II</TM_GraveBlade_II.label>
+  <TM_GraveBlade_II.label>唤灵冲击 （III）</TM_GraveBlade_II.label>
   <!--EN: Spirit blades strike from the grave.
 
 Range: 44
 Cast time: 1s
 Radius: 4.2-->
-  <TM_GraveBlade_III.description>Spirit blades strike from the grave.
-
-Range: 44
-Cast time: 1s
-Radius: 4.2</TM_GraveBlade_III.description>
+  <TM_GraveBlade_III.description>灵魂之刃从坟墓中射出。\n\n范围: 39\n发动时间: 1s\n半径: 4.2</TM_GraveBlade_III.description>
   <!--EN: Grave Blade III-->
-  <TM_GraveBlade_III.label>Grave Blade III</TM_GraveBlade_III.label>
+  <TM_GraveBlade_III.label>唤灵冲击 （IV）</TM_GraveBlade_III.label>
   <!--EN: Leach spirit from enemies struck in melee combat to restore life and energy to the death knight.-->
-  <TM_LifeSteal.description>Leach spirit from enemies struck in melee combat to restore life and energy to the death knight.</TM_LifeSteal.description>
+  <TM_LifeSteal.description>从近战攻击的敌人身上吸取精神，恢复死亡骑士的生命和能量。</TM_LifeSteal.description>
   <!--EN: Life Steal-->
-  <TM_LifeSteal.label>Life Steal</TM_LifeSteal.label>
+  <TM_LifeSteal.label>生命窃取</TM_LifeSteal.label>
   <!--EN: The Shroud of Darkness is a cloak of tangible malice and fear that consumes nearby energy.
 	
 The Shroud has many different functions and is a crucial component of the death knight's training. Foremost, the cloak provides a defensive bonus against all damage types and slightly increases weapon damage.
@@ -73,71 +57,45 @@ It's also able to solidify and retaliate against an attack using spirit damage.
 Last, but not least, the Shroud is able to nullify projectiles near the death knight by consuming them in a void.  Projectiles launched from less than 6 cells away will never be nullified.
 
 All of these functions are enhanced as hate levels grow and must have a sufficient level of hate to function at all.-->
-  <TM_Shroud.description>The Shroud of Darkness is a cloak of tangible malice and fear that consumes nearby energy.
-	
-The Shroud has many different functions and is a crucial component of the death knight&amp;apos;s training. Foremost, the cloak provides a defensive bonus against all damage types and slightly increases weapon damage.
-
-It&amp;apos;s also able to solidify and retaliate against an attack using spirit damage.
-
-Last, but not least, the Shroud is able to nullify projectiles near the death knight by consuming them in a void.  Projectiles launched from less than 6 cells away will never be nullified.
-
-All of these functions are enhanced as hate levels grow and must have a sufficient level of hate to function at all.</TM_Shroud.description>
+  <TM_Shroud.description>黑暗外衣是一种有形的恶意和恐惧，会不断消耗附近的能量。黑暗外衣提供对所有伤害类型的防御加值，略微增加武器伤害。使用精神伤害来报复攻击。最后，外衣可以在虚空中消耗投掷物，超过6个单元的投掷物不会失效。\n\n所有功能随着憎恶等级的增加而增强，必须有足够的憎恨才能发挥作用。</TM_Shroud.description>
   <!--EN: Shroud of Darkness-->
-  <TM_Shroud.label>Shroud of Darkness</TM_Shroud.label>
+  <TM_Shroud.label>黑暗外衣</TM_Shroud.label>
   <!--EN: Release harnessed hatred and project a wave of spite at a target. Spite must have hate to be used.
 		
 Cast time: 1s
 Cooldown : 5s
 Range: 21-->
-  <TM_Spite.description>Release harnessed hatred and project a wave of spite at a target. Spite must have hate to be used.
-		
-Cast time: 1s
-Cooldown : 5s
-Range: 21</TM_Spite.description>
+  <TM_Spite.description>向目标释放恶意。恶意必须有憎恨才能使用。\n		\n发动时间: 1s\n冷却时间: 5s\n范围: 21</TM_Spite.description>
   <!--EN: Spite-->
-  <TM_Spite.label>Spite</TM_Spite.label>
+  <TM_Spite.label>恶意（I）</TM_Spite.label>
   <!--EN: Release harnessed hatred and project a wave of spite at a target.  Spite must have hate to be used.
 		
 Cast time: .8s
 Cooldown : 4s
 Range: 24-->
-  <TM_Spite_I.description>Release harnessed hatred and project a wave of spite at a target.  Spite must have hate to be used.
-		
-Cast time: .8s
-Cooldown : 4s
-Range: 24</TM_Spite_I.description>
+  <TM_Spite_I.description>向目标释放恶意。恶意必须有憎恨才能使用。\n		\n发动时间: 0.8s\n冷却时间: 4s\n范围: 24</TM_Spite_I.description>
   <!--EN: Spite I-->
-  <TM_Spite_I.label>Spite I</TM_Spite_I.label>
+  <TM_Spite_I.label>恶意 （II）</TM_Spite_I.label>
   <!--EN: Release harnessed hatred and project a wave of spite at a target. Spite must have hate to be used.
 		
 Cast time: .6s
 Cooldown : 3s
 Range: 27-->
-  <TM_Spite_II.description>Release harnessed hatred and project a wave of spite at a target. Spite must have hate to be used.
-		
-Cast time: .6s
-Cooldown : 3s
-Range: 27</TM_Spite_II.description>
+  <TM_Spite_II.description>向目标释放恶意。恶意必须有憎恨才能使用。\n		\n发动时间: 0.6s\n冷却时间: 3s\n范围: 27</TM_Spite_II.description>
   <!--EN: Spite II-->
-  <TM_Spite_II.label>Spite II</TM_Spite_II.label>
+  <TM_Spite_II.label>恶意 （III）</TM_Spite_II.label>
   <!--EN: Release harnessed hatred and project a wave of spite at a target. Spite must have hate to be used.
 		
 Cast time: .4s
 Cooldown : 2s
 Range: 30-->
-  <TM_Spite_III.description>Release harnessed hatred and project a wave of spite at a target. Spite must have hate to be used.
-		
-Cast time: .4s
-Cooldown : 2s
-Range: 30</TM_Spite_III.description>
+  <TM_Spite_III.description>向目标释放恶意.恶意必须有憎恨才能使用.\n		\n发动时间: 0.4s\n冷却时间: 2s\n范围: 30</TM_Spite_III.description>
   <!--EN: Spite III-->
-  <TM_Spite_III.label>Spite III</TM_Spite_III.label>
+  <TM_Spite_III.label>恶意 （IV）</TM_Spite_III.label>
   <!--EN: Release a wave of fear that sends enemies cowering. Wave of Fear also applies a significant debuff to dark/light defense, movement, and slows attack speeds.
 	
 Hate is not required to use this ability, but it's effective range is greatly increased by hate levels.-->
-  <TM_WaveOfFear.description>Release a wave of fear that sends enemies cowering. Wave of Fear also applies a significant debuff to dark/light defense, movement, and slows attack speeds.
-	
-Hate is not required to use this ability, but it&amp;apos;s effective range is greatly increased by hate levels.</TM_WaveOfFear.description>
+  <TM_WaveOfFear.description>释放让敌人畏缩的恐惧波。恐惧波也对黑暗/光明防御、移动和降低攻击速度有重要的影响。\n  \n恐惧之波不需要憎恨，但它的有效范围会被憎恨等级加强。</TM_WaveOfFear.description>
   <!--EN: Wave of Fear-->
-  <TM_WaveOfFear.label>Wave of Fear</TM_WaveOfFear.label>
+  <TM_WaveOfFear.label>恐惧之波</TM_WaveOfFear.label>
 </LanguageData>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Small group of bandits hunting for arcane artifacts.-->
-  <ArcaneBanditSquad.description>Small group of bandits hunting for arcane artifacts.</ArcaneBanditSquad.description>
+  <ArcaneBanditSquad.description>一支神秘的探险队正在寻找失落文明的宝具。</ArcaneBanditSquad.description>
   <!--EN: arcane bandit squad-->
-  <ArcaneBanditSquad.label>arcane bandit squad</ArcaneBanditSquad.label>
+  <ArcaneBanditSquad.label>神秘探险者小队</ArcaneBanditSquad.label>
 </LanguageData>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Use druidic powers to regrow body parts.-->
-  <Regrowth.description>Use druidic powers to regrow body parts.</Regrowth.description>
+  <Regrowth.description>使用德鲁伊的神力再生肢体。</Regrowth.description>
   <!--EN: Regrowing body part.-->
-  <Regrowth.jobString>Regrowing body part.</Regrowth.jobString>
+  <Regrowth.jobString>再生肢体。</Regrowth.jobString>
   <!--EN: regrow body part (Druid only, 90% mana required)-->
-  <Regrowth.label>regrow body part (Druid only, 90% mana required)</Regrowth.label>
+  <Regrowth.label>肢体再生 (限定德鲁伊, 需要消耗90%法力)</Regrowth.label>
   <!--EN: Use druidic powers to regrow body parts.-->
-  <UniversalRegrowth.description>Use druidic powers to regrow body parts.</UniversalRegrowth.description>
+  <UniversalRegrowth.description>使用德鲁伊的力量再生身体部位。</UniversalRegrowth.description>
   <!--EN: Regrowing body part.-->
-  <UniversalRegrowth.jobString>Regrowing body part.</UniversalRegrowth.jobString>
+  <UniversalRegrowth.jobString>再生身体部位。</UniversalRegrowth.jobString>
   <!--EN: regrow body part (Druid only, 90% mana required)-->
-  <UniversalRegrowth.label>regrow body part (Druid only, 90% mana required)</UniversalRegrowth.label>
+  <UniversalRegrowth.label>重新生长身体部位（仅德鲁伊，需要90%的法力）</UniversalRegrowth.label>
 </LanguageData>

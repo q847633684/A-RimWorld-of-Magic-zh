@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: recharge 50 to 100 mana of all participating mages.-->
-  <TM_RechargeMana.effectDesc>recharge 50 to 100 mana of all participating mages.</TM_RechargeMana.effectDesc>
+  <TM_RechargeMana.effectDesc>为所有参与的法师恢复 50 到 100 点法力。</TM_RechargeMana.effectDesc>
   <!--EN: recharge mana-->
-  <TM_RechargeMana.label>recharge mana</TM_RechargeMana.label>
+  <TM_RechargeMana.label>恢复法力</TM_RechargeMana.label>
   <!--EN: All participating mages have recharged {AMOUNT} mana.-->
-  <TM_RechargeMana.letterInfoText>All participating mages have recharged {AMOUNT} mana.</TM_RechargeMana.letterInfoText>
+  <TM_RechargeMana.letterInfoText>所有参与的法师都已恢复 {AMOUNT} 点法力。</TM_RechargeMana.letterInfoText>
 </LanguageData>

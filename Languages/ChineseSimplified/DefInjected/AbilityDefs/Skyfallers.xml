@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: light pod-->
-  <TM_ActiveLightPod.label>light pod</TM_ActiveLightPod.label>
+  <TM_ActiveLightPod.label>光舱</TM_ActiveLightPod.label>
   <!--EN: arrow storm-->
-  <TM_ArrowStorm.label>arrow storm</TM_ArrowStorm.label>
+  <TM_ArrowStorm.label>箭雨风暴</TM_ArrowStorm.label>
   <!--EN: Blizzard (large)-->
-  <TM_Blizzard_Large.label>Blizzard (large)</TM_Blizzard_Large.label>
+  <TM_Blizzard_Large.label>冰系魔法</TM_Blizzard_Large.label>
   <!--EN: blizzard(small)-->
-  <TM_Blizzard_Small.label>blizzard(small)</TM_Blizzard_Small.label>
+  <TM_Blizzard_Small.label>冰系魔法</TM_Blizzard_Small.label>
   <!--EN: blizzard(tiny)-->
-  <TM_Blizzard_Tiny.label>blizzard(tiny)</TM_Blizzard_Tiny.label>
+  <TM_Blizzard_Tiny.label>暴风雪(微型)</TM_Blizzard_Tiny.label>
   <!--EN: firestorm (large)-->
-  <TM_Firestorm_Large.label>firestorm (large)</TM_Firestorm_Large.label>
+  <TM_Firestorm_Large.label>火系魔法</TM_Firestorm_Large.label>
   <!--EN: firestorm (small)-->
-  <TM_Firestorm_Small.label>firestorm (small)</TM_Firestorm_Small.label>
+  <TM_Firestorm_Small.label>火系魔法</TM_Firestorm_Small.label>
   <!--EN: firestorm (tiny)-->
-  <TM_Firestorm_Tiny.label>firestorm (tiny)</TM_Firestorm_Tiny.label>
+  <TM_Firestorm_Tiny.label>火系魔法</TM_Firestorm_Tiny.label>
   <!--EN: hail-->
-  <TM_Hail.label>hail</TM_Hail.label>
+  <TM_Hail.label>冰雹风暴</TM_Hail.label>
   <!--EN: light beam (incoming)-->
-  <TM_LightPodIncoming.label>light beam (incoming)</TM_LightPodIncoming.label>
+  <TM_LightPodIncoming.label>光束（到来）</TM_LightPodIncoming.label>
   <!--EN: light beam (leaving)-->
-  <TM_LightPodLeaving.label>light beam (leaving)</TM_LightPodLeaving.label>
+  <TM_LightPodLeaving.label>光束（离开）</TM_LightPodLeaving.label>
   <!--EN: meteorite-->
-  <TM_Meteorite.label>meteorite</TM_Meteorite.label>
+  <TM_Meteorite.label>陨石</TM_Meteorite.label>
   <!--EN: meteorite-->
-  <TM_Meteorite_I.label>meteorite</TM_Meteorite_I.label>
+  <TM_Meteorite_I.label>陨石</TM_Meteorite_I.label>
   <!--EN: meteorite-->
-  <TM_Meteorite_II.label>meteorite</TM_Meteorite_II.label>
+  <TM_Meteorite_II.label>陨石</TM_Meteorite_II.label>
   <!--EN: meteorite-->
-  <TM_Meteorite_III.label>meteorite</TM_Meteorite_III.label>
+  <TM_Meteorite_III.label>陨石</TM_Meteorite_III.label>
   <!--EN: scorn incoming-->
-  <TM_ScornIncoming.label>scorn incoming</TM_ScornIncoming.label>
+  <TM_ScornIncoming.label>蔑视到来</TM_ScornIncoming.label>
   <!--EN: scorn leaving-->
-  <TM_ScornLeaving.label>scorn leaving</TM_ScornLeaving.label>
+  <TM_ScornLeaving.label>蔑视离开</TM_ScornLeaving.label>
 </LanguageData>

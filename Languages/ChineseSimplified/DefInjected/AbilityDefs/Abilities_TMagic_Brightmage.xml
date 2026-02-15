@@ -1,63 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: light lance-->
-  <FlyingObject_LightLance.label>light lance</FlyingObject_LightLance.label>
+  <FlyingObject_LightLance.label>光矛</FlyingObject_LightLance.label>
   <!--EN: spirit of light-->
-  <FlyingObject_SpiritOfLight.label>spirit of light</FlyingObject_SpiritOfLight.label>
+  <FlyingObject_SpiritOfLight.label>光之灵</FlyingObject_SpiritOfLight.label>
   <!--EN: create light-->
-  <Projectile_CreateLight.label>create light</Projectile_CreateLight.label>
+  <Projectile_CreateLight.label>创造光</Projectile_CreateLight.label>
   <!--EN: light lance-->
-  <Projectile_LightLance.label>light lance</Projectile_LightLance.label>
+  <Projectile_LightLance.label>光矛</Projectile_LightLance.label>
   <!--EN: light lancet-->
-  <Projectile_LightLaser.label>light lancet</Projectile_LightLaser.label>
+  <Projectile_LightLaser.label>光刀</Projectile_LightLaser.label>
   <!--EN: light skip-->
-  <Projectile_LightSkip.label>light skip</Projectile_LightSkip.label>
+  <Projectile_LightSkip.label>光行</Projectile_LightSkip.label>
   <!--EN: mass light skip-->
-  <Projectile_LightSkipMass.label>mass light skip</Projectile_LightSkipMass.label>
+  <Projectile_LightSkipMass.label>质量光行</Projectile_LightSkipMass.label>
   <!--EN: refraction-->
-  <Projectile_Refraction.label>refraction</Projectile_Refraction.label>
+  <Projectile_Refraction.label>折射</Projectile_Refraction.label>
   <!--EN: spirit of light-->
-  <Projectile_SpiritOfLight.label>spirit of light</Projectile_SpiritOfLight.label>
+  <Projectile_SpiritOfLight.label>光之灵</Projectile_SpiritOfLight.label>
   <!--EN: sunfire-->
-  <Projectile_Sunfire.label>sunfire</Projectile_Sunfire.label>
+  <Projectile_Sunfire.label>阳火</Projectile_Sunfire.label>
   <!--EN: sunfire-->
-  <Projectile_Sunfire_I.label>sunfire</Projectile_Sunfire_I.label>
+  <Projectile_Sunfire_I.label>阳火</Projectile_Sunfire_I.label>
   <!--EN: sunfire-->
-  <Projectile_Sunfire_II.label>sunfire</Projectile_Sunfire_II.label>
+  <Projectile_Sunfire_II.label>阳火</Projectile_Sunfire_II.label>
   <!--EN: sunfire-->
-  <Projectile_Sunfire_III.label>sunfire</Projectile_Sunfire_III.label>
+  <Projectile_Sunfire_III.label>阳火</Projectile_Sunfire_III.label>
   <!--EN: Creates flashes of light that blind and disorient pawns caught in the blast. Disoriented pawns will be unable to distinguish between friend and foe and may fire on nearby friendly pawns. This ability is empowered by stored light.-->
-  <TM_LightBurst.description>Creates flashes of light that blind and disorient pawns caught in the blast. Disoriented pawns will be unable to distinguish between friend and foe and may fire on nearby friendly pawns. This ability is empowered by stored light.</TM_LightBurst.description>
+  <TM_LightBurst.description>产生光爆，使那些被爆炸炸到的人失明和迷失方向。迷失方向的人将无法分辨敌友，并可能向附近的友军开火。这种能力是由储存的光赋予的。</TM_LightBurst.description>
   <!--EN: Light Burst-->
-  <TM_LightBurst.label>Light Burst</TM_LightBurst.label>
+  <TM_LightBurst.label>光爆</TM_LightBurst.label>
   <!--EN: Focus light into an intense beam that burns everything along its path. This ability is empowered by stored light.-->
-  <TM_LightLance.description>Focus light into an intense beam that burns everything along its path. This ability is empowered by stored light.</TM_LightLance.description>
+  <TM_LightLance.description>把光聚焦成一束强烈的光束，燃烧它经过所有的东西。这种能力是由储存的光赋予的。</TM_LightLance.description>
   <!--EN: Light Lance-->
-  <TM_LightLance.label>Light Lance</TM_LightLance.label>
+  <TM_LightLance.label>光矛</TM_LightLance.label>
   <!--EN: The caster rides a wave of light for near-instant travel. Neither the caster's position or target's position can be roofed.-->
-  <TM_LightSkip.description>The caster rides a wave of light for near-instant travel. Neither the caster&amp;apos;s position or target&amp;apos;s position can be roofed.</TM_LightSkip.description>
+  <TM_LightSkip.description>施法者乘着光波进行近乎瞬间的移动。施法者的位置和目标的位置上都不能被封顶。</TM_LightSkip.description>
   <!--EN: Light Skip-->
-  <TM_LightSkip.label>Light Skip</TM_LightSkip.label>
+  <TM_LightSkip.label>光行</TM_LightSkip.label>
   <!--EN: The caster and all allies in a 5 cell radius rides waves of light for near-instant travel. Pawns under a roof will not be transported.-->
-  <TM_LightSkipGlobal.description>The caster and all allies in a 5 cell radius rides waves of light for near-instant travel. Pawns under a roof will not be transported.</TM_LightSkipGlobal.description>
+  <TM_LightSkipGlobal.description>施法者和方圆5格范围内的所有友方单位乘着光波进行近乎瞬间的旅行。屋檐下的人是不会被运送的。</TM_LightSkipGlobal.description>
   <!--EN: Global Light Skip-->
-  <TM_LightSkipGlobal.label>Global Light Skip</TM_LightSkipGlobal.label>
+  <TM_LightSkipGlobal.label>全球光行</TM_LightSkipGlobal.label>
   <!--EN: The caster and all allies in a 5 cell radius rides waves of light for near-instant travel. Pawns under a roof will not be transported.-->
-  <TM_LightSkipMass.description>The caster and all allies in a 5 cell radius rides waves of light for near-instant travel. Pawns under a roof will not be transported.</TM_LightSkipMass.description>
+  <TM_LightSkipMass.description>施法者和方圆5格范围内的所有友方单位乘着光波进行近乎瞬间的旅行。屋檐下的人是不会被运送的。</TM_LightSkipMass.description>
   <!--EN: Mass Light Skip-->
-  <TM_LightSkipMass.label>Mass Light Skip</TM_LightSkipMass.label>
+  <TM_LightSkipMass.label>范围光行</TM_LightSkipMass.label>
   <!--EN: Creates a wall of light that affects projectiles as they pass through the wall. Enemy projectiles may be offset from their intended targets. Friendly projectiles may use a portion of the light energy to create a mirrored reflection of the projectile. The wall will last about 25 seconds or until it runs out of energy. This ability is empowered by stored light.-->
-  <TM_Refraction.description>Creates a wall of light that affects projectiles as they pass through the wall. Enemy projectiles may be offset from their intended targets. Friendly projectiles may use a portion of the light energy to create a mirrored reflection of the projectile. The wall will last about 25 seconds or until it runs out of energy. This ability is empowered by stored light.</TM_Refraction.description>
+  <TM_Refraction.description>创建一道光墙，当物体穿过光墙时，光墙会影响它们。敌人的炮弹可能会偏离其预定目标。友军的炮弹可以使用一部分光能来产生炮弹的镜像反射。这堵墙将持续大约25秒，或者直到能量耗尽。这种能力是由储存的光赋予的。</TM_Refraction.description>
   <!--EN: Refraction-->
-  <TM_Refraction.label>Refraction</TM_Refraction.label>
+  <TM_Refraction.label>折射</TM_Refraction.label>
   <!--EN: Directs the Spirit of Light to create light at an area. This reduces the Spirit's light regeneration by 70%. Use this ability again at any location to dismiss the light.-->
-  <TM_SoL_CreateLight.description>Directs the Spirit of Light to create light at an area. This reduces the Spirit&amp;apos;s light regeneration by 70%. Use this ability again at any location to dismiss the light.</TM_SoL_CreateLight.description>
+  <TM_SoL_CreateLight.description>引导光之灵在一个区域内创造光源。这将减少光之灵的光能的70%再生速度。在任何位置再次使用此能力来关闭光源。</TM_SoL_CreateLight.description>
   <!--EN: Create Light-->
-  <TM_SoL_CreateLight.label>Create Light</TM_SoL_CreateLight.label>
+  <TM_SoL_CreateLight.label>创造光源</TM_SoL_CreateLight.label>
   <!--EN: Equalizes the light energy between the Spirit of Light and caster.-->
-  <TM_SoL_Equalize.description>Equalizes the light energy between the Spirit of Light and caster.</TM_SoL_Equalize.description>
+  <TM_SoL_Equalize.description>在光之灵和施法者之间平衡光能。</TM_SoL_Equalize.description>
   <!--EN: Equalize-->
-  <TM_SoL_Equalize.label>Equalize</TM_SoL_Equalize.label>
+  <TM_SoL_Equalize.label>均衡</TM_SoL_Equalize.label>
   <!--EN: Summons a Spirit of Light that aids and protects the caster. This ability requires 60 mana to sustain and reduces mana regeneration by 75%. Use this ability again to dismiss the spirit. The SoL is able to store light energy and uses light energy to perform actions.
 		
 The Spirit of Light works autonomously to aid the caster and will perform the following actions:
@@ -67,17 +67,9 @@ o Attacks enemies (only when drafted)
 o Improve mood of nearby allies
 o Create a burst of joy
 o Protects the caster's dreams-->
-  <TM_SpiritOfLight.description>Summons a Spirit of Light that aids and protects the caster. This ability requires 60 mana to sustain and reduces mana regeneration by 75%. Use this ability again to dismiss the spirit. The SoL is able to store light energy and uses light energy to perform actions.
-		
-The Spirit of Light works autonomously to aid the caster and will perform the following actions:
-o Deflects attacks
-o Cauterizes wounds of downed pawns
-o Attacks enemies (only when drafted)
-o Improve mood of nearby allies
-o Create a burst of joy
-o Protects the caster&amp;apos;s dreams</TM_SpiritOfLight.description>
+  <TM_SpiritOfLight.description>召唤一个光之灵来帮助和保护施法者。此技能需要60点法力才能维持，并减少75%的法力回复。再次使用此魔法来驱散灵魂。光之灵能够储存光能并利用光能来执行攻击。光之灵可以自主地帮助施法者，\n		并将执行以下动作：\n		o偏转攻击；烧灼被击倒的人的伤口；\n		o攻击敌人（仅在被征召时）；\n		o改善附近盟友的情绪；\n		o制造出一阵喜悦；\n		o保护施法者的梦想</TM_SpiritOfLight.description>
   <!--EN: Spirit Of Light-->
-  <TM_SpiritOfLight.label>Spirit Of Light</TM_SpiritOfLight.label>
+  <TM_SpiritOfLight.label>光之精灵</TM_SpiritOfLight.label>
   <!--EN: The target area is laced with burning slashes of light. This ability is empowered by stored light.
 
 Cast time: 3s
@@ -85,15 +77,9 @@ Range: 50
 Cooldown: 60s
 Radius: 5
 Count: 13-->
-  <TM_Sunfire.description>The target area is laced with burning slashes of light. This ability is empowered by stored light.
-
-Cast time: 3s
-Range: 50
-Cooldown: 60s
-Radius: 5
-Count: 13</TM_Sunfire.description>
+  <TM_Sunfire.description>使目标区域布满燃烧的光带。这种能力是由储存的光赋予的。\n		施法时间：3s\n		范围：50\n		冷却时间：60s\n		半径：5\n		总数：13</TM_Sunfire.description>
   <!--EN: Sunfire-->
-  <TM_Sunfire.label>Sunfire</TM_Sunfire.label>
+  <TM_Sunfire.label>阳火（I）</TM_Sunfire.label>
   <!--EN: The target area is laced with burning slashes of light. This ability is empowered by stored light.
 
 Cast time: 2.7s
@@ -101,15 +87,9 @@ Range: 55
 Cooldown: 55s
 Radius: 6
 Count: 14-->
-  <TM_Sunfire_I.description>The target area is laced with burning slashes of light. This ability is empowered by stored light.
-
-Cast time: 2.7s
-Range: 55
-Cooldown: 55s
-Radius: 6
-Count: 14</TM_Sunfire_I.description>
+  <TM_Sunfire_I.description>使目标区域布满燃烧的光带。这种能力是由储存的光赋予的。\n		施法时间：2.7s\n		范围：55\n		冷却时间：55s\n		半径：6\n		总数：14</TM_Sunfire_I.description>
   <!--EN: Sunfire (I)-->
-  <TM_Sunfire_I.label>Sunfire (I)</TM_Sunfire_I.label>
+  <TM_Sunfire_I.label>阳火（II）</TM_Sunfire_I.label>
   <!--EN: The target area is laced with burning slashes of light. This ability is empowered by stored light.
 
 Cast time: 2.4s
@@ -117,15 +97,9 @@ Range: 60
 Cooldown: 50s
 Radius: 7
 Count: 15-->
-  <TM_Sunfire_II.description>The target area is laced with burning slashes of light. This ability is empowered by stored light.
-
-Cast time: 2.4s
-Range: 60
-Cooldown: 50s
-Radius: 7
-Count: 15</TM_Sunfire_II.description>
+  <TM_Sunfire_II.description>使目标区域布满燃烧的光带。这种能力是由储存的光赋予的。\n		施法时间：2.4s\n		范围：60\n		冷却时间：50s\n		半径：7\n		总数：15</TM_Sunfire_II.description>
   <!--EN: Sunfire (II)-->
-  <TM_Sunfire_II.label>Sunfire (II)</TM_Sunfire_II.label>
+  <TM_Sunfire_II.label>阳火（III）</TM_Sunfire_II.label>
   <!--EN: The target area is laced with burning slashes of light. This ability is empowered by stored light.
 
 Cast time: 2.2s
@@ -133,13 +107,7 @@ Range: 65
 Cooldown: 45s
 Radius: 8
 Count: 16-->
-  <TM_Sunfire_III.description>The target area is laced with burning slashes of light. This ability is empowered by stored light.
-
-Cast time: 2.2s
-Range: 65
-Cooldown: 45s
-Radius: 8
-Count: 16</TM_Sunfire_III.description>
+  <TM_Sunfire_III.description>使目标区域布满燃烧的光带。这种能力是由储存的光赋予的。\n		施法时间：2.2s\n		范围：65\n		冷却时间：45s\n		半径：8\n		总数：16</TM_Sunfire_III.description>
   <!--EN: Sunfire (III)-->
-  <TM_Sunfire_III.label>Sunfire (III)</TM_Sunfire_III.label>
+  <TM_Sunfire_III.label>阳火（IV）</TM_Sunfire_III.label>
 </LanguageData>

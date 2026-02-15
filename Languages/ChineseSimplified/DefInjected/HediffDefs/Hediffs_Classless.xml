@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: This pawn has been taunted and will focus their attacks on the offending pawn.-->
-  <TM_TauntHD.description>This pawn has been taunted and will focus their attacks on the offending pawn.</TM_TauntHD.description>
+  <TM_TauntHD.description>这个人被嘲讽了，他们会把攻击的重点放在冒犯他们的人身上。</TM_TauntHD.description>
   <!--EN: Taunted!-->
-  <TM_TauntHD.label>Taunted!</TM_TauntHD.label>
+  <TM_TauntHD.label>被嘲讽!</TM_TauntHD.label>
 </LanguageData>

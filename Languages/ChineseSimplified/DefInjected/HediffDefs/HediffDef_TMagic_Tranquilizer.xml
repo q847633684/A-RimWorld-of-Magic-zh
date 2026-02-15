@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Effects of an ability that reduces physical and mental agility.-->
-  <TM_Slow_HD.description>Effects of an ability that reduces physical and mental agility.</TM_Slow_HD.description>
+  <TM_Slow_HD.description>降低身体敏捷性和精神思维能力的能力的效果</TM_Slow_HD.description>
   <!--EN: Slowed-->
-  <TM_Slow_HD.label>Slowed</TM_Slow_HD.label>
+  <TM_Slow_HD.label>迟缓</TM_Slow_HD.label>
   <!--EN: minor-->
-  <TM_Slow_HD.stages.0.label>minor</TM_Slow_HD.stages.0.label>
+  <TM_Slow_HD.stages.0.label>轻度</TM_Slow_HD.stages.0.label>
   <!--EN: major-->
-  <TM_Slow_HD.stages.1.label>major</TM_Slow_HD.stages.1.label>
+  <TM_Slow_HD.stages.1.label>中度</TM_Slow_HD.stages.1.label>
   <!--EN: extreme-->
-  <TM_Slow_HD.stages.2.label>extreme</TM_Slow_HD.stages.2.label>
+  <TM_Slow_HD.stages.2.label>重度</TM_Slow_HD.stages.2.label>
   <!--EN: Effects of a tranquilizer.-->
-  <TM_Tranquilizer_HD.description>Effects of a tranquilizer.</TM_Tranquilizer_HD.description>
+  <TM_Tranquilizer_HD.description>战技的作用。</TM_Tranquilizer_HD.description>
   <!--EN: Sedated-->
-  <TM_Tranquilizer_HD.label>Sedated</TM_Tranquilizer_HD.label>
+  <TM_Tranquilizer_HD.label>麻痹</TM_Tranquilizer_HD.label>
   <!--EN: Slowed-->
-  <TM_Tranquilizer_HD.stages.0.label>Slowed</TM_Tranquilizer_HD.stages.0.label>
+  <TM_Tranquilizer_HD.stages.0.label>缓慢</TM_Tranquilizer_HD.stages.0.label>
   <!--EN: Sedated-->
-  <TM_Tranquilizer_HD.stages.1.label>Sedated</TM_Tranquilizer_HD.stages.1.label>
+  <TM_Tranquilizer_HD.stages.1.label>迟钝</TM_Tranquilizer_HD.stages.1.label>
   <!--EN: Paralytic-->
-  <TM_Tranquilizer_HD.stages.2.label>Paralytic</TM_Tranquilizer_HD.stages.2.label>
+  <TM_Tranquilizer_HD.stages.2.label>麻痹</TM_Tranquilizer_HD.stages.2.label>
 </LanguageData>

@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: brain-->
-  <Minion_Brain.label>brain</Minion_Brain.label>
+  <Minion_Brain.label>脑</Minion_Brain.label>
   <!--EN: core-->
-  <Minion_Core.label>core</Minion_Core.label>
+  <Minion_Core.label>核心</Minion_Core.label>
   <!--EN: eye-->
-  <Minion_Eye.label>eye</Minion_Eye.label>
+  <Minion_Eye.label>眼睛</Minion_Eye.label>
   <!--EN: head-->
-  <Minion_Head.label>head</Minion_Head.label>
+  <Minion_Head.label>头</Minion_Head.label>
   <!--EN: horns-->
-  <Minion_Horns.label>horns</Minion_Horns.label>
+  <Minion_Horns.label>犄角</Minion_Horns.label>
   <!--EN: jaw-->
-  <Minion_Jaw.label>jaw</Minion_Jaw.label>
+  <Minion_Jaw.label>下巴</Minion_Jaw.label>
   <!--EN: left arm-->
-  <Minion_LeftArm.label>left arm</Minion_LeftArm.label>
+  <Minion_LeftArm.label>左臂</Minion_LeftArm.label>
   <!--EN: left horn-->
-  <Minion_LeftHorn.label>left horn</Minion_LeftHorn.label>
+  <Minion_LeftHorn.label>左犄角</Minion_LeftHorn.label>
   <!--EN: mouth-->
-  <Minion_Mouth.label>mouth</Minion_Mouth.label>
+  <Minion_Mouth.label>嘴巴</Minion_Mouth.label>
   <!--EN: right arm-->
-  <Minion_RightArm.label>right arm</Minion_RightArm.label>
+  <Minion_RightArm.label>右臂</Minion_RightArm.label>
   <!--EN: right horn-->
-  <Minion_RightHorn.label>right horn</Minion_RightHorn.label>
+  <Minion_RightHorn.label>右犄角</Minion_RightHorn.label>
   <!--EN: teeth-->
-  <Minion_Teeth.label>teeth</Minion_Teeth.label>
+  <Minion_Teeth.label>牙齿</Minion_Teeth.label>
 </LanguageData>

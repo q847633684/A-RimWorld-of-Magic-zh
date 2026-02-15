@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: A fierce hailstorm that sheets swathes of land in deadly waves of ice. Movement and accuracy are severely hampered.-->
-  <TM_HailstormWD.description>A fierce hailstorm that sheets swathes of land in deadly waves of ice. Movement and accuracy are severely hampered.</TM_HailstormWD.description>
+  <TM_HailstormWD.description>一场猛烈的冰雹，以致命的冰波覆盖着陆地。 移动和准确性受到严重阻碍。</TM_HailstormWD.description>
   <!--EN: hail storm-->
-  <TM_HailstormWD.label>hail storm</TM_HailstormWD.label>
+  <TM_HailstormWD.label>冰雹风暴</TM_HailstormWD.label>
   <!--EN: My pain is being washed away.-->
-  <TM_HealingRainTD.stages.0.description>My pain is being washed away.</TM_HealingRainTD.stages.0.description>
+  <TM_HealingRainTD.stages.0.description>我的痛苦正在被洗去。</TM_HealingRainTD.stages.0.description>
   <!--EN: healing rain-->
-  <TM_HealingRainTD.stages.0.label>healing rain</TM_HealingRainTD.stages.0.label>
+  <TM_HealingRainTD.stages.0.label>治愈之雨</TM_HealingRainTD.stages.0.label>
   <!--EN: A gentle rain with healing properties. Any creature exposed to healing rain will slowly regenerate their wounds.-->
-  <TM_HealingRainWD.description>A gentle rain with healing properties. Any creature exposed to healing rain will slowly regenerate their wounds.</TM_HealingRainWD.description>
+  <TM_HealingRainWD.description>一场具有治疗作用的小雨。任何暴露在疗伤雨中的生物都会慢慢恢复伤口。</TM_HealingRainWD.description>
   <!--EN: healing rain-->
-  <TM_HealingRainWD.label>healing rain</TM_HealingRainWD.label>
+  <TM_HealingRainWD.label>疗伤雨</TM_HealingRainWD.label>
 </LanguageData>

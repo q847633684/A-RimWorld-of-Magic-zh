@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: flying-->
-  <Flight.label>flying</Flight.label>
+  <Flight.label>飞行</Flight.label>
   <!--EN: adult-->
-  <TM_SpiritAnimal.label>adult</TM_SpiritAnimal.label>
+  <TM_SpiritAnimal.label>成人</TM_SpiritAnimal.label>
   <!--EN: spirit bear-->
-  <TM_SpiritBear.label>spirit bear</TM_SpiritBear.label>
+  <TM_SpiritBear.label>灵熊</TM_SpiritBear.label>
   <!--EN: spirit bears-->
-  <TM_SpiritBear.labelPlural>spirit bears</TM_SpiritBear.labelPlural>
+  <TM_SpiritBear.labelPlural>灵熊群</TM_SpiritBear.labelPlural>
   <!--EN: The spirit bear is emblematic of stability and strength. This animal has been admired throughout time as a powerful inspiration for those who need courage to stand up against adversity. The spirit bear is a powerful guide to support physical strength and constitution and will actively protect its young.-->
-  <TM_SpiritBearR.description>The spirit bear is emblematic of stability and strength. This animal has been admired throughout time as a powerful inspiration for those who need courage to stand up against adversity. The spirit bear is a powerful guide to support physical strength and constitution and will actively protect its young.</TM_SpiritBearR.description>
+  <TM_SpiritBearR.description>灵熊征着稳定和力量。一直以来，这种动物一直受到人们的赞赏，认为它能给那些需要勇气面对逆境的人带来强大的灵感。灵熊的强大指引可以获得体力和体质，并将积极保护它的幼崽。</TM_SpiritBearR.description>
   <!--EN: spirit bear-->
-  <TM_SpiritBearR.label>spirit bear</TM_SpiritBearR.label>
+  <TM_SpiritBearR.label>灵熊</TM_SpiritBearR.label>
   <!--EN: left paw-->
-  <TM_SpiritBearR.tools.0.label>left paw</TM_SpiritBearR.tools.0.label>
+  <TM_SpiritBearR.tools.0.label>左爪</TM_SpiritBearR.tools.0.label>
   <!--EN: right paw-->
-  <TM_SpiritBearR.tools.1.label>right paw</TM_SpiritBearR.tools.1.label>
+  <TM_SpiritBearR.tools.1.label>右爪</TM_SpiritBearR.tools.1.label>
   <!--EN: mauled-->
-  <TM_SpiritBearR.tools.2.label>mauled</TM_SpiritBearR.tools.2.label>
+  <TM_SpiritBearR.tools.2.label>痛苦</TM_SpiritBearR.tools.2.label>
   <!--EN: head-->
-  <TM_SpiritBearR.tools.3.label>head</TM_SpiritBearR.tools.3.label>
+  <TM_SpiritBearR.tools.3.label>头</TM_SpiritBearR.tools.3.label>
   <!--EN: spirit crow-->
-  <TM_SpiritCrow.label>spirit crow</TM_SpiritCrow.label>
+  <TM_SpiritCrow.label>灵乌鸦</TM_SpiritCrow.label>
   <!--EN: spirit crows-->
-  <TM_SpiritCrow.labelPlural>spirit crows</TM_SpiritCrow.labelPlural>
+  <TM_SpiritCrow.labelPlural>灵乌鸦</TM_SpiritCrow.labelPlural>
   <!--EN: flight1-->
-  <TM_SpiritCrow.lifeStages.0.label>flight1</TM_SpiritCrow.lifeStages.0.label>
+  <TM_SpiritCrow.lifeStages.0.label>飞翔1</TM_SpiritCrow.lifeStages.0.label>
   <!--EN: flight2-->
-  <TM_SpiritCrow.lifeStages.1.label>flight2</TM_SpiritCrow.lifeStages.1.label>
+  <TM_SpiritCrow.lifeStages.1.label>飞翔2</TM_SpiritCrow.lifeStages.1.label>
   <!--EN: crow chick-->
-  <TM_SpiritCrow.lifeStages.2.label>crow chick</TM_SpiritCrow.lifeStages.2.label>
+  <TM_SpiritCrow.lifeStages.2.label>乌鸦小鸡</TM_SpiritCrow.lifeStages.2.label>
   <!--EN: crow fledgling-->
-  <TM_SpiritCrow.lifeStages.3.label>crow fledgling</TM_SpiritCrow.lifeStages.3.label>
+  <TM_SpiritCrow.lifeStages.3.label>灵幼鸦</TM_SpiritCrow.lifeStages.3.label>
   <!--EN: The crow is a spirit animal associated with life mysteries and magic. The spirit crow provides insight and means of supporting intentions. It is also a sign of fortune, though not always good fortune. If the crow has chosen you as your spirit or totem animal, it supports you in developing the power of sight, transformation, and connection with magic and will assist in these endeavors.-->
-  <TM_SpiritCrowR.description>The crow is a spirit animal associated with life mysteries and magic. The spirit crow provides insight and means of supporting intentions. It is also a sign of fortune, though not always good fortune. If the crow has chosen you as your spirit or totem animal, it supports you in developing the power of sight, transformation, and connection with magic and will assist in these endeavors.</TM_SpiritCrowR.description>
+  <TM_SpiritCrowR.description>灵乌鸦是一种与生命奥秘和魔法有关的精神动物。灵乌鸦提供洞察和支持意图的手段。它也是财富的象征，尽管并不总是好运。如果乌鸦选择你作为你的灵魂或图腾动物，它会帮助你获得视力、变形和魔法连接的力量，并将在你努力获得这些能力中提供帮助。</TM_SpiritCrowR.description>
   <!--EN: spirit crow-->
-  <TM_SpiritCrowR.label>spirit crow</TM_SpiritCrowR.label>
+  <TM_SpiritCrowR.label>灵乌鸦</TM_SpiritCrowR.label>
   <!--EN: claws-->
-  <TM_SpiritCrowR.tools.0.label>claws</TM_SpiritCrowR.tools.0.label>
+  <TM_SpiritCrowR.tools.0.label>爪</TM_SpiritCrowR.tools.0.label>
   <!--EN: beak-->
-  <TM_SpiritCrowR.tools.1.label>beak</TM_SpiritCrowR.tools.1.label>
+  <TM_SpiritCrowR.tools.1.label>喙</TM_SpiritCrowR.tools.1.label>
   <!--EN: head-->
-  <TM_SpiritCrowR.tools.2.label>head</TM_SpiritCrowR.tools.2.label>
+  <TM_SpiritCrowR.tools.2.label>头</TM_SpiritCrowR.tools.2.label>
   <!--EN: spirit mongoose-->
-  <TM_SpiritMongoose.label>spirit mongoose</TM_SpiritMongoose.label>
+  <TM_SpiritMongoose.label>灵猫鼬</TM_SpiritMongoose.label>
   <!--EN: spirit mongoose-->
-  <TM_SpiritMongoose.labelPlural>spirit mongoose</TM_SpiritMongoose.labelPlural>
+  <TM_SpiritMongoose.labelPlural>灵猫鼬</TM_SpiritMongoose.labelPlural>
   <!--EN: The mongoose spirit animal is clever and adaptable. It represents an insatiable curiosity about the world around them while possessing the wherewithal to know to look before they leap. The mongoose uses their cunning and agility to quickly deliver lethal strikes against an enemy or swiftly deliver resources. The mongoose is also the most playful of spirit animals.-->
-  <TM_SpiritMongooseR.description>The mongoose spirit animal is clever and adaptable. It represents an insatiable curiosity about the world around them while possessing the wherewithal to know to look before they leap. The mongoose uses their cunning and agility to quickly deliver lethal strikes against an enemy or swiftly deliver resources. The mongoose is also the most playful of spirit animals.</TM_SpiritMongooseR.description>
+  <TM_SpiritMongooseR.description>灵之猫鼬十分聪明，适应性强。它代表着人们对周围世界的永不满足的好奇心，同时拥有在行动之前先看一看的能力。灵之猫鼬利用它们的狡猾和敏捷迅速对敌人发动致命打击或迅速运送资源。灵之猫鼬也是最好玩的精神动物。</TM_SpiritMongooseR.description>
   <!--EN: spirit mongoose-->
-  <TM_SpiritMongooseR.label>spirit mongoose</TM_SpiritMongooseR.label>
+  <TM_SpiritMongooseR.label>灵猫鼬</TM_SpiritMongooseR.label>
   <!--EN: left claw-->
-  <TM_SpiritMongooseR.tools.0.label>left claw</TM_SpiritMongooseR.tools.0.label>
+  <TM_SpiritMongooseR.tools.0.label>左爪</TM_SpiritMongooseR.tools.0.label>
   <!--EN: right claw-->
-  <TM_SpiritMongooseR.tools.1.label>right claw</TM_SpiritMongooseR.tools.1.label>
+  <TM_SpiritMongooseR.tools.1.label>右爪</TM_SpiritMongooseR.tools.1.label>
   <!--EN: head-->
-  <TM_SpiritMongooseR.tools.3.label>head</TM_SpiritMongooseR.tools.3.label>
+  <TM_SpiritMongooseR.tools.3.label>头</TM_SpiritMongooseR.tools.3.label>
 </LanguageData>

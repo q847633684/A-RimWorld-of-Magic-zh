@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Meld steel, jade, silver and magicyte into arcalleum alloy-->
-  <TM_MakeArcalleum.description>Meld steel, jade, silver and magicyte into arcalleum alloy</TM_MakeArcalleum.description>
+  <TM_MakeArcalleum.description>把钢铁、翡翠、白银和魔法原石熔化成魔法合金</TM_MakeArcalleum.description>
   <!--EN: smelting arcalleum-->
-  <TM_MakeArcalleum.jobString>smelting arcalleum</TM_MakeArcalleum.jobString>
+  <TM_MakeArcalleum.jobString>熔炼魔法合金</TM_MakeArcalleum.jobString>
   <!--EN: arcalleum-->
-  <TM_MakeArcalleum.label>arcalleum</TM_MakeArcalleum.label>
+  <TM_MakeArcalleum.label>熔炼魔法合金</TM_MakeArcalleum.label>
   <!--EN: Weave mana, magicyte, and cloth into manaweave-->
-  <TM_MakeManaweave.description>Weave mana, magicyte, and cloth into manaweave</TM_MakeManaweave.description>
+  <TM_MakeManaweave.description>将法力, 魔法原石和布编织成魔纹布</TM_MakeManaweave.description>
   <!--EN: weaving mana-->
-  <TM_MakeManaweave.jobString>weaving mana</TM_MakeManaweave.jobString>
+  <TM_MakeManaweave.jobString>编织魔纹布</TM_MakeManaweave.jobString>
   <!--EN: manaweave-->
-  <TM_MakeManaweave.label>manaweave</TM_MakeManaweave.label>
+  <TM_MakeManaweave.label>编织魔纹布</TM_MakeManaweave.label>
 </LanguageData>

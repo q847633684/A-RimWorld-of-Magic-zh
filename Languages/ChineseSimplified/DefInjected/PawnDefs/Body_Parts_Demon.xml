@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: abdomen-->
-  <Demon_Abdomen.label>abdomen</Demon_Abdomen.label>
+  <Demon_Abdomen.label>腹部</Demon_Abdomen.label>
   <!--EN: plated chest-->
-  <Demon_Body.label>plated chest</Demon_Body.label>
+  <Demon_Body.label>镀金胸甲</Demon_Body.label>
   <!--EN: brain-->
-  <Demon_Brain.label>brain</Demon_Brain.label>
+  <Demon_Brain.label>脑</Demon_Brain.label>
   <!--EN: plated chest-->
-  <Demon_Chest.label>plated chest</Demon_Chest.label>
+  <Demon_Chest.label>镀金胸部</Demon_Chest.label>
   <!--EN: armored death mask-->
-  <Demon_DeathMask.label>armored death mask</Demon_DeathMask.label>
+  <Demon_DeathMask.label>死亡面具</Demon_DeathMask.label>
   <!--EN: head-->
-  <Demon_Head.label>head</Demon_Head.label>
+  <Demon_Head.label>头</Demon_Head.label>
   <!--EN: demonic heart-->
-  <Demon_Heart.label>demonic heart</Demon_Heart.label>
+  <Demon_Heart.label>恶魔之心</Demon_Heart.label>
   <!--EN: shadow heart-->
-  <Demon_Heart_Hidden.label>shadow heart</Demon_Heart_Hidden.label>
+  <Demon_Heart_Hidden.label>暗影之心</Demon_Heart_Hidden.label>
   <!--EN: left side horn-->
-  <Demon_Horn1.label>left side horn</Demon_Horn1.label>
+  <Demon_Horn1.label>左侧犄角</Demon_Horn1.label>
   <!--EN: left top horn-->
-  <Demon_Horn2.label>left top horn</Demon_Horn2.label>
+  <Demon_Horn2.label>左顶犄角</Demon_Horn2.label>
   <!--EN: right top horn-->
-  <Demon_Horn3.label>right top horn</Demon_Horn3.label>
+  <Demon_Horn3.label>右顶犄角</Demon_Horn3.label>
   <!--EN: right side horn-->
-  <Demon_Horn4.label>right side horn</Demon_Horn4.label>
+  <Demon_Horn4.label>右侧犄角</Demon_Horn4.label>
   <!--EN: horns-->
-  <Demon_Horns.label>horns</Demon_Horns.label>
+  <Demon_Horns.label>犄角</Demon_Horns.label>
   <!--EN: left arm-->
-  <Demon_LeftArm.label>left arm</Demon_LeftArm.label>
+  <Demon_LeftArm.label>左臂</Demon_LeftArm.label>
   <!--EN: left arm-->
-  <Demon_LeftArm.label>left arm</Demon_LeftArm.label>
+  <Demon_LeftArm.label>左臂</Demon_LeftArm.label>
   <!--EN: left leg-->
-  <Demon_LeftLeg.label>left leg</Demon_LeftLeg.label>
+  <Demon_LeftLeg.label>左腿</Demon_LeftLeg.label>
   <!--EN: left lung-->
-  <Demon_LeftLung.label>left lung</Demon_LeftLung.label>
+  <Demon_LeftLung.label>左肺</Demon_LeftLung.label>
   <!--EN: left wing-->
-  <Demon_LeftWing.label>left wing</Demon_LeftWing.label>
+  <Demon_LeftWing.label>左翼</Demon_LeftWing.label>
   <!--EN: legs-->
-  <Demon_Legs.label>legs</Demon_Legs.label>
+  <Demon_Legs.label>腿</Demon_Legs.label>
   <!--EN: mandibles-->
-  <Demon_Mandible.label>mandibles</Demon_Mandible.label>
+  <Demon_Mandible.label>下颌骨</Demon_Mandible.label>
   <!--EN: neck-->
-  <Demon_Neck.label>neck</Demon_Neck.label>
+  <Demon_Neck.label>脖子</Demon_Neck.label>
   <!--EN: ribcage-->
-  <Demon_RibCage.label>ribcage</Demon_RibCage.label>
+  <Demon_RibCage.label>肋骨</Demon_RibCage.label>
   <!--EN: right arm-->
-  <Demon_RightArm.label>right arm</Demon_RightArm.label>
+  <Demon_RightArm.label>左臂</Demon_RightArm.label>
   <!--EN: right arm-->
-  <Demon_RightArm.label>right arm</Demon_RightArm.label>
+  <Demon_RightArm.label>左臂</Demon_RightArm.label>
   <!--EN: right leg-->
-  <Demon_RightLeg.label>right leg</Demon_RightLeg.label>
+  <Demon_RightLeg.label>右腿</Demon_RightLeg.label>
   <!--EN: right lung-->
-  <Demon_RightLung.label>right lung</Demon_RightLung.label>
+  <Demon_RightLung.label>右肺</Demon_RightLung.label>
   <!--EN: right wing-->
-  <Demon_RightWing.label>right wing</Demon_RightWing.label>
+  <Demon_RightWing.label>右翼</Demon_RightWing.label>
   <!--EN: inner sight-->
-  <Demon_SightSensor.label>inner sight</Demon_SightSensor.label>
+  <Demon_SightSensor.label>内视</Demon_SightSensor.label>
   <!--EN: inner sense-->
-  <Demon_SixthSense.label>inner sense</Demon_SixthSense.label>
+  <Demon_SixthSense.label>内部感应</Demon_SixthSense.label>
   <!--EN: armored skull-->
-  <Demon_Skull.label>armored skull</Demon_Skull.label>
+  <Demon_Skull.label>骷髅头</Demon_Skull.label>
   <!--EN: armored spine-->
-  <Demon_Spine.label>armored spine</Demon_Spine.label>
+  <Demon_Spine.label>装甲脊柱</Demon_Spine.label>
   <!--EN: wings-->
-  <Demon_Wings.label>wings</Demon_Wings.label>
+  <Demon_Wings.label>翅膀</Demon_Wings.label>
 </LanguageData>

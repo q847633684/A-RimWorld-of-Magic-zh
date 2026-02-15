@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Transport pods in flight.-->
-  <TM_TravelingTransportLightBeam.description>Transport pods in flight.</TM_TravelingTransportLightBeam.description>
+  <TM_TravelingTransportLightBeam.description>运输光线在飞行中。</TM_TravelingTransportLightBeam.description>
   <!--EN: transport beam-->
-  <TM_TravelingTransportLightBeam.label>transport beam</TM_TravelingTransportLightBeam.label>
+  <TM_TravelingTransportLightBeam.label>运输光线</TM_TravelingTransportLightBeam.label>
 </LanguageData>

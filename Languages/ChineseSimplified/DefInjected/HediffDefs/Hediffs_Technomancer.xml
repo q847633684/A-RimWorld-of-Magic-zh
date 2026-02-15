@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Assistance provided by the Techno Bit.-->
-  <TM_BitAssistHD.description>Assistance provided by the Techno Bit.</TM_BitAssistHD.description>
+  <TM_BitAssistHD.description>哔哔小子提供的帮助。</TM_BitAssistHD.description>
   <!--EN: bit assist-->
-  <TM_BitAssistHD.label>bit assist</TM_BitAssistHD.label>
+  <TM_BitAssistHD.label>哔哔小子辅助</TM_BitAssistHD.label>
   <!--EN: I-->
   <TM_BitAssistHD.stages.0.label>I</TM_BitAssistHD.stages.0.label>
   <!--EN: II-->
@@ -35,9 +35,9 @@
   <!--EN: X-->
   <TM_BitAssistHD.stages.9.label>X</TM_BitAssistHD.stages.9.label>
   <!--EN: Combat enhancing stimulant; followed by a brief withdrawal period.-->
-  <TM_NanoStimulantHD.description>Combat enhancing stimulant; followed by a brief withdrawal period.</TM_NanoStimulantHD.description>
+  <TM_NanoStimulantHD.description>增强战斗力的兴奋剂；随后是短暂的停药期。</TM_NanoStimulantHD.description>
   <!--EN: nano stimulant-->
-  <TM_NanoStimulantHD.label>nano stimulant</TM_NanoStimulantHD.label>
+  <TM_NanoStimulantHD.label>纳米兴奋剂</TM_NanoStimulantHD.label>
   <!--EN: I-->
   <TM_NanoStimulantHD.stages.0.label>I</TM_NanoStimulantHD.stages.0.label>
   <!--EN: II-->
@@ -69,13 +69,13 @@
   <!--EN: X-->
   <TM_NanoStimulantHD.stages.9.label>X</TM_NanoStimulantHD.stages.9.label>
   <!--EN: Withdrawal after the effects of the nano stim wear off.-->
-  <TM_NanoStimulantWithdrawalHD.description>Withdrawal after the effects of the nano stim wear off.</TM_NanoStimulantWithdrawalHD.description>
+  <TM_NanoStimulantWithdrawalHD.description>停药后纳米兴奋剂的效果逐渐消失。</TM_NanoStimulantWithdrawalHD.description>
   <!--EN: stim withdrawal-->
-  <TM_NanoStimulantWithdrawalHD.label>stim withdrawal</TM_NanoStimulantWithdrawalHD.label>
+  <TM_NanoStimulantWithdrawalHD.label>停用兴奋剂</TM_NanoStimulantWithdrawalHD.label>
   <!--EN: Overclocked electronics and machinery are performing at hazardous rates.-->
-  <TM_OverdriveHD.description>Overclocked electronics and machinery are performing at hazardous rates.</TM_OverdriveHD.description>
+  <TM_OverdriveHD.description>超频电子和机械,让其以危险的速度运转。</TM_OverdriveHD.description>
   <!--EN: overdrive-->
-  <TM_OverdriveHD.label>overdrive</TM_OverdriveHD.label>
+  <TM_OverdriveHD.label>过载</TM_OverdriveHD.label>
   <!--EN: I-->
   <TM_OverdriveHD.stages.0.label>I</TM_OverdriveHD.stages.0.label>
   <!--EN: II-->
@@ -85,9 +85,9 @@
   <!--EN: IV-->
   <TM_OverdriveHD.stages.3.label>IV</TM_OverdriveHD.stages.3.label>
   <!--EN: Overclocked electronics and machinery are performing at hazardous rates.-->
-  <TM_OverdriveHD_I.description>Overclocked electronics and machinery are performing at hazardous rates.</TM_OverdriveHD_I.description>
+  <TM_OverdriveHD_I.description>超频电子和机械,让其以危险的速度运转。</TM_OverdriveHD_I.description>
   <!--EN: overdrive-->
-  <TM_OverdriveHD_I.label>overdrive</TM_OverdriveHD_I.label>
+  <TM_OverdriveHD_I.label>过载</TM_OverdriveHD_I.label>
   <!--EN: I-->
   <TM_OverdriveHD_I.stages.0.label>I</TM_OverdriveHD_I.stages.0.label>
   <!--EN: II-->
@@ -97,9 +97,9 @@
   <!--EN: IV-->
   <TM_OverdriveHD_I.stages.3.label>IV</TM_OverdriveHD_I.stages.3.label>
   <!--EN: Overclocked electronics and machinery are performing at hazardous rates.-->
-  <TM_OverdriveHD_II.description>Overclocked electronics and machinery are performing at hazardous rates.</TM_OverdriveHD_II.description>
+  <TM_OverdriveHD_II.description>超频电子和机械,让其以危险的速度运转。</TM_OverdriveHD_II.description>
   <!--EN: overdrive-->
-  <TM_OverdriveHD_II.label>overdrive</TM_OverdriveHD_II.label>
+  <TM_OverdriveHD_II.label>过载</TM_OverdriveHD_II.label>
   <!--EN: I-->
   <TM_OverdriveHD_II.stages.0.label>I</TM_OverdriveHD_II.stages.0.label>
   <!--EN: II-->
@@ -109,9 +109,9 @@
   <!--EN: IV-->
   <TM_OverdriveHD_II.stages.3.label>IV</TM_OverdriveHD_II.stages.3.label>
   <!--EN: Overclocked electronics and machinery are performing at hazardous rates.-->
-  <TM_OverdriveHD_III.description>Overclocked electronics and machinery are performing at hazardous rates.</TM_OverdriveHD_III.description>
+  <TM_OverdriveHD_III.description>超频电子和机械,让其以危险的速度运转。</TM_OverdriveHD_III.description>
   <!--EN: overdrive-->
-  <TM_OverdriveHD_III.label>overdrive</TM_OverdriveHD_III.label>
+  <TM_OverdriveHD_III.label>过载</TM_OverdriveHD_III.label>
   <!--EN: I-->
   <TM_OverdriveHD_III.stages.0.label>I</TM_OverdriveHD_III.stages.0.label>
   <!--EN: II-->
@@ -121,47 +121,47 @@
   <!--EN: IV-->
   <TM_OverdriveHD_III.stages.3.label>IV</TM_OverdriveHD_III.stages.3.label>
   <!--EN: Fibrous mechanites reprogrammed to cause less stress on the host.-->
-  <TM_ReprogrammedFibMechanites_HD.description>Fibrous mechanites reprogrammed to cause less stress on the host.</TM_ReprogrammedFibMechanites_HD.description>
+  <TM_ReprogrammedFibMechanites_HD.description>纤维机械组织被重新编程以减少对宿主的压力。</TM_ReprogrammedFibMechanites_HD.description>
   <!--EN: reprogrammed fibrous mechanites-->
-  <TM_ReprogrammedFibMechanites_HD.label>reprogrammed fibrous mechanites</TM_ReprogrammedFibMechanites_HD.label>
+  <TM_ReprogrammedFibMechanites_HD.label>重编程机械纤维</TM_ReprogrammedFibMechanites_HD.label>
   <!--EN: (fibrous)-->
-  <TM_ReprogrammedFibMechanites_HD.stages.0.label>(fibrous)</TM_ReprogrammedFibMechanites_HD.stages.0.label>
+  <TM_ReprogrammedFibMechanites_HD.stages.0.label>(纤维状)</TM_ReprogrammedFibMechanites_HD.stages.0.label>
   <!--EN: (fibrous)-->
-  <TM_ReprogrammedFibMechanites_HD.stages.1.label>(fibrous)</TM_ReprogrammedFibMechanites_HD.stages.1.label>
+  <TM_ReprogrammedFibMechanites_HD.stages.1.label>(纤维状)</TM_ReprogrammedFibMechanites_HD.stages.1.label>
   <!--EN: Lymphatic mechanites reprogrammed to cause less stress on the host.-->
-  <TM_ReprogrammedLymMechanites_HD.description>Lymphatic mechanites reprogrammed to cause less stress on the host.</TM_ReprogrammedLymMechanites_HD.description>
+  <TM_ReprogrammedLymMechanites_HD.description>淋巴被重新编程以减少对宿主的压力。</TM_ReprogrammedLymMechanites_HD.description>
   <!--EN: reprogrammed lymphatic mechanites-->
-  <TM_ReprogrammedLymMechanites_HD.label>reprogrammed lymphatic mechanites</TM_ReprogrammedLymMechanites_HD.label>
+  <TM_ReprogrammedLymMechanites_HD.label>重编程机械淋巴</TM_ReprogrammedLymMechanites_HD.label>
   <!--EN: (lymphatic)-->
-  <TM_ReprogrammedLymMechanites_HD.stages.0.label>(lymphatic)</TM_ReprogrammedLymMechanites_HD.stages.0.label>
+  <TM_ReprogrammedLymMechanites_HD.stages.0.label>(淋巴)</TM_ReprogrammedLymMechanites_HD.stages.0.label>
   <!--EN: (lymphatic)-->
-  <TM_ReprogrammedLymMechanites_HD.stages.1.label>(lymphatic)</TM_ReprogrammedLymMechanites_HD.stages.1.label>
+  <TM_ReprogrammedLymMechanites_HD.stages.1.label>(淋巴)</TM_ReprogrammedLymMechanites_HD.stages.1.label>
   <!--EN: Sensory mechanites reprogrammed to cause less stress on the host.-->
-  <TM_ReprogrammedSenMechanites_HD.description>Sensory mechanites reprogrammed to cause less stress on the host.</TM_ReprogrammedSenMechanites_HD.description>
+  <TM_ReprogrammedSenMechanites_HD.description>纤维机械组织被重新编程以减少对宿主的压力.</TM_ReprogrammedSenMechanites_HD.description>
   <!--EN: reprogrammed sensory mechanites-->
-  <TM_ReprogrammedSenMechanites_HD.label>reprogrammed sensory mechanites</TM_ReprogrammedSenMechanites_HD.label>
+  <TM_ReprogrammedSenMechanites_HD.label>重编程机械纤维</TM_ReprogrammedSenMechanites_HD.label>
   <!--EN: (sensory)-->
-  <TM_ReprogrammedSenMechanites_HD.stages.0.label>(sensory)</TM_ReprogrammedSenMechanites_HD.stages.0.label>
+  <TM_ReprogrammedSenMechanites_HD.stages.0.label>(感官)</TM_ReprogrammedSenMechanites_HD.stages.0.label>
   <!--EN: (sensory)-->
-  <TM_ReprogrammedSenMechanites_HD.stages.1.label>(sensory)</TM_ReprogrammedSenMechanites_HD.stages.1.label>
+  <TM_ReprogrammedSenMechanites_HD.stages.1.label>(感官)</TM_ReprogrammedSenMechanites_HD.stages.1.label>
   <!--EN: A small, floating sphere that assists the Technomancer.-->
-  <TM_TechnoBitHD.description>A small, floating sphere that assists the Technomancer.</TM_TechnoBitHD.description>
+  <TM_TechnoBitHD.description>一个小的，漂浮的球体，帮助技术人员。</TM_TechnoBitHD.description>
   <!--EN: Techno Bit-->
-  <TM_TechnoBitHD.label>Techno Bit</TM_TechnoBitHD.label>
+  <TM_TechnoBitHD.label>哔哔小子</TM_TechnoBitHD.label>
   <!--EN: A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.-->
-  <TM_TechnoShieldHD.description>A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.</TM_TechnoShieldHD.description>
+  <TM_TechnoShieldHD.description>偏转子弹的护盾；护盾能被有足够力量的子弹穿透。</TM_TechnoShieldHD.description>
   <!--EN: kinetic shield-->
-  <TM_TechnoShieldHD.label>kinetic shield</TM_TechnoShieldHD.label>
+  <TM_TechnoShieldHD.label>动能护盾</TM_TechnoShieldHD.label>
   <!--EN: A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.-->
-  <TM_TechnoShieldHD_I.description>A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.</TM_TechnoShieldHD_I.description>
+  <TM_TechnoShieldHD_I.description>偏转子弹的护盾；护盾能被有足够力量的子弹穿透。</TM_TechnoShieldHD_I.description>
   <!--EN: kinetic shield-->
-  <TM_TechnoShieldHD_I.label>kinetic shield</TM_TechnoShieldHD_I.label>
+  <TM_TechnoShieldHD_I.label>动能护盾</TM_TechnoShieldHD_I.label>
   <!--EN: A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.-->
-  <TM_TechnoShieldHD_II.description>A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.</TM_TechnoShieldHD_II.description>
+  <TM_TechnoShieldHD_II.description>偏转子弹的护盾；护盾能被有足够力量的子弹穿透。</TM_TechnoShieldHD_II.description>
   <!--EN: kinetic shield-->
-  <TM_TechnoShieldHD_II.label>kinetic shield</TM_TechnoShieldHD_II.label>
+  <TM_TechnoShieldHD_II.label>动能护盾</TM_TechnoShieldHD_II.label>
   <!--EN: A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.-->
-  <TM_TechnoShieldHD_III.description>A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.</TM_TechnoShieldHD_III.description>
+  <TM_TechnoShieldHD_III.description>偏转子弹的护盾；护盾能被有足够力量的子弹穿透。</TM_TechnoShieldHD_III.description>
   <!--EN: kinetic shield-->
-  <TM_TechnoShieldHD_III.label>kinetic shield</TM_TechnoShieldHD_III.label>
+  <TM_TechnoShieldHD_III.label>动能护盾</TM_TechnoShieldHD_III.label>
 </LanguageData>

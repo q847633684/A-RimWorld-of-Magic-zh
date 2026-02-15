@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Mental state: Berserk-->
-  <TM_Berserk.baseInspectLine>Mental state: Berserk</TM_Berserk.baseInspectLine>
+  <TM_Berserk.baseInspectLine>精神状态：狂暴</TM_Berserk.baseInspectLine>
   <!--EN: berserk-->
-  <TM_Berserk.label>berserk</TM_Berserk.label>
+  <TM_Berserk.label>狂暴</TM_Berserk.label>
   <!--EN: {0}'s berserk rage has come to an end.-->
-  <TM_Berserk.recoveryMessage>{0}&amp;apos;s berserk rage has come to an end.</TM_Berserk.recoveryMessage>
+  <TM_Berserk.recoveryMessage>{0}的狂怒已经结束。</TM_Berserk.recoveryMessage>
   <!--EN: Mental state: Fleeing in panic-->
-  <TM_PanicFlee.baseInspectLine>Mental state: Fleeing in panic</TM_PanicFlee.baseInspectLine>
+  <TM_PanicFlee.baseInspectLine>精神状态：惊慌失措</TM_PanicFlee.baseInspectLine>
   <!--EN: panic fleeing-->
-  <TM_PanicFlee.label>panic fleeing</TM_PanicFlee.label>
+  <TM_PanicFlee.label>恐慌逃窜</TM_PanicFlee.label>
   <!--EN: Mental state: Confused and wandering-->
-  <TM_WanderConfused.baseInspectLine>Mental state: Confused and wandering</TM_WanderConfused.baseInspectLine>
+  <TM_WanderConfused.baseInspectLine>精神状态：迷茫徘徊</TM_WanderConfused.baseInspectLine>
   <!--EN: confused wandering-->
-  <TM_WanderConfused.label>confused wandering</TM_WanderConfused.label>
+  <TM_WanderConfused.label>迷茫徘徊</TM_WanderConfused.label>
   <!--EN: {0} is no longer confused.-->
-  <TM_WanderConfused.recoveryMessage>{0} is no longer confused.</TM_WanderConfused.recoveryMessage>
+  <TM_WanderConfused.recoveryMessage>{0}不再迷茫。</TM_WanderConfused.recoveryMessage>
   <!--EN: Mental state: Psychotic wandering-->
-  <TM_WanderPsychotic.baseInspectLine>Mental state: Psychotic wandering</TM_WanderPsychotic.baseInspectLine>
+  <TM_WanderPsychotic.baseInspectLine>精神状态：精神错乱</TM_WanderPsychotic.baseInspectLine>
   <!--EN: wandering in psychosis-->
-  <TM_WanderPsychotic.label>wandering in psychosis</TM_WanderPsychotic.label>
+  <TM_WanderPsychotic.label>精神错乱</TM_WanderPsychotic.label>
   <!--EN: {0} is no longer wandering in a psychotic state.-->
-  <TM_WanderPsychotic.recoveryMessage>{0} is no longer wandering in a psychotic state.</TM_WanderPsychotic.recoveryMessage>
+  <TM_WanderPsychotic.recoveryMessage>{0}不再处于精神错乱状态。</TM_WanderPsychotic.recoveryMessage>
   <!--EN: Mental state: Sad wandering-->
-  <TM_WanderSad.baseInspectLine>Mental state: Sad wandering</TM_WanderSad.baseInspectLine>
+  <TM_WanderSad.baseInspectLine>精神状态：悲伤徘徊</TM_WanderSad.baseInspectLine>
   <!--EN: sad wandering-->
-  <TM_WanderSad.label>sad wandering</TM_WanderSad.label>
+  <TM_WanderSad.label>悲伤徘徊</TM_WanderSad.label>
   <!--EN: {0} is no longer wandering in sadness.-->
-  <TM_WanderSad.recoveryMessage>{0} is no longer wandering in sadness.</TM_WanderSad.recoveryMessage>
+  <TM_WanderSad.recoveryMessage>{0}不再悲伤。</TM_WanderSad.recoveryMessage>
 </LanguageData>

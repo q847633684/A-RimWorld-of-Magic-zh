@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: dire wolf-->
-  <TM_Dire_Wolf.label>dire wolf</TM_Dire_Wolf.label>
+  <TM_Dire_Wolf.label>恐惧魔狼</TM_Dire_Wolf.label>
   <!--EN: dire wolves-->
-  <TM_Dire_Wolf.labelPlural>dire wolves</TM_Dire_Wolf.labelPlural>
+  <TM_Dire_Wolf.labelPlural>恐惧魔狼群</TM_Dire_Wolf.labelPlural>
   <!--EN: dire wolf pup-->
-  <TM_Dire_Wolf.lifeStages.0.label>dire wolf pup</TM_Dire_Wolf.lifeStages.0.label>
+  <TM_Dire_Wolf.lifeStages.0.label>恐惧魔狼</TM_Dire_Wolf.lifeStages.0.label>
   <!--EN: dire wolf pups-->
-  <TM_Dire_Wolf.lifeStages.0.labelPlural>dire wolf pups</TM_Dire_Wolf.lifeStages.0.labelPlural>
+  <TM_Dire_Wolf.lifeStages.0.labelPlural>恐惧魔狼群</TM_Dire_Wolf.lifeStages.0.labelPlural>
   <!--EN: Dire wolves roam the north in great packs and fear neither man nor megasloth. A savage predator armed with razor sharp teeth and a coat like steel thread, dire wolves are as fierce as any known creature. They are often tied to mythical lore and are said to possess a unique link to arcane powers.-->
-  <TM_Dire_WolfR.description>Dire wolves roam the north in great packs and fear neither man nor megasloth. A savage predator armed with razor sharp teeth and a coat like steel thread, dire wolves are as fierce as any known creature. They are often tied to mythical lore and are said to possess a unique link to arcane powers.</TM_Dire_WolfR.description>
+  <TM_Dire_WolfR.description>恐惧魔狼成群结队地在北方游荡，既不害怕人，也不害怕巨树獭。它是凶残的掠食者，长着锋利的牙齿和钢丝一样的皮毛，恐惧魔狼和任何已知的生物一样凶猛。它们通常与神话般的传说联系在一起，据说与神秘力量有着独特的联系。</TM_Dire_WolfR.description>
   <!--EN: dire wolf-->
-  <TM_Dire_WolfR.label>dire wolf</TM_Dire_WolfR.label>
+  <TM_Dire_WolfR.label>恐惧魔狼</TM_Dire_WolfR.label>
   <!--EN: left claw-->
-  <TM_Dire_WolfR.tools.0.label>left claw</TM_Dire_WolfR.tools.0.label>
+  <TM_Dire_WolfR.tools.0.label>左爪</TM_Dire_WolfR.tools.0.label>
   <!--EN: right claw-->
-  <TM_Dire_WolfR.tools.1.label>right claw</TM_Dire_WolfR.tools.1.label>
+  <TM_Dire_WolfR.tools.1.label>右爪</TM_Dire_WolfR.tools.1.label>
   <!--EN: head-->
-  <TM_Dire_WolfR.tools.3.label>head</TM_Dire_WolfR.tools.3.label>
+  <TM_Dire_WolfR.tools.3.label>头</TM_Dire_WolfR.tools.3.label>
 </LanguageData>

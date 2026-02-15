@@ -1,75 +1,75 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: My mind is fortified against the troubles to come.-->
-  <MarbleMindTD.stages.0.description>My mind is fortified against the troubles to come.</MarbleMindTD.stages.0.description>
+  <MarbleMindTD.stages.0.description>我的心灵已经坚强起来，可以抵御即将到来的麻烦。</MarbleMindTD.stages.0.description>
   <!--EN: mind ward-->
-  <MarbleMindTD.stages.0.label>mind ward</MarbleMindTD.stages.0.label>
+  <MarbleMindTD.stages.0.label>心灵防护</MarbleMindTD.stages.0.label>
   <!--EN: Increases the recovery rate from Arcane Weakness; does not reduce the amount of Arcane Weakness acquired.-->
-  <TM_ArtifactArcaneRecoveryHD.description>Increases the recovery rate from Arcane Weakness; does not reduce the amount of Arcane Weakness acquired.</TM_ArtifactArcaneRecoveryHD.description>
+  <TM_ArtifactArcaneRecoveryHD.description>增加从奥术虚弱中恢复的速度；不减少获得的奥术虚弱的严重性.</TM_ArtifactArcaneRecoveryHD.description>
   <!--EN: Arcane Recovery-->
-  <TM_ArtifactArcaneRecoveryHD.label>Arcane Recovery</TM_ArtifactArcaneRecoveryHD.label>
+  <TM_ArtifactArcaneRecoveryHD.label>神秘复苏</TM_ArtifactArcaneRecoveryHD.label>
   <!--EN: Blocks physical attacks; prevents damage from successfully blocked attacks.-->
-  <TM_ArtifactBlockHD.description>Blocks physical attacks; prevents damage from successfully blocked attacks.</TM_ArtifactBlockHD.description>
+  <TM_ArtifactBlockHD.description>阻止物理攻击；不会受到被成功阻止的攻击造成的伤害。</TM_ArtifactBlockHD.description>
   <!--EN: Blocking-->
-  <TM_ArtifactBlockHD.label>Blocking</TM_ArtifactBlockHD.label>
+  <TM_ArtifactBlockHD.label>阻挡</TM_ArtifactBlockHD.label>
   <!--EN: Improves sight and grants minor night vision.-->
-  <TM_ArtifactCatEyesHD.description>Improves sight and grants minor night vision.</TM_ArtifactCatEyesHD.description>
+  <TM_ArtifactCatEyesHD.description>改善视力并提供轻微的夜视.</TM_ArtifactCatEyesHD.description>
   <!--EN: Dark Sight-->
-  <TM_ArtifactCatEyesHD.label>Dark Sight</TM_ArtifactCatEyesHD.label>
+  <TM_ArtifactCatEyesHD.label>黑暗的视线</TM_ArtifactCatEyesHD.label>
   <!--EN: Blocks attacks and can deflect projectiles to nearby enemies; prevents damage from a successfully deflected attack.-->
-  <TM_ArtifactDeflectHD.description>Blocks attacks and can deflect projectiles to nearby enemies; prevents damage from a successfully deflected attack.</TM_ArtifactDeflectHD.description>
+  <TM_ArtifactDeflectHD.description>阻挡攻击并能将子弹偏转到附近的敌人；不会受到被成功偏转的攻击造成的伤害.</TM_ArtifactDeflectHD.description>
   <!--EN: Deflective Blocking-->
-  <TM_ArtifactDeflectHD.label>Deflective Blocking</TM_ArtifactDeflectHD.label>
+  <TM_ArtifactDeflectHD.label>偏移阻挡</TM_ArtifactDeflectHD.label>
   <!--EN: Increases natural healing.-->
-  <TM_ArtifactHealthHD.description>Increases natural healing.</TM_ArtifactHealthHD.description>
+  <TM_ArtifactHealthHD.description>增加自然愈合效果.</TM_ArtifactHealthHD.description>
   <!--EN: Improved Health-->
-  <TM_ArtifactHealthHD.label>Improved Health</TM_ArtifactHealthHD.label>
+  <TM_ArtifactHealthHD.label>改善健康</TM_ArtifactHealthHD.label>
   <!--EN: Mends and repairs equipped apparel and weapons.-->
-  <TM_ArtifactMendingHD.description>Mends and repairs equipped apparel and weapons.</TM_ArtifactMendingHD.description>
+  <TM_ArtifactMendingHD.description>修理身上的服装和武器。</TM_ArtifactMendingHD.description>
   <!--EN: Mending-->
-  <TM_ArtifactMendingHD.label>Mending</TM_ArtifactMendingHD.label>
+  <TM_ArtifactMendingHD.label>修补</TM_ArtifactMendingHD.label>
   <!--EN: A unique talisman that helps a pawn compartmentalize their emotions to quickly recover from a mental breakdown.-->
-  <TM_ArtifactMindHD.description>A unique talisman that helps a pawn compartmentalize their emotions to quickly recover from a mental breakdown.</TM_ArtifactMindHD.description>
+  <TM_ArtifactMindHD.description>一种独特的护身魔法，可以帮助人们将他们的情绪分隔开来，以便从精神崩溃中迅速恢复。</TM_ArtifactMindHD.description>
   <!--EN: Mind Ward-->
-  <TM_ArtifactMindHD.label>Mind Ward</TM_ArtifactMindHD.label>
+  <TM_ArtifactMindHD.label>精神守护</TM_ArtifactMindHD.label>
   <!--EN: A talisman that uncannily ascertains an easy path across any obstacle; bypasses the movement penalty for obstacles and terrain.-->
-  <TM_ArtifactPathfindingHD.description>A talisman that uncannily ascertains an easy path across any obstacle; bypasses the movement penalty for obstacles and terrain.</TM_ArtifactPathfindingHD.description>
+  <TM_ArtifactPathfindingHD.description>一种护身魔法，能神奇地确定一条容易通过任何障碍物的路径；减少通过障碍物和地形的移动速度惩罚.</TM_ArtifactPathfindingHD.description>
   <!--EN: Pathfinding-->
-  <TM_ArtifactPathfindingHD.label>Pathfinding</TM_ArtifactPathfindingHD.label>
+  <TM_ArtifactPathfindingHD.label>寻路</TM_ArtifactPathfindingHD.label>
   <!--EN: Improves the quality of sleep.-->
-  <TM_ArtifactRenewalHD.description>Improves the quality of sleep.</TM_ArtifactRenewalHD.description>
+  <TM_ArtifactRenewalHD.description>提高睡眠质量.</TM_ArtifactRenewalHD.description>
   <!--EN: Renewal-->
-  <TM_ArtifactRenewalHD.label>Renewal</TM_ArtifactRenewalHD.label>
+  <TM_ArtifactRenewalHD.label>重生</TM_ArtifactRenewalHD.label>
   <!--EN: An enchantment that increases manipulation.-->
-  <TM_ArtifactStrengthHD.description>An enchantment that increases manipulation.</TM_ArtifactStrengthHD.description>
+  <TM_ArtifactStrengthHD.description>增加力量的魔法。</TM_ArtifactStrengthHD.description>
   <!--EN: Strength of Stone-->
-  <TM_ArtifactStrengthHD.label>Strength of Stone</TM_ArtifactStrengthHD.label>
+  <TM_ArtifactStrengthHD.label>石之力量</TM_ArtifactStrengthHD.label>
   <!--EN: Increases the maximum blood magic available to a blood mage.-->
-  <TM_Artifact_BloodBoostHD.description>Increases the maximum blood magic available to a blood mage.</TM_Artifact_BloodBoostHD.description>
+  <TM_Artifact_BloodBoostHD.description>增加血法师的最多血法力上限。</TM_Artifact_BloodBoostHD.description>
   <!--EN: Blood Boost-->
-  <TM_Artifact_BloodBoostHD.label>Blood Boost</TM_Artifact_BloodBoostHD.label>
+  <TM_Artifact_BloodBoostHD.label>血液循环</TM_Artifact_BloodBoostHD.label>
   <!--EN: Increases the maximum hate available to a death knight.-->
-  <TM_Artifact_HateBoostHD.description>Increases the maximum hate available to a death knight.</TM_Artifact_HateBoostHD.description>
+  <TM_Artifact_HateBoostHD.description>增加死亡骑士的仇恨上限。</TM_Artifact_HateBoostHD.description>
   <!--EN: Hate Boost-->
-  <TM_Artifact_HateBoostHD.label>Hate Boost</TM_Artifact_HateBoostHD.label>
+  <TM_Artifact_HateBoostHD.label>仇恨提升</TM_Artifact_HateBoostHD.label>
   <!--EN: Increases the maximum psionic energy available to a psionic.-->
-  <TM_Artifact_PsionicBoostHD.description>Increases the maximum psionic energy available to a psionic.</TM_Artifact_PsionicBoostHD.description>
+  <TM_Artifact_PsionicBoostHD.description>增加灵能战斗的最多灵能上限.</TM_Artifact_PsionicBoostHD.description>
   <!--EN: Psionic Boost-->
-  <TM_Artifact_PsionicBoostHD.label>Psionic Boost</TM_Artifact_PsionicBoostHD.label>
+  <TM_Artifact_PsionicBoostHD.label>心灵刺激</TM_Artifact_PsionicBoostHD.label>
   <!--EN: Reduces undead upkeep of this necromancer and increases the movement and attack power of nearby undead.-->
-  <TM_ShroudOfUndeathHD.description>Reduces undead upkeep of this necromancer and increases the movement and attack power of nearby undead.</TM_ShroudOfUndeathHD.description>
+  <TM_ShroudOfUndeathHD.description>减少此死灵法师对亡灵的维持费用并增加附近亡灵的移动力和攻击力。</TM_ShroudOfUndeathHD.description>
   <!--EN: Shroud of Undeath-->
-  <TM_ShroudOfUndeathHD.label>Shroud of Undeath</TM_ShroudOfUndeathHD.label>
+  <TM_ShroudOfUndeathHD.label>亡灵裹尸布</TM_ShroudOfUndeathHD.label>
   <!--EN: These changes make me feel like a stranger to myself, it's going to take some time to rediscover who I am.-->
-  <TM_TraitInfusion.stages.0.description>These changes make me feel like a stranger to myself, it&amp;apos;s going to take some time to rediscover who I am.</TM_TraitInfusion.stages.0.description>
+  <TM_TraitInfusion.stages.0.description>这些变化让我感觉自己像个陌生人，需要一些时间才能重新发现我是谁。</TM_TraitInfusion.stages.0.description>
   <!--EN: Absorbed traits-->
-  <TM_TraitInfusion.stages.0.label>Absorbed traits</TM_TraitInfusion.stages.0.label>
+  <TM_TraitInfusion.stages.0.label>吸收特性</TM_TraitInfusion.stages.0.label>
   <!--EN: A pawn has gained traits through magical infusion; this will affect their sense of self.-->
-  <TM_TraitInfusionHD.description>A pawn has gained traits through magical infusion; this will affect their sense of self.</TM_TraitInfusionHD.description>
+  <TM_TraitInfusionHD.description>一个小人通过魔法注入获得了一些特质，这会影响他们的自我意识.</TM_TraitInfusionHD.description>
   <!--EN: Trait Infusion-->
-  <TM_TraitInfusionHD.label>Trait Infusion</TM_TraitInfusionHD.label>
+  <TM_TraitInfusionHD.label>注入特性</TM_TraitInfusionHD.label>
   <!--EN: Drains heat and energy from the body; prevents heat stroke. Mages only: lowers room temperature.-->
-  <TM_WinterStaffHD.description>Drains heat and energy from the body; prevents heat stroke. Mages only: lowers room temperature.</TM_WinterStaffHD.description>
+  <TM_WinterStaffHD.description>排出身体的热量和能量，可以防止中暑。魔法师使用时，可降低室内温度。</TM_WinterStaffHD.description>
   <!--EN: Winter's Chill-->
-  <TM_WinterStaffHD.label>Winter&amp;apos;s Chill</TM_WinterStaffHD.label>
+  <TM_WinterStaffHD.label>寒气</TM_WinterStaffHD.label>
 </LanguageData>

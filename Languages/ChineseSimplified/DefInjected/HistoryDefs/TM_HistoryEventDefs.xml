@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: inspired magic class-->
-  <TM_BestowClassEvent.label>inspired magic class</TM_BestowClassEvent.label>
+  <TM_BestowClassEvent.label>启发魔法职业</TM_BestowClassEvent.label>
   <!--EN: granted the gift of magic-->
-  <TM_BestowMagicEvent.label>granted the gift of magic</TM_BestowMagicEvent.label>
+  <TM_BestowMagicEvent.label>被授予魔法之礼</TM_BestowMagicEvent.label>
   <!--EN: killed a fighter-->
-  <TM_KilledFighter.label>killed a fighter</TM_KilledFighter.label>
+  <TM_KilledFighter.label>击杀战士</TM_KilledFighter.label>
   <!--EN: killed someone-->
-  <TM_KilledHumanlike.label>killed someone</TM_KilledHumanlike.label>
+  <TM_KilledHumanlike.label>击杀某人</TM_KilledHumanlike.label>
   <!--EN: killed a mage-->
-  <TM_KilledMage.label>killed a mage</TM_KilledMage.label>
+  <TM_KilledMage.label>击杀法师</TM_KilledMage.label>
   <!--EN: offensive or vulgar use of magic-->
-  <TM_OffensiveMagic.label>offensive or vulgar use of magic</TM_OffensiveMagic.label>
+  <TM_OffensiveMagic.label>无礼或粗俗的使用魔法</TM_OffensiveMagic.label>
   <!--EN: severed a mage from magic-->
-  <TM_SeverMagicEvent.label>severed a mage from magic</TM_SeverMagicEvent.label>
+  <TM_SeverMagicEvent.label>将法师从魔法中解救出来</TM_SeverMagicEvent.label>
   <!--EN: used a magic ability-->
-  <TM_UsedMagic.label>used a magic ability</TM_UsedMagic.label>
+  <TM_UsedMagic.label>使用法术</TM_UsedMagic.label>
   <!--EN: used a combat ability-->
-  <TM_UsedManeuver.label>used a combat ability</TM_UsedManeuver.label>
+  <TM_UsedManeuver.label>使用战技</TM_UsedManeuver.label>
 </LanguageData>

@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Enables crafting to tier II enchanting gems.-->
-  <TM_AdvancedEnchanting.description>Enables crafting to tier II enchanting gems.</TM_AdvancedEnchanting.description>
+  <TM_AdvancedEnchanting.description>允许打造中级的附魔宝石。</TM_AdvancedEnchanting.description>
   <!--EN: advanced enchanting-->
-  <TM_AdvancedEnchanting.label>advanced enchanting</TM_AdvancedEnchanting.label>
+  <TM_AdvancedEnchanting.label>中级附魔</TM_AdvancedEnchanting.label>
   <!--EN: Allows the use of higher quality material to develop more powerful books and scrolls.-->
-  <TM_AdvancedScribing.description>Allows the use of higher quality material to develop more powerful books and scrolls.</TM_AdvancedScribing.description>
+  <TM_AdvancedScribing.description>允许殖民者刻绘中级技能卷轴。</TM_AdvancedScribing.description>
   <!--EN: advanced scribing-->
-  <TM_AdvancedScribing.label>advanced scribing</TM_AdvancedScribing.label>
+  <TM_AdvancedScribing.label>中级刻绘</TM_AdvancedScribing.label>
   <!--EN: Applies knowledge of arcane crafting and enchantments to learn how to recreate equipment with more powerful magical properties.-->
-  <TM_ArcaneApparel.description>Applies knowledge of arcane crafting and enchantments to learn how to recreate equipment with more powerful magical properties.</TM_ArcaneApparel.description>
+  <TM_ArcaneApparel.description>允许铸造更高级的魔法装备。</TM_ArcaneApparel.description>
   <!--EN: magical equipment-->
-  <TM_ArcaneApparel.label>magical equipment</TM_ArcaneApparel.label>
+  <TM_ArcaneApparel.label>中级奥术铸造</TM_ArcaneApparel.label>
   <!--EN: Enables the recreation of arcane artifacts through extensive research combining knowledge of enchantments, ancient designs, runes, and rumors.-->
-  <TM_ArcaneArtifacts.description>Enables the recreation of arcane artifacts through extensive research combining knowledge of enchantments, ancient designs, runes, and rumors.</TM_ArcaneArtifacts.description>
+  <TM_ArcaneArtifacts.description>允许铸造传奇的魔法装备。</TM_ArcaneArtifacts.description>
   <!--EN: arcane artifacts-->
-  <TM_ArcaneArtifacts.label>arcane artifacts</TM_ArcaneArtifacts.label>
+  <TM_ArcaneArtifacts.label>高级奥术铸造</TM_ArcaneArtifacts.label>
   <!--EN: Opens research into various facilities and workbenches that enabled the creation of unique magical items and effects.-->
-  <TM_ArcaneConstruction.description>Opens research into various facilities and workbenches that enabled the creation of unique magical items and effects.</TM_ArcaneConstruction.description>
+  <TM_ArcaneConstruction.description>允许研究各种设施和工作台，使创造独特的魔法物品和效果。</TM_ArcaneConstruction.description>
   <!--EN: arcane facilities-->
-  <TM_ArcaneConstruction.label>arcane facilities</TM_ArcaneConstruction.label>
+  <TM_ArcaneConstruction.label>魔法设施</TM_ArcaneConstruction.label>
   <!--EN: The first step in understanding the link between the arcane and physical. Enables construction of powerful gems of insight and magical equipment.-->
-  <TM_ArcaneCrafting.description>The first step in understanding the link between the arcane and physical. Enables construction of powerful gems of insight and magical equipment.</TM_ArcaneCrafting.description>
+  <TM_ArcaneCrafting.description>允许铸造初级的魔法装备及洞察宝石。</TM_ArcaneCrafting.description>
   <!--EN: arcane crafting-->
-  <TM_ArcaneCrafting.label>arcane crafting</TM_ArcaneCrafting.label>
+  <TM_ArcaneCrafting.label>初级奥术铸造</TM_ArcaneCrafting.label>
   <!--EN: Develop the means of using arcane power to craft various items and equipment. Completion of this research will also reveal how to make Manaweave, a unique material that enhances arcane power.-->
-  <TM_ArcaneForging.description>Develop the means of using arcane power to craft various items and equipment. Completion of this research will also reveal how to make Manaweave, a unique material that enhances arcane power.</TM_ArcaneForging.description>
+  <TM_ArcaneForging.description>开发用奥术力量制作各种物品和设备的方法。这项研究的完成也将教会殖民地如何织造魔纹布，这是一种独特的魔法材料。</TM_ArcaneForging.description>
   <!--EN: Arcane Forge-->
-  <TM_ArcaneForging.label>Arcane Forge</TM_ArcaneForging.label>
+  <TM_ArcaneForging.label>奥法锻造</TM_ArcaneForging.label>
   <!--EN: Basic research on how arcane power is linked to the physical realm and to other mages.-->
-  <TM_ArcaneFundamentals.description>Basic research on how arcane power is linked to the physical realm and to other mages.</TM_ArcaneFundamentals.description>
+  <TM_ArcaneFundamentals.description>关于魔法力量如何与物理和其他法师相联系的基础研究。</TM_ArcaneFundamentals.description>
   <!--EN: arcane fundamentals-->
-  <TM_ArcaneFundamentals.label>arcane fundamentals</TM_ArcaneFundamentals.label>
+  <TM_ArcaneFundamentals.label>魔法-基础</TM_ArcaneFundamentals.label>
   <!--EN: Enables construction of the gemcutting bench and the crafting of tier I enchanting gems.-->
-  <TM_Enchanting.description>Enables construction of the gemcutting bench and the crafting of tier I enchanting gems.</TM_Enchanting.description>
+  <TM_Enchanting.description>允许建造附魔台以及打造初级的附魔宝石。</TM_Enchanting.description>
   <!--EN: enchanting-->
-  <TM_Enchanting.label>enchanting</TM_Enchanting.label>
+  <TM_Enchanting.label>附魔</TM_Enchanting.label>
   <!--EN: Enables crafting of tier III enchanting gems.-->
-  <TM_ExpertEnchanting.description>Enables crafting of tier III enchanting gems.</TM_ExpertEnchanting.description>
+  <TM_ExpertEnchanting.description>允许打造高级的附魔宝石。</TM_ExpertEnchanting.description>
   <!--EN: expert enchanting-->
-  <TM_ExpertEnchanting.label>expert enchanting</TM_ExpertEnchanting.label>
+  <TM_ExpertEnchanting.label>高级附魔</TM_ExpertEnchanting.label>
   <!--EN: Researches weapons and armor that may be attached to a flesh golem for further enhancement or capabilities.-->
-  <TM_FleshGolemEquipmentRD.description>Researches weapons and armor that may be attached to a flesh golem for further enhancement or capabilities.</TM_FleshGolemEquipmentRD.description>
+  <TM_FleshGolemEquipmentRD.description>研究可以连接到血肉傀儡上的武器和盔甲，以进一步增强傀儡或其能力。</TM_FleshGolemEquipmentRD.description>
   <!--EN: flesh attachments-->
-  <TM_FleshGolemEquipmentRD.label>flesh attachments</TM_FleshGolemEquipmentRD.label>
+  <TM_FleshGolemEquipmentRD.label>血肉附件</TM_FleshGolemEquipmentRD.label>
   <!--EN: A biological approach to golems which researches how to mold the flesh and bones of dead organisms into a bipedal, animated construct. A simple butchers table should suffice for the crafting of a flesh golem.-->
-  <TM_FleshGolemRD.description>A biological approach to golems which researches how to mold the flesh and bones of dead organisms into a bipedal, animated construct. A simple butchers table should suffice for the crafting of a flesh golem.</TM_FleshGolemRD.description>
+  <TM_FleshGolemRD.description>研究如何将死去的生物的肉和骨头塑造成两足的具有生机的傀儡的生物学方法。一个简单的屠宰桌应该足以制作一个血肉傀儡。</TM_FleshGolemRD.description>
   <!--EN: flesh golem-->
-  <TM_FleshGolemRD.label>flesh golem</TM_FleshGolemRD.label>
+  <TM_FleshGolemRD.label>血肉傀儡</TM_FleshGolemRD.label>
   <!--EN: Enhances the Arcane Forge with a technique that allows it to extract the design from any craftable item and duplicate it at the forge.-->
-  <TM_ForgeReplication.description>Enhances the Arcane Forge with a technique that allows it to extract the design from any craftable item and duplicate it at the forge.</TM_ForgeReplication.description>
+  <TM_ForgeReplication.description>使用一种技术增强奥术锻造，该技术允许它从任何可加工物品中提取设计图并制作复制品。</TM_ForgeReplication.description>
   <!--EN: Forge Replication-->
-  <TM_ForgeReplication.label>Forge Replication</TM_ForgeReplication.label>
+  <TM_ForgeReplication.label>复制锻造</TM_ForgeReplication.label>
   <!--EN: Golem crafting is a brand of enchanting that diverges from passive enhancements and researches theories of manipulating magical enchantments for active purposes. This research will develop concepts of how to apply active enhancements to create magical creatures. This research enables construction of the stone and maharal golems at the stonecutter's table. The maharal golem can also be created at a crafting spot. Also enables additional upgrades for the Straw golem.-->
-  <TM_GolemCraftRD.description>Golem crafting is a brand of enchanting that diverges from passive enhancements and researches theories of manipulating magical enchantments for active purposes. This research will develop concepts of how to apply active enhancements to create magical creatures. This research enables construction of the stone and maharal golems at the stonecutter&amp;apos;s table. The maharal golem can also be created at a crafting spot. Also enables additional upgrades for the Straw golem.</TM_GolemCraftRD.description>
+  <TM_GolemCraftRD.description>傀儡工艺是一种附魔技术，它与被动强化不同，研究为主动操纵魔法附魔的理论。这项研究将发展成如何应用附魔创造神奇生物的概念。</TM_GolemCraftRD.description>
   <!--EN: golem theory-->
-  <TM_GolemCraftRD.label>golem theory</TM_GolemCraftRD.label>
+  <TM_GolemCraftRD.label>傀儡学说</TM_GolemCraftRD.label>
   <!--EN: Research into the union of arcane artifacts with golem behavior allow the hollow golem to fuel artifacts with its own magical energy.-->
-  <TM_HollowGolemArtifactsRD.description>Research into the union of arcane artifacts with golem behavior allow the hollow golem to fuel artifacts with its own magical energy.</TM_HollowGolemArtifactsRD.description>
+  <TM_HollowGolemArtifactsRD.description>通过研究奥术人工制品与傀儡行为的结合使空洞傀儡可以用自己的魔法能量为魔法人工制品提供燃料。</TM_HollowGolemArtifactsRD.description>
   <!--EN: hollow artifacts-->
-  <TM_HollowGolemArtifactsRD.label>hollow artifacts</TM_HollowGolemArtifactsRD.label>
+  <TM_HollowGolemArtifactsRD.label>空洞造物</TM_HollowGolemArtifactsRD.label>
   <!--EN: Researches weapons and armor that may be attached to a hollow golem for further enhancement or capabilities.-->
-  <TM_HollowGolemEquipmentRD.description>Researches weapons and armor that may be attached to a hollow golem for further enhancement or capabilities.</TM_HollowGolemEquipmentRD.description>
+  <TM_HollowGolemEquipmentRD.description>研究可以连接到空洞傀儡上的武器和盔甲，以进一步增强傀儡或其能力。</TM_HollowGolemEquipmentRD.description>
   <!--EN: hollow equipment-->
-  <TM_HollowGolemEquipmentRD.label>hollow equipment</TM_HollowGolemEquipmentRD.label>
+  <TM_HollowGolemEquipmentRD.label>空洞械器</TM_HollowGolemEquipmentRD.label>
   <!--EN: A magical approach to golem crafting which researches how to animate raw energy. Crafting this type of golem will require an arcane forge.-->
-  <TM_HollowGolemRD.description>A magical approach to golem crafting which researches how to animate raw energy. Crafting this type of golem will require an arcane forge.</TM_HollowGolemRD.description>
+  <TM_HollowGolemRD.description>一种研究如何用活跃的原始能量制作傀儡的神奇方法。制造这种傀儡需要奥术熔炉。</TM_HollowGolemRD.description>
   <!--EN: hollow golem-->
-  <TM_HollowGolemRD.label>hollow golem</TM_HollowGolemRD.label>
+  <TM_HollowGolemRD.label>空洞傀儡</TM_HollowGolemRD.label>
   <!--EN: Advanced research on the geometry and symmetry of ley lines that enables magic users to combine their energy to create incredible effects.-->
-  <TM_MagicCircle.description>Advanced research on the geometry and symmetry of ley lines that enables magic users to combine their energy to create incredible effects.</TM_MagicCircle.description>
+  <TM_MagicCircle.description>研究的几何和对称的莱伊线，让魔法师结合他们的能量创造难以置信的效果。</TM_MagicCircle.description>
   <!--EN: Magic Circle-->
-  <TM_MagicCircle.label>Magic Circle</TM_MagicCircle.label>
+  <TM_MagicCircle.label>魔法阵</TM_MagicCircle.label>
   <!--EN: Develop the knowledge to mix ink with powdered magicyte and apply it through specially design press capable of reproducing scrolls and books that can contain the power of magic comprehension.-->
-  <TM_MagicScribing.description>Develop the knowledge to mix ink with powdered magicyte and apply it through specially design press capable of reproducing scrolls and books that can contain the power of magic comprehension.</TM_MagicScribing.description>
+  <TM_MagicScribing.description>允许殖民者刻绘初级技能卷轴。</TM_MagicScribing.description>
   <!--EN: scribing-->
-  <TM_MagicScribing.label>scribing</TM_MagicScribing.label>
+  <TM_MagicScribing.label>初级刻绘</TM_MagicScribing.label>
   <!--EN: Experimental research that identifies ways to use magicyte to create magical items. Develops recipes to create mana potions at the stove or gemcrafting table.-->
-  <TM_MagicyteRefining.description>Experimental research that identifies ways to use magicyte to create magical items. Develops recipes to create mana potions at the stove or gemcrafting table.</TM_MagicyteRefining.description>
+  <TM_MagicyteRefining.description>允许殖民地制作魔法药剂。</TM_MagicyteRefining.description>
   <!--EN: magicyte refining-->
-  <TM_MagicyteRefining.label>magicyte refining</TM_MagicyteRefining.label>
+  <TM_MagicyteRefining.label>魔药学</TM_MagicyteRefining.label>
   <!--EN: Develops ways to store mana.-->
-  <TM_ManaStorage.description>Develops ways to store mana.</TM_ManaStorage.description>
+  <TM_ManaStorage.description>开发储存法力的方法。</TM_ManaStorage.description>
   <!--EN: mana storage-->
-  <TM_ManaStorage.label>mana storage</TM_ManaStorage.label>
+  <TM_ManaStorage.label>法力存储</TM_ManaStorage.label>
   <!--EN: Allows the scribing of master spells.-->
-  <TM_MasterScribing.description>Allows the scribing of master spells.</TM_MasterScribing.description>
+  <TM_MasterScribing.description>允许刻绘终极技能卷轴.</TM_MasterScribing.description>
   <!--EN: master scribing-->
-  <TM_MasterScribing.label>master scribing</TM_MasterScribing.label>
+  <TM_MasterScribing.label>高级刻绘</TM_MasterScribing.label>
   <!--EN: Researches methods of crafting attachments and armor to further enhance the mecha golem.-->
-  <TM_MechaGolemEquipmentRD.description>Researches methods of crafting attachments and armor to further enhance the mecha golem.</TM_MechaGolemEquipmentRD.description>
+  <TM_MechaGolemEquipmentRD.description>研究制作附件和盔甲的方法，以进一步增强机械傀儡。</TM_MechaGolemEquipmentRD.description>
   <!--EN: mecha attachments-->
-  <TM_MechaGolemEquipmentRD.label>mecha attachments</TM_MechaGolemEquipmentRD.label>
+  <TM_MechaGolemEquipmentRD.label>机械附件</TM_MechaGolemEquipmentRD.label>
   <!--EN: Combines electrical and mechanical engineering with golem craft to create a robotic golem. A machine table is expected to be required to craft the components of the mecha golem.-->
-  <TM_MechaGolemRD.description>Combines electrical and mechanical engineering with golem craft to create a robotic golem. A machine table is expected to be required to craft the components of the mecha golem.</TM_MechaGolemRD.description>
+  <TM_MechaGolemRD.description>将电气和机械工程与傀儡工艺相结合，创建一个机械傀儡。预计需要一个机械加工台来制作机械傀儡的部件。</TM_MechaGolemRD.description>
   <!--EN: mecha golem-->
-  <TM_MechaGolemRD.label>mecha golem</TM_MechaGolemRD.label>
+  <TM_MechaGolemRD.label>机械傀儡</TM_MechaGolemRD.label>
   <!--EN: Invest research into botany to gain an understanding of how to cultivate plants with properties relevant to magic and use their resources to supplement or fuel the arcane arts.-->
-  <TM_PlantCultivation.description>Invest research into botany to gain an understanding of how to cultivate plants with properties relevant to magic and use their resources to supplement or fuel the arcane arts.</TM_PlantCultivation.description>
+  <TM_PlantCultivation.description>研究植物学以了解如何培养具有与魔法属性的植物，并利用它们来补充长法力和制造魔法物品。</TM_PlantCultivation.description>
   <!--EN: cultivation-->
-  <TM_PlantCultivation.label>cultivation</TM_PlantCultivation.label>
+  <TM_PlantCultivation.label>魔法栽培</TM_PlantCultivation.label>
   <!--EN: Allows the construction of a portal - a powerful artifact that enables instant travel between colonies.\n\nRequires an Arcane Mage trained in Gateways to activate.-->
-  <TM_Portals.description>Allows the construction of a portal - a powerful artifact that enables instant travel between colonies.\n\nRequires an Arcane Mage trained in Gateways to activate.</TM_Portals.description>
+  <TM_Portals.description>允许建造一个传送门 - 一个魔法文明的巅峰造物，使瞬间移动变得可能.需要一个受过相关训练的奥术法师来激活传送门。</TM_Portals.description>
   <!--EN: portals-->
-  <TM_Portals.label>portals</TM_Portals.label>
+  <TM_Portals.label>传送门</TM_Portals.label>
 </LanguageData>

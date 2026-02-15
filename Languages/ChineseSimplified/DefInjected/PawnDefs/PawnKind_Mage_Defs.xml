@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Seer Archer-->
-  <SeerBowman.label>Seer Archer</SeerBowman.label>
+  <SeerBowman.label>秘能守卫者弓箭手</SeerBowman.label>
   <!--EN: Seer Archers-->
-  <SeerBowman.labelPlural>Seer Archers</SeerBowman.labelPlural>
+  <SeerBowman.labelPlural>秘能守卫者弓箭手们</SeerBowman.labelPlural>
   <!--EN: Magic Protector-->
-  <SeerDefender.label>Magic Protector</SeerDefender.label>
+  <SeerDefender.label>秘能守卫者</SeerDefender.label>
   <!--EN: magic protectors-->
-  <SeerDefender.labelPlural>magic protectors</SeerDefender.labelPlural>
+  <SeerDefender.labelPlural>秘能守卫者们</SeerDefender.labelPlural>
   <!--EN: Seer Elite-->
-  <SeerElite.label>Seer Elite</SeerElite.label>
+  <SeerElite.label>秘能守卫者精英</SeerElite.label>
   <!--EN: Seer Elite-->
-  <SeerElite.labelPlural>Seer Elite</SeerElite.labelPlural>
+  <SeerElite.labelPlural>秘能守卫者精英</SeerElite.labelPlural>
   <!--EN: Guardsman-->
-  <SeerSpearman.label>Guardsman</SeerSpearman.label>
+  <SeerSpearman.label>秘能守卫者近卫兵</SeerSpearman.label>
   <!--EN: Guardsmen-->
-  <SeerSpearman.labelPlural>Guardsmen</SeerSpearman.labelPlural>
+  <SeerSpearman.labelPlural>秘能守卫者近卫兵们</SeerSpearman.labelPlural>
 </LanguageData>

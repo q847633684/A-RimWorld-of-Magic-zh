@@ -1,47 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: entertained-->
-  <TM_EntertainAuraID.label>entertained</TM_EntertainAuraID.label>
+  <TM_EntertainAuraID.label>款待</TM_EntertainAuraID.label>
   <!--EN: r_logentry->Had an entertaining chat with [RECIPIENT_nameDef].-->
-  <TM_EntertainAuraID.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;Had an entertaining chat with [RECIPIENT_nameDef].</TM_EntertainAuraID.logRulesInitiator.rulesStrings.0>
+  <TM_EntertainAuraID.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;与 [RECIPIENT_nameDef] 进行愉快交流.</TM_EntertainAuraID.logRulesInitiator.rulesStrings.0>
   <!--EN: r_logentry->Had an entertaining chat with [INITIATOR_nameDef].-->
-  <TM_EntertainAuraID.logRulesRecipient.rulesStrings.0>r_logentry-&amp;gt;Had an entertaining chat with [INITIATOR_nameDef].</TM_EntertainAuraID.logRulesRecipient.rulesStrings.0>
+  <TM_EntertainAuraID.logRulesRecipient.rulesStrings.0>r_logentry-&amp;gt;与 [INITIATOR_nameDef] 进行愉快交流.</TM_EntertainAuraID.logRulesRecipient.rulesStrings.0>
   <!--EN: entertained-->
-  <TM_EntertainID.label>entertained</TM_EntertainID.label>
+  <TM_EntertainID.label>款待</TM_EntertainID.label>
   <!--EN: r_logentry->Entertained [RECIPIENT_nameDef].-->
-  <TM_EntertainID.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;Entertained [RECIPIENT_nameDef].</TM_EntertainID.logRulesInitiator.rulesStrings.0>
+  <TM_EntertainID.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;款待 [RECIPIENT_nameDef].</TM_EntertainID.logRulesInitiator.rulesStrings.0>
   <!--EN: r_logentry->Was entertained by [INITIATOR_nameDef].-->
-  <TM_EntertainID.logRulesRecipient.rulesStrings.0>r_logentry-&amp;gt;Was entertained by [INITIATOR_nameDef].</TM_EntertainID.logRulesRecipient.rulesStrings.0>
+  <TM_EntertainID.logRulesRecipient.rulesStrings.0>r_logentry-&amp;gt;受到 [INITIATOR_nameDef] 款待.</TM_EntertainID.logRulesRecipient.rulesStrings.0>
   <!--EN: I had a really fun time talking with others.-->
-  <TM_EntertainedAuraTD.stages.0.description>I had a really fun time talking with others.</TM_EntertainedAuraTD.stages.0.description>
+  <TM_EntertainedAuraTD.stages.0.description>我和别人聊天时度过了一段有趣的时光。</TM_EntertainedAuraTD.stages.0.description>
   <!--EN: social entertainment-->
-  <TM_EntertainedAuraTD.stages.0.label>social entertainment</TM_EntertainedAuraTD.stages.0.label>
+  <TM_EntertainedAuraTD.stages.0.label>社交闲聊</TM_EntertainedAuraTD.stages.0.label>
   <!--EN: This place isn't so bad; there are people here that make me forget about my worries and laugh a little.-->
-  <TM_EntertainedTD.stages.0.description>This place isn&amp;apos;t so bad; there are people here that make me forget about my worries and laugh a little.</TM_EntertainedTD.stages.0.description>
+  <TM_EntertainedTD.stages.0.description>这个地方还不错。这里有人让我忘记了我的烦恼,笑了一点。</TM_EntertainedTD.stages.0.description>
   <!--EN: entertained-->
-  <TM_EntertainedTD.stages.0.label>entertained</TM_EntertainedTD.stages.0.label>
+  <TM_EntertainedTD.stages.0.label>娱乐</TM_EntertainedTD.stages.0.label>
   <!--EN: I really like interacting with the people around here, it makes me happy to bring a little joy to others.-->
-  <TM_EntertainerAuraTD.stages.0.description>I really like interacting with the people around here, it makes me happy to bring a little joy to others.</TM_EntertainerAuraTD.stages.0.description>
+  <TM_EntertainerAuraTD.stages.0.description>我真的很喜欢与这里的人们互动,这让我很高兴为他人带来一点快乐。</TM_EntertainerAuraTD.stages.0.description>
   <!--EN: social interaction-->
-  <TM_EntertainerAuraTD.stages.0.label>social interaction</TM_EntertainerAuraTD.stages.0.label>
+  <TM_EntertainerAuraTD.stages.0.label>社交互动</TM_EntertainerAuraTD.stages.0.label>
   <!--EN: discussed magic theories and practices-->
-  <TM_MagicLore.label>discussed magic theories and practices</TM_MagicLore.label>
+  <TM_MagicLore.label>谈论魔法理论与实践</TM_MagicLore.label>
   <!--EN: r_logentry->Mentored [RECIPIENT_nameDef] in magic.-->
-  <TM_MagicLore.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;Mentored [RECIPIENT_nameDef] in magic.</TM_MagicLore.logRulesInitiator.rulesStrings.0>
+  <TM_MagicLore.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;辅导 [RECIPIENT_nameDef] 魔法知识.</TM_MagicLore.logRulesInitiator.rulesStrings.0>
   <!--EN: r_logentry->Learned magic theories from [INITIATOR_nameDef].-->
-  <TM_MagicLore.logRulesRecipient.rulesStrings.0>r_logentry-&amp;gt;Learned magic theories from [INITIATOR_nameDef].</TM_MagicLore.logRulesRecipient.rulesStrings.0>
+  <TM_MagicLore.logRulesRecipient.rulesStrings.0>r_logentry-&amp;gt;跟随 [INITIATOR_nameDef] 学习魔法理论.</TM_MagicLore.logRulesRecipient.rulesStrings.0>
   <!--EN: I've been enlightened by words from a powerful mage, now I just have to apply this knowledge...-->
-  <TM_MagicLoreTD.stages.0.description>I&amp;apos;ve been enlightened by words from a powerful mage, now I just have to apply this knowledge...</TM_MagicLoreTD.stages.0.description>
+  <TM_MagicLoreTD.stages.0.description>我被一个强大法师的话语启发了,现在我只需要应用这些知识...</TM_MagicLoreTD.stages.0.description>
   <!--EN: gained arcane knowledge-->
-  <TM_MagicLoreTD.stages.0.label>gained arcane knowledge</TM_MagicLoreTD.stages.0.label>
+  <TM_MagicLoreTD.stages.0.label>获得了奥术知识</TM_MagicLoreTD.stages.0.label>
   <!--EN: discussed combat techniques-->
-  <TM_MightLore.label>discussed combat techniques</TM_MightLore.label>
+  <TM_MightLore.label>谈论战斗技巧</TM_MightLore.label>
   <!--EN: r_logentry->Taught combat techniques to [RECIPIENT_nameDef].-->
-  <TM_MightLore.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;Taught combat techniques to [RECIPIENT_nameDef].</TM_MightLore.logRulesInitiator.rulesStrings.0>
+  <TM_MightLore.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;传授 [RECIPIENT_nameDef] 战斗技巧.</TM_MightLore.logRulesInitiator.rulesStrings.0>
   <!--EN: r_logentry->Trained in combat by [INITIATOR_nameDef].-->
-  <TM_MightLore.logRulesRecipient.rulesStrings.0>r_logentry-&amp;gt;Trained in combat by [INITIATOR_nameDef].</TM_MightLore.logRulesRecipient.rulesStrings.0>
+  <TM_MightLore.logRulesRecipient.rulesStrings.0>r_logentry-&amp;gt;跟随 [INITIATOR_nameDef] 学习战斗技巧.</TM_MightLore.logRulesRecipient.rulesStrings.0>
   <!--EN: A more experienced fighter has taught me how to improve my combat techniques.-->
-  <TM_MightLoreTD.stages.0.description>A more experienced fighter has taught me how to improve my combat techniques.</TM_MightLoreTD.stages.0.description>
+  <TM_MightLoreTD.stages.0.description>一位经验丰富的战斗机教会了我如何改善战斗技术。</TM_MightLoreTD.stages.0.description>
   <!--EN: gained combat experience-->
-  <TM_MightLoreTD.stages.0.label>gained combat experience</TM_MightLoreTD.stages.0.label>
+  <TM_MightLoreTD.stages.0.label>获得战斗经验</TM_MightLoreTD.stages.0.label>
 </LanguageData>

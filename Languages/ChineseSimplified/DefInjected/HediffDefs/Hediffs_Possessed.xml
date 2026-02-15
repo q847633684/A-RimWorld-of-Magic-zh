@@ -1,57 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: This pawn's spirit is distorted and is unable to maintain cohesion with its body. This pawn is vulnerable and will take more damage.-->
-  <TM_SpiritDistortionHD.description>This pawn&amp;apos;s spirit is distorted and is unable to maintain cohesion with its body. This pawn is vulnerable and will take more damage.</TM_SpiritDistortionHD.description>
+  <TM_SpiritDistortionHD.description>由于是外来灵魂，无法与身体完全融合，导致这具身体身体目前很脆弱，自愈力和免疫力极低。</TM_SpiritDistortionHD.description>
   <!--EN: spirit distortion-->
-  <TM_SpiritDistortionHD.label>spirit distortion</TM_SpiritDistortionHD.label>
+  <TM_SpiritDistortionHD.label>灵魂排斥</TM_SpiritDistortionHD.label>
   <!--EN: This pawn has been drained of spirit and their future looks grim.-->
-  <TM_SpiritDrainHD.description>This pawn has been drained of spirit and their future looks grim.</TM_SpiritDrainHD.description>
+  <TM_SpiritDrainHD.description>该人物的灵魂能量枯竭，目前处境十分危险。</TM_SpiritDrainHD.description>
   <!--EN: spirit drain-->
-  <TM_SpiritDrainHD.label>spirit drain</TM_SpiritDrainHD.label>
+  <TM_SpiritDrainHD.label>灵魂枯竭</TM_SpiritDrainHD.label>
   <!--EN: recovering-->
-  <TM_SpiritDrainHD.stages.0.label>recovering</TM_SpiritDrainHD.stages.0.label>
+  <TM_SpiritDrainHD.stages.0.label>恢复</TM_SpiritDrainHD.stages.0.label>
   <!--EN: minor-->
-  <TM_SpiritDrainHD.stages.1.label>minor</TM_SpiritDrainHD.stages.1.label>
+  <TM_SpiritDrainHD.stages.1.label>轻微</TM_SpiritDrainHD.stages.1.label>
   <!--EN: low-->
-  <TM_SpiritDrainHD.stages.2.label>low</TM_SpiritDrainHD.stages.2.label>
+  <TM_SpiritDrainHD.stages.2.label>低</TM_SpiritDrainHD.stages.2.label>
   <!--EN: moderate-->
-  <TM_SpiritDrainHD.stages.3.label>moderate</TM_SpiritDrainHD.stages.3.label>
+  <TM_SpiritDrainHD.stages.3.label>普通</TM_SpiritDrainHD.stages.3.label>
   <!--EN: severe-->
-  <TM_SpiritDrainHD.stages.4.label>severe</TM_SpiritDrainHD.stages.4.label>
+  <TM_SpiritDrainHD.stages.4.label>严重</TM_SpiritDrainHD.stages.4.label>
   <!--EN: deadly-->
-  <TM_SpiritDrainHD.stages.5.label>deadly</TM_SpiritDrainHD.stages.5.label>
+  <TM_SpiritDrainHD.stages.5.label>致命</TM_SpiritDrainHD.stages.5.label>
   <!--EN: Drained of spirit.-->
-  <TM_SpiritDrainTD.stages.0.description>Drained of spirit.</TM_SpiritDrainTD.stages.0.description>
+  <TM_SpiritDrainTD.stages.0.description>精神耗尽。</TM_SpiritDrainTD.stages.0.description>
   <!--EN: spirit drain-->
-  <TM_SpiritDrainTD.stages.0.label>spirit drain</TM_SpiritDrainTD.stages.0.label>
+  <TM_SpiritDrainTD.stages.0.label>精神流失</TM_SpiritDrainTD.stages.0.label>
   <!--EN: Current spirit level.-->
-  <TM_SpiritND.description>Current spirit level.</TM_SpiritND.description>
+  <TM_SpiritND.description>当前灵魂值。</TM_SpiritND.description>
   <!--EN: spirit-->
-  <TM_SpiritND.label>spirit</TM_SpiritND.label>
+  <TM_SpiritND.label>灵魂</TM_SpiritND.label>
   <!--EN: My body is possessed by another spirit.-->
-  <TM_SpiritPossessedTD.stages.0.description>My body is possessed by another spirit.</TM_SpiritPossessedTD.stages.0.description>
+  <TM_SpiritPossessedTD.stages.0.description>我的身体被另一个灵魂入侵了。</TM_SpiritPossessedTD.stages.0.description>
   <!--EN: possessed-->
-  <TM_SpiritPossessedTD.stages.0.label>possessed</TM_SpiritPossessedTD.stages.0.label>
+  <TM_SpiritPossessedTD.stages.0.label>幽魂行者</TM_SpiritPossessedTD.stages.0.label>
   <!--EN: Possessed by a spirit.-->
-  <TM_SpiritPossessionHD.description>Possessed by a spirit.</TM_SpiritPossessionHD.description>
+  <TM_SpiritPossessionHD.description>这具身体里有个外来的灵魂</TM_SpiritPossessionHD.description>
   <!--EN: spirit possession-->
-  <TM_SpiritPossessionHD.label>spirit possession</TM_SpiritPossessionHD.label>
+  <TM_SpiritPossessionHD.label>灵魂融合</TM_SpiritPossessionHD.label>
   <!--EN: distorted-->
-  <TM_SpiritPossessionHD.stages.0.label>distorted</TM_SpiritPossessionHD.stages.0.label>
+  <TM_SpiritPossessionHD.stages.0.label>排斥</TM_SpiritPossessionHD.stages.0.label>
   <!--EN: conflicted-->
-  <TM_SpiritPossessionHD.stages.1.label>conflicted</TM_SpiritPossessionHD.stages.1.label>
+  <TM_SpiritPossessionHD.stages.1.label>冲突</TM_SpiritPossessionHD.stages.1.label>
   <!--EN: unstable-->
-  <TM_SpiritPossessionHD.stages.2.label>unstable</TM_SpiritPossessionHD.stages.2.label>
+  <TM_SpiritPossessionHD.stages.2.label>动荡</TM_SpiritPossessionHD.stages.2.label>
   <!--EN: stable-->
-  <TM_SpiritPossessionHD.stages.3.label>stable</TM_SpiritPossessionHD.stages.3.label>
+  <TM_SpiritPossessionHD.stages.3.label>稳定</TM_SpiritPossessionHD.stages.3.label>
   <!--EN: cooperative-->
-  <TM_SpiritPossessionHD.stages.4.label>cooperative</TM_SpiritPossessionHD.stages.4.label>
+  <TM_SpiritPossessionHD.stages.4.label>融合</TM_SpiritPossessionHD.stages.4.label>
   <!--EN: harmonious-->
-  <TM_SpiritPossessionHD.stages.5.label>harmonious</TM_SpiritPossessionHD.stages.5.label>
+  <TM_SpiritPossessionHD.stages.5.label>完美</TM_SpiritPossessionHD.stages.5.label>
   <!--EN: This pawn is a spirit, unable to interact with the physical world in common ways. Spirit's are unable to be physically harmed, but will lose spirit strength if their form receives damage.-->
-  <TM_SpiritPossessorHD.description>This pawn is a spirit, unable to interact with the physical world in common ways. Spirit&amp;apos;s are unable to be physically harmed, but will lose spirit strength if their form receives damage.</TM_SpiritPossessorHD.description>
+  <TM_SpiritPossessorHD.description>灵魂形态下，无法长时间在物质世界存在，会持续消耗其灵魂能量。</TM_SpiritPossessorHD.description>
   <!--EN: spirit-->
-  <TM_SpiritPossessorHD.label>spirit</TM_SpiritPossessorHD.label>
+  <TM_SpiritPossessorHD.label>灵魂</TM_SpiritPossessorHD.label>
   <!--EN: I-->
   <TM_SpiritPossessorHD.stages.0.label>I</TM_SpiritPossessorHD.stages.0.label>
   <!--EN: II-->

@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: bestow magic speech-->
-  <TM_Speech_BestowMagic.label>bestow magic speech</TM_Speech_BestowMagic.label>
+  <TM_Speech_BestowMagic.label>施放魔法仪式</TM_Speech_BestowMagic.label>
   <!--EN: r_logentry->[INITIATOR_nameDef] [praised] [doing] [speechtopic].-->
   <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;[INITIATOR_nameDef] [praised] [doing] [speechtopic].</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.0>
   <!--EN: r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].-->
   <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.1>r_logentry(p=0.2)-&amp;gt;[INITIATOR_nameDef] [crazy].</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.1>
   <!--EN: crazy->roared in victory-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.10>crazy-&amp;gt;roared in victory</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.10>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.10>crazy-&amp;gt;赢得胜利</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.10>
   <!--EN: crazy->broke into a chant-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.11>crazy-&amp;gt;broke into a chant</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.11>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.11>crazy-&amp;gt;大声吟唱</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.11>
   <!--EN: crazy->chanted towards the heavens-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.12>crazy-&amp;gt;chanted towards the heavens</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.12>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.12>crazy-&amp;gt;向天高喊</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.12>
   <!--EN: crazy->placed a hand of assurance on the mage-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.13>crazy-&amp;gt;placed a hand of assurance on the mage</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.13>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.13>crazy-&amp;gt;将保证之手放在法师身上</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.13>
   <!--EN: crazy->smiled heroically-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.14>crazy-&amp;gt;smiled heroically</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.14>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.14>crazy-&amp;gt;英勇地微笑着</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.14>
   <!--EN: crazy->brandished a staff-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.15>crazy-&amp;gt;brandished a staff</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.15>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.15>crazy-&amp;gt;挥舞着权杖</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.15>
   <!--EN: crazy->murmured a mantra-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.16>crazy-&amp;gt;murmured a mantra</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.16>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.16>crazy-&amp;gt;低声念叨着一句咒语</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.16>
   <!--EN: crazy->offered a benediction-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.17>crazy-&amp;gt;offered a benediction</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.17>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.17>crazy-&amp;gt;提供了祝福</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.17>
   <!--EN: crazy->reached towards the heavens-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.18>crazy-&amp;gt;reached towards the heavens</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.18>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.18>crazy-&amp;gt;伸向天堂</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.18>
   <!--EN: doing->achieving-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.19>doing-&amp;gt;achieving</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.19>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.19>doing-&amp;gt;实现</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.19>
   <!--EN: speechtopic->magic-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.2>speechtopic-&amp;gt;magic</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.2>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.2>speechtopic-&amp;gt;魔法</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.2>
   <!--EN: doing->learning-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.20>doing-&amp;gt;learning</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.20>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.20>doing-&amp;gt;学习</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.20>
   <!--EN: doing->understanding-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.21>doing-&amp;gt;understanding</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.21>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.21>doing-&amp;gt;理解</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.21>
   <!--EN: doing->using-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.22>doing-&amp;gt;using</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.22>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.22>doing-&amp;gt;使用</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.22>
   <!--EN: doing->protecting-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.23>doing-&amp;gt;protecting</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.23>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.23>doing-&amp;gt;保护</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.23>
   <!--EN: doing->releasing-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.24>doing-&amp;gt;releasing</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.24>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.24>doing-&amp;gt;释放</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.24>
   <!--EN: doing->supporting-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.25>doing-&amp;gt;supporting</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.25>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.25>doing-&amp;gt;支持</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.25>
   <!--EN: doing->gaining-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.26>doing-&amp;gt;gaining</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.26>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.26>doing-&amp;gt;取得</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.26>
   <!--EN: speechtopic->peace through power-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.3>speechtopic-&amp;gt;peace through power</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.3>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.3>speechtopic-&amp;gt;通过权力和平</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.3>
   <!--EN: speechtopic->mages-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.4>speechtopic-&amp;gt;mages</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.4>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.4>speechtopic-&amp;gt;法师</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.4>
   <!--EN: speechtopic->order-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.5>speechtopic-&amp;gt;order</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.5>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.5>speechtopic-&amp;gt;混乱</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.5>
   <!--EN: speechtopic->the power to protect-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.6>speechtopic-&amp;gt;the power to protect</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.6>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.6>speechtopic-&amp;gt;权力的诱惑</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.6>
   <!--EN: speechtopic->magic and mages-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.7>speechtopic-&amp;gt;magic and mages</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.7>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.7>speechtopic-&amp;gt;魔术和法师</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.7>
   <!--EN: speechtopic->the blessings of magic-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.8>speechtopic-&amp;gt;the blessings of magic</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.8>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.8>speechtopic-&amp;gt;魔术的祝福</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.8>
   <!--EN: speechtopic->the next stage in human evolution-->
-  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.9>speechtopic-&amp;gt;the next stage in human evolution</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.9>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.9>speechtopic-&amp;gt;人类进化的下一个阶段</TM_Speech_BestowMagic.logRulesInitiator.rulesStrings.9>
   <!--EN: sever magic speech-->
-  <TM_Speech_SeverMagic.label>sever magic speech</TM_Speech_SeverMagic.label>
+  <TM_Speech_SeverMagic.label>中断魔法仪式</TM_Speech_SeverMagic.label>
   <!--EN: r_logentry->[INITIATOR_nameDef] [praised] [doing] [speechtopic].-->
   <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;[INITIATOR_nameDef] [praised] [doing] [speechtopic].</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.0>
   <!--EN: r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].-->
   <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.1>r_logentry(p=0.2)-&amp;gt;[INITIATOR_nameDef] [crazy].</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.1>
   <!--EN: crazy->screamed maniacally-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.10>crazy-&amp;gt;screamed maniacally</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.10>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.10>crazy-&amp;gt;疯狂地尖叫</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.10>
   <!--EN: crazy->broke into a chant-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.11>crazy-&amp;gt;broke into a chant</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.11>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.11>crazy-&amp;gt;大声吟唱</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.11>
   <!--EN: crazy->chanted towards the heavens-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.12>crazy-&amp;gt;chanted towards the heavens</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.12>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.12>crazy-&amp;gt;朝着天高呼</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.12>
   <!--EN: crazy->spat in the mage's eye-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.13>crazy-&amp;gt;spat in the mage&amp;apos;s eye</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.13>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.13>crazy-&amp;gt;向法师的眼睛吐口水</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.13>
   <!--EN: crazy->cackled-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.14>crazy-&amp;gt;cackled</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.14>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.14>crazy-&amp;gt;咯咯地笑</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.14>
   <!--EN: crazy->brandished a blade-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.15>crazy-&amp;gt;brandished a blade</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.15>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.15>crazy-&amp;gt;挥舞着刀片</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.15>
   <!--EN: crazy->muttered repetitively-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.16>crazy-&amp;gt;muttered repetitively</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.16>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.16>crazy-&amp;gt;重复喃喃自语</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.16>
   <!--EN: crazy->screamed in defiance-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.17>crazy-&amp;gt;screamed in defiance</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.17>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.17>crazy-&amp;gt;无视尖叫</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.17>
   <!--EN: crazy->spasmed uncontrollably-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.18>crazy-&amp;gt;spasmed uncontrollably</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.18>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.18>crazy-&amp;gt;无法控制地痉挛</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.18>
   <!--EN: doing->controlling-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.19>doing-&amp;gt;controlling</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.19>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.19>doing-&amp;gt;控制</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.19>
   <!--EN: speechtopic->magic-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.2>speechtopic-&amp;gt;magic</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.2>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.2>speechtopic-&amp;gt;魔法</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.2>
   <!--EN: doing->balancing-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.20>doing-&amp;gt;balancing</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.20>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.20>doing-&amp;gt;平衡</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.20>
   <!--EN: doing->sacrificing-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.21>doing-&amp;gt;sacrificing</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.21>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.21>doing-&amp;gt;牺牲</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.21>
   <!--EN: doing->removing the temptation-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.22>doing-&amp;gt;removing the temptation</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.22>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.22>doing-&amp;gt;消除诱惑</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.22>
   <!--EN: doing->manipulating-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.23>doing-&amp;gt;manipulating</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.23>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.23>doing-&amp;gt;操纵</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.23>
   <!--EN: doing->freeing-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.24>doing-&amp;gt;freeing</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.24>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.24>doing-&amp;gt;释放</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.24>
   <!--EN: doing->standing firm against-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.25>doing-&amp;gt;standing firm against</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.25>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.25>doing-&amp;gt;坚定地反对</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.25>
   <!--EN: doing->rejecting-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.26>doing-&amp;gt;rejecting</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.26>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.26>doing-&amp;gt;拒绝</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.26>
   <!--EN: speechtopic->peace through power-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.3>speechtopic-&amp;gt;peace through power</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.3>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.3>speechtopic-&amp;gt;通过权力和平</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.3>
   <!--EN: speechtopic->mages-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.4>speechtopic-&amp;gt;mages</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.4>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.4>speechtopic-&amp;gt;法师</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.4>
   <!--EN: speechtopic->chaos-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.5>speechtopic-&amp;gt;chaos</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.5>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.5>speechtopic-&amp;gt;混乱</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.5>
   <!--EN: speechtopic->the temptation of power-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.6>speechtopic-&amp;gt;the temptation of power</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.6>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.6>speechtopic-&amp;gt;权力的诱惑</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.6>
   <!--EN: speechtopic->magic and mages-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.7>speechtopic-&amp;gt;magic and mages</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.7>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.7>speechtopic-&amp;gt;魔术和法师</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.7>
   <!--EN: speechtopic->the seduction of magic-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.8>speechtopic-&amp;gt;the seduction of magic</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.8>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.8>speechtopic-&amp;gt;魔法的诱惑</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.8>
   <!--EN: speechtopic->an errant bio-genetic cancer-->
-  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.9>speechtopic-&amp;gt;an errant bio-genetic cancer</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.9>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.9>speechtopic-&amp;gt;错误的生物基因癌</TM_Speech_SeverMagic.logRulesInitiator.rulesStrings.9>
 </LanguageData>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: spirit wolf-->
-  <TM_SpiritWolf.label>spirit wolf</TM_SpiritWolf.label>
+  <TM_SpiritWolf.label>幽灵狼</TM_SpiritWolf.label>
   <!--EN: spirit wolves-->
-  <TM_SpiritWolf.labelPlural>spirit wolves</TM_SpiritWolf.labelPlural>
+  <TM_SpiritWolf.labelPlural>幽灵狼</TM_SpiritWolf.labelPlural>
   <!--EN: Spirit wolves coalesce in the physical realm at the behest of a powerful shaman. Wolves are a dangerous mammal alone but are a force to be feared when hunting in a pack. The spirit wolf will fade back into the ether after a brief period or if it is defeated.-->
-  <TM_SpiritWolfR.description>Spirit wolves coalesce in the physical realm at the behest of a powerful shaman. Wolves are a dangerous mammal alone but are a force to be feared when hunting in a pack. The spirit wolf will fade back into the ether after a brief period or if it is defeated.</TM_SpiritWolfR.description>
+  <TM_SpiritWolfR.description>在一个强大的萨满的命令下，幽灵狼在物质世界里联合起来。狼是一种危险的哺乳动物，但在群居狩猎时，狼是一种令人害怕的力量。幽灵狼会在一段短暂的时间后或者如果它被击败，它们会回到以太中。</TM_SpiritWolfR.description>
   <!--EN: spirit wolf-->
-  <TM_SpiritWolfR.label>spirit wolf</TM_SpiritWolfR.label>
+  <TM_SpiritWolfR.label>幽灵狼</TM_SpiritWolfR.label>
   <!--EN: left claw-->
-  <TM_SpiritWolfR.tools.0.label>left claw</TM_SpiritWolfR.tools.0.label>
+  <TM_SpiritWolfR.tools.0.label>左爪</TM_SpiritWolfR.tools.0.label>
   <!--EN: right claw-->
-  <TM_SpiritWolfR.tools.1.label>right claw</TM_SpiritWolfR.tools.1.label>
+  <TM_SpiritWolfR.tools.1.label>右爪</TM_SpiritWolfR.tools.1.label>
   <!--EN: head-->
-  <TM_SpiritWolfR.tools.3.label>head</TM_SpiritWolfR.tools.3.label>
+  <TM_SpiritWolfR.tools.3.label>头</TM_SpiritWolfR.tools.3.label>
 </LanguageData>

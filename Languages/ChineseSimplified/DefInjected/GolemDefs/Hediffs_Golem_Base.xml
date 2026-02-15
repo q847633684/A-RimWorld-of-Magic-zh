@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Health effects applied to all golems.-->
-  <TM_GolemHD.description>Health effects applied to all golems.</TM_GolemHD.description>
+  <TM_GolemHD.description>适用于所有傀儡的健康效果。</TM_GolemHD.description>
   <!--EN: Golem-->
-  <TM_GolemHD.label>Golem</TM_GolemHD.label>
+  <TM_GolemHD.label>傀儡</TM_GolemHD.label>
 </LanguageData>
