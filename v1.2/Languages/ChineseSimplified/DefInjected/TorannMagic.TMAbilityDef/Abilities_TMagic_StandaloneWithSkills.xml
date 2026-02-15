@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Explosion! -->
+
+  <TM_Explosion.label>爆炸!</TM_Explosion.label>
+  <TM_Explosion.description>在光明下隐藏的黑暗 在黑夜中躁动的烈火 以绯红恶魔之名 显示祢原初的毁灭 呼唤祢力量的根源 在那死亡国度中隐秘盛开爆炸!</TM_Explosion.description>
+
+
+  <!-- Taunt -->
+
+  <TM_Taunt.label>嘲讽</TM_Taunt.label>
+  <TM_Taunt.description>嘲讽附近的敌人攻击这个人。</TM_Taunt.description>
+
+
+  <!-- Shield Other -->
+
+  <TM_ShieldOther.label>护卫他人</TM_ShieldOther.label>
+  <TM_ShieldOther.description>保护目标不受伤害60秒或盾牌被打破。\n吸收80点伤害。\n护盾每级吸收额外的0.5点伤害。</TM_ShieldOther.description>
+
+
+</LanguageData>

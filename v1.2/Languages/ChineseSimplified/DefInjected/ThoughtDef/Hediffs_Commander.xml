@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_CommanderTD.stages.0.label>有魅力的殖民者</TM_CommanderTD.stages.0.label>
+  <TM_CommanderTD.stages.0.description>我情绪激动!我不确定是什么，但在这样一个有魅力的指挥官身边，肯定会有好事发生.</TM_CommanderTD.stages.0.description>
+
+  <TM_CommanderTD_I.stages.0.label>有魅力的指挥官</TM_CommanderTD_I.stages.0.label>
+  <TM_CommanderTD_I.stages.0.description>我情绪激动!围绕着这样一位有魅力的指挥官，好事一定会发生，尽管还不清楚是如何发生的.</TM_CommanderTD_I.stages.0.description>
+
+  <TM_CommanderTD_II.stages.0.label>有魅力的领导者</TM_CommanderTD_II.stages.0.label>
+  <TM_CommanderTD_II.stages.0.description>我情绪激动!在这样一位有魅力的领导人身边，肯定会有好事发生.</TM_CommanderTD_II.stages.0.description>
+
+  <TM_CommanderTD_III.stages.0.label>有魅力的梦想家</TM_CommanderTD_III.stages.0.label>
+  <TM_CommanderTD_III.stages.0.description>我情绪激动!在这样一位有魅力的领导人身边，肯定会有好事发生.</TM_CommanderTD_III.stages.0.description>
+
+  <TM_TaskMasterTD.stages.0.label>任务光环</TM_TaskMasterTD.stages.0.label>
+  <TM_TaskMasterTD.stages.0.description>我生活的每一个方面都变得微观管理;我几乎没有时间吃一顿像样的饭.</TM_TaskMasterTD.stages.0.description>
+
+
+</LanguageData>

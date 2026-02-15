@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Projectile_TM_SpawnThing.label>创造魔法物品</Projectile_TM_SpawnThing.label>
+
+
+  <!-- Heater -->
+
+  <Projectile_Heater.label>生成魔法热源</Projectile_Heater.label>
+
+
+  <!-- Cooler -->
+
+  <Projectile_Cooler.label>生成魔法冷源</Projectile_Cooler.label>
+
+
+  <!-- Power Node -->
+
+  <Projectile_PowerNode.label>生成魔法电源</Projectile_PowerNode.label>
+
+
+  <!-- Light Node -->
+
+  <Projectile_Sunlight.label>生成日光术</Projectile_Sunlight.label>
+
+
+  <!-- Remove Moisture -->
+
+  <Projectile_DryGround.label>魔力蒸腾</Projectile_DryGround.label>
+
+
+  <!-- Add Moisture -->
+
+  <Projectile_WetGround.label>滋润大地</Projectile_WetGround.label>
+
+
+  <!-- Charge Battery -->
+
+  <Projectile_ChargeBattery.label>电池充能</Projectile_ChargeBattery.label>
+
+
+  <!-- Smoke Cloud -->
+
+  <Projectile_SmokeCloud.label>烟云蔽日</Projectile_SmokeCloud.label>
+
+
+  <!-- Extinguish -->
+
+  <Projectile_Extinguish.label>熄灭术</Projectile_Extinguish.label>
+
+
+  <!-- EMP -->
+
+  <Projectile_EMP.label>电磁脉冲</Projectile_EMP.label>
+
+
+  <!-- Transfer mana -->
+
+  <Projectile_TransferMana.label>法力转移</Projectile_TransferMana.label>
+
+
+  <!-- siphon mana -->
+
+  <Projectile_SiphonMana.label>法力虹吸</Projectile_SiphonMana.label>
+
+
+  <!-- Flight -->
+
+  <FlyingObject_Flight.label>飞行目标</FlyingObject_Flight.label>
+  <Projectile_Flight.label>飞行</Projectile_Flight.label>
+
+
+  <!-- Fertile land -->
+
+  <Projectile_FertileLands.label>大地祝福</Projectile_FertileLands.label>
+
+
+  <!-- dirt devil -->
+
+  <Projectile_DirtDevil.label>旋风</Projectile_DirtDevil.label>
+  <FlyingObject_DirtDevil.label>飞行物体</FlyingObject_DirtDevil.label>
+
+
+  <!-- Arcane Bolt -->
+
+  <Projectile_ArcaneBolt.label>奥术射线</Projectile_ArcaneBolt.label>
+
+
+  <!-- Throwing Knife -->
+
+  <Projectile_ThrowingKnife.label>投掷飞刀</Projectile_ThrowingKnife.label>
+
+
+  <!-- Lightning Trap -->
+
+  <FlyingObject_LightningTrap.label>闪电陷阱</FlyingObject_LightningTrap.label>
+
+
+  <!-- briar patch -->
+
+  <Projectile_BriarPatch.label>自然之怒</Projectile_BriarPatch.label>
+
+
+  <!-- Tempest Strike -->
+
+  <Projectile_TempestStrike.label>暴风袭击</Projectile_TempestStrike.label>
+
+
+</LanguageData>

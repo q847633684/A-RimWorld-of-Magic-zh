@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Arcane forge alternate recipe's -->
+
+  <ArcaneForge_ElephantSpear.label>制作象矛</ArcaneForge_ElephantSpear.label>
+  <ArcaneForge_ElephantSpear.description>象矛是用大象的獠牙制成的，通常是为猎人或部落首领保留的身份象征。轴上刻有微小的附魔，进一步提升了使用者的战斗能力。\n		\n这种武器被施以魔法，并为训练有素的法师和战士提供额外的好处：\n提升最大能量值: +10%\n技能强度: +10%\n技能抗性: +20</ArcaneForge_ElephantSpear.description>
+  <ArcaneForge_ElephantSpear.jobString>制作象矛</ArcaneForge_ElephantSpear.jobString>
+
+  <ArcaneForge_ThrumboAxe.label>制作撼地斧</ArcaneForge_ThrumboAxe.label>
+  <ArcaneForge_ThrumboAxe.description>一个由敲击兽角和魔法原石制成的握柄组合而成的斧子. 此握柄中存储着奥术能量并且会在撼地斧被挥舞时转化为物理力量, 其强大的力量甚至可以一击将数个敌人劈成两半. 此斧握柄上同样铭刻着神秘的符文来增强使用者的奥术能量。\n		\n这种武器被施以魔法，并为训练有素的法师和战士提供额外的好处：\n提升最大能量值: +10%\n技能强度: +20%\n技能抗性: +30%\n劈裂冲击</ArcaneForge_ThrumboAxe.description>
+  <ArcaneForge_ThrumboAxe.jobString>制作撼地斧</ArcaneForge_ThrumboAxe.jobString>
+
+  <ArcaneForge_ThrumboSaber.label>制作秘能刀</ArcaneForge_ThrumboSaber.label>
+  <ArcaneForge_ThrumboSaber.description>一把锋利的刀锋被注入了一些神秘的能量。让它比金属刀轻，它的刃可以穿透所有的盔甲，但某些厚的要死的盔甲除外。许多刀锋高手都喜欢这种武器，因为它是为了速度和杀伤力而设计的。进一步的附魔也可以让使用者加速，在短时间内使他们的攻击率翻倍。   \n这件武器是附魔的，为训练有素的法师和战士提供额外的收益：\n技能冷却时间: -10%\n伤害提升: +10%\n击中时急速 (25%)</ArcaneForge_ThrumboSaber.description>
+  <ArcaneForge_ThrumboSaber.jobString>正在制作秘能刀</ArcaneForge_ThrumboSaber.jobString>
+
+  <ArcaneForge_ElephantBow.label>制作象牙弓</ArcaneForge_ElephantBow.label>
+  <ArcaneForge_ElephantBow.description>象牙做成的弓。象牙是神圣的，为减少硬度和重量，通过浸泡在魔力伊特中软化。虽然操控难度稍大一些，象弓在射程和精度方面有了显著的提高。\n象弓上刻有微小的附魔，是许多经验丰富的游骑兵和猎人的首选武器。\n\n这种武器被施以魔法，并为训练有素的法师和战士提供额外的好处：\n提升最大能量值: +5%\n提升能量回复速度: +5%\n技能强度: +10%\n技能冷却缩减: -10%</ArcaneForge_ElephantBow.description>
+  <ArcaneForge_ElephantBow.jobString>制作象牙弓</ArcaneForge_ElephantBow.jobString>
+
+  <ArcaneForge_ThrumBow.label>制作鹰角弓</ArcaneForge_ThrumBow.label>
+  <ArcaneForge_ThrumBow.description>由敲击兽的角制作的长弓。敲击兽的角被神圣化为减轻重量并通过将其浸泡在魔力伊特中软化，从而为敲击兽的角增添了令人惊讶的柔软感，进一步加强了附魔和奥术雕刻。用这把轻巧的弓进行攻击时如此的精准，就好像它自己会瞄准目标一样。然而，这或许只是持有者的自欺欺人。\n\n\n这种武器被施以魔法，并为训练有素的法师和战士提供额外的好处：\n提升最大能量值: +20%\n提升能量回复速度: +10%\n技能强度: +20%\n技能冷却缩减: -10%\n增加经验值获取: -20%</ArcaneForge_ThrumBow.description>
+  <ArcaneForge_ThrumBow.jobString>制作鹰角弓</ArcaneForge_ThrumBow.jobString>
+
+  <ArcaneForge_Replication.label>复制锻造</ArcaneForge_Replication.label>
+  <ArcaneForge_Replication.description>复制对象的详细信息和设计。</ArcaneForge_Replication.description>
+  <ArcaneForge_Replication.jobString>正在复制</ArcaneForge_Replication.jobString>
+
+  <ArcaneForge_Replication_Restore.label>复制锻造</ArcaneForge_Replication_Restore.label>
+  <ArcaneForge_Replication_Restore.description>复制对象的详细信息和设计。</ArcaneForge_Replication_Restore.description>
+  <ArcaneForge_Replication_Restore.jobString>正在复制</ArcaneForge_Replication_Restore.jobString>
+
+  <ArcaneForge_ChunkToMagicyte.label>附魔石头</ArcaneForge_ChunkToMagicyte.label>
+  <ArcaneForge_ChunkToMagicyte.description>在石头块中注入法力来制造魔法</ArcaneForge_ChunkToMagicyte.description>
+  <ArcaneForge_ChunkToMagicyte.jobString>给大块石头注入法力。</ArcaneForge_ChunkToMagicyte.jobString>
+
+
+</LanguageData>

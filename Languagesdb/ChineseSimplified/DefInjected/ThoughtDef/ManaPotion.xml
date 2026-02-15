@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ManaPotionHigh.stages.0.label>法力涌动</ManaPotionHigh.stages.0.label>
+  <ManaPotionHigh.stages.0.description>这种力量....太强大了！ 我感觉到整个宇宙的力量都汇聚在我的指尖, 我整个身体都燃烧了起来！</ManaPotionHigh.stages.0.description>
+
+
+  <!-- Mana potion addiction -->
+
+  <ManaPotionWithdrawal.stages.0.label>法力流失</ManaPotionWithdrawal.stages.0.label>
+  <ManaPotionWithdrawal.stages.0.description>额啊... 一切都是如此的模糊. 我似乎连自己的身体都无法掌控了, 我感觉我正与现实世界分离,我需要集中一万分的精力才能感受到体内的法力。</ManaPotionWithdrawal.stages.0.description>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Projectile_Geomancer.label>默认弹药</Projectile_Geomancer.label>
+
+
+  <!-- Encase -->
+
+  <Projectile_Encase.label>造墙术</Projectile_Encase.label>
+  <Projectile_Encase_I.label>造墙术</Projectile_Encase_I.label>
+  <Projectile_Encase_II.label>造墙术</Projectile_Encase_II.label>
+  <Projectile_Encase_III.label>造墙术</Projectile_Encase_III.label>
+
+
+  <!-- Earthern Hammer -->
+
+  <Projectile_EarthernHammer.label>投掷钢岩花弹</Projectile_EarthernHammer.label>
+
+
+  <!-- Sentinel -->
+
+  <Projectile_Sentinel.label>投掷石哨兵</Projectile_Sentinel.label>
+
+
+</LanguageData>

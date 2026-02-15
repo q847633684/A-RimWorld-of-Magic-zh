@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mecha Golem upgrade recipes -->
+
+  <TM_Mecha-Golem_RepairComponent.label>修理部件</TM_Mecha-Golem_RepairComponent.label>
+  <TM_Mecha-Golem_RepairComponent.description>替换丢失的不需要特定升级的傀儡部件。</TM_Mecha-Golem_RepairComponent.description>
+  <TM_Mecha-Golem_RepairComponent.jobString>制作傀儡部位</TM_Mecha-Golem_RepairComponent.jobString>
+
+  <TM_Mecha-Golem_EnergyCell.label>能量电池</TM_Mecha-Golem_EnergyCell.label>
+  <TM_Mecha-Golem_EnergyCell.description>制作一个能量电池并将其安装到一个机械傀儡中。</TM_Mecha-Golem_EnergyCell.description>
+  <TM_Mecha-Golem_EnergyCell.jobString>制作能量电池</TM_Mecha-Golem_EnergyCell.jobString>
+
+  <TM_Mecha-Golem_EnergyConverter.label>能量转换器</TM_Mecha-Golem_EnergyConverter.label>
+  <TM_Mecha-Golem_EnergyConverter.description>提高10%傀儡吸收和使用能量的效率。</TM_Mecha-Golem_EnergyConverter.description>
+  <TM_Mecha-Golem_EnergyConverter.jobString>制作电力循环系统</TM_Mecha-Golem_EnergyConverter.jobString>
+
+  <TM_Mecha-Golem_EnergyCharge.label>电力神经核心</TM_Mecha-Golem_EnergyCharge.label>
+  <TM_Mecha-Golem_EnergyCharge.description>每10小时增加傀儡的能量充能速度。</TM_Mecha-Golem_EnergyCharge.description>
+  <TM_Mecha-Golem_EnergyCharge.jobString>升级电力神经核心</TM_Mecha-Golem_EnergyCharge.jobString>
+
+  <TM_Mecha-Golem_Axe.label>机械斧</TM_Mecha-Golem_Axe.label>
+  <TM_Mecha-Golem_Axe.description>锻造机械用战斧并将其安装到左臂插槽上，斧类武器适用于对抗轻甲目标。</TM_Mecha-Golem_Axe.description>
+  <TM_Mecha-Golem_Axe.jobString>制作傀儡部位</TM_Mecha-Golem_Axe.jobString>
+
+  <TM_Mecha-Golem_Sword.label>机械剑</TM_Mecha-Golem_Sword.label>
+  <TM_Mecha-Golem_Sword.description>锻造机械用长剑并将其安装到左臂插槽上，剑类武器适用于突破护甲与切断四肢。</TM_Mecha-Golem_Sword.description>
+  <TM_Mecha-Golem_Sword.jobString>制作傀儡部位</TM_Mecha-Golem_Sword.jobString>
+
+  <TM_Mecha-Golem_Hammer.label>机械锤</TM_Mecha-Golem_Hammer.label>
+  <TM_Mecha-Golem_Hammer.description>锻造机械用战锤并将其安装到右臂插槽上，锤类造成的钝器伤害可以把敌人砸成肉酱。</TM_Mecha-Golem_Hammer.description>
+  <TM_Mecha-Golem_Hammer.jobString>制作傀儡部位</TM_Mecha-Golem_Hammer.jobString>
+
+  <TM_Mecha-Golem_GatlingCannon.label>肩部加特林炮</TM_Mecha-Golem_GatlingCannon.label>
+  <TM_Mecha-Golem_GatlingCannon.description>在机械傀儡的右肩底座上安装一门加特林机炮用于压制敌人。</TM_Mecha-Golem_GatlingCannon.description>
+  <TM_Mecha-Golem_GatlingCannon.jobString>制作傀儡部位</TM_Mecha-Golem_GatlingCannon.jobString>
+
+  <TM_Mecha-Golem_MiningLaser.label>肩部矿用激光器</TM_Mecha-Golem_MiningLaser.label>
+  <TM_Mecha-Golem_MiningLaser.description>制作一个矿用激光器并连接到左肩底座，可以熔化建筑。</TM_Mecha-Golem_MiningLaser.description>
+  <TM_Mecha-Golem_MiningLaser.jobString>制作傀儡部位</TM_Mecha-Golem_MiningLaser.jobString>
+
+  <TM_Mecha-Golem_Extinguisher.label>灭火器</TM_Mecha-Golem_Extinguisher.label>
+  <TM_Mecha-Golem_Extinguisher.description>增加了内置的蒸汽排气口，可用于快速驱散傀儡上和周围的火焰。</TM_Mecha-Golem_Extinguisher.description>
+  <TM_Mecha-Golem_Extinguisher.jobString>制作傀儡部位</TM_Mecha-Golem_Extinguisher.jobString>
+
+  <TM_Mecha-Golem_BallisticPlate.label>塑钢防弹板</TM_Mecha-Golem_BallisticPlate.label>
+  <TM_Mecha-Golem_BallisticPlate.description>使用防弹板升级傀儡的防御；会导致移速减少。</TM_Mecha-Golem_BallisticPlate.description>
+  <TM_Mecha-Golem_BallisticPlate.jobString>制作傀儡部位</TM_Mecha-Golem_BallisticPlate.jobString>
+
+  <TM_Mecha-Golem_FlameCore.label>焰核处理器</TM_Mecha-Golem_FlameCore.label>
+  <TM_Mecha-Golem_FlameCore.description>焰核处理器每升级一级[1/2/3]提供以下加成：\n移速：+[0.5c/0.9c/1.2c]\n处理能力：+[10%/20%/30%]\n技能伤害：+[10%/20%/30%]\n能量消耗：+[10%/20%/30%]\n\n此外，火焰核心允许傀儡吸引并燃烧附近的污物，在过程中获得能量。</TM_Mecha-Golem_FlameCore.description>
+  <TM_Mecha-Golem_FlameCore.jobString>制作傀儡升级</TM_Mecha-Golem_FlameCore.jobString>
+
+  <TM_Mecha-Golem_WaterCore.label>水核处理器</TM_Mecha-Golem_WaterCore.label>
+  <TM_Mecha-Golem_WaterCore.description>每一级[1/2/3]水核处理器会提供以下加成;\n护甲:+[5%/10%/15%]\n能力冷却:	-[10%/20%/30%]\n治疗效果:	+[100%/200%/300%]\n能量消耗:	-[15%/30%/45%]\n\n此外，水核允许傀儡在活动状态下快速恢复生命，并将生命恢复到休眠状态。</TM_Mecha-Golem_WaterCore.description>
+  <TM_Mecha-Golem_WaterCore.jobString>制作傀儡升级</TM_Mecha-Golem_WaterCore.jobString>
+
+  <TM_Mecha-Golem_EarthCore.label>地核处理器</TM_Mecha-Golem_EarthCore.label>
+  <TM_Mecha-Golem_EarthCore.description>地核处理器每升级一级[1/2/3]提供以下加成：\n护甲：+[10%/18%/25%]\n技能冷却：-[5%/10%/15%]\n治疗：+[60%/120%/180%]\n能量消耗：+[5%/10%/15%]\n处理能力：+[15%/30%/45%]\n\n此外，地核还能使傀儡保护自己免受伤害。</TM_Mecha-Golem_EarthCore.description>
+  <TM_Mecha-Golem_EarthCore.jobString>制作傀儡升级</TM_Mecha-Golem_EarthCore.jobString>
+
+  <TM_Mecha-Golem_LightningCore.label>雷核处理器</TM_Mecha-Golem_LightningCore.label>
+  <TM_Mecha-Golem_LightningCore.description>每一级[1/2/3]雷核处理器会提供以下加成;\n移速+[1.2c/1.8c/2.2c]\n技能冷却:+[10%/20%/30%]\n处理能力:-[5%/10%/15%]\n\n除此之外,雷核使傀儡能够对近战攻击它的人进行能量打击，并短暂击昏他们。</TM_Mecha-Golem_LightningCore.description>
+  <TM_Mecha-Golem_LightningCore.jobString>制作傀儡升级</TM_Mecha-Golem_LightningCore.jobString>
+
+  <TM_Mecha-Golem_FlameShard.label>基础焰核碎片</TM_Mecha-Golem_FlameShard.label>
+  <TM_Mecha-Golem_FlameShard.description>每一级[1/2/3]基础火焰碎片会提供以下加成：\n移速：+[15%/30%/40%]\n生命值：+[15%/30%/40%]</TM_Mecha-Golem_FlameShard.description>
+  <TM_Mecha-Golem_FlameShard.jobString>制作傀儡升级</TM_Mecha-Golem_FlameShard.jobString>
+
+  <TM_Mecha-Golem_WaterShard.label>基础水核碎片</TM_Mecha-Golem_WaterShard.label>
+  <TM_Mecha-Golem_WaterShard.description>每一级[1/2/3]基础流水碎片会提供以下加成：移速:	+[10%/15%/20%]\n生命值:	+[30%/50%/70%]</TM_Mecha-Golem_WaterShard.description>
+  <TM_Mecha-Golem_WaterShard.jobString>制作傀儡升级</TM_Mecha-Golem_WaterShard.jobString>
+
+  <TM_Mecha-Golem_EarthShard.label>基础地核碎片</TM_Mecha-Golem_EarthShard.label>
+  <TM_Mecha-Golem_EarthShard.description>每一级[1/2/3]：\n基础大地碎片提供以下加成：生命值+[40%/80%/120%]</TM_Mecha-Golem_EarthShard.description>
+  <TM_Mecha-Golem_EarthShard.jobString>制作傀儡升级</TM_Mecha-Golem_EarthShard.jobString>
+
+  <TM_Mecha-Golem_LightningShard.label>基础雷核碎片</TM_Mecha-Golem_LightningShard.label>
+  <TM_Mecha-Golem_LightningShard.description>每一级[1/2/3]基础雷电碎片会提供以下加成：移速:	+[25%/50%/75%]</TM_Mecha-Golem_LightningShard.description>
+  <TM_Mecha-Golem_LightningShard.jobString>制作傀儡升级</TM_Mecha-Golem_LightningShard.jobString>
+
+
+</LanguageData>

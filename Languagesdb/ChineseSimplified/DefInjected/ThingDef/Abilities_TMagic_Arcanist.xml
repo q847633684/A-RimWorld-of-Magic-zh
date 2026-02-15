@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shadow start -->
+
+  <Buff_Shadow.label>暗影随形</Buff_Shadow.label>
+
+
+  <!-- Magic Missile -->
+
+  <Projectile_MagicMissile.label>魔法飞弹</Projectile_MagicMissile.label>
+
+
+  <!-- Teleport start -->
+
+  <Projectile_Teleport.label>传送</Projectile_Teleport.label>
+
+
+  <!-- Blink Start -->
+
+  <Projectile_Blink.label>闪烁</Projectile_Blink.label>
+
+
+  <!-- Summon Start -->
+
+  <Projectile_Summon.label>召唤</Projectile_Summon.label>
+  <TM_SummonedPawn.label>飞行目标</TM_SummonedPawn.label>
+  <MovingObject.label>移动目标</MovingObject.label>
+
+
+  <!-- Fold Reality -->
+
+  <Projectile_FoldReality.label>空间之门</Projectile_FoldReality.label>
+
+
+</LanguageData>

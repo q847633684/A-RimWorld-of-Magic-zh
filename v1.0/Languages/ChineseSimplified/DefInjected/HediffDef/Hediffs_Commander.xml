@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_ProvisionerAuraHD.label>Provisioner Aura</TM_ProvisionerAuraHD.label>
+  <TM_ProvisionerAuraHD.stages.0.label></TM_ProvisionerAuraHD.stages.0.label>
+
+  <TM_TaskMasterAuraHD.label>Task Master Aura</TM_TaskMasterAuraHD.label>
+  <TM_TaskMasterAuraHD.stages.0.label></TM_TaskMasterAuraHD.stages.0.label>
+
+  <TM_CommanderAuraHD.label>Commander Aura</TM_CommanderAuraHD.label>
+  <TM_CommanderAuraHD.stages.0.label></TM_CommanderAuraHD.stages.0.label>
+
+  <TM_StayAlertHD.label>Alert</TM_StayAlertHD.label>
+  <TM_StayAlertHD.stages.0.label></TM_StayAlertHD.stages.0.label>
+
+  <TM_MoveOutHD.label>Double Time</TM_MoveOutHD.label>
+  <TM_MoveOutHD.stages.0.label>Recovering</TM_MoveOutHD.stages.0.label>
+  <TM_MoveOutHD.stages.1.label></TM_MoveOutHD.stages.1.label>
+  <TM_MoveOutHD.stages.2.label></TM_MoveOutHD.stages.2.label>
+  <TM_MoveOutHD.stages.3.label></TM_MoveOutHD.stages.3.label>
+  <TM_MoveOutHD.stages.4.label></TM_MoveOutHD.stages.4.label>
+
+  <TM_HoldTheLineHD.label>Defensive stance</TM_HoldTheLineHD.label>
+  <TM_HoldTheLineHD.stages.0.label></TM_HoldTheLineHD.stages.0.label>
+  <TM_HoldTheLineHD.stages.1.label></TM_HoldTheLineHD.stages.1.label>
+  <TM_HoldTheLineHD.stages.2.label></TM_HoldTheLineHD.stages.2.label>
+  <TM_HoldTheLineHD.stages.3.label></TM_HoldTheLineHD.stages.3.label>
+
+  <TM_HTLShieldHD.label>HTL Shield</TM_HTLShieldHD.label>
+  <TM_HTLShieldHD.stages.0.label></TM_HTLShieldHD.stages.0.label>
+
+  <TM_CommanderHD.label>Emotionally Inspired (I)</TM_CommanderHD.label>
+  <TM_CommanderHD.stages.0.label>Commander</TM_CommanderHD.stages.0.label>
+
+  <TM_CommanderHD_I.label>Emotionally Inspired (II)</TM_CommanderHD_I.label>
+  <TM_CommanderHD_I.stages.0.label></TM_CommanderHD_I.stages.0.label>
+
+  <TM_CommanderHD_II.label>Emotionally Inspired (III)</TM_CommanderHD_II.label>
+  <TM_CommanderHD_II.stages.0.label></TM_CommanderHD_II.stages.0.label>
+
+  <TM_CommanderHD_III.label>Emotionally Inspired (IV)</TM_CommanderHD_III.label>
+  <TM_CommanderHD_III.stages.0.label></TM_CommanderHD_III.stages.0.label>
+
+  <TM_ProvisionerHD.label>Provisions</TM_ProvisionerHD.label>
+  <TM_ProvisionerHD.stages.0.label>I</TM_ProvisionerHD.stages.0.label>
+  <TM_ProvisionerHD.stages.1.label>II</TM_ProvisionerHD.stages.1.label>
+  <TM_ProvisionerHD.stages.2.label>III</TM_ProvisionerHD.stages.2.label>
+  <TM_ProvisionerHD.stages.3.label>IV</TM_ProvisionerHD.stages.3.label>
+
+  <TM_TaskMasterHD.label>Task Master</TM_TaskMasterHD.label>
+  <TM_TaskMasterHD.stages.0.label>I</TM_TaskMasterHD.stages.0.label>
+  <TM_TaskMasterHD.stages.1.label>II</TM_TaskMasterHD.stages.1.label>
+  <TM_TaskMasterHD.stages.2.label>III</TM_TaskMasterHD.stages.2.label>
+  <TM_TaskMasterHD.stages.3.label>IV</TM_TaskMasterHD.stages.3.label>
+
+
+</LanguageData>

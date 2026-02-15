@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Uncertainty.label>Uncertain Future</TM_Uncertainty.label>
+
+
+  <!-- Soothing Breeze -->
+
+  <TM_SoothingBreeze_AuraHD.label>Soothing Aura</TM_SoothingBreeze_AuraHD.label>
+  <TM_SoothingBreeze_AuraHD.stages.0.label>I</TM_SoothingBreeze_AuraHD.stages.0.label>
+  <TM_SoothingBreeze_AuraHD.stages.1.label>II</TM_SoothingBreeze_AuraHD.stages.1.label>
+  <TM_SoothingBreeze_AuraHD.stages.2.label>III</TM_SoothingBreeze_AuraHD.stages.2.label>
+  <TM_SoothingBreeze_AuraHD.stages.3.label>IV</TM_SoothingBreeze_AuraHD.stages.3.label>
+
+  <SoothingBreeze.label>Soothing Breeze</SoothingBreeze.label>
+  <SoothingBreeze.stages.0.label>I</SoothingBreeze.stages.0.label>
+
+  <SoothingBreeze_I.label>Soothing Breeze</SoothingBreeze_I.label>
+  <SoothingBreeze_I.stages.0.label>II</SoothingBreeze_I.stages.0.label>
+
+  <SoothingBreeze_II.label>Soothing Breeze</SoothingBreeze_II.label>
+  <SoothingBreeze_II.stages.0.label>III</SoothingBreeze_II.stages.0.label>
+
+  <SoothingBreeze_III.label>Soothing Breeze</SoothingBreeze_III.label>
+  <SoothingBreeze_III.stages.0.label>IV</SoothingBreeze_III.stages.0.label>
+
+
+  <!-- Ray of Hope -->
+
+  <TM_RayOfHope_AuraHD.label>Aura of Hope</TM_RayOfHope_AuraHD.label>
+  <TM_RayOfHope_AuraHD.stages.0.label>I</TM_RayOfHope_AuraHD.stages.0.label>
+  <TM_RayOfHope_AuraHD.stages.1.label>II</TM_RayOfHope_AuraHD.stages.1.label>
+  <TM_RayOfHope_AuraHD.stages.2.label>III</TM_RayOfHope_AuraHD.stages.2.label>
+  <TM_RayOfHope_AuraHD.stages.3.label>IV</TM_RayOfHope_AuraHD.stages.3.label>
+
+  <RayofHope.label>Ray of Hope</RayofHope.label>
+  <RayofHope.stages.0.label>I</RayofHope.stages.0.label>
+
+  <RayofHope_I.label>Ray of Hope</RayofHope_I.label>
+  <RayofHope_I.stages.0.label>II</RayofHope_I.stages.0.label>
+
+  <RayofHope_II.label>Ray of Hope</RayofHope_II.label>
+  <RayofHope_II.stages.0.label>III</RayofHope_II.stages.0.label>
+
+  <RayofHope_III.label>Ray of Hope</RayofHope_III.label>
+  <RayofHope_III.stages.0.label>IV</RayofHope_III.stages.0.label>
+
+  <AMP_I.label>AMP</AMP_I.label>
+  <AMP_I.stages.0.label>I</AMP_I.stages.0.label>
+
+  <AMP_II.label>AMP</AMP_II.label>
+  <AMP_II.stages.0.label>II</AMP_II.stages.0.label>
+
+  <AMP_III.label>AMP</AMP_III.label>
+  <AMP_III.stages.0.label>III</AMP_III.stages.0.label>
+
+  <TM_Shadow_AuraHD.label>Shadow Aura</TM_Shadow_AuraHD.label>
+  <TM_Shadow_AuraHD.stages.0.label>I</TM_Shadow_AuraHD.stages.0.label>
+  <TM_Shadow_AuraHD.stages.1.label>II</TM_Shadow_AuraHD.stages.1.label>
+  <TM_Shadow_AuraHD.stages.2.label>III</TM_Shadow_AuraHD.stages.2.label>
+  <TM_Shadow_AuraHD.stages.3.label>IV</TM_Shadow_AuraHD.stages.3.label>
+
+  <Shadow.label>Arcane Shadow</Shadow.label>
+  <Shadow.stages.0.label></Shadow.stages.0.label>
+
+  <Shadow_I.label>Arcane Shadow</Shadow_I.label>
+  <Shadow_I.stages.0.label>I</Shadow_I.stages.0.label>
+
+  <Shadow_II.label>Arcane Shadow</Shadow_II.label>
+  <Shadow_II.stages.0.label>II</Shadow_II.stages.0.label>
+
+  <Shadow_III.label>Arcane Shadow</Shadow_III.label>
+  <Shadow_III.stages.0.label>III</Shadow_III.stages.0.label>
+
+
+  <!-- Bestow Might -->
+
+  <BestowMightHD.label>Bestow Might</BestowMightHD.label>
+  <BestowMightHD.stages.0.label>I</BestowMightHD.stages.0.label>
+
+  <BestowMightHD_I.label>Bestow Might</BestowMightHD_I.label>
+  <BestowMightHD_I.stages.0.label>II</BestowMightHD_I.stages.0.label>
+
+  <BestowMightHD_II.label>Bestow Might</BestowMightHD_II.label>
+  <BestowMightHD_II.stages.0.label>III</BestowMightHD_II.stages.0.label>
+
+  <BestowMightHD_III.label>Bestow Might</BestowMightHD_III.label>
+  <BestowMightHD_III.stages.0.label>IV</BestowMightHD_III.stages.0.label>
+
+
+  <!-- Ranger Pet Bond -->
+
+  <TM_RangerBondHD.label>Ranger Bond</TM_RangerBondHD.label>
+  <TM_RangerBondHD.stages.0.label>I</TM_RangerBondHD.stages.0.label>
+  <TM_RangerBondHD.stages.1.label>II</TM_RangerBondHD.stages.1.label>
+  <TM_RangerBondHD.stages.2.label>III</TM_RangerBondHD.stages.2.label>
+  <TM_RangerBondHD.stages.3.label>IV</TM_RangerBondHD.stages.3.label>
+
+
+  <!-- Shield -->
+
+  <TM_HediffShield.label>Shield</TM_HediffShield.label>
+
+
+  <!-- Sprint -->
+
+  <TM_HediffSprint_I.label>Sprint (I)</TM_HediffSprint_I.label>
+  <TM_HediffSprint_II.label>Sprint (II)</TM_HediffSprint_II.label>
+  <TM_HediffSprint_III.label>Sprint (III)</TM_HediffSprint_III.label>
+  <TM_HediffInvulnerable.label>Invulnerable</TM_HediffInvulnerable.label>
+  <TM_HediffTimedInvulnerable.label>Invulnerable</TM_HediffTimedInvulnerable.label>
+  <TM_HediffFortitude.label>Fortitude</TM_HediffFortitude.label>
+  <TM_ManaShieldHD.label>Mana Shield</TM_ManaShieldHD.label>
+
+
+  <!-- Blind -->
+
+  <TM_Blind.label>Blinded</TM_Blind.label>
+  <TM_Blind.stages.0.label>I</TM_Blind.stages.0.label>
+  <TM_Blind.stages.1.label>II</TM_Blind.stages.1.label>
+  <TM_Blind.stages.2.label>III</TM_Blind.stages.2.label>
+
+  <TM_Regeneration.label>Regeneration</TM_Regeneration.label>
+  <TM_Regeneration_I.label>Regeneration (I)</TM_Regeneration_I.label>
+  <TM_Regeneration_II.label>Regeneration (II)</TM_Regeneration_II.label>
+  <TM_Regeneration_III.label>Regeneration (III)</TM_Regeneration_III.label>
+
+  <TM_BladeArtHD.label>Bladedancer</TM_BladeArtHD.label>
+  <TM_BladeArtHD.stages.0.label>I</TM_BladeArtHD.stages.0.label>
+  <TM_BladeArtHD.stages.1.label>II</TM_BladeArtHD.stages.1.label>
+  <TM_BladeArtHD.stages.2.label>III</TM_BladeArtHD.stages.2.label>
+  <TM_BladeArtHD.stages.3.label>IV</TM_BladeArtHD.stages.3.label>
+
+  <TM_BowTrainingHD.label>Bow Mastery</TM_BowTrainingHD.label>
+  <TM_BowTrainingHD.stages.0.label>I</TM_BowTrainingHD.stages.0.label>
+  <TM_BowTrainingHD.stages.1.label>II</TM_BowTrainingHD.stages.1.label>
+  <TM_BowTrainingHD.stages.2.label>III</TM_BowTrainingHD.stages.2.label>
+  <TM_BowTrainingHD.stages.3.label>IV</TM_BowTrainingHD.stages.3.label>
+
+  <SpellMendingHD.label>Spell Mending</SpellMendingHD.label>
+  <SpellMendingHD.stages.0.label>active</SpellMendingHD.stages.0.label>
+  <SpellMendingHD.stages.1.label>enhanced</SpellMendingHD.stages.1.label>
+
+
+  <!-- Resurrection Debuff -->
+
+  <TM_ResurrectionHD.label>Resurrection weakness</TM_ResurrectionHD.label>
+  <TM_ResurrectionHD.stages.0.label>I</TM_ResurrectionHD.stages.0.label>
+  <TM_ResurrectionHD.stages.1.label>II</TM_ResurrectionHD.stages.1.label>
+  <TM_ResurrectionHD.stages.2.label>III</TM_ResurrectionHD.stages.2.label>
+
+  <TM_DiseaseImmunityHD.label>Disease Immunity</TM_DiseaseImmunityHD.label>
+  <TM_DiseaseImmunityHD.stages.0.label>I</TM_DiseaseImmunityHD.stages.0.label>
+
+  <TM_DiseaseImmunity2HD.label>Disease Immunity</TM_DiseaseImmunity2HD.label>
+  <TM_DiseaseImmunity2HD.stages.0.label>II</TM_DiseaseImmunity2HD.stages.0.label>
+
+  <TM_BlurHD.label>Blur</TM_BlurHD.label>
+
+  <TM_InvisibilityHD.label>Invisibility</TM_InvisibilityHD.label>
+  <TM_InvisibilityHD.stages.0.label>I</TM_InvisibilityHD.stages.0.label>
+
+  <TM_MageLightHD.label>Magelight</TM_MageLightHD.label>
+  <TM_MageLightHD.stages.0.label></TM_MageLightHD.stages.0.label>
+
+  <TM_FrostSlowHD.label>Slow</TM_FrostSlowHD.label>
+  <TM_FrostSlowHD.stages.0.label>frost</TM_FrostSlowHD.stages.0.label>
+
+  <TM_CoolHD.label>Heat Protection</TM_CoolHD.label>
+  <TM_CoolHD.stages.0.label>Cooler</TM_CoolHD.stages.0.label>
+
+  <TM_RefreshedHD.label>Refreshed</TM_RefreshedHD.label>
+  <TM_RefreshedHD.stages.0.label>Cooler</TM_RefreshedHD.stages.0.label>
+
+  <TM_WarmHD.label>Cold Protection</TM_WarmHD.label>
+  <TM_WarmHD.stages.0.label>Heater</TM_WarmHD.stages.0.label>
+
+  <TM_ShockTherapyHD.label>Shock Therapy</TM_ShockTherapyHD.label>
+  <TM_ShockTherapyHD.stages.0.label>Power Node</TM_ShockTherapyHD.stages.0.label>
+
+  <TM_JoltHD.label>Jolt</TM_JoltHD.label>
+  <TM_JoltHD.stages.0.label>I</TM_JoltHD.stages.0.label>
+  <TM_JoltHD.stages.1.label>II</TM_JoltHD.stages.1.label>
+  <TM_JoltHD.stages.2.label>III</TM_JoltHD.stages.2.label>
+
+
+  <!-- Energy Regen - increases stamina/mana regeneration rates by multiplying the HD severity -->
+
+  <TM_EnergyRegenHD.label>Energy Regeneration</TM_EnergyRegenHD.label>
+  <TM_EnergyRegenHD.stages.0.label></TM_EnergyRegenHD.stages.0.label>
+
+
+  <!-- Super Soldier Serum -->
+
+  <TM_SS_SerumHD.label>SS Serum</TM_SS_SerumHD.label>
+  <TM_SS_SerumHD.stages.0.label>Stage 0</TM_SS_SerumHD.stages.0.label>
+  <TM_SS_SerumHD.stages.1.label>Stage 1</TM_SS_SerumHD.stages.1.label>
+  <TM_SS_SerumHD.stages.2.label>Stage 2</TM_SS_SerumHD.stages.2.label>
+  <TM_SS_SerumHD.stages.3.label>Stage 3</TM_SS_SerumHD.stages.3.label>
+
+
+</LanguageData>

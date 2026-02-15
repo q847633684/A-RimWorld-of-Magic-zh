@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_PsionicHD.label>灵能（增幅）</TM_PsionicHD.label>
+  <TM_PsionicHD.description>灵能者的独特能量。</TM_PsionicHD.description>
+
+  <TM_PsionicInjuryHD.label>灵能</TM_PsionicInjuryHD.label>
+  <TM_PsionicInjuryHD.description>灵能造成的伤害.</TM_PsionicInjuryHD.description>
+  <TM_PsionicInjuryHD.comps.0.labelTendedWell>已包扎</TM_PsionicInjuryHD.comps.0.labelTendedWell>
+  <TM_PsionicInjuryHD.comps.0.labelTendedWellInner>已缝合</TM_PsionicInjuryHD.comps.0.labelTendedWellInner>
+  <TM_PsionicInjuryHD.comps.0.labelSolidTendedWell>已固定</TM_PsionicInjuryHD.comps.0.labelSolidTendedWell>
+  <TM_PsionicInjuryHD.injuryProps.destroyedLabel>爆发</TM_PsionicInjuryHD.injuryProps.destroyedLabel>
+  <TM_PsionicInjuryHD.injuryProps.destroyedOutLabel>爆炸</TM_PsionicInjuryHD.injuryProps.destroyedOutLabel>
+  <TM_PsionicInjuryHD.comps.HediffComp_GetsPermanent.permanentLabel>被灵能摧毁</TM_PsionicInjuryHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <TM_PsionicInjuryHD.labelNounPretty>{1} 中的 {0}</TM_PsionicInjuryHD.labelNounPretty>
+
+  <TM_PsionicSpeedHD.label>灵能加速</TM_PsionicSpeedHD.label>
+  <TM_PsionicSpeedHD.description>通过灵能来强化移动能力。</TM_PsionicSpeedHD.description>
+  <TM_PsionicSpeedHD.stages.0.label>I</TM_PsionicSpeedHD.stages.0.label>
+
+  <TM_PsionicSpeedHD_I.label>灵能加速</TM_PsionicSpeedHD_I.label>
+  <TM_PsionicSpeedHD_I.description>通过灵能来强化移动能力。</TM_PsionicSpeedHD_I.description>
+  <TM_PsionicSpeedHD_I.stages.0.label>II</TM_PsionicSpeedHD_I.stages.0.label>
+
+  <TM_PsionicSpeedHD_II.label>灵能加速</TM_PsionicSpeedHD_II.label>
+  <TM_PsionicSpeedHD_II.description>通过灵能来强化移动能力。</TM_PsionicSpeedHD_II.description>
+  <TM_PsionicSpeedHD_II.stages.0.label>III</TM_PsionicSpeedHD_II.stages.0.label>
+
+  <TM_PsionicSpeedHD_III.label>灵能加速</TM_PsionicSpeedHD_III.label>
+  <TM_PsionicSpeedHD_III.description>通过灵能来强化移动能力。</TM_PsionicSpeedHD_III.description>
+  <TM_PsionicSpeedHD_III.stages.0.label>IV</TM_PsionicSpeedHD_III.stages.0.label>
+
+  <TM_PsionicManipulationHD.label>灵能操纵</TM_PsionicManipulationHD.label>
+  <TM_PsionicManipulationHD.description>通过灵能增强身体机能。</TM_PsionicManipulationHD.description>
+  <TM_PsionicManipulationHD.stages.0.label>I</TM_PsionicManipulationHD.stages.0.label>
+
+  <TM_PsionicManipulationHD_I.label>灵能操纵</TM_PsionicManipulationHD_I.label>
+  <TM_PsionicManipulationHD_I.description>通过灵能增强身体机能。</TM_PsionicManipulationHD_I.description>
+  <TM_PsionicManipulationHD_I.stages.0.label>II</TM_PsionicManipulationHD_I.stages.0.label>
+
+  <TM_PsionicManipulationHD_II.label>灵能操纵</TM_PsionicManipulationHD_II.label>
+  <TM_PsionicManipulationHD_II.description>通过灵能增强身体机能。</TM_PsionicManipulationHD_II.description>
+  <TM_PsionicManipulationHD_II.stages.0.label>III</TM_PsionicManipulationHD_II.stages.0.label>
+
+  <TM_PsionicManipulationHD_III.label>灵能操纵</TM_PsionicManipulationHD_III.label>
+  <TM_PsionicManipulationHD_III.description>通过灵能增强身体机能。</TM_PsionicManipulationHD_III.description>
+  <TM_PsionicManipulationHD_III.stages.0.label>IV</TM_PsionicManipulationHD_III.stages.0.label>
+
+
+</LanguageData>

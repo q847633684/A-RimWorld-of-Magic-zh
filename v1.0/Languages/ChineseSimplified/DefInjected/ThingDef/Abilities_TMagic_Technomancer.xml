@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Projectile_TMFragGrenade.label>mini frag grenade</Projectile_TMFragGrenade.label>
+  <Projectile_TMEMPGrenade.label>mini frag grenade</Projectile_TMEMPGrenade.label>
+
+
+  <!-- Techno Turret -->
+
+  <Projectile_TechnoTurret.label>Mark-IV projectile</Projectile_TechnoTurret.label>
+
+
+  <!-- Techno Weapon -->
+
+  <Bullet_ES_Fire.label>elemental shot - fire</Bullet_ES_Fire.label>
+  <Bullet_ES_Ice.label>elemental shot - ice</Bullet_ES_Ice.label>
+  <Bullet_ES_Lit.label>elemental shot - lightning</Bullet_ES_Lit.label>
+
+
+  <!-- Sabotage -->
+
+  <Projectile_Sabotage.label>sabotage projectile</Projectile_Sabotage.label>
+
+
+  <!-- OrbitalStrike -->
+
+  <Projectile_OrbitalStrike.label>orbital strike</Projectile_OrbitalStrike.label>
+  <Projectile_OrbitalStrike_I.label>orbital strike</Projectile_OrbitalStrike_I.label>
+  <Projectile_OrbitalStrike_II.label>orbital strike</Projectile_OrbitalStrike_II.label>
+  <Projectile_OrbitalStrike_III.label>orbital strike</Projectile_OrbitalStrike_III.label>
+
+  <TM_TechnoWeapon_Base0.label>techno weapon</TM_TechnoWeapon_Base0.label>
+  <TM_TechnoWeapon_Base0.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base0.description>
+  <TM_TechnoWeapon_Base0.tools.0.label>weapon smash</TM_TechnoWeapon_Base0.tools.0.label>
+
+  <TM_TechnoWeapon_Base1.label>techno weapon</TM_TechnoWeapon_Base1.label>
+  <TM_TechnoWeapon_Base1.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base1.description>
+  <TM_TechnoWeapon_Base1.tools.0.label>weapon smash</TM_TechnoWeapon_Base1.tools.0.label>
+
+  <TM_TechnoWeapon_Base2.label>techno weapon</TM_TechnoWeapon_Base2.label>
+  <TM_TechnoWeapon_Base2.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base2.description>
+  <TM_TechnoWeapon_Base2.tools.0.label>weapon smash</TM_TechnoWeapon_Base2.tools.0.label>
+
+  <TM_TechnoWeapon_Base3.label>techno weapon</TM_TechnoWeapon_Base3.label>
+  <TM_TechnoWeapon_Base3.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base3.description>
+  <TM_TechnoWeapon_Base3.tools.0.label>weapon smash</TM_TechnoWeapon_Base3.tools.0.label>
+
+  <TM_TechnoWeapon_Base4.label>techno weapon</TM_TechnoWeapon_Base4.label>
+  <TM_TechnoWeapon_Base4.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base4.description>
+  <TM_TechnoWeapon_Base4.tools.0.label>weapon smash</TM_TechnoWeapon_Base4.tools.0.label>
+
+  <TM_TechnoWeapon_Base5.label>techno weapon</TM_TechnoWeapon_Base5.label>
+  <TM_TechnoWeapon_Base5.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base5.description>
+  <TM_TechnoWeapon_Base5.tools.0.label>weapon smash</TM_TechnoWeapon_Base5.tools.0.label>
+
+  <TM_TechnoWeapon_Base6.label>techno weapon</TM_TechnoWeapon_Base6.label>
+  <TM_TechnoWeapon_Base6.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base6.description>
+  <TM_TechnoWeapon_Base6.tools.0.label>weapon smash</TM_TechnoWeapon_Base6.tools.0.label>
+
+  <TM_TechnoWeapon_Base7.label>techno weapon</TM_TechnoWeapon_Base7.label>
+  <TM_TechnoWeapon_Base7.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base7.description>
+  <TM_TechnoWeapon_Base7.tools.0.label>weapon smash</TM_TechnoWeapon_Base7.tools.0.label>
+
+  <TM_TechnoWeapon_Base8.label>techno weapon</TM_TechnoWeapon_Base8.label>
+  <TM_TechnoWeapon_Base8.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base8.description>
+  <TM_TechnoWeapon_Base8.tools.0.label>weapon smash</TM_TechnoWeapon_Base8.tools.0.label>
+
+  <TM_TechnoWeapon_Base9.label>techno weapon</TM_TechnoWeapon_Base9.label>
+  <TM_TechnoWeapon_Base9.description>A weapon modified by a technomancer</TM_TechnoWeapon_Base9.description>
+  <TM_TechnoWeapon_Base9.tools.0.label>weapon smash</TM_TechnoWeapon_Base9.tools.0.label>
+
+
+</LanguageData>

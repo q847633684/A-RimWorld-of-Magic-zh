@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SoulBondPhysical.stages.0.label>极乐(身体)</SoulBondPhysical.stages.0.label>
+  <SoulBondPhysical.stages.0.description>我的疼痛消失了。我漂浮在欢乐的海洋中。</SoulBondPhysical.stages.0.description>
+
+  <SoulBondMental.stages.0.label>极乐(精神)</SoulBondMental.stages.0.label>
+  <SoulBondMental.stages.0.description>我心中的忧虑已经被消除了，过去那些让我担心的事情现在看来不过是杞人忧天而已。</SoulBondMental.stages.0.description>
+
+  <VitalityDrainTD.stages.0.label>极乐天堂</VitalityDrainTD.stages.0.label>
+  <VitalityDrainTD.stages.0.description>她（魅魔）真是太神奇了！我整个人感到非常轻松，甚至有点昏昏欲睡。</VitalityDrainTD.stages.0.description>
+
+
+</LanguageData>

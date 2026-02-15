@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- GOLEM Generic -->
+
+  <Golem_Eyes.label>眼</Golem_Eyes.label>
+  <Golem_Arms.label>粉碎</Golem_Arms.label>
+
+
+  <!-- MECHA GOLEM -->
+
+  <Mecha_LeftArm.label>左臂</Mecha_LeftArm.label>
+  <Mecha_LeftArm_Axe.label>机械斧</Mecha_LeftArm_Axe.label>
+  <Mecha_LeftArm_Sword.label>机械剑</Mecha_LeftArm_Sword.label>
+  <Mecha_RightArm.label>右臂</Mecha_RightArm.label>
+  <Mecha_RightArm_Hammer.label>机械锤</Mecha_RightArm_Hammer.label>
+  <Mecha_Base.label>身体扣杀</Mecha_Base.label>
+
+
+  <!-- FLESH GOLEM -->
+
+  <Flesh_Eyes.label>眼</Flesh_Eyes.label>
+  <Flesh_Tusks.label>獠牙</Flesh_Tusks.label>
+  <Flesh_Horns.label>犄角</Flesh_Horns.label>
+  <Flesh_Arms.label>粉碎</Flesh_Arms.label>
+  <Flesh_LeftArm_Brace.label>护腕</Flesh_LeftArm_Brace.label>
+  <Flesh_LeftArm_Cleaver.label>剁肉刀</Flesh_LeftArm_Cleaver.label>
+  <Flesh_RightArm_Brace.label>护腕</Flesh_RightArm_Brace.label>
+  <Flesh_RightArm_Cleaver.label>剁肉刀</Flesh_RightArm_Cleaver.label>
+
+
+  <!-- HOLLOW GOLEM -->
+
+  <Hollow_Axe.label>空洞之斧</Hollow_Axe.label>
+  <Hollow_Staff.label>空洞之杖</Hollow_Staff.label>
+  <Hollow_Claws.label>空洞之爪</Hollow_Claws.label>
+  <Hollow_Decay.label>腐朽之触</Hollow_Decay.label>
+  <Hollow_FocusGems.label>集中宝石</Hollow_FocusGems.label>
+
+
+  <!-- STONE GOLEM -->
+
+  <Stone_Arms.label>手臂</Stone_Arms.label>
+
+
+  <!-- MAHARAL GOLEM -->
+
+  <Maharal_Arms.label>手臂</Maharal_Arms.label>
+
+
+  <!-- STRAW GOLEM -->
+
+  <Straw_Arms.label>武器</Straw_Arms.label>
+
+
+  <!-- WOOD GOLEM -->
+
+  <TM_Wood_Manipulator.label>中心力量</TM_Wood_Manipulator.label>
+  <TM_Wood_Base.label>运动基地</TM_Wood_Base.label>
+  <TM_Silk_Arms.label>武器</TM_Silk_Arms.label>
+
+
+</LanguageData>

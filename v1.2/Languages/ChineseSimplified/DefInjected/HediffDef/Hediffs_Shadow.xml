@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_ShadowCloakHD.label>阴影斗篷</TM_ShadowCloakHD.label>
+  <TM_ShadowCloakHD.description>隐藏在阴影中。</TM_ShadowCloakHD.description>
+  <TM_ShadowCloakHD.stages.0.label></TM_ShadowCloakHD.stages.0.label>
+  <TM_ShadowCloakHD.stages.1.label>I</TM_ShadowCloakHD.stages.1.label>
+  <TM_ShadowCloakHD.stages.2.label>II</TM_ShadowCloakHD.stages.2.label>
+  <TM_ShadowCloakHD.stages.3.label>III</TM_ShadowCloakHD.stages.3.label>
+  <TM_ShadowCloakHD.stages.4.label>IV</TM_ShadowCloakHD.stages.4.label>
+  <TM_ShadowCloakHD.stages.5.label>V</TM_ShadowCloakHD.stages.5.label>
+
+  <TM_NightshadeHD.label>夜影毒素</TM_NightshadeHD.label>
+  <TM_NightshadeHD.description>使用夜影毒素涂在武器和弹药上。</TM_NightshadeHD.description>
+  <TM_NightshadeHD.stages.0.label></TM_NightshadeHD.stages.0.label>
+
+  <TM_HasteHD.label>急速</TM_HasteHD.label>
+  <TM_HasteHD.description>攻击率翻倍.</TM_HasteHD.description>
+  <TM_HasteHD.stages.0.label></TM_HasteHD.stages.0.label>
+
+  <TM_NightshadeToxinHD.label>夜影毒素</TM_NightshadeToxinHD.label>
+  <TM_NightshadeToxinHD.description>使用夜影毒素涂在武器和弹药上。</TM_NightshadeToxinHD.description>
+  <TM_NightshadeToxinHD.stages.0.label></TM_NightshadeToxinHD.stages.0.label>
+  <TM_NightshadeToxinHD.stages.1.label>I</TM_NightshadeToxinHD.stages.1.label>
+  <TM_NightshadeToxinHD.stages.2.label>II</TM_NightshadeToxinHD.stages.2.label>
+  <TM_NightshadeToxinHD.stages.3.label>III</TM_NightshadeToxinHD.stages.3.label>
+  <TM_NightshadeToxinHD.stages.4.label>IV</TM_NightshadeToxinHD.stages.4.label>
+  <TM_NightshadeToxinHD.stages.5.label>V</TM_NightshadeToxinHD.stages.5.label>
+
+
+</LanguageData>

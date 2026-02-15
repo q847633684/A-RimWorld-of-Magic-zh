@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shadow start -->
+
+  <TM_Shadow.label>暗影随形（I）</TM_Shadow.label>
+  <TM_Shadow.description>暗影:奥术强化可以帮助施法者提高他们的体能,但是会降低他们的情绪.\n\n触发频率: 80-90s\n持续时间: 500-600s\n操作,视觉,听觉,血液过滤: +10%\n移动, 意识: +5%\n心情降低: -3\n\n需要40点法力维持,减少30%法力回复;再次施法失效.施法者对目标使用法术获得经验值。</TM_Shadow.description>
+
+  <TM_Shadow_I.label>暗影随形（II）</TM_Shadow_I.label>
+  <TM_Shadow_I.description>在施法者周围制造一个阴影光环,周期性地增强一个盟友.\n  \n暗影:奥术强化可以帮助施法者提高他们的体能,但是会降低他们的情绪.\n\n触发频率: 80-90s\n持续时间: 500-600s\n操纵,视觉,听觉,语言: +20%\n移动,意识,新陈代谢,血液过滤: +10%\n心情降低: -4\n\n需要40点法力维持,减少30%法力回复;再次施法失效.施法者对目标使用法术获得经验值。</TM_Shadow_I.description>
+
+  <TM_Shadow_II.label>暗影随形（III）</TM_Shadow_II.label>
+  <TM_Shadow_II.description>在施法者周围制造一个阴影光环,周期性地增强一个盟友.\n  \n暗影:奥术强化可以帮助施法者提高他们的体能,但是会降低他们的情绪.\n \n触发频率: 80-90s \n持续时间: 1100-1250s\n操纵,视觉,听觉,语言: +25%\n移动,新陈代谢,血液过滤: +15%\n意识: +10%\n心情降低: -6\n\n需要40点法力维持,减少30%法力回复;再次施法失效.施法者对目标使用法术获得经验值。</TM_Shadow_II.description>
+
+  <TM_Shadow_III.label>暗影随形（IV）</TM_Shadow_III.label>
+  <TM_Shadow_III.description>在施法者周围制造一个阴影光环,周期性地增强一个盟友.\n  \n暗影:奥术强化可以帮助施法者提高他们的体能,但是会降低他们的情绪.\n \n触发频率: 80-90s \n持续时间: 1100-1250s\n操纵,视觉,听觉,语言: +25%\n移动,新陈代谢,血液过滤: +20%\n意识: +15%\n心情降低: -8\n\n需要40点法力维持,减少30%法力回复;再次施法失效.施法者对目标使用法术获得经验值。</TM_Shadow_III.description>
+
+
+  <!-- Magic Missile -->
+
+  <TM_MagicMissile.label>魔法飞弹（I）</TM_MagicMissile.label>
+  <TM_MagicMissile.description>向敌人发射一群魔法飞弹.\n  \n混乱几率: 3%\n施法时间: 2.5s\n范围: 24\n攻击数量: 2.8s内14\n伤害: 4</TM_MagicMissile.description>
+
+  <TM_MagicMissile_I.label>魔法飞弹（II）</TM_MagicMissile_I.label>
+  <TM_MagicMissile_I.description>向敌人发射一群魔法飞弹.\n  \n混乱几率: 5%\n施法时间: 2s\n范围: 28\n攻击数量: 2.83s内17\n伤害: 5</TM_MagicMissile_I.description>
+
+  <TM_MagicMissile_II.label>魔法飞弹（III）</TM_MagicMissile_II.label>
+  <TM_MagicMissile_II.description>向敌人发射一群魔法飞弹.\n  \n混乱几率: 7%\n施法时间: 1.5s\n范围: 32\n攻击数量: 2.67s内20\n伤害: 6</TM_MagicMissile_II.description>
+
+  <TM_MagicMissile_III.label>魔法飞弹（IV）</TM_MagicMissile_III.label>
+  <TM_MagicMissile_III.description>向敌人发射一群魔法飞弹.\n  \n混乱几率: 9%\n施法时间: 1s\n范围: 36\n攻击数量: 2.4s内24\n伤害: 7</TM_MagicMissile_III.description>
+
+
+  <!-- Teleport start -->
+
+  <TM_Teleport.label>传送</TM_Teleport.label>
+  <TM_Teleport.description>大规模传送技能. 创造一个临时的远距离传送方式; 但是要小心, 传送门会在一小段事件后崩塌并在其周围产生爆炸。</TM_Teleport.description>
+
+
+  <!-- Blink Start -->
+
+  <TM_Blink.label>闪烁（I）</TM_Blink.label>
+  <TM_Blink.description>施法者立即移动到指定位置.\n  \n施法时间: 0.5s\n充能时间10s\n范围: 30</TM_Blink.description>
+
+  <TM_Blink_I.label>闪烁（II）</TM_Blink_I.label>
+  <TM_Blink_I.description>施法者立即移动到指定位置.\n  \n施法时间: 0.3s\n充能时间8s\n范围: 50</TM_Blink_I.description>
+
+  <TM_Blink_II.label>闪烁（III）</TM_Blink_II.label>
+  <TM_Blink_II.description>施法者立即移动到指定位置.\n  \n施法时间: 0.1s\n充能时间6s\n范围: 70</TM_Blink_II.description>
+
+  <TM_Blink_III.label>闪烁（IV）</TM_Blink_III.label>
+  <TM_Blink_III.description>施法者立即移动到指定位置.\n  \n施法时间: 0s\n充能时间5s\n范围: 90</TM_Blink_III.description>
+
+
+  <!-- Summon Start -->
+
+  <TM_Summon.label>召唤（I）</TM_Summon.label>
+  <TM_Summon.description>召唤目标到施法者的位置.\n  \n施法时间: 3s\n充能时间20s\n范围: 70</TM_Summon.description>
+
+  <TM_Summon_I.label>召唤（II）</TM_Summon_I.label>
+  <TM_Summon_I.description>召唤目标到施法者的位置.\n  \n施法时间: 2.7s\n充能时间18s\n范围: 80</TM_Summon_I.description>
+
+  <TM_Summon_II.label>召唤（III）</TM_Summon_II.label>
+  <TM_Summon_II.description>召唤目标到施法者的位置.\n  \n施法时间: 2.5s\n充能时间16s\n范围: 90</TM_Summon_II.description>
+
+  <TM_Summon_III.label>召唤（IV）</TM_Summon_III.label>
+  <TM_Summon_III.description>召唤目标到施法者的位置.\n  \n施法时间: 2.4s\n充能时间15s\n范围: 100</TM_Summon_III.description>
+
+
+  <!-- Fold Reality -->
+
+  <TM_FoldReality.label>空间之门</TM_FoldReality.label>
+  <TM_FoldReality.description>通过折叠空间在另一个由玩家控制的地方打开一个传送门并且立即移动目标点周围半径七格的生物和物品到施法者身旁。</TM_FoldReality.description>
+
+
+</LanguageData>

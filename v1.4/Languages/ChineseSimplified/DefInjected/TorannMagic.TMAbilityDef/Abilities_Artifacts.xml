@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- orb of conviction -->
+
+  <TM_Artifact_Conviction.label>信念</TM_Artifact_Conviction.label>
+  <TM_Artifact_Conviction.description>以信念说服目标加入你.这种力量会使施法者付出沉重的代价.使用信念将摧毁球体。</TM_Artifact_Conviction.description>
+
+
+  <!-- winter's reign -->
+
+  <TM_Weapon_WintersFury.label>凛冬之怒</TM_Weapon_WintersFury.label>
+  <TM_Weapon_WintersFury.description>波涛汹涌的乌云笼罩着大地，呼啸的暴风雪，如同凛冬的怒吼！</TM_Weapon_WintersFury.description>
+
+
+</LanguageData>

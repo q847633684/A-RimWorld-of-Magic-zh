@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mending -->
+
+  <TM_ArtifactMendingHD.label>修补</TM_ArtifactMendingHD.label>
+  <TM_ArtifactMendingHD.description>修理身上的服装和武器。</TM_ArtifactMendingHD.description>
+
+
+  <!-- Health Charm -->
+
+  <TM_ArtifactHealthHD.label>改善健康</TM_ArtifactHealthHD.label>
+  <TM_ArtifactHealthHD.description>增加自然愈合效果.</TM_ArtifactHealthHD.description>
+
+
+  <!-- Cat Eyes -->
+
+  <TM_ArtifactCatEyesHD.label>黑暗的视线</TM_ArtifactCatEyesHD.label>
+  <TM_ArtifactCatEyesHD.description>改善视力并提供轻微的夜视.</TM_ArtifactCatEyesHD.description>
+
+
+  <!-- Strength of Stone -->
+
+  <TM_ArtifactStrengthHD.label>石之力量</TM_ArtifactStrengthHD.label>
+  <TM_ArtifactStrengthHD.description>增加力量的魔法。</TM_ArtifactStrengthHD.description>
+
+
+  <!-- Mind Ward -->
+
+  <TM_ArtifactMindHD.label>精神守护</TM_ArtifactMindHD.label>
+  <TM_ArtifactMindHD.description>一种独特的护身魔法，可以帮助人们将他们的情绪分隔开来，以便从精神崩溃中迅速恢复。</TM_ArtifactMindHD.description>
+
+
+  <!-- Renewal -->
+
+  <TM_ArtifactRenewalHD.label>重生</TM_ArtifactRenewalHD.label>
+  <TM_ArtifactRenewalHD.description>提高睡眠质量.</TM_ArtifactRenewalHD.description>
+
+
+  <!-- Arcane Recovery -->
+
+  <TM_ArtifactArcaneRecoveryHD.label>神秘复苏</TM_ArtifactArcaneRecoveryHD.label>
+  <TM_ArtifactArcaneRecoveryHD.description>增加从奥术虚弱中恢复的速度；不减少获得的奥术虚弱的严重性.</TM_ArtifactArcaneRecoveryHD.description>
+
+
+  <!-- Pathfinding -->
+
+  <TM_ArtifactPathfindingHD.label>寻路</TM_ArtifactPathfindingHD.label>
+  <TM_ArtifactPathfindingHD.description>一种护身魔法，能神奇地确定一条容易通过任何障碍物的路径；减少通过障碍物和地形的移动速度惩罚.</TM_ArtifactPathfindingHD.description>
+
+
+  <!-- Defensive Bracers -->
+
+  <TM_ArtifactBlockHD.label>阻挡</TM_ArtifactBlockHD.label>
+  <TM_ArtifactBlockHD.description>阻止物理攻击；不会受到被成功阻止的攻击造成的伤害。</TM_ArtifactBlockHD.description>
+
+  <TM_ArtifactDeflectHD.label>偏移阻挡</TM_ArtifactDeflectHD.label>
+  <TM_ArtifactDeflectHD.description>阻挡攻击并能将子弹偏转到附近的敌人；不会受到被成功偏转的攻击造成的伤害.</TM_ArtifactDeflectHD.description>
+
+
+  <!-- Energy Pool Boosts -->
+
+  <TM_Artifact_BloodBoostHD.label>血液循环</TM_Artifact_BloodBoostHD.label>
+  <TM_Artifact_BloodBoostHD.description>增加血法师的最多血法力上限。</TM_Artifact_BloodBoostHD.description>
+
+  <TM_Artifact_PsionicBoostHD.label>心灵刺激</TM_Artifact_PsionicBoostHD.label>
+  <TM_Artifact_PsionicBoostHD.description>增加灵能战斗的最多灵能上限.</TM_Artifact_PsionicBoostHD.description>
+
+  <TM_Artifact_HateBoostHD.label>仇恨提升</TM_Artifact_HateBoostHD.label>
+  <TM_Artifact_HateBoostHD.description>增加死亡骑士的仇恨上限。</TM_Artifact_HateBoostHD.description>
+
+
+  <!-- soul orb infusion debuff -->
+
+  <TM_TraitInfusionHD.label>注入特性</TM_TraitInfusionHD.label>
+  <TM_TraitInfusionHD.description>一个小人通过魔法注入获得了一些特质，这会影响他们的自我意识.</TM_TraitInfusionHD.description>
+
+
+  <!-- Winter's Staff -->
+
+  <TM_WinterStaffHD.label>寒气</TM_WinterStaffHD.label>
+  <TM_WinterStaffHD.description>排出身体的热量和能量，可以防止中暑。魔法师使用时，可降低室内温度。</TM_WinterStaffHD.description>
+
+
+  <!-- Shroud of Undead (Shroud of Soulreaper buff) -->
+
+  <TM_ShroudOfUndeathHD.label>亡灵裹尸布</TM_ShroudOfUndeathHD.label>
+  <TM_ShroudOfUndeathHD.description>减少此死灵法师对亡灵的维持费用并增加附近亡灵的移动力和攻击力。</TM_ShroudOfUndeathHD.description>
+
+
+</LanguageData>

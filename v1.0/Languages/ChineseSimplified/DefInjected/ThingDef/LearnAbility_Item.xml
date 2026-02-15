@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Partial Scripts -->
+
+  <BookOfQuestion.label>Arcane Script: ???</BookOfQuestion.label>
+  <BookOfQuestion.description>Teaches a gifted pawn how to harness magical powers...</BookOfQuestion.description>
+  <BookOfQuestion.comps.1.useLabel>Read</BookOfQuestion.comps.1.useLabel>
+
+  <Torn_BookOfInnerFire.label>Torn Script: Fire</Torn_BookOfInnerFire.label>
+  <Torn_BookOfInnerFire.description>Teaches a gifted pawn how to harness elements of fire.  
+This arcane script is incomplete and the reader may not be able to learn some, or any, fire spells.</Torn_BookOfInnerFire.description>
+  <Torn_BookOfInnerFire.comps.1.useLabel>Read</Torn_BookOfInnerFire.comps.1.useLabel>
+
+  <Torn_BookOfHeartOfFrost.label>Torn Script: Ice</Torn_BookOfHeartOfFrost.label>
+  <Torn_BookOfHeartOfFrost.description>Teaches a gifted pawn how to harness elemental ice and water.  
+This arcane script is incomplete and the reader may not be able to learn some, or any, ice mage spells.</Torn_BookOfHeartOfFrost.description>
+  <Torn_BookOfHeartOfFrost.comps.1.useLabel>Read</Torn_BookOfHeartOfFrost.comps.1.useLabel>
+
+  <Torn_BookOfStormBorn.label>Torn Script: Lightning</Torn_BookOfStormBorn.label>
+  <Torn_BookOfStormBorn.description>Teaches a gifted pawn how to harness elements of lightning.  
+This arcane script is incomplete and the reader may not be able to learn some, or any,  lightning spells.</Torn_BookOfStormBorn.description>
+  <Torn_BookOfStormBorn.comps.1.useLabel>Read</Torn_BookOfStormBorn.comps.1.useLabel>
+
+  <Torn_BookOfArcanist.label>Torn Script: Power</Torn_BookOfArcanist.label>
+  <Torn_BookOfArcanist.description>Teaches a gifted pawn how to harness arcane powers.  
+This arcane script is incomplete and the reader may not be able to learn some, or any, arcane spells.</Torn_BookOfArcanist.description>
+  <Torn_BookOfArcanist.comps.1.useLabel>Read</Torn_BookOfArcanist.comps.1.useLabel>
+
+  <Torn_BookOfValiant.label>Torn Script: Paladin</Torn_BookOfValiant.label>
+  <Torn_BookOfValiant.description>Teaches a gifted pawn how to harness holy powers.  
+This arcane script is incomplete and the reader may not be able to learn some, or any, holy spells.</Torn_BookOfValiant.description>
+  <Torn_BookOfValiant.comps.1.useLabel>Read</Torn_BookOfValiant.comps.1.useLabel>
+
+  <Torn_BookOfSummoner.label>Torn Script: Summoning</Torn_BookOfSummoner.label>
+  <Torn_BookOfSummoner.description>Teaches a gifted pawn how to summon and interact with elements across dimensions.  
+This arcane script is incomplete and the reader may not be able to learn some, or any, summoning spells.</Torn_BookOfSummoner.description>
+  <Torn_BookOfSummoner.comps.1.useLabel>Read</Torn_BookOfSummoner.comps.1.useLabel>
+
+  <Torn_BookOfNature.label>Torn Script: Nature</Torn_BookOfNature.label>
+  <Torn_BookOfNature.description>Teaches a gifted pawn how to harness elements of nature.  
+This arcane script is incomplete and the reader may not be able to learn some, or any, druid spells.</Torn_BookOfNature.description>
+  <Torn_BookOfNature.comps.1.useLabel>Read</Torn_BookOfNature.comps.1.useLabel>
+
+  <Torn_BookOfUndead.label>Torn Script: Necromancy</Torn_BookOfUndead.label>
+  <Torn_BookOfUndead.description>Teaches a gifted pawn how to manipulate forces of life and death. *Note: The necromancer may become a lich at a later stage, lichs are incapable of all activity except fighting and research. Many other magic classes dislike necromancers. Choose carefully.
+This arcane script is incomplete and the reader may not be able to learn some, or any, necromancer spells.</Torn_BookOfUndead.description>
+  <Torn_BookOfUndead.comps.1.useLabel>Read</Torn_BookOfUndead.comps.1.useLabel>
+
+  <Torn_BookOfPriest.label>Torn Script: Priest</Torn_BookOfPriest.label>
+  <Torn_BookOfPriest.description>Teaches a gifted pawn how to confer powers of life and healing. Priests are incapable of violence and these skills will be disabled.
+This arcane script is incomplete and the reader may not be able to learn some, or any, priest spells.</Torn_BookOfPriest.description>
+  <Torn_BookOfPriest.comps.1.useLabel>Read</Torn_BookOfPriest.comps.1.useLabel>
+
+  <Torn_BookOfBard.label>Torn Script: Bard</Torn_BookOfBard.label>
+  <Torn_BookOfBard.description>Teaches a gifted pawn how to become a professional bard. Bards are incapable of dumb labor and this work type will be disabled.
+This arcane script is incomplete and the reader may not be able to learn some, or any, bard abilities.</Torn_BookOfBard.description>
+  <Torn_BookOfBard.comps.1.useLabel>Read</Torn_BookOfBard.comps.1.useLabel>
+
+  <Torn_BookOfDemons.label>Torn Script: Demonology</Torn_BookOfDemons.label>
+  <Torn_BookOfDemons.description>Details the process to enter an agreement with a demon to gain power. This contract binds the patron, in a literal sense, with demonic essence that affects their genetic makeup. This binding affects males and females differently. Demons will only agree to the contract if the user is magically gifted. 
+	
+*Note scribbled at the bottom of the first page* This script is not clear on exactly what the demon gets out of the agreement... use with caution.
+
+This arcane script is incomplete and does not explain the full contract process; the result might not immediately provide full access to all abilities.</Torn_BookOfDemons.description>
+  <Torn_BookOfDemons.comps.1.useLabel>Read</Torn_BookOfDemons.comps.1.useLabel>
+
+  <Torn_BookOfEarth.label>Torn Script: Geomancy</Torn_BookOfEarth.label>
+  <Torn_BookOfEarth.description>Teaches a gifted pawn to combine physical law, elements, and the arcane.
+This arcane script is incomplete and the reader may not be able to learn some, or any, geomancer abilities.</Torn_BookOfEarth.description>
+  <Torn_BookOfEarth.comps.1.useLabel>Read</Torn_BookOfEarth.comps.1.useLabel>
+
+  <Torn_BookOfMagitech.label>Torn Script: Technomancy</Torn_BookOfMagitech.label>
+  <Torn_BookOfMagitech.description>Teaches a gifted pawn in the ways of the Technomancer, able to see the connection between science and magic.
+This arcane script is incomplete and the reader will not learn any supporting technomancer abilities, but may still select their primary technomancy path.</Torn_BookOfMagitech.description>
+  <Torn_BookOfMagitech.comps.1.useLabel>Read</Torn_BookOfMagitech.comps.1.useLabel>
+
+  <Torn_BookOfHemomancy.label>Torn Script: Hemomancy</Torn_BookOfHemomancy.label>
+  <Torn_BookOfHemomancy.description>Teaches a gifted pawn how to become a hemomancer, or blood mage, and use the power of blood to fuel their magic.
+This arcane script is incomplete and the reader may not be able to learn some, or any, blood mage abilities.</Torn_BookOfHemomancy.description>
+  <Torn_BookOfHemomancy.comps.1.useLabel>Read</Torn_BookOfHemomancy.comps.1.useLabel>
+
+  <Torn_BookOfEnchanter.label>Torn Script: Enchanter</Torn_BookOfEnchanter.label>
+  <Torn_BookOfEnchanter.description>Teaches a gifted pawn how to become an enchanter, able to manipulate matter and material to serve their purpose.
+This arcane script is incomplete and the reader may not be able to learn some, or any, enchanter abilities.</Torn_BookOfEnchanter.description>
+  <Torn_BookOfEnchanter.comps.1.useLabel>Read</Torn_BookOfEnchanter.comps.1.useLabel>
+
+  <Torn_BookOfChronomancer.label>Torn Script: Chronomancy</Torn_BookOfChronomancer.label>
+  <Torn_BookOfChronomancer.description>Teaches a gifted pawn how to become a chronomancer, able to see and manipulate realities across time.
+This arcane script is incomplete and the reader may not be able to learn some, or any, chronomancer abilities.</Torn_BookOfChronomancer.description>
+  <Torn_BookOfChronomancer.comps.1.useLabel>Read</Torn_BookOfChronomancer.comps.1.useLabel>
+
+  <Torn_BookOfChaos.label>Torn Script: Chaos</Torn_BookOfChaos.label>
+  <Torn_BookOfChaos.description>Teaches a gifted pawn chaos tradition.</Torn_BookOfChaos.description>
+  <Torn_BookOfChaos.comps.1.useLabel>Read</Torn_BookOfChaos.comps.1.useLabel>
+
+
+  <!-- Arcane Scripts -->
+
+  <BookOfInnerFire.label>Arcane Tome: Fire</BookOfInnerFire.label>
+  <BookOfInnerFire.description>Teaches a gifted pawn how to harness elements of fire.</BookOfInnerFire.description>
+  <BookOfInnerFire.comps.1.useLabel>Read</BookOfInnerFire.comps.1.useLabel>
+
+  <BookOfHeartOfFrost.label>Arcane Tome: Ice</BookOfHeartOfFrost.label>
+  <BookOfHeartOfFrost.description>Teaches a gifted pawn how to harness elemental ice and water.</BookOfHeartOfFrost.description>
+  <BookOfHeartOfFrost.comps.1.useLabel>Read</BookOfHeartOfFrost.comps.1.useLabel>
+
+  <BookOfStormBorn.label>Arcane Tome: Lightning</BookOfStormBorn.label>
+  <BookOfStormBorn.description>Teaches a gifted pawn how to harness elements of lightning.</BookOfStormBorn.description>
+  <BookOfStormBorn.comps.1.useLabel>Read</BookOfStormBorn.comps.1.useLabel>
+
+  <BookOfArcanist.label>Arcane Tome: Power</BookOfArcanist.label>
+  <BookOfArcanist.description>Teaches a gifted pawn how to harness arcane powers.</BookOfArcanist.description>
+  <BookOfArcanist.comps.1.useLabel>Read</BookOfArcanist.comps.1.useLabel>
+
+  <BookOfValiant.label>Divine Tome: Paladin</BookOfValiant.label>
+  <BookOfValiant.description>Teaches a gifted pawn how to become a Paladin.</BookOfValiant.description>
+  <BookOfValiant.comps.1.useLabel>Read</BookOfValiant.comps.1.useLabel>
+
+  <BookOfSummoner.label>Arcane Tome: Summoning</BookOfSummoner.label>
+  <BookOfSummoner.description>Teaches a gifted pawn how to become a Summoner.</BookOfSummoner.description>
+  <BookOfSummoner.comps.1.useLabel>Read</BookOfSummoner.comps.1.useLabel>
+
+  <BookOfDruid.label>Arcane Tome: Nature</BookOfDruid.label>
+  <BookOfDruid.description>Teaches a gifted pawn how to become a Druid.</BookOfDruid.description>
+  <BookOfDruid.comps.1.useLabel>Read</BookOfDruid.comps.1.useLabel>
+
+  <BookOfNecromancer.label>Arcane Tome: Necromancer</BookOfNecromancer.label>
+  <BookOfNecromancer.description>Teaches a gifted pawn how to become a Necromancer. *Note: The necromancer may become a lich at a later stage, lichs are incapable of all activity except fighting and research. Many other magic classes dislike necromancers. Choose carefully.</BookOfNecromancer.description>
+  <BookOfNecromancer.comps.1.useLabel>Read</BookOfNecromancer.comps.1.useLabel>
+
+  <BookOfPriest.label>Arcane Tome: Priest</BookOfPriest.label>
+  <BookOfPriest.description>Teaches a gifted pawn how to become a Priest. Priests are incapable of violence and these skills will be disabled.</BookOfPriest.description>
+  <BookOfPriest.comps.1.useLabel>Read</BookOfPriest.comps.1.useLabel>
+
+  <BookOfBard.label>Arcane Tome: Bard</BookOfBard.label>
+  <BookOfBard.description>Teaches a gifted pawn how to become a Bard. Bards are incapable of dumb labor and this work type will be disabled.</BookOfBard.description>
+  <BookOfBard.comps.1.useLabel>Read</BookOfBard.comps.1.useLabel>
+
+  <BookOfDemons.label>Arcane Tome: Demonology</BookOfDemons.label>
+  <BookOfDemons.description>Details the process to enter an agreement with a demon to gain power. This contract binds the patron, in a literal sense, with demonic essence that affects their genetic makeup. This binding affects males and females differently. Demons will only agree to the contract if the user is magically gifted. 
+	
+*Note scribbled at the bottom of the first page* This script is not clear on exactly what the demon gets out of the agreement... use with caution.</BookOfDemons.description>
+  <BookOfDemons.comps.1.useLabel>Read</BookOfDemons.comps.1.useLabel>
+
+  <BookOfEarth.label>Arcane Tome: Earth</BookOfEarth.label>
+  <BookOfEarth.description>Teaches a gifted pawn mastery of the earth, combining and altering physical laws and its elements with the arcane.</BookOfEarth.description>
+  <BookOfEarth.comps.1.useLabel>Read</BookOfEarth.comps.1.useLabel>
+
+  <BookOfMagitech.label>Arcane Tome: Technomancy</BookOfMagitech.label>
+  <BookOfMagitech.description>Teaches a gifted pawn in the ways of the Technomancer, able to see the connection between science and magic.</BookOfMagitech.description>
+  <BookOfMagitech.comps.1.useLabel>Read</BookOfMagitech.comps.1.useLabel>
+
+  <BookOfHemomancy.label>Arcane Tome: Hemomancy</BookOfHemomancy.label>
+  <BookOfHemomancy.description>Teaches a gifted pawn how to become a hemomancer, or blood mage, and use the power of blood to fuel their magic.</BookOfHemomancy.description>
+  <BookOfHemomancy.comps.1.useLabel>Read</BookOfHemomancy.comps.1.useLabel>
+
+  <BookOfEnchanter.label>Arcane Tome: Enchanter</BookOfEnchanter.label>
+  <BookOfEnchanter.description>Teaches a gifted pawn how to become an enchanter, able to manipulate matter and material to serve their purpose.</BookOfEnchanter.description>
+  <BookOfEnchanter.comps.1.useLabel>Read</BookOfEnchanter.comps.1.useLabel>
+
+  <BookOfChronomancer.label>Arcane Tome: Chronomancer</BookOfChronomancer.label>
+  <BookOfChronomancer.description>Teaches a gifted pawn how to become a chronomancer, able to see and manipulate realities across time.</BookOfChronomancer.description>
+  <BookOfChronomancer.comps.1.useLabel>Read</BookOfChronomancer.comps.1.useLabel>
+
+  <BookOfChaos.label>Arcane Tome: Chaos Mage</BookOfChaos.label>
+  <BookOfChaos.description>Teaches a gifted pawn how to become a chaos mage - adaptable to any and all classes of magic.</BookOfChaos.description>
+  <BookOfChaos.comps.1.useLabel>Read</BookOfChaos.comps.1.useLabel>
+
+
+  <!-- Combat Forms -->
+
+  <BookOfGladiator.label>Combat Form: Gladiator</BookOfGladiator.label>
+  <BookOfGladiator.description>Teaches a physically adept pawn how to train in the Gladiator combat form.</BookOfGladiator.description>
+  <BookOfGladiator.comps.1.useLabel>Read</BookOfGladiator.comps.1.useLabel>
+
+  <BookOfPsionic.label>Combat Power: Psionic</BookOfPsionic.label>
+  <BookOfPsionic.description>Teaches a physically adept pawn how to harness psionic power.
+
+*there is a footnote at the bottom of the page etched in charcoal: "seems only those with high psychic sensitivity can learn to manipulate psionic energy... either that or find a way to jump start psychic activity"</BookOfPsionic.description>
+  <BookOfPsionic.comps.1.useLabel>Read</BookOfPsionic.comps.1.useLabel>
+
+  <BookOfFaceless.label>Combat Form: Faceless</BookOfFaceless.label>
+  <BookOfFaceless.description>Teaches a physically adept pawn how to adapt their form and fighting style to any situation.</BookOfFaceless.description>
+  <BookOfFaceless.comps.1.useLabel>Read</BookOfFaceless.comps.1.useLabel>
+
+  <BookOfSniper.label>Combat Style: Sniper</BookOfSniper.label>
+  <BookOfSniper.description>Teaches a physically adept pawn how to train as a sniper.</BookOfSniper.description>
+  <BookOfSniper.comps.1.useLabel>Read</BookOfSniper.comps.1.useLabel>
+
+  <BookOfBladedancer.label>Combat Style: Bladedancer</BookOfBladedancer.label>
+  <BookOfBladedancer.description>Teaches a physically adept pawn how to train as a Bladedancer</BookOfBladedancer.description>
+  <BookOfBladedancer.comps.1.useLabel>Read</BookOfBladedancer.comps.1.useLabel>
+
+  <BookOfRanger.label>Combat Style: Ranger</BookOfRanger.label>
+  <BookOfRanger.description>Teaches a physically adept pawn how to train as a Ranger</BookOfRanger.description>
+  <BookOfRanger.comps.1.useLabel>Read</BookOfRanger.comps.1.useLabel>
+
+  <BookOfDeathKnight.label>Combat Style: Death Knight</BookOfDeathKnight.label>
+  <BookOfDeathKnight.description>Teaches a physically adept pawn to embrace the inevitable and become a death knight.</BookOfDeathKnight.description>
+  <BookOfDeathKnight.comps.1.useLabel>Read</BookOfDeathKnight.comps.1.useLabel>
+
+  <BookOfMonk.label>Combat Style: Monk</BookOfMonk.label>
+  <BookOfMonk.description>Teaches a physically adept pawn to hone their mind and body into a lethal weapon.</BookOfMonk.description>
+  <BookOfMonk.comps.1.useLabel>Read</BookOfMonk.comps.1.useLabel>
+
+  <BookOfCommander.label>Combat Style: Commander</BookOfCommander.label>
+  <BookOfCommander.description>Teaches a physically adept pawn how to become a charismatic leader.</BookOfCommander.description>
+  <BookOfCommander.comps.1.useLabel>Read</BookOfCommander.comps.1.useLabel>
+
+  <BookOfSuperSoldier.label>Serum: Super Soldier</BookOfSuperSoldier.label>
+  <BookOfSuperSoldier.description>Inject a pawn with a serum that enhances their physical abilities. Incapacitates a pawn for a couple days while the serum takes affect and develops over several stages. Any pawn may take SS Serum, but only physically adept pawns may acquire the Super Soldier trait. This serum will reduce magical potency and potential.</BookOfSuperSoldier.description>
+  <BookOfSuperSoldier.comps.1.useLabel>Inject</BookOfSuperSoldier.comps.1.useLabel>
+
+
+  <!-- Magic Spells - Single -->
+
+  <SpellOf_ArcaneBolt.label>Mage Spell: Arcane Bolt</SpellOf_ArcaneBolt.label>
+  <SpellOf_ArcaneBolt.description>Teaches a magic user how to forcefully project arcane energy.</SpellOf_ArcaneBolt.description>
+  <SpellOf_ArcaneBolt.comps.1.useLabel>Read</SpellOf_ArcaneBolt.comps.1.useLabel>
+
+  <SpellOf_Blink.label>Mage Spell: Blink</SpellOf_Blink.label>
+  <SpellOf_Blink.description>Teaches a magic user how arcane forces are interconnected, allowing the mage to rapidly move short distances.</SpellOf_Blink.description>
+  <SpellOf_Blink.comps.1.useLabel>Read</SpellOf_Blink.comps.1.useLabel>
+
+  <SpellOf_Blur.label>Mage Spell: Blur</SpellOf_Blur.label>
+  <SpellOf_Blur.description>Teaches a magic user how to distort the light around their body.</SpellOf_Blur.description>
+  <SpellOf_Blur.comps.1.useLabel>Read</SpellOf_Blur.comps.1.useLabel>
+
+  <SpellOf_Cooler.label>Mage Spell: Dispel Heat</SpellOf_Cooler.label>
+  <SpellOf_Cooler.description>Teaches an arcane user how to create a temporary window into the plane of ice, creating a temporary cooling source.</SpellOf_Cooler.description>
+  <SpellOf_Cooler.comps.1.useLabel>Read</SpellOf_Cooler.comps.1.useLabel>
+
+  <SpellOf_DirtDevil.label>Mage Spell: Dirt Devil</SpellOf_DirtDevil.label>
+  <SpellOf_DirtDevil.description>Teaches a magic user how to create a whirlwind that seeks out and cleans filth inside the home area.</SpellOf_DirtDevil.description>
+  <SpellOf_DirtDevil.comps.1.useLabel>Read</SpellOf_DirtDevil.comps.1.useLabel>
+
+  <SpellOf_EMP.label>Mage Spell: EMP</SpellOf_EMP.label>
+  <SpellOf_EMP.description>Teaches a magic user how to generate an EMP burst at a target location.</SpellOf_EMP.description>
+  <SpellOf_EMP.comps.1.useLabel>Read</SpellOf_EMP.comps.1.useLabel>
+
+  <SpellOf_Extinguish.label>Mage Spell: Extinguish</SpellOf_Extinguish.label>
+  <SpellOf_Extinguish.description>Teaches a magic user how to remove the element of fire at a target location, dispersing fires.</SpellOf_Extinguish.description>
+  <SpellOf_Extinguish.comps.1.useLabel>Read</SpellOf_Extinguish.comps.1.useLabel>
+
+  <SpellOf_Heal.label>Mage Spell: Heal</SpellOf_Heal.label>
+  <SpellOf_Heal.description>Teaches a magic user how to delicately manipulate arcane forces to heal injuries.</SpellOf_Heal.description>
+  <SpellOf_Heal.comps.1.useLabel>Read</SpellOf_Heal.comps.1.useLabel>
+
+  <SpellOf_Heater.label>Mage Spell: Draw Heat</SpellOf_Heater.label>
+  <SpellOf_Heater.description>Teaches a magic user how to create a temporary window into the plane of fire, creating a temporary heat source.</SpellOf_Heater.description>
+  <SpellOf_Heater.comps.1.useLabel>Read</SpellOf_Heater.comps.1.useLabel>
+
+  <SpellOf_MageLight.label>Mage Spell: Mage Light</SpellOf_MageLight.label>
+  <SpellOf_MageLight.description>Teaches a magic user how to create a small orb of light.</SpellOf_MageLight.description>
+  <SpellOf_MageLight.comps.1.useLabel>Read</SpellOf_MageLight.comps.1.useLabel>
+
+  <SpellOf_PowerNode.label>Mage Spell: Power Node</SpellOf_PowerNode.label>
+  <SpellOf_PowerNode.description>Teaches a magic user how to create a contained power node that converts arcane energy into electrical power. Place next to existing power grid. Supplies 600 power.</SpellOf_PowerNode.description>
+  <SpellOf_PowerNode.comps.1.useLabel>Read</SpellOf_PowerNode.comps.1.useLabel>
+
+  <SpellOf_Rain.label>Mage Spell: Rain</SpellOf_Rain.label>
+  <SpellOf_Rain.description>Teaches a magic user how to harness energy in the atmosphere to induce a brief rain.</SpellOf_Rain.description>
+  <SpellOf_Rain.comps.1.useLabel>Read</SpellOf_Rain.comps.1.useLabel>
+
+  <SpellOf_SmokeCloud.label>Mage Spell: Smoke Cloud</SpellOf_SmokeCloud.label>
+  <SpellOf_SmokeCloud.description>Teaches a magic user how to ignite particles in the air to create a smokescreen, temporarily concealing a target area.</SpellOf_SmokeCloud.description>
+  <SpellOf_SmokeCloud.comps.1.useLabel>Read</SpellOf_SmokeCloud.comps.1.useLabel>
+
+  <SpellOf_Sunlight.label>Mage Spell: Sun Light</SpellOf_Sunlight.label>
+  <SpellOf_Sunlight.description>Teaches a magic user how to create a dimensional pocket that emits a steady stream of sunlight strong enough to grow plants. Sun Light must be sustained by the mage that creates it and will reduce maximum mana and mana regeneration rate.</SpellOf_Sunlight.description>
+  <SpellOf_Sunlight.comps.1.useLabel>Read</SpellOf_Sunlight.comps.1.useLabel>
+
+  <SpellOf_ChargeBattery.label>Lightning Spell: Charge Battery</SpellOf_ChargeBattery.label>
+  <SpellOf_ChargeBattery.description>Teaches a lightning mage how to charge a battery by infusing it with magical energy.
+Produces 400Wd adjusted by ability power.</SpellOf_ChargeBattery.description>
+  <SpellOf_ChargeBattery.comps.1.useLabel>Read</SpellOf_ChargeBattery.comps.1.useLabel>
+
+  <SpellOf_CauterizeWound.label>Fire Spell: Cauterize Wound</SpellOf_CauterizeWound.label>
+  <SpellOf_CauterizeWound.description>Teaches a fire mage how to use elemental fire to instantly clean and close wounds - may leave burn scars.</SpellOf_CauterizeWound.description>
+  <SpellOf_CauterizeWound.comps.1.useLabel>Read</SpellOf_CauterizeWound.comps.1.useLabel>
+
+  <SpellOf_DryGround.label>Fire Spell: Dry Ground</SpellOf_DryGround.label>
+  <SpellOf_DryGround.description>Teaches a fire mage how to infuse the earth with heat, evaporating most of the water from a small patch of earth.</SpellOf_DryGround.description>
+  <SpellOf_DryGround.comps.1.useLabel>Read</SpellOf_DryGround.comps.1.useLabel>
+
+  <SpellOf_WetGround.label>Ice Spell: Moisturize Ground</SpellOf_WetGround.label>
+  <SpellOf_WetGround.description>Teaches an ice mage how to infuse the earth with moisture and nutrients, transforming sand into usable soil.</SpellOf_WetGround.description>
+  <SpellOf_WetGround.comps.1.useLabel>Read</SpellOf_WetGround.comps.1.useLabel>
+
+
+  <!-- Advanced Scribing -->
+
+  <SpellOf_Invisibility.label>Mage Spell: Invisibility</SpellOf_Invisibility.label>
+  <SpellOf_Invisibility.description>Teaches a magic user how to manipulate light and become invisible.</SpellOf_Invisibility.description>
+  <SpellOf_Invisibility.comps.1.useLabel>Read</SpellOf_Invisibility.comps.1.useLabel>
+
+  <SpellOf_LightningTrap.label>Mage Spell: Lightning Trap</SpellOf_LightningTrap.label>
+  <SpellOf_LightningTrap.description>Teaches a magic user how to create a trap that discharges bolts of lightning.</SpellOf_LightningTrap.description>
+  <SpellOf_LightningTrap.comps.1.useLabel>Read</SpellOf_LightningTrap.comps.1.useLabel>
+
+  <SpellOf_ManaShield.label>Mage Spell: Mana Shield</SpellOf_ManaShield.label>
+  <SpellOf_ManaShield.description>Teaches a magic user how to form a protective barrier made of mana to counter harmful affects on the caster's body.</SpellOf_ManaShield.description>
+  <SpellOf_ManaShield.comps.1.useLabel>Read</SpellOf_ManaShield.comps.1.useLabel>
+
+  <SpellOf_SpellMending.label>Mage Spell: Spell Mending</SpellOf_SpellMending.label>
+  <SpellOf_SpellMending.description>Teaches a magic user how to reconstruct and repair worn equipment on a pawn.</SpellOf_SpellMending.description>
+  <SpellOf_SpellMending.comps.1.useLabel>Read</SpellOf_SpellMending.comps.1.useLabel>
+
+  <SpellOf_SiphonMana.label>Mage Spell: Siphon Mana</SpellOf_SiphonMana.label>
+  <SpellOf_SiphonMana.description>Teaches a magic user how to siphon mana from another mage.  If used on a being that does not possess mana, their physical traits will be drained instead (no mana will be gained).  Effect is potentially lethal in extreme cases.</SpellOf_SiphonMana.description>
+  <SpellOf_SiphonMana.comps.1.useLabel>Read</SpellOf_SiphonMana.comps.1.useLabel>
+
+  <SpellOf_SummonMinion.label>Mage Spell: Summon Minion</SpellOf_SummonMinion.label>
+  <SpellOf_SummonMinion.description>Teaches a magic user how to summon an otherworldly minion to assist in basic tasks.</SpellOf_SummonMinion.description>
+  <SpellOf_SummonMinion.comps.1.useLabel>Read</SpellOf_SummonMinion.comps.1.useLabel>
+
+  <SpellOf_Teleport.label>Mage Spell: Teleport</SpellOf_Teleport.label>
+  <SpellOf_Teleport.description>Teaches a magic user how to manipulate energy using arcane dimensions, allowing the mage to create a portal for rapid transport.</SpellOf_Teleport.description>
+  <SpellOf_Teleport.comps.1.useLabel>Read</SpellOf_Teleport.comps.1.useLabel>
+
+  <SpellOf_TransferMana.label>Mage Spell: Transfer Mana</SpellOf_TransferMana.label>
+  <SpellOf_TransferMana.description>Teaches a magic user how to transfer mana to another mage.  If raw mana is infused into a non-mage recepient, their physical traits will be temporarily augmented.</SpellOf_TransferMana.description>
+  <SpellOf_TransferMana.comps.1.useLabel>Read</SpellOf_TransferMana.comps.1.useLabel>
+
+  <SpellOf_BlankMind.label>Enchanter Spell: Blank Mind</SpellOf_BlankMind.label>
+  <SpellOf_BlankMind.description>Teaches an enchanter how to wipe memories and break a pawn out of a mental state or cause a long duration stun on enemies.</SpellOf_BlankMind.description>
+  <SpellOf_BlankMind.comps.1.useLabel>Read</SpellOf_BlankMind.comps.1.useLabel>
+
+  <SpellOf_BriarPatch.label>Druid Spell: Briar Patch</SpellOf_BriarPatch.label>
+  <SpellOf_BriarPatch.description>Teaches a Druid how to rapidly grow a hazard made of thorny vines.</SpellOf_BriarPatch.description>
+  <SpellOf_BriarPatch.comps.1.useLabel>Read</SpellOf_BriarPatch.comps.1.useLabel>
+
+  <SpellOf_FertileLands.label>Druid Spell: Fertile Lands</SpellOf_FertileLands.label>
+  <SpellOf_FertileLands.description>Teaches a druid how to bless an area of land with fertile growth.</SpellOf_FertileLands.description>
+  <SpellOf_FertileLands.comps.1.useLabel>Read</SpellOf_FertileLands.comps.1.useLabel>
+
+  <SpellOf_MechaniteReprogramming.label>Technomancer Spell: Mechanite Reprogramming</SpellOf_MechaniteReprogramming.label>
+  <SpellOf_MechaniteReprogramming.description>Teaches a technomancer how to reprogramming fibrous or sensory mechanites in a way that enhances the attributes of the host.</SpellOf_MechaniteReprogramming.description>
+  <SpellOf_MechaniteReprogramming.comps.1.useLabel>Read</SpellOf_MechaniteReprogramming.comps.1.useLabel>
+
+  <SpellOf_Overdrive.label>Technomancer Spell: Overdrive</SpellOf_Overdrive.label>
+  <SpellOf_Overdrive.description>Teaches a technomancer user how to over-clock or bypass security features of mechanical, electrical, and robotic devices causing it to perform at a drastically increased rate for a short period.</SpellOf_Overdrive.description>
+  <SpellOf_Overdrive.comps.1.useLabel>Read</SpellOf_Overdrive.comps.1.useLabel>
+
+  <SpellOf_Sabotage.label>Technomancer Spell: Sabotage</SpellOf_Sabotage.label>
+  <SpellOf_Sabotage.description>Teaches a technomancer user how to create a feedback loop in almost any mechanic system, causing it to catastrophically malfunction.</SpellOf_Sabotage.description>
+  <SpellOf_Sabotage.comps.1.useLabel>Read</SpellOf_Sabotage.comps.1.useLabel>
+
+  <SpellOf_TechnoShield.label>Technomancer Spell: Kinetic Shield</SpellOf_TechnoShield.label>
+  <SpellOf_TechnoShield.description>Teaches a technomancer user how to create a uni-directional force field around a target, capable of repelling inbound projectiles or increasing the velocity of outbound projectiles.</SpellOf_TechnoShield.description>
+  <SpellOf_TechnoShield.comps.1.useLabel>Read</SpellOf_TechnoShield.comps.1.useLabel>
+
+
+  <!-- Master Scribing -->
+
+  <SpellOf_BattleHymn.label>Bard Spell: Battle Hymn</SpellOf_BattleHymn.label>
+  <SpellOf_BattleHymn.description>Teaches a bard how to perform Battle Hymn.</SpellOf_BattleHymn.description>
+  <SpellOf_BattleHymn.comps.1.useLabel>Read</SpellOf_BattleHymn.comps.1.useLabel>
+
+  <SpellOf_Blizzard.label>Ice Spell: Blizzard</SpellOf_Blizzard.label>
+  <SpellOf_Blizzard.description>Teaches an ice mage how to call forth a blizzard to bury your foes in a hail of ice and snow.</SpellOf_Blizzard.description>
+  <SpellOf_Blizzard.comps.1.useLabel>Read</SpellOf_Blizzard.comps.1.useLabel>
+
+  <SpellOf_BloodMoon.label>Blood Mage Spell: Blood Moon</SpellOf_BloodMoon.label>
+  <SpellOf_BloodMoon.description>Teaches a blood mage how to summon a vicious pack of blood demons.</SpellOf_BloodMoon.description>
+  <SpellOf_BloodMoon.comps.1.useLabel>Read</SpellOf_BloodMoon.comps.1.useLabel>
+
+  <SpellOf_EyeOfTheStorm.label>Lightning Spell: Eye of the Storm</SpellOf_EyeOfTheStorm.label>
+  <SpellOf_EyeOfTheStorm.description>Teaches a lightning mage how to contain the raw fury of a lightning storm into a small sphere and project it along a set path.</SpellOf_EyeOfTheStorm.description>
+  <SpellOf_EyeOfTheStorm.comps.1.useLabel>Read</SpellOf_EyeOfTheStorm.comps.1.useLabel>
+
+  <SpellOf_Firestorm.label>Fire Spell: Firestorm</SpellOf_Firestorm.label>
+  <SpellOf_Firestorm.description>Teaches a fire mage how to wield the full fury of the fire element to scorch the earth with a firestorm.</SpellOf_Firestorm.description>
+  <SpellOf_Firestorm.comps.1.useLabel>Read</SpellOf_Firestorm.comps.1.useLabel>
+
+  <SpellOf_FoldReality.label>Arcane Spell: Gateway</SpellOf_FoldReality.label>
+  <SpellOf_FoldReality.description>Teaches an arcane mage how to fold reality in order to open a temporary window between colonies.</SpellOf_FoldReality.description>
+  <SpellOf_FoldReality.comps.1.useLabel>Read</SpellOf_FoldReality.comps.1.useLabel>
+
+  <SpellOf_HolyWrath.label>Paladin Spell: Holy Wrath</SpellOf_HolyWrath.label>
+  <SpellOf_HolyWrath.description>Teaches a paladin how to call forth the wrath of the gods.</SpellOf_HolyWrath.description>
+  <SpellOf_HolyWrath.comps.1.useLabel>Read</SpellOf_HolyWrath.comps.1.useLabel>
+
+  <SpellOf_LichForm.label>Necromancer Spell: Lich Form</SpellOf_LichForm.label>
+  <SpellOf_LichForm.description>Teaches a necromancer how to transform into a lich.</SpellOf_LichForm.description>
+  <SpellOf_LichForm.comps.1.useLabel>Read</SpellOf_LichForm.comps.1.useLabel>
+
+  <SpellOf_Meteor.label>Geomancer Spell: Meteor</SpellOf_Meteor.label>
+  <SpellOf_Meteor.description>Teaches a geomancer how to summon a massive meteor to bury an area in rock and debris.</SpellOf_Meteor.description>
+  <SpellOf_Meteor.comps.1.useLabel>Read</SpellOf_Meteor.comps.1.useLabel>
+
+  <SpellOf_OrbitalStrike.label>Technomancer Spell: Orbital Strike</SpellOf_OrbitalStrike.label>
+  <SpellOf_OrbitalStrike.description>Teaches a technomancer how to access ancient satellites and orbital systems and use them to launch an orbital strike.</SpellOf_OrbitalStrike.description>
+  <SpellOf_OrbitalStrike.comps.1.useLabel>Read</SpellOf_OrbitalStrike.comps.1.useLabel>
+
+  <SpellOf_PsychicShock.label>Warlock Spell: Psychic Shock</SpellOf_PsychicShock.label>
+  <SpellOf_PsychicShock.description>Teaches a Warlock how to use his psychic powers to emit powerful psychic shock that overwhelms and reverberates from nearby pawn.</SpellOf_PsychicShock.description>
+  <SpellOf_PsychicShock.comps.1.useLabel>Read</SpellOf_PsychicShock.comps.1.useLabel>
+
+  <SpellOf_Recall.label>Chronomancer Spell: Recall</SpellOf_Recall.label>
+  <SpellOf_Recall.description>Teaches a chronomancer how to recall their physical being to a past condition.</SpellOf_Recall.description>
+  <SpellOf_Recall.comps.1.useLabel>Read</SpellOf_Recall.comps.1.useLabel>
+
+  <SpellOf_RegrowLimb.label>Druid Spell: Regrow Limb</SpellOf_RegrowLimb.label>
+  <SpellOf_RegrowLimb.description>Teaches a druid how to regrow limbs by combining nature, arcane powers, and medical science.</SpellOf_RegrowLimb.description>
+  <SpellOf_RegrowLimb.comps.1.useLabel>Read</SpellOf_RegrowLimb.comps.1.useLabel>
+
+  <SpellOf_Resurrection.label>Priest Spell: Resurrection</SpellOf_Resurrection.label>
+  <SpellOf_Resurrection.description>Teaches a priest how to restore the spark of life to the recently deceased.</SpellOf_Resurrection.description>
+  <SpellOf_Resurrection.comps.1.useLabel>Read</SpellOf_Resurrection.comps.1.useLabel>
+
+  <SpellOf_Scorn.label>Succubus Spell: Scorn</SpellOf_Scorn.label>
+  <SpellOf_Scorn.description>Teaches a succubus how to unleash the full malice harbored by their demon heart.</SpellOf_Scorn.description>
+  <SpellOf_Scorn.comps.1.useLabel>Read</SpellOf_Scorn.comps.1.useLabel>
+
+  <SpellOf_Shapeshift.label>Enchanter Spell: Shapeshift</SpellOf_Shapeshift.label>
+  <SpellOf_Shapeshift.description>Teaches an enchanter how to perform shapeshifting on themselves without losing their identity.</SpellOf_Shapeshift.description>
+  <SpellOf_Shapeshift.comps.1.useLabel>Read</SpellOf_Shapeshift.comps.1.useLabel>
+
+  <SpellOf_SummonPoppi.label>Summoner Spell: Summon Poppi</SpellOf_SummonPoppi.label>
+  <SpellOf_SummonPoppi.description>Teaches a summoner how to summon a band of cute and cuddly poppi.</SpellOf_SummonPoppi.description>
+  <SpellOf_SummonPoppi.comps.1.useLabel>Read</SpellOf_SummonPoppi.comps.1.useLabel>
+
+
+  <!-- Fighter Skills - Single -->
+
+  <SkillOf_ThrowingKnife.label>Fighter Skill: Throwing Knife</SkillOf_ThrowingKnife.label>
+  <SkillOf_ThrowingKnife.description>Teaches a fighter class the Throwing Knife skill. Non-violent pawns cannot learn this skill.</SkillOf_ThrowingKnife.description>
+  <SkillOf_ThrowingKnife.comps.1.useLabel>Read</SkillOf_ThrowingKnife.comps.1.useLabel>
+
+  <SkillOf_BurningFury.label>Fighter Skill: Burning Fury</SkillOf_BurningFury.label>
+  <SkillOf_BurningFury.description>Teaches a fighter class how to activate the Burning Fury aura. Non-violent pawns cannot learn this skill.</SkillOf_BurningFury.description>
+  <SkillOf_BurningFury.comps.1.useLabel>Read</SkillOf_BurningFury.comps.1.useLabel>
+
+  <SkillOf_FightersFocus.label>Fighter Skill: Fighters Focus</SkillOf_FightersFocus.label>
+  <SkillOf_FightersFocus.description>Teaches a fighter class how to dedicate an allotment of stamina to withstand greater mental and physical stress.</SkillOf_FightersFocus.description>
+  <SkillOf_FightersFocus.comps.1.useLabel>Read</SkillOf_FightersFocus.comps.1.useLabel>
+
+  <SkillOf_GearRepair.label>Fighter Skill: Gear Repair</SkillOf_GearRepair.label>
+  <SkillOf_GearRepair.description>Teaches a fighter class how to dedicate an allotment of stamina to maintaining and repairing worn equipment.</SkillOf_GearRepair.description>
+  <SkillOf_GearRepair.comps.1.useLabel>Read</SkillOf_GearRepair.comps.1.useLabel>
+
+  <SkillOf_HeavyBlow.label>Fighter Skill: Heavy Blow</SkillOf_HeavyBlow.label>
+  <SkillOf_HeavyBlow.description>Teaches a fighter class how to dedicate an allotment of stamina to increase the power of each attack.</SkillOf_HeavyBlow.description>
+  <SkillOf_HeavyBlow.comps.1.useLabel>Read</SkillOf_HeavyBlow.comps.1.useLabel>
+
+  <SkillOf_InnerHealing.label>Fighter Skill: Inner Healing</SkillOf_InnerHealing.label>
+  <SkillOf_InnerHealing.description>Teaches a fighter class how to dedicate an allotment of stamina and physical energy to increase healing rate and improve disease immunity.</SkillOf_InnerHealing.description>
+  <SkillOf_InnerHealing.comps.1.useLabel>Read</SkillOf_InnerHealing.comps.1.useLabel>
+
+  <SkillOf_Legion.label>Fighter Skill: Legion</SkillOf_Legion.label>
+  <SkillOf_Legion.description>Teaches a fighter how to replicate the combat abilities of another fighter class.</SkillOf_Legion.description>
+  <SkillOf_Legion.comps.1.useLabel>Read</SkillOf_Legion.comps.1.useLabel>
+
+  <SkillOf_PommelStrike.label>Fighter Skill: Pommel Strike</SkillOf_PommelStrike.label>
+  <SkillOf_PommelStrike.description>Teaches a fighter class how to perform a non-lethal blow to stun or knock-out a target.</SkillOf_PommelStrike.description>
+  <SkillOf_PommelStrike.comps.1.useLabel>Read</SkillOf_PommelStrike.comps.1.useLabel>
+
+  <SkillOf_Sprint.label>Fighter Skill: Sprint</SkillOf_Sprint.label>
+  <SkillOf_Sprint.description>Teaches a fighter class how to dedicate an allotment of stamina to sustain an increased movement rate.</SkillOf_Sprint.description>
+  <SkillOf_Sprint.comps.1.useLabel>Read</SkillOf_Sprint.comps.1.useLabel>
+
+  <SkillOf_StrongBack.label>Fighter Skill: Strong Back</SkillOf_StrongBack.label>
+  <SkillOf_StrongBack.description>Teaches a fighter class how to dedicate an allotment of stamina to increase carrying and inventory capacities.</SkillOf_StrongBack.description>
+  <SkillOf_StrongBack.comps.1.useLabel>Read</SkillOf_StrongBack.comps.1.useLabel>
+
+  <SkillOf_TempestStrike.label>Fighter Skill: Tempest Strike</SkillOf_TempestStrike.label>
+  <SkillOf_TempestStrike.description>Teaches a fighter class a technique to strike in rapid succession using their weapon.</SkillOf_TempestStrike.description>
+  <SkillOf_TempestStrike.comps.1.useLabel>Read</SkillOf_TempestStrike.comps.1.useLabel>
+
+  <SkillOf_ThickSkin.label>Fighter Skill: Thick Skin</SkillOf_ThickSkin.label>
+  <SkillOf_ThickSkin.description>Teaches a fighter class how to dedicate an allotment of stamina to increase armor values and temperature threshold.</SkillOf_ThickSkin.description>
+  <SkillOf_ThickSkin.comps.1.useLabel>Read</SkillOf_ThickSkin.comps.1.useLabel>
+
+
+  <!-- Gems of Insight -->
+
+  <GemstoneOfInsight_Magic.label>Gem of Arcane Insight</GemstoneOfInsight_Magic.label>
+  <GemstoneOfInsight_Magic.description>Imbues the user with an arcane spirit, granting them the "magically gifted" trait. 
+	
+**Note: use of this item will replace a random trait if the user has more than 7 traits and cannot be used by a pawn with existing magic or fighter traits**</GemstoneOfInsight_Magic.description>
+  <GemstoneOfInsight_Magic.comps.1.useLabel>Use</GemstoneOfInsight_Magic.comps.1.useLabel>
+
+  <GemstoneOfInsight_Might.label>Gem of Physical Insight</GemstoneOfInsight_Might.label>
+  <GemstoneOfInsight_Might.description>Imbues the user with the spirit of a warrior, granting them the "physically adept" trait.	
+
+**Note: use of this item will replace a random trait if the user has more than 7 traits and cannot be used by a pawn with existing magic or fighter traits**</GemstoneOfInsight_Might.description>
+  <GemstoneOfInsight_Might.comps.1.useLabel>Use</GemstoneOfInsight_Might.comps.1.useLabel>
+
+
+</LanguageData>

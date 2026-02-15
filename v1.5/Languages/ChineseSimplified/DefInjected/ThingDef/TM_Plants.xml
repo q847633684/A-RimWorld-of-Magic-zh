@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Plant_Pomanasyrrium.label>波莫纳</TM_Plant_Pomanasyrrium.label>
+  <TM_Plant_Pomanasyrrium.description>传说中波莫纳可以为那些食用其果实的人提供清晰的头脑和敏锐的洞察力。但它产量不高极难生长，因此不受种植者的青睐。\n\n它生产的水果，通常被称为波莫纳，味道很好可以生吃，但营养价值很低。与安眠药一样，波莫纳会引起轻微的兴奋感，并促进精神健康。</TM_Plant_Pomanasyrrium.description>
+
+  <TM_RawPomanasyrrium.label>波莫纳果实</TM_RawPomanasyrrium.label>
+  <TM_RawPomanasyrrium.description>一种拳头大小的水果，颜色从赤橙色到暗紫色不等。通常波莫纳被认为是一种美味的水果。当生吃时，它会产生一种轻微的幸福感，并能提高智力扩展意识。</TM_RawPomanasyrrium.description>
+
+  <TM_RawPomanaMash.label>波莫纳残渣</TM_RawPomanaMash.label>
+  <TM_RawPomanaMash.description>当从波莫纳中提取糖浆后留下的剩余物。 这种副产品保留了一些营养价值，主要用于喂养动物。</TM_RawPomanaMash.description>
+
+  <TM_Syrrium.label>波莫纳糖浆</TM_Syrrium.label>
+  <TM_Syrrium.description>从煮沸捣碎的波莫纳中蒸馏出的糖浆。当饮用糖浆时，它比生波莫纳的效果要强烈得多。化学效应使这种液体具有药物的资格，并导致轻微的化学依赖性，然而，它更容易让你上瘾的诱惑是当一些人开始感觉到失去药效后法力开始下降，他们会通过消耗糖浆来维持他们的法力。\n  \n大多数认为波莫纳提供食用者清晰的头脑和敏锐的洞察力的说法是传说或幻想，然而，对其化学性质的研究表明，这些效应确实是真实的，至少对法师来说是如此。\n\n通过适当的精炼，已经发现了波莫纳糖浆加强了法师对法力的掌控，加速法力的涨落并减少使用魔法力量所需的法力。这些效果不会与食用生水果所获得的好处叠加在一起。</TM_Syrrium.description>
+  <TM_Syrrium.ingestible.ingestCommandString>饮用 {0}</TM_Syrrium.ingestible.ingestCommandString>
+  <TM_Syrrium.ingestible.ingestReportString>饮用 {0}.</TM_Syrrium.ingestible.ingestReportString>
+
+
+  <!-- Syrrium addiction -->
+
+  <TM_Plant_Paracyte.label>潘希斑</TM_Plant_Paracyte.label>
+  <TM_Plant_Paracyte.description>潘希斑荆棘是一种基因工程植物，通过蒸腾作用吸收法力并将其收集到蛹中。随着植物的成熟，蛹变硬成为可以收获的魔法原石。植物的其余部分几乎由玻璃状的刺和坚硬的茎组成。\n\n潘希斑荆棘很难生长，只有熟练的草药师才能安全地种植和收获。尽管困难重重，它仍然有着微妙的美丽，沿着其晶体边缘反射光线散发出飘逸的光芒。\n注意：如果潘希斑的数量超过“软上限”，潘希斑将降低地图上所有法师的法力回复。“软上限”的值在mod设置里。当地图上潘希斑的总数量低于“软上限”时，潘希斑对法力回复没有影响。</TM_Plant_Paracyte.description>
+
+  <TM_Plant_Briar.label>带刺的藤蔓</TM_Plant_Briar.label>
+  <TM_Plant_Briar.description>一个缠绕的，木质的枝条覆盖着邪恶的荆棘的危险，减慢了任何人在他们上面移动。荆棘锋利，甚至能刺穿厚衣服。.</TM_Plant_Briar.description>
+
+
+</LanguageData>

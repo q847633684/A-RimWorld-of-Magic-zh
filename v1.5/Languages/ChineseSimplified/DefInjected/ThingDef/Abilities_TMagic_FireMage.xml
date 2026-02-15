@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ray of Hope start -->
+
+  <Buff_RayofHope.label>希望之光</Buff_RayofHope.label>
+
+
+  <!-- Firebolt -->
+
+  <Projectile_Firebolt.label>燃烧之箭</Projectile_Firebolt.label>
+
+
+  <!-- Fireball -->
+
+  <Projectile_Fireball.label>火球术</Projectile_Fireball.label>
+
+
+  <!-- Fire Claw -->
+
+  <Projectile_Fireclaw.label>龙息术</Projectile_Fireclaw.label>
+
+
+  <!-- Firestorm -->
+
+  <Projectile_Firestorm.label>火焰风暴</Projectile_Firestorm.label>
+
+
+</LanguageData>

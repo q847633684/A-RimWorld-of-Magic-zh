@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Teleporter.label>传送点</TM_Teleporter.label>
+  <TM_Teleporter.description>一个用来控制传送仓的传送点。</TM_Teleporter.description>
+
+  <TM_Teleporter_I.label>传送点 (I)</TM_Teleporter_I.label>
+  <TM_Teleporter_I.description>一个用来控制传送仓的传送点。</TM_Teleporter_I.description>
+
+  <TM_Teleporter_II.label>传送点 (II)</TM_Teleporter_II.label>
+  <TM_Teleporter_II.description>一个用来控制传送仓的传送点。</TM_Teleporter_II.description>
+
+  <TM_Teleporter_III.label>传送点 (III)</TM_Teleporter_III.label>
+  <TM_Teleporter_III.description>一个用来控制传送仓的传送点。</TM_Teleporter_III.description>
+
+  <TM_TeleportPod.label>传送仓</TM_TeleportPod.label>
+  <TM_TeleportPod.description>一个被法师用来在不同地点快速移动的临时传送装置。</TM_TeleportPod.description>
+
+  <TM_TeleportPod_I.label>传送仓 (I)</TM_TeleportPod_I.label>
+  <TM_TeleportPod_I.description>一个被法师用来在不同地点快速移动的临时传送装置。</TM_TeleportPod_I.description>
+
+  <TM_TeleportPod_II.label>传送仓 (II)</TM_TeleportPod_II.label>
+  <TM_TeleportPod_II.description>一个被法师用来在不同地点快速移动的临时传送装置。</TM_TeleportPod_II.description>
+
+  <TM_TeleportPod_III.label>传送仓 (III)</TM_TeleportPod_III.label>
+  <TM_TeleportPod_III.description>一个被法师用来在不同地点快速移动的临时传送装置。</TM_TeleportPod_III.description>
+
+  <Portfuel.label>法力球</Portfuel.label>
+  <Portfuel.description>一团压缩成球状法力，通常被用于各种魔法装置如：传送门、奥术电池等。</Portfuel.description>
+
+  <TM_Heater.label>魔法热源</TM_Heater.label>
+  <TM_Heater.description>大量的火元素被束成一团，可以用来加热室内空间或烹饪简单食物。</TM_Heater.description>
+
+  <TM_Cooler.label>魔法冷源</TM_Cooler.label>
+  <TM_Cooler.description>大量的冰元素被束成一团。可以用来冷却有限的室内空间。</TM_Cooler.description>
+
+  <TM_PowerNode.label>魔法电源</TM_PowerNode.label>
+  <TM_PowerNode.description>一个可以在一定时间内持续提供电力的魔法电源。</TM_PowerNode.description>
+
+  <TM_Sunlight.label>日光术</TM_Sunlight.label>
+  <TM_Sunlight.description>从魔法光源中持续释放的阳光附近的农作物茁壮成长.</TM_Sunlight.description>
+
+  <TM_Sentinel.label>石哨兵</TM_Sentinel.label>
+  <TM_Sentinel.description>这是一座雕刻成一个可怕生物的石制雕像。这个生物比普通人小，看起来像是一个拙劣雕刻师的作品。但是，当你注意到雕像的眼睛、耳朵和爪子时，这座雕像似乎活了过来，你感觉有一双眼睛在注视着你，让你感觉毛骨悚然。</TM_Sentinel.description>
+
+  <TM_MageLightTD.label>魔法</TM_MageLightTD.label>
+  <TM_MageLightTD.description>法师创造的光源。</TM_MageLightTD.description>
+
+  <TM_LightPod.label>光束</TM_LightPod.label>
+  <TM_LightPod.description>沿着光束移动。</TM_LightPod.description>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_ChaosTraditionHD.label>混沌通量</TM_ChaosTraditionHD.label>
+  <TM_ChaosTraditionHD.description>通过客观的解释来控制现实，从而提高混沌法师的身体和精神的稳定性。</TM_ChaosTraditionHD.description>
+  <TM_ChaosTraditionHD.stages.0.label>I</TM_ChaosTraditionHD.stages.0.label>
+  <TM_ChaosTraditionHD.stages.1.label>II</TM_ChaosTraditionHD.stages.1.label>
+  <TM_ChaosTraditionHD.stages.2.label>III</TM_ChaosTraditionHD.stages.2.label>
+
+  <TM_ChaoticMindHD.label>混沌之脑</TM_ChaoticMindHD.label>
+  <TM_ChaoticMindHD.description>通过客观的解释来控制现实，从而提高混沌法师的身体和精神的稳定性。</TM_ChaoticMindHD.description>
+  <TM_ChaoticMindHD.stages.0.label>思想</TM_ChaoticMindHD.stages.0.label>
+
+  <TM_ControlledChaosHD.label>可控性混沌</TM_ControlledChaosHD.label>
+  <TM_ControlledChaosHD.description>通过客观的解释来控制现实，从而提高混沌法师的身体和精神的稳定性。</TM_ControlledChaosHD.description>
+  <TM_ControlledChaosHD.stages.0.label>混乱</TM_ControlledChaosHD.stages.0.label>
+  <TM_ControlledChaosHD.stages.1.label></TM_ControlledChaosHD.stages.1.label>
+
+
+</LanguageData>

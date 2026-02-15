@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- blade focus -->
+
+  <TM_BladeFocus.label>剑术精通</TM_BladeFocus.label>
+  <TM_BladeFocus.description>使用这项能力提升刀锋舞者特性。这项能力只需要在训练完成后使用。\n\n等级：\n见习刀锋舞者：速度+0.15c/s,mbt-3%，命中率+3%，闪避+5%，命中率-20%，工作速度-10%\n初阶刀锋舞者:速度+0.2c/s，mbt-5%，命中率+6%，闪避+10%，命中率-25%，工作速度-8%\n高阶刀锋舞者：速度+0.3c/s，mbt-8%，命中率+10%，闪避+15%，命中率-28%，工作速度-6%，疼痛阈值+5%\n传奇刀锋舞者：速度+0.4c/s，mbt-10%，命中率+15%，闪避+20%，命中加速-30%，工作速度-5%，疼痛阈值+10%</TM_BladeFocus.description>
+
+
+  <!-- blade art start -->
+
+  <TM_BladeArt.label>刀剑艺术</TM_BladeArt.label>
+  <TM_BladeArt.description>这个战士的技巧已经出神入化，使用这项能力来提供被动增益。这项能力只需要在训练完成后使用。\n\nLevel 0: 移动速度+10%，操作 +10%\nLevel 1: 移动速度+15%，操作 +15%\nLevel 2: 移动速度+20%，操作 +20%，呼吸 +10%\nLevel 3: 移动速度+25%，操作 +25%，呼吸 +15%, 吸血 +10%，血液过滤 +10%</TM_BladeArt.description>
+
+
+  <!-- BladeSpin Start -->
+
+  <TM_BladeSpin.label>剑刃回旋</TM_BladeSpin.label>
+  <TM_BladeSpin.description>将力量聚集在双手身，快速挥舞手中的武器, 疾风般攻击周围所有目标。</TM_BladeSpin.description>
+
+
+  <!-- Seismic Slash Start -->
+
+  <TM_SeismicSlash.label>地裂斩</TM_SeismicSlash.label>
+  <TM_SeismicSlash.description>操控冷酷的剑魂，释放一次可以撕裂空间的直线攻击。</TM_SeismicSlash.description>
+
+
+  <!-- Phase Strike Start -->
+
+  <TM_PhaseStrike.label>次元之刃（I）</TM_PhaseStrike.label>
+  <TM_PhaseStrike.description>通过细微的观察，察觉次元的裂隙，穿梭于现实之间，在指定位置出现并对毫无戒心的敌人进行一次强力攻击。\n\n热身: 0.3s\n冷却时间: 15s\n范围: 30</TM_PhaseStrike.description>
+
+  <TM_PhaseStrike_I.label>次元之刃（II）</TM_PhaseStrike_I.label>
+  <TM_PhaseStrike_I.description>通过细微的观察，察觉次元的裂隙，穿梭于现实之间，在指定位置出现并对毫无戒心的敌人进行一次强力攻击。\n	\n热身: 0.2s\n冷却时间: 12s\n范围: 35</TM_PhaseStrike_I.description>
+
+  <TM_PhaseStrike_II.label>次元之刃（III）</TM_PhaseStrike_II.label>
+  <TM_PhaseStrike_II.description>通过细微的观察，察觉次元的裂隙，穿梭于现实之间，在指定位置出现并对毫无戒心的敌人进行一次强力攻击。\n\n热身: 0.1s\n冷却时间: 9s\n范围: 40</TM_PhaseStrike_II.description>
+
+  <TM_PhaseStrike_III.label>次元之刃（IV）</TM_PhaseStrike_III.label>
+  <TM_PhaseStrike_III.description>通过细微的观察，察觉次元的裂隙，穿梭于现实之间，在指定位置出现并对毫无戒心的敌人进行一次强力攻击。\n\n热身: 0s\n冷却时间: 6s\n范围: 45</TM_PhaseStrike_III.description>
+
+
+</LanguageData>

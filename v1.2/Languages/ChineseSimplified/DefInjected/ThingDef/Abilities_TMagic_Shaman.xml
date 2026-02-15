@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- lightning -->
+
+  <Projectile_Lightning.label>闪电</Projectile_Lightning.label>
+
+
+  <!-- Chain Lightning -->
+
+  <Projectile_ChainLightning.label>闪电链</Projectile_ChainLightning.label>
+
+
+  <!-- Spirit Wolves -->
+
+  <Projectile_SpiritWolves.label>幽灵狼</Projectile_SpiritWolves.label>
+  <Projectile_SpiritWolves_I.label>幽灵狼</Projectile_SpiritWolves_I.label>
+  <Projectile_SpiritWolves_II.label>幽灵狼</Projectile_SpiritWolves_II.label>
+  <Projectile_SpiritWolves_III.label>幽灵狼</Projectile_SpiritWolves_III.label>
+  <FlyingObject_SpiritWolves.label>幽灵狼</FlyingObject_SpiritWolves.label>
+
+
+</LanguageData>

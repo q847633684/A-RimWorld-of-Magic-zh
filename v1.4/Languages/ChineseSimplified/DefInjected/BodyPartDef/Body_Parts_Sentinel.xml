@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sentinel_Body.label>身体</Sentinel_Body.label>
+  <Sentinel_Head.label>头</Sentinel_Head.label>
+  <Sentinel_Skull.label>颅骨</Sentinel_Skull.label>
+  <Sentinel_Brain.label>脑</Sentinel_Brain.label>
+
+
+  <!-- <BodyPartDef>
+    <defName>Sentinel_Heart</defName>
+    <label>heart</label>
+    <hitPoints>30</hitPoints>
+    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
+    <bleedRate>5</bleedRate>
+    <skinCovered>false</skinCovered>
+    <tags>
+      <li>BloodPumpingSource</li>
+      <li>BloodFiltrationSource</li>
+      <li>MetabolismSource</li>
+      <li>BreathingSource</li>
+    </tags>
+  </BodyPartDef> -->
+
+  <Sentinel_LeftArm.label>左臂</Sentinel_LeftArm.label>
+  <Sentinel_RightArm.label>右臂</Sentinel_RightArm.label>
+  <Sentinel_LeftEye.label>左眼</Sentinel_LeftEye.label>
+  <Sentinel_RightEye.label>右眼</Sentinel_RightEye.label>
+  <Sentinel_LeftEar.label>左耳</Sentinel_LeftEar.label>
+  <Sentinel_RightEar.label>右耳</Sentinel_RightEar.label>
+  <Sentinel_Jaw.label>下巴</Sentinel_Jaw.label>
+  <Sentinel_Neck.label>脖子</Sentinel_Neck.label>
+  <Sentinel_Spine.label>脊柱</Sentinel_Spine.label>
+  <Sentinel_Abdomen.label>腹部</Sentinel_Abdomen.label>
+  <Sentinel_Chest.label>胸部</Sentinel_Chest.label>
+  <Sentinel_Base.label>石像鬼下肢</Sentinel_Base.label>
+
+
+</LanguageData>

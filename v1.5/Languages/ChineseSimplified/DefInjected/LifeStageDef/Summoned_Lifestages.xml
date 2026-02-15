@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_LesserElemental_Lifestage.label>小型元素</TM_LesserElemental_Lifestage.label>
+  <TM_Elemental_Lifestage.label>元素</TM_Elemental_Lifestage.label>
+  <TM_GreaterElemental_Lifestage.label>大型元素</TM_GreaterElemental_Lifestage.label>
+  <TM_Minion_Lifestage.label>仆从</TM_Minion_Lifestage.label>
+  <TM_GreaterMinion_Lifestage.label>强大仆从</TM_GreaterMinion_Lifestage.label>
+  <TM_Demon_Lifestage.label>恶魔</TM_Demon_Lifestage.label>
+  <TM_LesserDemon_Lifestage.label>小型恶魔</TM_LesserDemon_Lifestage.label>
+  <TM_LesserSentinel_Lifestage.label>小型石像鬼</TM_LesserSentinel_Lifestage.label>
+  <TM_Sentinel_Lifestage.label>石像鬼</TM_Sentinel_Lifestage.label>
+  <TM_GreaterSentinel_Lifestage.label>大型石像鬼</TM_GreaterSentinel_Lifestage.label>
+  <TM_Skeleton_Lifestage.label>骷髅</TM_Skeleton_Lifestage.label>
+  <TM_GiantSkeleton_Lifestage.label>巨型骷髅</TM_GiantSkeleton_Lifestage.label>
+  <TM_SkeletonLich_Lifestage.label>骷髅巫妖</TM_SkeletonLich_Lifestage.label>
+
+
+</LanguageData>

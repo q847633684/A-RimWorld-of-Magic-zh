@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_ShadowHD.label>如影随形</TM_ShadowHD.label>
+  <TM_ShadowHD.description>暗影伤害。</TM_ShadowHD.description>
+  <TM_ShadowHD.comps.0.labelTendedWell>已包扎</TM_ShadowHD.comps.0.labelTendedWell>
+  <TM_ShadowHD.comps.0.labelTendedWellInner>已缝合</TM_ShadowHD.comps.0.labelTendedWellInner>
+  <TM_ShadowHD.comps.0.labelSolidTendedWell>已固定</TM_ShadowHD.comps.0.labelSolidTendedWell>
+  <TM_ShadowHD.injuryProps.destroyedLabel>枯萎</TM_ShadowHD.injuryProps.destroyedLabel>
+  <TM_ShadowHD.injuryProps.destroyedOutLabel>瓦解</TM_ShadowHD.injuryProps.destroyedOutLabel>
+  <TM_ShadowHD.comps.HediffComp_GetsPermanent.permanentLabel>被影子伤害</TM_ShadowHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <TM_ShadowHD.labelNounPretty>{1} 中的 {0}</TM_ShadowHD.labelNounPretty>
+
+  <TM_GravitySlowHD.label>引力陷阱</TM_GravitySlowHD.label>
+  <TM_GravitySlowHD.description>受到引力的影响。</TM_GravitySlowHD.description>
+  <TM_GravitySlowHD.stages.0.label>放慢</TM_GravitySlowHD.stages.0.label>
+
+  <TM_SoulBondPhysicalHD.label>灵魂契约</TM_SoulBondPhysicalHD.label>
+  <TM_SoulBondPhysicalHD.description>与魅魔签订契约。</TM_SoulBondPhysicalHD.description>
+  <TM_SoulBondPhysicalHD.stages.0.label>I</TM_SoulBondPhysicalHD.stages.0.label>
+  <TM_SoulBondPhysicalHD.stages.1.label>II</TM_SoulBondPhysicalHD.stages.1.label>
+  <TM_SoulBondPhysicalHD.stages.2.label>III</TM_SoulBondPhysicalHD.stages.2.label>
+  <TM_SoulBondPhysicalHD.stages.3.label>IV</TM_SoulBondPhysicalHD.stages.3.label>
+
+  <TM_SDSoulBondPhysicalHD.label>灵魂契约</TM_SDSoulBondPhysicalHD.label>
+  <TM_SDSoulBondPhysicalHD.description>已与他人签订灵魂契约。</TM_SDSoulBondPhysicalHD.description>
+  <TM_SDSoulBondPhysicalHD.stages.0.label>I</TM_SDSoulBondPhysicalHD.stages.0.label>
+  <TM_SDSoulBondPhysicalHD.stages.1.label>II</TM_SDSoulBondPhysicalHD.stages.1.label>
+  <TM_SDSoulBondPhysicalHD.stages.2.label>III</TM_SDSoulBondPhysicalHD.stages.2.label>
+  <TM_SDSoulBondPhysicalHD.stages.3.label>IV</TM_SDSoulBondPhysicalHD.stages.3.label>
+
+  <TM_SoulBondMentalHD.label>灵魂契约</TM_SoulBondMentalHD.label>
+  <TM_SoulBondMentalHD.description>与术士签订契约。</TM_SoulBondMentalHD.description>
+  <TM_SoulBondMentalHD.stages.0.label>I</TM_SoulBondMentalHD.stages.0.label>
+  <TM_SoulBondMentalHD.stages.1.label>II</TM_SoulBondMentalHD.stages.1.label>
+  <TM_SoulBondMentalHD.stages.2.label>III</TM_SoulBondMentalHD.stages.2.label>
+  <TM_SoulBondMentalHD.stages.3.label>IV</TM_SoulBondMentalHD.stages.3.label>
+
+  <TM_WDSoulBondMentalHD.label>灵魂契约</TM_WDSoulBondMentalHD.label>
+  <TM_WDSoulBondMentalHD.description>已与他人签订灵魂契约。</TM_WDSoulBondMentalHD.description>
+  <TM_WDSoulBondMentalHD.stages.0.label>I</TM_WDSoulBondMentalHD.stages.0.label>
+  <TM_WDSoulBondMentalHD.stages.1.label>II</TM_WDSoulBondMentalHD.stages.1.label>
+  <TM_WDSoulBondMentalHD.stages.2.label>III</TM_WDSoulBondMentalHD.stages.2.label>
+  <TM_WDSoulBondMentalHD.stages.3.label>IV</TM_WDSoulBondMentalHD.stages.3.label>
+
+  <TM_WDDominateHD.label>支配 I</TM_WDDominateHD.label>
+  <TM_WDDominateHD.description>受到魔法力量的影响，精神受到影响，思维逐渐混乱。</TM_WDDominateHD.description>
+  <TM_WDDominateHD.stages.0.label>衰退</TM_WDDominateHD.stages.0.label>
+  <TM_WDDominateHD.stages.1.label>退缩</TM_WDDominateHD.stages.1.label>
+  <TM_WDDominateHD.stages.2.label>笼罩</TM_WDDominateHD.stages.2.label>
+  <TM_WDDominateHD.stages.3.label>压倒</TM_WDDominateHD.stages.3.label>
+
+  <TM_WDDominateHD_I.label>支配 II</TM_WDDominateHD_I.label>
+  <TM_WDDominateHD_I.description>受到魔法力量的影响，精神受到影响，思维逐渐混乱。</TM_WDDominateHD_I.description>
+  <TM_WDDominateHD_I.stages.0.label>衰退</TM_WDDominateHD_I.stages.0.label>
+  <TM_WDDominateHD_I.stages.1.label>退缩</TM_WDDominateHD_I.stages.1.label>
+  <TM_WDDominateHD_I.stages.2.label>笼罩</TM_WDDominateHD_I.stages.2.label>
+  <TM_WDDominateHD_I.stages.3.label>压倒</TM_WDDominateHD_I.stages.3.label>
+
+  <TM_WDDominateHD_II.label>支配 III</TM_WDDominateHD_II.label>
+  <TM_WDDominateHD_II.description>受到魔法力量的影响，精神受到影响，思维逐渐混乱。</TM_WDDominateHD_II.description>
+  <TM_WDDominateHD_II.stages.0.label>衰退</TM_WDDominateHD_II.stages.0.label>
+  <TM_WDDominateHD_II.stages.1.label>退缩</TM_WDDominateHD_II.stages.1.label>
+  <TM_WDDominateHD_II.stages.2.label>笼罩</TM_WDDominateHD_II.stages.2.label>
+  <TM_WDDominateHD_II.stages.3.label>压倒</TM_WDDominateHD_II.stages.3.label>
+
+  <TM_WDDominateHD_III.label>支配 IV</TM_WDDominateHD_III.label>
+  <TM_WDDominateHD_III.description>受到魔法力量的影响，精神受到影响，思维逐渐混乱。</TM_WDDominateHD_III.description>
+  <TM_WDDominateHD_III.stages.0.label>衰退</TM_WDDominateHD_III.stages.0.label>
+  <TM_WDDominateHD_III.stages.1.label>退缩</TM_WDDominateHD_III.stages.1.label>
+  <TM_WDDominateHD_III.stages.2.label>笼罩</TM_WDDominateHD_III.stages.2.label>
+  <TM_WDDominateHD_III.stages.3.label>压倒</TM_WDDominateHD_III.stages.3.label>
+
+  <TM_SDDominateHD.label>支配 I</TM_SDDominateHD.label>
+  <TM_SDDominateHD.description>受到魔法力量的影响，力量受到削弱，体力逐渐流失。</TM_SDDominateHD.description>
+  <TM_SDDominateHD.stages.0.label>衰退</TM_SDDominateHD.stages.0.label>
+  <TM_SDDominateHD.stages.1.label>退缩</TM_SDDominateHD.stages.1.label>
+  <TM_SDDominateHD.stages.2.label>笼罩</TM_SDDominateHD.stages.2.label>
+  <TM_SDDominateHD.stages.3.label>压倒</TM_SDDominateHD.stages.3.label>
+
+  <TM_SDDominateHD_I.label>支配 II</TM_SDDominateHD_I.label>
+  <TM_SDDominateHD_I.description>受到魔法力量的影响，力量受到削弱，体力逐渐流失。</TM_SDDominateHD_I.description>
+  <TM_SDDominateHD_I.stages.0.label>衰退</TM_SDDominateHD_I.stages.0.label>
+  <TM_SDDominateHD_I.stages.1.label>退缩</TM_SDDominateHD_I.stages.1.label>
+  <TM_SDDominateHD_I.stages.2.label>笼罩</TM_SDDominateHD_I.stages.2.label>
+  <TM_SDDominateHD_I.stages.3.label>压倒</TM_SDDominateHD_I.stages.3.label>
+
+  <TM_SDDominateHD_II.label>支配 III</TM_SDDominateHD_II.label>
+  <TM_SDDominateHD_II.description>受到魔法力量的影响，力量受到削弱，体力逐渐流失。</TM_SDDominateHD_II.description>
+  <TM_SDDominateHD_II.stages.0.label>衰退</TM_SDDominateHD_II.stages.0.label>
+  <TM_SDDominateHD_II.stages.1.label>退缩</TM_SDDominateHD_II.stages.1.label>
+  <TM_SDDominateHD_II.stages.2.label>笼罩</TM_SDDominateHD_II.stages.2.label>
+  <TM_SDDominateHD_II.stages.3.label>压倒</TM_SDDominateHD_II.stages.3.label>
+
+  <TM_SDDominateHD_III.label>支配 IV</TM_SDDominateHD_III.label>
+  <TM_SDDominateHD_III.description>受到魔法力量的影响，力量受到削弱，体力逐渐流失。</TM_SDDominateHD_III.description>
+  <TM_SDDominateHD_III.stages.0.label>衰退</TM_SDDominateHD_III.stages.0.label>
+  <TM_SDDominateHD_III.stages.1.label>退缩</TM_SDDominateHD_III.stages.1.label>
+  <TM_SDDominateHD_III.stages.2.label>笼罩</TM_SDDominateHD_III.stages.2.label>
+  <TM_SDDominateHD_III.stages.3.label>压倒</TM_SDDominateHD_III.stages.3.label>
+
+  <TM_VitalityDrainHD.label>活力消耗</TM_VitalityDrainHD.label>
+  <TM_VitalityDrainHD.description>在“亲密”的联系中，虽然体力被吸取，但是也得到了极大的愉悦。</TM_VitalityDrainHD.description>
+  <TM_VitalityDrainHD.stages.0.label>魅魔</TM_VitalityDrainHD.stages.0.label>
+
+  <TM_VitalityBoostHD.label>活力提升</TM_VitalityBoostHD.label>
+  <TM_VitalityBoostHD.description>在“亲密”的联系中，通过消耗别人的能量来获得身体上的提升。</TM_VitalityBoostHD.description>
+  <TM_VitalityBoostHD.stages.0.label></TM_VitalityBoostHD.stages.0.label>
+
+  <TM_DemonHD.label>恶魔火焰</TM_DemonHD.label>
+  <TM_DemonHD.description>恶魔火焰围绕着恶魔旋转和扭曲。</TM_DemonHD.description>
+  <TM_DemonHD.stages.0.label></TM_DemonHD.stages.0.label>
+  <TM_DemonHD.stages.1.label></TM_DemonHD.stages.1.label>
+  <TM_DemonHD.stages.2.label></TM_DemonHD.stages.2.label>
+
+  <TM_DemonicPriceHD.label>灵魂消耗</TM_DemonicPriceHD.label>
+  <TM_DemonicPriceHD.description>毁灭的烈焰灼烧着灵魂。</TM_DemonicPriceHD.description>
+  <TM_DemonicPriceHD.stages.0.label></TM_DemonicPriceHD.stages.0.label>
+
+  <TM_DemonScornHD.label>恶魔的蔑视</TM_DemonScornHD.label>
+  <TM_DemonScornHD.description>恶魔化，增加免伤和伤害。</TM_DemonScornHD.description>
+  <TM_DemonScornHD.stages.0.label>I</TM_DemonScornHD.stages.0.label>
+
+  <TM_DemonScornHD_I.label>恶魔的蔑视</TM_DemonScornHD_I.label>
+  <TM_DemonScornHD_I.description>恶魔化，增加免伤和伤害。</TM_DemonScornHD_I.description>
+  <TM_DemonScornHD_I.stages.0.label>II</TM_DemonScornHD_I.stages.0.label>
+
+  <TM_DemonScornHD_II.label>恶魔的蔑视</TM_DemonScornHD_II.label>
+  <TM_DemonScornHD_II.description>恶魔化，增加免伤和伤害。</TM_DemonScornHD_II.description>
+  <TM_DemonScornHD_II.stages.0.label>III</TM_DemonScornHD_II.stages.0.label>
+
+  <TM_DemonScornHD_III.label>恶魔的蔑视</TM_DemonScornHD_III.label>
+  <TM_DemonScornHD_III.description>恶魔化，增加免伤和伤害。</TM_DemonScornHD_III.description>
+  <TM_DemonScornHD_III.stages.0.label>IV</TM_DemonScornHD_III.stages.0.label>
+
+
+</LanguageData>

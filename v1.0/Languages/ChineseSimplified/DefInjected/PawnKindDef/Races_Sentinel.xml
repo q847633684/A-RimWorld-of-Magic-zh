@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lesser Sentinel -->
+
+  <TM_Lesser_Sentinel.label>lesser sentinel</TM_Lesser_Sentinel.label>
+  <TM_Lesser_Sentinel.labelPlural>lesser sentinels</TM_Lesser_Sentinel.labelPlural>
+  <TM_Lesser_Sentinel.lifeStages.0.label>lesser sentinel</TM_Lesser_Sentinel.lifeStages.0.label>
+  <TM_Lesser_Sentinel.lifeStages.0.labelPlural>stone sentinels</TM_Lesser_Sentinel.lifeStages.0.labelPlural>
+
+
+  <!-- Sentinel -->
+
+  <TM_Sentinel.label>sentinel</TM_Sentinel.label>
+  <TM_Sentinel.labelPlural>sentinels</TM_Sentinel.labelPlural>
+  <TM_Sentinel.lifeStages.0.label>sentinel</TM_Sentinel.lifeStages.0.label>
+  <TM_Sentinel.lifeStages.0.labelPlural>stone sentinels</TM_Sentinel.lifeStages.0.labelPlural>
+
+
+  <!-- Greater Sentinel -->
+
+  <TM_Greater_Sentinel.label>greater sentinel</TM_Greater_Sentinel.label>
+  <TM_Greater_Sentinel.labelPlural>greater sentinels</TM_Greater_Sentinel.labelPlural>
+  <TM_Greater_Sentinel.lifeStages.0.label>greater sentinel</TM_Greater_Sentinel.lifeStages.0.label>
+  <TM_Greater_Sentinel.lifeStages.0.labelPlural>stone sentinels</TM_Greater_Sentinel.lifeStages.0.labelPlural>
+
+
+</LanguageData>

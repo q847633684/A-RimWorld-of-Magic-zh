@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wood Golem upgrade recipes -->
+
+  <TM_WoodGolem_RepairBlock.label>零件修复</TM_WoodGolem_RepairBlock.label>
+  <TM_WoodGolem_RepairBlock.description>替换不需要升级的缺失魔像部件。</TM_WoodGolem_RepairBlock.description>
+  <TM_WoodGolem_RepairBlock.jobString>制作傀儡零件</TM_WoodGolem_RepairBlock.jobString>
+
+  <TM_WoodGolem_EnergyMax.label>能量电池</TM_WoodGolem_EnergyMax.label>
+  <TM_WoodGolem_EnergyMax.description>创建一个能量单元，每个单元的最大能量增加 100。</TM_WoodGolem_EnergyMax.description>
+  <TM_WoodGolem_EnergyMax.jobString>创建能量单元</TM_WoodGolem_EnergyMax.jobString>
+
+  <TM_WoodGolem_EnergyConverter.label>能量转换器</TM_WoodGolem_EnergyConverter.label>
+  <TM_WoodGolem_EnergyConverter.description>魔像吸收和使用能量的效率提高 5%。</TM_WoodGolem_EnergyConverter.description>
+  <TM_WoodGolem_EnergyConverter.jobString>构建能量转换器</TM_WoodGolem_EnergyConverter.jobString>
+
+  <TM_WoodGolem_EnergyRegen.label>能量发生器</TM_WoodGolem_EnergyRegen.label>
+  <TM_WoodGolem_EnergyRegen.description>每小时提高傀儡能量恢复速度 15%。</TM_WoodGolem_EnergyRegen.description>
+  <TM_WoodGolem_EnergyRegen.jobString>构建能量发生器</TM_WoodGolem_EnergyRegen.jobString>
+
+  <TM_WoodGolem_Armor.label>硬化</TM_WoodGolem_Armor.label>
+  <TM_WoodGolem_Armor.description>每次升级都会增加傀儡的护甲：
+钝：+[9,17,23]%
+锐利：+[8,15,21]%
+热量：+[4,7,10]%</TM_WoodGolem_Armor.description>
+  <TM_WoodGolem_Armor.jobString>制作傀儡零件</TM_WoodGolem_Armor.jobString>
+
+  <TM_WoodGolem_LifeStage.label>框架层</TM_WoodGolem_LifeStage.label>
+  <TM_WoodGolem_LifeStage.description>在每个级别改进和细化傀儡的框架 [1,2,3]：
+移动：+[20/30/40]%
+生命值：+[20/40/60]%</TM_WoodGolem_LifeStage.description>
+  <TM_WoodGolem_LifeStage.jobString>改善傀儡框架</TM_WoodGolem_LifeStage.jobString>
+
+  <TM_WoodGolem_Skills.label>技能</TM_WoodGolem_Skills.label>
+  <TM_WoodGolem_Skills.description>木傀儡将烹饪、建造和搬运的质量提高了 2 个技能点。</TM_WoodGolem_Skills.description>
+  <TM_WoodGolem_Skills.jobString>制作傀儡升级</TM_WoodGolem_Skills.jobString>
+
+
+</LanguageData>

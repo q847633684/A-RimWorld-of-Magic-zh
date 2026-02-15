@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Duplicated] <TM_ShapeshiftHD.label>Shape shifter</TM_ShapeshiftHD.label>-->
+  <!--[Duplicated] <TM_ShapeshiftHD.stages.0.label></TM_ShapeshiftHD.stages.0.label>-->
+
+  <TM_EnchantedBodyHD.label>Enchanted Body</TM_EnchantedBodyHD.label>
+  <TM_EnchantedBodyHD.stages.0.label>Arm</TM_EnchantedBodyHD.stages.0.label>
+  <TM_EnchantedBodyHD.stages.1.label>Two Arms</TM_EnchantedBodyHD.stages.1.label>
+  <TM_EnchantedBodyHD.stages.2.label>Arms and Eye</TM_EnchantedBodyHD.stages.2.label>
+  <TM_EnchantedBodyHD.stages.3.label>Arms and Eye ++</TM_EnchantedBodyHD.stages.3.label>
+
+  <TM_EnchantedAuraHD.label>Enchanted Aura</TM_EnchantedAuraHD.label>
+  <TM_EnchantedAuraHD.stages.0.label>I</TM_EnchantedAuraHD.stages.0.label>
+  <TM_EnchantedAuraHD.stages.1.label>II</TM_EnchantedAuraHD.stages.1.label>
+  <TM_EnchantedAuraHD.stages.2.label>III</TM_EnchantedAuraHD.stages.2.label>
+  <TM_EnchantedAuraHD.stages.3.label>IV</TM_EnchantedAuraHD.stages.3.label>
+
+  <TM_ShapeshiftHD.label>Shapeshifter</TM_ShapeshiftHD.label>
+  <TM_ShapeshiftHD.stages.0.label>I</TM_ShapeshiftHD.stages.0.label>
+  <TM_ShapeshiftHD.stages.1.label>II</TM_ShapeshiftHD.stages.1.label>
+  <TM_ShapeshiftHD.stages.2.label>III</TM_ShapeshiftHD.stages.2.label>
+  <TM_ShapeshiftHD.stages.3.label>IV</TM_ShapeshiftHD.stages.3.label>
+
+  <TM_WeaponEnchantment_FireHD.label>Enchanted Weapon</TM_WeaponEnchantment_FireHD.label>
+  <TM_WeaponEnchantment_FireHD.stages.0.label>Fire (I)</TM_WeaponEnchantment_FireHD.stages.0.label>
+  <TM_WeaponEnchantment_FireHD.stages.1.label>Fire (II)</TM_WeaponEnchantment_FireHD.stages.1.label>
+  <TM_WeaponEnchantment_FireHD.stages.2.label>Fire (III)</TM_WeaponEnchantment_FireHD.stages.2.label>
+  <TM_WeaponEnchantment_FireHD.stages.3.label>Fire (IV)</TM_WeaponEnchantment_FireHD.stages.3.label>
+
+  <TM_WeaponEnchantment_IceHD.label>Enchanted Weapon</TM_WeaponEnchantment_IceHD.label>
+  <TM_WeaponEnchantment_IceHD.stages.0.label>Ice (I)</TM_WeaponEnchantment_IceHD.stages.0.label>
+  <TM_WeaponEnchantment_IceHD.stages.1.label>Ice (II)</TM_WeaponEnchantment_IceHD.stages.1.label>
+  <TM_WeaponEnchantment_IceHD.stages.2.label>Ice (III)</TM_WeaponEnchantment_IceHD.stages.2.label>
+  <TM_WeaponEnchantment_IceHD.stages.3.label>Ice (IV)</TM_WeaponEnchantment_IceHD.stages.3.label>
+
+  <TM_WeaponEnchantment_LitHD.label>Enchanted Weapon</TM_WeaponEnchantment_LitHD.label>
+  <TM_WeaponEnchantment_LitHD.stages.0.label>Stun (I)</TM_WeaponEnchantment_LitHD.stages.0.label>
+  <TM_WeaponEnchantment_LitHD.stages.1.label>Stun (II)</TM_WeaponEnchantment_LitHD.stages.1.label>
+  <TM_WeaponEnchantment_LitHD.stages.2.label>Stun (III)</TM_WeaponEnchantment_LitHD.stages.2.label>
+  <TM_WeaponEnchantment_LitHD.stages.3.label>Stun (IV)</TM_WeaponEnchantment_LitHD.stages.3.label>
+
+  <TM_WeaponEnchantment_DarkHD.label>Enchanted Weapon</TM_WeaponEnchantment_DarkHD.label>
+  <TM_WeaponEnchantment_DarkHD.stages.0.label>Dark (I)</TM_WeaponEnchantment_DarkHD.stages.0.label>
+  <TM_WeaponEnchantment_DarkHD.stages.1.label>Dark (II)</TM_WeaponEnchantment_DarkHD.stages.1.label>
+  <TM_WeaponEnchantment_DarkHD.stages.2.label>Dark (III)</TM_WeaponEnchantment_DarkHD.stages.2.label>
+  <TM_WeaponEnchantment_DarkHD.stages.3.label>Dark (IV)</TM_WeaponEnchantment_DarkHD.stages.3.label>
+
+
+</LanguageData>

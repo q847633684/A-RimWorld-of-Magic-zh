@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UnfinishedArcane.label>空白的转职残页</UnfinishedArcane.label>
+  <UnfinishedArcane.description>一页空白的转职残页，可以让经验丰富的法师将他的经历誊写在上面...供其他法师转职。</UnfinishedArcane.description>
+  <UnfinishedArcane.comps.0.useLabel>写</UnfinishedArcane.comps.0.useLabel>
+
+  <UnfinishedAdvArcane.label>空白的转职纹章</UnfinishedAdvArcane.label>
+  <UnfinishedAdvArcane.description>一本空白的转职纹章，可以让经验丰富的法师将他的经历誊写在上面...供其他法师转职。</UnfinishedAdvArcane.description>
+  <UnfinishedAdvArcane.comps.0.useLabel>写</UnfinishedAdvArcane.comps.0.useLabel>
+
+  <UnfinishedMartial.label>空白的的战斗指南</UnfinishedMartial.label>
+  <UnfinishedMartial.description>一本空白的战斗指南，可以让经验丰富的战士将他的技巧誊写在上面...供其他战士转职。</UnfinishedMartial.description>
+  <UnfinishedMartial.comps.0.useLabel>写</UnfinishedMartial.comps.0.useLabel>
+
+
+  <!--<UnfinishedArcane.comps.0.useLabel>写</UnfinishedArcane.comps.0.useLabel>-->
+  <!--<UnfinishedAdvArcane.comps.0.useLabel>写</UnfinishedAdvArcane.comps.0.useLabel>-->
+  <!--<UnfinishedMartial.comps.0.useLabel>写</UnfinishedMartial.comps.0.useLabel>-->
+
+</LanguageData>

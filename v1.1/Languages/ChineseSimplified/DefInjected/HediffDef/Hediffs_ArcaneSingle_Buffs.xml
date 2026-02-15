@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Movement.label>arcane speed</TM_Movement.label>
+  <TM_Movement.description>Arcane power that augments a pawns movement speed.</TM_Movement.description>
+  <TM_Movement.stages.0.label>I</TM_Movement.stages.0.label>
+  <TM_Movement.stages.1.label>II</TM_Movement.stages.1.label>
+  <TM_Movement.stages.2.label>III</TM_Movement.stages.2.label>
+  <TM_Movement.stages.3.label>IV</TM_Movement.stages.3.label>
+  <TM_Movement.stages.4.label>V</TM_Movement.stages.4.label>
+
+  <TM_Manipulation.label>arcane dexterity</TM_Manipulation.label>
+  <TM_Manipulation.description>Arcane power that augments dexterity (manipulation).</TM_Manipulation.description>
+  <TM_Manipulation.stages.0.label>I</TM_Manipulation.stages.0.label>
+  <TM_Manipulation.stages.1.label>II</TM_Manipulation.stages.1.label>
+  <TM_Manipulation.stages.2.label>III</TM_Manipulation.stages.2.label>
+  <TM_Manipulation.stages.3.label>IV</TM_Manipulation.stages.3.label>
+  <TM_Manipulation.stages.4.label>V</TM_Manipulation.stages.4.label>
+
+  <TM_Breathing.label>infused oxygen</TM_Breathing.label>
+  <TM_Breathing.description>Arcane power that enhances the efficiency and capacity of breathing.</TM_Breathing.description>
+  <TM_Breathing.stages.0.label>I</TM_Breathing.stages.0.label>
+  <TM_Breathing.stages.1.label>II</TM_Breathing.stages.1.label>
+  <TM_Breathing.stages.2.label>III</TM_Breathing.stages.2.label>
+  <TM_Breathing.stages.3.label>IV</TM_Breathing.stages.3.label>
+  <TM_Breathing.stages.4.label>V</TM_Breathing.stages.4.label>
+
+  <TM_Sight.label>arcane vision</TM_Sight.label>
+  <TM_Sight.description>Arcane power that augments vision.</TM_Sight.description>
+  <TM_Sight.stages.0.label>I</TM_Sight.stages.0.label>
+  <TM_Sight.stages.1.label>II</TM_Sight.stages.1.label>
+  <TM_Sight.stages.2.label>III</TM_Sight.stages.2.label>
+  <TM_Sight.stages.3.label>IV</TM_Sight.stages.3.label>
+  <TM_Sight.stages.4.label>V</TM_Sight.stages.4.label>
+
+  <TM_AntiMovement.label>arcane slow</TM_AntiMovement.label>
+  <TM_AntiMovement.description>Arcane power that reduces movement.</TM_AntiMovement.description>
+  <TM_AntiMovement.stages.0.label>I</TM_AntiMovement.stages.0.label>
+  <TM_AntiMovement.stages.1.label>II</TM_AntiMovement.stages.1.label>
+  <TM_AntiMovement.stages.2.label>III</TM_AntiMovement.stages.2.label>
+  <TM_AntiMovement.stages.3.label>IV</TM_AntiMovement.stages.3.label>
+  <TM_AntiMovement.stages.4.label>overwhelmed</TM_AntiMovement.stages.4.label>
+
+  <TM_AntiManipulation.label>arcane cripple</TM_AntiManipulation.label>
+  <TM_AntiManipulation.description>Arcane power that reduces dexterity (manipulation).</TM_AntiManipulation.description>
+  <TM_AntiManipulation.stages.0.label>I</TM_AntiManipulation.stages.0.label>
+  <TM_AntiManipulation.stages.1.label>II</TM_AntiManipulation.stages.1.label>
+  <TM_AntiManipulation.stages.2.label>III</TM_AntiManipulation.stages.2.label>
+  <TM_AntiManipulation.stages.3.label>IV</TM_AntiManipulation.stages.3.label>
+  <TM_AntiManipulation.stages.4.label>overwhelmed</TM_AntiManipulation.stages.4.label>
+
+  <TM_AntiBreathing.label>arcane suffocation</TM_AntiBreathing.label>
+  <TM_AntiBreathing.description>Arcane power that diminishes the circulation of air.</TM_AntiBreathing.description>
+  <TM_AntiBreathing.stages.0.label>I</TM_AntiBreathing.stages.0.label>
+  <TM_AntiBreathing.stages.1.label>II</TM_AntiBreathing.stages.1.label>
+  <TM_AntiBreathing.stages.2.label>III</TM_AntiBreathing.stages.2.label>
+  <TM_AntiBreathing.stages.3.label>IV</TM_AntiBreathing.stages.3.label>
+  <TM_AntiBreathing.stages.4.label>overwhelmed</TM_AntiBreathing.stages.4.label>
+
+  <TM_AntiSight.label>arcane blind</TM_AntiSight.label>
+  <TM_AntiSight.description>Arcane power that decreases sight.</TM_AntiSight.description>
+  <TM_AntiSight.stages.0.label>I</TM_AntiSight.stages.0.label>
+  <TM_AntiSight.stages.1.label>II</TM_AntiSight.stages.1.label>
+  <TM_AntiSight.stages.2.label>III</TM_AntiSight.stages.2.label>
+  <TM_AntiSight.stages.3.label>IV</TM_AntiSight.stages.3.label>
+  <TM_AntiSight.stages.4.label>overwhelmed</TM_AntiSight.stages.4.label>
+
+  <TM_MuteHD.label>Magically Mute</TM_MuteHD.label>
+  <TM_MuteHD.description>A curse that prevents the use of magical abilities.</TM_MuteHD.description>
+  <TM_MuteHD.stages.0.label></TM_MuteHD.stages.0.label>
+
+
+</LanguageData>

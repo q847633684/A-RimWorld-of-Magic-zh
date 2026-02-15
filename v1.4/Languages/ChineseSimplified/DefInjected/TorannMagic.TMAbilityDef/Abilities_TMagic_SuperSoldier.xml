@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pistol Spec - ability is never used -->
+
+  <TM_PistolSpec.label>武器专精:手枪</TM_PistolSpec.label>
+  <TM_PistolSpec.description>武器专精:手枪\n这种专精提高了手枪的各个方面:精准、伤害、射击预热、射击次数、射程等等。\n当超级战士装备武器时，武器专精属性会自动生效。特殊武器在物品名称后面用“++”表示。</TM_PistolSpec.description>
+
+
+  <!-- Pistol Whip -->
+
+  <TM_PistolWhip.label>枪托之击</TM_PistolWhip.label>
+  <TM_PistolWhip.description>用枪托作为钝器的突然袭击;成功会击晕一个目标，让他们晕眩一小段时间，也可以卸下他们的武器。</TM_PistolWhip.description>
+
+
+  <!-- Rifle Spec - ability is never used -->
+
+  <TM_RifleSpec.label>武器专精:步枪 </TM_RifleSpec.label>
+  <TM_RifleSpec.description>武器专精:步枪\n这种专精提高了步枪的各个方面:精准、伤害、射击预热、射击次数、射程等等。\n当超级战士装备武器时，武器专精属性会自动生效。特殊武器在物品名称后面用“++”表示。</TM_RifleSpec.description>
+
+
+  <!-- Suppressing Fire -->
+
+  <TM_SuppressingFire.label>绝对火力</TM_SuppressingFire.label>
+  <TM_SuppressingFire.description>用密集的子弹压制敌人的阵地。</TM_SuppressingFire.description>
+
+
+  <!-- mk203 gl -->
+
+  <TM_Mk203GL.label>Mk203_GL</TM_Mk203GL.label>
+  <TM_Mk203GL.description>使用Mk203枪管下榴弹发射器发射榴弹。</TM_Mk203GL.description>
+
+
+  <!-- Shotgun Spec - ability is never used -->
+
+  <TM_ShotgunSpec.label>武器专精:霰弹枪</TM_ShotgunSpec.label>
+  <TM_ShotgunSpec.description>武器专精:霰弹枪\n这种专精提高了霰弹枪的各个方面:精准、伤害、射击预热、射击次数、射程等等。\n当超级战士装备武器时，武器专精属性会自动生效。特殊武器在物品名称后面用“++”表示。</TM_ShotgunSpec.description>
+
+
+  <!-- Buckshot -->
+
+  <TM_Buckshot.label>鹿弹</TM_Buckshot.label>
+  <TM_Buckshot.description>能发射多颗子弹的霰弹枪弹。在短时间内发射的子弹数量可能是毁灭性的，但很快就会消散。</TM_Buckshot.description>
+
+
+  <!-- Breaching Charge -->
+
+  <TM_BreachingCharge.label>逆反电荷</TM_BreachingCharge.label>
+  <TM_BreachingCharge.description>投掷一种专门的炸药，擅长摧毁建筑物或阻止敌人的集群。对建筑造成30倍伤害。</TM_BreachingCharge.description>
+
+
+  <!-- CQC -->
+
+  <TM_CQC.label>CQC</TM_CQC.label>
+  <TM_CQC.description>近距离战斗(CQC)是对士兵进行的一种常见的训练，使他们能够顺利地对近战范围内的敌人进行恶毒的连击攻击。</TM_CQC.description>
+
+
+  <!-- First Aid -->
+
+  <TM_FirstAid.label>自我援助</TM_FirstAid.label>
+  <TM_FirstAid.description>由于从血清中获得的基因增强，超级战士可以自助。这种能力使他们能够有意识地集中精力迅速处理伤口。</TM_FirstAid.description>
+
+
+  <!-- 60mm Mortar -->
+
+  <TM_60mmMortar.label>60毫米迫击炮</TM_60mmMortar.label>
+  <TM_60mmMortar.description>60毫米迫击炮可以很容易地由一个超级士兵运输和迅速部署，快速发射3轮，战斗开始前就削弱敌人。</TM_60mmMortar.description>
+
+
+</LanguageData>

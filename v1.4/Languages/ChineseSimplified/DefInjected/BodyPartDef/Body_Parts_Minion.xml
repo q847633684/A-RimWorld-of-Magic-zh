@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Minion_Head.label>头</Minion_Head.label>
+  <Minion_Brain.label>脑</Minion_Brain.label>
+  <Minion_Eye.label>眼睛</Minion_Eye.label>
+  <Minion_RightHorn.label>右犄角</Minion_RightHorn.label>
+  <Minion_LeftHorn.label>左犄角</Minion_LeftHorn.label>
+  <Minion_LeftArm.label>左臂</Minion_LeftArm.label>
+  <Minion_RightArm.label>右臂</Minion_RightArm.label>
+  <Minion_Mouth.label>嘴巴</Minion_Mouth.label>
+  <Minion_Jaw.label>下巴</Minion_Jaw.label>
+  <Minion_Core.label>核心</Minion_Core.label>
+
+
+</LanguageData>

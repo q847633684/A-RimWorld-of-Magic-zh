@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- leap as a flying object -->
+
+  <TM_CompVerb.label>secondary targeter</TM_CompVerb.label>
+  <TM_CompVerb.description>verb used in secondary targeting</TM_CompVerb.description>
+
+
+</LanguageData>

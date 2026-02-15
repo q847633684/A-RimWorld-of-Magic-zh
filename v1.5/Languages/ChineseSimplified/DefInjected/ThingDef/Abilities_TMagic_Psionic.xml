@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FlyingObject_PsionicLeap.label>灵能跳跃</FlyingObject_PsionicLeap.label>
+  <TM_Psionic_Projectile.label>投掷灵能</TM_Psionic_Projectile.label>
+
+
+  <!-- Psionic Barrier start -->
+
+  <TM_Projectile_PsionicBarrier.label>心灵屏障</TM_Projectile_PsionicBarrier.label>
+
+
+  <!-- Psionic Blast Start -->
+
+  <TM_Projectile_PsionicBlast.label>灵能爆炸</TM_Projectile_PsionicBlast.label>
+
+
+  <!-- Psionic Dash start -->
+
+  <FlyingObject_PsionicDash.label>灵能跃进</FlyingObject_PsionicDash.label>
+  <Projectile_PsionicDash.label>灵能跃进</Projectile_PsionicDash.label>
+
+
+  <!-- PsionicStorm -->
+
+  <FlyingObject_PsionicStorm.label>心灵风暴</FlyingObject_PsionicStorm.label>
+  <Projectile_PsionicStorm.label>心灵风暴</Projectile_PsionicStorm.label>
+  <FlyingObject_PsiStorm.label>心灵风暴</FlyingObject_PsiStorm.label>
+
+
+</LanguageData>

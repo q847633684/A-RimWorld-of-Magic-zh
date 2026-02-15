@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Work tables -->
+
+  <TableGemcutting.label>gemcrafting table</TableGemcutting.label>
+  <TableGemcutting.description>A workbench used for refining enchanting stones</TableGemcutting.description>
+  <TableGemcutting_Blueprint.label>gemcrafting table (blueprint)</TableGemcutting_Blueprint.label>
+  <TableGemcutting_Blueprint_Install.label>gemcrafting table (blueprint)</TableGemcutting_Blueprint_Install.label>
+  <TableGemcutting_Frame.label>gemcrafting table (building)</TableGemcutting_Frame.label>
+  <TableGemcutting_Frame.description>A workbench used for refining enchanting stones</TableGemcutting_Frame.description>
+
+  <TableMagicPrinter.label>scribing table</TableMagicPrinter.label>
+  <TableMagicPrinter.description>A printing press used to make books and scrolls.</TableMagicPrinter.description>
+  <TableMagicPrinter_Blueprint.label>scribing table (blueprint)</TableMagicPrinter_Blueprint.label>
+  <TableMagicPrinter_Blueprint_Install.label>scribing table (blueprint)</TableMagicPrinter_Blueprint_Install.label>
+  <TableMagicPrinter_Frame.label>scribing table (building)</TableMagicPrinter_Frame.label>
+  <TableMagicPrinter_Frame.description>A printing press used to make books and scrolls.</TableMagicPrinter_Frame.description>
+
+  <TableArcaneForge.label>arcane forge</TableArcaneForge.label>
+  <TableArcaneForge.description>The arcane forge allows a mage to wield raw arcane power to create material objects. 
+	
+Scientifically, the arcane forge might be described as a matter fabricator, though the exact mechanics have yet to be determined.  Only those possessing the ability to manipulate arcane power are able to use the arcane forge.
+
+Using the arcane forge dramatically increases crafting speed but consumes mana.  Items of quality are determined by the mage's intelligence skill and class level.</TableArcaneForge.description>
+  <TableArcaneForge_Blueprint.label>arcane forge (blueprint)</TableArcaneForge_Blueprint.label>
+  <TableArcaneForge_Blueprint_Install.label>arcane forge (blueprint)</TableArcaneForge_Blueprint_Install.label>
+  <TableArcaneForge_Frame.label>arcane forge (building)</TableArcaneForge_Frame.label>
+  <TableArcaneForge_Frame.description>The arcane forge allows a mage to wield raw arcane power to create material objects. 
+	
+Scientifically, the arcane forge might be described as a matter fabricator, though the exact mechanics have yet to be determined.  Only those possessing the ability to manipulate arcane power are able to use the arcane forge.
+
+Using the arcane forge dramatically increases crafting speed but consumes mana.  Items of quality are determined by the mage's intelligence skill and class level.</TableArcaneForge_Frame.description>
+
+  <TableMagicCircle.label>magic circle</TableMagicCircle.label>
+  <TableMagicCircle.description>The magic circle is a construct that amplifies magic by aligning the physical and arcane into a focal point. While it may seem simple, the circle is outlined with elaborate runes and constructed with detailed precision.
+
+Mages can use the magic circle to augment their power or combine their energy with other mages to create unique, powerful effects. The circle may accomodate up to six mages.
+
+The type of material used in construction directly affects the quality of the magic circle.
+Stone (any): no bonuses
+Steel: no bonus
+Wood: no bonus
+Jade: success chance +20%
+Silver: refunds 20% of material cost
+Plasteel: event points +15%
+Gold: event points +10%, duration +20%
+Uranium: duration and success chance +15%
+Arcalleum: success chance +10%, refunds 20% of mana cost
+
+*Admin note: the circle will fuel itself when it detects mages capable of performing the ritual.</TableMagicCircle.description>
+  <TableMagicCircle_Blueprint.label>magic circle (blueprint)</TableMagicCircle_Blueprint.label>
+  <TableMagicCircle_Frame.label>magic circle (building)</TableMagicCircle_Frame.label>
+  <TableMagicCircle_Frame.description>The magic circle is a construct that amplifies magic by aligning the physical and arcane into a focal point. While it may seem simple, the circle is outlined with elaborate runes and constructed with detailed precision.
+
+Mages can use the magic circle to augment their power or combine their energy with other mages to create unique, powerful effects. The circle may accomodate up to six mages.
+
+The type of material used in construction directly affects the quality of the magic circle.
+Stone (any): no bonuses
+Steel: no bonus
+Wood: no bonus
+Jade: success chance +20%
+Silver: refunds 20% of material cost
+Plasteel: event points +15%
+Gold: event points +10%, duration +20%
+Uranium: duration and success chance +15%
+Arcalleum: success chance +10%, refunds 20% of mana cost
+
+*Admin note: the circle will fuel itself when it detects mages capable of performing the ritual.</TableMagicCircle_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Blood Gift -->
+
+  <TM_BloodGift.label>血祭</TM_BloodGift.label>
+  <TM_BloodGift.description>血祭将造成深度切割，让你可以随时接触血液将鲜血和魔法混合，立即产生一定数量的血法力。\n  \n血法师可以在不使用法力的情况下，从流血的伤口中慢慢地产生血法力，也可以使用附近的新鲜血液来施展血魔法。\n\n血法师在不再流血的时候会慢慢失去血法力。</TM_BloodGift.description>
+
+
+  <!-- Ignite Blood -->
+
+  <TM_IgniteBlood.label>沸血咒</TM_IgniteBlood.label>
+  <TM_IgniteBlood.description>用强烈的火焰点燃任何暴露的血液。大火将蔓延到附近的血液中。</TM_IgniteBlood.description>
+
+
+  <!-- Blood For Blood -->
+
+  <TM_BloodForBlood.label>血债血偿</TM_BloodForBlood.label>
+  <TM_BloodForBlood.description>诅咒目标的血液加速过热从受害者的每个毛孔中渗出。施法者必须与目标具有相同的血液类型才能使用此法术。\n  \n从目标身上排出的血液会变成雾状，施法者可以吸收恢复法力，并修复伤口和补充血液储备。目标的伤口也会随着血液的流出而愈合。\n\n受害者每一次脉搏都会损失一部分血液,和任何伤口一样，如果损失过多血液，可能会导致瘫痪或死亡。施法者和受害者的治愈率都会增加,这取决于受害者流血的程度。\n\n当用于友军或敌方单位时，效果相同，但如果用于击倒或杀死盟军或中立单位时，则会引发愤怒。</TM_BloodForBlood.description>
+
+
+  <!-- Blood Shield -->
+
+  <TM_BloodShield.label>血魄护盾</TM_BloodShield.label>
+  <TM_BloodShield.description>用施法者的血液能量形成的屏障包围目标。来自护盾的能量将缓慢地再生它所保护的单位。对护盾造成的任何伤害都会分散一部分能量，但同时也会触发治疗受保护的单位。\n  \n血魄护盾吸收的一部分伤害将由血液链接而施加在施法者身上 - 包括逐渐愈合。只要支持护盾的血法师有血法力，任何返回的伤害都会减损血法力，但如果血法师没有血法力，返回的伤害会对血法师造成物理伤害。\n\n血法师不能在自己身上形成血魄护盾。</TM_BloodShield.description>
+
+
+  <!-- Rend -->
+
+  <TM_Rend.label>撕裂（I）</TM_Rend.label>
+  <TM_Rend.description>使目标的血液猛烈排斥其宿主，从多处伤口喷涌而出，造成大出血。\n		\n范围: 35\n半径: 3\n最多目标: 2\n冷却时间: 120\n发动时间: 2.4s</TM_Rend.description>
+
+  <TM_Rend_I.label>撕裂（II）</TM_Rend_I.label>
+  <TM_Rend_I.description>使目标的血液猛烈排斥其宿主,从多处伤口喷涌而出,造成大出血.\n		\n范围: 37\n半径: 3\n最多目标: 3\n冷却时间: 110\n发动时间: 2.2s</TM_Rend_I.description>
+
+  <TM_Rend_II.label>撕裂（III）</TM_Rend_II.label>
+  <TM_Rend_II.description>使目标的血液猛烈排斥其宿主，从多处伤口喷涌而出，造成大出血。\n		\n范围: 39\n半径: 3.8\n最多目标: 4\n冷却时间: 100\n发动时间: 2s</TM_Rend_II.description>
+
+  <TM_Rend_III.label>撕裂（IV）</TM_Rend_III.label>
+  <TM_Rend_III.description>使目标的血液猛烈排斥其宿主，从多处伤口喷涌而出，造成大出血。\n		\n范围: 41\n半径: 4\n最多目标: 5\n冷却时间: 90\n发动时间: 1.8s</TM_Rend_III.description>
+
+
+  <!-- Blood Moon -->
+
+  <TM_BloodMoon.label>腥红之月（I）</TM_BloodMoon.label>
+  <TM_BloodMoon.description>创造一个充满血魔法的区域，召唤愤怒和恐惧的恶魔来捕食里面的敌人。</TM_BloodMoon.description>
+
+  <TM_BloodMoon_I.label>腥红之月（II）</TM_BloodMoon_I.label>
+  <TM_BloodMoon_I.description>创造一个充满血魔法的区域，召唤愤怒和恐惧的恶魔来捕食里面的敌人。</TM_BloodMoon_I.description>
+
+  <TM_BloodMoon_II.label>腥红之月（III）</TM_BloodMoon_II.label>
+  <TM_BloodMoon_II.description>创造一个充满血魔法的区域，召唤愤怒和恐惧的恶魔来捕食里面的敌人。</TM_BloodMoon_II.description>
+
+  <TM_BloodMoon_III.label>腥红之月（IV）</TM_BloodMoon_III.label>
+  <TM_BloodMoon_III.description>创造一个充满血魔法的区域，召唤愤怒和恐惧的恶魔来捕食里面的敌人。</TM_BloodMoon_III.description>
+
+
+</LanguageData>

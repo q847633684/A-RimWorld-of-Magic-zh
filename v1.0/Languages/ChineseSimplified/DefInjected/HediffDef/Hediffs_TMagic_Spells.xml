@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <HediffDef ParentName="TM_InjuryBase" Name="CleaveInjuryBase" Abstract="True">
+    <hediffClass>TorannMagic.Hediff_CleaveInjury</hediffClass>
+    <tendable>true</tendable>
+    <displayWound>true</displayWound>
+  </HediffDef>
+	
+  <ToolCapacityDef>
+    <defName>TM_ThrumboCleave</defName>
+    <label>cleaving</label>
+  </ToolCapacityDef> -->
+
+  <TM_ArcaneHD.label>arcane</TM_ArcaneHD.label>
+  <TM_ArcaneHD.comps.0.labelTendedWell>bandaged</TM_ArcaneHD.comps.0.labelTendedWell>
+  <TM_ArcaneHD.comps.0.labelTendedWellInner>sutured</TM_ArcaneHD.comps.0.labelTendedWellInner>
+  <TM_ArcaneHD.comps.0.labelSolidTendedWell>set</TM_ArcaneHD.comps.0.labelSolidTendedWell>
+  <TM_ArcaneHD.injuryProps.destroyedLabel>blasted off</TM_ArcaneHD.injuryProps.destroyedLabel>
+  <TM_ArcaneHD.injuryProps.destroyedOutLabel>blasted out</TM_ArcaneHD.injuryProps.destroyedOutLabel>
+
+  <TM_ThrumboCleave.label>cleave</TM_ThrumboCleave.label>
+  <TM_ThrumboCleave.comps.0.labelTendedWell>bandaged</TM_ThrumboCleave.comps.0.labelTendedWell>
+  <TM_ThrumboCleave.comps.0.labelTendedWellInner>sutured</TM_ThrumboCleave.comps.0.labelTendedWellInner>
+  <TM_ThrumboCleave.comps.0.labelSolidTendedWell>set</TM_ThrumboCleave.comps.0.labelSolidTendedWell>
+  <TM_ThrumboCleave.injuryProps.destroyedLabel>Sliced off</TM_ThrumboCleave.injuryProps.destroyedLabel>
+  <TM_ThrumboCleave.injuryProps.destroyedOutLabel>Sliced out</TM_ThrumboCleave.injuryProps.destroyedOutLabel>
+  <TM_ThrumboCleave.labelNoun>a massive wound</TM_ThrumboCleave.labelNoun>
+
+  <TM_BlazingPowerHD.label>Blazing Power</TM_BlazingPowerHD.label>
+  <TM_BlazingPowerHD.comps.0.labelTendedWell>bandaged</TM_BlazingPowerHD.comps.0.labelTendedWell>
+  <TM_BlazingPowerHD.comps.0.labelTendedWellInner>sutured</TM_BlazingPowerHD.comps.0.labelTendedWellInner>
+  <TM_BlazingPowerHD.comps.0.labelSolidTendedWell>set</TM_BlazingPowerHD.comps.0.labelSolidTendedWell>
+  <TM_BlazingPowerHD.injuryProps.destroyedLabel>destroyed</TM_BlazingPowerHD.injuryProps.destroyedLabel>
+  <TM_BlazingPowerHD.injuryProps.destroyedOutLabel>destroyed</TM_BlazingPowerHD.injuryProps.destroyedOutLabel>
+
+  <TM_Holy.label>Holy Wrath</TM_Holy.label>
+  <TM_Holy.comps.0.labelTendedWell>bandaged</TM_Holy.comps.0.labelTendedWell>
+  <TM_Holy.comps.0.labelTendedWellInner>sutured</TM_Holy.comps.0.labelTendedWellInner>
+  <TM_Holy.comps.0.labelSolidTendedWell>set</TM_Holy.comps.0.labelSolidTendedWell>
+  <TM_Holy.injuryProps.destroyedLabel>burned off</TM_Holy.injuryProps.destroyedLabel>
+  <TM_Holy.injuryProps.destroyedOutLabel>burned out</TM_Holy.injuryProps.destroyedOutLabel>
+
+  <TM_SpiritHD.label>Spirit</TM_SpiritHD.label>
+  <TM_SpiritHD.comps.0.labelTendedWell>bandaged</TM_SpiritHD.comps.0.labelTendedWell>
+  <TM_SpiritHD.comps.0.labelTendedWellInner>sutured</TM_SpiritHD.comps.0.labelTendedWellInner>
+  <TM_SpiritHD.comps.0.labelSolidTendedWell>set</TM_SpiritHD.comps.0.labelSolidTendedWell>
+  <TM_SpiritHD.injuryProps.destroyedLabel>lifeless</TM_SpiritHD.injuryProps.destroyedLabel>
+  <TM_SpiritHD.injuryProps.destroyedOutLabel>lifeless</TM_SpiritHD.injuryProps.destroyedOutLabel>
+
+  <TM_MagicMissile.label>Magic Missile</TM_MagicMissile.label>
+  <TM_MagicMissile.comps.0.labelTendedWell>bandaged</TM_MagicMissile.comps.0.labelTendedWell>
+  <TM_MagicMissile.comps.0.labelTendedWellInner>sutured</TM_MagicMissile.comps.0.labelTendedWellInner>
+  <TM_MagicMissile.comps.0.labelSolidTendedWell>set</TM_MagicMissile.comps.0.labelSolidTendedWell>
+  <TM_MagicMissile.injuryProps.destroyedLabel>sliced off</TM_MagicMissile.injuryProps.destroyedLabel>
+  <TM_MagicMissile.injuryProps.destroyedOutLabel>cut out</TM_MagicMissile.injuryProps.destroyedOutLabel>
+
+  <TM_ManaMine.label>mana explosion</TM_ManaMine.label>
+  <TM_ManaMine.comps.0.labelTendedWell>bandaged</TM_ManaMine.comps.0.labelTendedWell>
+  <TM_ManaMine.comps.0.labelTendedWellInner>sutured</TM_ManaMine.comps.0.labelTendedWellInner>
+  <TM_ManaMine.comps.0.labelSolidTendedWell>set</TM_ManaMine.comps.0.labelSolidTendedWell>
+  <TM_ManaMine.injuryProps.destroyedLabel>blasted off</TM_ManaMine.injuryProps.destroyedLabel>
+  <TM_ManaMine.injuryProps.destroyedOutLabel>burned out</TM_ManaMine.injuryProps.destroyedOutLabel>
+
+  <TM_Firebolt.label>Firebolt</TM_Firebolt.label>
+  <TM_Firebolt.comps.0.labelTendedWell>bandaged</TM_Firebolt.comps.0.labelTendedWell>
+  <TM_Firebolt.comps.0.labelTendedWellInner>sutured</TM_Firebolt.comps.0.labelTendedWellInner>
+  <TM_Firebolt.comps.0.labelSolidTendedWell>set</TM_Firebolt.comps.0.labelSolidTendedWell>
+  <TM_Firebolt.injuryProps.destroyedLabel>burned</TM_Firebolt.injuryProps.destroyedLabel>
+  <TM_Firebolt.injuryProps.destroyedOutLabel>burned out</TM_Firebolt.injuryProps.destroyedOutLabel>
+
+  <TM_LightningCloud.label>Lightning</TM_LightningCloud.label>
+  <TM_LightningCloud.comps.0.labelTendedWell>bandaged</TM_LightningCloud.comps.0.labelTendedWell>
+  <TM_LightningCloud.comps.0.labelTendedWellInner>sutured</TM_LightningCloud.comps.0.labelTendedWellInner>
+  <TM_LightningCloud.comps.0.labelSolidTendedWell>set</TM_LightningCloud.comps.0.labelSolidTendedWell>
+  <TM_LightningCloud.injuryProps.destroyedLabel>melted</TM_LightningCloud.injuryProps.destroyedLabel>
+  <TM_LightningCloud.injuryProps.destroyedOutLabel>burned out</TM_LightningCloud.injuryProps.destroyedOutLabel>
+
+  <TM_Lightning.label>Lightning</TM_Lightning.label>
+  <TM_Lightning.comps.0.labelTendedWell>bandaged</TM_Lightning.comps.0.labelTendedWell>
+  <TM_Lightning.comps.0.labelTendedWellInner>sutured</TM_Lightning.comps.0.labelTendedWellInner>
+  <TM_Lightning.comps.0.labelSolidTendedWell>set</TM_Lightning.comps.0.labelSolidTendedWell>
+  <TM_Lightning.injuryProps.destroyedLabel>melted</TM_Lightning.injuryProps.destroyedLabel>
+  <TM_Lightning.injuryProps.destroyedOutLabel>burned out</TM_Lightning.injuryProps.destroyedOutLabel>
+
+  <FrostRay.label>frostray</FrostRay.label>
+  <FrostRay.comps.0.labelTendedWell>bandaged</FrostRay.comps.0.labelTendedWell>
+  <FrostRay.comps.0.labelTendedWellInner>sutured</FrostRay.comps.0.labelTendedWellInner>
+  <FrostRay.comps.0.labelSolidTendedWell>set</FrostRay.comps.0.labelSolidTendedWell>
+  <FrostRay.injuryProps.destroyedLabel>frozen off</FrostRay.injuryProps.destroyedLabel>
+  <FrostRay.injuryProps.destroyedOutLabel>Shattered</FrostRay.injuryProps.destroyedOutLabel>
+
+  <Snowball.label>snowball</Snowball.label>
+  <Snowball.comps.0.labelTendedWell>bandaged</Snowball.comps.0.labelTendedWell>
+  <Snowball.comps.0.labelTendedWellInner>sutured</Snowball.comps.0.labelTendedWellInner>
+  <Snowball.comps.0.labelSolidTendedWell>set</Snowball.comps.0.labelSolidTendedWell>
+  <Snowball.injuryProps.destroyedLabel>frozen off</Snowball.injuryProps.destroyedLabel>
+  <Snowball.injuryProps.destroyedOutLabel>Shattered</Snowball.injuryProps.destroyedOutLabel>
+
+  <Blizzard.label>blizzard</Blizzard.label>
+  <Blizzard.comps.0.labelTendedWell>bandaged</Blizzard.comps.0.labelTendedWell>
+  <Blizzard.comps.0.labelTendedWellInner>sutured</Blizzard.comps.0.labelTendedWellInner>
+  <Blizzard.comps.0.labelSolidTendedWell>set</Blizzard.comps.0.labelSolidTendedWell>
+  <Blizzard.injuryProps.destroyedLabel>frozen</Blizzard.injuryProps.destroyedLabel>
+  <Blizzard.injuryProps.destroyedOutLabel>shattered</Blizzard.injuryProps.destroyedOutLabel>
+
+  <Iceshard.label>iceshard</Iceshard.label>
+  <Iceshard.comps.0.labelTendedWell>bandaged</Iceshard.comps.0.labelTendedWell>
+  <Iceshard.comps.0.labelTendedWellInner>sutured</Iceshard.comps.0.labelTendedWellInner>
+  <Iceshard.comps.0.labelSolidTendedWell>set</Iceshard.comps.0.labelSolidTendedWell>
+  <Iceshard.injuryProps.destroyedLabel>Shredded</Iceshard.injuryProps.destroyedLabel>
+  <Iceshard.injuryProps.destroyedOutLabel>Torn to shreds</Iceshard.injuryProps.destroyedOutLabel>
+
+  <TM_GrapplingHook.label>Grappling Hook</TM_GrapplingHook.label>
+  <TM_GrapplingHook.comps.0.labelTendedWell>bandaged</TM_GrapplingHook.comps.0.labelTendedWell>
+  <TM_GrapplingHook.comps.0.labelTendedWellInner>sutured</TM_GrapplingHook.comps.0.labelTendedWellInner>
+  <TM_GrapplingHook.comps.0.labelSolidTendedWell>set</TM_GrapplingHook.comps.0.labelSolidTendedWell>
+  <TM_GrapplingHook.injuryProps.destroyedLabel>torn off</TM_GrapplingHook.injuryProps.destroyedLabel>
+  <TM_GrapplingHook.injuryProps.destroyedOutLabel>torn out</TM_GrapplingHook.injuryProps.destroyedOutLabel>
+
+  <TM_Whirlwind_Knockdown.label>Whirlwind Knockdown</TM_Whirlwind_Knockdown.label>
+  <TM_Whirlwind_Knockdown.comps.0.labelTendedWell>bandaged</TM_Whirlwind_Knockdown.comps.0.labelTendedWell>
+  <TM_Whirlwind_Knockdown.comps.0.labelTendedWellInner>sutured</TM_Whirlwind_Knockdown.comps.0.labelTendedWellInner>
+  <TM_Whirlwind_Knockdown.comps.0.labelSolidTendedWell>set</TM_Whirlwind_Knockdown.comps.0.labelSolidTendedWell>
+  <TM_Whirlwind_Knockdown.injuryProps.destroyedLabel>sliced off</TM_Whirlwind_Knockdown.injuryProps.destroyedLabel>
+  <TM_Whirlwind_Knockdown.injuryProps.destroyedOutLabel>cut out</TM_Whirlwind_Knockdown.injuryProps.destroyedOutLabel>
+
+  <TM_DisablingShot_HD.label>disabling shot</TM_DisablingShot_HD.label>
+  <TM_DisablingShot_HD.comps.0.labelTendedWell>bandaged</TM_DisablingShot_HD.comps.0.labelTendedWell>
+  <TM_DisablingShot_HD.comps.0.labelTendedWellInner>sutured</TM_DisablingShot_HD.comps.0.labelTendedWellInner>
+  <TM_DisablingShot_HD.comps.0.labelSolidTendedWell>set</TM_DisablingShot_HD.comps.0.labelSolidTendedWell>
+  <TM_DisablingShot_HD.injuryProps.destroyedLabel>shot off</TM_DisablingShot_HD.injuryProps.destroyedLabel>
+  <TM_DisablingShot_HD.injuryProps.destroyedOutLabel>shot out</TM_DisablingShot_HD.injuryProps.destroyedOutLabel>
+
+  <TM_arcaneSpectre.label>spirit cut</TM_arcaneSpectre.label>
+  <TM_arcaneSpectre.comps.0.labelTendedWell>bandaged</TM_arcaneSpectre.comps.0.labelTendedWell>
+  <TM_arcaneSpectre.comps.0.labelTendedWellInner>sutured</TM_arcaneSpectre.comps.0.labelTendedWellInner>
+  <TM_arcaneSpectre.comps.0.labelSolidTendedWell>set</TM_arcaneSpectre.comps.0.labelSolidTendedWell>
+  <TM_arcaneSpectre.injuryProps.destroyedLabel>Cut off</TM_arcaneSpectre.injuryProps.destroyedLabel>
+  <TM_arcaneSpectre.injuryProps.destroyedOutLabel>Cut out</TM_arcaneSpectre.injuryProps.destroyedOutLabel>
+  <TM_arcaneSpectre.labelNoun>a cut</TM_arcaneSpectre.labelNoun>
+
+  <TM_BloodyCutHD.label>bloody cut</TM_BloodyCutHD.label>
+  <TM_BloodyCutHD.comps.0.labelTendedWell>bandaged</TM_BloodyCutHD.comps.0.labelTendedWell>
+  <TM_BloodyCutHD.comps.0.labelTendedWellInner>sutured</TM_BloodyCutHD.comps.0.labelTendedWellInner>
+  <TM_BloodyCutHD.comps.0.labelSolidTendedWell>set</TM_BloodyCutHD.comps.0.labelSolidTendedWell>
+  <TM_BloodyCutHD.injuryProps.destroyedLabel>Cut off</TM_BloodyCutHD.injuryProps.destroyedLabel>
+  <TM_BloodyCutHD.injuryProps.destroyedOutLabel>Cut out</TM_BloodyCutHD.injuryProps.destroyedOutLabel>
+  <TM_BloodyCutHD.labelNoun>a bloody cut</TM_BloodyCutHD.labelNoun>
+
+  <TM_DisablingBlowHD.label>disabling blow</TM_DisablingBlowHD.label>
+  <TM_DisablingBlowHD.comps.0.labelTendedWell>bandaged</TM_DisablingBlowHD.comps.0.labelTendedWell>
+  <TM_DisablingBlowHD.comps.0.labelTendedWellInner>sutured</TM_DisablingBlowHD.comps.0.labelTendedWellInner>
+  <TM_DisablingBlowHD.comps.0.labelSolidTendedWell>set</TM_DisablingBlowHD.comps.0.labelSolidTendedWell>
+  <TM_DisablingBlowHD.injuryProps.destroyedLabel>smashed</TM_DisablingBlowHD.injuryProps.destroyedLabel>
+  <TM_DisablingBlowHD.injuryProps.destroyedOutLabel>crushed</TM_DisablingBlowHD.injuryProps.destroyedOutLabel>
+
+  <TM_ChiBurnHD.label>Chi burn</TM_ChiBurnHD.label>
+  <TM_ChiBurnHD.comps.0.labelTendedWell>bandaged</TM_ChiBurnHD.comps.0.labelTendedWell>
+  <TM_ChiBurnHD.comps.0.labelTendedWellInner>sutured</TM_ChiBurnHD.comps.0.labelTendedWellInner>
+  <TM_ChiBurnHD.comps.0.labelSolidTendedWell>set</TM_ChiBurnHD.comps.0.labelSolidTendedWell>
+  <TM_ChiBurnHD.injuryProps.destroyedLabel>burned</TM_ChiBurnHD.injuryProps.destroyedLabel>
+  <TM_ChiBurnHD.injuryProps.destroyedOutLabel>disintegrated</TM_ChiBurnHD.injuryProps.destroyedOutLabel>
+
+  <TM_ChiFistHD.label>strike</TM_ChiFistHD.label>
+  <TM_ChiFistHD.comps.0.labelTendedWell>tended</TM_ChiFistHD.comps.0.labelTendedWell>
+  <TM_ChiFistHD.comps.0.labelTendedWellInner>sutured</TM_ChiFistHD.comps.0.labelTendedWellInner>
+  <TM_ChiFistHD.comps.0.labelSolidTendedWell>set</TM_ChiFistHD.comps.0.labelSolidTendedWell>
+  <TM_ChiFistHD.injuryProps.destroyedLabel>broken</TM_ChiFistHD.injuryProps.destroyedLabel>
+  <TM_ChiFistHD.injuryProps.destroyedOutLabel>removed</TM_ChiFistHD.injuryProps.destroyedOutLabel>
+
+
+</LanguageData>

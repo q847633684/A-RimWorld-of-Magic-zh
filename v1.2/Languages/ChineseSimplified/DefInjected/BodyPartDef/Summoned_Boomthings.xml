@@ -1,0 +1,347 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- <ThingDef ParentName="AnimalThingBase">
+    <defName>Poppi</defName>
+    <label>poppi</label>
+    <description>Deceptively harmless and impossibly cute, these little critters want nothing more than to bound into your arms and light up your life.</description>
+    <statBases>
+      <MoveSpeed>25</MoveSpeed>
+      <ComfyTemperatureMin>-30</ComfyTemperatureMin>
+      <MarketValue>130</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>snuggle</label>
+        <capacities>
+          <li>Snuggle</li>
+        </capacities>
+        <power>3</power>
+        <cooldownTime>.4</cooldownTime>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPaws</body>
+      <deathActionWorkerClass>TorannMagic.Poppi_DeathWorker</deathActionWorkerClass>
+      <baseBodySize>0.2</baseBodySize>
+      <baseHungerRate>0.35</baseHungerRate>
+      <baseHealthScale>0.4</baseHealthScale>
+      <foodType>OmnivoreRoughAnimal</foodType>
+      <leatherColor>(255,215,0)</leatherColor>
+      <leatherInsulation>1.5</leatherInsulation>
+      <executionRange>5</executionRange>
+      <wildness>0.6</wildness>
+      <mateMtbHours>4</mateMtbHours>
+      <nuzzleMtbHours>40</nuzzleMtbHours>
+      <canBePredatorPrey>false</canBePredatorPrey>
+      <gestationPeriodDays>2</gestationPeriodDays>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 1)</li>
+          <li>(1, 4)</li>
+          <li>(5, 3)</li>
+          <li>(5.5, 2)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>8</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.1</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.35</minAge>
+          <soundWounded>Pawn_Boomrat_Wounded</soundWounded>
+          <soundDeath>Pawn_Boomrat_Death</soundDeath>
+          <soundCall>Pawn_Boomrat_Call</soundCall>
+          <soundAngry>Pawn_Boomrat_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+	<comps>
+		<li Class = "CompLumbering.CompProperties_Lumbering">
+			<cycledGraphic>
+				<texPath>PawnKind/poppi_cycle</texPath>
+				<graphicClass>Graphic_Multi</graphicClass>
+				<drawSize>1</drawSize>
+				<shadowData>
+					<volume>(0.19, 0.26, 0.19)</volume>
+				</shadowData>
+			</cycledGraphic>
+		  <secondsPerStep>.2</secondsPerStep>
+		  <secondsBetweenSteps>0.4</secondsBetweenSteps>	  
+		</li>
+		<li Class = "TorannMagic.CompProperties_Leaper">
+		  <leapRangeMax>12</leapRangeMax>
+		  <leapRangeMin>2.5</leapRangeMin>
+		  <bouncingLeaper>false</bouncingLeaper>
+		  <ticksBetweenLeapChance>120</ticksBetweenLeapChance>		  
+		  <leapChance>0.60</leapChance>
+		  <textMotes>true</textMotes>
+		</li>		
+    </comps>
+    <tradeTags>
+      <li>BadassAnimal</li>
+    </tradeTags>
+  </ThingDef>
+
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>Poppi</defName>
+    <label>poppi</label>
+    <race>Poppi</race>
+    <combatPower>60</combatPower>
+    <wildSpawn_EcoSystemWeight>1.2</wildSpawn_EcoSystemWeight>
+    <wildSpawn_spawnWild>true</wildSpawn_spawnWild>
+    <lifeStages>
+      <li>
+        <bodyGraphicData>
+          <texPath>PawnKind/poppi</texPath>
+          <color>(255,248,210)</color>
+          <drawSize>1</drawSize>
+          <shaderType>CutoutComplex</shaderType>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedSmall</texPath>
+          <drawSize>1</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>PawnKind/poppi</texPath>
+          <color>(255,248,193)</color>
+          <drawSize>1.0</drawSize>
+          <shaderType>CutoutComplex</shaderType>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedSmall</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>PawnKind/poppi</texPath>
+          <color>(255,248,193)</color>
+          <drawSize>1</drawSize>
+          <shaderType>CutoutComplex</shaderType>
+          <shadowData>
+            <volume>(0.21, 0.27, 0.21)</volume>
+            <offset>(0,0,0)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedSmall</texPath>
+          <drawSize>1.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef> -->
+  <!--原中文: '身体', 原英文: '无' -> 新英文: 'body',更新于2026-02-14-->
+  <!--EN: body-->
+  <TM_PoppiBody.label>身体</TM_PoppiBody.label>
+  <!--原中文: '尾', 原英文: '无' -> 新英文: 'tail',更新于2026-02-14-->
+  <!--EN: tail-->
+  <TM_PoppiTail.label>尾</TM_PoppiTail.label>
+  <!--原中文: '爪', 原英文: '无' -> 新英文: 'paw',更新于2026-02-14-->
+  <!--EN: paw-->
+  <TM_PoppiPaw.label>爪</TM_PoppiPaw.label>
+  <!--原中文: '头', 原英文: '无' -> 新英文: 'head',更新于2026-02-14-->
+  <!--EN: head-->
+  <TM_PoppiHead.label>头</TM_PoppiHead.label>
+  <!--原中文: '颅骨', 原英文: '无' -> 新英文: 'skull',更新于2026-02-14-->
+  <!--EN: skull-->
+  <TM_PoppiSkull.label>颅骨</TM_PoppiSkull.label>
+  <!--原中文: '脑', 原英文: '无' -> 新英文: 'brain',更新于2026-02-14-->
+  <!--EN: brain-->
+  <TM_PoppiBrain.label>脑</TM_PoppiBrain.label>
+  <!--原中文: '眼', 原英文: '无' -> 新英文: 'eye',更新于2026-02-14-->
+  <!--EN: eye-->
+  <TM_PoppiEye.label>眼</TM_PoppiEye.label>
+  <!--原中文: '耳', 原英文: '无' -> 新英文: 'ear',更新于2026-02-14-->
+  <!--EN: ear-->
+  <TM_PoppiEar.label>耳</TM_PoppiEar.label>
+  <!--原中文: '鼻', 原英文: '无' -> 新英文: 'nose',更新于2026-02-14-->
+  <!--EN: nose-->
+  <TM_PoppiNose.label>鼻</TM_PoppiNose.label>
+  <!--原中文: '颌', 原英文: '无' -> 新英文: 'jaw',更新于2026-02-14-->
+  <!--EN: jaw-->
+  <TM_PoppiAnimalJaw.label>颌</TM_PoppiAnimalJaw.label>
+  <!--原中文: '脖', 原英文: '无' -> 新英文: 'neck',更新于2026-02-14-->
+  <!--EN: neck-->
+  <TM_PoppiNeck.label>脖</TM_PoppiNeck.label>
+  <!--原中文: '胸腔', 原英文: '无' -> 新英文: 'ribcage',更新于2026-02-14-->
+  <!--EN: ribcage-->
+  <TM_PoppiRibcage.label>胸腔</TM_PoppiRibcage.label>
+  <!--原中文: '脊柱', 原英文: '无' -> 新英文: 'spine',更新于2026-02-14-->
+  <!--EN: spine-->
+  <TM_PoppiSpine.label>脊柱</TM_PoppiSpine.label>
+  <!--原中文: '腿', 原英文: '无' -> 新英文: 'leg',更新于2026-02-14-->
+  <!--EN: leg-->
+  <TM_PoppiLeg.label>腿</TM_PoppiLeg.label>
+  <!--原中文: '脚', 原英文: '无' -> 新英文: 'foot',更新于2026-02-14-->
+  <!--EN: foot-->
+  <TM_PoppiFoot.label>脚</TM_PoppiFoot.label>
+  <!--原中文: '心', 原英文: '无' -> 新英文: 'heart',更新于2026-02-14-->
+  <!--EN: heart-->
+  <TM_PoppiHeart.label>心</TM_PoppiHeart.label>
+  <!--原中文: '肺', 原英文: '无' -> 新英文: 'lung',更新于2026-02-14-->
+  <!--EN: lung-->
+  <TM_PoppiLung.label>肺</TM_PoppiLung.label>
+  <!--原中文: '肾', 原英文: '无' -> 新英文: 'kidney',更新于2026-02-14-->
+  <!--EN: kidney-->
+  <TM_PoppiKidney.label>肾</TM_PoppiKidney.label>
+  <!--原中文: '肝脏', 原英文: '无' -> 新英文: 'liver',更新于2026-02-14-->
+  <!--EN: liver-->
+  <TM_PoppiLiver.label>肝脏</TM_PoppiLiver.label>
+  <!--原中文: '胃', 原英文: '无' -> 新英文: 'stomach',更新于2026-02-14-->
+  <!--EN: stomach-->
+  <TM_PoppiStomach.label>胃</TM_PoppiStomach.label>
+  <!-- <ThingDef ParentName="AnimalThingBase">
+    <defName>Poppi</defName>
+    <label>poppi</label>
+    <description>Deceptively harmless and impossibly cute, these little critters want nothing more than to bound into your arms and light up your life.</description>
+    <statBases>
+      <MoveSpeed>25</MoveSpeed>
+      <ComfyTemperatureMin>-30</ComfyTemperatureMin>
+      <MarketValue>130</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>snuggle</label>
+        <capacities>
+          <li>Snuggle</li>
+        </capacities>
+        <power>3</power>
+        <cooldownTime>.4</cooldownTime>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPaws</body>
+      <deathActionWorkerClass>TorannMagic.Poppi_DeathWorker</deathActionWorkerClass>
+      <baseBodySize>0.2</baseBodySize>
+      <baseHungerRate>0.35</baseHungerRate>
+      <baseHealthScale>0.4</baseHealthScale>
+      <foodType>OmnivoreRoughAnimal</foodType>
+      <leatherColor>(255,215,0)</leatherColor>
+      <leatherInsulation>1.5</leatherInsulation>
+      <executionRange>5</executionRange>
+      <wildness>0.6</wildness>
+      <mateMtbHours>4</mateMtbHours>
+      <nuzzleMtbHours>40</nuzzleMtbHours>
+      <canBePredatorPrey>false</canBePredatorPrey>
+      <gestationPeriodDays>2</gestationPeriodDays>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 1)</li>
+          <li>(1, 4)</li>
+          <li>(5, 3)</li>
+          <li>(5.5, 2)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>8</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.1</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.35</minAge>
+          <soundWounded>Pawn_Boomrat_Wounded</soundWounded>
+          <soundDeath>Pawn_Boomrat_Death</soundDeath>
+          <soundCall>Pawn_Boomrat_Call</soundCall>
+          <soundAngry>Pawn_Boomrat_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+	<comps>
+		<li Class = "CompLumbering.CompProperties_Lumbering">
+			<cycledGraphic>
+				<texPath>PawnKind/poppi_cycle</texPath>
+				<graphicClass>Graphic_Multi</graphicClass>
+				<drawSize>1</drawSize>
+				<shadowData>
+					<volume>(0.19, 0.26, 0.19)</volume>
+				</shadowData>
+			</cycledGraphic>
+		  <secondsPerStep>.2</secondsPerStep>
+		  <secondsBetweenSteps>0.4</secondsBetweenSteps>
+		</li>
+		<li Class = "TorannMagic.CompProperties_Leaper">
+		  <leapRangeMax>12</leapRangeMax>
+		  <leapRangeMin>2.5</leapRangeMin>
+		  <bouncingLeaper>false</bouncingLeaper>
+		  <ticksBetweenLeapChance>120</ticksBetweenLeapChance>
+		  <leapChance>0.60</leapChance>
+		  <textMotes>true</textMotes>
+		</li>
+    </comps>
+    <tradeTags>
+      <li>BadassAnimal</li>
+    </tradeTags>
+  </ThingDef>
+
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>Poppi</defName>
+    <label>poppi</label>
+    <race>Poppi</race>
+    <combatPower>60</combatPower>
+    <wildSpawn_EcoSystemWeight>1.2</wildSpawn_EcoSystemWeight>
+    <wildSpawn_spawnWild>true</wildSpawn_spawnWild>
+    <lifeStages>
+      <li>
+        <bodyGraphicData>
+          <texPath>PawnKind/poppi</texPath>
+          <color>(255,248,210)</color>
+          <drawSize>1</drawSize>
+          <shaderType>CutoutComplex</shaderType>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedSmall</texPath>
+          <drawSize>1</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>PawnKind/poppi</texPath>
+          <color>(255,248,193)</color>
+          <drawSize>1.0</drawSize>
+          <shaderType>CutoutComplex</shaderType>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedSmall</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>PawnKind/poppi</texPath>
+          <color>(255,248,193)</color>
+          <drawSize>1</drawSize>
+          <shaderType>CutoutComplex</shaderType>
+          <shadowData>
+            <volume>(0.21, 0.27, 0.21)</volume>
+            <offset>(0,0,0)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Dessicated/CritterDessicatedSmall</texPath>
+          <drawSize>1.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef> -->
+</LanguageData>

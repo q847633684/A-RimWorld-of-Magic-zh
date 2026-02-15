@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sentinel_Body.label>body</Sentinel_Body.label>
+  <Sentinel_Head.label>head</Sentinel_Head.label>
+  <Sentinel_Skull.label>skull</Sentinel_Skull.label>
+  <Sentinel_Brain.label>brain</Sentinel_Brain.label>
+
+
+  <!-- <BodyPartDef>
+    <defName>Sentinel_Heart</defName>
+    <label>heart</label>
+    <hitPoints>30</hitPoints>
+    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
+    <bleedRate>5</bleedRate>
+    <skinCovered>false</skinCovered>
+    <tags>
+      <li>BloodPumpingSource</li>
+      <li>BloodFiltrationSource</li>
+      <li>MetabolismSource</li>
+      <li>BreathingSource</li>
+    </tags>
+  </BodyPartDef> -->
+
+  <Sentinel_LeftArm.label>left arm</Sentinel_LeftArm.label>
+  <Sentinel_RightArm.label>right arm</Sentinel_RightArm.label>
+  <Sentinel_LeftEye.label>left eye</Sentinel_LeftEye.label>
+  <Sentinel_RightEye.label>right eye</Sentinel_RightEye.label>
+  <Sentinel_LeftEar.label>left ear</Sentinel_LeftEar.label>
+  <Sentinel_RightEar.label>right ear</Sentinel_RightEar.label>
+  <Sentinel_Jaw.label>jaw</Sentinel_Jaw.label>
+  <Sentinel_Neck.label>neck</Sentinel_Neck.label>
+  <Sentinel_Spine.label>spine</Sentinel_Spine.label>
+  <Sentinel_Abdomen.label>abdomen</Sentinel_Abdomen.label>
+  <Sentinel_Chest.label>chest</Sentinel_Chest.label>
+  <Sentinel_Base.label>sentinel legs</Sentinel_Base.label>
+
+
+</LanguageData>

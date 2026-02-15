@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wayfarer -->
+
+  <TM_WayfarerCraft.label>旅行者</TM_WayfarerCraft.label>
+  <TM_WayfarerCraft.description>通过训练和努力工作增加属性。有关详细信息，请参见技能。</TM_WayfarerCraft.description>
+
+
+  <!-- Field Training -->
+
+  <TM_FieldTraining.label>作战训练</TM_FieldTraining.label>
+  <TM_FieldTraining.description>旅行者没有特定的战技，相反，他们擅长一般战斗。\n\n\n\n一般的战斗技巧被大多数战士放弃作为补充技能，不需要额外的技能训练。旅行者采取另一种方法；通过投入时间和精力来理解这些战斗技能，旅行者能够提高几乎所有的通用能力，在效用，力量和效率。\n\n\n\n有关详细信息，请参见技能。</TM_FieldTraining.description>
+
+
+</LanguageData>

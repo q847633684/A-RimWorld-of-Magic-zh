@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- demon special attack manuevers -->
+
+  <TM_DemonR.label>恶魔</TM_DemonR.label>
+  <TM_DemonR.description>从地狱的深坑中释放出来，这个恶魔会毁灭在它的道路上的一切生物。如果你没有任何办法征服恶魔; 要么摧毁它或被它摧毁。</TM_DemonR.description>
+  <TM_DemonR.tools.0.label>左爪</TM_DemonR.tools.0.label>
+  <TM_DemonR.tools.1.label>右爪</TM_DemonR.tools.1.label>
+  <TM_DemonR.tools.2.label>蹄</TM_DemonR.tools.2.label>
+  <TM_DemonR.race.meatLabel>恶魔之肉</TM_DemonR.race.meatLabel>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Corpse_TM_DemonR.label>恶魔尸体</Corpse_TM_DemonR.label>
+  <Corpse_TM_DemonR.description>恶魔尸体</Corpse_TM_DemonR.description>
+
+
+  <!-- demon special attack manuevers -->
+
+  <TM_LesserDemonR.label>小恶魔</TM_LesserDemonR.label>
+  <TM_LesserDemonR.description>从地狱的深渊中被释放出来，这个小恶魔会毁灭在它的道路上的一切生物，它没有理性，如果你没有任何办法征服恶魔; 要么摧毁它或被它摧毁。</TM_LesserDemonR.description>
+  <TM_LesserDemonR.tools.0.label>左爪</TM_LesserDemonR.tools.0.label>
+  <TM_LesserDemonR.tools.1.label>右爪</TM_LesserDemonR.tools.1.label>
+  <TM_LesserDemonR.tools.2.label>蹄</TM_LesserDemonR.tools.2.label>
+  <TM_LesserDemonR.race.meatLabel>恶魔之肉</TM_LesserDemonR.race.meatLabel>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Corpse_TM_LesserDemonR.label>小恶魔尸体</Corpse_TM_LesserDemonR.label>
+  <Corpse_TM_LesserDemonR.description>小恶魔尸体</Corpse_TM_LesserDemonR.description>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dire Wolf -->
+
+  <TM_Dire_WolfR.label>恐惧魔狼</TM_Dire_WolfR.label>
+  <TM_Dire_WolfR.description>恐惧魔狼成群结队地在北方游荡，既不害怕人，也不害怕巨树獭。它是凶残的掠食者，长着锋利的牙齿和钢丝一样的皮毛，恐惧魔狼和任何已知的生物一样凶猛。它们通常与神话般的传说联系在一起，据说与神秘力量有着独特的联系。</TM_Dire_WolfR.description>
+  <TM_Dire_WolfR.tools.0.label>左爪</TM_Dire_WolfR.tools.0.label>
+  <TM_Dire_WolfR.tools.1.label>右爪</TM_Dire_WolfR.tools.1.label>
+  <TM_Dire_WolfR.tools.3.label>头</TM_Dire_WolfR.tools.3.label>
+  <TM_Dire_WolfR.race.meatLabel>狼肉</TM_Dire_WolfR.race.meatLabel>
+  <Meat_TM_Dire_WolfR.label>狼肉</Meat_TM_Dire_WolfR.label>
+  <Meat_TM_Dire_WolfR.description>狼肉</Meat_TM_Dire_WolfR.description>
+  <Corpse_TM_Dire_WolfR.label>冰原狼尸体</Corpse_TM_Dire_WolfR.label>
+  <Corpse_TM_Dire_WolfR.description>冰原狼尸体</Corpse_TM_Dire_WolfR.description>
+
+
+</LanguageData>

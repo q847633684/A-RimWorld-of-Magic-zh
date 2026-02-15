@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Start_ManaStorm.label>法力风暴</TM_Start_ManaStorm.label>
+  <TM_Start_ManaStorm.description>创建并立即释放一个临时的法力容器。周围的法力会试图填满容器，但它们会被迫分散，造成猛烈的法力干扰。由此产生的情况称为法力风暴。法力风暴期间，周围的法力会迅速向四周扩散，这会对任何试图使用法力的人造成严重伤害。但是法力也会更容易获得，对于那些愿意冒反噬风险的人来说，这是充满了危险也充满了机遇。法力风暴持续6到40小时。</TM_Start_ManaStorm.description>
+
+  <TM_Start_ElementalDefenders.label>元素卫士</TM_Start_ElementalDefenders.label>
+  <TM_Start_ElementalDefenders.description>创造与另一个位面的连接，并引诱那里的元素过来保卫殖民地。持续约4小时。</TM_Start_ElementalDefenders.description>
+
+
+</LanguageData>

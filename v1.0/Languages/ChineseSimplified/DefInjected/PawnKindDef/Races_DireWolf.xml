@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dire Wolf -->
+
+  <TM_Dire_Wolf.label>dire wolf</TM_Dire_Wolf.label>
+  <TM_Dire_Wolf.labelPlural>dire wolves</TM_Dire_Wolf.labelPlural>
+  <TM_Dire_Wolf.lifeStages.0.label>dire wolf pup</TM_Dire_Wolf.lifeStages.0.label>
+  <TM_Dire_Wolf.lifeStages.0.labelPlural>dire wolf pups</TM_Dire_Wolf.lifeStages.0.labelPlural>
+  <TM_Dire_Wolf.lifeStages.0.labelMale>male dire wolf pup</TM_Dire_Wolf.lifeStages.0.labelMale>
+  <TM_Dire_Wolf.lifeStages.0.labelMalePlural>male dire wolf pups</TM_Dire_Wolf.lifeStages.0.labelMalePlural>
+  <TM_Dire_Wolf.lifeStages.0.labelFemale>female dire wolf pup</TM_Dire_Wolf.lifeStages.0.labelFemale>
+  <TM_Dire_Wolf.lifeStages.0.labelFemalePlural>female dire wolf pups</TM_Dire_Wolf.lifeStages.0.labelFemalePlural>
+  <TM_Dire_Wolf.lifeStages.1.label>dire wolf</TM_Dire_Wolf.lifeStages.1.label>
+  <TM_Dire_Wolf.lifeStages.1.labelPlural>dire wolves</TM_Dire_Wolf.lifeStages.1.labelPlural>
+  <TM_Dire_Wolf.lifeStages.1.labelMale>male dire wolf</TM_Dire_Wolf.lifeStages.1.labelMale>
+  <TM_Dire_Wolf.lifeStages.1.labelMalePlural>male dire wolfs</TM_Dire_Wolf.lifeStages.1.labelMalePlural>
+  <TM_Dire_Wolf.lifeStages.1.labelFemale>female dire wolf</TM_Dire_Wolf.lifeStages.1.labelFemale>
+  <TM_Dire_Wolf.lifeStages.1.labelFemalePlural>female dire wolfs</TM_Dire_Wolf.lifeStages.1.labelFemalePlural>
+  <TM_Dire_Wolf.lifeStages.2.label>dire wolf</TM_Dire_Wolf.lifeStages.2.label>
+  <TM_Dire_Wolf.lifeStages.2.labelPlural>dire wolves</TM_Dire_Wolf.lifeStages.2.labelPlural>
+  <TM_Dire_Wolf.lifeStages.2.labelMale>male dire wolf</TM_Dire_Wolf.lifeStages.2.labelMale>
+  <TM_Dire_Wolf.lifeStages.2.labelMalePlural>male dire wolfs</TM_Dire_Wolf.lifeStages.2.labelMalePlural>
+  <TM_Dire_Wolf.lifeStages.2.labelFemale>female dire wolf</TM_Dire_Wolf.lifeStages.2.labelFemale>
+  <TM_Dire_Wolf.lifeStages.2.labelFemalePlural>female dire wolfs</TM_Dire_Wolf.lifeStages.2.labelFemalePlural>
+  <TM_Dire_Wolf.labelMale>male dire wolf</TM_Dire_Wolf.labelMale>
+  <TM_Dire_Wolf.labelMalePlural>male dire wolves</TM_Dire_Wolf.labelMalePlural>
+  <TM_Dire_Wolf.labelFemale>female dire wolf</TM_Dire_Wolf.labelFemale>
+  <TM_Dire_Wolf.labelFemalePlural>female dire wolves</TM_Dire_Wolf.labelFemalePlural>
+
+
+</LanguageData>

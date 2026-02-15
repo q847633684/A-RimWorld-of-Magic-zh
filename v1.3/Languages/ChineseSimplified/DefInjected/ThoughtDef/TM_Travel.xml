@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_NeedTravel.stages.0.label>被困</TM_NeedTravel.stages.0.label>
+  <TM_NeedTravel.stages.0.description>我永远被困在这个地方。我需要离开这里，看看世界！</TM_NeedTravel.stages.0.description>
+  <TM_NeedTravel.stages.1.label>冒险</TM_NeedTravel.stages.1.label>
+  <TM_NeedTravel.stages.1.description>没有什么比在路上看到新地方了.</TM_NeedTravel.stages.1.description>
+
+
+</LanguageData>

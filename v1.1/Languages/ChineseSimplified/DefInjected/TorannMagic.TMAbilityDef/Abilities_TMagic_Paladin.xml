@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <ThingDef Class="TorannMagic.TMAbilityDef" ParentName="BaseAbility"> -->
+
+  <TM_Heal.label>Heal</TM_Heal.label>
+  <TM_Heal.description>Invokes holy power to heal the wounds of a target. Base heal restores 8 health for up to 3 wounds. Cannot heal injuries of missing bodyparts.</TM_Heal.description>
+
+
+  <!-- Shield start -->
+
+  <TM_Shield.label>Shield</TM_Shield.label>
+  <TM_Shield.description>Protects the paladin from damage for 50s or until the shield is broken.
+Absorbs up to 100 damage.</TM_Shield.description>
+
+  <TM_Shield_I.label>Shield</TM_Shield_I.label>
+  <TM_Shield_I.description>Protects the paladin from damage for 50s or until the shield is broken.
+Absorbs up to 120 damage.
+Reduces recharge to 30s.</TM_Shield_I.description>
+
+  <TM_Shield_II.label>Shield</TM_Shield_II.label>
+  <TM_Shield_II.description>Protects the paladin from damage for 50s or until the shield is broken.
+Absorbs up to 135 damage.
+Reduces recharge to 27s.</TM_Shield_II.description>
+
+  <TM_Shield_III.label>Shield</TM_Shield_III.label>
+  <TM_Shield_III.description>Protects the paladin from damage for 50s or until the shield is broken.
+Absorbs up to 150 damage.
+Reduces recharge to 25s.</TM_Shield_III.description>
+
+
+  <!-- Valiant Charge -->
+
+  <TM_ValiantCharge.label>Valiant Charge</TM_ValiantCharge.label>
+  <TM_ValiantCharge.description>The Paladin is flies with the wings of an angel to fly to a distant location, shattering the ground with holy power upon landing.</TM_ValiantCharge.description>
+
+
+  <!-- Overwhelm start -->
+
+  <TM_Overwhelm.label>Overwhelm</TM_Overwhelm.label>
+  <TM_Overwhelm.description>Holy power is unleashed from the paladin, overwhelming the physical and mental senses of any nearby creatures.</TM_Overwhelm.description>
+
+
+  <!-- Holy Wrath -->
+
+  <TM_HolyWrath.label>Holy Wrath</TM_HolyWrath.label>
+  <TM_HolyWrath.description>Calls forth holy wrath upon the land.</TM_HolyWrath.description>
+
+
+</LanguageData>

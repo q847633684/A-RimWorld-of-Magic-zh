@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Heal start -->
+
+  <TM_Paladin_Heal.label>Heal</TM_Paladin_Heal.label>
+
+
+  <!-- Shield start -->
+
+  <TM_Paladin_Shield.label>Shield</TM_Paladin_Shield.label>
+
+
+  <!-- Valiant Charge -->
+
+  <FlyingObject_ValiantCharge.label>flying object</FlyingObject_ValiantCharge.label>
+  <Projectile_ValiantCharge.label>Whirlwind</Projectile_ValiantCharge.label>
+
+
+  <!-- Overwhelm start -->
+
+  <TM_Paladin_Overwhelm.label>Overwhelm</TM_Paladin_Overwhelm.label>
+
+
+  <!-- Holy Wrath -->
+
+  <Projectile_HolyWrath.label>holy wrath</Projectile_HolyWrath.label>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <RecipeDef Abstract="True" Name="SurgeryFlesh">
+		<effectWorking>Surgery</effectWorking>
+		<soundWorking>Recipe_Surgery</soundWorking>
+		<workSpeedStat>MedicalOperationSpeed</workSpeedStat>
+		<workSkill>Medicine</workSkill>
+		<workSkillLearnFactor>20</workSkillLearnFactor>
+	</RecipeDef> -->
+
+  <Regrowth.label>regrow body part (Druid only, 90% mana required)</Regrowth.label>
+  <Regrowth.description>Use druidic powers to regrow body parts.</Regrowth.description>
+  <Regrowth.jobString>Regrowing body part.</Regrowth.jobString>
+
+
+</LanguageData>

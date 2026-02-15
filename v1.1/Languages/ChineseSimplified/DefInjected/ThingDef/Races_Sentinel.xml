@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lesser Sentinel -->
+
+  <TM_Lesser_SentinelR.label>Lesser Sentinel</TM_Lesser_SentinelR.label>
+  <TM_Lesser_SentinelR.description>This once inanimate stone is now viciously defending its terrain. Limbs that once seemed fused together as the same stone are now mobile... and tearing through earth and flesh alike.</TM_Lesser_SentinelR.description>
+  <TM_Lesser_SentinelR.tools.0.label>claws</TM_Lesser_SentinelR.tools.0.label>
+  <TM_Lesser_SentinelR.tools.1.label>teeth</TM_Lesser_SentinelR.tools.1.label>
+  <TM_Lesser_SentinelR_Leather.label>Lesser Sentinel leather</TM_Lesser_SentinelR_Leather.label>
+  <TM_Lesser_SentinelR_Leather.description>Lesser Sentinel leather</TM_Lesser_SentinelR_Leather.description>
+  <TM_Lesser_SentinelR_Leather.stuffProps.stuffAdjective>Lesser Sentinel leather</TM_Lesser_SentinelR_Leather.stuffProps.stuffAdjective>
+  <!-- Meat Amount: 0 -->
+  <TM_Lesser_SentinelR_Corpse.label>Lesser Sentinel corpse</TM_Lesser_SentinelR_Corpse.label>
+  <TM_Lesser_SentinelR_Corpse.description>Lesser Sentinel corpse</TM_Lesser_SentinelR_Corpse.description>
+
+
+  <!-- Sentinel -->
+
+  <TM_SentinelR.label>Sentinel</TM_SentinelR.label>
+  <TM_SentinelR.description>This once inanimate stone is now viciously defending its terrain. Limbs that once seemed fused together as the same stone are now mobile... and tearing through earth and flesh alike.</TM_SentinelR.description>
+  <TM_SentinelR.tools.0.label>claws</TM_SentinelR.tools.0.label>
+  <TM_SentinelR.tools.1.label>teeth</TM_SentinelR.tools.1.label>
+  <TM_SentinelR_Leather.label>Sentinel leather</TM_SentinelR_Leather.label>
+  <TM_SentinelR_Leather.description>Sentinel leather</TM_SentinelR_Leather.description>
+  <TM_SentinelR_Leather.stuffProps.stuffAdjective>Sentinel leather</TM_SentinelR_Leather.stuffProps.stuffAdjective>
+  <!-- Meat Amount: 0 -->
+  <TM_SentinelR_Corpse.label>Sentinel corpse</TM_SentinelR_Corpse.label>
+  <TM_SentinelR_Corpse.description>Sentinel corpse</TM_SentinelR_Corpse.description>
+
+
+  <!-- Greater Sentinel -->
+
+  <TM_Greater_SentinelR.label>Greater Sentinel</TM_Greater_SentinelR.label>
+  <TM_Greater_SentinelR.description>This once inanimate stone is now viciously defending its terrain. Limbs that once seemed fused together as the same stone are now mobile... and tearing through earth and flesh alike.</TM_Greater_SentinelR.description>
+  <TM_Greater_SentinelR.tools.0.label>claws</TM_Greater_SentinelR.tools.0.label>
+  <TM_Greater_SentinelR.tools.1.label>teeth</TM_Greater_SentinelR.tools.1.label>
+  <TM_Greater_SentinelR_Leather.label>Greater Sentinel leather</TM_Greater_SentinelR_Leather.label>
+  <TM_Greater_SentinelR_Leather.description>Greater Sentinel leather</TM_Greater_SentinelR_Leather.description>
+  <TM_Greater_SentinelR_Leather.stuffProps.stuffAdjective>Greater Sentinel leather</TM_Greater_SentinelR_Leather.stuffProps.stuffAdjective>
+  <!-- Meat Amount: 0 -->
+  <TM_Greater_SentinelR_Corpse.label>Greater Sentinel corpse</TM_Greater_SentinelR_Corpse.label>
+  <TM_Greater_SentinelR_Corpse.description>Greater Sentinel corpse</TM_Greater_SentinelR_Corpse.description>
+
+
+</LanguageData>

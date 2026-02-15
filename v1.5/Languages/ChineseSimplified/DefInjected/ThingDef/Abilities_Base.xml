@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- leap as a flying object -->
+
+  <FlyingObject_Spinning.label>旋风</FlyingObject_Spinning.label>
+  <FlyingObject_SpinningBone.label>旋转的飞行物体</FlyingObject_SpinningBone.label>
+  <FlyingObject_Advanced.label>一阵被召唤出来的旋风，能把你的房子打扫的很干净。</FlyingObject_Advanced.label>
+  <Projectile_Default.label>默认</Projectile_Default.label>
+
+
+</LanguageData>

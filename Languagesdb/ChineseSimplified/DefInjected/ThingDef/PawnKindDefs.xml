@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_SpiritTD.label>幽魂</TM_SpiritTD.label>
+  <TM_SpiritTD.description>一个游荡的幽魂，被某种未知的力量锚定在物质层面上。</TM_SpiritTD.description>
+  <TM_SpiritTD.tools.0.label>灵魂牵引</TM_SpiritTD.tools.0.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <Corpse_TM_SpiritTD.label>幽魂尸体</Corpse_TM_SpiritTD.label>
+  <Corpse_TM_SpiritTD.description>幽魂尸体</Corpse_TM_SpiritTD.description>
+
+
+</LanguageData>

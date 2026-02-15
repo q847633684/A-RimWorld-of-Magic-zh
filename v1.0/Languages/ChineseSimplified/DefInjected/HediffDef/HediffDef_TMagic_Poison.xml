@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Poison_HD.label>Poison</TM_Poison_HD.label>
+  <TM_Poison_HD.comps.0.labelTendedWell>bandaged</TM_Poison_HD.comps.0.labelTendedWell>
+  <TM_Poison_HD.comps.0.labelTendedWellInner>sutured</TM_Poison_HD.comps.0.labelTendedWellInner>
+  <TM_Poison_HD.comps.0.labelSolidTendedWell>set</TM_Poison_HD.comps.0.labelSolidTendedWell>
+  <TM_Poison_HD.injuryProps.destroyedLabel>withered</TM_Poison_HD.injuryProps.destroyedLabel>
+  <TM_Poison_HD.injuryProps.destroyedOutLabel>withered</TM_Poison_HD.injuryProps.destroyedOutLabel>
+
+  <TM_Poisoned_HD.label>Poisoned</TM_Poisoned_HD.label>
+  <TM_Poisoned_HD.stages.0.label>minor</TM_Poisoned_HD.stages.0.label>
+  <TM_Poisoned_HD.stages.1.label>moderate</TM_Poisoned_HD.stages.1.label>
+  <TM_Poisoned_HD.stages.2.label>major</TM_Poisoned_HD.stages.2.label>
+
+
+</LanguageData>

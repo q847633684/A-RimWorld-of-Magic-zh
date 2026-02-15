@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Terror.label>Terror</TM_Terror.label>
+  <TM_Terror.stages.0.label>Uneasy</TM_Terror.stages.0.label>
+  <TM_Terror.stages.1.label>Panicked</TM_Terror.stages.1.label>
+  <TM_Terror.stages.2.label>Terrified</TM_Terror.stages.2.label>
+
+
+</LanguageData>

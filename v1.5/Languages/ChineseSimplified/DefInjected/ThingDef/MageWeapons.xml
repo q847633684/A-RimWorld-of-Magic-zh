@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Melee Weapons -->
+
+  <TM_ElephantSpear.label>象矛</TM_ElephantSpear.label>
+  <TM_ElephantSpear.description>象矛是用大象的獠牙制成的，通常是为猎人或部落首领保留的身份象征。轴上刻有微小的附魔，进一步提升了使用者的战斗能力。\n这种武器被附魔，并为训练有素的法师和战士提供额外的收益：\n提升最大能量值: +10\n技能强度: +10%\n技能抗性: +20%</TM_ElephantSpear.description>
+  <TM_ElephantSpear.tools.0.label>矛柄</TM_ElephantSpear.tools.0.label>
+  <TM_ElephantSpear.tools.1.label>突刺</TM_ElephantSpear.tools.1.label>
+  <TM_ElephantSpear.tools.2.label>挥砍</TM_ElephantSpear.tools.2.label>
+
+
+  <!-- Elephant Tusk -->
+
+  <TM_ElephantTusk.label>象牙刀</TM_ElephantTusk.label>
+  <TM_ElephantTusk.description>这种大象的长牙被做成了一把长刀，在近战中可以用来刺穿和砍伤。刀柄由皮革包裹，\n		并有一些抗衡力，以改善刀柄，且轻重量的刀片允许快速攻击。然而，低重量和较软的刀锋使它成为对付重甲对手的糟糕选择。</TM_ElephantTusk.description>
+  <TM_ElephantTusk.tools.0.label>手柄</TM_ElephantTusk.tools.0.label>
+  <TM_ElephantTusk.tools.1.label>刀尖</TM_ElephantTusk.tools.1.label>
+  <TM_ElephantTusk.tools.2.label>刀刃</TM_ElephantTusk.tools.2.label>
+
+
+  <!-- Elephant Bow -->
+
+  <Projectile_ElephantBow.label>象弓</Projectile_ElephantBow.label>
+
+  <TM_ElephantBow.label>象弓</TM_ElephantBow.label>
+  <TM_ElephantBow.description>象牙做成的弓。象牙是神圣的，为减少硬度和重量，通过浸泡在魔力伊特中软化。虽然操控难度稍大一些，象弓在射程和精度方面有了显著的提高。\n象弓上刻有微小的附魔，是许多经验丰富的猎人的首选武器。\n\n这种武器被附魔，并为训练有素的法师和战士提供额外的收益：\n提升最大能量值: +5\n提升能量回复速度: +5%\n技能强度: +10%\n技能冷却缩减: -10%</TM_ElephantBow.description>
+  <TM_ElephantBow.tools.0.label>射击</TM_ElephantBow.tools.0.label>
+  <TM_ElephantBow.verbs.Verb_ShootCE.label>象弓</TM_ElephantBow.verbs.Verb_ShootCE.label>
+
+  <TM_ThrumboAxe.label>撼地斧</TM_ThrumboAxe.label>
+  <TM_ThrumboAxe.description>一个由敲击兽角和魔法原石制成的握柄组合而成的斧子. 此握柄中存储着奥术能量并且会在撼地斧被挥舞时转化为物理力量, 其强大的力量甚至可以一击将数个敌人劈成两半. 此斧握柄上同样铭刻着神秘的符文来增强使用者的奥术能量。\n		\n这种武器被附魔，并为训练有素的法师和战士提供额外的收益：\n提升最大能量值: +10\n技能强度: +20%\n技能抗性: +30%\n劈裂冲击</TM_ThrumboAxe.description>
+  <TM_ThrumboAxe.tools.0.label>手柄</TM_ThrumboAxe.tools.0.label>
+  <TM_ThrumboAxe.tools.1.label>劈砍</TM_ThrumboAxe.tools.1.label>
+  <TM_ThrumboAxe.tools.2.label>角</TM_ThrumboAxe.tools.2.label>
+
+
+  <!-- Thrumbo Saber -->
+
+  <TM_ThrumboSaber.label>秘能刀</TM_ThrumboSaber.label>
+  <TM_ThrumboSaber.description>一把锋利的刀锋被注入了一些神秘的能量。让它比金属刀轻，它的刃可以穿透所有的盔甲，但某些厚的要死的盔甲除外。许多刀锋高手都喜欢这种武器，因为它是为了速度和杀伤力而设计的。进一步的附魔也可以让使用者加速，在短时间内使他们的攻击率翻倍。\n这件武器是附魔的，为训练有素的法师和战士提供额外的收益：\n技能冷却时间: -10%\n伤害提升: +10%\n击中时急速 (25%)</TM_ThrumboSaber.description>
+  <TM_ThrumboSaber.tools.0.label>刀柄頂端</TM_ThrumboSaber.tools.0.label>
+  <TM_ThrumboSaber.tools.1.label>刺口</TM_ThrumboSaber.tools.1.label>
+  <TM_ThrumboSaber.tools.2.label>刀刃</TM_ThrumboSaber.tools.2.label>
+
+
+  <!-- Glory Maul -->
+
+  <TM_GloryMaul.label>荣耀战锤</TM_GloryMaul.label>
+  <TM_GloryMaul.description>一种专为对抗各种敌人而设计的单手锤。 荣耀战锤的头部有一个钝的、锯齿状的末端，可以将打击的重量集中在几个点上，另一端与用来刺穿厚甲的弯曲的鹰爪尖相平衡。 荣耀之锤因其魔力而得名，它能赋予持用者强大的力量祝福。\n		\n这个武器是附魔的，并为训练有素的法师和战士提供额外的增益: \n最大能量值: +20\n技能抗性: +20%\n技能强度: +10%\n命中时获得激励效果 (15%)</TM_GloryMaul.description>
+  <TM_GloryMaul.tools.0.label>利爪尖刺</TM_GloryMaul.tools.0.label>
+  <TM_GloryMaul.tools.1.label>压碎</TM_GloryMaul.tools.1.label>
+  <TM_GloryMaul.comps.CompEnchantedItem.enchantedAction.actionLabel>赋予力量</TM_GloryMaul.comps.CompEnchantedItem.enchantedAction.actionLabel>
+
+  <!-- Decimation -->
+
+  <TM_Decimation.label>残杀重锤</TM_Decimation.label>
+  <TM_Decimation.description>一种被施了如此重的魔法的双手重锤，挥舞后强大的质量撕裂任何企图阻挡它的材料。 它似乎是由一整块金属锻造而成，末端一个包裹着皮革的把手用于挥舞。 蚀刻精细的符文覆盖在锤身的表面，精致十足。 当握住它时，战士面临的第一个挑战就是它的重量，但出色的设计使得的整个巨锤的重心十分得当。 每次命中都有概率撕碎敌人的护甲，使其在随后的攻击中受到更多的伤害。\n		\n这个武器是附魔的，并为训练有素的法师和战士提供额外的增益: \n最大能量值: +40\n技能抗性: +40%\n技能强度: +30%\n命中时使敌方破甲 (50%)</TM_Decimation.description>
+  <TM_Decimation.tools.0.label>手柄</TM_Decimation.tools.0.label>
+  <TM_Decimation.tools.1.label>压碎</TM_Decimation.tools.1.label>
+
+
+  <!-- The rune blade -->
+
+  <TM_Ruunbled.label>云灵刀</TM_Ruunbled.label>
+  <TM_Ruunbled.description>这是一把巨大的刀刃，从刀柄到刀尖都刻有复杂的符文。它是用一种你不知道的材料锻造而成，边缘锋利，重量只有用尺寸推断的一小部分。尽管它太大，但武器很容易使用，而且几乎是嗡嗡的力量。你只能了解这种武器的起源——也许是用远古的技术制造的，这些技术已经消失了，或者是用某种神秘的力量制造出来的。唯一的提示是用时髦的字体写下的小字，并在刀柄上刻上“云灵刀”的名字，你不知道这是制造者的名字，还是刀片本身的名字。不管是哪种可能，毫无疑问，这种武器代表了它的最高水平。\n这件武器是附魔的，为训练有素的法师和战士提供额外的收益：\n技能冷却时间: -20%\n技能能量消耗: -20%\n伤害提升: +25%\n技能抗性: +25%\n命中时获得急速(20%)\n偏转子弹 (30%)\n劈裂冲击</TM_Ruunbled.description>
+  <TM_Ruunbled.tools.0.label>刀柄</TM_Ruunbled.tools.0.label>
+  <TM_Ruunbled.tools.1.label>刺</TM_Ruunbled.tools.1.label>
+  <TM_Ruunbled.tools.2.label>刀刃</TM_Ruunbled.tools.2.label>
+
+
+  <!-- 弦弓 -->
+
+  <Projectile_ThrumArrow.label>鹰角弓箭</Projectile_ThrumArrow.label>
+
+  <TM_ThrumBow.label>鹰角弓</TM_ThrumBow.label>
+  <TM_ThrumBow.description>由敲击兽的角制作的长弓。敲击兽的角被神圣化为减轻重量并通过将其浸泡在魔力伊特中软化，从而为敲击兽的角增添了令人惊讶的柔软感，进一步加强了附魔和奥术雕刻。用这把轻巧的弓进行攻击时如此的精准，就好像它自己会瞄准目标一样。然而，这或许只是持有者的自欺欺人。\n\n这种武器被附魔，并为训练有素的法师和战士提供额外的收益：\n提升最大能量值: +20\n提升能量回复速度: +10%\n技能强度: +20%\n技能冷却缩减: -10%\n增加经验值获取: -20%</TM_ThrumBow.description>
+  <TM_ThrumBow.tools.0.label>射击</TM_ThrumBow.tools.0.label>
+  <TM_ThrumBow.verbs.Verb_ShootCE.label>弦弓</TM_ThrumBow.verbs.Verb_ShootCE.label>
+
+  <!-- Demon's Fang -->
+
+  <TM_DemonFang.label>魔牙</TM_DemonFang.label>
+  <TM_DemonFang.description>一种致命的短刃，攻击带有夜影毒素。魔牙十分轻，攻击速度快，可以从制作中使用的材料中受到加成。然而，这种武器的原始伤害低于其他高级武器。由于其工艺的性质，它确实受益于几个强大的附魔，将增加其使用者的技能。\n		此武器是附魔的，为训练有素的法师和战士提供额外的好处：\n		能量消耗：-10%\n		技能冷却时间：-15%\n		伤害提升：+25%\n		命中时给目标施加夜影毒素（20%）</TM_DemonFang.description>
+  <TM_DemonFang.tools.0.label>刺</TM_DemonFang.tools.0.label>
+  <TM_DemonFang.tools.1.label>刀刃</TM_DemonFang.tools.1.label>
+
+
+  <!-- Fire Wand -->
+
+  <Projectile_FireWand.label>火焰法杖</Projectile_FireWand.label>
+
+  <TM_FireWand.label>火焰法杖</TM_FireWand.label>
+  <TM_FireWand.description>一柄会缓慢地将奥术能量转化为火元素之力的法杖. 法杖作为一种集中精神的工具使法师可以更好的发挥他们的先天力量.\n这种武器被附魔，并为训练有素的法师和战士提供额外的收益：\n提升最大能量值: +5\n提升能量回复速度: +5%\n技能强度: +15%</TM_FireWand.description>
+  <TM_FireWand.tools.0.label>法杖</TM_FireWand.tools.0.label>
+  <TM_FireWand.verbs.Verb_ShootCE.label>火焰法杖</TM_FireWand.verbs.Verb_ShootCE.label>
+
+  <!-- Ice Wand -->
+
+  <Projectile_IceWand.label>冰霜法杖</Projectile_IceWand.label>
+
+  <TM_IceWand.label>冰霜法杖</TM_IceWand.label>
+  <TM_IceWand.description>一柄会缓慢地将奥术能量转化为冰元素之力的法杖. 法杖作为一种集中精神的工具使法师可以更好的发挥他们的先天力量.	\n这种武器被附魔，并为训练有素的法师和战士提供额外的收益：\n提升最大能量值: +5\n提升能量回复速度: +5%\n技能强度: +15%</TM_IceWand.description>
+  <TM_IceWand.tools.0.label>法杖</TM_IceWand.tools.0.label>
+  <TM_IceWand.verbs.Verb_ShootCE.label>冰霜法杖</TM_IceWand.verbs.Verb_ShootCE.label>
+
+  <!-- Lightning Wand -->
+
+  <Projectile_LightningWand.label>雷霆法杖</Projectile_LightningWand.label>
+
+  <TM_LightningWand.label>雷霆法杖</TM_LightningWand.label>
+  <TM_LightningWand.description>一柄会缓慢地将奥术能量转化为雷元素之力的法杖. 法杖作为一种集中精神的工具使法师可以更好的发挥他们的先天力量.\n这种武器被附魔，并为训练有素的法师和战士提供额外的收益：\n提升最大能量值: +5\n提升能量回复速度: +5%\n技能强度: +15%</TM_LightningWand.description>
+  <TM_LightningWand.tools.0.label>法杖</TM_LightningWand.tools.0.label>
+  <TM_LightningWand.verbs.Verb_ShootCE.label>闪电魔杖</TM_LightningWand.verbs.Verb_ShootCE.label>
+
+  <TM_DefenderStaff.label>守护者权杖</TM_DefenderStaff.label>
+  <TM_DefenderStaff.description>一柄由古代锻造技术打造而成的权杖, 周身有显而易见的智慧光环. 使用此权杖可以进入精神世界并且允许使用者与他们的祖先灵魂进行交流并祈求他们庇佑使用者. 祈求所花费的法力来自于祖先的灵魂，而不是使用者，因此不需要消耗使用者的法力或体力, 但灵魂在被重复召唤之前需要一定的时间休息.\n\n这种武器被附魔，并为训练有素的法师和战士提供额外的收益：\n提升最大能量值: +30\n提升能量回复速度: +20%\n技能抗性: +20%\n获得法术：奥术障碍</TM_DefenderStaff.description>
+  <TM_DefenderStaff.tools.0.label>杖身</TM_DefenderStaff.tools.0.label>
+  <TM_DefenderStaff.tools.1.label>杖首</TM_DefenderStaff.tools.1.label>
+  <TM_DefenderStaff.verbs.Verb_ShootCE.label>守护者权杖</TM_DefenderStaff.verbs.Verb_ShootCE.label>
+
+  <!-- Staff of Blazing Power -->
+
+  <Projectile_BlazingPower.label>炽热之力法杖</Projectile_BlazingPower.label>
+
+  <TM_BlazingPowerStaff.label>炽热之力法杖</TM_BlazingPowerStaff.label>
+  <TM_BlazingPowerStaff.description>一柄可以与使用者建立精神链接的权杖, 可以用来发射一连串的闪耀飞弹或者在使用者附近生成一个可以偏折飞弹的护盾. 魔法师会使用此权杖施法技能威力会得到极大的增强, 但在凡人手中只是一根棍子而已.\n \n这种武器被附魔，并为训练有素的法师和战士提供额外的收益：\n提升最大能量值: +20\n提升能量回复速度: +10%\n技能强度: +40%</TM_BlazingPowerStaff.description>
+  <TM_BlazingPowerStaff.tools.0.label>杖身</TM_BlazingPowerStaff.tools.0.label>
+  <TM_BlazingPowerStaff.tools.1.label>杖首</TM_BlazingPowerStaff.tools.1.label>
+  <TM_BlazingPowerStaff.verbs.Verb_ShootCE.label>炽热之力法杖</TM_BlazingPowerStaff.verbs.Verb_ShootCE.label>
+
+
+  <!-- Staff of Winter's Reign -->
+
+  <Projectile_FreezingWinds.label>寒冬权杖</Projectile_FreezingWinds.label>
+  <FlyingObject_FreezingWinds.label>寒冬风暴</FlyingObject_FreezingWinds.label>
+
+  <TM_WinterStaff.label>寒冬权杖</TM_WinterStaff.label>
+  <TM_WinterStaff.description>一根蓝色的权杖，饰有水晶碎片制成的皇冠。无人能从它的身上感受到温暖，似乎是对持杖者宣告它那如同凛冬一样的自我。权杖的力量是把双刃剑——它极大地增强了法师天生具有的法力，并且能够在任何环境下制造冰雹。但是这种力量是有代价的——当被持有时，权杖会从持有者身上吸取热量和能量，如果被法师持有，它甚至会吸取周围环境的热量与能量。只有法师才能施展出这根权杖的力量。\n这种武器被附魔，并为训练有素的法师和战士提供额外的收益：\n最大能量上限：+80\n技能冷却时间：-30%\n法术抗性：+20%\n法术伤害：+50%\n能力：雹暴</TM_WinterStaff.description>
+  <TM_WinterStaff.tools.0.label>杖身</TM_WinterStaff.tools.0.label>
+  <TM_WinterStaff.tools.1.label>杖首</TM_WinterStaff.tools.1.label>
+  <TM_WinterStaff.verbs.Verb_FreezingWinds.label>寒冬权杖</TM_WinterStaff.verbs.Verb_FreezingWinds.label>
+
+
+  <!-- Seer ring - Fire -->
+
+  <Projectile_SeerRing_Fire.label>火元素</Projectile_SeerRing_Fire.label>
+
+  <Seer_FireRing.label>火元素指环</Seer_FireRing.label>
+  <Seer_FireRing.description>一件古老的造物可以与使用者绑定，使元素之力在宿主体内流转. 如果宿主与元素环分离， 绑定契约将会无效化并使元素环毁坏。</Seer_FireRing.description>
+  <Seer_FireRing.tools.Verb_Shoot.label>元素之拳</Seer_FireRing.tools.Verb_Shoot.label>
+
+
+  <!-- Seer ring - Ice -->
+
+  <Projectile_SeerRing_Ice.label>冰元素</Projectile_SeerRing_Ice.label>
+
+  <Seer_IceRing.label>冰元素指环</Seer_IceRing.label>
+  <Seer_IceRing.description>一件古老的造物可以与使用者绑定，使元素之力在宿主体内流转. 如果宿主与元素环分离， 绑定契约将会无效化并使元素环毁坏。</Seer_IceRing.description>
+  <Seer_IceRing.tools.Verb_Shoot.label>元素之拳</Seer_IceRing.tools.Verb_Shoot.label>
+
+
+  <!-- Seer ring - Lightning -->
+
+  <Laser_SeerRing_Lightning.label>雷元素</Laser_SeerRing_Lightning.label>
+
+  <Seer_LightningRing.label>雷元素指环</Seer_LightningRing.label>
+  <Seer_LightningRing.description>一件古老的造物可以与使用者绑定，使元素之力在宿主体内流转. 如果宿主与元素环分离， 绑定契约将会无效化并使元素环毁坏。</Seer_LightningRing.description>
+  <Seer_LightningRing.tools.Verb_Shoot.label>元素之拳</Seer_LightningRing.tools.Verb_Shoot.label>
+
+
+</LanguageData>

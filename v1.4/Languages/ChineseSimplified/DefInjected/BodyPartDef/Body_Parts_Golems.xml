@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- GOLEM Generic -->
+
+  <Golem_Body.label>身体</Golem_Body.label>
+  <Golem_Back.label>背部</Golem_Back.label>
+  <Golem_Spine.label>脊椎</Golem_Spine.label>
+  <Golem_Abdomen.label>腹部</Golem_Abdomen.label>
+  <Golem_Guts.label>肠道</Golem_Guts.label>
+  <Golem_Chest.label>胸部</Golem_Chest.label>
+  <Golem_Heart.label>心</Golem_Heart.label>
+  <Golem_Ribcage.label>胸腔</Golem_Ribcage.label>
+  <Golem_Lung.label>肺</Golem_Lung.label>
+  <Golem_Neck.label>颈</Golem_Neck.label>
+  <Golem_Head.label>头</Golem_Head.label>
+  <Golem_Skull.label>颅骨</Golem_Skull.label>
+  <Golem_Brain.label>头脑</Golem_Brain.label>
+  <Golem_Face.label>面部</Golem_Face.label>
+  <Golem_Eye.label>眼</Golem_Eye.label>
+  <Golem_Ear.label>耳</Golem_Ear.label>
+  <Golem_Nose.label>鼻子</Golem_Nose.label>
+  <Golem_Jaw.label>颌</Golem_Jaw.label>
+  <Golem_Tongue.label>舌头</Golem_Tongue.label>
+  <Golem_Shoulder.label>肩</Golem_Shoulder.label>
+  <Golem_RightArm.label>右臂</Golem_RightArm.label>
+  <Golem_LeftArm.label>左臂</Golem_LeftArm.label>
+  <Golem_Hand.label>手</Golem_Hand.label>
+  <Golem_Waist.label>腰</Golem_Waist.label>
+  <Golem_Leg.label>腿</Golem_Leg.label>
+  <Golem_Femur.label>股骨</Golem_Femur.label>
+  <Golem_Tibia.label>胫骨</Golem_Tibia.label>
+  <Golem_Foot.label>脚</Golem_Foot.label>
+
+
+  <!-- MECHA GOLEM -->
+
+  <Mecha_Body.label>身体</Mecha_Body.label>
+  <Mecha_Back.label>背板</Mecha_Back.label>
+  <Mecha_Spine.label>脊髓通路</Mecha_Spine.label>
+  <Mecha_Abdomen.label>腹部</Mecha_Abdomen.label>
+  <Mecha_EnergyCompactor.label>能量压实机</Mecha_EnergyCompactor.label>
+  <Mecha_Chest.label>胸板</Mecha_Chest.label>
+  <Mecha_Core.label>CPU</Mecha_Core.label>
+  <Mecha_CoreProcessor.label>处理器核心</Mecha_CoreProcessor.label>
+  <Mecha_Neck.label>颈甲</Mecha_Neck.label>
+  <Mecha_Head.label>头架</Mecha_Head.label>
+  <Mecha_SkullPlate.label>颅骨板</Mecha_SkullPlate.label>
+  <Mecha_AI.label>核心</Mecha_AI.label>
+  <Mecha_Optics.label>光学传感器</Mecha_Optics.label>
+  <Mecha_Sensors.label>传感器</Mecha_Sensors.label>
+  <Mecha_Transmitter.label>发射机</Mecha_Transmitter.label>
+  <Mecha_LeftShoulder.label>左肩</Mecha_LeftShoulder.label>
+  <Mecha_LeftArm.label>左手臂</Mecha_LeftArm.label>
+  <Mecha_LeftArm_Axe.label>机械斧</Mecha_LeftArm_Axe.label>
+  <Mecha_LeftArm_Sword.label>机械剑</Mecha_LeftArm_Sword.label>
+  <Mecha_RightShoulder.label>右肩</Mecha_RightShoulder.label>
+  <Mecha_RightArm.label>右臂</Mecha_RightArm.label>
+  <Mecha_RightArm_Hammer.label>机械锤</Mecha_RightArm_Hammer.label>
+  <Mecha_Base.label>运动核心</Mecha_Base.label>
+
+
+  <!-- FLESH GOLEM -->
+
+  <Flesh_Body.label>身体</Flesh_Body.label>
+  <Flesh_Back.label>背</Flesh_Back.label>
+  <Flesh_Spine.label>脊柱</Flesh_Spine.label>
+  <Flesh_Wings.label>翅膀</Flesh_Wings.label>
+  <Flesh_Abdomen.label>腹部</Flesh_Abdomen.label>
+  <Flesh_Guts.label>肠道</Flesh_Guts.label>
+  <Flesh_Chest.label>胸部</Flesh_Chest.label>
+  <Flesh_Heart.label>心</Flesh_Heart.label>
+  <Flesh_Ribcage.label>胸腔</Flesh_Ribcage.label>
+  <Flesh_Lung.label>肺</Flesh_Lung.label>
+  <Flesh_Neck.label>颈</Flesh_Neck.label>
+  <Flesh_Head.label>头</Flesh_Head.label>
+  <Flesh_Skull.label>颅骨</Flesh_Skull.label>
+  <Flesh_Brain.label>大脑</Flesh_Brain.label>
+  <Flesh_Face.label>脸</Flesh_Face.label>
+  <Flesh_Eye.label>眼</Flesh_Eye.label>
+  <Flesh_LowerEye.label>眼</Flesh_LowerEye.label>
+  <Flesh_EvilEye.label>邪眼</Flesh_EvilEye.label>
+  <Flesh_Tusks.label>獠牙</Flesh_Tusks.label>
+  <Flesh_Ear.label>耳</Flesh_Ear.label>
+  <Flesh_Nose.label>鼻</Flesh_Nose.label>
+  <Flesh_Jaw.label>颚</Flesh_Jaw.label>
+  <Flesh_Tongue.label>舌头</Flesh_Tongue.label>
+  <Flesh_Horns.label>犄角</Flesh_Horns.label>
+  <Flesh_Shoulder.label>肩</Flesh_Shoulder.label>
+  <Flesh_RightArm.label>右臂</Flesh_RightArm.label>
+  <Flesh_LeftArm.label>左臂</Flesh_LeftArm.label>
+  <Flesh_Hand.label>手</Flesh_Hand.label>
+  <Flesh_LeftArm_Brace.label>左支柱</Flesh_LeftArm_Brace.label>
+  <Flesh_LeftArm_Cleaver.label>左切割器</Flesh_LeftArm_Cleaver.label>
+  <Flesh_RightArm_Brace.label>右支架</Flesh_RightArm_Brace.label>
+  <Flesh_RightArm_Cleaver.label>右切割器</Flesh_RightArm_Cleaver.label>
+  <Flesh_Waist.label>腰</Flesh_Waist.label>
+  <Flesh_Leg.label>腿</Flesh_Leg.label>
+  <Flesh_Femur.label>股骨</Flesh_Femur.label>
+  <Flesh_Tibia.label>胫骨</Flesh_Tibia.label>
+  <Flesh_Foot.label>脚</Flesh_Foot.label>
+
+
+  <!-- HOLLOW GOLEM -->
+
+  <Hollow_Weapon.label>空洞器槽</Hollow_Weapon.label>
+  <Hollow_Axe.label>空洞之斧</Hollow_Axe.label>
+  <Hollow_Staff.label>空洞之杖</Hollow_Staff.label>
+  <Hollow_Core.label>空洞之心</Hollow_Core.label>
+  <Hollow_CoreSlotA.label>空洞之心</Hollow_CoreSlotA.label>
+  <Hollow_CoreSlotB.label>空洞之心</Hollow_CoreSlotB.label>
+
+
+  <!-- STONE GOLEM -->
+
+  <Stone_Core.label>石之心</Stone_Core.label>
+  <Stone_SlotA.label>石之心(a)</Stone_SlotA.label>
+  <Stone_SlotB.label>石之心(b)</Stone_SlotB.label>
+
+
+  <!-- MAHARAL GOLEM -->
+
+  <Maharal_Core.label>马哈拉尔之心</Maharal_Core.label>
+  <Maharal_SlotA.label>马哈拉尔之心(a)</Maharal_SlotA.label>
+  <Maharal_SlotB.label>马哈拉尔之心(b)</Maharal_SlotB.label>
+
+
+  <!-- STRAW GOLEM -->
+
+  <Straw_Face.label>脸</Straw_Face.label>
+  <Straw_Core.label>稻草傀儡核心</Straw_Core.label>
+  <Straw_SlotA.label>稻草之心(a)</Straw_SlotA.label>
+  <Straw_SlotB.label>稻草之心(b)</Straw_SlotB.label>
+
+
+  <!-- WOOD GOLEM -->
+
+  <TM_Wood_Body.label>身体</TM_Wood_Body.label>
+  <TM_Wood_Back.label>背板</TM_Wood_Back.label>
+  <TM_Wood_Chest.label>胸板</TM_Wood_Chest.label>
+  <TM_Wood_Core.label>魔法核心</TM_Wood_Core.label>
+  <TM_Wood_Focus.label>意识源</TM_Wood_Focus.label>
+  <TM_Wood_Reserves.label>能量储备</TM_Wood_Reserves.label>
+  <Wood_SlotA.label>木芯（a）</Wood_SlotA.label>
+  <Wood_SlotB.label>木芯（b）</Wood_SlotB.label>
+  <TM_Wood_Manipulator.label>力量投影仪</TM_Wood_Manipulator.label>
+  <TM_Wood_Base.label>移动基座</TM_Wood_Base.label>
+  <TM_Silk_Core.label>魔力核心</TM_Silk_Core.label>
+  <Silk_SlotA.label>丝芯（a）</Silk_SlotA.label>
+  <Silk_SlotB.label>丝芯（b）</Silk_SlotB.label>
+
+
+</LanguageData>

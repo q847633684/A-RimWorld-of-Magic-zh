@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '破甲', 原英文: '无' -> 新英文: 'Sunder Armor',更新于2026-02-14-->
+  <!--EN: Sunder Armor-->
+  <TM_SunderArmorHD.label>破甲</TM_SunderArmorHD.label>
+  <!--原中文: '降低对手的护甲抗性。', 原英文: '无' -> 新英文: 'Reduces armor rating.',更新于2026-02-14-->
+  <!--EN: Reduces armor rating.-->
+  <TM_SunderArmorHD.description>降低对手的护甲抗性。</TM_SunderArmorHD.description>
+  <TM_SunderArmorHD.stages.0.label>I</TM_SunderArmorHD.stages.0.label>
+  <TM_SunderArmorHD.stages.1.label>II</TM_SunderArmorHD.stages.1.label>
+  <TM_SunderArmorHD.stages.2.label>III</TM_SunderArmorHD.stages.2.label>
+  <TM_SunderArmorHD.stages.3.label>IV</TM_SunderArmorHD.stages.3.label>
+  <TM_SunderArmorHD.stages.4.label>V</TM_SunderArmorHD.stages.4.label>
+  <TM_SunderArmorHD.stages.5.label>VI</TM_SunderArmorHD.stages.5.label>
+  <TM_SunderArmorHD.stages.6.label>VII</TM_SunderArmorHD.stages.6.label>
+  <!--原中文: '虚弱', 原英文: '无' -> 新英文: 'Frailty',更新于2026-02-14-->
+  <!--EN: Frailty-->
+  <TM_FrailtyHD.label>虚弱</TM_FrailtyHD.label>
+  <!--原中文: '增加对目标造成的伤害', 原英文: '无' -> 新英文: 'Target takes more damage from all sources.',更新于2026-02-14-->
+  <!--EN: Target takes more damage from all sources.-->
+  <TM_FrailtyHD.description>增加对目标造成的伤害</TM_FrailtyHD.description>
+</LanguageData>

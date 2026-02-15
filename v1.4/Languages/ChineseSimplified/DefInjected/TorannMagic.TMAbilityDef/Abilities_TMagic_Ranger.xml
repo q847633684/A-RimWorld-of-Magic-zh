@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ranger training -->
+
+  <TM_RangerTraining.label>猎人训练</TM_RangerTraining.label>
+  <TM_RangerTraining.description>用来升级猎人特性。此能力只需要在训练完成后使用。\n	\n等级:\n见习猎人: 移动速度+0.15c/s，瞄准延迟-15%，免疫增益+20%，舒适温度+-10C，毒性敏感性-10% \n驯养和训练动物+5%，屠宰速度+5%，冶炼和建造速度-10% \n\n初级猎人: 移动速度+0.2c/s，瞄准延迟-20%，免疫增益+25%，舒适温度+-15C，毒性敏感性-15% \n驯养和训练动物+8%，屠宰速度+10%，冶炼和建造速度-15% \n\n高级猎人: 移动速度+0.25c/s，瞄准延迟-30%，免疫增益+30%，舒适温度+-18C，毒性敏感性-20% \n驯养和训练动物+10%，屠宰速度+15%，冶炼和建造速度-18% \n\n传奇猎人: 移动速度+0.3c/s，瞄准延迟-40%，免疫增益+35%，舒适温度+-25C，毒性敏感性-25% \n驯养和训练动物+12%，屠宰速度+20%，冶炼和建造速度-20%</TM_RangerTraining.description>
+
+
+  <!-- Bow Training -->
+
+  <TM_BowTraining.label>弓箭精通</TM_BowTraining.label>
+  <TM_BowTraining.description>用来升级使用者的被动增益。此能力仅需要在提升弓箭精通时使用。\n	\nLevel 0: 听觉和视觉+20%，+20%基础伤害\nLevel 1: 听觉和视觉+40%，+40%基础伤害\nLevel 2: 听觉和视觉+60%，呼吸+15% ,+60%基础伤害\nLevel 3: 听觉和视觉+80%，呼吸+25%，血液循环+10%，+80%基础伤害</TM_BowTraining.description>
+
+
+  <!-- Poison Trap -->
+
+  <TM_PoisonTrap.label>毒素陷阱</TM_PoisonTrap.label>
+  <TM_PoisonTrap.description>漫游者使用一瓶德鲁伊毒素用来放置一个木制陷阱。陷阱没有持续时间，但是漫游者可以放置的毒素陷阱是有上限的。</TM_PoisonTrap.description>
+
+
+  <!-- Animal Friend -->
+
+  <TM_AnimalFriend.label>动物伙伴</TM_AnimalFriend.label>
+  <TM_AnimalFriend.description>在野外，漫游者可以与野生动物绑定契约。漫游者只能绑定一份契约; 绑定一份新的契约会使现存的契约失效并且失去契约的动物会永远地离开。契约升级后需要重新绑定才能生效。\n  \n  契约动物获得的身体强化同样会应用于此动物的同类，作为回报，契约动物会帮助漫游者做任何它可以做到的事情。</TM_AnimalFriend.description>
+
+
+  <!-- Arrow storm -->
+
+  <TM_ArrowStorm.label>箭雨风暴（I）</TM_ArrowStorm.label>
+  <TM_ArrowStorm.description>向目标射出5支箭。\n距离: 32</TM_ArrowStorm.description>
+
+  <TM_ArrowStorm_I.label>箭雨风暴（II）</TM_ArrowStorm_I.label>
+  <TM_ArrowStorm_I.description>向目标射出6支箭。\n距离: 34</TM_ArrowStorm_I.description>
+
+  <TM_ArrowStorm_II.label>箭雨风暴（III）</TM_ArrowStorm_II.label>
+  <TM_ArrowStorm_II.description>向目标射出7支箭。\n距离: 36</TM_ArrowStorm_II.description>
+
+  <TM_ArrowStorm_III.label>箭雨风暴（IV）</TM_ArrowStorm_III.label>
+  <TM_ArrowStorm_III.description>向目标射出8支箭。\n距离: 38</TM_ArrowStorm_III.description>
+
+
+</LanguageData>

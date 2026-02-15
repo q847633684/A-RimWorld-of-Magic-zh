@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Accelerate Time -->
+
+  <Projectile_AccelerateTime.label>加速时空</Projectile_AccelerateTime.label>
+
+
+  <!-- Chronostatic Field -->
+
+  <Projectile_ChronostaticField.label>时间立场</Projectile_ChronostaticField.label>
+  <Projectile_ChronostaticField_I.label>时间立场</Projectile_ChronostaticField_I.label>
+  <Projectile_ChronostaticField_II.label>时间立场</Projectile_ChronostaticField_II.label>
+  <Projectile_ChronostaticField_III.label>时间立场</Projectile_ChronostaticField_III.label>
+  <FlyingObject_TimeDelay.label>时间立场</FlyingObject_TimeDelay.label>
+
+
+</LanguageData>

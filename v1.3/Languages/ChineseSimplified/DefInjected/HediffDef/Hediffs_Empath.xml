@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_EmpathHD.label>共感</TM_EmpathHD.label>
+  <TM_EmpathHD.description>读心师与生俱来的能力</TM_EmpathHD.description>
+  <TM_EmpathHD.stages.0.label>不受控制</TM_EmpathHD.stages.0.label>
+  <TM_EmpathHD.stages.1.label>未加训练</TM_EmpathHD.stages.1.label>
+  <TM_EmpathHD.stages.2.label>初步了解</TM_EmpathHD.stages.2.label>
+  <TM_EmpathHD.stages.3.label>受训</TM_EmpathHD.stages.3.label>
+  <TM_EmpathHD.stages.4.label>熟练</TM_EmpathHD.stages.4.label>
+  <TM_EmpathHD.stages.5.label>精通</TM_EmpathHD.stages.5.label>
+
+  <TM_MindKillerHD.label>情感崩坏</TM_MindKillerHD.label>
+  <TM_MindKillerHD.description>此人已经被洪水般的情绪所淹没，无法有明确的意图去思考或行动; 这可以导致其放下武器或在恐惧中逃跑。</TM_MindKillerHD.description>
+  <TM_MindKillerHD.stages.0.label>恢复</TM_MindKillerHD.stages.0.label>
+  <TM_MindKillerHD.stages.1.label>I</TM_MindKillerHD.stages.1.label>
+  <TM_MindKillerHD.stages.2.label>II</TM_MindKillerHD.stages.2.label>
+  <TM_MindKillerHD.stages.3.label>III</TM_MindKillerHD.stages.3.label>
+
+  <TM_HarvestPassionHD.label>激情鼓舞</TM_HarvestPassionHD.label>
+  <TM_HarvestPassionHD.description>源于他人的激情</TM_HarvestPassionHD.description>
+  <TM_HarvestPassionHD.stages.0.label></TM_HarvestPassionHD.stages.0.label>
+
+  <TM_SuppressiveAuraHD.label>共感网络</TM_SuppressiveAuraHD.label>
+  <TM_SuppressiveAuraHD.description>读心师正在接受与改变周围人群的情绪。</TM_SuppressiveAuraHD.description>
+  <TM_SuppressiveAuraHD.stages.0.label></TM_SuppressiveAuraHD.stages.0.label>
+
+  <TM_EmotionSuppressionHD.label>压抑的情绪</TM_EmotionSuppressionHD.label>
+  <TM_EmotionSuppressionHD.description>这个人的情绪正在被压抑；ta不会精神崩溃，大多数与情绪相关的想法都会消逝。</TM_EmotionSuppressionHD.description>
+  <TM_EmotionSuppressionHD.stages.0.label></TM_EmotionSuppressionHD.stages.0.label>
+
+  <TM_SymbiosisHD.label>思维共生</TM_SymbiosisHD.label>
+  <TM_SymbiosisHD.description>ta的情感和意识已经被读心师的心灵强化了。 为了维持思维共生，读心师的心灵与ta紧密相连——如果此人死了，那么读心师也会死。</TM_SymbiosisHD.description>
+  <TM_SymbiosisHD.stages.0.label>I</TM_SymbiosisHD.stages.0.label>
+  <TM_SymbiosisHD.stages.1.label>II</TM_SymbiosisHD.stages.1.label>
+  <TM_SymbiosisHD.stages.2.label>III</TM_SymbiosisHD.stages.2.label>
+  <TM_SymbiosisHD.stages.3.label>IV</TM_SymbiosisHD.stages.3.label>
+
+  <TM_OutOfBodyHD.label>灵魂出窍</TM_OutOfBodyHD.label>
+  <TM_OutOfBodyHD.description>这个人的情感和意识依附在另一个人上; 这个身体现在只是个空壳。</TM_OutOfBodyHD.description>
+  <TM_OutOfBodyHD.stages.0.label></TM_OutOfBodyHD.stages.0.label>
+
+
+</LanguageData>

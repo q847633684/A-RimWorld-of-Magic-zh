@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abhorrent Thoughts -->
+
+  <TM_KilledMage_Abhorrent_Social.stages.0.label>法师杀手</TM_KilledMage_Abhorrent_Social.stages.0.label>
+
+  <TM_KilledMage_Abhorrent_Mood.stages.0.label>杀死了法师</TM_KilledMage_Abhorrent_Mood.stages.0.label>
+  <TM_KilledMage_Abhorrent_Mood.stages.0.description>我杀了一位法师！不必担心的少结。</TM_KilledMage_Abhorrent_Mood.stages.0.description>
+
+  <TM_KilledMage_Know_Abhorrent_Mood.stages.0.label>我们杀了一名法师</TM_KilledMage_Know_Abhorrent_Mood.stages.0.label>
+  <TM_KilledMage_Know_Abhorrent_Mood.stages.0.description>我们杀死了法师！我们的殖民地将胜过这些憎恶。</TM_KilledMage_Know_Abhorrent_Mood.stages.0.description>
+
+  <TM_MagicUse_Abhorrent_Social.stages.0.label>魔法使用</TM_MagicUse_Abhorrent_Social.stages.0.label>
+
+  <TM_MagicUse_Know_Abhorrent_Mood.stages.0.label>我们使用了魔法</TM_MagicUse_Know_Abhorrent_Mood.stages.0.label>
+  <TM_MagicUse_Know_Abhorrent_Mood.stages.0.description>魔术在我们的殖民地中使用了 - 这是一种令人恶心的肮脏行为。</TM_MagicUse_Know_Abhorrent_Mood.stages.0.description>
+
+  <TM_MagesInColony_Abhorrent_Mood.stages.0.label>从魔法中解放</TM_MagesInColony_Abhorrent_Mood.stages.0.label>
+  <TM_MagesInColony_Abhorrent_Mood.stages.0.description>我们的殖民地摆脱了法师的憎恶阴谋。</TM_MagesInColony_Abhorrent_Mood.stages.0.description>
+  <TM_MagesInColony_Abhorrent_Mood.stages.1.label>法师憎恶</TM_MagesInColony_Abhorrent_Mood.stages.1.label>
+  <TM_MagesInColony_Abhorrent_Mood.stages.1.description>一名自由法师被允许进入殖民地； 摧毁或奴役可憎之物！</TM_MagesInColony_Abhorrent_Mood.stages.1.description>
+
+  <TM_MagesInColonySlave_Abhorrent_Mood.stages.0.label>奴隶法师</TM_MagesInColonySlave_Abhorrent_Mood.stages.0.label>
+  <TM_MagesInColonySlave_Abhorrent_Mood.stages.0.description>我们已经奴役了一名法师。我们不需要它的魔术，-IT-最好死了。</TM_MagesInColonySlave_Abhorrent_Mood.stages.0.description>
+
+  <TM_IsMage_Abhorrent_Social.stages.0.label>法师</TM_IsMage_Abhorrent_Social.stages.0.label>
+
+
+  <!-- Disapprove Thoughts -->
+
+  <TM_MagicUse_Disapprove_Mood.stages.0.label>魔法使用受到限制</TM_MagicUse_Disapprove_Mood.stages.0.label>
+  <TM_MagicUse_Disapprove_Mood.stages.0.description>我们成功地限制了魔术的使用。</TM_MagicUse_Disapprove_Mood.stages.0.description>
+  <TM_MagicUse_Disapprove_Mood.stages.1.label>太多的魔法</TM_MagicUse_Disapprove_Mood.stages.1.label>
+  <TM_MagicUse_Disapprove_Mood.stages.1.description>使用了太多的魔法，这对殖民地不利。</TM_MagicUse_Disapprove_Mood.stages.1.description>
+  <TM_MagicUse_Disapprove_Mood.stages.2.label>过度使用魔术</TM_MagicUse_Disapprove_Mood.stages.2.label>
+  <TM_MagicUse_Disapprove_Mood.stages.2.description>使用太多的魔术了！</TM_MagicUse_Disapprove_Mood.stages.2.description>
+  <TM_MagicUse_Disapprove_Mood.stages.3.label>魔术主导地位</TM_MagicUse_Disapprove_Mood.stages.3.label>
+  <TM_MagicUse_Disapprove_Mood.stages.3.description>魔术完全主导着环境。我们的思想是假的。</TM_MagicUse_Disapprove_Mood.stages.3.description>
+
+  <TM_MagesInColony_Disapprove_Mood.stages.0.label>受限法师</TM_MagesInColony_Disapprove_Mood.stages.0.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.0.description>我们的殖民地对自由法师的数量有严格的控制。</TM_MagesInColony_Disapprove_Mood.stages.0.description>
+  <TM_MagesInColony_Disapprove_Mood.stages.1.label>法师太多</TM_MagesInColony_Disapprove_Mood.stages.1.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.1.description>殖民地中有太多的自由法师，需要快速控制这一点-使它们成为奴隶！</TM_MagesInColony_Disapprove_Mood.stages.1.description>
+  <TM_MagesInColony_Disapprove_Mood.stages.2.label>过多的法师</TM_MagesInColony_Disapprove_Mood.stages.2.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.2.description>殖民地中的法师数量过多，无法控制。我们应该立即奴役所有法师，以恢复良好的订单和纪律。</TM_MagesInColony_Disapprove_Mood.stages.2.description>
+  <TM_MagesInColony_Disapprove_Mood.stages.3.label>法师数量飙升</TM_MagesInColony_Disapprove_Mood.stages.3.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.3.description>我们显然无法限制殖民地中的免费法师数量。</TM_MagesInColony_Disapprove_Mood.stages.3.description>
+  <TM_MagesInColony_Disapprove_Mood.stages.4.label>法师多数</TM_MagesInColony_Disapprove_Mood.stages.4.label>
+  <TM_MagesInColony_Disapprove_Mood.stages.4.description>现在有更多的自由法师。我们甚至想完成什么？</TM_MagesInColony_Disapprove_Mood.stages.4.description>
+
+  <TM_IsMage_Disapprove_Social.stages.0.label>法师</TM_IsMage_Disapprove_Social.stages.0.label>
+
+
+  <!-- Approve Thoughts -->
+
+  <TM_MagicUse_Know_Approve_Mood.stages.0.label>魔法丰富</TM_MagicUse_Know_Approve_Mood.stages.0.label>
+  <TM_MagicUse_Know_Approve_Mood.stages.0.description>我被强大的魔术所包围-我们的殖民地肯定可以承受任何挑战。</TM_MagicUse_Know_Approve_Mood.stages.0.description>
+  <TM_MagicUse_Know_Approve_Mood.stages.1.label>魔法使用</TM_MagicUse_Know_Approve_Mood.stages.1.label>
+  <TM_MagicUse_Know_Approve_Mood.stages.1.description>我看到了一些魔术，真是太神奇了！</TM_MagicUse_Know_Approve_Mood.stages.1.description>
+  <TM_MagicUse_Know_Approve_Mood.stages.2.label>没用魔法</TM_MagicUse_Know_Approve_Mood.stages.2.label>
+  <TM_MagicUse_Know_Approve_Mood.stages.2.description>我最近没有看到任何魔术。我的希望放错了吗？</TM_MagicUse_Know_Approve_Mood.stages.2.description>
+
+  <TM_MagicUse_Approve_Mood.stages.0.label>魔法冲击</TM_MagicUse_Approve_Mood.stages.0.label>
+  <TM_MagicUse_Approve_Mood.stages.0.description>神奇的能量正冲过我，我觉得我可以做任何事情！</TM_MagicUse_Approve_Mood.stages.0.description>
+  <TM_MagicUse_Approve_Mood.stages.1.label>魔法使用</TM_MagicUse_Approve_Mood.stages.1.label>
+  <TM_MagicUse_Approve_Mood.stages.1.description>我使用了魔术，感觉很棒。</TM_MagicUse_Approve_Mood.stages.1.description>
+  <TM_MagicUse_Approve_Mood.stages.2.label>魔术剥夺</TM_MagicUse_Approve_Mood.stages.2.label>
+  <TM_MagicUse_Approve_Mood.stages.2.description>我最近没有使用任何魔术。我对自己的力量感到失去联系。</TM_MagicUse_Approve_Mood.stages.2.description>
+
+  <TM_MagesInColony_Approve_Mood.stages.0.label>法师主宰</TM_MagesInColony_Approve_Mood.stages.0.label>
+  <TM_MagesInColony_Approve_Mood.stages.0.description>法师的数量清楚地表明了我们殖民地的优势。</TM_MagesInColony_Approve_Mood.stages.0.description>
+  <TM_MagesInColony_Approve_Mood.stages.1.label>丰富的法师</TM_MagesInColony_Approve_Mood.stages.1.label>
+  <TM_MagesInColony_Approve_Mood.stages.1.description>我们的殖民地拥有大量法师，我们的成功是有保证的！</TM_MagesInColony_Approve_Mood.stages.1.description>
+  <TM_MagesInColony_Approve_Mood.stages.2.label>法师集体</TM_MagesInColony_Approve_Mood.stages.2.label>
+  <TM_MagesInColony_Approve_Mood.stages.2.description>殖民地中法师的数量丰富了生活的方方面面。</TM_MagesInColony_Approve_Mood.stages.2.description>
+  <TM_MagesInColony_Approve_Mood.stages.3.label>法师在场</TM_MagesInColony_Approve_Mood.stages.3.label>
+  <TM_MagesInColony_Approve_Mood.stages.3.description>我们的殖民地有几位法师，他们会指导我们魔法之路。</TM_MagesInColony_Approve_Mood.stages.3.description>
+  <TM_MagesInColony_Approve_Mood.stages.4.label>没有法师</TM_MagesInColony_Approve_Mood.stages.4.label>
+  <TM_MagesInColony_Approve_Mood.stages.4.description>如果殖民地没有法师，我们如何依靠魔法？</TM_MagesInColony_Approve_Mood.stages.4.description>
+
+  <TM_IsMage_Approve_Social.stages.0.label>法师</TM_IsMage_Approve_Social.stages.0.label>
+  <TM_IsMage_Approve_Social.stages.1.label>法师亲属关系</TM_IsMage_Approve_Social.stages.1.label>
+  <TM_IsMage_Approve_Social.stages.2.label>非法师</TM_IsMage_Approve_Social.stages.2.label>
+
+  <TM_PerformedSeverenceRitual_Social.stages.0.label>野蛮仪式</TM_PerformedSeverenceRitual_Social.stages.0.label>
+  <TM_PerformedSeverenceRitual_Social.stages.1.label>恶棍仪式</TM_PerformedSeverenceRitual_Social.stages.1.label>
+
+
+  <!-- Venerated Thoughts -->
+
+  <TM_KilledMage_Venerated_Social.stages.0.label>法师杀手</TM_KilledMage_Venerated_Social.stages.0.label>
+
+  <TM_KilledMage_Venerated_Mood.stages.0.label>法师杀手</TM_KilledMage_Venerated_Mood.stages.0.label>
+  <TM_KilledMage_Venerated_Mood.stages.0.description>我杀死了一个充满魔法的祝福...我怎么能和自己一起生活？</TM_KilledMage_Venerated_Mood.stages.0.description>
+  <TM_KilledMage_Venerated_Mood.stages.1.label>法师杀手</TM_KilledMage_Venerated_Mood.stages.1.label>
+  <TM_KilledMage_Venerated_Mood.stages.1.description>我被迫杀死另一个法师，这对我的良心重视。</TM_KilledMage_Venerated_Mood.stages.1.description>
+
+  <TM_KilledMage_Know_Venerated_Mood.stages.0.label>杀死了法师</TM_KilledMage_Know_Venerated_Mood.stages.0.label>
+  <TM_KilledMage_Know_Venerated_Mood.stages.0.description>我们杀死了一名法师；这违背了我们的质疑！</TM_KilledMage_Know_Venerated_Mood.stages.0.description>
+
+  <TM_MagicUse_Venerated_Social.stages.0.label>魔法使用</TM_MagicUse_Venerated_Social.stages.0.label>
+
+  <TM_MagicUse_Know_Venerated_Mood.stages.0.label>魔术丰富</TM_MagicUse_Know_Venerated_Mood.stages.0.label>
+  <TM_MagicUse_Know_Venerated_Mood.stages.0.description>我对魔术的力量感到敬畏和恐惧！</TM_MagicUse_Know_Venerated_Mood.stages.0.description>
+  <TM_MagicUse_Know_Venerated_Mood.stages.1.label>魔术使用</TM_MagicUse_Know_Venerated_Mood.stages.1.label>
+  <TM_MagicUse_Know_Venerated_Mood.stages.1.description>我目睹了光荣的魔法！</TM_MagicUse_Know_Venerated_Mood.stages.1.description>
+  <TM_MagicUse_Know_Venerated_Mood.stages.2.label>神奇的缺席</TM_MagicUse_Know_Venerated_Mood.stages.2.label>
+  <TM_MagicUse_Know_Venerated_Mood.stages.2.description>我最近没有看到任何魔术。它的缺席使我空洞。</TM_MagicUse_Know_Venerated_Mood.stages.2.description>
+
+  <TM_MagicUse_Venerated_Mood.stages.0.label>魔法冲击</TM_MagicUse_Venerated_Mood.stages.0.label>
+  <TM_MagicUse_Venerated_Mood.stages.0.description> 神奇的能量正在奔波我，我觉得我可以做任何事情！</TM_MagicUse_Venerated_Mood.stages.0.description>
+  <TM_MagicUse_Venerated_Mood.stages.1.label>魔法使用</TM_MagicUse_Venerated_Mood.stages.1.label>
+  <TM_MagicUse_Venerated_Mood.stages.1.description>我使用魔法；这是我存在的核心部分，并重申对我的优越性的信心。</TM_MagicUse_Venerated_Mood.stages.1.description>
+  <TM_MagicUse_Venerated_Mood.stages.2.label>魔法剥夺</TM_MagicUse_Venerated_Mood.stages.2.label>
+  <TM_MagicUse_Venerated_Mood.stages.2.description>我最近没有使用任何魔法；我感觉与我的力量失去联系。</TM_MagicUse_Venerated_Mood.stages.2.description>
+
+  <TM_MagesInColony_Venerated_Mood.stages.0.label>法师的主导地位</TM_MagesInColony_Venerated_Mood.stages.0.label>
+  <TM_MagesInColony_Venerated_Mood.stages.0.description>通过魔术的力量确保了我们殖民地的成功。</TM_MagesInColony_Venerated_Mood.stages.0.description>
+  <TM_MagesInColony_Venerated_Mood.stages.1.label>丰富的法师</TM_MagesInColony_Venerated_Mood.stages.1.label>
+  <TM_MagesInColony_Venerated_Mood.stages.1.description>我们的殖民地肯定是为了伟大而选择的，同时对这么多的法师进行了敬意。他们的联合力量是顽强的。</TM_MagesInColony_Venerated_Mood.stages.1.description>
+  <TM_MagesInColony_Venerated_Mood.stages.2.label>法师集体</TM_MagesInColony_Venerated_Mood.stages.2.label>
+  <TM_MagesInColony_Venerated_Mood.stages.2.description>像挂毯一样，殖民地中的法师数量已经开始揭示出宏伟的设计。</TM_MagesInColony_Venerated_Mood.stages.2.description>
+  <TM_MagesInColony_Venerated_Mood.stages.3.label>法师在场</TM_MagesInColony_Venerated_Mood.stages.3.label>
+  <TM_MagesInColony_Venerated_Mood.stages.3.description>我们殖民地中的法师将指导我们进入所选的道路。</TM_MagesInColony_Venerated_Mood.stages.3.description>
+  <TM_MagesInColony_Venerated_Mood.stages.4.label>没有法师</TM_MagesInColony_Venerated_Mood.stages.4.label>
+  <TM_MagesInColony_Venerated_Mood.stages.4.description>有魔术抛弃我们！？</TM_MagesInColony_Venerated_Mood.stages.4.description>
+
+  <TM_MagesPrisoner_Venerated_Mood.stages.0.label>法师囚犯</TM_MagesPrisoner_Venerated_Mood.stages.0.label>
+  <TM_MagesPrisoner_Venerated_Mood.stages.0.description>我们已经提出了一名法师，我们确定我们的行动是合理的吗？</TM_MagesPrisoner_Venerated_Mood.stages.0.description>
+
+  <TM_MagesSlave_Venerated_Mood.stages.0.label>法师奴隶</TM_MagesSlave_Venerated_Mood.stages.0.label>
+  <TM_MagesSlave_Venerated_Mood.stages.0.description>我们已经奴役了一名法师，这是一种卑鄙的行为。</TM_MagesSlave_Venerated_Mood.stages.0.description>
+
+  <TM_IsMage_Venerated_Social.stages.0.label>法师</TM_IsMage_Venerated_Social.stages.0.label>
+  <TM_IsMage_Venerated_Social.stages.1.label>法师亲属关系</TM_IsMage_Venerated_Social.stages.1.label>
+  <TM_IsMage_Venerated_Social.stages.2.label>非法师</TM_IsMage_Venerated_Social.stages.2.label>
+
+
+</LanguageData>

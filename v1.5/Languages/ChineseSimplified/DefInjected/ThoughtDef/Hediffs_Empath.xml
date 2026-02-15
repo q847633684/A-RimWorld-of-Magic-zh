@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_PositiveEmpathyTD.stages.0.label>积极情绪</TM_PositiveEmpathyTD.stages.0.label>
+  <TM_PositiveEmpathyTD.stages.0.description>读心师所传递的积极情绪。</TM_PositiveEmpathyTD.stages.0.description>
+
+  <TM_NegativeEmpathyTD.stages.0.label>消极情绪</TM_NegativeEmpathyTD.stages.0.label>
+  <TM_NegativeEmpathyTD.stages.0.description>读心师所传递的消极情绪</TM_NegativeEmpathyTD.stages.0.description>
+
+  <TM_SuppressiveAuraTD.stages.0.label>情感窃取</TM_SuppressiveAuraTD.stages.0.label>
+  <TM_SuppressiveAuraTD.stages.0.description>当剥夺他人的感觉能力时，我会深深地感情和失落。</TM_SuppressiveAuraTD.stages.0.description>
+
+  <TM_EmotionalWeightTD.stages.0.label>思维负担</TM_EmotionalWeightTD.stages.0.label>
+  <TM_EmotionalWeightTD.stages.0.description>我正承受着每个人的情绪。</TM_EmotionalWeightTD.stages.0.description>
+
+  <TM_SymbiosisThought.stages.0.label>思维链接</TM_SymbiosisThought.stages.0.label>
+  <TM_SymbiosisThought.stages.0.description>情感共生，有人在心底支撑着我。</TM_SymbiosisThought.stages.0.description>
+
+  <TM_OutOfBodyThought.stages.0.label>脱离身体</TM_OutOfBodyThought.stages.0.label>
+  <TM_OutOfBodyThought.stages.0.description>情绪能量被用来增加另一个典当。</TM_OutOfBodyThought.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_HediffEnchantment_maxMP.label>Max Energy:</TM_HediffEnchantment_maxMP.label>
+  <TM_HediffEnchantment_maxMP.stages.0.label></TM_HediffEnchantment_maxMP.stages.0.label>
+
+  <TM_HediffEnchantment_coolDown.label>CoolDown:</TM_HediffEnchantment_coolDown.label>
+  <TM_HediffEnchantment_coolDown.stages.0.label></TM_HediffEnchantment_coolDown.stages.0.label>
+
+  <TM_HediffEnchantment_mpCost.label>Energy Cost:</TM_HediffEnchantment_mpCost.label>
+  <TM_HediffEnchantment_mpCost.stages.0.label></TM_HediffEnchantment_mpCost.stages.0.label>
+
+  <TM_HediffEnchantment_mpRegenRate.label>Energy Regen:</TM_HediffEnchantment_mpRegenRate.label>
+  <TM_HediffEnchantment_mpRegenRate.stages.0.label></TM_HediffEnchantment_mpRegenRate.stages.0.label>
+
+  <TM_HediffEnchantment_xpGain.label>XP Gain:</TM_HediffEnchantment_xpGain.label>
+  <TM_HediffEnchantment_xpGain.stages.0.label></TM_HediffEnchantment_xpGain.stages.0.label>
+
+  <TM_HediffEnchantment_arcaneRes.label>Arcane Resistance:</TM_HediffEnchantment_arcaneRes.label>
+  <TM_HediffEnchantment_arcaneRes.stages.0.label></TM_HediffEnchantment_arcaneRes.stages.0.label>
+
+  <TM_HediffEnchantment_arcaneDmg.label>Damage Bonus:</TM_HediffEnchantment_arcaneDmg.label>
+  <TM_HediffEnchantment_arcaneDmg.stages.0.label></TM_HediffEnchantment_arcaneDmg.stages.0.label>
+
+  <TM_HediffEnchantment_arcaneSpectre.label>Arcane Spectre</TM_HediffEnchantment_arcaneSpectre.label>
+  <TM_HediffEnchantment_arcaneSpectre.stages.0.label></TM_HediffEnchantment_arcaneSpectre.stages.0.label>
+
+  <TM_HediffEnchantment_phantomShift.label>Phantom Shift</TM_HediffEnchantment_phantomShift.label>
+  <TM_HediffEnchantment_phantomShift.stages.0.label></TM_HediffEnchantment_phantomShift.stages.0.label>
+
+  <TM_HediffEnchantment_arcalleumCooldown.label>Arcalleum Cooldown</TM_HediffEnchantment_arcalleumCooldown.label>
+  <TM_HediffEnchantment_arcalleumCooldown.stages.0.label></TM_HediffEnchantment_arcalleumCooldown.stages.0.label>
+
+
+</LanguageData>

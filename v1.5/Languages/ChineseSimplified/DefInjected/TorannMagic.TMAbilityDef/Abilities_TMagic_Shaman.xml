@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Totems -->
+
+  <TM_Totems.label>图腾</TM_Totems.label>
+  <TM_Totems.description>图腾是一种魔法种类，它将元素灵魂锚定在物质世界上，并允许它影响图腾附近的物体。这个技能增加了对所有类型图腾的控制。</TM_Totems.description>
+
+
+  <!-- Create lightning totem -->
+
+  <TM_SummonTotemLightning.label>图腾：闪电</TM_SummonTotemLightning.label>
+  <TM_SummonTotemLightning.description>在目标位置制造一个闪电图腾。持续1个游戏小时，每2-3秒在40米范围内对敌人施放闪电攻击。</TM_SummonTotemLightning.description>
+
+
+  <!-- Create earth totem -->
+
+  <TM_SummonTotemEarth.label>图腾:大地</TM_SummonTotemEarth.label>
+  <TM_SummonTotemEarth.description>在目标位置制造一个大地图腾。持续1个游戏小时，每3-4秒引起震动，使5周边格内的所有生物眩晕。</TM_SummonTotemEarth.description>
+
+
+  <!-- Create healing totem -->
+
+  <TM_SummonTotemHealing.label>图腾:治疗</TM_SummonTotemHealing.label>
+  <TM_SummonTotemHealing.description>在目标位置制造一个治疗图腾。持续1个游戏小时，并定期治疗附近的生物。</TM_SummonTotemHealing.description>
+
+
+  <!-- Chain Lightning -->
+
+  <TM_ChainLightning.label>闪电链</TM_ChainLightning.label>
+  <TM_ChainLightning.description>击中第一个目标后分叉的闪电。</TM_ChainLightning.description>
+
+
+  <!-- Enrage -->
+
+  <TM_Enrage.label>激怒</TM_Enrage.label>
+  <TM_Enrage.description>释放魔法诅咒生物，使他们的情绪（坏脾气）成为战斗怒气的燃料。一旦所有的情感都被消耗掉了，激怒魔法就会自我焚毁。如果是敌方目标的思想受到攻击，他们会立即变得狂暴。\n一个愤怒的人会获得移动和操作加成，增加疼痛抵抗力，不会眩晕，并且百分之X增加近战伤害,X等于愤怒的严重程度（20-50%的伤害加成）。</TM_Enrage.description>
+
+
+  <!-- Hex -->
+
+  <TM_Hex.label>妖术（I）</TM_Hex.label>
+  <TM_Hex.description>释放妖术诅咒生物，妖术会标记生物，萨满的额外技能造成的附加效果可以应用到妖术目标上。游戏6小时后妖术就会消失。\n\n最大目标: 4\n半径: 3\n范围: 36\n施法时间: 1s</TM_Hex.description>
+
+  <TM_Hex_I.label>妖术（II）</TM_Hex_I.label>
+  <TM_Hex_I.description>释放妖术诅咒生物，妖术会标记生物，萨满的额外技能造成的附加效果可以应用到妖术目标上。游戏6小时后妖术就会消失。\n\n最大目标:5\n半径: 3\n范围: 40\n施法时间: .8s</TM_Hex_I.description>
+
+  <TM_Hex_II.label>妖术（III）</TM_Hex_II.label>
+  <TM_Hex_II.description>释放妖术诅咒生物，妖术会标记生物，萨满的额外技能造成的附加效果可以应用到妖术目标上。游戏6小时后妖术就会消失。\n\n最大目标: 5\n半径: 4\n范围: 43\n施法时间: .7s</TM_Hex_II.description>
+
+  <TM_Hex_III.label>妖术（IV）</TM_Hex_III.label>
+  <TM_Hex_III.description>释放妖术诅咒生物，妖术会标记生物，萨满的额外技能造成的附加效果可以应用到妖术目标上。游戏6小时后妖术就会消失。\n\n最大目标: 6\n半径: 4\n范围: 45\n施法时间: .6s</TM_Hex_III.description>
+
+  <TM_Hex_Pain.label>痛苦 （妖术）</TM_Hex_Pain.label>
+  <TM_Hex_Pain.description>所有被诅咒的生物都会遭受极度的痛苦。</TM_Hex_Pain.description>
+
+  <TM_Hex_CriticalFail.label>严重诅咒（妖术）</TM_Hex_CriticalFail.label>
+  <TM_Hex_CriticalFail.description>对所有被诅咒的运气不那么好的目标的施以短命诅咒。</TM_Hex_CriticalFail.description>
+
+  <TM_Hex_MentalAssault.label>精神攻击（妖术）</TM_Hex_MentalAssault.label>
+  <TM_Hex_MentalAssault.description>使所有被扭曲的目标体验到一种戏剧性的，潜在的，压倒性的情绪波动。</TM_Hex_MentalAssault.description>
+
+
+  <!-- Spirit Wolves -->
+
+  <TM_SpiritWolves.label>幽灵狼（I）</TM_SpiritWolves.label>
+  <TM_SpiritWolves.description>具现一群幽灵狼\n		幽灵狼使用的精神伤害会无视护甲和眩晕；\n范围：50\n施法时间：3s\n冷却时间：120秒</TM_SpiritWolves.description>
+
+  <TM_SpiritWolves_I.label>幽灵狼（II）</TM_SpiritWolves_I.label>
+  <TM_SpiritWolves_I.description>具现一群幽灵狼\n		幽灵狼使用的精神伤害会无视护甲和眩晕；\n		范围：55\n施法时间：2.7s\n冷却时间：110秒</TM_SpiritWolves_I.description>
+
+  <TM_SpiritWolves_II.label>幽灵狼（III）</TM_SpiritWolves_II.label>
+  <TM_SpiritWolves_II.description>具现一群幽灵狼\n		幽灵狼使用的精神伤害会无视护甲和眩晕；		范围：60\n施法时间：2.5s\n冷却时间：100秒</TM_SpiritWolves_II.description>
+
+  <TM_SpiritWolves_III.label>幽灵狼（IV）</TM_SpiritWolves_III.label>
+  <TM_SpiritWolves_III.description>具现一群幽灵狼\n		幽灵狼使用的精神伤害会无视护甲和眩晕；		范围：65\n施法时间：2.4s\n冷却时间：90秒</TM_SpiritWolves_III.description>
+
+
+  <!-- Guardian Spirit -->
+
+  <TM_GuardianSpirit.label>守护之灵</TM_GuardianSpirit.label>
+  <TM_GuardianSpirit.description>召唤守护之灵。守护之灵会具现为具有独特力量和能力的强大动物。\n灵熊-代表防御和坚韧；将对任何无视这只危险野兽的人发出具有挑战性的咆哮\n灵之猫鼬-代表狡猾和敏捷；能够从灵魂王国溜出，发动致命的隐秘之击\n幽灵乌鸦-代表魔法和洞察；会对敌人释放魔法并且提高它的所守护之人的智慧\n一旦确定，守护灵的类型会保持不变，但是，这可以用一卷精神绑定卷轴强制改变。</TM_GuardianSpirit.description>
+
+  <TM_DismissGuardianSpirit.label>解除守护之灵</TM_DismissGuardianSpirit.label>
+  <TM_DismissGuardianSpirit.description>所有被这个施法者维持的守护之灵都会回到灵魂领域。</TM_DismissGuardianSpirit.description>
+
+
+</LanguageData>

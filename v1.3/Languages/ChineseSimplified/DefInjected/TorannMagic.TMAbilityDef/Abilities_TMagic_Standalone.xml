@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Heater -->
+
+  <TM_Heater.label>魔法热源</TM_Heater.label>
+  <TM_Heater.description>创造一个连接火元素位面的容器，容器会一直散发热能。法术的能量可以维持容器运作几天的时间。激活时减少25点最大MP。</TM_Heater.description>
+
+  <TM_DismissHeater.label>关闭魔法热源</TM_DismissHeater.label>
+  <TM_DismissHeater.description>关闭一个魔法热源。</TM_DismissHeater.description>
+
+
+  <!-- Cooler -->
+
+  <TM_Cooler.label>魔法冷源</TM_Cooler.label>
+  <TM_Cooler.description>创造一个连接冰元素位面的容器，容器会一直散发寒气。法术的能量可以维持容器运作几天的时间。激活时减少25点最大MP。</TM_Cooler.description>
+
+  <TM_DismissCooler.label>关闭魔法冷源</TM_DismissCooler.label>
+  <TM_DismissCooler.description>关闭一个魔法冷源</TM_DismissCooler.description>
+
+
+  <!-- Power Node -->
+
+  <TM_PowerNode.label>奥术电源节点</TM_PowerNode.label>
+  <TM_PowerNode.description>创造一个可以缓慢释放奥术能量并转化为电力的魔法电源. 可以作为电源使用。激活时减少25点最大法力值和25%的法力回复量。</TM_PowerNode.description>
+
+  <TM_DismissPowerNode.label>关闭奥术电源节点</TM_DismissPowerNode.label>
+  <TM_DismissPowerNode.description>关闭一个奥术电源节点。</TM_DismissPowerNode.description>
+
+
+  <!-- Light Node -->
+
+  <TM_Sunlight.label>日光术</TM_Sunlight.label>
+  <TM_Sunlight.description>创造一个足以使作物生长的光源。这个光源必须由魔法师维持 - 当处于激活状态时降低40点最大法力值以及40%的法力恢复速度。</TM_Sunlight.description>
+
+  <TM_DismissSunlight.label>关闭日光术</TM_DismissSunlight.label>
+  <TM_DismissSunlight.description>停止释放日光术。</TM_DismissSunlight.description>
+
+
+  <!-- Remove Moisture -->
+
+  <TM_DryGround.label>魔力蒸腾</TM_DryGround.label>
+  <TM_DryGround.description>引导热能使目标区域的大多数水分被蒸发。只作用于泥地。</TM_DryGround.description>
+
+
+  <!-- Add Moisture -->
+
+  <TM_WetGround.label>滋润大地</TM_WetGround.label>
+  <TM_WetGround.description>引导水的力量把沙地变为可种植的土壤。</TM_WetGround.description>
+
+
+  <!-- Charge Battery -->
+
+  <TM_ChargeBattery.label>电池充能</TM_ChargeBattery.label>
+  <TM_ChargeBattery.description>将魔法能量转换为电能。该法术只能用于给电池充电。产生 400Wd。</TM_ChargeBattery.description>
+
+
+  <!-- Smoke Cloud -->
+
+  <TM_SmokeCloud.label>烟云蔽日</TM_SmokeCloud.label>
+  <TM_SmokeCloud.description>通过点燃空气中的灰尘粒子产生一道烟幕来隐藏一片区域。</TM_SmokeCloud.description>
+
+
+  <!-- Extinguish -->
+
+  <TM_Extinguish.label>熄灭</TM_Extinguish.label>
+  <TM_Extinguish.description>将火元素从指定区域驱散，立即熄灭目标区域的火焰。</TM_Extinguish.description>
+
+
+  <!-- EMP -->
+
+  <TM_EMP.label>电磁脉冲</TM_EMP.label>
+  <TM_EMP.description>在指定地点制造一场电磁脉冲爆炸，在短时间内瘫痪所有机械体。</TM_EMP.description>
+
+
+  <!-- Transfer mana -->
+
+  <TM_TransferMana.label>法力转移</TM_TransferMana.label>
+  <TM_TransferMana.description>将魔法能量转移给其他生物。非魔法师的受术者会产生明显的效果，其身体能力将会在短期内得到增强。在法术等级极高的情况下有致伤甚至致死的风险。</TM_TransferMana.description>
+
+
+  <!-- siphon mana -->
+
+  <TM_SiphonMana.label>法力虹吸</TM_SiphonMana.label>
+  <TM_SiphonMana.description>从其他生物处吸取法力。非魔法师的受术者的身体能力反而会大幅度下降。如果生命力过于枯竭会有致死的风险。</TM_SiphonMana.description>
+
+
+  <!-- mana shield -->
+
+  <TM_ManaShield.label>法力护盾</TM_ManaShield.label>
+  <TM_ManaShield.description>召唤一层法力护盾来抵消魔法师受到的伤害。每 1 点伤害需要耗费 1 点的法力。当法力不足以抵消受到的伤害时护盾会崩溃。当护盾在激活状态时再次释放该技能会取消护盾效果。可以与护盾腰带一起使用。请不要主动在施法过程中进行妨碍。</TM_ManaShield.description>
+
+
+  <!-- summoned wall -->
+
+  <TM_ArcaneBarrier.label>奥术障碍</TM_ArcaneBarrier.label>
+  <TM_ArcaneBarrier.description>在指定地点创造一堵水平于施法者的奥术障碍墙。此物体会存在60秒钟。</TM_ArcaneBarrier.description>
+
+
+  <!-- Flight -->
+
+  <TM_Flight.label>飞行</TM_Flight.label>
+  <TM_Flight.description>快速飞行到目标地点。</TM_Flight.description>
+
+
+  <!-- Fertile land -->
+
+  <TM_FertileLands.label>大地祝福</TM_FertileLands.label>
+  <TM_FertileLands.description>德鲁伊使用神力祝福一片土地并提升其肥沃度，维持此技能会降低德鲁伊法力恢复速度40%，德鲁伊同一时间只能祝福一片区域。</TM_FertileLands.description>
+
+  <TM_DismissFertileLands.label>关闭大地祝福</TM_DismissFertileLands.label>
+  <TM_DismissFertileLands.description>使存在于土地中的德鲁伊神力消散。</TM_DismissFertileLands.description>
+
+
+  <!-- Spell Mending -->
+
+  <TM_SpellMending.label>拼补</TM_SpellMending.label>
+  <TM_SpellMending.description>对目标使用技能会缓慢修复其身上的装备耐久度。修复耐久度需要装备被穿戴在身上才可以进行。这会对受影响生物造成负担并降低其身体行动力。拼补能量会在几小时后消散。</TM_SpellMending.description>
+
+
+  <!-- Cauterize Wound -->
+
+  <TM_CauterizeWound.label>烧灼伤口</TM_CauterizeWound.label>
+  <TM_CauterizeWound.description>火魔法师凝聚元素之力立即烧灼封闭病人的伤口。然而可能会留下烧伤疤痕。</TM_CauterizeWound.description>
+
+
+  <!-- Teach Magic & Might -->
+
+  <TM_TeachMagic.label>法术指导</TM_TeachMagic.label>
+  <TM_TeachMagic.description>指导一个低级别的法师来增强他们的魔法技能。\n  \n被指导的法师将获得XP.获得的经验值取决于两个法师之间的等级差异。</TM_TeachMagic.description>
+
+  <TM_TeachMight.label>武艺训练</TM_TeachMight.label>
+  <TM_TeachMight.description>训练一个低级别的战士以提高他们的战斗技能。\n  \n被训练的战士将获得XP.获得的经验值取决于两个战士之间的等级差异。</TM_TeachMight.description>
+
+
+  <!-- blur -->
+
+  <TM_Blur.label>模糊</TM_Blur.label>
+  <TM_Blur.description>通过扭曲施法者周围的光线来增加20%闪避。需要20点的法力维持。重复使用技能取消。</TM_Blur.description>
+
+
+  <!-- blank mind -->
+
+  <TM_BlankMind.label>清除记忆</TM_BlankMind.label>
+  <TM_BlankMind.description>抹去目标的记忆造成短暂的混乱。当用在敌人身上时，会使敌人昏迷一小段时间。\n  \n当用在已方单位身上时，目标会失去美好和糟糕的记忆。</TM_BlankMind.description>
+
+
+  <!-- dirt devil -->
+
+  <TM_DirtDevil.label>空气元素</TM_DirtDevil.label>
+  <TM_DirtDevil.description>召唤一个空气元素来帮你打扫与清洁。</TM_DirtDevil.description>
+
+  <TM_MechaniteReprogramming.label>机械重组</TM_MechaniteReprogramming.label>
+  <TM_MechaniteReprogramming.description>重新编程纤维或感官机械，以与宿主的生物系统同化。当机械装置处于活动状态时，将显著降低对宿主的影响。</TM_MechaniteReprogramming.description>
+
+
+  <!-- Arcane Bolt -->
+
+  <TM_ArcaneBolt.label>奥术射线</TM_ArcaneBolt.label>
+  <TM_ArcaneBolt.description>发射一束原始的奥术能量。这种能力将根据施法者的魔法等级缓慢增长。\n由于法术性质不明，奥术射线效率很低，但是任何能使用暴力的法师都可以学习和施放它。</TM_ArcaneBolt.description>
+
+
+  <!-- Throwing Knife -->
+
+  <TM_ThrowingKnife.label>投掷飞刀</TM_ThrowingKnife.label>
+  <TM_ThrowingKnife.description>投掷一柄飞刀进行远程攻击。</TM_ThrowingKnife.description>
+
+
+  <!-- Pommel Strike -->
+
+  <TM_PommelStrike.label>剑柄打击</TM_PommelStrike.label>
+  <TM_PommelStrike.description>使用剑柄（或任何武器末端）对目标发起一次非致命的武器打击，该打击受目标疼痛影响可以立即击倒目标，疼痛越多击倒几率越大，\n  只有目标被击晕几率在80%以上时才会自动施法。</TM_PommelStrike.description>
+
+
+  <!-- Lightning Trap -->
+
+  <TM_LightningTrap.label>闪电陷阱</TM_LightningTrap.label>
+  <TM_LightningTrap.description>将闪电元素收束在容器中并作为陷阱放置，当周围有敌人时释放出来，陷阱虽然没有时间限制但每个法师同一时间只能维持一个陷阱。</TM_LightningTrap.description>
+
+  <TM_DismissLightningTrap.label>解除闪电陷阱</TM_DismissLightningTrap.label>
+  <TM_DismissLightningTrap.description>解除一个闪电陷阱。</TM_DismissLightningTrap.description>
+
+
+  <!-- invisibility -->
+
+  <TM_Invisibility.label>隐身</TM_Invisibility.label>
+  <TM_Invisibility.description>立即隐身20秒，任何互动都会立即解除该法术，所有敌人都看不见你。</TM_Invisibility.description>
+
+
+  <!-- briar patch -->
+
+  <TM_BriarPatch.label>自然之怒</TM_BriarPatch.label>
+  <TM_BriarPatch.description>召唤一片带刺的藤蔓，影响该区域内所有人的移动速度，试图穿过藤蔓的人都有可能受伤。</TM_BriarPatch.description>
+
+
+  <!-- Magelight -->
+
+  <TM_MageLight.label>魔法之光</TM_MageLight.label>
+  <TM_MageLight.description>创造出一个能驱散黑暗的小光球。魔法之光将留在法师附近。这个法术的维持费用为10点法力和5%法力回复。\n法师之光给予20%的视力加成；只有施法者从中受益。\n法师之光可以通过对施法者使用这个技能来驱散。</TM_MageLight.description>
+
+
+  <!-- Legion start -->
+
+  <TM_Legion.label>军团</TM_Legion.label>
+  <TM_Legion.description>从另一个战士身上复制技能。复制技能的所有加成和限制都保留。一次只能存储一个技能。</TM_Legion.description>
+
+
+  <!-- Tempest Strike -->
+
+  <TM_TempestStrike.label>风暴打击</TM_TempestStrike.label>
+  <TM_TempestStrike.description>快速连续发动多起攻击。每次攻击消耗20点体力。风暴打击将在战士体力不足或5次攻击后结束。\n近战武器产生能量之刃。\n只有当装备的武器在使用后不被消耗时，这种攻击才有效。</TM_TempestStrike.description>
+
+
+  <!-- ignite -->
+
+  <TM_Ignite.label>点燃</TM_Ignite.label>
+  <TM_Ignite.description>把大量的热量集中在一个点上，然后释放出来。释放出的热量会点燃附近的生物，并点燃尸体。释放的热量也会大大提高任何封闭区域的温度。</TM_Ignite.description>
+
+
+  <!-- snap freeze -->
+
+  <TM_SnapFreeze.label>快速冻结</TM_SnapFreeze.label>
+  <TM_SnapFreeze.description>几乎消除了目标处的所有热量，从而导致任何活物体突然被冻结。生物可能会遭受冻伤，大多数植物会死亡。对于任何封闭区域，散热也会显著降低温度。</TM_SnapFreeze.description>
+
+
+  <!-- discord -->
+
+  <TM_Discord.label>纪声</TM_Discord.label>
+  <TM_Discord.description>一种通灵能力，持续不断地用随机和刺耳的声音攻击目标的感官。这种感觉上的超载会逐渐削弱目标的心灵稳定性，最终，目标的心灵上的和谐会彻底崩溃。陷入不和，这种能力的结果各不相同，但会随着每次更新而增强。\n影响包括头晕、恶心、视力和听力下降、呕吐、无法分辨敌友、不能算比较长的公式、不喜欢其他小人、丧失运动技能、失去理智、渴望讨论政治、突发性脑出血和头颅爆炸。当目标对准盟友使用时，结果可能会有所不同。使用前咨询你的治疗师频道。（这技能英文名Discord，和外国一款适用于游戏玩家一体化语音和文字聊天的即时通信(IM)软件同名，治疗师频道在玩梗）</TM_Discord.description>
+
+
+  <!-- magic warddrobe -->
+
+  <TM_MagicWardrobe.label>魔法衣橱</TM_MagicWardrobe.label>
+  <TM_MagicWardrobe.description>一个简单的魔法，一个空间口袋在存储所有装备的衣服。 当再次使用时，可以切换存储的装备。 适用于所有服装，但不适用于武器或持有的物品。</TM_MagicWardrobe.description>
+
+
+  <!-- heat shield -->
+
+  <TM_HeatShield.label>热能屏障</TM_HeatShield.label>
+  <TM_HeatShield.description>在盟友身上施展一个热能屏障，对热伤害提供75%的加成保护并防止着火。 影响最多6个目标，持续约30秒。</TM_HeatShield.description>
+
+
+  <!-- alter storm -->
+
+  <TM_AlterStorm.label>雨云更迭</TM_AlterStorm.label>
+  <TM_AlterStorm.description>改变天气，创造新的环境。 雨天时将会变成治愈性的雨水。雪天时，雪将会将变成冰雹对敌人进行阻碍，但一旦这种天气开始将不受控制，无法被唤雨者技能影响。</TM_AlterStorm.description>
+
+
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Chi -->
+
+  <TM_Chi.label>"气"</TM_Chi.label>
+  <TM_Chi.description>“气”或者说魂力，是存在于所有生命中的特殊能量，武僧们通过修炼来使用这种力量击退敌人施展法术，平衡“气”的节奏和流动需要大量的时间，通常武僧们会选择通过冥想来平衡。</TM_Chi.description>
+
+
+  <!-- Chi Burst -->
+
+  <TM_ChiBurst.label>气功波</TM_ChiBurst.label>
+  <TM_ChiBurst.description>将大量的气投射到目标区域，使目标区域内所有小人的能量过载。投射出去的“气”将中断战士和法师的能力，并将对他们的能力池造成伤害，如灵能、法力、血魔法、体力、恶意、“气”等。\n  有较低的几率移除小人的精神状态，可以被抵抗。</TM_ChiBurst.description>
+
+
+  <!-- Mind Over Body -->
+
+  <TM_MindOverBody.label>御气护体</TM_MindOverBody.label>
+  <TM_MindOverBody.description>提高武僧对身体的控制，提高他们对压力的适应能力，提供伤害减免（随盔甲的重量减少）\n  被动增益意识、移动、操作、近战命中几率、闪避、护甲穿透、崩溃临界点和疼痛阈值。</TM_MindOverBody.description>
+
+
+  <!-- Meditate -->
+
+  <TM_Meditate.label>冥想</TM_Meditate.label>
+  <TM_Meditate.description>冥想可以恢复武僧的生命力，是保持“气”的重要方式\n  在冥想产生“气”之前，必须保证武僧的身体与精神状况良好，如果武僧收到折磨（伤口、疾病、精神崩溃、毒瘾等），冥想将只会消除痛苦，痛苦只能在冥想状态下被移除。</TM_Meditate.description>
+
+
+  <!-- Tiger Strike -->
+
+  <TM_TigerStrike.label>猛虎下山式</TM_TigerStrike.label>
+  <TM_TigerStrike.description>一种近战攻击，对一个对手进行多次快速打击。必须在近战范围内且没有武器才能执行此攻击。\n\n\n\n激活能力（12“气”）：快速连续发动4次攻击。猛虎下山可以进一步训练，以增加额外的攻击，可以晕眩，消耗能量，或提供破坏重要器官的精确攻击。\n\n\n\n被动能力（8耐力）：对一个对手进行多次攻击；攻击可以是任何类型（物理攻击、眩晕攻击、消耗攻击、致命攻击）。猛虎下山有机会触发连击。</TM_TigerStrike.description>
+
+
+  <!-- Dragon Strike -->
+
+  <TM_DragonStrike.label>潜龙出渊式</TM_DragonStrike.label>
+  <TM_DragonStrike.description>一种跳跃攻击，使僧侣能迅速接近对手。\n\n\n\n激活能力(8“气”):跃过空中，向远处的对手发出有力的飞踢。敌人越接近，潜龙出渊造成的伤害就越多。如果对手在5格内，此攻击也会将目标击退。\n\n\n\n被动能力(10耐力):执行一个能攻击多个对手的回旋踢。当多个敌人靠近目标时，潜龙出渊有机会触发。</TM_DragonStrike.description>
+
+
+  <!-- Thunder Strike -->
+
+  <TM_ThunderStrike.label>奔雷掌</TM_ThunderStrike.label>
+  <TM_ThunderStrike.description>用足够的气来发动攻击以产生闪电。</TM_ThunderStrike.description>
+
+
+</LanguageData>

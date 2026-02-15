@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_DecayHD.label>腐朽之触</TM_DecayHD.label>
+  <TM_DecayHD.description>迅速腐烂，腐蚀，并溶解物质和组织。</TM_DecayHD.description>
+  <TM_DecayHD.stages.0.label></TM_DecayHD.stages.0.label>
+
+  <TM_DeathFieldHD.label>死亡领域</TM_DeathFieldHD.label>
+  <TM_DeathFieldHD.description>周期性地用死亡能量攻击附近的敌人。</TM_DeathFieldHD.description>
+  <TM_DeathFieldHD.stages.0.label></TM_DeathFieldHD.stages.0.label>
+
+  <TM_DoomFieldHD.label>死亡深渊</TM_DoomFieldHD.label>
+  <TM_DoomFieldHD.description>周期性的减缓附近敌人的速度。</TM_DoomFieldHD.description>
+  <TM_DoomFieldHD.stages.0.label></TM_DoomFieldHD.stages.0.label>
+
+  <TM_HollowGolem_BreastPlateHD.label>空洞胸甲</TM_HollowGolem_BreastPlateHD.label>
+  <TM_HollowGolem_BreastPlateHD.description>保护躯干</TM_HollowGolem_BreastPlateHD.description>
+  <TM_HollowGolem_BreastPlateHD.stages.0.label></TM_HollowGolem_BreastPlateHD.stages.0.label>
+
+  <TM_HollowGolem_HelmHD.label>空洞之盔</TM_HollowGolem_HelmHD.label>
+  <TM_HollowGolem_HelmHD.description>保护头部。</TM_HollowGolem_HelmHD.description>
+  <TM_HollowGolem_HelmHD.stages.0.label></TM_HollowGolem_HelmHD.stages.0.label>
+
+  <TM_HollowGolem_ShoulderHD.label>空洞护肩</TM_HollowGolem_ShoulderHD.label>
+  <TM_HollowGolem_ShoulderHD.description>护脖子锁骨以及两肩。</TM_HollowGolem_ShoulderHD.description>
+  <TM_HollowGolem_ShoulderHD.stages.0.label></TM_HollowGolem_ShoulderHD.stages.0.label>
+
+  <TM_HollowGolem_CrownHD.label>觉醒之冠</TM_HollowGolem_CrownHD.label>
+  <TM_HollowGolem_CrownHD.description>增强傀儡的魔法抗性，并提供少量的物理保护。主动技能：探测并消除来袭的魔法。</TM_HollowGolem_CrownHD.description>
+  <TM_HollowGolem_CrownHD.stages.0.label></TM_HollowGolem_CrownHD.stages.0.label>
+
+  <TM_HollowGolem_CloakHD.label>褪色斗篷</TM_HollowGolem_CloakHD.label>
+  <TM_HollowGolem_CloakHD.description>增加移动能力，并提供少量护甲。</TM_HollowGolem_CloakHD.description>
+  <TM_HollowGolem_CloakHD.stages.0.label></TM_HollowGolem_CloakHD.stages.0.label>
+
+  <TM_HollowGolem_CoAFireHD.label>纹章：火</TM_HollowGolem_CoAFireHD.label>
+  <TM_HollowGolem_CoAFireHD.description>增加移动速度和热能护甲。</TM_HollowGolem_CoAFireHD.description>
+  <TM_HollowGolem_CoAFireHD.stages.0.label>I</TM_HollowGolem_CoAFireHD.stages.0.label>
+  <TM_HollowGolem_CoAFireHD.stages.1.label>II</TM_HollowGolem_CoAFireHD.stages.1.label>
+  <TM_HollowGolem_CoAFireHD.stages.2.label>III</TM_HollowGolem_CoAFireHD.stages.2.label>
+
+  <TM_HollowGolem_CoAIceHD.label>纹章：水</TM_HollowGolem_CoAIceHD.label>
+  <TM_HollowGolem_CoAIceHD.description>增加护甲。</TM_HollowGolem_CoAIceHD.description>
+  <TM_HollowGolem_CoAIceHD.stages.0.label>I</TM_HollowGolem_CoAIceHD.stages.0.label>
+  <TM_HollowGolem_CoAIceHD.stages.1.label>II</TM_HollowGolem_CoAIceHD.stages.1.label>
+  <TM_HollowGolem_CoAIceHD.stages.2.label>III</TM_HollowGolem_CoAIceHD.stages.2.label>
+
+
+</LanguageData>

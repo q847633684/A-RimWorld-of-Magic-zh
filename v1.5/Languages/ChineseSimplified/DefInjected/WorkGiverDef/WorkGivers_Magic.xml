@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gemcutting -->
+
+  <DoBillsGemcutting.label>在附魔台完成清单</DoBillsGemcutting.label>
+  <DoBillsGemcutting.verb>打造</DoBillsGemcutting.verb>
+  <DoBillsGemcutting.gerund>宝石加工</DoBillsGemcutting.gerund>
+
+
+  <!-- Printing -->
+
+  <DoBillsPrintingPress.label>在刻绘台完成清单</DoBillsPrintingPress.label>
+  <DoBillsPrintingPress.verb>打造</DoBillsPrintingPress.verb>
+  <DoBillsPrintingPress.gerund>刻绘中</DoBillsPrintingPress.gerund>
+
+
+  <!-- Bard Entertain -->
+
+  <DoEntertain.label>招待殖民者</DoEntertain.label>
+  <DoEntertain.verb>招待</DoEntertain.verb>
+  <DoEntertain.gerund>招待中</DoEntertain.gerund>
+
+
+  <!-- Commander Motivate -->
+
+  <DoCommanderMotivate.label>激励殖民者</DoCommanderMotivate.label>
+  <DoCommanderMotivate.verb>激励</DoCommanderMotivate.verb>
+  <DoCommanderMotivate.gerund>激励</DoCommanderMotivate.gerund>
+
+
+  <!-- Magic Work Related -->
+
+  <ChargeStructure.label>魔法物品充能</ChargeStructure.label>
+  <ChargeStructure.verb>魔法物品充能</ChargeStructure.verb>
+  <ChargeStructure.gerund>魔法物品充能中</ChargeStructure.gerund>
+
+  <DoBillsArcaneForge.label>在奥术熔炉完成清单</DoBillsArcaneForge.label>
+  <DoBillsArcaneForge.verb>锻造</DoBillsArcaneForge.verb>
+  <DoBillsArcaneForge.gerund>锻造中</DoBillsArcaneForge.gerund>
+
+
+  <!-- Golem Work Related -->
+
+  <DoBillsGolemBuilding.label>在傀儡上工作</DoBillsGolemBuilding.label>
+  <DoBillsGolemBuilding.verb>傀儡工作</DoBillsGolemBuilding.verb>
+  <DoBillsGolemBuilding.gerund>正在傀儡上工作</DoBillsGolemBuilding.gerund>
+
+
+</LanguageData>

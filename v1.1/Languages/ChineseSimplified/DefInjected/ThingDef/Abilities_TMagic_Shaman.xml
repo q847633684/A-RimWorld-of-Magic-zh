@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Chain Lightning -->
+
+  <Projectile_ChainLightning.label>chain lightning</Projectile_ChainLightning.label>
+
+
+  <!-- Spirit Wolves -->
+
+  <Projectile_SpiritWolves.label>spirit wolves</Projectile_SpiritWolves.label>
+  <Projectile_SpiritWolves_I.label>spirit wolves</Projectile_SpiritWolves_I.label>
+  <Projectile_SpiritWolves_II.label>spirit wolves</Projectile_SpiritWolves_II.label>
+  <Projectile_SpiritWolves_III.label>spirit wolves</Projectile_SpiritWolves_III.label>
+  <FlyingObject_SpiritWolves.label>spirit wolves</FlyingObject_SpiritWolves.label>
+
+
+  <!-- Guardian Spirit -->
+
+  <Projectile_GuardianSpirit.label>guardian spirit projectile</Projectile_GuardianSpirit.label>
+
+
+</LanguageData>

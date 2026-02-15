@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- AMP start -->
+
+  <Buff_AMP.label>AMP</Buff_AMP.label>
+
+
+  <!-- Shadow start -->
+
+  <Buff_Shadow.label>Shadow</Buff_Shadow.label>
+
+
+  <!-- Soothe start -->
+
+  <Buff_Soothe.label>Soothing Breeze</Buff_Soothe.label>
+
+
+  <!-- Ray of Hope start -->
+
+  <Buff_RayofHope.label>Ray of Hope</Buff_RayofHope.label>
+
+
+  <!-- Lightning Cloud -->
+
+  <Projectile_LightningCloud.label>Lightning Cloud</Projectile_LightningCloud.label>
+
+
+  <!-- Lightning Bolt -->
+
+  <Laser_LightningBolt.label>Lightning Bolt</Laser_LightningBolt.label>
+
+
+  <!-- FrostRay -->
+
+  <Laser_FrostRay.label>Frost Ray</Laser_FrostRay.label>
+
+
+  <!-- Blizzard -->
+
+  <Projectile_Blizzard.label>Blizzard</Projectile_Blizzard.label>
+
+
+  <!-- Firestorm -->
+
+  <Projectile_Firestorm.label>Firestorm</Projectile_Firestorm.label>
+
+
+  <!-- Fireball -->
+
+  <Projectile_Fireball.label>fireball</Projectile_Fireball.label>
+
+
+  <!-- Fire Claw -->
+
+  <Projectile_Fireclaw.label>Fireclaw</Projectile_Fireclaw.label>
+
+
+  <!-- Snowball -->
+
+  <Projectile_Snowball.label>Snowball</Projectile_Snowball.label>
+
+
+  <!-- Magic Missile -->
+
+  <Projectile_MagicMissile.label>Magic Missile</Projectile_MagicMissile.label>
+
+
+  <!-- Icebolt -->
+
+  <Projectile_Icebolt.label>Icebolt</Projectile_Icebolt.label>
+
+
+  <!-- Firebolt -->
+
+  <Projectile_Firebolt.label>Firebolt</Projectile_Firebolt.label>
+
+
+  <!-- Lightning Storm -->
+
+  <Projectile_LightningStorm.label>Lightning Storm</Projectile_LightningStorm.label>
+
+
+  <!-- Teleport start -->
+
+  <Projectile_Teleport.label>Teleport</Projectile_Teleport.label>
+
+
+  <!-- Blink Start -->
+
+  <Projectile_Blink.label>Blink</Projectile_Blink.label>
+
+
+  <!-- Summon Start -->
+
+  <Projectile_Summon.label>Summon</Projectile_Summon.label>
+  <TM_SummonedPawn.label>flying object</TM_SummonedPawn.label>
+  <MovingObject.label>moving object</MovingObject.label>
+
+
+  <!-- Rainmaker Start -->
+
+  <Projectile_Rainmaker.label>Rainmaker</Projectile_Rainmaker.label>
+
+
+  <!-- Eye of the Storm -->
+
+  <FlyingObject_EyeOfTheStorm.label>flying object</FlyingObject_EyeOfTheStorm.label>
+  <Projectile_EyeOfTheStorm.label>Eye of the Storm</Projectile_EyeOfTheStorm.label>
+
+
+  <!-- Fold Reality -->
+
+  <Projectile_FoldReality.label>fold reality</Projectile_FoldReality.label>
+
+
+</LanguageData>

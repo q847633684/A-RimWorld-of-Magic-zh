@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- STONE GOLEM -->
+
+  <TM_GolemSmash.label>粉碎</TM_GolemSmash.label>
+
+
+  <!-- HOLLOW GOLEM -->
+
+  <TM_DecayTouch.label>腐朽之触</TM_DecayTouch.label>
+  <TM_NullCleave.label>空虚之击</TM_NullCleave.label>
+
+
+</LanguageData>

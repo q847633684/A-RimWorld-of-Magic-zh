@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ManaPotionHigh.label>arcane high</ManaPotionHigh.label>
+
+
+  <!-- Mana potion addiction -->
+
+  <ManaPotionTolerance.label>mana potion tolerance</ManaPotionTolerance.label>
+  <ManaPotionTolerance.stages.0.label>small</ManaPotionTolerance.stages.0.label>
+  <ManaPotionTolerance.stages.1.label>large</ManaPotionTolerance.stages.1.label>
+  <ManaPotionTolerance.stages.2.label>massive</ManaPotionTolerance.stages.2.label>
+
+  <ManaPotionAddiction.label>mana potion addiction</ManaPotionAddiction.label>
+  <ManaPotionAddiction.stages.1.label>withdrawal</ManaPotionAddiction.stages.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_UndeadHD.label>亡灵</TM_UndeadHD.label>
+  <TM_UndeadHD.description>被死灵法术激活的生物。这个生物没有自己的思想，需要一个死灵法师不断的指引和提供能量。</TM_UndeadHD.description>
+  <TM_UndeadHD.stages.0.label>I</TM_UndeadHD.stages.0.label>
+  <TM_UndeadHD.stages.1.label>II</TM_UndeadHD.stages.1.label>
+  <TM_UndeadHD.stages.2.label>III</TM_UndeadHD.stages.2.label>
+  <TM_UndeadHD.stages.3.label>IV</TM_UndeadHD.stages.3.label>
+
+  <TM_LichHD.label>巫妖</TM_LichHD.label>
+  <TM_LichHD.description>通过切断与生死循环的联系而获得永生的生物。</TM_LichHD.description>
+  <TM_LichHD.stages.0.label>亡灵</TM_LichHD.stages.0.label>
+
+  <TM_UndeadAnimalHD.label>亡灵</TM_UndeadAnimalHD.label>
+  <TM_UndeadAnimalHD.description>被死灵法术激活的生物。这个生物没有自己的思想，需要一个死灵法师不断的指引和提供能量。</TM_UndeadAnimalHD.description>
+  <TM_UndeadAnimalHD.stages.0.label>I</TM_UndeadAnimalHD.stages.0.label>
+  <TM_UndeadAnimalHD.stages.1.label>II</TM_UndeadAnimalHD.stages.1.label>
+  <TM_UndeadAnimalHD.stages.2.label>III</TM_UndeadAnimalHD.stages.2.label>
+  <TM_UndeadAnimalHD.stages.3.label>IV</TM_UndeadAnimalHD.stages.3.label>
+
+  <TM_DeathMarkHD.label>死亡印记</TM_DeathMarkHD.label>
+  <TM_DeathMarkHD.description>以死亡为印记，这个生物将很快死亡并作为亡灵复活。（未使用）</TM_DeathMarkHD.description>
+
+  <TM_DeathMarkCurse.label>死亡印记</TM_DeathMarkCurse.label>
+  <TM_DeathMarkCurse.description>以死亡为印记，这个生物无法专注于现在，因为他们专注于他们不可避免的死亡。</TM_DeathMarkCurse.description>
+  <TM_DeathMarkCurse.stages.0.label>笨拙</TM_DeathMarkCurse.stages.0.label>
+  <TM_DeathMarkCurse.stages.1.label>摸索</TM_DeathMarkCurse.stages.1.label>
+  <TM_DeathMarkCurse.stages.2.label>诅咒</TM_DeathMarkCurse.stages.2.label>
+
+  <TM_TormentHD.label>折磨</TM_TormentHD.label>
+  <TM_TormentHD.description>暗法力引起的疼痛。</TM_TormentHD.description>
+  <TM_TormentHD.comps.0.labelTendedWell>已包扎</TM_TormentHD.comps.0.labelTendedWell>
+  <TM_TormentHD.comps.0.labelTendedWellInner>已缝合</TM_TormentHD.comps.0.labelTendedWellInner>
+  <TM_TormentHD.comps.0.labelSolidTendedWell>已固定</TM_TormentHD.comps.0.labelSolidTendedWell>
+  <TM_TormentHD.injuryProps.destroyedLabel>熔化</TM_TormentHD.injuryProps.destroyedLabel>
+  <TM_TormentHD.injuryProps.destroyedOutLabel>融化</TM_TormentHD.injuryProps.destroyedOutLabel>
+  <TM_TormentHD.comps.HediffComp_GetsPermanent.permanentLabel>烂</TM_TormentHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <TM_TormentHD.labelNounPretty>{1} 中的 {0}</TM_TormentHD.labelNounPretty>
+
+  <TM_DeathBoltHD.label>死亡螺旋</TM_DeathBoltHD.label>
+  <TM_DeathBoltHD.description>杀死所有生物的破坏性能量。</TM_DeathBoltHD.description>
+  <TM_DeathBoltHD.comps.0.labelTendedWell>已包扎</TM_DeathBoltHD.comps.0.labelTendedWell>
+  <TM_DeathBoltHD.comps.0.labelTendedWellInner>已缝合</TM_DeathBoltHD.comps.0.labelTendedWellInner>
+  <TM_DeathBoltHD.comps.0.labelSolidTendedWell>已固定</TM_DeathBoltHD.comps.0.labelSolidTendedWell>
+  <TM_DeathBoltHD.injuryProps.destroyedLabel>融化掉</TM_DeathBoltHD.injuryProps.destroyedLabel>
+  <TM_DeathBoltHD.injuryProps.destroyedOutLabel>融化</TM_DeathBoltHD.injuryProps.destroyedOutLabel>
+  <TM_DeathBoltHD.comps.HediffComp_GetsPermanent.permanentLabel>融化了</TM_DeathBoltHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <TM_DeathBoltHD.labelNounPretty>{1} 中的 {0}</TM_DeathBoltHD.labelNounPretty>
+
+  <TM_Torment_HD.label>饱受折磨</TM_Torment_HD.label>
+  <TM_Torment_HD.description>被黑魔法折磨得痛苦不堪。</TM_Torment_HD.description>
+  <TM_Torment_HD.stages.0.label>疼痛</TM_Torment_HD.stages.0.label>
+  <TM_Torment_HD.stages.1.label>痛苦</TM_Torment_HD.stages.1.label>
+  <TM_Torment_HD.stages.2.label>折磨</TM_Torment_HD.stages.2.label>
+
+  <TM_UndeadStageHD.label>身体状态</TM_UndeadStageHD.label>
+  <TM_UndeadStageHD.description>亡灵的现阶段。</TM_UndeadStageHD.description>
+  <TM_UndeadStageHD.stages.0.label>腐烂</TM_UndeadStageHD.stages.0.label>
+  <TM_UndeadStageHD.stages.1.label>干燥</TM_UndeadStageHD.stages.1.label>
+
+  <TM_BrittleBonesHD.label>脆弱的骨头</TM_BrittleBonesHD.label>
+  <TM_BrittleBonesHD.description>当暴露在极冷的温度下时发生，导致骨骼和韧带变脆，从而减少运动和操作能力。这种情况下的亡灵需要额外50%的法力来维持。</TM_BrittleBonesHD.description>
+  <TM_BrittleBonesHD.stages.0.label>I</TM_BrittleBonesHD.stages.0.label>
+  <TM_BrittleBonesHD.stages.1.label>II</TM_BrittleBonesHD.stages.1.label>
+  <TM_BrittleBonesHD.stages.2.label>III</TM_BrittleBonesHD.stages.2.label>
+
+  <TM_SlaggedHD.label>变为熔渣</TM_SlaggedHD.label>
+  <TM_SlaggedHD.description>当暴露在极热的温度下时发生，导致有机物分解甚至融化。受此条件影响的亡灵需要额外50%的法力来维持。</TM_SlaggedHD.description>
+  <TM_SlaggedHD.stages.0.label>I</TM_SlaggedHD.stages.0.label>
+  <TM_SlaggedHD.stages.1.label>II</TM_SlaggedHD.stages.1.label>
+  <TM_SlaggedHD.stages.2.label>III</TM_SlaggedHD.stages.2.label>
+
+
+</LanguageData>

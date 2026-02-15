@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <PawnKindDef ParentName="BasePlayerPawnKind">
+		<defName>TM_Undead</defName>
+		<label>undead</label>
+		<race>Human</race>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Equipment/ancientmail_Fat</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>1.5</drawSize>
+					<shadowData>
+						<volume>(0.4, 0.8, 0.4)</volume>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef> -->
+
+  <SeerDefender.label>秘能守卫者</SeerDefender.label>
+  <SeerDefender.labelPlural>秘能守卫者们</SeerDefender.labelPlural>
+
+  <SeerSpearman.label>秘能守卫者近卫兵</SeerSpearman.label>
+  <SeerSpearman.labelPlural>秘能守卫者近卫兵们</SeerSpearman.labelPlural>
+
+  <SeerBowman.label>秘能守卫者弓箭手</SeerBowman.label>
+  <SeerBowman.labelPlural>秘能守卫者弓箭手们</SeerBowman.labelPlural>
+
+  <SeerElite.label>秘能守卫者精英</SeerElite.label>
+  <SeerElite.labelPlural>秘能守卫者精英</SeerElite.labelPlural>
+
+
+</LanguageData>

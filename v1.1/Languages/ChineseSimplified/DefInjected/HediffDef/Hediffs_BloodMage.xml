@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_BloodHD.label>Blood Magic</TM_BloodHD.label>
+  <TM_BloodHD.description>Accounts for the blood power of a blood mage.</TM_BloodHD.description>
+  <TM_BloodHD.stages.0.label></TM_BloodHD.stages.0.label>
+
+  <TM_RendHD.label>Hemorrhaging</TM_RendHD.label>
+  <TM_RendHD.description>A horrendous wound causing massive bleeding.</TM_RendHD.description>
+  <TM_RendHD.stages.0.label></TM_RendHD.stages.0.label>
+
+  <TM_BloodForBloodHD.label>Blood Drain</TM_BloodForBloodHD.label>
+  <TM_BloodForBloodHD.description>Transfers blood from this target to a blood mage. Heals wounds in the process.</TM_BloodForBloodHD.description>
+  <TM_BloodForBloodHD.stages.0.label></TM_BloodForBloodHD.stages.0.label>
+
+  <TM_BloodShieldHD.label>Blood Shield</TM_BloodShieldHD.label>
+  <TM_BloodShieldHD.description>Enveloped in a protective bubble of life energy; energy from each blow to the Blood Shield restores health to the protected pawn.</TM_BloodShieldHD.description>
+  <TM_BloodShieldHD.stages.0.label></TM_BloodShieldHD.stages.0.label>
+
+
+</LanguageData>

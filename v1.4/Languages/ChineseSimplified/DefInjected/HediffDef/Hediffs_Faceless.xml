@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_DisguiseHD.label>欺骗</TM_DisguiseHD.label>
+  <TM_DisguiseHD.description>用巧妙的伪装来欺骗对手。</TM_DisguiseHD.description>
+  <TM_DisguiseHD.stages.0.label>I</TM_DisguiseHD.stages.0.label>
+
+  <TM_DisguiseHD_I.label>欺骗</TM_DisguiseHD_I.label>
+  <TM_DisguiseHD_I.description>用巧妙的伪装来欺骗对手。</TM_DisguiseHD_I.description>
+  <TM_DisguiseHD_I.stages.0.label>II</TM_DisguiseHD_I.stages.0.label>
+
+  <TM_DisguiseHD_II.label>欺骗</TM_DisguiseHD_II.label>
+  <TM_DisguiseHD_II.description>用巧妙的伪装来欺骗对手。</TM_DisguiseHD_II.description>
+  <TM_DisguiseHD_II.stages.0.label>III</TM_DisguiseHD_II.stages.0.label>
+
+  <TM_DisguiseHD_III.label>欺骗</TM_DisguiseHD_III.label>
+  <TM_DisguiseHD_III.description>用巧妙的伪装来欺骗对手。</TM_DisguiseHD_III.description>
+  <TM_DisguiseHD_III.stages.0.label>IV</TM_DisguiseHD_III.stages.0.label>
+
+  <TM_ReversalHD.label>倒转</TM_ReversalHD.label>
+  <TM_ReversalHD.description>反弹受到的近战和远程攻击。</TM_ReversalHD.description>
+  <TM_ReversalHD.stages.0.label>I</TM_ReversalHD.stages.0.label>
+
+  <TM_PossessionHD.label>占据</TM_PossessionHD.label>
+  <TM_PossessionHD.description>身体被无面者占据，且受其影响。</TM_PossessionHD.description>
+  <TM_PossessionHD.stages.0.label>I</TM_PossessionHD.stages.0.label>
+
+  <TM_PossessionHD_I.label>占据</TM_PossessionHD_I.label>
+  <TM_PossessionHD_I.description>身体被无面者占据，且受其影响。</TM_PossessionHD_I.description>
+  <TM_PossessionHD_I.stages.0.label>II</TM_PossessionHD_I.stages.0.label>
+
+  <TM_PossessionHD_II.label>占据</TM_PossessionHD_II.label>
+  <TM_PossessionHD_II.description>身体被无面者占据，且受其影响。</TM_PossessionHD_II.description>
+  <TM_PossessionHD_II.stages.0.label>III</TM_PossessionHD_II.stages.0.label>
+
+  <TM_PossessionHD_III.label>占据</TM_PossessionHD_III.label>
+  <TM_PossessionHD_III.description>身体被无面者占据，且受其影响。</TM_PossessionHD_III.description>
+  <TM_PossessionHD_III.stages.0.label>IV</TM_PossessionHD_III.stages.0.label>
+
+  <TM_CoOpPossessionHD.label>占据</TM_CoOpPossessionHD.label>
+  <TM_CoOpPossessionHD.description>身体被无面者占据，且受其影响。</TM_CoOpPossessionHD.description>
+  <TM_CoOpPossessionHD.stages.0.label>I</TM_CoOpPossessionHD.stages.0.label>
+
+  <TM_CoOpPossessionHD_I.label>占据</TM_CoOpPossessionHD_I.label>
+  <TM_CoOpPossessionHD_I.description>身体被无面者占据，且受其影响。</TM_CoOpPossessionHD_I.description>
+  <TM_CoOpPossessionHD_I.stages.0.label>II</TM_CoOpPossessionHD_I.stages.0.label>
+
+  <TM_CoOpPossessionHD_II.label>占据</TM_CoOpPossessionHD_II.label>
+  <TM_CoOpPossessionHD_II.description>身体被无面者占据，且受其影响。</TM_CoOpPossessionHD_II.description>
+  <TM_CoOpPossessionHD_II.stages.0.label>III</TM_CoOpPossessionHD_II.stages.0.label>
+
+  <TM_CoOpPossessionHD_III.label>占据</TM_CoOpPossessionHD_III.label>
+  <TM_CoOpPossessionHD_III.description>身体被无面者占据，且受其影响。</TM_CoOpPossessionHD_III.description>
+  <TM_CoOpPossessionHD_III.stages.0.label>IV</TM_CoOpPossessionHD_III.stages.0.label>
+
+  <TM_DisorientedVomit.label>迷茫</TM_DisorientedVomit.label>
+  <TM_DisorientedVomit.description>受到影响。</TM_DisorientedVomit.description>
+  <TM_DisorientedVomit.stages.0.label>I</TM_DisorientedVomit.stages.0.label>
+
+
+</LanguageData>

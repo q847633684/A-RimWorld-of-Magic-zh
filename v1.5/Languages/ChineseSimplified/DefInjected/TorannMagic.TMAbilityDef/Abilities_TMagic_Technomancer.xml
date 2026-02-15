@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Techno Bit -->
+
+  <TM_TechnoBit.label>哔哔小子</TM_TechnoBit.label>
+  <TM_TechnoBit.description>哔哔小子全称“个人信息处理器”，是一个小型的、智能的穿戴式电子设备，它能在许多任务中帮助机械师，提供额外的支持。哔哔小子辅助可以自由切换，在禁用时不会执行任何任务。\n  \n未启动:哔哔小子协助加工、采矿和建筑任务。它还将修复附近的建筑、机器人和机械装置。\n\n启动:利用反重力系统推动小型延时炸药到达机械师的目标。对附近的机械单位或建筑物进行加速维修。</TM_TechnoBit.description>
+
+
+  <!-- Techno Turret -->
+
+  <TM_TechnoTurret.label>Mark-IV炮塔 </TM_TechnoTurret.label>
+  <TM_TechnoTurret.description>部署并建立与Mark-IV武器系统连接的炮塔。任何动作都将破坏连接，使Mark-IV武器系统小型化.火箭和迫击炮每次射击消耗法力。\n  \nMark-IV会在受到严重伤害时自动小型化，并对任何与系统链接的单位产生反馈。</TM_TechnoTurret.description>
+
+
+  <!-- Techno Weapon -->
+
+  <TM_TechnoWeapon.label>工程武器</TM_TechnoWeapon.label>
+  <TM_TechnoWeapon.description>机械师应用他们的工程和魔法知识来创建现有武器的修改版本。这个武器是由法力塑造而成的，作为他们身体的延伸,被锁定在机械师身上。\n  \n因此,如果脱离机械师,武器将会瓦解。此武器将由机械师在创建后自动装备。\n\n机械师也可以使用改进的弹药和纳米兴奋剂来提高作战能力。</TM_TechnoWeapon.description>
+
+
+  <!-- Nano Stimulant -->
+
+  <TM_NanoStimulant.label>纳米兴奋剂</TM_NanoStimulant.label>
+  <TM_NanoStimulant.description>一种能暂时增强使用者战斗能力的纳米粒子。这种兴奋剂是由机械师根据自身独特的生物基因特别合成的。它不会让人上瘾，但对其他任何生物都是有害的。\n  \n纳米粒子由体内的法力和能量提供能量，会迅速导致疲劳。\n\n当纳米粒子燃烧殆尽时，它们会形成血小板来烧灼、止血甚至愈合小伤口。使用纳米兴奋剂会加速任何活跃的疾病或感染。</TM_NanoStimulant.description>
+
+
+  <!-- Techno Shield -->
+
+  <TM_TechnoShield.label>AT力场</TM_TechnoShield.label>
+  <TM_TechnoShield.description>将目标包围在一个能反转远程攻击的力场中，攻击越强越难反转且更有可能穿越力场。\n  \n反转涉及的能量由攻击造成的伤害量决定。</TM_TechnoShield.description>
+
+
+  <!-- Sabotage -->
+
+  <TM_Sabotage.label>破坏</TM_Sabotage.label>
+  <TM_Sabotage.description>破坏一个小范围内的机械设备。破坏的影响范围包括机械性能下降、临时关闭、自我毁灭、灾难性故障，甚至丧失判断敌友的能力。\n  \n可应用于:电池、发电机、炮塔、机器人等。</TM_Sabotage.description>
+
+
+  <!-- Overdrive -->
+
+  <TM_Overdrive.label>过载</TM_Overdrive.label>
+  <TM_Overdrive.description>用纳米材料对目标机械、电气或人工智能系统进行超速驱动，从而使系统超出其极限。过载会周期性地对系统造成损坏。\n  \n可应用于:电池、发电机、炮塔、机器人等。</TM_Overdrive.description>
+
+
+  <!-- OrbitalStrike -->
+
+  <TM_OrbitalStrike.label>轨道打击（I）</TM_OrbitalStrike.label>
+  <TM_OrbitalStrike.description>侵入轨道轰炸卫星网络输入目标坐标发动攻击。机械师通过使用随机的、神秘的签名来掩盖他们的活动，而不必担心被识别和锁定。\n		\n范围: 70\n预热: 4s\n半径: 3.3</TM_OrbitalStrike.description>
+
+  <TM_OrbitalStrike_I.label>轨道打击（II）</TM_OrbitalStrike_I.label>
+  <TM_OrbitalStrike_I.description>侵入轨道轰炸卫星网络输入目标坐标发动攻击。机械师通过使用随机的、神秘的签名来掩盖他们的活动，而不必担心被识别和锁定。\n		\n范围: 80\n预热: 3.6s\n半径: 4.2</TM_OrbitalStrike_I.description>
+
+  <TM_OrbitalStrike_II.label>轨道打击（III）</TM_OrbitalStrike_II.label>
+  <TM_OrbitalStrike_II.description>侵入轨道轰炸卫星网络输入目标坐标发动攻击。机械师通过使用随机的、神秘的签名来掩盖他们的活动，而不必担心被识别和锁定。\n		\n范围: 90\n预热: 3.2s\n半径: 5.0</TM_OrbitalStrike_II.description>
+
+  <TM_OrbitalStrike_III.label>轨道打击（IV）</TM_OrbitalStrike_III.label>
+  <TM_OrbitalStrike_III.description>侵入轨道轰炸卫星网络输入目标坐标发动攻击。机械师通过使用随机的、神秘的签名来掩盖他们的活动，而不必担心被识别和锁定。\n		\n范围: 100\n预热: 2.8s\n半径: 5.6</TM_OrbitalStrike_III.description>
+
+
+</LanguageData>

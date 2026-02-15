@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Enchanting Gems -->
+
+  <TM_EStone_maxMP_minor.label>初级奥术附魔石</TM_EStone_maxMP_minor.label>
+  <TM_EStone_maxMP_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的最大法力值5%。</TM_EStone_maxMP_minor.description>
+  <TM_EStone_maxMP_minor.stuffProps.stuffAdjective>初级奥术附魔石</TM_EStone_maxMP_minor.stuffProps.stuffAdjective>
+
+  <TM_EStone_maxMP.label>中级奥术附魔石</TM_EStone_maxMP.label>
+  <TM_EStone_maxMP.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的最大法力值10%。</TM_EStone_maxMP.description>
+  <TM_EStone_maxMP.stuffProps.stuffAdjective>中级奥术附魔石</TM_EStone_maxMP.stuffProps.stuffAdjective>
+
+  <TM_EStone_maxMP_major.label>高级奥术附魔石</TM_EStone_maxMP_major.label>
+  <TM_EStone_maxMP_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的最大法力值15%。</TM_EStone_maxMP_major.description>
+  <TM_EStone_maxMP_major.stuffProps.stuffAdjective>高级奥术附魔石</TM_EStone_maxMP_major.stuffProps.stuffAdjective>
+
+  <TM_EStone_mpRegenRate_minor.label>初级再生附魔石</TM_EStone_mpRegenRate_minor.label>
+  <TM_EStone_mpRegenRate_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的法力回复速度5%。</TM_EStone_mpRegenRate_minor.description>
+  <TM_EStone_mpRegenRate_minor.stuffProps.stuffAdjective>初级再生附魔石</TM_EStone_mpRegenRate_minor.stuffProps.stuffAdjective>
+
+  <TM_EStone_mpRegenRate.label>中级再生附魔石</TM_EStone_mpRegenRate.label>
+  <TM_EStone_mpRegenRate.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的法力回复速度10%。</TM_EStone_mpRegenRate.description>
+  <TM_EStone_mpRegenRate.stuffProps.stuffAdjective>中级再生附魔石</TM_EStone_mpRegenRate.stuffProps.stuffAdjective>
+
+  <TM_EStone_mpRegenRate_major.label>高级再生附魔石</TM_EStone_mpRegenRate_major.label>
+  <TM_EStone_mpRegenRate_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将提高装备者的法力回复速度15%。</TM_EStone_mpRegenRate_major.description>
+  <TM_EStone_mpRegenRate_major.stuffProps.stuffAdjective>高级再生附魔石</TM_EStone_mpRegenRate_major.stuffProps.stuffAdjective>
+
+  <TM_EStone_mpCost_minor.label>初级保存附魔石</TM_EStone_mpCost_minor.label>
+  <TM_EStone_mpCost_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将降低装备者的技能法力消耗3%。</TM_EStone_mpCost_minor.description>
+  <TM_EStone_mpCost_minor.stuffProps.stuffAdjective>初级保存附魔石</TM_EStone_mpCost_minor.stuffProps.stuffAdjective>
+
+  <TM_EStone_mpCost.label>中级保存附魔石</TM_EStone_mpCost.label>
+  <TM_EStone_mpCost.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将降低装备者的技能法力消耗5%。</TM_EStone_mpCost.description>
+  <TM_EStone_mpCost.stuffProps.stuffAdjective>中级保存附魔石</TM_EStone_mpCost.stuffProps.stuffAdjective>
+
+  <TM_EStone_mpCost_major.label>高级保存附魔石</TM_EStone_mpCost_major.label>
+  <TM_EStone_mpCost_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将降低装备者的技能法力消耗7%。</TM_EStone_mpCost_major.description>
+  <TM_EStone_mpCost_major.stuffProps.stuffAdjective>高级保存附魔石</TM_EStone_mpCost_major.stuffProps.stuffAdjective>
+
+  <TM_EStone_coolDown_minor.label>初级加速附魔石</TM_EStone_coolDown_minor.label>
+  <TM_EStone_coolDown_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的技能冷却速度3%。</TM_EStone_coolDown_minor.description>
+  <TM_EStone_coolDown_minor.stuffProps.stuffAdjective>初级加速附魔石</TM_EStone_coolDown_minor.stuffProps.stuffAdjective>
+
+  <TM_EStone_coolDown.label>中级加速附魔石</TM_EStone_coolDown.label>
+  <TM_EStone_coolDown.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的技能冷却速度5%。</TM_EStone_coolDown.description>
+  <TM_EStone_coolDown.stuffProps.stuffAdjective>中级加速附魔石</TM_EStone_coolDown.stuffProps.stuffAdjective>
+
+  <TM_EStone_coolDown_major.label>高级加速附魔石</TM_EStone_coolDown_major.label>
+  <TM_EStone_coolDown_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的技能冷却速度7%。</TM_EStone_coolDown_major.description>
+  <TM_EStone_coolDown_major.stuffProps.stuffAdjective>高级加速附魔石</TM_EStone_coolDown_major.stuffProps.stuffAdjective>
+
+  <TM_EStone_xpGain_minor.label>初级知识附魔石</TM_EStone_xpGain_minor.label>
+  <TM_EStone_xpGain_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的经验值获取速度5%。</TM_EStone_xpGain_minor.description>
+  <TM_EStone_xpGain_minor.stuffProps.stuffAdjective>初级知识附魔石</TM_EStone_xpGain_minor.stuffProps.stuffAdjective>
+
+  <TM_EStone_xpGain.label>中级知识附魔石</TM_EStone_xpGain.label>
+  <TM_EStone_xpGain.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的经验值获取速度10%。</TM_EStone_xpGain.description>
+  <TM_EStone_xpGain.stuffProps.stuffAdjective>中级知识附魔石</TM_EStone_xpGain.stuffProps.stuffAdjective>
+
+  <TM_EStone_xpGain_major.label>高级知识附魔石</TM_EStone_xpGain_major.label>
+  <TM_EStone_xpGain_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将加快装备者的经验值获取速度15%。</TM_EStone_xpGain_major.description>
+  <TM_EStone_xpGain_major.stuffProps.stuffAdjective>高级知识附魔石</TM_EStone_xpGain_major.stuffProps.stuffAdjective>
+
+  <TM_EStone_arcaneRes_minor.label>初级抗性附魔石</TM_EStone_arcaneRes_minor.label>
+  <TM_EStone_arcaneRes_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将装备者降低受到的魔法攻击伤害10%.</TM_EStone_arcaneRes_minor.description>
+  <TM_EStone_arcaneRes_minor.stuffProps.stuffAdjective>初级抗性附魔石</TM_EStone_arcaneRes_minor.stuffProps.stuffAdjective>
+
+  <TM_EStone_arcaneRes.label>中级抗性附魔石</TM_EStone_arcaneRes.label>
+  <TM_EStone_arcaneRes.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将装备者降低受到的魔法攻击伤害20%.</TM_EStone_arcaneRes.description>
+  <TM_EStone_arcaneRes.stuffProps.stuffAdjective>中级抗性附魔石</TM_EStone_arcaneRes.stuffProps.stuffAdjective>
+
+  <TM_EStone_arcaneRes_major.label>高级抗性附魔石</TM_EStone_arcaneRes_major.label>
+  <TM_EStone_arcaneRes_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将装备者降低受到的魔法攻击伤害30%.</TM_EStone_arcaneRes_major.description>
+  <TM_EStone_arcaneRes_major.stuffProps.stuffAdjective>高级抗性附魔石</TM_EStone_arcaneRes_major.stuffProps.stuffAdjective>
+
+  <TM_EStone_arcaneDmg_minor.label>初级力量附魔石</TM_EStone_arcaneDmg_minor.label>
+  <TM_EStone_arcaneDmg_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将增加装备者的伤害输出4%.</TM_EStone_arcaneDmg_minor.description>
+  <TM_EStone_arcaneDmg_minor.stuffProps.stuffAdjective>初级力量附魔石</TM_EStone_arcaneDmg_minor.stuffProps.stuffAdjective>
+
+  <TM_EStone_arcaneDmg.label>中级力量附魔石</TM_EStone_arcaneDmg.label>
+  <TM_EStone_arcaneDmg.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将增加装备者的伤害输出8%.</TM_EStone_arcaneDmg.description>
+  <TM_EStone_arcaneDmg.stuffProps.stuffAdjective>中级力量附魔石</TM_EStone_arcaneDmg.stuffProps.stuffAdjective>
+
+  <TM_EStone_arcaneDmg_major.label>高级力量附魔石</TM_EStone_arcaneDmg_major.label>
+  <TM_EStone_arcaneDmg_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将增加装备者的伤害输出12%.</TM_EStone_arcaneDmg_major.description>
+  <TM_EStone_arcaneDmg_major.stuffProps.stuffAdjective>高级力量附魔石</TM_EStone_arcaneDmg_major.stuffProps.stuffAdjective>
+
+  <TM_EStone_wonder_minor.label>初级奇迹附魔石</TM_EStone_wonder_minor.label>
+  <TM_EStone_wonder_minor.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将给予装备者所有魔法微量的强化。</TM_EStone_wonder_minor.description>
+  <TM_EStone_wonder_minor.stuffProps.stuffAdjective>初级奇迹附魔石</TM_EStone_wonder_minor.stuffProps.stuffAdjective>
+
+  <TM_EStone_wonder.label>中级奇迹附魔石</TM_EStone_wonder.label>
+  <TM_EStone_wonder.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将给予装备者所有魔法适量的强化。</TM_EStone_wonder.description>
+  <TM_EStone_wonder.stuffProps.stuffAdjective>中级奇迹附魔石</TM_EStone_wonder.stuffProps.stuffAdjective>
+
+  <TM_EStone_wonder_major.label>高级奇迹附魔石</TM_EStone_wonder_major.label>
+  <TM_EStone_wonder_major.description>一块可以用来对装备灌注魔法能量的附魔石. 穿戴该附魔石附魔后的装备将给予装备者所有魔法大量的强化。</TM_EStone_wonder_major.description>
+  <TM_EStone_wonder_major.stuffProps.stuffAdjective>高级奇迹附魔石</TM_EStone_wonder_major.stuffProps.stuffAdjective>
+
+
+  <!-- Raw Magicyte -->
+
+  <RawMagicyte.label>魔法原石</RawMagicyte.label>
+  <RawMagicyte.description>一块在黑暗中散发着点点微光的石头，拥有着玻璃一样的外观，当一名法师触碰到它时可以察觉到它似乎在对外界发射一种神秘的能量。</RawMagicyte.description>
+  <RawMagicyte.stuffProps.stuffAdjective>魔法原石</RawMagicyte.stuffProps.stuffAdjective>
+
+
+</LanguageData>

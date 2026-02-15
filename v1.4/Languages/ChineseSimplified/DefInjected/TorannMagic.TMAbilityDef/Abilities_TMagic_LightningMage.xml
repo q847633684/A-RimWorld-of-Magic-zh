@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <ThingDef Class="TorannMagic.TMAbilityDef" ParentName="BaseAbility"> -->
+
+  <TM_AMP.label>安普（I）</TM_AMP.label>
+  <TM_AMP.description>祝福: 由魔法能量获得增益 - 又叫做 "AMP"。短时间内大幅度增强身体能力，作为代价会增加身体的压力。\n\n持续时间: 30-40s\n身体能力: ~+30%\n身体需求: +40%\n疼痛:  -20%</TM_AMP.description>
+
+  <TM_AMP_I.label>安普（II）</TM_AMP_I.label>
+  <TM_AMP_I.description>祝福: 由魔法能量获得增益 - 又叫做 "AMP"。短时间内大幅度增强身体能力，作为代价会增加身体的压力。\n持续时间: 30-40s\n身体能力: ~+50%\n身体需求: +60%\n疼痛:  -20%</TM_AMP_I.description>
+
+  <TM_AMP_II.label>安普（III）</TM_AMP_II.label>
+  <TM_AMP_II.description>祝福: 由魔法能量获得增益 - 又叫做 "AMP"。短时间内大幅度增强身体能力，作为代价会增加身体的压力。\n持续时间: 50-60s\n身体能力: ~+65%\n身体需求: +60%\n疼痛:  -30%</TM_AMP_II.description>
+
+  <TM_AMP_III.label>安普（IV）</TM_AMP_III.label>
+  <TM_AMP_III.description>祝福: 由魔法能量获得增益 - 又叫做 "AMP"。短时间内大幅度增强身体能力，作为代价会增加身体的压力。\n持续时间: 50-60s\n身体能力: ~+80%\n身体需求: +100%\n疼痛:  -40%</TM_AMP_III.description>
+
+
+  <!-- Lightning Cloud -->
+
+  <TM_LightningCloud.label>天丛云雷</TM_LightningCloud.label>
+  <TM_LightningCloud.description>使一片区域内充斥着雷电能量，无差别伤害和眩晕其中的任何目标。</TM_LightningCloud.description>
+
+
+  <!-- Lightning Bolt -->
+
+  <TM_LightningBolt.label>电闪雷鸣</TM_LightningBolt.label>
+  <TM_LightningBolt.description>召唤雷电攻击你的目标。</TM_LightningBolt.description>
+
+
+  <!-- Lightning Storm -->
+
+  <TM_LightningStorm.label>闪电风暴</TM_LightningStorm.label>
+  <TM_LightningStorm.description>在目标区域创造一阵猛烈但无法控制的闪电风暴。</TM_LightningStorm.description>
+
+
+  <!-- Eye of the Storm -->
+
+  <TM_EyeOfTheStorm.label>风暴之眼</TM_EyeOfTheStorm.label>
+  <TM_EyeOfTheStorm.description>施放一个纯粹的由闪电能量组成的球体，所到之处万物俱灭。</TM_EyeOfTheStorm.description>
+
+
+</LanguageData>

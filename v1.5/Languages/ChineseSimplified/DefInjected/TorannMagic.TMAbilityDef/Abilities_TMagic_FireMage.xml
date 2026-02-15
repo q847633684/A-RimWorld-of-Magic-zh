@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ray of Hope start -->
+
+  <TM_RayofHope.label>心灵之火（I）</TM_RayofHope.label>
+  <TM_RayofHope.description>在施法者周围制造一种温暖的光环，定期强化盟友的精神。\n心灵之火：奥术强化，点燃心灵的火焰，增加小人的耐力和抵抗力。\n点燃频率：80-90秒\n持续时间：200-223秒\n休息和饥饿需求：-10%\n自然愈合能力：+20%\n精神崩溃抵抗：+3%\n耐寒能力：+6c\n需要40点法力来维持并减少30%的法力回复；再次施法则使这法术失效。光环每增益一个同伴，施法者就会获得经验值。</TM_RayofHope.description>
+
+  <TM_RayofHope_I.label>心灵之火（II）</TM_RayofHope_I.label>
+  <TM_RayofHope_I.description>在施法者周围制造一种温暖的光环，定期强化盟友的精神。\n心灵之火：奥术强化，点燃心灵的火焰，增加小人的耐力和抵抗力。\n点燃频率：80-90秒\n持续时间：200-223秒\n休息和饥饿需求：-14%\n自然愈合能力：+25%\n精神崩溃抵抗：+4%\n耐寒能力：+8c\n需要40点法力来维持并减少30%的法力回复；再次施法则使这法术失效。光环每增益一个同伴，施法者就会获得经验值。</TM_RayofHope_I.description>
+
+  <TM_RayofHope_II.label>心灵之火（III）</TM_RayofHope_II.label>
+  <TM_RayofHope_II.description>在施法者周围制造一种温暖的光环，定期强化盟友的精神。\n心灵之火：奥术强化，点燃心灵的火焰，增加小人的耐力和抵抗力。\n点燃频率：80-90秒\n持续时间：500-600秒\n休息和饥饿需求：-17%\n自然愈合能力：+28%\n精神崩溃抵抗：+4%\n耐寒能力：+9c\n需要40点法力来维持并减少30%的法力回复；再次施法则使这法术失效。光环每增益一个同伴，施法者就会获得经验值。</TM_RayofHope_II.description>
+
+  <TM_RayofHope_III.label>心灵之火（IV）</TM_RayofHope_III.label>
+  <TM_RayofHope_III.description>在施法者周围制造一种温暖的光环，定期强化盟友的精神。\n心灵之火：奥术强化，点燃心灵的火焰，增加小人的耐力和抵抗力。\n点燃频率：80-90秒\n持续时间：500-600秒\n休息和饥饿需求：-20%\n自然愈合能力：+30%\n精神崩溃抵抗：+5%\n耐寒能力：+10c\n需要40点法力来维持并减少30%的法力回复；再次施法则使这法术失效。光环每增益一个同伴，施法者就会获得经验值。</TM_RayofHope_III.description>
+
+
+  <!-- Firebolt -->
+
+  <TM_Firebolt.label>燃烧之箭</TM_Firebolt.label>
+  <TM_Firebolt.description>凝结魔法火焰并射向目标区域。</TM_Firebolt.description>
+
+
+  <!-- Fireball -->
+
+  <TM_Fireball.label>火球术</TM_Fireball.label>
+  <TM_Fireball.description>发射一团巨大且缓慢的火球.在目标区域造成严重破坏并产生火灾。</TM_Fireball.description>
+
+
+  <!-- Fire Claw -->
+
+  <TM_Fireclaw.label>龙息术</TM_Fireclaw.label>
+  <TM_Fireclaw.description>创造由绚丽的流焰组成的火柱贯穿你的敌人，其所过之处只会剩下火焰与毁灭。</TM_Fireclaw.description>
+
+
+  <!-- Firestorm -->
+
+  <TM_Firestorm.label>火焰风暴</TM_Firestorm.label>
+  <TM_Firestorm.description>召唤火元素风暴与死亡流星暴。</TM_Firestorm.description>
+
+
+</LanguageData>

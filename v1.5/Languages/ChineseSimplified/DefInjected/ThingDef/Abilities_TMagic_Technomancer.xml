@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Projectile_TM_BitTechLaser.label>科技微激光器</Projectile_TM_BitTechLaser.label>
+  <Projectile_TMFragGrenade.label>袖珍手榴弹</Projectile_TMFragGrenade.label>
+  <Projectile_TMEMPGrenade.label>袖珍手榴弹</Projectile_TMEMPGrenade.label>
+
+
+  <!-- Techno Turret -->
+
+  <Projectile_TechnoTurret.label>Mark-IV弹药</Projectile_TechnoTurret.label>
+
+
+  <!-- Techno Weapon -->
+
+  <Bullet_ES_Fire.label>元素射击-火</Bullet_ES_Fire.label>
+  <Bullet_ES_Ice.label>元素射击-冰</Bullet_ES_Ice.label>
+  <Bullet_ES_Lit.label>元素射击-闪电</Bullet_ES_Lit.label>
+
+
+  <!-- Sabotage -->
+
+  <Projectile_Sabotage.label>破坏抛射</Projectile_Sabotage.label>
+
+
+  <!-- OrbitalStrike -->
+
+  <Projectile_OrbitalStrike.label>轨道打击</Projectile_OrbitalStrike.label>
+  <Projectile_OrbitalStrike_I.label>轨道打击</Projectile_OrbitalStrike_I.label>
+  <Projectile_OrbitalStrike_II.label>轨道打击</Projectile_OrbitalStrike_II.label>
+  <Projectile_OrbitalStrike_III.label>轨道打击</Projectile_OrbitalStrike_III.label>
+
+  <TM_TechnoWeapon_Base0.label>工程武器</TM_TechnoWeapon_Base0.label>
+  <TM_TechnoWeapon_Base0.description>由机械师改装的武器</TM_TechnoWeapon_Base0.description>
+  <TM_TechnoWeapon_Base0.tools.0.label>武器粉碎</TM_TechnoWeapon_Base0.tools.0.label>
+
+  <TM_TechnoWeapon_Base1.label>工程武器</TM_TechnoWeapon_Base1.label>
+  <TM_TechnoWeapon_Base1.description>由机械师改装的武器</TM_TechnoWeapon_Base1.description>
+  <TM_TechnoWeapon_Base1.tools.0.label>武器粉碎</TM_TechnoWeapon_Base1.tools.0.label>
+
+  <TM_TechnoWeapon_Base2.label>工程武器</TM_TechnoWeapon_Base2.label>
+  <TM_TechnoWeapon_Base2.description>由机械师改装的武器</TM_TechnoWeapon_Base2.description>
+  <TM_TechnoWeapon_Base2.tools.0.label>武器粉碎</TM_TechnoWeapon_Base2.tools.0.label>
+
+  <TM_TechnoWeapon_Base3.label>工程武器</TM_TechnoWeapon_Base3.label>
+  <TM_TechnoWeapon_Base3.description>由机械师改装的武器</TM_TechnoWeapon_Base3.description>
+  <TM_TechnoWeapon_Base3.tools.0.label>武器粉碎</TM_TechnoWeapon_Base3.tools.0.label>
+
+  <TM_TechnoWeapon_Base4.label>工程武器</TM_TechnoWeapon_Base4.label>
+  <TM_TechnoWeapon_Base4.description>由机械师改装的武器</TM_TechnoWeapon_Base4.description>
+  <TM_TechnoWeapon_Base4.tools.0.label>武器粉碎</TM_TechnoWeapon_Base4.tools.0.label>
+
+  <TM_TechnoWeapon_Base5.label>工程武器</TM_TechnoWeapon_Base5.label>
+  <TM_TechnoWeapon_Base5.description>由机械师改装的武器</TM_TechnoWeapon_Base5.description>
+  <TM_TechnoWeapon_Base5.tools.0.label>武器粉碎</TM_TechnoWeapon_Base5.tools.0.label>
+
+  <TM_TechnoWeapon_Base6.label>工程武器</TM_TechnoWeapon_Base6.label>
+  <TM_TechnoWeapon_Base6.description>由机械师改装的武器</TM_TechnoWeapon_Base6.description>
+  <TM_TechnoWeapon_Base6.tools.0.label>武器粉碎</TM_TechnoWeapon_Base6.tools.0.label>
+
+  <TM_TechnoWeapon_Base7.label>工程武器</TM_TechnoWeapon_Base7.label>
+  <TM_TechnoWeapon_Base7.description>由机械师改装的武器</TM_TechnoWeapon_Base7.description>
+  <TM_TechnoWeapon_Base7.tools.0.label>武器粉碎</TM_TechnoWeapon_Base7.tools.0.label>
+
+  <TM_TechnoWeapon_Base8.label>工程武器</TM_TechnoWeapon_Base8.label>
+  <TM_TechnoWeapon_Base8.description>由机械师改装的武器</TM_TechnoWeapon_Base8.description>
+  <TM_TechnoWeapon_Base8.tools.0.label>武器粉碎</TM_TechnoWeapon_Base8.tools.0.label>
+
+  <TM_TechnoWeapon_Base9.label>工程武器</TM_TechnoWeapon_Base9.label>
+  <TM_TechnoWeapon_Base9.description>由机械师改装的武器</TM_TechnoWeapon_Base9.description>
+  <TM_TechnoWeapon_Base9.tools.0.label>武器粉碎</TM_TechnoWeapon_Base9.tools.0.label>
+
+
+</LanguageData>

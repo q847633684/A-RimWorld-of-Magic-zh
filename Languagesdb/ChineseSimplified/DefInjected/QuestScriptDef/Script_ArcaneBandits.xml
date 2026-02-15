@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_OpportunitySite_ArcaneBandits.root.nodes.WorldObjectTimeout.node.nodes.Letter.label>任务已过期 [resolvedQuestName]</TM_OpportunitySite_ArcaneBandits.root.nodes.WorldObjectTimeout.node.nodes.Letter.label>
+  <TM_OpportunitySite_ArcaneBandits.root.nodes.WorldObjectTimeout.node.nodes.Letter.text>奥术盗贼成功地从 [asker_faction_name]偷走了几件文物。. [asker_label]对你不满意。</TM_OpportunitySite_ArcaneBandits.root.nodes.WorldObjectTimeout.node.nodes.Letter.text>
+  <M_OpportunitySite_ArcaneBandits.root.nodes.siteDestroyed.node.nodes.Letter.label>任务已失败 [resolvedQuestName]</M_OpportunitySite_ArcaneBandits.root.nodes.siteDestroyed.node.nodes.Letter.label>
+  <M_OpportunitySite_ArcaneBandits.root.nodes.siteDestroyed.node.nodes.Letter.text>在你拙劣的攻击之后，奥术盗贼立即攻击并偷走了几件文物。. [asker_label]对你不满意。</M_OpportunitySite_ArcaneBandits.root.nodes.siteDestroyed.node.nodes.Letter.text>
+  <TM_OpportunitySite_ArcaneBandits.questDescriptionRules.rulesStrings.0>questDescription-&gt;[asker_nameFull], [asker_faction_leaderTitle] 属于 [asker_faction_name],已经给我们发了条信息。显然，[siteFaction_pawnsPlural] 已经在附近建立了一个前哨站，并威胁要攻击那个营地，除非[asker_faction_name]营地交出他们的文物，营地由 [siteFaction_name]. 控制。\n[asker_nameDef]要求我们消灭这些邪恶的流氓，这意味着我们摧毁他们或将他们赶出前哨。 [asker_label]说 [sitePart0_description].。\如果我们成功了，[asker_label] 会给我们发送一些奖励；[allRewardsDescriptions]</TM_OpportunitySite_ArcaneBandits.questDescriptionRules.rulesStrings.0>
+  <TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.0>questName-&gt;[asker_nameDef]'的奥术盗贼</TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.0>
+  <TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.1>questName-&gt;奥术盗贼营地[enemyFaction_pawnsPlural]</TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.1>
+  <TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.2>questName-&gt;奥术盗贼营地</TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.2>
+  <TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.3>questName-&gt;神秘盗贼营地</TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.3>
+  <TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.4>questName-&gt;消灭奥术盗贼</TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.4>
+  <TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.5>questName-&gt;帮助 [asker_nameDef] 保护魔法文物</TM_OpportunitySite_ArcaneBandits.questNameRules.rulesStrings.5>
+  <TM_OpportunitySite_ArcaneBandits.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务已过期：[resolvedQuestName]</TM_OpportunitySite_ArcaneBandits.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <TM_OpportunitySite_ArcaneBandits.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>奥术强盗成功地从[asker_faction_name]窃取了奥术神器。 [asker_label] 对您不满意。</TM_OpportunitySite_ArcaneBandits.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <TM_OpportunitySite_ArcaneBandits.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>任务失败： [resolvedQuestName]</TM_OpportunitySite_ArcaneBandits.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <TM_OpportunitySite_ArcaneBandits.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>在你的攻击失败后，奥术强盗立即发起攻击并偷走了一些神器。 [asker_label] 对你很失望。</TM_OpportunitySite_ArcaneBandits.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <TM_OpportunitySite_ArcaneBandits.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>付款已到</TM_OpportunitySite_ArcaneBandits.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+  <TM_OpportunitySite_ArcaneBandits.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>你已经击败了神秘强盗！\n\n[asker_faction_name] 的付款已到达。</TM_OpportunitySite_ArcaneBandits.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Light Lance -->
+
+  <Projectile_LightLance.label>光矛</Projectile_LightLance.label>
+  <FlyingObject_LightLance.label>光矛</FlyingObject_LightLance.label>
+
+
+  <!-- Sunfire -->
+
+  <Projectile_Sunfire.label>阳火</Projectile_Sunfire.label>
+  <Projectile_Sunfire_I.label>阳火</Projectile_Sunfire_I.label>
+  <Projectile_Sunfire_II.label>阳火</Projectile_Sunfire_II.label>
+  <Projectile_Sunfire_III.label>阳火</Projectile_Sunfire_III.label>
+
+
+  <!-- Light Skip -->
+
+  <Projectile_LightSkip.label>光行</Projectile_LightSkip.label>
+
+
+  <!-- Mass Light Skip -->
+
+  <Projectile_LightSkipMass.label>质量光行</Projectile_LightSkipMass.label>
+
+
+  <!-- Refraction -->
+
+  <Projectile_Refraction.label>折射</Projectile_Refraction.label>
+
+
+  <!-- Spirit of Light (SoL) -->
+
+  <Projectile_SpiritOfLight.label>光之灵</Projectile_SpiritOfLight.label>
+  <FlyingObject_SpiritOfLight.label>光之灵</FlyingObject_SpiritOfLight.label>
+  <Projectile_LightLaser.label>光刀</Projectile_LightLaser.label>
+
+
+  <!-- Create Light -->
+
+  <Projectile_CreateLight.label>创造光</Projectile_CreateLight.label>
+
+
+</LanguageData>

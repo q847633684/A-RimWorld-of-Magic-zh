@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mending -->
+
+  <TM_ArtifactMendingHD.label>Mending</TM_ArtifactMendingHD.label>
+
+
+  <!-- Health Charm -->
+
+  <TM_ArtifactHealthHD.label>Improved Health</TM_ArtifactHealthHD.label>
+
+
+  <!-- Cat Eyes -->
+
+  <TM_ArtifactCatEyesHD.label>Dark Sight</TM_ArtifactCatEyesHD.label>
+
+
+  <!-- Strength of Stone -->
+
+  <TM_ArtifactStrengthHD.label>Strength of Stone</TM_ArtifactStrengthHD.label>
+
+
+  <!-- Mind Ward -->
+
+  <TM_ArtifactMindHD.label>Mind Ward</TM_ArtifactMindHD.label>
+
+
+  <!-- Renewal -->
+
+  <TM_ArtifactRenewalHD.label>Renewal</TM_ArtifactRenewalHD.label>
+
+
+  <!-- Arcane Recovery -->
+
+  <TM_ArtifactArcaneRecoveryHD.label>Arcane Recovery</TM_ArtifactArcaneRecoveryHD.label>
+
+
+  <!-- Pathfinding -->
+
+  <TM_ArtifactPathfindingHD.label>Pathfinding</TM_ArtifactPathfindingHD.label>
+
+
+  <!-- Defensive Bracers -->
+
+  <TM_ArtifactBlockHD.label>Blocking</TM_ArtifactBlockHD.label>
+  <TM_ArtifactDeflectHD.label>Deflective Blocking</TM_ArtifactDeflectHD.label>
+
+
+  <!-- Energy Pool Boosts -->
+
+  <TM_Artifact_BloodBoostHD.label>Blood Boost</TM_Artifact_BloodBoostHD.label>
+  <TM_Artifact_PsionicBoostHD.label>Psionic Boost</TM_Artifact_PsionicBoostHD.label>
+  <TM_Artifact_HateBoostHD.label>Hate Boost</TM_Artifact_HateBoostHD.label>
+
+
+  <!-- soul orb infusion debuff -->
+
+  <TM_TraitInfusionHD.label>Trait Infusion</TM_TraitInfusionHD.label>
+
+
+</LanguageData>

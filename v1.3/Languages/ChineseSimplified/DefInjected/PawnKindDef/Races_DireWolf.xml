@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dire Wolf -->
+
+  <TM_Dire_Wolf.label>恐惧魔狼</TM_Dire_Wolf.label>
+  <TM_Dire_Wolf.labelPlural>恐惧魔狼群</TM_Dire_Wolf.labelPlural>
+  <TM_Dire_Wolf.lifeStages.0.label>恐惧魔狼</TM_Dire_Wolf.lifeStages.0.label>
+  <TM_Dire_Wolf.lifeStages.0.labelPlural>恐惧魔狼群</TM_Dire_Wolf.lifeStages.0.labelPlural>
+  <TM_Dire_Wolf.lifeStages.0.labelMale>雄性恐惧魔狼幼崽</TM_Dire_Wolf.lifeStages.0.labelMale>
+  <TM_Dire_Wolf.lifeStages.0.labelMalePlural>雄性恐惧魔狼幼崽群</TM_Dire_Wolf.lifeStages.0.labelMalePlural>
+  <TM_Dire_Wolf.lifeStages.0.labelFemale>雌性恐惧魔狼幼崽</TM_Dire_Wolf.lifeStages.0.labelFemale>
+  <TM_Dire_Wolf.lifeStages.0.labelFemalePlural>雌性恐惧魔狼幼崽群</TM_Dire_Wolf.lifeStages.0.labelFemalePlural>
+  <TM_Dire_Wolf.lifeStages.1.label>恐惧魔狼</TM_Dire_Wolf.lifeStages.1.label>
+  <TM_Dire_Wolf.lifeStages.1.labelPlural>恐惧魔狼群</TM_Dire_Wolf.lifeStages.1.labelPlural>
+  <TM_Dire_Wolf.lifeStages.1.labelMale>雄性恐惧魔狼</TM_Dire_Wolf.lifeStages.1.labelMale>
+  <TM_Dire_Wolf.lifeStages.1.labelMalePlural>雄性恐惧魔狼群</TM_Dire_Wolf.lifeStages.1.labelMalePlural>
+  <TM_Dire_Wolf.lifeStages.1.labelFemale>雌性恐惧魔狼</TM_Dire_Wolf.lifeStages.1.labelFemale>
+  <TM_Dire_Wolf.lifeStages.1.labelFemalePlural>雌性恐惧魔狼群</TM_Dire_Wolf.lifeStages.1.labelFemalePlural>
+  <TM_Dire_Wolf.lifeStages.2.label>恐惧魔狼</TM_Dire_Wolf.lifeStages.2.label>
+  <TM_Dire_Wolf.lifeStages.2.labelPlural>恐惧魔狼群</TM_Dire_Wolf.lifeStages.2.labelPlural>
+  <TM_Dire_Wolf.lifeStages.2.labelMale>雄性恐惧魔狼</TM_Dire_Wolf.lifeStages.2.labelMale>
+  <TM_Dire_Wolf.lifeStages.2.labelMalePlural>雄性恐惧魔狼群</TM_Dire_Wolf.lifeStages.2.labelMalePlural>
+  <TM_Dire_Wolf.lifeStages.2.labelFemale>雌性恐惧魔狼</TM_Dire_Wolf.lifeStages.2.labelFemale>
+  <TM_Dire_Wolf.lifeStages.2.labelFemalePlural>雌性恐惧魔狼群</TM_Dire_Wolf.lifeStages.2.labelFemalePlural>
+  <TM_Dire_Wolf.labelMale>雄性恐惧魔狼</TM_Dire_Wolf.labelMale>
+  <TM_Dire_Wolf.labelMalePlural>雄性恐惧魔狼</TM_Dire_Wolf.labelMalePlural>
+  <TM_Dire_Wolf.labelFemale>雌性恐惧魔狼</TM_Dire_Wolf.labelFemale>
+  <TM_Dire_Wolf.labelFemalePlural>雌性恐狼群</TM_Dire_Wolf.labelFemalePlural>
+
+
+</LanguageData>

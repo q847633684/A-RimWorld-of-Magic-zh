@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- MECHA GOLEM -->
+  <TM_Mecha-Golem.label>机械傀儡</TM_Mecha-Golem.label>
+  <!-- FLESH GOLEM -->
+  <!--原中文: '血肉傀儡', 原英文: '无' -> 新英文: 'flesh golem',更新于2026-02-14-->
+  <!--EN: flesh golem-->
+  <TM_FleshGolem.label>血肉傀儡</TM_FleshGolem.label>
+  <!--原中文: '左肺', 原英文: '无' -> 新英文: 'left lung',更新于2026-02-14-->
+  <!--EN: left lung-->
+  <TM_FleshGolem.corePart.parts.2.parts.1.parts.0.customLabel>左肺</TM_FleshGolem.corePart.parts.2.parts.1.parts.0.customLabel>
+  <!--原中文: '右肺', 原英文: '无' -> 新英文: 'right lung',更新于2026-02-14-->
+  <!--EN: right lung-->
+  <TM_FleshGolem.corePart.parts.2.parts.1.parts.1.customLabel>右肺</TM_FleshGolem.corePart.parts.2.parts.1.parts.1.customLabel>
+  <!--原中文: '左眼', 原英文: '无' -> 新英文: 'left eye',更新于2026-02-14-->
+  <!--EN: left eye-->
+  <TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>左眼</TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>
+  <!--原中文: '右眼', 原英文: '无' -> 新英文: 'right eye',更新于2026-02-14-->
+  <!--EN: right eye-->
+  <TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>右眼</TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>
+  <!--原中文: '左下眼', 原英文: '无' -> 新英文: 'lower left eye',更新于2026-02-14-->
+  <!--EN: lower left eye-->
+  <TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.2.customLabel>左下眼</TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.2.customLabel>
+  <!--原中文: '右下眼', 原英文: '无' -> 新英文: 'lower right eye',更新于2026-02-14-->
+  <!--EN: lower right eye-->
+  <TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.3.customLabel>右下眼</TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.3.customLabel>
+  <!--原中文: '邪恶之眼', 原英文: '无' -> 新英文: 'evil eye',更新于2026-02-14-->
+  <!--EN: evil eye-->
+  <TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.4.customLabel>邪恶之眼</TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.4.customLabel>
+  <!--原中文: '左耳', 原英文: '无' -> 新英文: 'left ear',更新于2026-02-14-->
+  <!--EN: left ear-->
+  <TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.6.customLabel>左耳</TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.6.customLabel>
+  <!--原中文: '右耳', 原英文: '无' -> 新英文: 'right ear',更新于2026-02-14-->
+  <!--EN: right ear-->
+  <TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.7.customLabel>右耳</TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.7.customLabel>
+  <!--原中文: '左肩', 原英文: '无' -> 新英文: 'left shoulder',更新于2026-02-14-->
+  <!--EN: left shoulder-->
+  <TM_FleshGolem.corePart.parts.4.customLabel>左肩</TM_FleshGolem.corePart.parts.4.customLabel>
+  <!--原中文: '左臂', 原英文: '无' -> 新英文: 'left arm',更新于2026-02-14-->
+  <!--EN: left arm-->
+  <TM_FleshGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_FleshGolem.corePart.parts.4.parts.0.customLabel>
+  <!--原中文: '左手', 原英文: '无' -> 新英文: 'left hand',更新于2026-02-14-->
+  <!--EN: left hand-->
+  <TM_FleshGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_FleshGolem.corePart.parts.4.parts.0.parts.0.customLabel>
+  <!--原中文: '右肩', 原英文: '无' -> 新英文: 'right shoulder',更新于2026-02-14-->
+  <!--EN: right shoulder-->
+  <TM_FleshGolem.corePart.parts.5.customLabel>右肩</TM_FleshGolem.corePart.parts.5.customLabel>
+  <!--原中文: '右臂', 原英文: '无' -> 新英文: 'right arm',更新于2026-02-14-->
+  <!--EN: right arm-->
+  <TM_FleshGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_FleshGolem.corePart.parts.5.parts.0.customLabel>
+  <!--原中文: '右手', 原英文: '无' -> 新英文: 'right hand',更新于2026-02-14-->
+  <!--EN: right hand-->
+  <TM_FleshGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_FleshGolem.corePart.parts.5.parts.0.parts.0.customLabel>
+  <!--原中文: '左腿', 原英文: '无' -> 新英文: 'left leg',更新于2026-02-14-->
+  <!--EN: left leg-->
+  <TM_FleshGolem.corePart.parts.6.parts.0.customLabel>左腿</TM_FleshGolem.corePart.parts.6.parts.0.customLabel>
+  <!--原中文: '左股骨', 原英文: '无' -> 新英文: 'left femur',更新于2026-02-14-->
+  <!--EN: left femur-->
+  <TM_FleshGolem.corePart.parts.6.parts.0.parts.0.customLabel>左股骨</TM_FleshGolem.corePart.parts.6.parts.0.parts.0.customLabel>
+  <!--原中文: '左胫骨', 原英文: '无' -> 新英文: 'left tibia',更新于2026-02-14-->
+  <!--EN: left tibia-->
+  <TM_FleshGolem.corePart.parts.6.parts.0.parts.1.customLabel>左胫骨</TM_FleshGolem.corePart.parts.6.parts.0.parts.1.customLabel>
+  <!--原中文: '左脚', 原英文: '无' -> 新英文: 'left foot',更新于2026-02-14-->
+  <!--EN: left foot-->
+  <TM_FleshGolem.corePart.parts.6.parts.0.parts.2.customLabel>左脚</TM_FleshGolem.corePart.parts.6.parts.0.parts.2.customLabel>
+  <!--原中文: '右腿', 原英文: '无' -> 新英文: 'right leg',更新于2026-02-14-->
+  <!--EN: right leg-->
+  <TM_FleshGolem.corePart.parts.6.parts.1.customLabel>右腿</TM_FleshGolem.corePart.parts.6.parts.1.customLabel>
+  <!--原中文: '右股骨', 原英文: '无' -> 新英文: 'right femur',更新于2026-02-14-->
+  <!--EN: right femur-->
+  <TM_FleshGolem.corePart.parts.6.parts.1.parts.0.customLabel>右股骨</TM_FleshGolem.corePart.parts.6.parts.1.parts.0.customLabel>
+  <!--原中文: '右胫骨', 原英文: '无' -> 新英文: 'right tibia',更新于2026-02-14-->
+  <!--EN: right tibia-->
+  <TM_FleshGolem.corePart.parts.6.parts.1.parts.1.customLabel>右胫骨</TM_FleshGolem.corePart.parts.6.parts.1.parts.1.customLabel>
+  <!--原中文: '右脚', 原英文: '无' -> 新英文: 'right foot',更新于2026-02-14-->
+  <!--EN: right foot-->
+  <TM_FleshGolem.corePart.parts.6.parts.1.parts.2.customLabel>右脚</TM_FleshGolem.corePart.parts.6.parts.1.parts.2.customLabel>
+  <!-- HOLLOW GOLEM -->
+  <!--原中文: '空洞傀儡', 原英文: '无' -> 新英文: 'hollow golem',更新于2026-02-14-->
+  <!--EN: hollow golem-->
+  <TM_HollowGolem.label>空洞傀儡</TM_HollowGolem.label>
+  <!--原中文: '左肺', 原英文: '无' -> 新英文: 'left lung',更新于2026-02-14-->
+  <!--EN: left lung-->
+  <TM_HollowGolem.corePart.parts.2.parts.4.parts.0.customLabel>左肺</TM_HollowGolem.corePart.parts.2.parts.4.parts.0.customLabel>
+  <!--原中文: '右肺', 原英文: '无' -> 新英文: 'right lung',更新于2026-02-14-->
+  <!--EN: right lung-->
+  <TM_HollowGolem.corePart.parts.2.parts.4.parts.1.customLabel>右肺</TM_HollowGolem.corePart.parts.2.parts.4.parts.1.customLabel>
+  <!--原中文: '左眼', 原英文: '无' -> 新英文: 'left eye',更新于2026-02-14-->
+  <!--EN: left eye-->
+  <TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>左眼</TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>
+  <!--原中文: '右眼', 原英文: '无' -> 新英文: 'right eye',更新于2026-02-14-->
+  <!--EN: right eye-->
+  <TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>右眼</TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>
+  <!--原中文: '左耳', 原英文: '无' -> 新英文: 'left ear',更新于2026-02-14-->
+  <!--EN: left ear-->
+  <TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.2.customLabel>左耳</TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.2.customLabel>
+  <!--原中文: '右耳', 原英文: '无' -> 新英文: 'right ear',更新于2026-02-14-->
+  <!--EN: right ear-->
+  <TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.3.customLabel>右耳</TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.3.customLabel>
+  <!--原中文: '左肩', 原英文: '无' -> 新英文: 'left shoulder',更新于2026-02-14-->
+  <!--EN: left shoulder-->
+  <TM_HollowGolem.corePart.parts.4.customLabel>左肩</TM_HollowGolem.corePart.parts.4.customLabel>
+  <!--原中文: '左臂', 原英文: '无' -> 新英文: 'left arm',更新于2026-02-14-->
+  <!--EN: left arm-->
+  <TM_HollowGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_HollowGolem.corePart.parts.4.parts.0.customLabel>
+  <!--原中文: '左手', 原英文: '无' -> 新英文: 'left hand',更新于2026-02-14-->
+  <!--EN: left hand-->
+  <TM_HollowGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_HollowGolem.corePart.parts.4.parts.0.parts.0.customLabel>
+  <!--原中文: '右肩', 原英文: '无' -> 新英文: 'right shoulder',更新于2026-02-14-->
+  <!--EN: right shoulder-->
+  <TM_HollowGolem.corePart.parts.5.customLabel>右肩</TM_HollowGolem.corePart.parts.5.customLabel>
+  <!--原中文: '右臂', 原英文: '无' -> 新英文: 'right arm',更新于2026-02-14-->
+  <!--EN: right arm-->
+  <TM_HollowGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_HollowGolem.corePart.parts.5.parts.0.customLabel>
+  <!--原中文: '右手', 原英文: '无' -> 新英文: 'right hand',更新于2026-02-14-->
+  <!--EN: right hand-->
+  <TM_HollowGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_HollowGolem.corePart.parts.5.parts.0.parts.0.customLabel>
+  <!--原中文: '左腿', 原英文: '无' -> 新英文: 'left leg',更新于2026-02-14-->
+  <!--EN: left leg-->
+  <TM_HollowGolem.corePart.parts.7.parts.0.customLabel>左腿</TM_HollowGolem.corePart.parts.7.parts.0.customLabel>
+  <!--原中文: '左股骨', 原英文: '无' -> 新英文: 'left femur',更新于2026-02-14-->
+  <!--EN: left femur-->
+  <TM_HollowGolem.corePart.parts.7.parts.0.parts.0.customLabel>左股骨</TM_HollowGolem.corePart.parts.7.parts.0.parts.0.customLabel>
+  <!--原中文: '左胫骨', 原英文: '无' -> 新英文: 'left tibia',更新于2026-02-14-->
+  <!--EN: left tibia-->
+  <TM_HollowGolem.corePart.parts.7.parts.0.parts.1.customLabel>左胫骨</TM_HollowGolem.corePart.parts.7.parts.0.parts.1.customLabel>
+  <!--原中文: '左脚', 原英文: '无' -> 新英文: 'left foot',更新于2026-02-14-->
+  <!--EN: left foot-->
+  <TM_HollowGolem.corePart.parts.7.parts.0.parts.2.customLabel>左脚</TM_HollowGolem.corePart.parts.7.parts.0.parts.2.customLabel>
+  <!--原中文: '右腿', 原英文: '无' -> 新英文: 'right leg',更新于2026-02-14-->
+  <!--EN: right leg-->
+  <TM_HollowGolem.corePart.parts.7.parts.1.customLabel>右腿</TM_HollowGolem.corePart.parts.7.parts.1.customLabel>
+  <!--原中文: '右股骨', 原英文: '无' -> 新英文: 'right femur',更新于2026-02-14-->
+  <!--EN: right femur-->
+  <TM_HollowGolem.corePart.parts.7.parts.1.parts.0.customLabel>右股骨</TM_HollowGolem.corePart.parts.7.parts.1.parts.0.customLabel>
+  <!--原中文: '右胫骨', 原英文: '无' -> 新英文: 'right tibia',更新于2026-02-14-->
+  <!--EN: right tibia-->
+  <TM_HollowGolem.corePart.parts.7.parts.1.parts.1.customLabel>右胫骨</TM_HollowGolem.corePart.parts.7.parts.1.parts.1.customLabel>
+  <!--原中文: '右脚', 原英文: '无' -> 新英文: 'right foot',更新于2026-02-14-->
+  <!--EN: right foot-->
+  <TM_HollowGolem.corePart.parts.7.parts.1.parts.2.customLabel>右脚</TM_HollowGolem.corePart.parts.7.parts.1.parts.2.customLabel>
+  <!-- STONE GOLEM -->
+  <!--原中文: '巨岩傀儡', 原英文: '无' -> 新英文: 'stone golem',更新于2026-02-14-->
+  <!--EN: stone golem-->
+  <TM_StoneGolem.label>巨岩傀儡</TM_StoneGolem.label>
+  <!--原中文: '左眼', 原英文: '无' -> 新英文: 'left eye',更新于2026-02-14-->
+  <!--EN: left eye-->
+  <TM_StoneGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>左眼</TM_StoneGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>
+  <!--原中文: '右眼', 原英文: '无' -> 新英文: 'right eye',更新于2026-02-14-->
+  <!--EN: right eye-->
+  <TM_StoneGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>右眼</TM_StoneGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>
+  <!--原中文: '左肩', 原英文: '无' -> 新英文: 'left shoulder',更新于2026-02-14-->
+  <!--EN: left shoulder-->
+  <TM_StoneGolem.corePart.parts.4.customLabel>左肩</TM_StoneGolem.corePart.parts.4.customLabel>
+  <!--原中文: '左臂', 原英文: '无' -> 新英文: 'left arm',更新于2026-02-14-->
+  <!--EN: left arm-->
+  <TM_StoneGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_StoneGolem.corePart.parts.4.parts.0.customLabel>
+  <!--原中文: '左手', 原英文: '无' -> 新英文: 'left hand',更新于2026-02-14-->
+  <!--EN: left hand-->
+  <TM_StoneGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_StoneGolem.corePart.parts.4.parts.0.parts.0.customLabel>
+  <!--原中文: '右肩', 原英文: '无' -> 新英文: 'right shoulder',更新于2026-02-14-->
+  <!--EN: right shoulder-->
+  <TM_StoneGolem.corePart.parts.5.customLabel>右肩</TM_StoneGolem.corePart.parts.5.customLabel>
+  <!--原中文: '右臂', 原英文: '无' -> 新英文: 'right arm',更新于2026-02-14-->
+  <!--EN: right arm-->
+  <TM_StoneGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_StoneGolem.corePart.parts.5.parts.0.customLabel>
+  <!--原中文: '右手', 原英文: '无' -> 新英文: 'right hand',更新于2026-02-14-->
+  <!--EN: right hand-->
+  <TM_StoneGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_StoneGolem.corePart.parts.5.parts.0.parts.0.customLabel>
+  <!--原中文: '左腿', 原英文: '无' -> 新英文: 'left leg',更新于2026-02-14-->
+  <!--EN: left leg-->
+  <TM_StoneGolem.corePart.parts.6.parts.0.customLabel>左腿</TM_StoneGolem.corePart.parts.6.parts.0.customLabel>
+  <!--原中文: '左脚', 原英文: '无' -> 新英文: 'left foot',更新于2026-02-14-->
+  <!--EN: left foot-->
+  <TM_StoneGolem.corePart.parts.6.parts.0.parts.0.customLabel>左脚</TM_StoneGolem.corePart.parts.6.parts.0.parts.0.customLabel>
+  <!--原中文: '右腿', 原英文: '无' -> 新英文: 'right leg',更新于2026-02-14-->
+  <!--EN: right leg-->
+  <TM_StoneGolem.corePart.parts.6.parts.1.customLabel>右腿</TM_StoneGolem.corePart.parts.6.parts.1.customLabel>
+  <!--原中文: '右脚', 原英文: '无' -> 新英文: 'right foot',更新于2026-02-14-->
+  <!--EN: right foot-->
+  <TM_StoneGolem.corePart.parts.6.parts.1.parts.0.customLabel>右脚</TM_StoneGolem.corePart.parts.6.parts.1.parts.0.customLabel>
+  <!-- MAHARAL GOLEM -->
+  <!--原中文: '马哈拉尔傀儡', 原英文: '无' -> 新英文: 'maharal golem',更新于2026-02-14-->
+  <!--EN: maharal golem-->
+  <TM_MaharalGolem.label>马哈拉尔傀儡</TM_MaharalGolem.label>
+  <!--原中文: '左眼', 原英文: '无' -> 新英文: 'left eye',更新于2026-02-14-->
+  <!--EN: left eye-->
+  <TM_MaharalGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>左眼</TM_MaharalGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>
+  <!--原中文: '右眼', 原英文: '无' -> 新英文: 'right eye',更新于2026-02-14-->
+  <!--EN: right eye-->
+  <TM_MaharalGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>右眼</TM_MaharalGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>
+  <!--原中文: '左肩', 原英文: '无' -> 新英文: 'left shoulder',更新于2026-02-14-->
+  <!--EN: left shoulder-->
+  <TM_MaharalGolem.corePart.parts.4.customLabel>左肩</TM_MaharalGolem.corePart.parts.4.customLabel>
+  <!--原中文: '左臂', 原英文: '无' -> 新英文: 'left arm',更新于2026-02-14-->
+  <!--EN: left arm-->
+  <TM_MaharalGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_MaharalGolem.corePart.parts.4.parts.0.customLabel>
+  <!--原中文: '左手', 原英文: '无' -> 新英文: 'left hand',更新于2026-02-14-->
+  <!--EN: left hand-->
+  <TM_MaharalGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_MaharalGolem.corePart.parts.4.parts.0.parts.0.customLabel>
+  <!--原中文: '右肩', 原英文: '无' -> 新英文: 'right shoulder',更新于2026-02-14-->
+  <!--EN: right shoulder-->
+  <TM_MaharalGolem.corePart.parts.5.customLabel>右肩</TM_MaharalGolem.corePart.parts.5.customLabel>
+  <!--原中文: '右臂', 原英文: '无' -> 新英文: 'right arm',更新于2026-02-14-->
+  <!--EN: right arm-->
+  <TM_MaharalGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_MaharalGolem.corePart.parts.5.parts.0.customLabel>
+  <!--原中文: '右手', 原英文: '无' -> 新英文: 'right hand',更新于2026-02-14-->
+  <!--EN: right hand-->
+  <TM_MaharalGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_MaharalGolem.corePart.parts.5.parts.0.parts.0.customLabel>
+  <!--原中文: '左腿', 原英文: '无' -> 新英文: 'left leg',更新于2026-02-14-->
+  <!--EN: left leg-->
+  <TM_MaharalGolem.corePart.parts.6.parts.0.customLabel>左腿</TM_MaharalGolem.corePart.parts.6.parts.0.customLabel>
+  <!--原中文: '左脚', 原英文: '无' -> 新英文: 'left foot',更新于2026-02-14-->
+  <!--EN: left foot-->
+  <TM_MaharalGolem.corePart.parts.6.parts.0.parts.0.customLabel>左脚</TM_MaharalGolem.corePart.parts.6.parts.0.parts.0.customLabel>
+  <!--原中文: '右腿', 原英文: '无' -> 新英文: 'right leg',更新于2026-02-14-->
+  <!--EN: right leg-->
+  <TM_MaharalGolem.corePart.parts.6.parts.1.customLabel>右腿</TM_MaharalGolem.corePart.parts.6.parts.1.customLabel>
+  <!--原中文: '右脚', 原英文: '无' -> 新英文: 'right foot',更新于2026-02-14-->
+  <!--EN: right foot-->
+  <TM_MaharalGolem.corePart.parts.6.parts.1.parts.0.customLabel>右脚</TM_MaharalGolem.corePart.parts.6.parts.1.parts.0.customLabel>
+  <!-- STRAW GOLEM -->
+  <!--原中文: '稻草傀儡', 原英文: '无' -> 新英文: 'straw golem',更新于2026-02-14-->
+  <!--EN: straw golem-->
+  <TM_StrawGolem.label>稻草傀儡</TM_StrawGolem.label>
+  <!--原中文: '左肩', 原英文: '无' -> 新英文: 'left shoulder',更新于2026-02-14-->
+  <!--EN: left shoulder-->
+  <TM_StrawGolem.corePart.parts.4.customLabel>左肩</TM_StrawGolem.corePart.parts.4.customLabel>
+  <!--原中文: '左臂', 原英文: '无' -> 新英文: 'left arm',更新于2026-02-14-->
+  <!--EN: left arm-->
+  <TM_StrawGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_StrawGolem.corePart.parts.4.parts.0.customLabel>
+  <!--原中文: '左手', 原英文: '无' -> 新英文: 'left hand',更新于2026-02-14-->
+  <!--EN: left hand-->
+  <TM_StrawGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_StrawGolem.corePart.parts.4.parts.0.parts.0.customLabel>
+  <!--原中文: '右肩', 原英文: '无' -> 新英文: 'right shoulder',更新于2026-02-14-->
+  <!--EN: right shoulder-->
+  <TM_StrawGolem.corePart.parts.5.customLabel>右肩</TM_StrawGolem.corePart.parts.5.customLabel>
+  <!--原中文: '右臂', 原英文: '无' -> 新英文: 'right arm',更新于2026-02-14-->
+  <!--EN: right arm-->
+  <TM_StrawGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_StrawGolem.corePart.parts.5.parts.0.customLabel>
+  <!--原中文: '右手', 原英文: '无' -> 新英文: 'right hand',更新于2026-02-14-->
+  <!--EN: right hand-->
+  <TM_StrawGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_StrawGolem.corePart.parts.5.parts.0.parts.0.customLabel>
+  <!--原中文: '左腿', 原英文: '无' -> 新英文: 'left leg',更新于2026-02-14-->
+  <!--EN: left leg-->
+  <TM_StrawGolem.corePart.parts.6.parts.0.customLabel>左腿</TM_StrawGolem.corePart.parts.6.parts.0.customLabel>
+  <!--原中文: '左脚', 原英文: '无' -> 新英文: 'left foot',更新于2026-02-14-->
+  <!--EN: left foot-->
+  <TM_StrawGolem.corePart.parts.6.parts.0.parts.0.customLabel>左脚</TM_StrawGolem.corePart.parts.6.parts.0.parts.0.customLabel>
+  <!--原中文: '右腿', 原英文: '无' -> 新英文: 'right leg',更新于2026-02-14-->
+  <!--EN: right leg-->
+  <TM_StrawGolem.corePart.parts.6.parts.1.customLabel>右腿</TM_StrawGolem.corePart.parts.6.parts.1.customLabel>
+  <!--原中文: '右脚', 原英文: '无' -> 新英文: 'right foot',更新于2026-02-14-->
+  <!--EN: right foot-->
+  <TM_StrawGolem.corePart.parts.6.parts.1.parts.0.customLabel>右脚</TM_StrawGolem.corePart.parts.6.parts.1.parts.0.customLabel>
+  <!-- WOOD GOLEM -->
+  <!--原中文: '木傀儡', 原英文: '无' -> 新英文: 'wood golem',更新于2026-02-14-->
+  <!--EN: wood golem-->
+  <TM_WoodGolem.label>木傀儡</TM_WoodGolem.label>
+  <!-- SILK GOLEM -->
+  <!--原中文: '丝绸傀儡', 原英文: '无' -> 新英文: 'silk golem',更新于2026-02-14-->
+  <!--EN: silk golem-->
+  <TM_SilkGolem.label>丝绸傀儡</TM_SilkGolem.label>
+  <!--原中文: '左眼', 原英文: '无' -> 新英文: 'left eye',更新于2026-02-14-->
+  <!--EN: left eye-->
+  <TM_SilkGolem.corePart.parts.3.parts.0.parts.2.customLabel>左眼</TM_SilkGolem.corePart.parts.3.parts.0.parts.2.customLabel>
+  <!--原中文: '右眼', 原英文: '无' -> 新英文: 'right eye',更新于2026-02-14-->
+  <!--EN: right eye-->
+  <TM_SilkGolem.corePart.parts.3.parts.0.parts.3.customLabel>右眼</TM_SilkGolem.corePart.parts.3.parts.0.parts.3.customLabel>
+  <!--原中文: '左耳', 原英文: '无' -> 新英文: 'left ear',更新于2026-02-14-->
+  <!--EN: left ear-->
+  <TM_SilkGolem.corePart.parts.3.parts.0.parts.4.customLabel>左耳</TM_SilkGolem.corePart.parts.3.parts.0.parts.4.customLabel>
+  <!--原中文: '右耳朵', 原英文: '无' -> 新英文: 'right ear',更新于2026-02-14-->
+  <!--EN: right ear-->
+  <TM_SilkGolem.corePart.parts.3.parts.0.parts.5.customLabel>右耳朵</TM_SilkGolem.corePart.parts.3.parts.0.parts.5.customLabel>
+  <!--原中文: '左肩', 原英文: '无' -> 新英文: 'left shoulder',更新于2026-02-14-->
+  <!--EN: left shoulder-->
+  <TM_SilkGolem.corePart.parts.4.customLabel>左肩</TM_SilkGolem.corePart.parts.4.customLabel>
+  <!--原中文: '左臂', 原英文: '无' -> 新英文: 'left arm',更新于2026-02-14-->
+  <!--EN: left arm-->
+  <TM_SilkGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_SilkGolem.corePart.parts.4.parts.0.customLabel>
+  <!--原中文: '左手', 原英文: '无' -> 新英文: 'left hand',更新于2026-02-14-->
+  <!--EN: left hand-->
+  <TM_SilkGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_SilkGolem.corePart.parts.4.parts.0.parts.0.customLabel>
+  <!--原中文: '右肩', 原英文: '无' -> 新英文: 'right shoulder',更新于2026-02-14-->
+  <!--EN: right shoulder-->
+  <TM_SilkGolem.corePart.parts.5.customLabel>右肩</TM_SilkGolem.corePart.parts.5.customLabel>
+  <!--原中文: '右臂', 原英文: '无' -> 新英文: 'right arm',更新于2026-02-14-->
+  <!--EN: right arm-->
+  <TM_SilkGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_SilkGolem.corePart.parts.5.parts.0.customLabel>
+  <!--原中文: '右手', 原英文: '无' -> 新英文: 'right hand',更新于2026-02-14-->
+  <!--EN: right hand-->
+  <TM_SilkGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_SilkGolem.corePart.parts.5.parts.0.parts.0.customLabel>
+  <!--原中文: '左腿', 原英文: '无' -> 新英文: 'left leg',更新于2026-02-14-->
+  <!--EN: left leg-->
+  <TM_SilkGolem.corePart.parts.6.parts.0.customLabel>左腿</TM_SilkGolem.corePart.parts.6.parts.0.customLabel>
+  <!--原中文: '左脚', 原英文: '无' -> 新英文: 'left foot',更新于2026-02-14-->
+  <!--EN: left foot-->
+  <TM_SilkGolem.corePart.parts.6.parts.0.parts.0.customLabel>左脚</TM_SilkGolem.corePart.parts.6.parts.0.parts.0.customLabel>
+  <!--原中文: '右腿', 原英文: '无' -> 新英文: 'right leg',更新于2026-02-14-->
+  <!--EN: right leg-->
+  <TM_SilkGolem.corePart.parts.6.parts.1.customLabel>右腿</TM_SilkGolem.corePart.parts.6.parts.1.customLabel>
+  <!--原中文: '右脚', 原英文: '无' -> 新英文: 'right foot',更新于2026-02-14-->
+  <!--EN: right foot-->
+  <TM_SilkGolem.corePart.parts.6.parts.1.parts.0.customLabel>右脚</TM_SilkGolem.corePart.parts.6.parts.1.parts.0.customLabel>
+  <!--原中文: '机械傀儡', 原英文: '无' -> 新英文: 'mecha-golem',更新于2026-02-14-->
+  <!--EN: mecha-golem-->
+  <TM_Mecha.Golem.label>机械傀儡</TM_Mecha.Golem.label>
+</LanguageData>

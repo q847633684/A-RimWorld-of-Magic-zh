@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Soothe start -->
+
+  <Buff_Soothe.label>Soothing Breeze</Buff_Soothe.label>
+
+
+  <!-- FrostRay -->
+
+  <Laser_FrostRay.label>Frost Ray</Laser_FrostRay.label>
+
+
+  <!-- Snowball -->
+
+  <Projectile_Snowball.label>Snowball</Projectile_Snowball.label>
+
+
+  <!-- Icebolt -->
+
+  <Projectile_Icebolt.label>Icebolt</Projectile_Icebolt.label>
+
+
+  <!-- Rainmaker Start -->
+
+  <Projectile_Rainmaker.label>Rainmaker</Projectile_Rainmaker.label>
+
+
+  <!-- Blizzard -->
+
+  <Projectile_Blizzard.label>Blizzard</Projectile_Blizzard.label>
+
+
+</LanguageData>

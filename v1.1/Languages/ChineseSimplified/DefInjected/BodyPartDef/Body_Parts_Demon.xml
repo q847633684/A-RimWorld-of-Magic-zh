@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Demon_Body.label>plated chest</Demon_Body.label>
+  <Demon_Spine.label>armored spine</Demon_Spine.label>
+  <Demon_Abdomen.label>abdomen</Demon_Abdomen.label>
+  <Demon_Chest.label>plated chest</Demon_Chest.label>
+  <Demon_Heart.label>demonic heart</Demon_Heart.label>
+  <Demon_Heart_Hidden.label>shadow heart</Demon_Heart_Hidden.label>
+  <Demon_RibCage.label>ribcage</Demon_RibCage.label>
+  <Demon_LeftLung.label>left lung</Demon_LeftLung.label>
+  <Demon_RightLung.label>right lung</Demon_RightLung.label>
+  <Demon_Head.label>head</Demon_Head.label>
+  <Demon_Neck.label>neck</Demon_Neck.label>
+  <Demon_DeathMask.label>armored death mask</Demon_DeathMask.label>
+  <Demon_Skull.label>armored skull</Demon_Skull.label>
+  <Demon_Brain.label>brain</Demon_Brain.label>
+  <Demon_Horn1.label>left side horn</Demon_Horn1.label>
+  <Demon_Horn2.label>left top horn</Demon_Horn2.label>
+  <Demon_Horn3.label>right top horn</Demon_Horn3.label>
+  <Demon_Horn4.label>right side horn</Demon_Horn4.label>
+  <Demon_SightSensor.label>inner sight</Demon_SightSensor.label>
+  <Demon_SixthSense.label>inner sense</Demon_SixthSense.label>
+  <Demon_Mandible.label>mandibles</Demon_Mandible.label>
+  <Demon_LeftWing.label>left wing</Demon_LeftWing.label>
+  <Demon_RightWing.label>right wing</Demon_RightWing.label>
+  <Demon_LeftArm.label>left arm</Demon_LeftArm.label>
+  <Demon_RightArm.label>right arm</Demon_RightArm.label>
+  <Demon_LeftLeg.label>left leg</Demon_LeftLeg.label>
+  <Demon_RightLeg.label>right leg</Demon_RightLeg.label>
+
+
+</LanguageData>

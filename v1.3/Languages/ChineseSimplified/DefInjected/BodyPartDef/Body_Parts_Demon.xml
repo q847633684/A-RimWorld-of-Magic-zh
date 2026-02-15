@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Demon_Body.label>镀金胸甲</Demon_Body.label>
+  <Demon_Spine.label>装甲脊柱</Demon_Spine.label>
+  <Demon_Abdomen.label>腹部</Demon_Abdomen.label>
+  <Demon_Chest.label>镀金胸部</Demon_Chest.label>
+  <Demon_Heart.label>恶魔之心</Demon_Heart.label>
+  <Demon_Heart_Hidden.label>暗影之心</Demon_Heart_Hidden.label>
+  <Demon_RibCage.label>肋骨</Demon_RibCage.label>
+  <Demon_LeftLung.label>左肺</Demon_LeftLung.label>
+  <Demon_RightLung.label>右肺</Demon_RightLung.label>
+  <Demon_Head.label>头</Demon_Head.label>
+  <Demon_Neck.label>脖子</Demon_Neck.label>
+  <Demon_DeathMask.label>死亡面具</Demon_DeathMask.label>
+  <Demon_Skull.label>骷髅头</Demon_Skull.label>
+  <Demon_Brain.label>脑</Demon_Brain.label>
+  <Demon_Horn1.label>左侧犄角</Demon_Horn1.label>
+  <Demon_Horn2.label>左顶犄角</Demon_Horn2.label>
+  <Demon_Horn3.label>右顶犄角</Demon_Horn3.label>
+  <Demon_Horn4.label>右侧犄角</Demon_Horn4.label>
+  <Demon_SightSensor.label>内视</Demon_SightSensor.label>
+  <Demon_SixthSense.label>内部感应</Demon_SixthSense.label>
+  <Demon_Mandible.label>下颌骨</Demon_Mandible.label>
+  <Demon_LeftWing.label>左翼</Demon_LeftWing.label>
+  <Demon_RightWing.label>右翼</Demon_RightWing.label>
+  <Demon_LeftArm.label>左臂</Demon_LeftArm.label>
+  <Demon_RightArm.label>左臂</Demon_RightArm.label>
+  <Demon_LeftLeg.label>左腿</Demon_LeftLeg.label>
+  <Demon_RightLeg.label>右腿</Demon_RightLeg.label>
+
+
+</LanguageData>

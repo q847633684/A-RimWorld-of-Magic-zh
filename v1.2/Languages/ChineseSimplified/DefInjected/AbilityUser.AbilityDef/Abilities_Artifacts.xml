@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- orb of souls -->
+
+  <TM_Artifact_TraitThief.label>吞噬灵魂</TM_Artifact_TraitThief.label>
+  <TM_Artifact_TraitThief.description>窃取一个生物的特征。</TM_Artifact_TraitThief.description>
+
+  <TM_Artifact_TraitInfuse.label>注入灵魂</TM_Artifact_TraitInfuse.label>
+  <TM_Artifact_TraitInfuse.description>把封闭的特性注入一个生物体内。</TM_Artifact_TraitInfuse.description>
+
+
+</LanguageData>

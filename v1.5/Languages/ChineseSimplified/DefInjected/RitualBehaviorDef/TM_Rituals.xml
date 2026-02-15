@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_SeverMagic.spectatorFilter.description>观众必须愿意观看。</TM_SeverMagic.spectatorFilter.description>
+  <TM_SeverMagic.roles.0.label>寻虚者</TM_SeverMagic.roles.0.label>
+  <TM_SeverMagic.roles.1.label>魔法师</TM_SeverMagic.roles.1.label>
+  <TM_SeverMagic.roles.2.label>引导</TM_SeverMagic.roles.2.label>
+  <TM_SeverMagic.comps.3.expectedThingLabelTip>祭坛或文字符号</TM_SeverMagic.comps.3.expectedThingLabelTip>
+  <TM_SeverMagic.roles.0.missingDesc>虚空探索者</TM_SeverMagic.roles.0.missingDesc>
+  <TM_SeverMagic.roles.1.missingDesc>法师</TM_SeverMagic.roles.1.missingDesc>
+  <!-- Bestow Magic -->
+
+  <TM_BestowMagic.spectatorFilter.description>观众必须愿意观看。</TM_BestowMagic.spectatorFilter.description>
+  <TM_BestowMagic.roles.0.label>寻虚者</TM_BestowMagic.roles.0.label>
+  <TM_BestowMagic.roles.1.label>麻瓜</TM_BestowMagic.roles.1.label>
+  <TM_BestowMagic.roles.2.label>引导</TM_BestowMagic.roles.2.label>
+  <TM_BestowMagic.comps.3.expectedThingLabelTip>祭坛或文字符号</TM_BestowMagic.comps.3.expectedThingLabelTip>
+  <TM_BestowMagic.roles.0.missingDesc>虚空探索者</TM_BestowMagic.roles.0.missingDesc>
+    <TM_BestowMagic.roles.1.missingDesc>没有力量或魔法天赋的殖民者</TM_BestowMagic.roles.1.missingDesc>
+  <!-- Arcane Pathway -->
+
+  <TM_ArcanePathway.spectatorFilter.description>观众必须愿意观看。</TM_ArcanePathway.spectatorFilter.description>
+  <TM_ArcanePathway.roles.0.label>寻虚者</TM_ArcanePathway.roles.0.label>
+  <TM_ArcanePathway.roles.1.label>激活天赋</TM_ArcanePathway.roles.1.label>
+  <TM_ArcanePathway.roles.2.label>引导</TM_ArcanePathway.roles.2.label>
+  <TM_ArcanePathway.roles.0.missingDesc>虚空探索者</TM_ArcanePathway.roles.0.missingDesc>
+  <TM_ArcanePathway.roles.1.missingDesc>具有天赋特质的殖民者，受到启发成为法师职业</TM_ArcanePathway.roles.1.missingDesc>
+
+
+</LanguageData>

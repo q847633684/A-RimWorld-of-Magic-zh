@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dragon Strike -->
+
+  <FlyingObject_DragonStrike.label>潜龙出渊式</FlyingObject_DragonStrike.label>
+  <Projectile_DragonStrike.label>潜龙出渊式</Projectile_DragonStrike.label>
+
+
+  <!-- Thunder Strike -->
+
+  <Projectile_ThunderStrike.label>奔雷掌</Projectile_ThunderStrike.label>
+
+
+</LanguageData>

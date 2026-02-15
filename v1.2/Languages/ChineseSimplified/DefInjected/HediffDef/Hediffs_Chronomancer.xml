@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_AccelerateTimeHD.label>加速时空</TM_AccelerateTimeHD.label>
+  <TM_AccelerateTimeHD.description>迅速加速该生物的年龄。如果有任何其他影响转该生物的条件,也会改变他们的趋向。超过该生物寿命的生物经常受到与年龄有关的疾病或状况。</TM_AccelerateTimeHD.description>
+  <TM_AccelerateTimeHD.stages.0.label>I</TM_AccelerateTimeHD.stages.0.label>
+  <TM_AccelerateTimeHD.stages.1.label>II</TM_AccelerateTimeHD.stages.1.label>
+  <TM_AccelerateTimeHD.stages.2.label>III</TM_AccelerateTimeHD.stages.2.label>
+  <TM_AccelerateTimeHD.stages.3.label>IV</TM_AccelerateTimeHD.stages.3.label>
+
+  <TM_ReverseTimeBadHD.label>逆转未来</TM_ReverseTimeBadHD.label>
+  <TM_ReverseTimeBadHD.description>迅速逆转该生物的年龄。如果有任何其他影响转该生物的条件,也会改变他们的趋向。如果该生物被逆转到条件发生前，那么条件将不再存在。如果该生物被逆转到出生前也将不复存在。</TM_ReverseTimeBadHD.description>
+  <TM_ReverseTimeBadHD.stages.0.label>I</TM_ReverseTimeBadHD.stages.0.label>
+  <TM_ReverseTimeBadHD.stages.1.label>II</TM_ReverseTimeBadHD.stages.1.label>
+  <TM_ReverseTimeBadHD.stages.2.label>III</TM_ReverseTimeBadHD.stages.2.label>
+  <TM_ReverseTimeBadHD.stages.3.label>IV</TM_ReverseTimeBadHD.stages.3.label>
+
+  <TM_ReverseTimeHD.label>逆转未来</TM_ReverseTimeHD.label>
+  <TM_ReverseTimeHD.description>迅速逆转该生物的年龄。如果有任何其他影响转该生物的条件,也会改变他们的趋向。如果该生物被逆转到条件发生前，那么条件将不再存在。如果该生物被逆转到出生前也将不复存在。</TM_ReverseTimeHD.description>
+  <TM_ReverseTimeHD.stages.0.label>I</TM_ReverseTimeHD.stages.0.label>
+  <TM_ReverseTimeHD.stages.1.label>II</TM_ReverseTimeHD.stages.1.label>
+  <TM_ReverseTimeHD.stages.2.label>III</TM_ReverseTimeHD.stages.2.label>
+  <TM_ReverseTimeHD.stages.3.label>IV</TM_ReverseTimeHD.stages.3.label>
+
+  <TM_PredictionHD.label>预言术</TM_PredictionHD.label>
+  <TM_PredictionHD.description>允许预测未来的事件或行为。作者说明：这个能力可以预测和延迟任何事件。一些mod会使用这些事件作为效果或者结果的触发器，如果情况发生变化，并且某些对象、项或条件在预测的事件发生时不再有效，则这可能会导致BUG。</TM_PredictionHD.description>
+  <TM_PredictionHD.stages.0.label>I</TM_PredictionHD.stages.0.label>
+  <TM_PredictionHD.stages.1.label>II</TM_PredictionHD.stages.1.label>
+  <TM_PredictionHD.stages.2.label>III</TM_PredictionHD.stages.2.label>
+  <TM_PredictionHD.stages.3.label>IV</TM_PredictionHD.stages.3.label>
+  <TM_PredictionHD.stages.4.label>V</TM_PredictionHD.stages.4.label>
+  <TM_PredictionHD.stages.5.label>VI</TM_PredictionHD.stages.5.label>
+
+
+</LanguageData>

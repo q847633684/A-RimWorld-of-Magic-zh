@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Stoneskin -->
+
+  <TM_Stoneskin.label>石肤术</TM_Stoneskin.label>
+  <TM_Stoneskin.description>对目标生物施放石肤术。不管攻击强弱都会吸收一次攻击。石肤术是一种非实体防御，这意味着它使用的防御措施不是物理的，不会干扰目标的作战能力。\n\n石肤术需要持续的法力来维持，每次施法都会减少施法者15点最大法力值。不管施法者有多少法力都只能维持有限数量的石肤BUFF。\n\n对一个已经拥有石肤术的目标施放石肤术将移除该目标的所有石肤并驱散该法术（将法力储备返还施法者）。</TM_Stoneskin.description>
+
+  <TM_DispelStoneskin.label>驱散石肤术</TM_DispelStoneskin.label>
+  <TM_DispelStoneskin.description>驱散目标所有的石肤术。</TM_DispelStoneskin.description>
+
+
+  <!-- Encase -->
+
+  <TM_Encase.label>造墙术（I）</TM_Encase.label>
+  <TM_Encase.description>将目标围在石墙中，有效地隔离战场的各个部分。\n\n半径: 3\n范围: 50\n施法时间: 1.5s</TM_Encase.description>
+
+  <TM_Encase_I.label>造墙术（II）</TM_Encase_I.label>
+  <TM_Encase_I.description>将目标围在石墙中，有效地隔离战场的各个部分。\n		\n半径: 4\n范围: 55\n施法时间: 1.3s</TM_Encase_I.description>
+
+  <TM_Encase_II.label>造墙术（III）</TM_Encase_II.label>
+  <TM_Encase_II.description>将目标围在石墙中，有效地隔离战场的各个部分。\n		\n半径: 5\n范围: 60\n施法时间: 1.1s</TM_Encase_II.description>
+
+  <TM_Encase_III.label>造墙术（IV）</TM_Encase_III.label>
+  <TM_Encase_III.description>将目标围在石墙中，有效地隔离战场的各个部分。\n		\n半径: 6\n范围: 65\n施法时间: 1.0s</TM_Encase_III.description>
+
+
+  <!-- Earth Sprites -->
+
+  <TM_EarthSprites.label>大地精灵</TM_EarthSprites.label>
+  <TM_EarthSprites.description>召唤大地精灵来改变地形。精灵以光点的形式出现，漫不经心的人很容易忽略它们，但它们是勤劳的劳动者，能够将岩石或石头分解成其基本成分，或增加土壤的丰富性和肥力。\n\n一旦召被唤，他们持续在土地上工作，甚至移动到附近地区，直到被地卜师解散。大地精灵只能理解一些基本指令，会随机移动到一个新的区域继续他们的工作;如果附近没有需要工作的区域，召唤将会结束。\n\n作为对他们努力的回报,大地精灵期望稳定而大量的法力供应。如果地卜师不能满足这个要求，大地精灵就会消失。每个地卜师只能请求一个大地精灵的帮助，不管他们有多少法力。</TM_EarthSprites.description>
+
+  <TM_DismissEarthSprites.label>驱散大地精灵</TM_DismissEarthSprites.label>
+  <TM_DismissEarthSprites.description>驱散活跃的大地精灵。</TM_DismissEarthSprites.description>
+
+
+  <!-- Earthern Hammer -->
+
+  <TM_EarthernHammer.label>钢岩花弹</TM_EarthernHammer.label>
+  <TM_EarthernHammer.description>地卜师操纵重力从周围的土地上弹射出巨大的石头。反向的引力能是有限的，附近地表的石头需要的能量最少,而地下的石头需要的能量要多得多。\n\n第一块石头，以及之后的第三块石头，总是在地下的，除非有足够的重力能量，在这种情况下，地卜师会试图利用剩余的能量投掷附近的石头。重力的极端变化会暂时让地卜师迷失方向。</TM_EarthernHammer.description>
+
+
+  <!-- Sentinel -->
+
+  <TM_Sentinel.label>石像鬼</TM_Sentinel.label>
+  <TM_Sentinel.description>创建一个石像鬼来保卫区域。石像鬼将保持休眠状态，直到敌人出现在警戒范围内。\n\n对休眠的石像鬼使用此技能将使石像鬼消失。\n\n提示:石像鬼总是背对施法者。</TM_Sentinel.description>
+
+  <TM_ShatterSentinel.label>粉碎敌人</TM_ShatterSentinel.label>
+  <TM_ShatterSentinel.description>所有的敌人都被这人在猛烈的爆发中粉碎。</TM_ShatterSentinel.description>
+
+
+  <!-- Meteor -->
+
+  <TM_Meteor.label>陨石天降（I）</TM_Meteor.label>
+  <TM_Meteor.description>从大气和空间中收集岩石、灰尘和碎片，形成陨石。地卜师操纵其陨落位置。\n\n陨石的核心总是由高价值的物质组成.\n\n半径: 2\n施法时间: 5s</TM_Meteor.description>
+
+  <TM_Meteor_I.label>陨石天降（II）</TM_Meteor_I.label>
+  <TM_Meteor_I.description>从大气和空间中收集岩石、灰尘和碎片，形成陨石。地卜师操纵其陨落位置。\n\n陨石的核心总是由高价值的物质组成.\n\n半径: 3\n施法时间: 4.6s</TM_Meteor_I.description>
+
+  <TM_Meteor_II.label>陨石天降（III）</TM_Meteor_II.label>
+  <TM_Meteor_II.description>从大气和空间中收集岩石、灰尘和碎片，形成陨石。地卜师操纵其陨落位置。\n\n陨石的核心总是由高价值的物质组成.\n\n半径: 4\n施法时间: 4.2s</TM_Meteor_II.description>
+
+  <TM_Meteor_III.label>陨石天降（IV）</TM_Meteor_III.label>
+  <TM_Meteor_III.description>从大气和空间中收集岩石、灰尘和碎片，形成陨石。地卜师操纵其陨落位置。\n\n陨石的核心总是由高价值的物质组成.\n\n半径: 5\n施法时间: 3.8s</TM_Meteor_III.description>
+
+
+</LanguageData>

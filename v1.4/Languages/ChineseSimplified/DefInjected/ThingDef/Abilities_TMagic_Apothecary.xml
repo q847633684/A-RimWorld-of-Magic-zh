@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Poison Flask -->
+
+  <Projectile_PoisonFlask.label>毒瓶</Projectile_PoisonFlask.label>
+
+
+  <!-- Fire suppression Flask -->
+
+  <Projectile_FireDousingFlask.label>灭火瓶</Projectile_FireDousingFlask.label>
+  <Projectile_FireDousingFlask_I.label>灭火瓶</Projectile_FireDousingFlask_I.label>
+  <Projectile_FireDousingFlask_II.label>灭火瓶</Projectile_FireDousingFlask_II.label>
+  <Projectile_FireDousingFlask_III.label>灭火瓶</Projectile_FireDousingFlask_III.label>
+
+
+</LanguageData>

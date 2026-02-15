@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_Golem_FleshRestore.label>维修部位</TM_Golem_FleshRestore.label>
+
+  <TM_Golem_FleshMaxEnergy.label>移植肌肉组织</TM_Golem_FleshMaxEnergy.label>
+  <TM_Golem_FleshMaxEnergy.description>将最大能量增加400个水平。开始最大能量为800。</TM_Golem_FleshMaxEnergy.description>
+
+  <TM_Golem_FleshEnergyEfficiency.label>增加消化器官</TM_Golem_FleshEnergyEfficiency.label>
+  <TM_Golem_FleshEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_FleshEnergyEfficiency.description>
+
+  <TM_Golem_FleshEnergyRate.label>能量合成</TM_Golem_FleshEnergyRate.label>
+  <TM_Golem_FleshEnergyRate.description>每个水平的能源充电率提高20％。开始充电率为100能量/小时。</TM_Golem_FleshEnergyRate.description>
+
+  <TM_Golem_Flesh_LeftArmBrace.label>左臂支撑</TM_Golem_Flesh_LeftArmBrace.label>
+  <TM_Golem_Flesh_LeftArmBrace.description>增加一个金属护腕，以增加钝性伤害并允许20%的概率进行格挡。左右腕可叠加。</TM_Golem_Flesh_LeftArmBrace.description>
+
+  <TM_Golem_Flesh_LeftArmCleaver.label>左臂切肉刀</TM_Golem_Flesh_LeftArmCleaver.label>
+  <TM_Golem_Flesh_LeftArmCleaver.description>允许魔像收集植物并实现AOE裂解攻击。
+
+劈砍
+消耗愤怒:	15
+伤害:	15
+溅射:	2c</TM_Golem_Flesh_LeftArmCleaver.description>
+
+  <TM_Golem_Flesh_RightArmBrace.label>右臂支撑</TM_Golem_Flesh_RightArmBrace.label>
+  <TM_Golem_Flesh_RightArmBrace.description>增加一个金属护腕，以增加钝性伤害并允许20%的概率进行格挡。左右腕可叠加</TM_Golem_Flesh_RightArmBrace.description>
+
+  <TM_Golem_Flesh_RightArmCleaver.label>右臂切肉刀</TM_Golem_Flesh_RightArmCleaver.label>
+  <TM_Golem_Flesh_RightArmCleaver.description>允许魔像收集植物并实现AOE裂解攻击。
+
+劈砍
+消耗愤怒:	15
+伤害:	15
+溅射:	2c</TM_Golem_Flesh_RightArmCleaver.description>
+
+  <TM_Golem_Flesh_Tusks.label>附牙</TM_Golem_Flesh_Tusks.label>
+  <TM_Golem_Flesh_Tusks.description>添加了强大的咬合攻击。</TM_Golem_Flesh_Tusks.description>
+
+  <TM_Golem_Flesh_Horns.label>犄角</TM_Golem_Flesh_Horns.label>
+  <TM_Golem_Flesh_Horns.description>增加了穿孔攻击和充电能力。
+
+冲锋
+消耗愤怒:	5
+冷却:	10s</TM_Golem_Flesh_Horns.description>
+
+  <TM_Golem_Flesh_EyesT1.label>嵌入四只眼</TM_Golem_Flesh_EyesT1.label>
+  <TM_Golem_Flesh_EyesT1.description>提升傀儡100%的视力。</TM_Golem_Flesh_EyesT1.description>
+
+  <TM_Golem_Flesh_EyesT2.label>雕刻邪眼</TM_Golem_Flesh_EyesT2.label>
+  <TM_Golem_Flesh_EyesT2.description>邪眼能够释放血肉傀儡被压抑的愤怒，使其能虚弱地诅咒目标。
+
+邪眼诅咒
+消耗愤怒:	10
+冷却:	2.2s
+射程:	40</TM_Golem_Flesh_EyesT2.description>
+
+  <TM_Golem_Flesh_Wings.label>嵌翼</TM_Golem_Flesh_Wings.label>
+  <TM_Golem_Flesh_Wings.description>通过将翼移植到血肉傀儡的背部来提高速度性和平衡性
+
+极速
+消耗愤怒:	15
+冷却:	6s
+攻击速度与移动速度翻倍</TM_Golem_Flesh_Wings.description>
+
+  <TM_Golem_Flesh_SkullPlate.label>移植颅板</TM_Golem_Flesh_SkullPlate.label>
+  <TM_Golem_Flesh_SkullPlate.description>增强傀儡护甲：
+钝器:	12%
+利器:	18%
+热能:	8%</TM_Golem_Flesh_SkullPlate.description>
+
+  <TM_Golem_Flesh_ShoulderPlates.label>移植肩护板</TM_Golem_Flesh_ShoulderPlates.label>
+  <TM_Golem_Flesh_ShoulderPlates.description>增强傀儡护甲：
+钝器:	14%
+利器:	12%
+热能:	10%</TM_Golem_Flesh_ShoulderPlates.description>
+
+  <TM_Golem_Flesh_ChestCage.label>连接胸笼</TM_Golem_Flesh_ChestCage.label>
+  <TM_Golem_Flesh_ChestCage.description>增强傀儡护甲：
+钝器:	28%
+利器:	10%
+热能:	5%</TM_Golem_Flesh_ChestCage.description>
+
+  <TM_Golem_Flesh_SpineGuard.label>装上脊椎护板</TM_Golem_Flesh_SpineGuard.label>
+  <TM_Golem_Flesh_SpineGuard.description>增强傀儡护甲：
+钝器:	12%
+利器:	14%
+热能:	5%</TM_Golem_Flesh_SpineGuard.description>
+
+  <TM_Golem_Flesh_LegPlates.label>移植腿护板</TM_Golem_Flesh_LegPlates.label>
+  <TM_Golem_Flesh_LegPlates.description>增强傀儡护甲：
+钝器:	10%
+利器:	15%
+热能:	8%</TM_Golem_Flesh_LegPlates.description>
+
+  <TM_Golem_FleshLifeStage.label>提高人造肌肉质量</TM_Golem_FleshLifeStage.label>
+  <TM_Golem_FleshLifeStage.description>增加数据并增加肢解能力。
+移动速度:	+[20%/35%/50%]
+生命值:		+[30%/50%/70%]
+
+愤怒撕裂
+消耗愤怒:	25
+冷却:	13s
+射程:	1c</TM_Golem_FleshLifeStage.description>
+
+
+</LanguageData>

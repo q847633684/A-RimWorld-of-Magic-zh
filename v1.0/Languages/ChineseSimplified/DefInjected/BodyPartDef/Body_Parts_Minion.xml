@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Minion_Head.label>head</Minion_Head.label>
+  <Minion_Brain.label>brain</Minion_Brain.label>
+  <Minion_Eye.label>eye</Minion_Eye.label>
+  <Minion_RightHorn.label>right horn</Minion_RightHorn.label>
+  <Minion_LeftHorn.label>left horn</Minion_LeftHorn.label>
+  <Minion_LeftArm.label>left arm</Minion_LeftArm.label>
+  <Minion_RightArm.label>right arm</Minion_RightArm.label>
+  <Minion_Mouth.label>mouth</Minion_Mouth.label>
+  <Minion_Jaw.label>jaw</Minion_Jaw.label>
+  <Minion_Core.label>core</Minion_Core.label>
+
+
+</LanguageData>

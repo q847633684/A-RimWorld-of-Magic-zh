@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Projectile_Warlock.label>默认弹药</Projectile_Warlock.label>
+
+
+  <!-- ShadowBolt -->
+
+  <Projectile_ShadowBolt.label>暗影箭</Projectile_ShadowBolt.label>
+  <FlyingObject_ShadowBolt.label>暗影箭</FlyingObject_ShadowBolt.label>
+
+
+  <!-- Attraction -->
+
+  <Projectile_Attraction.label>诱惑</Projectile_Attraction.label>
+
+
+  <!-- Repulsion -->
+
+  <Projectile_Repulsion.label>抗拒光环</Projectile_Repulsion.label>
+  <Projectile_Repulsion_I.label>抗拒光环</Projectile_Repulsion_I.label>
+  <Projectile_Repulsion_II.label>抗拒光环</Projectile_Repulsion_II.label>
+  <Projectile_Repulsion_III.label>抗拒光环</Projectile_Repulsion_III.label>
+
+
+  <!-- Scorn -->
+
+  <Projectile_Scorn.label>厄运化身</Projectile_Scorn.label>
+
+
+  <!-- PsychicShock -->
+
+  <Projectile_PsychicShock.label>魂飞魄散</Projectile_PsychicShock.label>
+
+
+  <!-- SummonDemon -->
+
+  <Projectile_SummonDemon.label>召唤恶魔</Projectile_SummonDemon.label>
+  <FlyingObject_DemonFlight.label>飞行物体</FlyingObject_DemonFlight.label>
+  <FlyingObject_DemonBolt.label>恶魔火焰</FlyingObject_DemonBolt.label>
+
+
+</LanguageData>

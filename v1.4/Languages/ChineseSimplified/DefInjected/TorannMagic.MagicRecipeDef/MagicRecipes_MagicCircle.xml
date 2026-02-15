@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TM_HeatWaveMR example contains all possible fields with default values
+  mageCount can be any value, but there is only designated room for 6 mages, 3 for the focus point (small circle)
+  manaCost is divided by mageCount to determine how much mana each mage must have to perform the ritual; this is the amount of mana subtracted following the ritual -->
+
+  <TM_HeatWaveMR.label>咒语:热浪</TM_HeatWaveMR.label>
+  <TM_HeatWaveMR.description>热浪包围地图
+施法者: 3
+法力: 50 ea.
+失败机率: 5%
+失败反噬伤害: 0</TM_HeatWaveMR.description>
+  <TM_HeatWaveMR.jobString>召唤热浪</TM_HeatWaveMR.jobString>
+
+  <TM_ColdSnapMR.label>咒语:寒流</TM_ColdSnapMR.label>
+  <TM_ColdSnapMR.description>冷来笼罩地图
+施法者: 3
+法力: 50 ea.
+失败机率: 5%
+失败反噬伤害: 0</TM_ColdSnapMR.description>
+  <TM_ColdSnapMR.jobString>召唤寒流</TM_ColdSnapMR.jobString>
+
+  <TM_NameWindMR.label>咒语:风的名字</TM_NameWindMR.label>
+  <TM_NameWindMR.description>几天在地图上引起高风速
+施法者: 1
+法力: 40 ea.
+失败机率: 10%
+失败反噬伤害: 6</TM_NameWindMR.description>
+  <TM_NameWindMR.jobString>召唤风</TM_NameWindMR.jobString>
+
+  <TM_PsychicSootheMR.label>咒语: 心灵抚慰</TM_PsychicSootheMR.label>
+  <TM_PsychicSootheMR.description>营造舒缓的心灵散发
+施法者: 3
+法力: 50 ea.
+失败机率: 25%
+失败反噬伤害: 10</TM_PsychicSootheMR.description>
+  <TM_PsychicSootheMR.jobString>营造心灵抚慰</TM_PsychicSootheMR.jobString>
+
+  <TM_HealingRainMR.label>咒语:治愈之雨</TM_HealingRainMR.label>
+  <TM_HealingRainMR.description>地图在治愈的雨中洗涤
+施法者: 1
+法力: 60 ea.
+失败机率: 20%
+失败反噬伤害: 10</TM_HealingRainMR.description>
+  <TM_HealingRainMR.jobString>形成治愈的雨</TM_HealingRainMR.jobString>
+
+  <TM_NaturesGiftMR.label>咒语:大自然的恩赐</TM_NaturesGiftMR.label>
+  <TM_NaturesGiftMR.description>导致随机事件发生
+施法者: 3
+法力: 40 ea.
+失败机率: 25%
+失败反噬伤害: 12</TM_NaturesGiftMR.description>
+  <TM_NaturesGiftMR.jobString>改变事件的机会</TM_NaturesGiftMR.jobString>
+
+  <TM_CallOfTheWildMR.label>咒语:野外的呼唤</TM_CallOfTheWildMR.label>
+  <TM_CallOfTheWildMR.description>引起野生动物的注意
+施法者: 2
+法力: 60 ea.
+失败机率: 20%
+失败反噬伤害: 12</TM_CallOfTheWildMR.description>
+  <TM_CallOfTheWildMR.jobString>改变事件的机会</TM_CallOfTheWildMR.jobString>
+
+  <TM_TerrestrialBeaconMR.label>咒语:地面信标</TM_TerrestrialBeaconMR.label>
+  <TM_TerrestrialBeaconMR.description>改变落入附近降落物体的飞行路径
+施法者: 2
+法力: 60 ea.
+失败机率: 25%
+失败反噬伤害: 12</TM_TerrestrialBeaconMR.description>
+  <TM_TerrestrialBeaconMR.jobString>改变事件的机会</TM_TerrestrialBeaconMR.jobString>
+
+  <TM_MeteorFallMR.label>召唤:召唤流星</TM_MeteorFallMR.label>
+  <TM_MeteorFallMR.description>召唤多个流星撞击附近
+施法者: 3
+法力: 60 ea.
+失败机率: 15%
+失败反噬伤害: 0</TM_MeteorFallMR.description>
+  <TM_MeteorFallMR.jobString>召唤流星</TM_MeteorFallMR.jobString>
+
+  <TM_CreateSkeletonMR.label>召唤:骷髅复苏</TM_CreateSkeletonMR.label>
+  <TM_CreateSkeletonMR.description>复活一具尸体使其变为骷髅；骷髅将保卫殖民地5天或被摧毁。
+施法者: 1
+法力: 50 ea.
+失败机率: 10%
+失败反噬伤害: 8</TM_CreateSkeletonMR.description>
+  <TM_CreateSkeletonMR.jobString>召唤骷髅</TM_CreateSkeletonMR.jobString>
+
+  <TM_CreateGiantSkeletonMR.label>召唤:巨型骷髅</TM_CreateGiantSkeletonMR.label>
+  <TM_CreateGiantSkeletonMR.description>从一堆尸体中召唤出一个巨大的、充满活力的骷髅；骷髅将保卫殖民地5天或直到被摧毁。
+施法者: 4
+法力: 50 ea.
+失败机率: 25%
+失败反噬伤害: 12</TM_CreateGiantSkeletonMR.description>
+  <TM_CreateGiantSkeletonMR.jobString>召唤:巨型骷髅</TM_CreateGiantSkeletonMR.jobString>
+
+  <TM_SummonSpiritMR.label>召唤: 灵魂</TM_SummonSpiritMR.label>
+  <TM_SummonSpiritMR.description>召唤一种流浪的精神。
+施法者: 3
+法力: 40 ea.
+失败机率: 25%
+失败反噬伤害: 15</TM_SummonSpiritMR.description>
+  <TM_SummonSpiritMR.jobString>灵魂</TM_SummonSpiritMR.jobString>
+
+  <TM_RuunbledMR.label>召唤:神秘武器</TM_RuunbledMR.label>
+  <TM_RuunbledMR.description>召唤一把神秘武器
+施法者: 3
+法力: 60 ea.
+失败机率: 50%
+失败反噬伤害: 10</TM_RuunbledMR.description>
+  <TM_RuunbledMR.jobString>召唤一把神秘武器</TM_RuunbledMR.jobString>
+
+  <TM_ArcaneAugmentationMR.label>施法:奥术强化</TM_ArcaneAugmentationMR.label>
+  <TM_ArcaneAugmentationMR.description>为殖民者提供大量奥术 BUFF。
+施法者: 3
+Target max: 10
+法力: 40 ea.
+失败机率: 15%
+失败反噬伤害: 6</TM_ArcaneAugmentationMR.description>
+  <TM_ArcaneAugmentationMR.jobString>施展奥术</TM_ArcaneAugmentationMR.jobString>
+
+  <TM_BlightWildlifeMR.label>施法:动物瘟疫</TM_BlightWildlifeMR.label>
+  <TM_BlightWildlifeMR.description>瘟疫使所有野生动物死亡。
+施法者: 3
+法力: 40 ea.
+失败机率: 15%
+失败反噬伤害: 6</TM_BlightWildlifeMR.description>
+  <TM_BlightWildlifeMR.jobString>合兴野生动物</TM_BlightWildlifeMR.jobString>
+
+  <TM_BeastialRageMR.label>施法: 捕食者的愤怒</TM_BeastialRageMR.label>
+  <TM_BeastialRageMR.description>在地图上激怒了捕食者野兽，并向攻击敌人。
+施法者: 2
+法力: 40 ea.
+失败机率: 35%
+失败反噬伤害: 10</TM_BeastialRageMR.description>
+  <TM_BeastialRageMR.jobString>激怒掠食者</TM_BeastialRageMR.jobString>
+
+  <TM_ArcaneInspirationMR.label>施法: 神秘的灵感</TM_ArcaneInspirationMR.label>
+  <TM_ArcaneInspirationMR.description>搜索奥术以获取启示
+施法者: 1
+法力: 50 ea.
+失败机率: 15%
+失败反噬伤害: 6</TM_ArcaneInspirationMR.description>
+  <TM_ArcaneInspirationMR.jobString>搜索奥秘</TM_ArcaneInspirationMR.jobString>
+
+  <TM_DivineBlessingMR.label>施法: 神圣的祝福</TM_DivineBlessingMR.label>
+  <TM_DivineBlessingMR.description>乞求更强大的存在怜悯生病的小人。
+施法者: 3
+法力: 60 ea.
+失败机率: 40%
+失败反噬伤害: 0</TM_DivineBlessingMR.description>
+  <TM_DivineBlessingMR.jobString>寻求神圣的祝福</TM_DivineBlessingMR.jobString>
+
+  <TM_SummonDemonMR.label>召唤:召唤恶魔 *挑战*</TM_SummonDemonMR.label>
+  <TM_SummonDemonMR.description>与恶魔敌人作战
+施法者: 6
+法力: 40 ea.
+失败机率: 20%
+失败反噬伤害: 20</TM_SummonDemonMR.description>
+  <TM_SummonDemonMR.jobString>召唤恶魔</TM_SummonDemonMR.jobString>
+
+  <TM_SummonWanderingLichMR.label>召唤: 召唤流浪巫妖*挑战*</TM_SummonWanderingLichMR.label>
+  <TM_SummonWanderingLichMR.description>引起流浪巫妖的注意
+施法者: 6
+法力: 40 ea.
+失败机率: 20%
+失败反噬伤害: 20</TM_SummonWanderingLichMR.description>
+  <TM_SummonWanderingLichMR.jobString>召唤巫妖</TM_SummonWanderingLichMR.jobString>
+
+
+</LanguageData>

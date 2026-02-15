@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wanderer -->
+
+  <TM_WandererCraft.label>流浪者</TM_WandererCraft.label>
+  <TM_WandererCraft.description>通过努力工作和练习来增加属性。有关详细信息，请参见技能。</TM_WandererCraft.description>
+
+
+  <!-- Cantrips -->
+
+  <TM_Cantrips.label>咒语</TM_Cantrips.label>
+  <TM_Cantrips.description>流浪者没有特定职业的能力，相反，他们擅长一般的咒语或口头禅。咒语被大多数法师抛弃，仅仅是为了方便，不需要额外的技能训练，但流浪者采取了另一种方法。通过投入时间和精力去理解咒语，流浪者能够在效果，法力消耗和效率方面提高几乎所有的通用能力。\n有关详细信息，请参见技能。</TM_Cantrips.description>
+
+
+</LanguageData>

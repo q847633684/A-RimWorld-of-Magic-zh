@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TM_StrawGolem_ArmorHD.label>盔甲</TM_StrawGolem_ArmorHD.label>
+  <TM_StrawGolem_ArmorHD.description>提高物理防护。</TM_StrawGolem_ArmorHD.description>
+  <TM_StrawGolem_ArmorHD.stages.0.label>I</TM_StrawGolem_ArmorHD.stages.0.label>
+  <TM_StrawGolem_ArmorHD.stages.1.label>II</TM_StrawGolem_ArmorHD.stages.1.label>
+  <TM_StrawGolem_ArmorHD.stages.2.label>III</TM_StrawGolem_ArmorHD.stages.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Flesh Golem upgrade recipes -->
+
+  <TM_FleshGolem_RestorePart.label>恢复身体部位</TM_FleshGolem_RestorePart.label>
+  <TM_FleshGolem_RestorePart.description>恢复没有特定升级的缺失的傀儡身体部分。</TM_FleshGolem_RestorePart.description>
+  <TM_FleshGolem_RestorePart.jobString>移植傀儡部位</TM_FleshGolem_RestorePart.jobString>
+
+  <TM_FleshGolem_MuscleTissue.label>移植肌肉组织</TM_FleshGolem_MuscleTissue.label>
+  <TM_FleshGolem_MuscleTissue.description>将肌肉组织移植到傀儡上以增强力量和耐力。</TM_FleshGolem_MuscleTissue.description>
+  <TM_FleshGolem_MuscleTissue.jobString>移植肌肉组织</TM_FleshGolem_MuscleTissue.jobString>
+
+  <TM_FleshGolem_DigestiveOrgans.label>增加消化器官</TM_FleshGolem_DigestiveOrgans.label>
+  <TM_FleshGolem_DigestiveOrgans.description>增加10%傀儡消化系统吸收和使用能量效率。</TM_FleshGolem_DigestiveOrgans.description>
+  <TM_FleshGolem_DigestiveOrgans.jobString>增加消化器官</TM_FleshGolem_DigestiveOrgans.jobString>
+
+  <TM_FleshGolem_EnergySynthesis.label>促进营养吸收</TM_FleshGolem_EnergySynthesis.label>
+  <TM_FleshGolem_EnergySynthesis.description>增加能量在傀儡中分散的速率，每级增加20%蓄能恢复速度。</TM_FleshGolem_EnergySynthesis.description>
+  <TM_FleshGolem_EnergySynthesis.jobString>改善肌肉代谢</TM_FleshGolem_EnergySynthesis.jobString>
+
+  <TM_FleshGolem_LifeStage.label>提高人造肌肉质量</TM_FleshGolem_LifeStage.label>
+  <TM_FleshGolem_LifeStage.description>通过移除多余或不必要的身体部位或器官，并用额外的肌肉组织、肌肉和骨骼替换它们，进一步将血肉傀儡塑造成致命的怪物，从而增强血肉傀儡。此升级每升级一级[1/2/3]提供以下加成：\n移速：+[20%/35%/50%]\n生命值：+[30%/50%/70%]\n\n此外，此升级允许血肉傀儡使用愤怒撕裂敌人的四肢。</TM_FleshGolem_LifeStage.description>
+  <TM_FleshGolem_LifeStage.jobString>提升血肉傀儡</TM_FleshGolem_LifeStage.jobString>
+
+  <TM_FleshGolem_LeftArm_Bracer.label>制作傀儡左护腕</TM_FleshGolem_LeftArm_Bracer.label>
+  <TM_FleshGolem_LeftArm_Bracer.description>在血肉傀儡的手臂上增加一个金属护腕，以增加钝性伤害并允许格挡。</TM_FleshGolem_LeftArm_Bracer.description>
+  <TM_FleshGolem_LeftArm_Bracer.jobString>制作傀儡护腕</TM_FleshGolem_LeftArm_Bracer.jobString>
+
+  <TM_FleshGolem_RightArm_Bracer.label>制作傀儡右护腕</TM_FleshGolem_RightArm_Bracer.label>
+  <TM_FleshGolem_RightArm_Bracer.description>在血肉傀儡的手臂上增加一个金属护腕，以增加钝性伤害并允许格挡。</TM_FleshGolem_RightArm_Bracer.description>
+  <TM_FleshGolem_RightArm_Bracer.jobString>制作傀儡护腕</TM_FleshGolem_RightArm_Bracer.jobString>
+
+  <TM_FleshGolem_LeftArm_Cleaver.label>制作傀儡左劈刀</TM_FleshGolem_LeftArm_Cleaver.label>
+  <TM_FleshGolem_LeftArm_Cleaver.description>在血肉傀儡的手臂上增加一把金属劈刀，傀儡能用其进行切割攻击并提高收割速度。</TM_FleshGolem_LeftArm_Cleaver.description>
+  <TM_FleshGolem_LeftArm_Cleaver.jobString>制作傀儡劈刀</TM_FleshGolem_LeftArm_Cleaver.jobString>
+
+  <TM_FleshGolem_RightArm_Cleaver.label>制作傀儡右劈刀</TM_FleshGolem_RightArm_Cleaver.label>
+  <TM_FleshGolem_RightArm_Cleaver.description>在血肉傀儡的手臂上增加一把金属劈刀，傀儡能用其进行切割攻击并提高收割速度。</TM_FleshGolem_RightArm_Cleaver.description>
+  <TM_FleshGolem_RightArm_Cleaver.jobString>制作傀儡劈刀</TM_FleshGolem_RightArm_Cleaver.jobString>
+
+  <TM_FleshGolem_Tusks.label>附牙</TM_FleshGolem_Tusks.label>
+  <TM_FleshGolem_Tusks.description>将獠牙插入血肉傀儡的下颚。</TM_FleshGolem_Tusks.description>
+  <TM_FleshGolem_Tusks.jobString>附牙</TM_FleshGolem_Tusks.jobString>
+
+  <TM_FleshGolem_Horns.label>链接犄角</TM_FleshGolem_Horns.label>
+  <TM_FleshGolem_Horns.description>将犄角连接到血肉傀儡的头骨中。拥有角的血肉傀儡能使用一种致命的血腥攻击，并允许傀儡冲入战斗。</TM_FleshGolem_Horns.description>
+  <TM_FleshGolem_Horns.jobString>链接犄角</TM_FleshGolem_Horns.jobString>
+
+  <TM_FleshGolem_SkullPlate.label>移植颅板</TM_FleshGolem_SkullPlate.label>
+  <TM_FleshGolem_SkullPlate.description>将金属板移植到血肉傀儡的颅上。</TM_FleshGolem_SkullPlate.description>
+  <TM_FleshGolem_SkullPlate.jobString>移植颅板</TM_FleshGolem_SkullPlate.jobString>
+
+  <TM_FleshGolem_ShoulderPlates.label>移植肩护板</TM_FleshGolem_ShoulderPlates.label>
+  <TM_FleshGolem_ShoulderPlates.description>将金属板移植到血肉傀儡的肩上。</TM_FleshGolem_ShoulderPlates.description>
+  <TM_FleshGolem_ShoulderPlates.jobString>移植肩护板</TM_FleshGolem_ShoulderPlates.jobString>
+
+  <TM_FleshGolem_ChestCage.label>连接胸笼</TM_FleshGolem_ChestCage.label>
+  <TM_FleshGolem_ChestCage.description>通过在胸部周围移植一个由人类尸体骨骼制成的笼子来提高正面防御。</TM_FleshGolem_ChestCage.description>
+  <TM_FleshGolem_ChestCage.jobString>连接骨制胸笼</TM_FleshGolem_ChestCage.jobString>
+
+  <TM_FleshGolem_SpineGuard.label>装上脊椎护板</TM_FleshGolem_SpineGuard.label>
+  <TM_FleshGolem_SpineGuard.description>通过沿着血肉傀儡的脊柱移植一个由尸体骨骼制成的护板来提高背部防御。</TM_FleshGolem_SpineGuard.description>
+  <TM_FleshGolem_SpineGuard.jobString>装上骨制脊椎护板</TM_FleshGolem_SpineGuard.jobString>
+
+  <TM_FleshGolem_Wings.label>嵌翼</TM_FleshGolem_Wings.label>
+  <TM_FleshGolem_Wings.description>通过将翼移植到血肉傀儡的背部来提高速度性和平衡性。这些翼并非用于飞行，而是通过帮助傀儡在战斗中抵消其相当大的重量。</TM_FleshGolem_Wings.description>
+  <TM_FleshGolem_Wings.jobString>嵌翼</TM_FleshGolem_Wings.jobString>
+
+  <TM_FleshGolem_LegPlates.label>移植腿护板</TM_FleshGolem_LegPlates.label>
+  <TM_FleshGolem_LegPlates.description>将金属板移植到血肉傀儡的腿上。</TM_FleshGolem_LegPlates.description>
+  <TM_FleshGolem_LegPlates.jobString>移植腿护板</TM_FleshGolem_LegPlates.jobString>
+
+  <TM_FleshGolem_EyesT1.label>嵌入四只眼</TM_FleshGolem_EyesT1.label>
+  <TM_FleshGolem_EyesT1.description>在原来的一对眼睛下面插入另一对眼睛，可以提高视力并减少傀儡完全失明的可能性。</TM_FleshGolem_EyesT1.description>
+  <TM_FleshGolem_EyesT1.jobString>嵌入眼睛</TM_FleshGolem_EyesT1.jobString>
+
+  <TM_FleshGolem_EyesT2.label>雕刻邪眼</TM_FleshGolem_EyesT2.label>
+  <TM_FleshGolem_EyesT2.description>在血肉傀儡的额头上雕刻一个眼窝，并使其被魔法原石填充，和将奥术符号蚀刻在眼睛周围，在傀儡和眼睛之间形成一种神奇的联系。邪眼能够释放血肉傀儡被压抑的愤怒，使其能虚弱地诅咒目标。</TM_FleshGolem_EyesT2.description>
+  <TM_FleshGolem_EyesT2.jobString>刻邪眼</TM_FleshGolem_EyesT2.jobString>
+
+
+</LanguageData>
