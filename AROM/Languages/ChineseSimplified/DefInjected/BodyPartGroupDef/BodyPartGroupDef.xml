@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: horns-->
+  <Demon_Horns.label>犄角</Demon_Horns.label>
+  <!--EN: left arm-->
+  <Demon_LeftArm.label>左臂</Demon_LeftArm.label>
+  <!--EN: legs-->
+  <Demon_Legs.label>腿</Demon_Legs.label>
+  <!--EN: right arm-->
+  <Demon_RightArm.label>左臂</Demon_RightArm.label>
+  <!--EN: wings-->
+  <Demon_Wings.label>翅膀</Demon_Wings.label>
+  <!--EN: horn-->
+  <Ele_Horn.label>犄角</Ele_Horn.label>
+  <!--EN: left arm-->
+  <Ele_LeftArm.label>左臂</Ele_LeftArm.label>
+  <!--EN: right arm-->
+  <Ele_RightArm.label>右臂</Ele_RightArm.label>
+  <!--EN: smash-->
+  <Flesh_Arms.label>粉碎</Flesh_Arms.label>
+  <!--EN: eyes-->
+  <Flesh_Eyes.label>眼</Flesh_Eyes.label>
+  <!--EN: horns-->
+  <Flesh_Horns.label>犄角</Flesh_Horns.label>
+  <!--EN: bracer-->
+  <Flesh_LeftArm_Brace.label>左支柱</Flesh_LeftArm_Brace.label>
+  <!--EN: cleaver-->
+  <Flesh_LeftArm_Cleaver.label>左切割器</Flesh_LeftArm_Cleaver.label>
+  <!--EN: bracer-->
+  <Flesh_RightArm_Brace.label>右支架</Flesh_RightArm_Brace.label>
+  <!--EN: cleaver-->
+  <Flesh_RightArm_Cleaver.label>右切割器</Flesh_RightArm_Cleaver.label>
+  <!--EN: tusks-->
+  <Flesh_Tusks.label>獠牙</Flesh_Tusks.label>
+  <!--EN: smash-->
+  <Golem_Arms.label>粉碎</Golem_Arms.label>
+  <!--EN: eyes-->
+  <Golem_Eyes.label>眼</Golem_Eyes.label>
+  <!--EN: hollowed axe-->
+  <Hollow_Axe.label>空洞之斧</Hollow_Axe.label>
+  <!--EN: hollow claws-->
+  <Hollow_Claws.label>空洞之爪</Hollow_Claws.label>
+  <!--EN: decay touch-->
+  <Hollow_Decay.label>腐朽之触</Hollow_Decay.label>
+  <!--EN: focus gem-->
+  <Hollow_FocusGems.label>集中宝石</Hollow_FocusGems.label>
+  <!--EN: hollowed staff-->
+  <Hollow_Staff.label>空洞之杖</Hollow_Staff.label>
+  <!--EN: arms-->
+  <Maharal_Arms.label>手臂</Maharal_Arms.label>
+  <!--EN: body smash-->
+  <Mecha_Base.label>运动核心</Mecha_Base.label>
+  <!--EN: left arm-->
+  <Mecha_LeftArm.label>左手臂</Mecha_LeftArm.label>
+  <!--EN: mecha-axe-->
+  <Mecha_LeftArm_Axe.label>机械斧</Mecha_LeftArm_Axe.label>
+  <!--EN: mecha-sword-->
+  <Mecha_LeftArm_Sword.label>机械剑</Mecha_LeftArm_Sword.label>
+  <!--EN: right arm-->
+  <Mecha_RightArm.label>右臂</Mecha_RightArm.label>
+  <!--EN: mecha-hammer-->
+  <Mecha_RightArm_Hammer.label>机械锤</Mecha_RightArm_Hammer.label>
+  <!--EN: horns-->
+  <Minion_Horns.label>犄角</Minion_Horns.label>
+  <!--EN: teeth-->
+  <Minion_Teeth.label>牙齿</Minion_Teeth.label>
+  <!--EN: claws-->
+  <Sentinel_Claws.label>爪</Sentinel_Claws.label>
+  <!--EN: teeth-->
+  <Sentinel_Teeth.label>牙齿</Sentinel_Teeth.label>
+  <!--EN: arms-->
+  <Stone_Arms.label>手臂</Stone_Arms.label>
+  <!--EN: arms-->
+  <Straw_Arms.label>武器</Straw_Arms.label>
+  <!--EN: teeth-->
+  <TM_PoppiSnuggle.label>牙齿</TM_PoppiSnuggle.label>
+  <!--EN: arms-->
+  <TM_Silk_Arms.label>武器</TM_Silk_Arms.label>
+  <!--EN: movement base-->
+  <TM_Wood_Base.label>移动基座</TM_Wood_Base.label>
+  <!--EN: central force-->
+  <TM_Wood_Manipulator.label>力量投影仪</TM_Wood_Manipulator.label>
+</LanguageData>

@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Seer Archer-->
+  <SeerBowman.label>秘能守卫者弓箭手</SeerBowman.label>
+  <!--EN: Seer Archers-->
+  <SeerBowman.labelPlural>秘能守卫者弓箭手们</SeerBowman.labelPlural>
+  <!--EN: Magic Protector-->
+  <SeerDefender.label>秘能守卫者</SeerDefender.label>
+  <!--EN: magic protectors-->
+  <SeerDefender.labelPlural>秘能守卫者们</SeerDefender.labelPlural>
+  <!--EN: Seer Elite-->
+  <SeerElite.label>秘能守卫者精英</SeerElite.label>
+  <!--EN: Seer Elite-->
+  <SeerElite.labelPlural>秘能守卫者精英</SeerElite.labelPlural>
+  <!--EN: Guardsman-->
+  <SeerSpearman.label>秘能守卫者近卫兵</SeerSpearman.label>
+  <!--EN: Guardsmen-->
+  <SeerSpearman.labelPlural>秘能守卫者近卫兵们</SeerSpearman.labelPlural>
+  <!--EN: demon-->
+  <TM_Demon.label>恶魔</TM_Demon.label>
+  <!--EN: demon-->
+  <TM_Demon.lifeStages.0.label>恶魔</TM_Demon.lifeStages.0.label>
+  <!--EN: demons-->
+  <TM_Demon.lifeStages.0.labelPlural>恶魔群</TM_Demon.lifeStages.0.labelPlural>
+  <!--EN: dire wolf-->
+  <TM_Dire_Wolf.label>恐惧魔狼</TM_Dire_Wolf.label>
+  <!--EN: dire wolves-->
+  <TM_Dire_Wolf.labelPlural>恐惧魔狼群</TM_Dire_Wolf.labelPlural>
+  <!--EN: dire wolf pup-->
+  <TM_Dire_Wolf.lifeStages.0.label>恐惧魔狼</TM_Dire_Wolf.lifeStages.0.label>
+  <!--EN: dire wolf pups-->
+  <TM_Dire_Wolf.lifeStages.0.labelPlural>恐惧魔狼群</TM_Dire_Wolf.lifeStages.0.labelPlural>
+  <!--EN: earth elemental-->
+  <TM_Earth_Elemental.label>土元素</TM_Earth_Elemental.label>
+  <!--EN: earth elemental-->
+  <TM_Earth_Elemental.lifeStages.0.label>土元素</TM_Earth_Elemental.lifeStages.0.label>
+  <!--EN: earth elementals-->
+  <TM_Earth_Elemental.lifeStages.0.labelPlural>土元素群</TM_Earth_Elemental.lifeStages.0.labelPlural>
+  <!--EN: fire elemental-->
+  <TM_Fire_Elemental.label>火元素</TM_Fire_Elemental.label>
+  <!--EN: fire elemental-->
+  <TM_Fire_Elemental.lifeStages.0.label>火元素</TM_Fire_Elemental.lifeStages.0.label>
+  <!--EN: fire elementals-->
+  <TM_Fire_Elemental.lifeStages.0.labelPlural>火元素群</TM_Fire_Elemental.lifeStages.0.labelPlural>
+  <!--EN: flesh-golem-->
+  <TM_FleshGolemK.label>血肉傀儡</TM_FleshGolemK.label>
+  <!--EN: giant skeleton-->
+  <TM_GiantSkeleton.label>巨型骷髅</TM_GiantSkeleton.label>
+  <!--EN: giant skeleton-->
+  <TM_GiantSkeleton.lifeStages.0.label>巨型骷髅</TM_GiantSkeleton.lifeStages.0.label>
+  <!--EN: skeletal-->
+  <TM_GiantSkeleton.lifeStages.0.labelPlural>骨架</TM_GiantSkeleton.lifeStages.0.labelPlural>
+  <!--EN: granite-golem-->
+  <TM_GraniteGolemK.label>花岗岩傀儡</TM_GraniteGolemK.label>
+  <!--EN: greater earth elemental-->
+  <TM_GreaterEarth_Elemental.label>大型土元素</TM_GreaterEarth_Elemental.label>
+  <!--EN: greater earth elemental-->
+  <TM_GreaterEarth_Elemental.lifeStages.0.label>大型土元素</TM_GreaterEarth_Elemental.lifeStages.0.label>
+  <!--EN: greater earth elementals-->
+  <TM_GreaterEarth_Elemental.lifeStages.0.labelPlural>土元素群</TM_GreaterEarth_Elemental.lifeStages.0.labelPlural>
+  <!--EN: greater fire elemental-->
+  <TM_GreaterFire_Elemental.label>大型火元素</TM_GreaterFire_Elemental.label>
+  <!--EN: greater fire elemental-->
+  <TM_GreaterFire_Elemental.lifeStages.0.label>大型火元素</TM_GreaterFire_Elemental.lifeStages.0.label>
+  <!--EN: greater fire elementals-->
+  <TM_GreaterFire_Elemental.lifeStages.0.labelPlural>火元素群</TM_GreaterFire_Elemental.lifeStages.0.labelPlural>
+  <!--EN: greater minion-->
+  <TM_GreaterMinion.label>强大仆从</TM_GreaterMinion.label>
+  <!--EN: greater minion-->
+  <TM_GreaterMinion.lifeStages.0.label>强大仆从</TM_GreaterMinion.lifeStages.0.label>
+  <!--EN: greater minions-->
+  <TM_GreaterMinion.lifeStages.0.labelPlural>强大仆从们</TM_GreaterMinion.lifeStages.0.labelPlural>
+  <!--EN: greater water elemental-->
+  <TM_GreaterWater_Elemental.label>大型水元素</TM_GreaterWater_Elemental.label>
+  <!--EN: greater water elemental-->
+  <TM_GreaterWater_Elemental.lifeStages.0.label>大型水元素</TM_GreaterWater_Elemental.lifeStages.0.label>
+  <!--EN: greater water elementals-->
+  <TM_GreaterWater_Elemental.lifeStages.0.labelPlural>水元素群</TM_GreaterWater_Elemental.lifeStages.0.labelPlural>
+  <!--EN: greater wind elemental-->
+  <TM_GreaterWind_Elemental.label>大型风元素</TM_GreaterWind_Elemental.label>
+  <!--EN: greater wind elemental-->
+  <TM_GreaterWind_Elemental.lifeStages.0.label>大型风元素</TM_GreaterWind_Elemental.lifeStages.0.label>
+  <!--EN: wind elementals-->
+  <TM_GreaterWind_Elemental.lifeStages.0.labelPlural>风元素群</TM_GreaterWind_Elemental.lifeStages.0.labelPlural>
+  <!--EN: greater sentinel-->
+  <TM_Greater_Sentinel.label>大型哨兵</TM_Greater_Sentinel.label>
+  <!--EN: greater sentinel-->
+  <TM_Greater_Sentinel.lifeStages.0.label>大型哨兵</TM_Greater_Sentinel.lifeStages.0.label>
+  <!--EN: stone sentinels-->
+  <TM_Greater_Sentinel.lifeStages.0.labelPlural>石哨兵</TM_Greater_Sentinel.lifeStages.0.labelPlural>
+  <!--EN: hollow-golem-->
+  <TM_HollowGolemK.label>空洞傀儡</TM_HollowGolemK.label>
+  <!--EN: lesser demon-->
+  <TM_LesserDemon.label>小恶魔</TM_LesserDemon.label>
+  <!--EN: demon-->
+  <TM_LesserDemon.lifeStages.0.label>小恶魔</TM_LesserDemon.lifeStages.0.label>
+  <!--EN: demons-->
+  <TM_LesserDemon.lifeStages.0.labelPlural>小恶魔群</TM_LesserDemon.lifeStages.0.labelPlural>
+  <!--EN: lesser earth elemental-->
+  <TM_LesserEarth_Elemental.label>小型土元素</TM_LesserEarth_Elemental.label>
+  <!--EN: lesser earth elemental-->
+  <TM_LesserEarth_Elemental.lifeStages.0.label>小型土元素</TM_LesserEarth_Elemental.lifeStages.0.label>
+  <!--EN: earth elementals-->
+  <TM_LesserEarth_Elemental.lifeStages.0.labelPlural>土元素群</TM_LesserEarth_Elemental.lifeStages.0.labelPlural>
+  <!--EN: lesser fire elemental-->
+  <TM_LesserFire_Elemental.label>小型火元素</TM_LesserFire_Elemental.label>
+  <!--EN: lesser fire elemental-->
+  <TM_LesserFire_Elemental.lifeStages.0.label>小型火元素</TM_LesserFire_Elemental.lifeStages.0.label>
+  <!--EN: lesser fire elementals-->
+  <TM_LesserFire_Elemental.lifeStages.0.labelPlural>火元素群</TM_LesserFire_Elemental.lifeStages.0.labelPlural>
+  <!--EN: lesser water elemental-->
+  <TM_LesserWater_Elemental.label>小型水元素</TM_LesserWater_Elemental.label>
+  <!--EN: lesser water elemental-->
+  <TM_LesserWater_Elemental.lifeStages.0.label>小型水元素</TM_LesserWater_Elemental.lifeStages.0.label>
+  <!--EN: lesser water elementals-->
+  <TM_LesserWater_Elemental.lifeStages.0.labelPlural>水元素群</TM_LesserWater_Elemental.lifeStages.0.labelPlural>
+  <!--EN: lesser wind elemental-->
+  <TM_LesserWind_Elemental.label>小型风元素</TM_LesserWind_Elemental.label>
+  <!--EN: lesser wind elemental-->
+  <TM_LesserWind_Elemental.lifeStages.0.label>小型风元素</TM_LesserWind_Elemental.lifeStages.0.label>
+  <!--EN: wisps-->
+  <TM_LesserWind_Elemental.lifeStages.0.labelPlural>风元素群</TM_LesserWind_Elemental.lifeStages.0.labelPlural>
+  <!--EN: lesser sentinel-->
+  <TM_Lesser_Sentinel.label>小型哨兵</TM_Lesser_Sentinel.label>
+  <!--EN: lesser sentinel-->
+  <TM_Lesser_Sentinel.lifeStages.0.label>小型哨兵</TM_Lesser_Sentinel.lifeStages.0.label>
+  <!--EN: stone sentinels-->
+  <TM_Lesser_Sentinel.lifeStages.0.labelPlural>石哨兵</TM_Lesser_Sentinel.lifeStages.0.labelPlural>
+  <!--EN: limestone-golem-->
+  <TM_LimestoneGolemK.label>石灰岩傀儡</TM_LimestoneGolemK.label>
+  <!--EN: maharal-golem-->
+  <TM_MaharalGolemK.label>马哈拉尔傀儡</TM_MaharalGolemK.label>
+  <!--EN: marble-golem-->
+  <TM_MarbleGolemK.label>大理石傀儡</TM_MarbleGolemK.label>
+  <!--EN: mecha-golem-->
+  <TM_MechaGolemK.label>机械傀儡</TM_MechaGolemK.label>
+  <!--EN: minion-->
+  <TM_Minion.label>仆从</TM_Minion.label>
+  <!--EN: minion-->
+  <TM_Minion.lifeStages.0.label>仆从</TM_Minion.lifeStages.0.label>
+  <!--EN: minions-->
+  <TM_Minion.lifeStages.0.labelPlural>仆从们</TM_Minion.lifeStages.0.labelPlural>
+  <!--EN: poppi-->
+  <TM_Poppi.label>波皮</TM_Poppi.label>
+  <!--EN: sandstone-golem-->
+  <TM_SandstoneGolemK.label>砂岩傀儡</TM_SandstoneGolemK.label>
+  <!--EN: sentinel-->
+  <TM_Sentinel.label>哨兵</TM_Sentinel.label>
+  <!--EN: sentinel-->
+  <TM_Sentinel.lifeStages.0.label>哨兵</TM_Sentinel.lifeStages.0.label>
+  <!--EN: stone sentinels-->
+  <TM_Sentinel.lifeStages.0.labelPlural>石哨兵</TM_Sentinel.lifeStages.0.labelPlural>
+  <!--EN: silk-golem-->
+  <TM_SilkGolemK.label>丝绸傀儡</TM_SilkGolemK.label>
+  <!--EN: skeleton-->
+  <TM_Skeleton.label>骷髅</TM_Skeleton.label>
+  <!--EN: skeleton-->
+  <TM_Skeleton.lifeStages.0.label>骷髅</TM_Skeleton.lifeStages.0.label>
+  <!--EN: skeletal-->
+  <TM_Skeleton.lifeStages.0.labelPlural>骨架</TM_Skeleton.lifeStages.0.labelPlural>
+  <!--EN: skeleton lich-->
+  <TM_SkeletonLich.label>骷髅巫妖</TM_SkeletonLich.label>
+  <!--EN: skeleton lich-->
+  <TM_SkeletonLich.lifeStages.0.label>骷髅巫妖</TM_SkeletonLich.lifeStages.0.label>
+  <!--EN: skeletal lich-->
+  <TM_SkeletonLich.lifeStages.0.labelPlural>骷髅巫妖</TM_SkeletonLich.lifeStages.0.labelPlural>
+  <!--EN: slate-golem-->
+  <TM_SlateGolemK.label>板岩傀儡</TM_SlateGolemK.label>
+  <!--EN: spirit bear-->
+  <TM_SpiritBear.label>灵熊</TM_SpiritBear.label>
+  <!--EN: spirit bears-->
+  <TM_SpiritBear.labelPlural>灵熊群</TM_SpiritBear.labelPlural>
+  <!--EN: spirit crow-->
+  <TM_SpiritCrow.label>灵乌鸦</TM_SpiritCrow.label>
+  <!--EN: spirit crows-->
+  <TM_SpiritCrow.labelPlural>灵乌鸦</TM_SpiritCrow.labelPlural>
+  <!--EN: flight1-->
+  <TM_SpiritCrow.lifeStages.0.label>飞翔1</TM_SpiritCrow.lifeStages.0.label>
+  <!--EN: flight2-->
+  <TM_SpiritCrow.lifeStages.1.label>飞翔2</TM_SpiritCrow.lifeStages.1.label>
+  <!--EN: crow chick-->
+  <TM_SpiritCrow.lifeStages.2.label>乌鸦小鸡</TM_SpiritCrow.lifeStages.2.label>
+  <!--EN: crow fledgling-->
+  <TM_SpiritCrow.lifeStages.3.label>灵幼鸦</TM_SpiritCrow.lifeStages.3.label>
+  <!--EN: spirit mongoose-->
+  <TM_SpiritMongoose.label>灵猫鼬</TM_SpiritMongoose.label>
+  <!--EN: spirit mongoose-->
+  <TM_SpiritMongoose.labelPlural>灵猫鼬</TM_SpiritMongoose.labelPlural>
+  <!--EN: spirit-->
+  <TM_SpiritPKD.label>灵魂</TM_SpiritPKD.label>
+  <!--EN: spirit wolf-->
+  <TM_SpiritWolf.label>幽灵狼</TM_SpiritWolf.label>
+  <!--EN: spirit wolves-->
+  <TM_SpiritWolf.labelPlural>幽灵狼</TM_SpiritWolf.labelPlural>
+  <!--EN: stone-golem-->
+  <TM_StoneGolemK.label>巨岩傀儡</TM_StoneGolemK.label>
+  <!--EN: straw-golem-->
+  <TM_StrawGolemK.label>稻草傀儡</TM_StrawGolemK.label>
+  <!--EN: water elemental-->
+  <TM_Water_Elemental.label>水元素</TM_Water_Elemental.label>
+  <!--EN: water elemental-->
+  <TM_Water_Elemental.lifeStages.0.label>水元素</TM_Water_Elemental.lifeStages.0.label>
+  <!--EN: water elementals-->
+  <TM_Water_Elemental.lifeStages.0.labelPlural>水元素群</TM_Water_Elemental.lifeStages.0.labelPlural>
+  <!--EN: wind elemental-->
+  <TM_Wind_Elemental.label>风元素</TM_Wind_Elemental.label>
+  <!--EN: wind elemental-->
+  <TM_Wind_Elemental.lifeStages.0.label>风元素</TM_Wind_Elemental.lifeStages.0.label>
+  <!--EN: wind elementals-->
+  <TM_Wind_Elemental.lifeStages.0.labelPlural>风元素群</TM_Wind_Elemental.lifeStages.0.labelPlural>
+  <!--EN: wood-golem-->
+  <TM_WoodGolemK.label>木傀儡</TM_WoodGolemK.label>
+</LanguageData>

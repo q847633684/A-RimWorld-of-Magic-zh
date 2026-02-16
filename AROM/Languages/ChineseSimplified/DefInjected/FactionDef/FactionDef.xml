@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Little is known about this secretive faction.  They possess some technology, but do not seem to dependent on it. They work simple tools and defend themselves with firearms.\n\nThey participate in the the practical matters of trade, trust, and survival, but their primary interest is unclear.\n\nAccording to traveler tales and information gathered from other factions, they have knowledge, and use, of mysterious powers and artifacts.-->
+  <Seers.description>这个一个鲜为人知的教派。他们掌握着某些神秘的技术但又不依赖于它. 信徒们会使用简单的工具和火器.\n  他们在生存问题面前会选择与其他派系合作，但没有人知道他们到底在追求着什么.\n  据小道消息， 他们拥有关于制造和使用具有神秘力量的人工制品的能力。</Seers.description>
+  <!--EN: arcane fold-->
+  <Seers.label>秘能信徒</Seers.label>
+  <!--EN: Mage King-->
+  <Seers.leaderTitle>法师之王</Seers.leaderTitle>
+  <!--EN: seer-->
+  <Seers.pawnSingular>先知</Seers.pawnSingular>
+  <!--EN: seers-->
+  <Seers.pawnsPlural>先知</Seers.pawnsPlural>
+  <!--EN: Elemental spirits summoned from their planes of power. This faction is required for certain events or actions in RimWorld of Magic.-->
+  <TM_ElementalFaction.description>元素生物从它们的异界位面召唤而来。</TM_ElementalFaction.description>
+  <!--EN: Elementals-->
+  <TM_ElementalFaction.fixedName>元素生物群</TM_ElementalFaction.fixedName>
+  <!--EN: Elemental-->
+  <TM_ElementalFaction.label>元素</TM_ElementalFaction.label>
+  <!--EN: elemental-->
+  <TM_ElementalFaction.pawnSingular>元素的</TM_ElementalFaction.pawnSingular>
+  <!--EN: Elementals-->
+  <TM_ElementalFaction.pawnsPlural>元素生物群</TM_ElementalFaction.pawnsPlural>
+  <!--EN: Skeletons and undead raised by arcane power. This faction is required for certain events or actions in RimWorld of Magic.-->
+  <TM_SkeletalFaction.description>由神秘力量而复活的骷髅和亡灵。</TM_SkeletalFaction.description>
+  <!--EN: Skeletal-->
+  <TM_SkeletalFaction.fixedName>亡灵</TM_SkeletalFaction.fixedName>
+  <!--EN: Skeletal-->
+  <TM_SkeletalFaction.label>亡灵</TM_SkeletalFaction.label>
+  <!--EN: skeleton-->
+  <TM_SkeletalFaction.pawnSingular>骨骼</TM_SkeletalFaction.pawnSingular>
+  <!--EN: skeletal-->
+  <TM_SkeletalFaction.pawnsPlural>亡灵</TM_SkeletalFaction.pawnsPlural>
+  <!--EN: Beings summoned from other dimensions or planes of existence using arcane power. This faction is required for certain events or actions in RimWorld of Magic.-->
+  <TM_SummonedFaction.description>正在使用奥术能量从其他可能存在的维度或位面召唤。</TM_SummonedFaction.description>
+  <!--EN: Summoned-->
+  <TM_SummonedFaction.fixedName>召唤</TM_SummonedFaction.fixedName>
+  <!--EN: Summoned being-->
+  <TM_SummonedFaction.label>召唤的存在</TM_SummonedFaction.label>
+  <!--EN: summoned-->
+  <TM_SummonedFaction.pawnSingular>被召唤</TM_SummonedFaction.pawnSingular>
+  <!--EN: summoned-->
+  <TM_SummonedFaction.pawnsPlural>召唤</TM_SummonedFaction.pawnsPlural>
+</LanguageData>

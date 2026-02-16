@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Inspired: Arcane Path-->
+  <ID_ArcanePathways.baseInspectLine>灵感：神秘之路</ID_ArcanePathways.baseInspectLine>
+  <!--EN: {0} has seen a vision of arcane potential. [PAWN_pronoun] can achieve the power of a {1} with the assistance of a voidseeker. This ritual must be performed within two days or the inspiration will be lost.-->
+  <ID_ArcanePathways.beginLetter>{0}看到了一个神秘天赋的幻象。[PAWN_pronoun]可以在寻虚者的帮助下获得{1}的力量。这个仪式必须在两天内完成，否则灵感就会丢失。</ID_ArcanePathways.beginLetter>
+  <!--EN: Inspiration: arcane path-->
+  <ID_ArcanePathways.beginLetterLabel>灵感：神秘之路</ID_ArcanePathways.beginLetterLabel>
+  <!--EN: {0} can no longer reach an arcane path of a {1} through inspiration.-->
+  <ID_ArcanePathways.endMessage>{0}无法再通过灵感到达{1}的神秘之路。</ID_ArcanePathways.endMessage>
+  <!--EN: arcane path-->
+  <ID_ArcanePathways.label>神秘之路</ID_ArcanePathways.label>
+  <!--EN: Inspired: Champion-->
+  <ID_Champion.baseInspectLine>灵感: 英雄</ID_Champion.baseInspectLine>
+  <!--EN: {0} has been heroically inspired. [PAWN_pronoun] dreams of being the champion in the stories told by bards and will live up to those expectations for the next 72 hours.-->
+  <ID_Champion.beginLetter>{0}受到吟游诗人的影响开始内省了. HECAP在接下来的24小时内会梦想成为吟游诗人故事中的英雄而更加努力.</ID_Champion.beginLetter>
+  <!--EN: Inspiration: champion-->
+  <ID_Champion.beginLetterLabel>灵感: 英雄</ID_Champion.beginLetterLabel>
+  <!--EN: {0} is no longer inspired (champion).-->
+  <ID_Champion.endMessage>{0}不再内省了 (英雄).</ID_Champion.endMessage>
+  <!--EN: champion-->
+  <ID_Champion.label>英雄</ID_Champion.label>
+  <!--EN: Inspired: Enlightened-->
+  <ID_Enlightened.baseInspectLine>灵感：启发</ID_Enlightened.baseInspectLine>
+  <!--EN: {0} has entered a period of enlightenment. [PAWN_pronoun] consciousness will be significantly expanded for the next 72 hours.-->
+  <ID_Enlightened.beginLetter>{0}开始内省了. [PAWN_pronoun] 在接下来的72小时内，意识将显著增强。</ID_Enlightened.beginLetter>
+  <!--EN: Inspiration: enlightenment-->
+  <ID_Enlightened.beginLetterLabel>灵感：启发</ID_Enlightened.beginLetterLabel>
+  <!--EN: {0} is no longer inspired (enlightenment).-->
+  <ID_Enlightened.endMessage>{0}不再受内省（启发）。</ID_Enlightened.endMessage>
+  <!--EN: enlightened-->
+  <ID_Enlightened.label>启发</ID_Enlightened.label>
+  <!--EN: Inspired: Farming Frenzy-->
+  <ID_FarmingFrenzy.baseInspectLine>灵感: 种植狂热</ID_FarmingFrenzy.baseInspectLine>
+  <!--EN: {0} has just been inspired. [PAWN_pronoun] will harvest crops 100% faster with 50% more yield during plant cutting jobs for the next 48 hours.-->
+  <ID_FarmingFrenzy.beginLetter>{0}开始内省了. HECAP在接下来的24小时内收获速度增加25%并且农作物产出增加25%.</ID_FarmingFrenzy.beginLetter>
+  <!--EN: Inspiration: farming frenzy-->
+  <ID_FarmingFrenzy.beginLetterLabel>灵感: 种植狂热</ID_FarmingFrenzy.beginLetterLabel>
+  <!--EN: {0} is no longer inspired (farming frenzy).-->
+  <ID_FarmingFrenzy.endMessage>{0}不再内省了 (种植狂热).</ID_FarmingFrenzy.endMessage>
+  <!--EN: farming frenzy-->
+  <ID_FarmingFrenzy.label>种植狂热</ID_FarmingFrenzy.label>
+  <!--EN: Inspired: Introspection-->
+  <ID_Introspection.baseInspectLine>灵感: 内省</ID_Introspection.baseInspectLine>
+  <!--EN: {0} has just been inspired. [PAWN_pronoun] will learn 2 times faster for the next 48 hours.-->
+  <ID_Introspection.beginLetter>{0}开始内省了. HECAP在接下来的24小时内会获得双倍的学习速度.</ID_Introspection.beginLetter>
+  <!--EN: Inspiration: introspection-->
+  <ID_Introspection.beginLetterLabel>灵感: 内省</ID_Introspection.beginLetterLabel>
+  <!--EN: {0} is no longer inspired (introspection).-->
+  <ID_Introspection.endMessage>{0}不再内省了.(内省)</ID_Introspection.endMessage>
+  <!--EN: introspection-->
+  <ID_Introspection.label>内省</ID_Introspection.label>
+  <!--EN: Inspired: Mana regeneration-->
+  <ID_ManaRegen.baseInspectLine>灵感: 法力再生</ID_ManaRegen.baseInspectLine>
+  <!--EN: {0} has just been inspired. [PAWN_pronoun] will gain mana 2 times faster for the next 72 hours.-->
+  <ID_ManaRegen.beginLetter>{0}开始内省了. HECAP在接下来的24小时内会获得双倍的法力恢复速度.</ID_ManaRegen.beginLetter>
+  <!--EN: Inspiration: mana regen-->
+  <ID_ManaRegen.beginLetterLabel>灵感: 法力再生</ID_ManaRegen.beginLetterLabel>
+  <!--EN: {0} is no longer inspired (mana regen).-->
+  <ID_ManaRegen.endMessage>{0}不再内省了 (法力再生).</ID_ManaRegen.endMessage>
+  <!--EN: mana regeneration-->
+  <ID_ManaRegen.label>法力再生</ID_ManaRegen.label>
+  <!--EN: Inspired: Mining Frenzy-->
+  <ID_MiningFrenzy.baseInspectLine>灵感: 挖矿狂热</ID_MiningFrenzy.baseInspectLine>
+  <!--EN: {0} has just been inspired. [PAWN_pronoun] will mine 100% faster and yield 100% more resources during mining for the next 48 hours.-->
+  <ID_MiningFrenzy.beginLetter>{0}开始内省了. HECAP在接下来的24小时内挖矿速度增加25%并且矿物资源产出增加25%.</ID_MiningFrenzy.beginLetter>
+  <!--EN: Inspiration: mining frenzy-->
+  <ID_MiningFrenzy.beginLetterLabel>灵感: 挖矿狂热</ID_MiningFrenzy.beginLetterLabel>
+  <!--EN: {0} is no longer inspired (mining frenzy).-->
+  <ID_MiningFrenzy.endMessage>{0}不再内省了 (挖矿狂热).</ID_MiningFrenzy.endMessage>
+  <!--EN: mining frenzy-->
+  <ID_MiningFrenzy.label>挖矿狂热</ID_MiningFrenzy.label>
+  <!--EN: Inspired: Outgoing-->
+  <ID_Outgoing.baseInspectLine>灵感: 外向</ID_Outgoing.baseInspectLine>
+  <!--EN: {0} has just been inspired. [PAWN_pronoun] will be more socially active and will be more likely to have positive social interactions for the next 24 hours.-->
+  <ID_Outgoing.beginLetter>{0}开始内省了. HECAP在接下来的24小时内会更喜欢进行积极的社交活动.</ID_Outgoing.beginLetter>
+  <!--EN: Inspiration: social activity-->
+  <ID_Outgoing.beginLetterLabel>灵感: 社交活动</ID_Outgoing.beginLetterLabel>
+  <!--EN: {0} is no longer inspired (social activity).-->
+  <ID_Outgoing.endMessage>{0}不再内省了 (社交活动).</ID_Outgoing.endMessage>
+  <!--EN: outgoing-->
+  <ID_Outgoing.label>外向</ID_Outgoing.label>
+</LanguageData>

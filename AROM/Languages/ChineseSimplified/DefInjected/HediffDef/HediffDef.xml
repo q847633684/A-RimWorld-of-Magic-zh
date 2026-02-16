@@ -1,0 +1,3297 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: A burst of energy that amplifies physical attributes.-->
+  <AMP_I.description>增强物理属性的恩惠。</AMP_I.description>
+  <!--EN: AMP-->
+  <AMP_I.label>安普</AMP_I.label>
+  <!--EN: I-->
+  <AMP_I.stages.0.label>I</AMP_I.stages.0.label>
+  <!--EN: A burst of energy that amplifies physical attributes.-->
+  <AMP_II.description>增强物理属性的恩惠。</AMP_II.description>
+  <!--EN: AMP-->
+  <AMP_II.label>安普</AMP_II.label>
+  <!--EN: II-->
+  <AMP_II.stages.0.label>II</AMP_II.stages.0.label>
+  <!--EN: A burst of energy that amplifies physical attributes.-->
+  <AMP_III.description>增强物理属性的恩惠。</AMP_III.description>
+  <!--EN: AMP-->
+  <AMP_III.label>安普</AMP_III.label>
+  <!--EN: III-->
+  <AMP_III.stages.0.label>III</AMP_III.stages.0.label>
+  <!--EN: A mighty combat boon.-->
+  <BestowMightHD.description>一个强大的战斗恩惠。</BestowMightHD.description>
+  <!--EN: Bestow Might-->
+  <BestowMightHD.label>力量祝福</BestowMightHD.label>
+  <!--EN: I-->
+  <BestowMightHD.stages.0.label>I</BestowMightHD.stages.0.label>
+  <!--EN: A mighty combat boon.-->
+  <BestowMightHD_I.description>一个强大的战斗恩惠。</BestowMightHD_I.description>
+  <!--EN: Bestow Might-->
+  <BestowMightHD_I.label>力量祝福</BestowMightHD_I.label>
+  <!--EN: II-->
+  <BestowMightHD_I.stages.0.label>II</BestowMightHD_I.stages.0.label>
+  <!--EN: A mighty combat boon.-->
+  <BestowMightHD_II.description>一个强大的战斗恩惠。</BestowMightHD_II.description>
+  <!--EN: Bestow Might-->
+  <BestowMightHD_II.label>力量祝福</BestowMightHD_II.label>
+  <!--EN: III-->
+  <BestowMightHD_II.stages.0.label>III</BestowMightHD_II.stages.0.label>
+  <!--EN: A mighty combat boon.-->
+  <BestowMightHD_III.description>一个强大的战斗恩惠。</BestowMightHD_III.description>
+  <!--EN: Bestow Might-->
+  <BestowMightHD_III.label>力量祝福</BestowMightHD_III.label>
+  <!--EN: IV-->
+  <BestowMightHD_III.stages.0.label>IV</BestowMightHD_III.stages.0.label>
+  <!--EN: set-->
+  <Blizzard.comps.0.labelSolidTendedWell>已固定</Blizzard.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <Blizzard.comps.0.labelTendedWell>已包扎</Blizzard.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <Blizzard.comps.0.labelTendedWellInner>已缝合</Blizzard.comps.0.labelTendedWellInner>
+  <!--EN: destroyed in blizzard-->
+  <Blizzard.comps.1.permanentLabel>暴风雪中摧毁</Blizzard.comps.1.permanentLabel>
+  <!--EN: A storm of ice and snow.-->
+  <Blizzard.description>暴风雪.</Blizzard.description>
+  <!--EN: frozen-->
+  <Blizzard.injuryProps.destroyedLabel>冰冻</Blizzard.injuryProps.destroyedLabel>
+  <!--EN: shattered-->
+  <Blizzard.injuryProps.destroyedOutLabel>破碎</Blizzard.injuryProps.destroyedOutLabel>
+  <!--EN: blizzard-->
+  <Blizzard.label>暴风雪</Blizzard.label>
+  <!--EN: set-->
+  <FrostRay.comps.0.labelSolidTendedWell>已固定</FrostRay.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <FrostRay.comps.0.labelTendedWell>已包扎</FrostRay.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <FrostRay.comps.0.labelTendedWellInner>已缝合</FrostRay.comps.0.labelTendedWellInner>
+  <!--EN: frostbite scar-->
+  <FrostRay.comps.1.permanentLabel>冻伤疤痕</FrostRay.comps.1.permanentLabel>
+  <!--EN: Super-cooled bolt of energy.-->
+  <FrostRay.description>顶级的元素之冰.</FrostRay.description>
+  <!--EN: frozen off-->
+  <FrostRay.injuryProps.destroyedLabel>冻坏</FrostRay.injuryProps.destroyedLabel>
+  <!--EN: Shattered-->
+  <FrostRay.injuryProps.destroyedOutLabel>破碎</FrostRay.injuryProps.destroyedOutLabel>
+  <!--EN: frostray-->
+  <FrostRay.label>霜冻之寒</FrostRay.label>
+  <!--EN: set-->
+  <Iceshard.comps.0.labelSolidTendedWell>已固定</Iceshard.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <Iceshard.comps.0.labelTendedWell>已包扎</Iceshard.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <Iceshard.comps.0.labelTendedWellInner>已缝合</Iceshard.comps.0.labelTendedWellInner>
+  <!--EN: iceshard scar-->
+  <Iceshard.comps.1.permanentLabel>冰晶疤痕</Iceshard.comps.1.permanentLabel>
+  <!--EN: A projected bolt of ice formed with razor sharp edges.-->
+  <Iceshard.description>元素之冰投射为边缘十分锋利的冰晶.</Iceshard.description>
+  <!--EN: Shredded-->
+  <Iceshard.injuryProps.destroyedLabel>切碎</Iceshard.injuryProps.destroyedLabel>
+  <!--EN: Torn to shreds-->
+  <Iceshard.injuryProps.destroyedOutLabel>切掉</Iceshard.injuryProps.destroyedOutLabel>
+  <!--EN: iceshard-->
+  <Iceshard.label>冰晶碎片</Iceshard.label>
+  <!--EN: Fortifies the spirit, giving the pawn increased endurance and resistances.-->
+  <InnerFireHD.description>强化精神，给生物增加耐力和抵抗力。</InnerFireHD.description>
+  <!--EN: Inner Fire-->
+  <InnerFireHD.label>心灵之火</InnerFireHD.label>
+  <!--EN: I-->
+  <InnerFireHD.stages.0.label>I</InnerFireHD.stages.0.label>
+  <!--EN: Fortifies the spirit, giving the pawn increased endurance and resistances.-->
+  <InnerFire_IHD.description>强化精神，给生物增加耐力和抵抗力。</InnerFire_IHD.description>
+  <!--EN: Inner Fire-->
+  <InnerFire_IHD.label>心灵之火</InnerFire_IHD.label>
+  <!--EN: II-->
+  <InnerFire_IHD.stages.0.label>II</InnerFire_IHD.stages.0.label>
+  <!--EN: Fortifies the spirit, giving the pawn increased endurance and resistances.-->
+  <InnerFire_IIHD.description>强化精神，给生物增加耐力和抵抗力。</InnerFire_IIHD.description>
+  <!--EN: Inner Fire-->
+  <InnerFire_IIHD.label>心灵之火</InnerFire_IIHD.label>
+  <!--EN: III-->
+  <InnerFire_IIHD.stages.0.label>III</InnerFire_IIHD.stages.0.label>
+  <!--EN: Fortifies the spirit, giving the pawn increased endurance and resistances.-->
+  <InnerFire_IIIHD.description>强化精神，给生物增加耐力和抵抗力。</InnerFire_IIIHD.description>
+  <!--EN: Inner Fire-->
+  <InnerFire_IIIHD.label>心灵之火</InnerFire_IIIHD.label>
+  <!--EN: IV-->
+  <InnerFire_IIIHD.stages.0.label>IV</InnerFire_IIIHD.stages.0.label>
+  <!--EN: The urge to consume mana potions has developed into a need.-->
+  <ManaPotionAddiction.description>渴望魔法药剂</ManaPotionAddiction.description>
+  <!--EN: mana potion addiction-->
+  <ManaPotionAddiction.label>魔法药剂成瘾</ManaPotionAddiction.label>
+  <!--EN: withdrawal-->
+  <ManaPotionAddiction.stages.1.label>戒断</ManaPotionAddiction.stages.1.label>
+  <!--EN: Consciousness is raised by consuming liquid mana.-->
+  <ManaPotionHigh.description>通过消耗液体法力来提高意识。</ManaPotionHigh.description>
+  <!--EN: arcane high-->
+  <ManaPotionHigh.label>奥术沉醉</ManaPotionHigh.label>
+  <!--EN: Natural adjustment to normalize the effects of consuming liquid mana.-->
+  <ManaPotionTolerance.description>使食用魔法药剂的效果正常化。</ManaPotionTolerance.description>
+  <!--EN: mana potion tolerance-->
+  <ManaPotionTolerance.label>魔法药剂耐受</ManaPotionTolerance.label>
+  <!--EN: An uplifting presence that enlivens the spirit.-->
+  <RayofHope.description>使精神活跃的令人振奋的光环。</RayofHope.description>
+  <!--EN: Ray of Hope-->
+  <RayofHope.label>魔力强化</RayofHope.label>
+  <!--EN: I-->
+  <RayofHope.stages.0.label>I</RayofHope.stages.0.label>
+  <!--EN: An uplifting presence that enlivens the spirit.-->
+  <RayofHope_I.description>使精神活跃的令人振奋的光环。</RayofHope_I.description>
+  <!--EN: Ray of Hope-->
+  <RayofHope_I.label>希望之光</RayofHope_I.label>
+  <!--EN: II-->
+  <RayofHope_I.stages.0.label>II</RayofHope_I.stages.0.label>
+  <!--EN: An uplifting presence that enlivens the spirit.-->
+  <RayofHope_II.description>使精神活跃的令人振奋的光环。</RayofHope_II.description>
+  <!--EN: Ray of Hope-->
+  <RayofHope_II.label>希望之光</RayofHope_II.label>
+  <!--EN: III-->
+  <RayofHope_II.stages.0.label>III</RayofHope_II.stages.0.label>
+  <!--EN: An uplifting presence that enlivens the spirit.-->
+  <RayofHope_III.description>使精神活跃的令人振奋的光环。</RayofHope_III.description>
+  <!--EN: Ray of Hope-->
+  <RayofHope_III.label>希望之光</RayofHope_III.label>
+  <!--EN: IV-->
+  <RayofHope_III.stages.0.label>IV</RayofHope_III.stages.0.label>
+  <!--EN: A shadowy presence that precipitates action.-->
+  <Shadow.description>一种增强移速的阴影。</Shadow.description>
+  <!--EN: Arcane Shadow-->
+  <Shadow.label>魔法增益</Shadow.label>
+  <!--EN: A shadowy presence that precipitates action.-->
+  <Shadow_I.description>一种增强移速的阴影。</Shadow_I.description>
+  <!--EN: Arcane Shadow-->
+  <Shadow_I.label>暗影随形</Shadow_I.label>
+  <!--EN: I-->
+  <Shadow_I.stages.0.label>I</Shadow_I.stages.0.label>
+  <!--EN: A shadowy presence that precipitates action.-->
+  <Shadow_II.description>一种增强移速的阴影。</Shadow_II.description>
+  <!--EN: Arcane Shadow-->
+  <Shadow_II.label>暗影随形</Shadow_II.label>
+  <!--EN: II-->
+  <Shadow_II.stages.0.label>II</Shadow_II.stages.0.label>
+  <!--EN: A shadowy presence that precipitates action.-->
+  <Shadow_III.description>一种增强移速的阴影。</Shadow_III.description>
+  <!--EN: Arcane Shadow-->
+  <Shadow_III.label>暗影随形</Shadow_III.label>
+  <!--EN: III-->
+  <Shadow_III.stages.0.label>III</Shadow_III.stages.0.label>
+  <!--EN: set-->
+  <Snowball.comps.0.labelSolidTendedWell>已固定</Snowball.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <Snowball.comps.0.labelTendedWell>已包扎</Snowball.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <Snowball.comps.0.labelTendedWellInner>已缝合</Snowball.comps.0.labelTendedWellInner>
+  <!--EN: frostbite scar-->
+  <Snowball.comps.1.permanentLabel>冻伤疤痕</Snowball.comps.1.permanentLabel>
+  <!--EN: Packed ice and snow.-->
+  <Snowball.description>冰天雪地.</Snowball.description>
+  <!--EN: frozen off-->
+  <Snowball.injuryProps.destroyedLabel>冻坏</Snowball.injuryProps.destroyedLabel>
+  <!--EN: Shattered-->
+  <Snowball.injuryProps.destroyedOutLabel>破碎</Snowball.injuryProps.destroyedOutLabel>
+  <!--EN: snowball-->
+  <Snowball.label>雪球术</Snowball.label>
+  <!--EN: A soothing presence that calms the spirit.-->
+  <SoothingBreeze.description>使心灵平静的恩惠</SoothingBreeze.description>
+  <!--EN: Soothing Breeze-->
+  <SoothingBreeze.label>魔法增益</SoothingBreeze.label>
+  <!--EN: I-->
+  <SoothingBreeze.stages.0.label>I</SoothingBreeze.stages.0.label>
+  <!--EN: A soothing presence that calms the spirit.-->
+  <SoothingBreeze_I.description>使心灵平静的恩惠</SoothingBreeze_I.description>
+  <!--EN: Soothing Breeze-->
+  <SoothingBreeze_I.label>抚慰之风</SoothingBreeze_I.label>
+  <!--EN: II-->
+  <SoothingBreeze_I.stages.0.label>II</SoothingBreeze_I.stages.0.label>
+  <!--EN: A soothing presence that calms the spirit.-->
+  <SoothingBreeze_II.description>使心灵平静的恩惠</SoothingBreeze_II.description>
+  <!--EN: Soothing Breeze-->
+  <SoothingBreeze_II.label>抚慰之风</SoothingBreeze_II.label>
+  <!--EN: III-->
+  <SoothingBreeze_II.stages.0.label>III</SoothingBreeze_II.stages.0.label>
+  <!--EN: A soothing presence that calms the spirit.-->
+  <SoothingBreeze_III.description>使心灵平静的恩惠</SoothingBreeze_III.description>
+  <!--EN: Soothing Breeze-->
+  <SoothingBreeze_III.label>抚慰之风</SoothingBreeze_III.label>
+  <!--EN: IV-->
+  <SoothingBreeze_III.stages.0.label>IV</SoothingBreeze_III.stages.0.label>
+  <!--EN: Rapidly repairs equipped apparel and weapons.-->
+  <SpellMendingHD.description>迅速修理身上的服装和武器。</SpellMendingHD.description>
+  <!--EN: Spell Mending-->
+  <SpellMendingHD.label>装备维护</SpellMendingHD.label>
+  <!--EN: active-->
+  <SpellMendingHD.stages.0.label>active</SpellMendingHD.stages.0.label>
+  <!--EN: enhanced-->
+  <SpellMendingHD.stages.1.label>enhanced</SpellMendingHD.stages.1.label>
+  <!--EN: Rapidly ages a pawn. Any other conditions affecting the pawn will also accelerate their natural tendencies. Pawns aged beyond their typical lifespan are frequently beset by age related illnesses or conditions.-->
+  <TM_AccelerateTimeHD.description>迅速加速该生物的年龄。如果有任何其他影响转该生物的条件,也会改变他们的趋向。超过该生物寿命的生物经常受到与年龄有关的疾病或状况。</TM_AccelerateTimeHD.description>
+  <!--EN: Aging-->
+  <TM_AccelerateTimeHD.label>加速时空</TM_AccelerateTimeHD.label>
+  <!--EN: I-->
+  <TM_AccelerateTimeHD.stages.0.label>I</TM_AccelerateTimeHD.stages.0.label>
+  <!--EN: II-->
+  <TM_AccelerateTimeHD.stages.1.label>II</TM_AccelerateTimeHD.stages.1.label>
+  <!--EN: III-->
+  <TM_AccelerateTimeHD.stages.2.label>III</TM_AccelerateTimeHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_AccelerateTimeHD.stages.3.label>IV</TM_AccelerateTimeHD.stages.3.label>
+  <!--EN: A burst of adrenaline that boosts physical performance.-->
+  <TM_AdrenalineHD.description>提高一定能力。</TM_AdrenalineHD.description>
+  <!--EN: Adrenaline-->
+  <TM_AdrenalineHD.label>肾上腺素</TM_AdrenalineHD.label>
+  <!--EN: Arcane power that diminishes the circulation of air.-->
+  <TM_AntiBreathing.description>降低呼吸效率和能力的神秘力量..</TM_AntiBreathing.description>
+  <!--EN: arcane suffocation-->
+  <TM_AntiBreathing.label>奥术窒息</TM_AntiBreathing.label>
+  <!--EN: I-->
+  <TM_AntiBreathing.stages.0.label>I</TM_AntiBreathing.stages.0.label>
+  <!--EN: II-->
+  <TM_AntiBreathing.stages.1.label>II</TM_AntiBreathing.stages.1.label>
+  <!--EN: III-->
+  <TM_AntiBreathing.stages.2.label>III</TM_AntiBreathing.stages.2.label>
+  <!--EN: IV-->
+  <TM_AntiBreathing.stages.3.label>IV</TM_AntiBreathing.stages.3.label>
+  <!--EN: overwhelmed-->
+  <TM_AntiBreathing.stages.4.label>overwhelmed</TM_AntiBreathing.stages.4.label>
+  <!--EN: Arcane power that reduces dexterity (manipulation).-->
+  <TM_AntiManipulation.description>降低灵巧性（操控）的神秘力量.</TM_AntiManipulation.description>
+  <!--EN: arcane cripple-->
+  <TM_AntiManipulation.label>奥术残废</TM_AntiManipulation.label>
+  <!--EN: I-->
+  <TM_AntiManipulation.stages.0.label>I</TM_AntiManipulation.stages.0.label>
+  <!--EN: II-->
+  <TM_AntiManipulation.stages.1.label>II</TM_AntiManipulation.stages.1.label>
+  <!--EN: III-->
+  <TM_AntiManipulation.stages.2.label>III</TM_AntiManipulation.stages.2.label>
+  <!--EN: IV-->
+  <TM_AntiManipulation.stages.3.label>IV</TM_AntiManipulation.stages.3.label>
+  <!--EN: overwhelmed-->
+  <TM_AntiManipulation.stages.4.label>overwhelmed</TM_AntiManipulation.stages.4.label>
+  <!--EN: Arcane power that reduces movement.-->
+  <TM_AntiMovement.description>减少移速的神秘力量.</TM_AntiMovement.description>
+  <!--EN: arcane slow-->
+  <TM_AntiMovement.label>奥术迟缓</TM_AntiMovement.label>
+  <!--EN: I-->
+  <TM_AntiMovement.stages.0.label>I</TM_AntiMovement.stages.0.label>
+  <!--EN: II-->
+  <TM_AntiMovement.stages.1.label>II</TM_AntiMovement.stages.1.label>
+  <!--EN: III-->
+  <TM_AntiMovement.stages.2.label>III</TM_AntiMovement.stages.2.label>
+  <!--EN: IV-->
+  <TM_AntiMovement.stages.3.label>IV</TM_AntiMovement.stages.3.label>
+  <!--EN: overwhelmed-->
+  <TM_AntiMovement.stages.4.label>overwhelmed</TM_AntiMovement.stages.4.label>
+  <!--EN: Arcane power that decreases sight.-->
+  <TM_AntiSight.description>降低视力的神秘力量.</TM_AntiSight.description>
+  <!--EN: arcane blind-->
+  <TM_AntiSight.label>奥术致盲</TM_AntiSight.label>
+  <!--EN: I-->
+  <TM_AntiSight.stages.0.label>I</TM_AntiSight.stages.0.label>
+  <!--EN: II-->
+  <TM_AntiSight.stages.1.label>II</TM_AntiSight.stages.1.label>
+  <!--EN: III-->
+  <TM_AntiSight.stages.2.label>III</TM_AntiSight.stages.2.label>
+  <!--EN: IV-->
+  <TM_AntiSight.stages.3.label>IV</TM_AntiSight.stages.3.label>
+  <!--EN: overwhelmed-->
+  <TM_AntiSight.stages.4.label>不知所措</TM_AntiSight.stages.4.label>
+  <!--EN: Herbs, seeds, and other ingredients used by an apothecary to concoct a variety of items.-->
+  <TM_ApothecaryHerbsHD.description>药剂师用来调制各种物品的药草、种子和其他什么东西。</TM_ApothecaryHerbsHD.description>
+  <!--EN: apothecary herbs-->
+  <TM_ApothecaryHerbsHD.label>药剂师草药</TM_ApothecaryHerbsHD.label>
+  <!--EN: set-->
+  <TM_ArcaneHD.comps.0.labelSolidTendedWell>已固定</TM_ArcaneHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_ArcaneHD.comps.0.labelTendedWell>已包扎</TM_ArcaneHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_ArcaneHD.comps.0.labelTendedWellInner>已缝合</TM_ArcaneHD.comps.0.labelTendedWellInner>
+  <!--EN: destroyed by arcane power-->
+  <TM_ArcaneHD.comps.1.permanentLabel>被奥术能量摧毁</TM_ArcaneHD.comps.1.permanentLabel>
+  <!--EN: Destructive arcane power-->
+  <TM_ArcaneHD.description>毁灭性奥术能量</TM_ArcaneHD.description>
+  <!--EN: blasted off-->
+  <TM_ArcaneHD.injuryProps.destroyedLabel>毁坏</TM_ArcaneHD.injuryProps.destroyedLabel>
+  <!--EN: blasted out-->
+  <TM_ArcaneHD.injuryProps.destroyedOutLabel>毁掉</TM_ArcaneHD.injuryProps.destroyedOutLabel>
+  <!--EN: arcane-->
+  <TM_ArcaneHD.label>神秘之力</TM_ArcaneHD.label>
+  <!--EN: A sickness caused by tainted magic.-->
+  <TM_ArcaneSickness.description>由法力反噬引发的反噬</TM_ArcaneSickness.description>
+  <!--EN: arcane sickness-->
+  <TM_ArcaneSickness.label>奥术反噬</TM_ArcaneSickness.label>
+  <!--EN: minor-->
+  <TM_ArcaneSickness.stages.0.label>轻度</TM_ArcaneSickness.stages.0.label>
+  <!--EN: minor-->
+  <TM_ArcaneSickness.stages.1.label>轻度</TM_ArcaneSickness.stages.1.label>
+  <!--EN: moderate-->
+  <TM_ArcaneSickness.stages.2.label>中度</TM_ArcaneSickness.stages.2.label>
+  <!--EN: major-->
+  <TM_ArcaneSickness.stages.3.label>重度</TM_ArcaneSickness.stages.3.label>
+  <!--EN: extreme-->
+  <TM_ArcaneSickness.stages.4.label>极重</TM_ArcaneSickness.stages.4.label>
+  <!--EN: extreme-->
+  <TM_ArcaneSickness.stages.5.label>极重</TM_ArcaneSickness.stages.5.label>
+  <!--EN: Engraves the body with arcane symbols and markings.-->
+  <TM_ArcaneTatooPartHD.description>将奥术能量通过雕刻附魔的方式，刻印在身体上。</TM_ArcaneTatooPartHD.description>
+  <!--EN: runic body-->
+  <TM_ArcaneTatooPartHD.label>奥术附魔</TM_ArcaneTatooPartHD.label>
+  <!--EN: I-->
+  <TM_ArcaneTatooPartHD.stages.0.label>I</TM_ArcaneTatooPartHD.stages.0.label>
+  <!--EN: II-->
+  <TM_ArcaneTatooPartHD.stages.1.label>II</TM_ArcaneTatooPartHD.stages.1.label>
+  <!--EN: III-->
+  <TM_ArcaneTatooPartHD.stages.2.label>III</TM_ArcaneTatooPartHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_ArcaneTatooPartHD.stages.3.label>IV</TM_ArcaneTatooPartHD.stages.3.label>
+  <!--EN: Arcane Weakness is a byproduct of casting magical abilities. Minor abilities with a mana cost less than 25 will not incur Arcane Weakness. The amount of Arcane Weakness that will affect a mage is relative to the mana cost of the ability.-->
+  <TM_ArcaneWeakness.description>法力空虚是施法魔法的副作用。法力值低于25的次要魔法不会产生法力空虚。影响法师的法力空虚严重性与该技能的法力消耗有关.</TM_ArcaneWeakness.description>
+  <!--EN: arcane weakness-->
+  <TM_ArcaneWeakness.label>法力空虚</TM_ArcaneWeakness.label>
+  <!--EN: weakened-->
+  <TM_ArcaneWeakness.stages.0.label>虚弱</TM_ArcaneWeakness.stages.0.label>
+  <!--EN: drained-->
+  <TM_ArcaneWeakness.stages.1.label>严重</TM_ArcaneWeakness.stages.1.label>
+  <!--EN: severely ill-->
+  <TM_ArcaneWeakness.stages.2.label>耗尽</TM_ArcaneWeakness.stages.2.label>
+  <!--EN: catatonic-->
+  <TM_ArcaneWeakness.stages.3.label>无法行动</TM_ArcaneWeakness.stages.3.label>
+  <!--EN: near death-->
+  <TM_ArcaneWeakness.stages.4.label>濒临死亡</TM_ArcaneWeakness.stages.4.label>
+  <!--EN: regrown arm-->
+  <TM_ArmRegrowth.comps.1.tools.0.label>再生臂</TM_ArmRegrowth.comps.1.tools.0.label>
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_ArmRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生。</TM_ArmRegrowth.description>
+  <!--EN: Regrown Arm-->
+  <TM_ArmRegrowth.label>再生臂</TM_ArmRegrowth.label>
+  <!--EN: stub-->
+  <TM_ArmRegrowth.stages.0.label>存根</TM_ArmRegrowth.stages.0.label>
+  <!--EN: fledgling-->
+  <TM_ArmRegrowth.stages.1.label>新的</TM_ArmRegrowth.stages.1.label>
+  <!--EN: regrown-->
+  <TM_ArmRegrowth.stages.2.label>再生</TM_ArmRegrowth.stages.2.label>
+  <!--EN: wild-->
+  <TM_ArmRegrowth.stages.3.label>荒野</TM_ArmRegrowth.stages.3.label>
+  <!--EN: Increases the recovery rate from Arcane Weakness; does not reduce the amount of Arcane Weakness acquired.-->
+  <TM_ArtifactArcaneRecoveryHD.description>增加从奥术虚弱中恢复的速度；不减少获得的奥术虚弱的严重性.</TM_ArtifactArcaneRecoveryHD.description>
+  <!--EN: Arcane Recovery-->
+  <TM_ArtifactArcaneRecoveryHD.label>神秘复苏</TM_ArtifactArcaneRecoveryHD.label>
+  <!--EN: Blocks physical attacks; prevents damage from successfully blocked attacks.-->
+  <TM_ArtifactBlockHD.description>阻止物理攻击；不会受到被成功阻止的攻击造成的伤害。</TM_ArtifactBlockHD.description>
+  <!--EN: Blocking-->
+  <TM_ArtifactBlockHD.label>阻挡</TM_ArtifactBlockHD.label>
+  <!--EN: Improves sight and grants minor night vision.-->
+  <TM_ArtifactCatEyesHD.description>改善视力并提供轻微的夜视.</TM_ArtifactCatEyesHD.description>
+  <!--EN: Dark Sight-->
+  <TM_ArtifactCatEyesHD.label>黑暗的视线</TM_ArtifactCatEyesHD.label>
+  <!--EN: Blocks attacks and can deflect projectiles to nearby enemies; prevents damage from a successfully deflected attack.-->
+  <TM_ArtifactDeflectHD.description>阻挡攻击并能将子弹偏转到附近的敌人；不会受到被成功偏转的攻击造成的伤害.</TM_ArtifactDeflectHD.description>
+  <!--EN: Deflective Blocking-->
+  <TM_ArtifactDeflectHD.label>偏移阻挡</TM_ArtifactDeflectHD.label>
+  <!--EN: Increases natural healing.-->
+  <TM_ArtifactHealthHD.description>增加自然愈合效果.</TM_ArtifactHealthHD.description>
+  <!--EN: Improved Health-->
+  <TM_ArtifactHealthHD.label>改善健康</TM_ArtifactHealthHD.label>
+  <!--EN: Mends and repairs equipped apparel and weapons.-->
+  <TM_ArtifactMendingHD.description>修理身上的服装和武器。</TM_ArtifactMendingHD.description>
+  <!--EN: Mending-->
+  <TM_ArtifactMendingHD.label>修补</TM_ArtifactMendingHD.label>
+  <!--EN: A unique talisman that helps a pawn compartmentalize their emotions to quickly recover from a mental breakdown.-->
+  <TM_ArtifactMindHD.description>一种独特的护身魔法，可以帮助人们将他们的情绪分隔开来，以便从精神崩溃中迅速恢复。</TM_ArtifactMindHD.description>
+  <!--EN: Mind Ward-->
+  <TM_ArtifactMindHD.label>精神守护</TM_ArtifactMindHD.label>
+  <!--EN: A talisman that uncannily ascertains an easy path across any obstacle; bypasses the movement penalty for obstacles and terrain.-->
+  <TM_ArtifactPathfindingHD.description>一种护身魔法，能神奇地确定一条容易通过任何障碍物的路径；减少通过障碍物和地形的移动速度惩罚.</TM_ArtifactPathfindingHD.description>
+  <!--EN: Pathfinding-->
+  <TM_ArtifactPathfindingHD.label>寻路</TM_ArtifactPathfindingHD.label>
+  <!--EN: Improves the quality of sleep.-->
+  <TM_ArtifactRenewalHD.description>提高睡眠质量.</TM_ArtifactRenewalHD.description>
+  <!--EN: Renewal-->
+  <TM_ArtifactRenewalHD.label>重生</TM_ArtifactRenewalHD.label>
+  <!--EN: An enchantment that increases manipulation.-->
+  <TM_ArtifactStrengthHD.description>增加力量的魔法。</TM_ArtifactStrengthHD.description>
+  <!--EN: Strength of Stone-->
+  <TM_ArtifactStrengthHD.label>石之力量</TM_ArtifactStrengthHD.label>
+  <!--EN: Increases the maximum blood magic available to a blood mage.-->
+  <TM_Artifact_BloodBoostHD.description>增加血法师的最多血法力上限。</TM_Artifact_BloodBoostHD.description>
+  <!--EN: Blood Boost-->
+  <TM_Artifact_BloodBoostHD.label>血液循环</TM_Artifact_BloodBoostHD.label>
+  <!--EN: Increases the maximum hate available to a death knight.-->
+  <TM_Artifact_HateBoostHD.description>增加死亡骑士的仇恨上限。</TM_Artifact_HateBoostHD.description>
+  <!--EN: Hate Boost-->
+  <TM_Artifact_HateBoostHD.label>仇恨提升</TM_Artifact_HateBoostHD.label>
+  <!--EN: Increases the maximum psionic energy available to a psionic.-->
+  <TM_Artifact_PsionicBoostHD.description>增加灵能战斗的最多灵能上限.</TM_Artifact_PsionicBoostHD.description>
+  <!--EN: Psionic Boost-->
+  <TM_Artifact_PsionicBoostHD.label>心灵刺激</TM_Artifact_PsionicBoostHD.label>
+  <!--EN: Increases senses and perception.-->
+  <TM_AwarenessBrandHD.description>增强意识和思维。</TM_AwarenessBrandHD.description>
+  <!--EN: Awareness Brand-->
+  <TM_AwarenessBrandHD.label>知识印记</TM_AwarenessBrandHD.label>
+  <!--EN: dormant-->
+  <TM_AwarenessBrandHD.stages.0.label>休眠</TM_AwarenessBrandHD.stages.0.label>
+  <!--EN: I-->
+  <TM_AwarenessBrandHD.stages.1.label>I</TM_AwarenessBrandHD.stages.1.label>
+  <!--EN: surging VI-->
+  <TM_AwarenessBrandHD.stages.10.label>激增VI</TM_AwarenessBrandHD.stages.10.label>
+  <!--EN: II-->
+  <TM_AwarenessBrandHD.stages.2.label>II</TM_AwarenessBrandHD.stages.2.label>
+  <!--EN: III-->
+  <TM_AwarenessBrandHD.stages.3.label>III</TM_AwarenessBrandHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_AwarenessBrandHD.stages.4.label>IV</TM_AwarenessBrandHD.stages.4.label>
+  <!--EN: surging I-->
+  <TM_AwarenessBrandHD.stages.5.label>激增I</TM_AwarenessBrandHD.stages.5.label>
+  <!--EN: surging II-->
+  <TM_AwarenessBrandHD.stages.6.label>激增II</TM_AwarenessBrandHD.stages.6.label>
+  <!--EN: surging III-->
+  <TM_AwarenessBrandHD.stages.7.label>激增III</TM_AwarenessBrandHD.stages.7.label>
+  <!--EN: surging IV-->
+  <TM_AwarenessBrandHD.stages.8.label>激增IV</TM_AwarenessBrandHD.stages.8.label>
+  <!--EN: surging V-->
+  <TM_AwarenessBrandHD.stages.9.label>激增V</TM_AwarenessBrandHD.stages.9.label>
+  <!--EN: Inspired and energized by a battle hymn.-->
+  <TM_BattleHymnHD.description>受到战斗之曲的鼓舞。</TM_BattleHymnHD.description>
+  <!--EN: Battle Hymn-->
+  <TM_BattleHymnHD.label>战斗之曲</TM_BattleHymnHD.label>
+  <!--EN: I-->
+  <TM_BattleHymnHD.stages.0.label>I</TM_BattleHymnHD.stages.0.label>
+  <!--EN: II-->
+  <TM_BattleHymnHD.stages.1.label>II</TM_BattleHymnHD.stages.1.label>
+  <!--EN: III-->
+  <TM_BattleHymnHD.stages.2.label>III</TM_BattleHymnHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_BattleHymnHD.stages.3.label>IV</TM_BattleHymnHD.stages.3.label>
+  <!--EN: V-->
+  <TM_BattleHymnHD.stages.4.label>V</TM_BattleHymnHD.stages.4.label>
+  <!--EN: VI-->
+  <TM_BattleHymnHD.stages.5.label>VI</TM_BattleHymnHD.stages.5.label>
+  <!--EN: VII-->
+  <TM_BattleHymnHD.stages.6.label>VII</TM_BattleHymnHD.stages.6.label>
+  <!--EN: VIII-->
+  <TM_BattleHymnHD.stages.7.label>VIII</TM_BattleHymnHD.stages.7.label>
+  <!--EN: IX-->
+  <TM_BattleHymnHD.stages.8.label>IX</TM_BattleHymnHD.stages.8.label>
+  <!--EN: X-->
+  <TM_BattleHymnHD.stages.9.label>X</TM_BattleHymnHD.stages.9.label>
+  <!--EN: This pawn was recently granted the spark of magic.-->
+  <TM_BestowMagicClassHD.description>这个生物最近被赋予了魔法之源。</TM_BestowMagicClassHD.description>
+  <!--EN: Gift of Magic-->
+  <TM_BestowMagicClassHD.label>魔法之礼</TM_BestowMagicClassHD.label>
+  <!--EN: Increased movement while flying.-->
+  <TM_BirdflightHD.description>飞行时增加移动.</TM_BirdflightHD.description>
+  <!--EN: flying-->
+  <TM_BirdflightHD.label>飞行</TM_BirdflightHD.label>
+  <!--EN: Assistance provided by the Techno Bit.-->
+  <TM_BitAssistHD.description>哔哔小子提供的帮助。</TM_BitAssistHD.description>
+  <!--EN: bit assist-->
+  <TM_BitAssistHD.label>哔哔小子辅助</TM_BitAssistHD.label>
+  <!--EN: I-->
+  <TM_BitAssistHD.stages.0.label>I</TM_BitAssistHD.stages.0.label>
+  <!--EN: II-->
+  <TM_BitAssistHD.stages.1.label>II</TM_BitAssistHD.stages.1.label>
+  <!--EN: XI-->
+  <TM_BitAssistHD.stages.10.label>XI</TM_BitAssistHD.stages.10.label>
+  <!--EN: XII-->
+  <TM_BitAssistHD.stages.11.label>XII</TM_BitAssistHD.stages.11.label>
+  <!--EN: XIII-->
+  <TM_BitAssistHD.stages.12.label>XIII</TM_BitAssistHD.stages.12.label>
+  <!--EN: XIV-->
+  <TM_BitAssistHD.stages.13.label>XIV</TM_BitAssistHD.stages.13.label>
+  <!--EN: XV-->
+  <TM_BitAssistHD.stages.14.label>XV</TM_BitAssistHD.stages.14.label>
+  <!--EN: III-->
+  <TM_BitAssistHD.stages.2.label>III</TM_BitAssistHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_BitAssistHD.stages.3.label>IV</TM_BitAssistHD.stages.3.label>
+  <!--EN: V-->
+  <TM_BitAssistHD.stages.4.label>V</TM_BitAssistHD.stages.4.label>
+  <!--EN: VI-->
+  <TM_BitAssistHD.stages.5.label>VI</TM_BitAssistHD.stages.5.label>
+  <!--EN: VII-->
+  <TM_BitAssistHD.stages.6.label>VII</TM_BitAssistHD.stages.6.label>
+  <!--EN: VIII-->
+  <TM_BitAssistHD.stages.7.label>VIII</TM_BitAssistHD.stages.7.label>
+  <!--EN: IX-->
+  <TM_BitAssistHD.stages.8.label>IX</TM_BitAssistHD.stages.8.label>
+  <!--EN: X-->
+  <TM_BitAssistHD.stages.9.label>X</TM_BitAssistHD.stages.9.label>
+  <!--EN: Bladedancer stat boon.-->
+  <TM_BladeArtHD.description>刀锋舞者的专属恩惠:刀剑艺术</TM_BladeArtHD.description>
+  <!--EN: Bladedancer-->
+  <TM_BladeArtHD.label>刀剑艺术</TM_BladeArtHD.label>
+  <!--EN: I-->
+  <TM_BladeArtHD.stages.0.label>I</TM_BladeArtHD.stages.0.label>
+  <!--EN: II-->
+  <TM_BladeArtHD.stages.1.label>II</TM_BladeArtHD.stages.1.label>
+  <!--EN: III-->
+  <TM_BladeArtHD.stages.2.label>III</TM_BladeArtHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_BladeArtHD.stages.3.label>IV</TM_BladeArtHD.stages.3.label>
+  <!--EN: set-->
+  <TM_BlazingPowerHD.comps.0.labelSolidTendedWell>已固定</TM_BlazingPowerHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_BlazingPowerHD.comps.0.labelTendedWell>已包扎</TM_BlazingPowerHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_BlazingPowerHD.comps.0.labelTendedWellInner>已缝合</TM_BlazingPowerHD.comps.0.labelTendedWellInner>
+  <!--EN: destroyed by blazing power-->
+  <TM_BlazingPowerHD.comps.1.permanentLabel>被烈焰能量摧毁</TM_BlazingPowerHD.comps.1.permanentLabel>
+  <!--EN: Arcane power directed through a focusing vessel.-->
+  <TM_BlazingPowerHD.description>通过聚焦集中的魔法能量.</TM_BlazingPowerHD.description>
+  <!--EN: destroyed-->
+  <TM_BlazingPowerHD.injuryProps.destroyedLabel>毁坏</TM_BlazingPowerHD.injuryProps.destroyedLabel>
+  <!--EN: destroyed-->
+  <TM_BlazingPowerHD.injuryProps.destroyedOutLabel>毁掉</TM_BlazingPowerHD.injuryProps.destroyedOutLabel>
+  <!--EN: Blazing Power-->
+  <TM_BlazingPowerHD.label>闪耀之力</TM_BlazingPowerHD.label>
+  <!--EN: Reduces sight.-->
+  <TM_Blind.description>减少视力。</TM_Blind.description>
+  <!--EN: Blinded-->
+  <TM_Blind.label>目盲</TM_Blind.label>
+  <!--EN: I-->
+  <TM_Blind.stages.0.label>I</TM_Blind.stages.0.label>
+  <!--EN: II-->
+  <TM_Blind.stages.1.label>II</TM_Blind.stages.1.label>
+  <!--EN: III-->
+  <TM_Blind.stages.2.label>III</TM_Blind.stages.2.label>
+  <!--EN: Transfers blood from this target to a blood mage. Heals wounds in the process.-->
+  <TM_BloodForBloodHD.description>该目标的鲜血流向血法师，并治愈施法者。</TM_BloodForBloodHD.description>
+  <!--EN: Blood Drain-->
+  <TM_BloodForBloodHD.label>血液流失</TM_BloodForBloodHD.label>
+  <!--EN: Accounts for the blood power of a blood mage.-->
+  <TM_BloodHD.description>鲜血法师特有的能量。</TM_BloodHD.description>
+  <!--EN: Blood Magic-->
+  <TM_BloodHD.label>血魔法</TM_BloodHD.label>
+  <!--EN: Enveloped in a protective bubble of life energy; energy from each blow to the Blood Shield restores health to the protected pawn.-->
+  <TM_BloodShieldHD.description>用施法者的血液能量形成的屏障包围目标。来自护盾的能量将缓慢地再生它所保护的单位。</TM_BloodShieldHD.description>
+  <!--EN: Blood Shield-->
+  <TM_BloodShieldHD.label>血魄护盾</TM_BloodShieldHD.label>
+  <!--EN: set-->
+  <TM_BloodyCutHD.comps.0.labelSolidTendedWell>已固定</TM_BloodyCutHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_BloodyCutHD.comps.0.labelTendedWell>已包扎</TM_BloodyCutHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_BloodyCutHD.comps.0.labelTendedWellInner>已缝合</TM_BloodyCutHD.comps.0.labelTendedWellInner>
+  <!--EN: cut scar-->
+  <TM_BloodyCutHD.comps.2.permanentLabel>刀伤疤痕</TM_BloodyCutHD.comps.2.permanentLabel>
+  <!--EN: A deep cut that bleeds profusely.-->
+  <TM_BloodyCutHD.description>大量出血的伤口.</TM_BloodyCutHD.description>
+  <!--EN: Cut off-->
+  <TM_BloodyCutHD.injuryProps.destroyedLabel>切开</TM_BloodyCutHD.injuryProps.destroyedLabel>
+  <!--EN: Cut out-->
+  <TM_BloodyCutHD.injuryProps.destroyedOutLabel>切断</TM_BloodyCutHD.injuryProps.destroyedOutLabel>
+  <!--EN: bloody cut-->
+  <TM_BloodyCutHD.label>出血</TM_BloodyCutHD.label>
+  <!--EN: a bloody cut-->
+  <TM_BloodyCutHD.labelNoun>流血伤口</TM_BloodyCutHD.labelNoun>
+  <!--EN: Manipulates possibility to avoid damage.-->
+  <TM_BlurHD.description>影响別人的视野</TM_BlurHD.description>
+  <!--EN: Blur-->
+  <TM_BlurHD.label>模糊</TM_BlurHD.label>
+  <!--EN: Ranger stat and bow enhancement boon.-->
+  <TM_BowTrainingHD.description>漫游者的专属恩惠:弓箭精通。</TM_BowTrainingHD.description>
+  <!--EN: Bow Mastery-->
+  <TM_BowTrainingHD.label>弓箭精通</TM_BowTrainingHD.label>
+  <!--EN: I-->
+  <TM_BowTrainingHD.stages.0.label>I</TM_BowTrainingHD.stages.0.label>
+  <!--EN: II-->
+  <TM_BowTrainingHD.stages.1.label>II</TM_BowTrainingHD.stages.1.label>
+  <!--EN: III-->
+  <TM_BowTrainingHD.stages.2.label>III</TM_BowTrainingHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_BowTrainingHD.stages.3.label>IV</TM_BowTrainingHD.stages.3.label>
+  <!--EN: Arcane power that enhances the efficiency and capacity of breathing.-->
+  <TM_Breathing.description>提高呼吸效率和能力的神秘力量.</TM_Breathing.description>
+  <!--EN: infused oxygen-->
+  <TM_Breathing.label>奥术呼吸</TM_Breathing.label>
+  <!--EN: I-->
+  <TM_Breathing.stages.0.label>I</TM_Breathing.stages.0.label>
+  <!--EN: II-->
+  <TM_Breathing.stages.1.label>II</TM_Breathing.stages.1.label>
+  <!--EN: III-->
+  <TM_Breathing.stages.2.label>III</TM_Breathing.stages.2.label>
+  <!--EN: IV-->
+  <TM_Breathing.stages.3.label>IV</TM_Breathing.stages.3.label>
+  <!--EN: V-->
+  <TM_Breathing.stages.4.label>V</TM_Breathing.stages.4.label>
+  <!--EN: Occurs when exposed to extremely cold temperatures and causes bones and ligaments to become brittle which reduces movement and manipulation. Undead with this condition require 50% additional mana to sustain.-->
+  <TM_BrittleBonesHD.description>当暴露在极冷的温度下时发生，导致骨骼和韧带变脆，从而减少运动和操作能力。这种情况下的亡灵需要额外50%的法力来维持。</TM_BrittleBonesHD.description>
+  <!--EN: Brittle bones-->
+  <TM_BrittleBonesHD.label>脆弱的骨头</TM_BrittleBonesHD.label>
+  <!--EN: I-->
+  <TM_BrittleBonesHD.stages.0.label>I</TM_BrittleBonesHD.stages.0.label>
+  <!--EN: II-->
+  <TM_BrittleBonesHD.stages.1.label>II</TM_BrittleBonesHD.stages.1.label>
+  <!--EN: III-->
+  <TM_BrittleBonesHD.stages.2.label>III</TM_BrittleBonesHD.stages.2.label>
+  <!--EN: Charging into battle.-->
+  <TM_BullChargeHD.description>冲向战场。</TM_BullChargeHD.description>
+  <!--EN: charge-->
+  <TM_BullChargeHD.label>冲锋</TM_BullChargeHD.label>
+  <!--EN: Emits a shield of raw energy that both deflects attacks and inflicts harm on nearby enemies.-->
+  <TM_BurningFuryHD.description>一个能量护盾，既可以转移攻击，又可以对附近的敌人造成伤害。</TM_BurningFuryHD.description>
+  <!--EN: Burning Fury-->
+  <TM_BurningFuryHD.label>狂怒</TM_BurningFuryHD.label>
+  <!--EN: I-->
+  <TM_BurningFuryHD.stages.0.label>I</TM_BurningFuryHD.stages.0.label>
+  <!--EN: Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.-->
+  <TM_ChaosTraditionHD.description>通过客观的解释来控制现实，从而提高混沌法师的身体和精神的稳定性。</TM_ChaosTraditionHD.description>
+  <!--EN: Chaotic Flux-->
+  <TM_ChaosTraditionHD.label>混沌通量</TM_ChaosTraditionHD.label>
+  <!--EN: I-->
+  <TM_ChaosTraditionHD.stages.0.label>I</TM_ChaosTraditionHD.stages.0.label>
+  <!--EN: II-->
+  <TM_ChaosTraditionHD.stages.1.label>II</TM_ChaosTraditionHD.stages.1.label>
+  <!--EN: III-->
+  <TM_ChaosTraditionHD.stages.2.label>III</TM_ChaosTraditionHD.stages.2.label>
+  <!--EN: Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.-->
+  <TM_ChaoticMindHD.description>通过客观的解释来控制现实，从而提高混沌法师的身体和精神的稳定性。</TM_ChaoticMindHD.description>
+  <!--EN: Chaotic Mind-->
+  <TM_ChaoticMindHD.label>混沌之脑</TM_ChaoticMindHD.label>
+  <!--EN: thought-->
+  <TM_ChaoticMindHD.stages.0.label>思想</TM_ChaoticMindHD.stages.0.label>
+  <!--EN: set-->
+  <TM_ChiBurnHD.comps.0.labelSolidTendedWell>已固定</TM_ChiBurnHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_ChiBurnHD.comps.0.labelTendedWell>已包扎</TM_ChiBurnHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_ChiBurnHD.comps.0.labelTendedWellInner>已缝合</TM_ChiBurnHD.comps.0.labelTendedWellInner>
+  <!--EN: destroyed-->
+  <TM_ChiBurnHD.comps.1.permanentLabel>摧毁</TM_ChiBurnHD.comps.1.permanentLabel>
+  <!--EN: Damage sustained from a burst of ch'i energy.-->
+  <TM_ChiBurnHD.description>真气爆发造成的伤害。</TM_ChiBurnHD.description>
+  <!--EN: burned-->
+  <TM_ChiBurnHD.injuryProps.destroyedLabel>毁坏</TM_ChiBurnHD.injuryProps.destroyedLabel>
+  <!--EN: disintegrated-->
+  <TM_ChiBurnHD.injuryProps.destroyedOutLabel>毁掉</TM_ChiBurnHD.injuryProps.destroyedOutLabel>
+  <!--EN: Chi burn-->
+  <TM_ChiBurnHD.label>真气</TM_ChiBurnHD.label>
+  <!--EN: set-->
+  <TM_ChiFistHD.comps.0.labelSolidTendedWell>已固定</TM_ChiFistHD.comps.0.labelSolidTendedWell>
+  <!--EN: tended-->
+  <TM_ChiFistHD.comps.0.labelTendedWell>照顾</TM_ChiFistHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_ChiFistHD.comps.0.labelTendedWellInner>已缝合</TM_ChiFistHD.comps.0.labelTendedWellInner>
+  <!--EN: destroyed-->
+  <TM_ChiFistHD.comps.1.permanentLabel>摧毁</TM_ChiFistHD.comps.1.permanentLabel>
+  <!--EN: A melee strike from a monk.-->
+  <TM_ChiFistHD.description>僧侣的近战一击。</TM_ChiFistHD.description>
+  <!--EN: broken-->
+  <TM_ChiFistHD.injuryProps.destroyedLabel>毁坏</TM_ChiFistHD.injuryProps.destroyedLabel>
+  <!--EN: removed-->
+  <TM_ChiFistHD.injuryProps.destroyedOutLabel>毁掉</TM_ChiFistHD.injuryProps.destroyedOutLabel>
+  <!--EN: strike-->
+  <TM_ChiFistHD.label>击打</TM_ChiFistHD.label>
+  <!--EN: Accounts for the unique energy utilized by a Monk.-->
+  <TM_ChiHD.description>一个和尚使用的独特能量.</TM_ChiHD.description>
+  <!--EN: Ch'i-->
+  <TM_ChiHD.label>“气”</TM_ChiHD.label>
+  <!--EN: Actions are being influenced by a master of deception.-->
+  <TM_CoOpPossessionHD.description>身体被无面者占据，且受其影响。</TM_CoOpPossessionHD.description>
+  <!--EN: Possessed-->
+  <TM_CoOpPossessionHD.label>占据</TM_CoOpPossessionHD.label>
+  <!--EN: I-->
+  <TM_CoOpPossessionHD.stages.0.label>I</TM_CoOpPossessionHD.stages.0.label>
+  <!--EN: Actions are being influenced by a master of deception.-->
+  <TM_CoOpPossessionHD_I.description>身体被无面者占据，且受其影响。</TM_CoOpPossessionHD_I.description>
+  <!--EN: Possessed-->
+  <TM_CoOpPossessionHD_I.label>占据</TM_CoOpPossessionHD_I.label>
+  <!--EN: II-->
+  <TM_CoOpPossessionHD_I.stages.0.label>II</TM_CoOpPossessionHD_I.stages.0.label>
+  <!--EN: Actions are being influenced by a master of deception.-->
+  <TM_CoOpPossessionHD_II.description>身体被无面者占据，且受其影响。</TM_CoOpPossessionHD_II.description>
+  <!--EN: Possessed-->
+  <TM_CoOpPossessionHD_II.label>占据</TM_CoOpPossessionHD_II.label>
+  <!--EN: III-->
+  <TM_CoOpPossessionHD_II.stages.0.label>III</TM_CoOpPossessionHD_II.stages.0.label>
+  <!--EN: Actions are being influenced by a master of deception.-->
+  <TM_CoOpPossessionHD_III.description>身体被无面者占据，且受其影响。</TM_CoOpPossessionHD_III.description>
+  <!--EN: Possessed-->
+  <TM_CoOpPossessionHD_III.label>占据</TM_CoOpPossessionHD_III.label>
+  <!--EN: IV-->
+  <TM_CoOpPossessionHD_III.stages.0.label>IV</TM_CoOpPossessionHD_III.stages.0.label>
+  <!--EN: Combat drugs enhancing accuracy-->
+  <TM_CombatDrugsAccuracy_HD.description>提高准确性的战斗药物。</TM_CombatDrugsAccuracy_HD.description>
+  <!--EN: Combat Drugs (accuracy)-->
+  <TM_CombatDrugsAccuracy_HD.label>战斗药物 (精准)</TM_CombatDrugsAccuracy_HD.label>
+  <!--EN: Combat drugs enhancing awareness-->
+  <TM_CombatDrugsAwareness_HD.description>提高觉知的战斗药物。</TM_CombatDrugsAwareness_HD.description>
+  <!--EN: Combat Drugs (awareness)-->
+  <TM_CombatDrugsAwareness_HD.label>战斗药物 (意识)</TM_CombatDrugsAwareness_HD.label>
+  <!--EN: Combat drugs enhancing movement-->
+  <TM_CombatDrugsMoving_HD.description>增强移动的战斗药物</TM_CombatDrugsMoving_HD.description>
+  <!--EN: Combat Drugs (movement)-->
+  <TM_CombatDrugsMoving_HD.label>战斗药物 (移动)</TM_CombatDrugsMoving_HD.label>
+  <!--EN: Combat drugs reducing pain-->
+  <TM_CombatDrugsPain_HD.description>用于减少疼痛的止痛药</TM_CombatDrugsPain_HD.description>
+  <!--EN: Combat Drugs (painkiller)-->
+  <TM_CombatDrugsPain_HD.label>战斗药物（止痛药）</TM_CombatDrugsPain_HD.label>
+  <!--EN: Inspires nearby pawns with charisma and leadership.-->
+  <TM_CommanderAuraHD.description>周期性激励附近的盟友。</TM_CommanderAuraHD.description>
+  <!--EN: Commander Aura-->
+  <TM_CommanderAuraHD.label>指挥官光环</TM_CommanderAuraHD.label>
+  <!--EN: Inspired by a Commander.-->
+  <TM_CommanderHD.description>受到指挥官的鼓舞。</TM_CommanderHD.description>
+  <!--EN: Emotionally Inspired (I)-->
+  <TM_CommanderHD.label>鼓舞 (I)</TM_CommanderHD.label>
+  <!--EN: Commander-->
+  <TM_CommanderHD.stages.0.label>指挥官</TM_CommanderHD.stages.0.label>
+  <!--EN: Inspired by a Commander.-->
+  <TM_CommanderHD_I.description>受到指挥官的鼓舞。</TM_CommanderHD_I.description>
+  <!--EN: Emotionally Inspired (II)-->
+  <TM_CommanderHD_I.label>鼓舞 (II)</TM_CommanderHD_I.label>
+  <!--EN: Inspired by a Commander.-->
+  <TM_CommanderHD_II.description>受到指挥官的鼓舞。</TM_CommanderHD_II.description>
+  <!--EN: Emotionally Inspired (III)-->
+  <TM_CommanderHD_II.label>鼓舞 (III)</TM_CommanderHD_II.label>
+  <!--EN: Inspired by a Commander.-->
+  <TM_CommanderHD_III.description>受到指挥官的鼓舞。</TM_CommanderHD_III.description>
+  <!--EN: Emotionally Inspired (IV)-->
+  <TM_CommanderHD_III.label>鼓舞(IV)</TM_CommanderHD_III.label>
+  <!--EN: Frequently causes a target to become confused.-->
+  <TM_Confused.description>使目标变得混乱。</TM_Confused.description>
+  <!--EN: Confused-->
+  <TM_Confused.label>混乱</TM_Confused.label>
+  <!--EN: Wandering confused-->
+  <TM_Confused.stages.0.label>彷徨</TM_Confused.stages.0.label>
+  <!--EN: Exercising control of reality through objective interpretation that results in the emphasis of the physical and mental solidity of a Chaos Mage.-->
+  <TM_ControlledChaosHD.description>通过客观的解释来控制现实，从而提高混沌法师的身体和精神的稳定性。</TM_ControlledChaosHD.description>
+  <!--EN: Controlled Chaos-->
+  <TM_ControlledChaosHD.label>可控性混沌</TM_ControlledChaosHD.label>
+  <!--EN: CHAOS-->
+  <TM_ControlledChaosHD.stages.0.label>混乱</TM_ControlledChaosHD.stages.0.label>
+  <!--EN: A small boon that cools and increases resistance to high temperatures.-->
+  <TM_CoolHD.description>一个小恩惠，可以冷却并增加对高温的抵抗力。</TM_CoolHD.description>
+  <!--EN: Heat Protection-->
+  <TM_CoolHD.label>恩惠（高温）</TM_CoolHD.label>
+  <!--EN: Cooler-->
+  <TM_CoolHD.stages.0.label>冷却器</TM_CoolHD.stages.0.label>
+  <!--EN: Insight gained from the spirit crow - enhances research speed and psychic sensitivity.-->
+  <TM_CrowInsightHD.description>从幽灵乌鸦获得的洞察力-提高研究速度和心灵敏感性。</TM_CrowInsightHD.description>
+  <!--EN: Crows Insight-->
+  <TM_CrowInsightHD.label>乌鸦洞察</TM_CrowInsightHD.label>
+  <!--EN: I-->
+  <TM_CrowInsightHD.stages.0.label>I</TM_CrowInsightHD.stages.0.label>
+  <!--EN: II-->
+  <TM_CrowInsightHD.stages.1.label>II</TM_CrowInsightHD.stages.1.label>
+  <!--EN: III-->
+  <TM_CrowInsightHD.stages.2.label>III</TM_CrowInsightHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_CrowInsightHD.stages.3.label>IV</TM_CrowInsightHD.stages.3.label>
+  <!--EN: Arcane curse is a byproduct of the cursed trait. The cursed pawn is constantly affected by arcane weakness that will gradually increase until it is a persistent illness. The effects of the curse can be offset by using magic, however, the pain caused by the curse does provide a unique clarity. The curse can be lifted by removing the pawn's magical trait.-->
+  <TM_CursedHD.description>奥术诅咒是受诅咒者特性的产物。 被诅咒的人不断受到奥术弱点的影响，这种弱点会逐渐增加，直到它成为一种持续的疾病。 诅咒的效果可以通过使用魔法来抵消，然而，诅咒造成的痛苦确实提供了一个独特的意识加成。没有魔法特性的小人将不再受到奥术诅咒。</TM_CursedHD.description>
+  <!--EN: arcane curse-->
+  <TM_CursedHD.label>奥术诅咒</TM_CursedHD.label>
+  <!--EN: faded-->
+  <TM_CursedHD.stages.0.label>微弱</TM_CursedHD.stages.0.label>
+  <!--EN: moderate-->
+  <TM_CursedHD.stages.1.label>中度</TM_CursedHD.stages.1.label>
+  <!--EN: heightened-->
+  <TM_CursedHD.stages.2.label>严重</TM_CursedHD.stages.2.label>
+  <!--EN: set-->
+  <TM_DeathBoltHD.comps.0.labelSolidTendedWell>已固定</TM_DeathBoltHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_DeathBoltHD.comps.0.labelTendedWell>已包扎</TM_DeathBoltHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_DeathBoltHD.comps.0.labelTendedWellInner>已缝合</TM_DeathBoltHD.comps.0.labelTendedWellInner>
+  <!--EN: melted-->
+  <TM_DeathBoltHD.comps.1.permanentLabel>融化了</TM_DeathBoltHD.comps.1.permanentLabel>
+  <!--EN: Destructive energy that kills all living things.-->
+  <TM_DeathBoltHD.description>杀死所有生物的破坏性能量。</TM_DeathBoltHD.description>
+  <!--EN: melted off-->
+  <TM_DeathBoltHD.injuryProps.destroyedLabel>融化掉</TM_DeathBoltHD.injuryProps.destroyedLabel>
+  <!--EN: melted-->
+  <TM_DeathBoltHD.injuryProps.destroyedOutLabel>融化</TM_DeathBoltHD.injuryProps.destroyedOutLabel>
+  <!--EN: death bolt-->
+  <TM_DeathBoltHD.label>死亡螺旋</TM_DeathBoltHD.label>
+  <!--EN: Periodically strikes nearby targets with death magic.-->
+  <TM_DeathFieldHD.description>周期性地用死亡能量攻击附近的敌人。</TM_DeathFieldHD.description>
+  <!--EN: Death Field-->
+  <TM_DeathFieldHD.label>死亡领域</TM_DeathFieldHD.label>
+  <!--EN: Marked by death, this pawn is unable to focus on the present due to their focus on their inevitable death.-->
+  <TM_DeathMarkCurse.description>以死亡为印记，这个生物无法专注于现在，因为他们专注于他们不可避免的死亡。</TM_DeathMarkCurse.description>
+  <!--EN: Death Mark-->
+  <TM_DeathMarkCurse.label>死亡印记</TM_DeathMarkCurse.label>
+  <!--EN: clumsy-->
+  <TM_DeathMarkCurse.stages.0.label>笨拙</TM_DeathMarkCurse.stages.0.label>
+  <!--EN: fumbling-->
+  <TM_DeathMarkCurse.stages.1.label>摸索</TM_DeathMarkCurse.stages.1.label>
+  <!--EN: cursed-->
+  <TM_DeathMarkCurse.stages.2.label>诅咒</TM_DeathMarkCurse.stages.2.label>
+  <!--EN: Marked by death, this pawn will soon die and be reanimated as an undead. (not used)-->
+  <TM_DeathMarkHD.description>以死亡为印记，这个生物将很快死亡并作为亡灵复活。（未使用）</TM_DeathMarkHD.description>
+  <!--EN: Death Mark-->
+  <TM_DeathMarkHD.label>死亡印记</TM_DeathMarkHD.label>
+  <!--EN: The backlash resulting from reversing death.-->
+  <TM_DeathReversalHD.description>逆转死亡所引起的反弹。</TM_DeathReversalHD.description>
+  <!--EN: Returned from Death-->
+  <TM_DeathReversalHD.label>死而复生</TM_DeathReversalHD.label>
+  <!--EN: I-->
+  <TM_DeathReversalHD.stages.0.label>I</TM_DeathReversalHD.stages.0.label>
+  <!--EN: II-->
+  <TM_DeathReversalHD.stages.1.label>II</TM_DeathReversalHD.stages.1.label>
+  <!--EN: III-->
+  <TM_DeathReversalHD.stages.2.label>III</TM_DeathReversalHD.stages.2.label>
+  <!--EN: treated-->
+  <TM_DecayDamage.comps.0.labelSolidTendedWell>处理</TM_DecayDamage.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_DecayDamage.comps.0.labelTendedWell>已包扎</TM_DecayDamage.comps.0.labelTendedWell>
+  <!--EN: tended-->
+  <TM_DecayDamage.comps.0.labelTendedWellInner>照顾</TM_DecayDamage.comps.0.labelTendedWellInner>
+  <!--EN: lifeless-->
+  <TM_DecayDamage.comps.1.permanentLabel>失去生机</TM_DecayDamage.comps.1.permanentLabel>
+  <!--EN: Organic decay.-->
+  <TM_DecayDamage.description>腐朽</TM_DecayDamage.description>
+  <!--EN: lifeless-->
+  <TM_DecayDamage.injuryProps.destroyedLabel>毫无生气</TM_DecayDamage.injuryProps.destroyedLabel>
+  <!--EN: decayed-->
+  <TM_DecayDamage.injuryProps.destroyedOutLabel>腐烂的</TM_DecayDamage.injuryProps.destroyedOutLabel>
+  <!--EN: Decay-->
+  <TM_DecayDamage.label>腐朽之触</TM_DecayDamage.label>
+  <!--EN: Rapidly decays, corrodes, and dissolves material and tissue.-->
+  <TM_DecayHD.description>迅速腐烂，腐蚀，并溶解物质和组织。</TM_DecayHD.description>
+  <!--EN: Decay-->
+  <TM_DecayHD.label>腐朽之触</TM_DecayHD.label>
+  <!--EN: Demonic flames that swirl and writhe around the form of a demon.-->
+  <TM_DemonHD.description>恶魔火焰围绕着恶魔旋转和扭曲。</TM_DemonHD.description>
+  <!--EN: Demonic Flames-->
+  <TM_DemonHD.label>恶魔火焰</TM_DemonHD.label>
+  <!--EN: The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.-->
+  <TM_DemonScornHD.description>恶魔化，增加免伤和伤害。</TM_DemonScornHD.description>
+  <!--EN: Demon's Scorn-->
+  <TM_DemonScornHD.label>恶魔的蔑视</TM_DemonScornHD.label>
+  <!--EN: I-->
+  <TM_DemonScornHD.stages.0.label>I</TM_DemonScornHD.stages.0.label>
+  <!--EN: The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.-->
+  <TM_DemonScornHD_I.description>恶魔化，增加免伤和伤害。</TM_DemonScornHD_I.description>
+  <!--EN: Demon's Scorn-->
+  <TM_DemonScornHD_I.label>恶魔的蔑视</TM_DemonScornHD_I.label>
+  <!--EN: II-->
+  <TM_DemonScornHD_I.stages.0.label>II</TM_DemonScornHD_I.stages.0.label>
+  <!--EN: The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.-->
+  <TM_DemonScornHD_II.description>恶魔化，增加免伤和伤害。</TM_DemonScornHD_II.description>
+  <!--EN: Demon's Scorn-->
+  <TM_DemonScornHD_II.label>恶魔的蔑视</TM_DemonScornHD_II.label>
+  <!--EN: III-->
+  <TM_DemonScornHD_II.stages.0.label>III</TM_DemonScornHD_II.stages.0.label>
+  <!--EN: The partial transformation of a succubus into a demon; grants increased physical powers and absorbs damage.-->
+  <TM_DemonScornHD_III.description>恶魔化，增加免伤和伤害。</TM_DemonScornHD_III.description>
+  <!--EN: Demon's Scorn-->
+  <TM_DemonScornHD_III.label>恶魔的蔑视</TM_DemonScornHD_III.label>
+  <!--EN: IV-->
+  <TM_DemonScornHD_III.stages.0.label>IV</TM_DemonScornHD_III.stages.0.label>
+  <!--EN: Flames of destruction that will never cease until they consume the soul of this pawn.-->
+  <TM_DemonicPriceHD.description>毁灭的烈焰灼烧着灵魂。</TM_DemonicPriceHD.description>
+  <!--EN: Soul Consumption-->
+  <TM_DemonicPriceHD.label>灵魂消耗</TM_DemonicPriceHD.label>
+  <!--EN: set-->
+  <TM_DisablingBlowHD.comps.0.labelSolidTendedWell>已固定</TM_DisablingBlowHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_DisablingBlowHD.comps.0.labelTendedWell>已包扎</TM_DisablingBlowHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_DisablingBlowHD.comps.0.labelTendedWellInner>已缝合</TM_DisablingBlowHD.comps.0.labelTendedWellInner>
+  <!--EN: smashed-->
+  <TM_DisablingBlowHD.comps.2.permanentLabel>粉碎</TM_DisablingBlowHD.comps.2.permanentLabel>
+  <!--EN: A melee blow meant to disable rather than kill.-->
+  <TM_DisablingBlowHD.description>一种近战打击，意在使人丧失能力而不是杀人。</TM_DisablingBlowHD.description>
+  <!--EN: smashed-->
+  <TM_DisablingBlowHD.injuryProps.destroyedLabel>切开</TM_DisablingBlowHD.injuryProps.destroyedLabel>
+  <!--EN: crushed-->
+  <TM_DisablingBlowHD.injuryProps.destroyedOutLabel>切断</TM_DisablingBlowHD.injuryProps.destroyedOutLabel>
+  <!--EN: disabling blow-->
+  <TM_DisablingBlowHD.label>致残打击</TM_DisablingBlowHD.label>
+  <!--EN: set-->
+  <TM_DisablingShot_HD.comps.0.labelSolidTendedWell>已固定</TM_DisablingShot_HD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_DisablingShot_HD.comps.0.labelTendedWell>已包扎</TM_DisablingShot_HD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_DisablingShot_HD.comps.0.labelTendedWellInner>已缝合</TM_DisablingShot_HD.comps.0.labelTendedWellInner>
+  <!--EN: shot off-->
+  <TM_DisablingShot_HD.comps.2.permanentLabel>射掉</TM_DisablingShot_HD.comps.2.permanentLabel>
+  <!--EN: A projectile designed to disable rather than kill.-->
+  <TM_DisablingShot_HD.description>一种设计成使人丧失能力而不是杀人的炮弹。</TM_DisablingShot_HD.description>
+  <!--EN: shot off-->
+  <TM_DisablingShot_HD.injuryProps.destroyedLabel>射伤</TM_DisablingShot_HD.injuryProps.destroyedLabel>
+  <!--EN: shot out-->
+  <TM_DisablingShot_HD.injuryProps.destroyedOutLabel>射毁</TM_DisablingShot_HD.injuryProps.destroyedOutLabel>
+  <!--EN: disabling shot-->
+  <TM_DisablingShot_HD.label>残废射击</TM_DisablingShot_HD.label>
+  <!--EN: Under mental duress.-->
+  <TM_DiscordHD.description>在精神压力下。</TM_DiscordHD.description>
+  <!--EN: Discord-->
+  <TM_DiscordHD.label>纪声</TM_DiscordHD.label>
+  <!--EN: mental haze-->
+  <TM_DiscordHD.stages.0.label>精神阴霾</TM_DiscordHD.stages.0.label>
+  <!--EN: distortion-->
+  <TM_DiscordHD.stages.1.label>精神畸变</TM_DiscordHD.stages.1.label>
+  <!--EN: unstable-->
+  <TM_DiscordHD.stages.2.label>精神不安</TM_DiscordHD.stages.2.label>
+  <!--EN: insanity-->
+  <TM_DiscordHD.stages.3.label>精神错乱</TM_DiscordHD.stages.3.label>
+  <!--EN: Under mental duress.-->
+  <TM_DiscordSafeHD.description>在精神压力下。</TM_DiscordSafeHD.description>
+  <!--EN: Discord-->
+  <TM_DiscordSafeHD.label>纪声</TM_DiscordSafeHD.label>
+  <!--EN: mental haze-->
+  <TM_DiscordSafeHD.stages.0.label>精神阴霾</TM_DiscordSafeHD.stages.0.label>
+  <!--EN: distortion-->
+  <TM_DiscordSafeHD.stages.1.label>精神畸变</TM_DiscordSafeHD.stages.1.label>
+  <!--EN: unstable-->
+  <TM_DiscordSafeHD.stages.2.label>精神不安</TM_DiscordSafeHD.stages.2.label>
+  <!--EN: overwhelmed-->
+  <TM_DiscordSafeHD.stages.3.label>精神错乱</TM_DiscordSafeHD.stages.3.label>
+  <!--EN: Increases natural disease immunity rates.-->
+  <TM_DiseaseImmunity2HD.description>提高自然疾病免疫率。</TM_DiseaseImmunity2HD.description>
+  <!--EN: Disease Immunity-->
+  <TM_DiseaseImmunity2HD.label>疾病免疫</TM_DiseaseImmunity2HD.label>
+  <!--EN: II-->
+  <TM_DiseaseImmunity2HD.stages.0.label>II</TM_DiseaseImmunity2HD.stages.0.label>
+  <!--EN: Increases natural disease immunity rates.-->
+  <TM_DiseaseImmunityHD.description>提高自然疾病免疫率。</TM_DiseaseImmunityHD.description>
+  <!--EN: Disease Immunity-->
+  <TM_DiseaseImmunityHD.label>疾病免疫</TM_DiseaseImmunityHD.label>
+  <!--EN: I-->
+  <TM_DiseaseImmunityHD.stages.0.label>I</TM_DiseaseImmunityHD.stages.0.label>
+  <!--EN: Wrapped in a clever disguise to deceive opponents.-->
+  <TM_DisguiseHD.description>用巧妙的伪装来欺骗对手。</TM_DisguiseHD.description>
+  <!--EN: Deception-->
+  <TM_DisguiseHD.label>欺骗</TM_DisguiseHD.label>
+  <!--EN: I-->
+  <TM_DisguiseHD.stages.0.label>I</TM_DisguiseHD.stages.0.label>
+  <!--EN: Wrapped in a clever disguise to deceive opponents.-->
+  <TM_DisguiseHD_I.description>用巧妙的伪装来欺骗对手。</TM_DisguiseHD_I.description>
+  <!--EN: Deception-->
+  <TM_DisguiseHD_I.label>欺骗</TM_DisguiseHD_I.label>
+  <!--EN: II-->
+  <TM_DisguiseHD_I.stages.0.label>II</TM_DisguiseHD_I.stages.0.label>
+  <!--EN: Wrapped in a clever disguise to deceive opponents.-->
+  <TM_DisguiseHD_II.description>用巧妙的伪装来欺骗对手。</TM_DisguiseHD_II.description>
+  <!--EN: Deception-->
+  <TM_DisguiseHD_II.label>欺骗</TM_DisguiseHD_II.label>
+  <!--EN: III-->
+  <TM_DisguiseHD_II.stages.0.label>III</TM_DisguiseHD_II.stages.0.label>
+  <!--EN: Wrapped in a clever disguise to deceive opponents.-->
+  <TM_DisguiseHD_III.description>用巧妙的伪装来欺骗对手。</TM_DisguiseHD_III.description>
+  <!--EN: Deception-->
+  <TM_DisguiseHD_III.label>欺骗</TM_DisguiseHD_III.label>
+  <!--EN: IV-->
+  <TM_DisguiseHD_III.stages.0.label>IV</TM_DisguiseHD_III.stages.0.label>
+  <!--EN: set-->
+  <TM_Dismember.comps.0.labelSolidTendedWell>已固定</TM_Dismember.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_Dismember.comps.0.labelTendedWell>已包扎</TM_Dismember.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_Dismember.comps.0.labelTendedWellInner>已缝合</TM_Dismember.comps.0.labelTendedWellInner>
+  <!--EN: An attack that tears a limb (or head) off a target.-->
+  <TM_Dismember.description>撕裂对方的身体。</TM_Dismember.description>
+  <!--EN: torn off-->
+  <TM_Dismember.injuryProps.destroyedLabel>撕裂</TM_Dismember.injuryProps.destroyedLabel>
+  <!--EN: torn out-->
+  <TM_Dismember.injuryProps.destroyedOutLabel>撕裂</TM_Dismember.injuryProps.destroyedOutLabel>
+  <!--EN: dismember-->
+  <TM_Dismember.label>撕裂</TM_Dismember.label>
+  <!--EN: a massive wound-->
+  <TM_Dismember.labelNoun>巨大的伤口</TM_Dismember.labelNoun>
+  <!--EN: Disoriented after swapping positions with another pawn.-->
+  <TM_DisorientedVomit.description>受到影响。</TM_DisorientedVomit.description>
+  <!--EN: disoriented-->
+  <TM_DisorientedVomit.label>迷茫</TM_DisorientedVomit.label>
+  <!--EN: I-->
+  <TM_DisorientedVomit.stages.0.label>I</TM_DisorientedVomit.stages.0.label>
+  <!--EN: Periodically slows nearby targets with their impending doom.-->
+  <TM_DoomFieldHD.description>周期性的减缓附近敌人的速度。</TM_DoomFieldHD.description>
+  <!--EN: Death's Abyss-->
+  <TM_DoomFieldHD.label>死亡深渊</TM_DoomFieldHD.label>
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_EarRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_EarRegrowth.description>
+  <!--EN: Regrown Ear-->
+  <TM_EarRegrowth.label>再生耳</TM_EarRegrowth.label>
+  <!--EN: forming-->
+  <TM_EarRegrowth.stages.0.label>形成</TM_EarRegrowth.stages.0.label>
+  <!--EN: developing-->
+  <TM_EarRegrowth.stages.1.label>正在生长</TM_EarRegrowth.stages.1.label>
+  <!--EN: regrown-->
+  <TM_EarRegrowth.stages.2.label>再生</TM_EarRegrowth.stages.2.label>
+  <!--EN: enhanced-->
+  <TM_EarRegrowth.stages.3.label>增强</TM_EarRegrowth.stages.3.label>
+  <!--EN: I'll do my best.-->
+  <TM_EmergencyHD.description>我会尽力的。</TM_EmergencyHD.description>
+  <!--EN: Emergency-->
+  <TM_EmergencyHD.label>紧急情况</TM_EmergencyHD.label>
+  <!--EN: I-->
+  <TM_EmergencyHD.stages.0.label>I</TM_EmergencyHD.stages.0.label>
+  <!--EN: Causes mood to increase faster and decrease slower; has a chance to recover a pawn from a mental breakdown when surging.-->
+  <TM_EmotionBrandHD.description>使情绪增加得更快，减少得更慢；有机率在这个小人精神崩溃时使他恢复正常。</TM_EmotionBrandHD.description>
+  <!--EN: Emotion Brand-->
+  <TM_EmotionBrandHD.label>情感印记</TM_EmotionBrandHD.label>
+  <!--EN: dormant-->
+  <TM_EmotionBrandHD.stages.0.label>休眠</TM_EmotionBrandHD.stages.0.label>
+  <!--EN: surging-->
+  <TM_EmotionBrandHD.stages.2.label>激增</TM_EmotionBrandHD.stages.2.label>
+  <!--EN: The emotions of this pawn are being suppressed; this pawn will not experience a mental break and most mood related thoughts will be filtered.-->
+  <TM_EmotionSuppressionHD.description>这个人的情绪正在被压抑；ta不会精神崩溃，大多数与情绪相关的想法都会消逝。</TM_EmotionSuppressionHD.description>
+  <!--EN: suppressed emotions-->
+  <TM_EmotionSuppressionHD.label>压抑的情绪</TM_EmotionSuppressionHD.label>
+  <!--EN: Represents the skill of an empath to control their innate abilities.-->
+  <TM_EmpathHD.description>读心师与生俱来的能力</TM_EmpathHD.description>
+  <!--EN: empath-->
+  <TM_EmpathHD.label>共感</TM_EmpathHD.label>
+  <!--EN: Uncontrolled-->
+  <TM_EmpathHD.stages.0.label>不受控制</TM_EmpathHD.stages.0.label>
+  <!--EN: Untrained-->
+  <TM_EmpathHD.stages.1.label>未加训练</TM_EmpathHD.stages.1.label>
+  <!--EN: Familiar-->
+  <TM_EmpathHD.stages.2.label>初步了解</TM_EmpathHD.stages.2.label>
+  <!--EN: Trained-->
+  <TM_EmpathHD.stages.3.label>受训</TM_EmpathHD.stages.3.label>
+  <!--EN: Skilled-->
+  <TM_EmpathHD.stages.4.label>熟练</TM_EmpathHD.stages.4.label>
+  <!--EN: Mastery-->
+  <TM_EmpathHD.stages.5.label>精通</TM_EmpathHD.stages.5.label>
+  <!--EN: An enchanted aspect surrounds the pawn enhancing qualities considered for beauty, endearment, and attraction.-->
+  <TM_EnchantedAuraHD.description>浑身散发的魔力可以迷惑他人。</TM_EnchantedAuraHD.description>
+  <!--EN: Enchanted Aura-->
+  <TM_EnchantedAuraHD.label>迷人魅力</TM_EnchantedAuraHD.label>
+  <!--EN: I-->
+  <TM_EnchantedAuraHD.stages.0.label>I</TM_EnchantedAuraHD.stages.0.label>
+  <!--EN: II-->
+  <TM_EnchantedAuraHD.stages.1.label>II</TM_EnchantedAuraHD.stages.1.label>
+  <!--EN: III-->
+  <TM_EnchantedAuraHD.stages.2.label>III</TM_EnchantedAuraHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_EnchantedAuraHD.stages.3.label>IV</TM_EnchantedAuraHD.stages.3.label>
+  <!--EN: Creation of enchanted body parts to enhance physical capability.-->
+  <TM_EnchantedBodyHD.description>受魔力的影响，提高身体能力。</TM_EnchantedBodyHD.description>
+  <!--EN: Enchanted Body-->
+  <TM_EnchantedBodyHD.label>魔力之躯</TM_EnchantedBodyHD.label>
+  <!--EN: Arm-->
+  <TM_EnchantedBodyHD.stages.0.label>手臂</TM_EnchantedBodyHD.stages.0.label>
+  <!--EN: Two Arms-->
+  <TM_EnchantedBodyHD.stages.1.label>双臂</TM_EnchantedBodyHD.stages.1.label>
+  <!--EN: Arms and Eye-->
+  <TM_EnchantedBodyHD.stages.2.label>手臂和眼睛</TM_EnchantedBodyHD.stages.2.label>
+  <!--EN: Arms and Eye ++-->
+  <TM_EnchantedBodyHD.stages.3.label>手臂和眼睛++</TM_EnchantedBodyHD.stages.3.label>
+  <!--EN: Increases energy regeneration rates as a multiple of the buff's severity.-->
+  <TM_EnergyRegenHD.description>增加能量回复速度，为增益的倍数。</TM_EnergyRegenHD.description>
+  <!--EN: Energy Regeneration-->
+  <TM_EnergyRegenHD.label>能量再生</TM_EnergyRegenHD.label>
+  <!--EN: Consciousness increased as a result of inspirational enlightenment.-->
+  <TM_EnlightenedHD.description>由于灵感的启发，意识增强了。</TM_EnlightenedHD.description>
+  <!--EN: Enlightened-->
+  <TM_EnlightenedHD.label>启发</TM_EnlightenedHD.label>
+  <!--EN: Consume all positive emotions as fuel for physical power, the spell will fade once all happiness is burned off. While under this curse, a pawn is cannot be staggered, has increased pain resistance, attack speed, and melee damage.-->
+  <TM_EnrageHD.description>把一个人变成一个几乎不可阻挡的狂暴怪物。愤怒会强化近战；远程武器将被丢弃.</TM_EnrageHD.description>
+  <!--EN: Enrage-->
+  <TM_EnrageHD.label>激怒</TM_EnrageHD.label>
+  <!--EN: I-->
+  <TM_EnrageHD.stages.0.label>I</TM_EnrageHD.stages.0.label>
+  <!--EN: II-->
+  <TM_EnrageHD.stages.1.label>II</TM_EnrageHD.stages.1.label>
+  <!--EN: III-->
+  <TM_EnrageHD.stages.2.label>III</TM_EnrageHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_EnrageHD.stages.3.label>IV</TM_EnrageHD.stages.3.label>
+  <!--EN: V-->
+  <TM_EnrageHD.stages.4.label>V</TM_EnrageHD.stages.4.label>
+  <!--EN: Actively seeks out other pawns to cheer up and entertain.-->
+  <TM_EntertainingHD.description>积极的与他人交流。</TM_EntertainingHD.description>
+  <!--EN: Entertaining-->
+  <TM_EntertainingHD.label>娱乐</TM_EntertainingHD.label>
+  <!--EN: Bard-->
+  <TM_EntertainingHD.stages.0.label>吟游诗人</TM_EntertainingHD.stages.0.label>
+  <!--EN: Allows the pawn the ability to dodge any non-explosive attack. The dodge rate corresponds to the severity of the buff.-->
+  <TM_EvasionHD.description>可以闪避非爆炸性伤害。</TM_EvasionHD.description>
+  <!--EN: Evasion-->
+  <TM_EvasionHD.label>闪避</TM_EvasionHD.label>
+  <!--EN: The magical entwining of nature and flesh will regrow this eye over several days.-->
+  <TM_EyeRegrowth.description>大自然和肉体的奇异交合将在几天内使这只眼睛再生.</TM_EyeRegrowth.description>
+  <!--EN: Regrown Eye-->
+  <TM_EyeRegrowth.label>再生眼</TM_EyeRegrowth.label>
+  <!--EN: milky-->
+  <TM_EyeRegrowth.stages.0.label>乳白色</TM_EyeRegrowth.stages.0.label>
+  <!--EN: hazy-->
+  <TM_EyeRegrowth.stages.1.label>朦胧</TM_EyeRegrowth.stages.1.label>
+  <!--EN: regrown-->
+  <TM_EyeRegrowth.stages.2.label>再生</TM_EyeRegrowth.stages.2.label>
+  <!--EN: enhanced-->
+  <TM_EyeRegrowth.stages.3.label>增强</TM_EyeRegrowth.stages.3.label>
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_FingerRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_FingerRegrowth.description>
+  <!--EN: Regrown Finger-->
+  <TM_FingerRegrowth.label>再生手指</TM_FingerRegrowth.label>
+  <!--EN: finger stub-->
+  <TM_FingerRegrowth.stages.0.label>指根</TM_FingerRegrowth.stages.0.label>
+  <!--EN: regrown-->
+  <TM_FingerRegrowth.stages.1.label>再生</TM_FingerRegrowth.stages.1.label>
+  <!--EN: set-->
+  <TM_Firebolt.comps.0.labelSolidTendedWell>已固定</TM_Firebolt.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_Firebolt.comps.0.labelTendedWell>已包扎</TM_Firebolt.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_Firebolt.comps.0.labelTendedWellInner>已缝合</TM_Firebolt.comps.0.labelTendedWellInner>
+  <!--EN: burn scar-->
+  <TM_Firebolt.comps.1.permanentLabel>烧伤疤痕</TM_Firebolt.comps.1.permanentLabel>
+  <!--EN: Projected bolt of elemental fire.-->
+  <TM_Firebolt.description>元素之火被投影在一个箭中。</TM_Firebolt.description>
+  <!--EN: burned-->
+  <TM_Firebolt.injuryProps.destroyedLabel>烧掉</TM_Firebolt.injuryProps.destroyedLabel>
+  <!--EN: burned out-->
+  <TM_Firebolt.injuryProps.destroyedOutLabel>烧坏</TM_Firebolt.injuryProps.destroyedOutLabel>
+  <!--EN: Firebolt-->
+  <TM_Firebolt.label>燃烧之箭</TM_Firebolt.label>
+  <!--EN: Increases moving and manipulation.-->
+  <TM_FitnessBrandHD.description>增加移动和操纵能力。</TM_FitnessBrandHD.description>
+  <!--EN: Fitness Brand-->
+  <TM_FitnessBrandHD.label>健康印记</TM_FitnessBrandHD.label>
+  <!--EN: dormant-->
+  <TM_FitnessBrandHD.stages.0.label>休眠</TM_FitnessBrandHD.stages.0.label>
+  <!--EN: I-->
+  <TM_FitnessBrandHD.stages.1.label>I</TM_FitnessBrandHD.stages.1.label>
+  <!--EN: surging VI-->
+  <TM_FitnessBrandHD.stages.10.label>激增VI</TM_FitnessBrandHD.stages.10.label>
+  <!--EN: II-->
+  <TM_FitnessBrandHD.stages.2.label>II</TM_FitnessBrandHD.stages.2.label>
+  <!--EN: III-->
+  <TM_FitnessBrandHD.stages.3.label>III</TM_FitnessBrandHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_FitnessBrandHD.stages.4.label>IV</TM_FitnessBrandHD.stages.4.label>
+  <!--EN: surging I-->
+  <TM_FitnessBrandHD.stages.5.label>激增I</TM_FitnessBrandHD.stages.5.label>
+  <!--EN: surging II-->
+  <TM_FitnessBrandHD.stages.6.label>激增II</TM_FitnessBrandHD.stages.6.label>
+  <!--EN: surging III-->
+  <TM_FitnessBrandHD.stages.7.label>激增III</TM_FitnessBrandHD.stages.7.label>
+  <!--EN: surging IV-->
+  <TM_FitnessBrandHD.stages.8.label>激增IV</TM_FitnessBrandHD.stages.8.label>
+  <!--EN: surging V-->
+  <TM_FitnessBrandHD.stages.9.label>激增V</TM_FitnessBrandHD.stages.9.label>
+  <!--EN: chance to block attacks-->
+  <TM_FleshGolem_BracerGuardHD.description>概率阻止攻击</TM_FleshGolem_BracerGuardHD.description>
+  <!--EN: bracer guard-->
+  <TM_FleshGolem_BracerGuardHD.label>护腕</TM_FleshGolem_BracerGuardHD.label>
+  <!--EN: Deflects attacks against the chest and torso, works best against larger weapons.-->
+  <TM_FleshGolem_ChestCageHD.description>转移对胸部和躯干的攻击，对大型武器攻击效果最好。</TM_FleshGolem_ChestCageHD.description>
+  <!--EN: chest cage-->
+  <TM_FleshGolem_ChestCageHD.label>胸笼</TM_FleshGolem_ChestCageHD.label>
+  <!--EN: Vision is improved with four eyes.-->
+  <TM_FleshGolem_EyesT1HD.description>用四只眼睛可以提高视力。</TM_FleshGolem_EyesT1HD.description>
+  <!--EN: quad sight-->
+  <TM_FleshGolem_EyesT1HD.label>四视</TM_FleshGolem_EyesT1HD.label>
+  <!--EN: Wings are granting movement agility.-->
+  <TM_FleshGolem_HasteHD.description>翅膀赋予迅捷。</TM_FleshGolem_HasteHD.description>
+  <!--EN: swiftness-->
+  <TM_FleshGolem_HasteHD.label>迅捷</TM_FleshGolem_HasteHD.label>
+  <!--EN: Improves armor around over the legs.-->
+  <TM_FleshGolem_LegPlatesHD.description>提高腿部周围的护甲。</TM_FleshGolem_LegPlatesHD.description>
+  <!--EN: leg plates-->
+  <TM_FleshGolem_LegPlatesHD.label>腿板</TM_FleshGolem_LegPlatesHD.label>
+  <!--EN: Improves armor around the shoulders.-->
+  <TM_FleshGolem_ShoulderPlatesHD.description>提高肩部周围的护甲。</TM_FleshGolem_ShoulderPlatesHD.description>
+  <!--EN: shoulder plates-->
+  <TM_FleshGolem_ShoulderPlatesHD.label>肩板</TM_FleshGolem_ShoulderPlatesHD.label>
+  <!--EN: Improves armor over the skull.-->
+  <TM_FleshGolem_SkullPlateHD.description>提高颅部周围的护甲。</TM_FleshGolem_SkullPlateHD.description>
+  <!--EN: skull plate-->
+  <TM_FleshGolem_SkullPlateHD.label>颅板</TM_FleshGolem_SkullPlateHD.label>
+  <!--EN: Deflects attacks against the back.-->
+  <TM_FleshGolem_SpineGuardHD.description>转移对背部的攻击</TM_FleshGolem_SpineGuardHD.description>
+  <!--EN: spine guard-->
+  <TM_FleshGolem_SpineGuardHD.label>脊柱保护</TM_FleshGolem_SpineGuardHD.label>
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_FootRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_FootRegrowth.description>
+  <!--EN: Regrown Foot-->
+  <TM_FootRegrowth.label>再生足</TM_FootRegrowth.label>
+  <!--EN: stub-->
+  <TM_FootRegrowth.stages.0.label>存根</TM_FootRegrowth.stages.0.label>
+  <!--EN: fledgling-->
+  <TM_FootRegrowth.stages.1.label>新的</TM_FootRegrowth.stages.1.label>
+  <!--EN: regrown-->
+  <TM_FootRegrowth.stages.2.label>再生</TM_FootRegrowth.stages.2.label>
+  <!--EN: wild-->
+  <TM_FootRegrowth.stages.3.label>荒野</TM_FootRegrowth.stages.3.label>
+  <!--EN: The gaze of an evil eye has applied this curse.-->
+  <TM_FrailtyCurseHD.description>一只邪恶的眼睛注视着他，这是一种诅咒。</TM_FrailtyCurseHD.description>
+  <!--EN: Cursed-->
+  <TM_FrailtyCurseHD.label>被诅咒</TM_FrailtyCurseHD.label>
+  <!--EN: frail-->
+  <TM_FrailtyCurseHD.stages.0.label>虚弱</TM_FrailtyCurseHD.stages.0.label>
+  <!--EN: crippled-->
+  <TM_FrailtyCurseHD.stages.1.label>受损</TM_FrailtyCurseHD.stages.1.label>
+  <!--EN: Target takes more damage from all sources.-->
+  <TM_FrailtyHD.description>增加对目标造成的伤害</TM_FrailtyHD.description>
+  <!--EN: Frailty-->
+  <TM_FrailtyHD.label>虚弱</TM_FrailtyHD.label>
+  <!--EN: Slowed limbs affected by frost.-->
+  <TM_FrostSlowHD.description>受霜冻影响，四肢行动迟缓.</TM_FrostSlowHD.description>
+  <!--EN: Slow-->
+  <TM_FrostSlowHD.label>迟缓</TM_FrostSlowHD.label>
+  <!--EN: frost-->
+  <TM_FrostSlowHD.stages.0.label>冰冻</TM_FrostSlowHD.stages.0.label>
+  <!--EN: tended-->
+  <TM_Frozen.comps.0.labelSolidTendedWell>照顾</TM_Frozen.comps.0.labelSolidTendedWell>
+  <!--EN: tended-->
+  <TM_Frozen.comps.0.labelTendedWell>照顾</TM_Frozen.comps.0.labelTendedWell>
+  <!--EN: tended-->
+  <TM_Frozen.comps.0.labelTendedWellInner>照顾</TM_Frozen.comps.0.labelTendedWellInner>
+  <!--EN: frostbite-->
+  <TM_Frozen.comps.1.permanentLabel>冻伤</TM_Frozen.comps.1.permanentLabel>
+  <!--EN: Bitterly cold winds.-->
+  <TM_Frozen.description>寒冬之击</TM_Frozen.description>
+  <!--EN: Frozen-->
+  <TM_Frozen.injuryProps.destroyedLabel>冷冻</TM_Frozen.injuryProps.destroyedLabel>
+  <!--EN: Frozen-->
+  <TM_Frozen.injuryProps.destroyedOutLabel>冷冻</TM_Frozen.injuryProps.destroyedOutLabel>
+  <!--EN: freezing winds-->
+  <TM_Frozen.label>寒冬之击</TM_Frozen.label>
+  <!--EN: Health effects applied to all golems.-->
+  <TM_GolemHD.description>适用于所有傀儡的健康效果。</TM_GolemHD.description>
+  <!--EN: Golem-->
+  <TM_GolemHD.label>傀儡</TM_GolemHD.label>
+  <!--EN: The golem is linked to a golemancer and has acquired a higher state of awareness.-->
+  <TM_GolemancyEfficiencyHD.description>该傀儡与一名傀儡使相连，并获得了更强的思想。</TM_GolemancyEfficiencyHD.description>
+  <!--EN: Mind-link-->
+  <TM_GolemancyEfficiencyHD.label>思想链接</TM_GolemancyEfficiencyHD.label>
+  <!--EN: I-->
+  <TM_GolemancyEfficiencyHD.stages.1.label>I</TM_GolemancyEfficiencyHD.stages.1.label>
+  <!--EN: II-->
+  <TM_GolemancyEfficiencyHD.stages.2.label>II</TM_GolemancyEfficiencyHD.stages.2.label>
+  <!--EN: III-->
+  <TM_GolemancyEfficiencyHD.stages.3.label>III</TM_GolemancyEfficiencyHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_GolemancyEfficiencyHD.stages.4.label>IV</TM_GolemancyEfficiencyHD.stages.4.label>
+  <!--EN: V-->
+  <TM_GolemancyEfficiencyHD.stages.5.label>V</TM_GolemancyEfficiencyHD.stages.5.label>
+  <!--EN: The golem is linked to a golemancer able to augment the power and endurance output of the golem.-->
+  <TM_GolemancyPowerHD.description>该傀儡连接到一个能够增加傀儡力量和耐力的傀儡使。</TM_GolemancyPowerHD.description>
+  <!--EN: Golem augmentation-->
+  <TM_GolemancyPowerHD.label>傀儡强化</TM_GolemancyPowerHD.label>
+  <!--EN: I-->
+  <TM_GolemancyPowerHD.stages.1.label>I</TM_GolemancyPowerHD.stages.1.label>
+  <!--EN: II-->
+  <TM_GolemancyPowerHD.stages.2.label>II</TM_GolemancyPowerHD.stages.2.label>
+  <!--EN: III-->
+  <TM_GolemancyPowerHD.stages.3.label>III</TM_GolemancyPowerHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_GolemancyPowerHD.stages.4.label>IV</TM_GolemancyPowerHD.stages.4.label>
+  <!--EN: V-->
+  <TM_GolemancyPowerHD.stages.5.label>V</TM_GolemancyPowerHD.stages.5.label>
+  <!--EN: The golemancer is linked to a golem and is able to siphon off some of its energy for personal use.-->
+  <TM_GolemancyVersatilityHD.description>这个傀儡使与一个傀儡相连，能够将傀儡的部分能量吸取出来供个人使用。</TM_GolemancyVersatilityHD.description>
+  <!--EN: Golem bond-->
+  <TM_GolemancyVersatilityHD.label>傀儡链接</TM_GolemancyVersatilityHD.label>
+  <!--EN: I-->
+  <TM_GolemancyVersatilityHD.stages.1.label>I</TM_GolemancyVersatilityHD.stages.1.label>
+  <!--EN: II-->
+  <TM_GolemancyVersatilityHD.stages.2.label>II</TM_GolemancyVersatilityHD.stages.2.label>
+  <!--EN: III-->
+  <TM_GolemancyVersatilityHD.stages.3.label>III</TM_GolemancyVersatilityHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_GolemancyVersatilityHD.stages.4.label>IV</TM_GolemancyVersatilityHD.stages.4.label>
+  <!--EN: V-->
+  <TM_GolemancyVersatilityHD.stages.5.label>V</TM_GolemancyVersatilityHD.stages.5.label>
+  <!--EN: set-->
+  <TM_GrapplingHook.comps.0.labelSolidTendedWell>已固定</TM_GrapplingHook.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_GrapplingHook.comps.0.labelTendedWell>已包扎</TM_GrapplingHook.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_GrapplingHook.comps.0.labelTendedWellInner>已缝合</TM_GrapplingHook.comps.0.labelTendedWellInner>
+  <!--EN: torn off-->
+  <TM_GrapplingHook.comps.2.permanentLabel>扯掉</TM_GrapplingHook.comps.2.permanentLabel>
+  <!--EN: Pulls targets close.-->
+  <TM_GrapplingHook.description>拉近目标.</TM_GrapplingHook.description>
+  <!--EN: torn off-->
+  <TM_GrapplingHook.injuryProps.destroyedLabel>撕破</TM_GrapplingHook.injuryProps.destroyedLabel>
+  <!--EN: torn out-->
+  <TM_GrapplingHook.injuryProps.destroyedOutLabel>扯下</TM_GrapplingHook.injuryProps.destroyedOutLabel>
+  <!--EN: Grappling Hook-->
+  <TM_GrapplingHook.label>抓钩</TM_GrapplingHook.label>
+  <!--EN: Slowed by an unnatural gravitational attraction.-->
+  <TM_GravitySlowHD.description>受到引力的影响。</TM_GravitySlowHD.description>
+  <!--EN: Gravity Well-->
+  <TM_GravitySlowHD.label>引力陷阱</TM_GravitySlowHD.label>
+  <!--EN: slowed-->
+  <TM_GravitySlowHD.stages.0.label>放慢</TM_GravitySlowHD.stages.0.label>
+  <!--EN: Increased fortitude from being ordered to hold the line.-->
+  <TM_HTLShieldHD.description>奉命坚守阵地，增强毅力。</TM_HTLShieldHD.description>
+  <!--EN: HTL Shield-->
+  <TM_HTLShieldHD.label>HTL盾</TM_HTLShieldHD.label>
+  <!--EN: Reduces movement speed.-->
+  <TM_HamstringHD.description>降低移动速度.</TM_HamstringHD.description>
+  <!--EN: Slowed-->
+  <TM_HamstringHD.label>迟缓</TM_HamstringHD.label>
+  <!--EN: I-->
+  <TM_HamstringHD.stages.0.label>I</TM_HamstringHD.stages.0.label>
+  <!--EN: II-->
+  <TM_HamstringHD.stages.1.label>II</TM_HamstringHD.stages.1.label>
+  <!--EN: III-->
+  <TM_HamstringHD.stages.2.label>III</TM_HamstringHD.stages.2.label>
+  <!--EN: regrown hand-->
+  <TM_HandRegrowth.comps.1.tools.0.label>再生手</TM_HandRegrowth.comps.1.tools.0.label>
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_HandRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_HandRegrowth.description>
+  <!--EN: Regrown Hand-->
+  <TM_HandRegrowth.label>再生手</TM_HandRegrowth.label>
+  <!--EN: stub-->
+  <TM_HandRegrowth.stages.0.label>存根</TM_HandRegrowth.stages.0.label>
+  <!--EN: fledgling-->
+  <TM_HandRegrowth.stages.1.label>新的</TM_HandRegrowth.stages.1.label>
+  <!--EN: regrown-->
+  <TM_HandRegrowth.stages.2.label>再生</TM_HandRegrowth.stages.2.label>
+  <!--EN: wild-->
+  <TM_HandRegrowth.stages.3.label>荒野</TM_HandRegrowth.stages.3.label>
+  <!--EN: A passion is being stolen by another pawn.-->
+  <TM_HarvestPassionHD.description>源于他人的激情</TM_HarvestPassionHD.description>
+  <!--EN: passion harvesting-->
+  <TM_HarvestPassionHD.label>激情鼓舞</TM_HarvestPassionHD.label>
+  <!--EN: Attack rate is doubled.-->
+  <TM_HasteHD.description>攻击率翻倍.</TM_HasteHD.description>
+  <!--EN: Haste-->
+  <TM_HasteHD.label>急速</TM_HasteHD.label>
+  <!--EN: Accounts for the unique energy and abilities utilized by a death knight.-->
+  <TM_HateHD.description>死亡骑士所使用的独特能量。</TM_HateHD.description>
+  <!--EN: Hate-->
+  <TM_HateHD.label>憎恨</TM_HateHD.label>
+  <!--EN: Accounts for the unique energy and abilities utilized by a death knight.-->
+  <TM_HateHD_I.description>死亡骑士所使用的独特能量。</TM_HateHD_I.description>
+  <!--EN: Hate-->
+  <TM_HateHD_I.label>憎恨</TM_HateHD_I.label>
+  <!--EN: Accounts for the unique energy and abilities utilized by a death knight.-->
+  <TM_HateHD_II.description>死亡骑士所使用的独特能量。</TM_HateHD_II.description>
+  <!--EN: Hate-->
+  <TM_HateHD_II.label>憎恨</TM_HateHD_II.label>
+  <!--EN: Accounts for the unique energy and abilities utilized by a death knight.-->
+  <TM_HateHD_III.description>死亡骑士所使用的独特能量。</TM_HateHD_III.description>
+  <!--EN: Hate-->
+  <TM_HateHD_III.label>憎恨</TM_HateHD_III.label>
+  <!--EN: Accounts for the unique energy and abilities utilized by a death knight.-->
+  <TM_HateHD_IV.description>死亡骑士所使用的独特能量。</TM_HateHD_IV.description>
+  <!--EN: Hate-->
+  <TM_HateHD_IV.label>憎恨</TM_HateHD_IV.label>
+  <!--EN: Accounts for the unique energy and abilities utilized by a death knight.-->
+  <TM_HateHD_V.description>死亡骑士所使用的独特能量。</TM_HateHD_V.description>
+  <!--EN: Hate-->
+  <TM_HateHD_V.label>憎恨</TM_HateHD_V.label>
+  <!--EN: The magical entwining of nature and flesh will regrow or enhance a heart over several days.-->
+  <TM_HeartRegrowth.description>自然与肉体的奇异交合将在几天内使这部分重新生长或增强心脏.</TM_HeartRegrowth.description>
+  <!--EN: Heart of the Wild-->
+  <TM_HeartRegrowth.label>野性之心</TM_HeartRegrowth.label>
+  <!--EN: re-forming-->
+  <TM_HeartRegrowth.stages.0.label>重组</TM_HeartRegrowth.stages.0.label>
+  <!--EN: new development-->
+  <TM_HeartRegrowth.stages.1.label>新发展</TM_HeartRegrowth.stages.1.label>
+  <!--EN: melding-->
+  <TM_HeartRegrowth.stages.2.label>熔合</TM_HeartRegrowth.stages.2.label>
+  <!--EN: entwined-->
+  <TM_HeartRegrowth.stages.3.label>纠缠</TM_HeartRegrowth.stages.3.label>
+  <!--EN: heart of the wild-->
+  <TM_HeartRegrowth.stages.4.label>野性之心</TM_HeartRegrowth.stages.4.label>
+  <!--EN: Increases heat resistance and cannot catch fire.-->
+  <TM_HeatShieldHD.description>对热能伤害提供保护加成并防止着火。</TM_HeatShieldHD.description>
+  <!--EN: Heat shield-->
+  <TM_HeatShieldHD.label>热能屏障</TM_HeatShieldHD.label>
+  <!--EN: An enchantment that can instantly refresh the cooldown of an ability.-->
+  <TM_HediffEnchantment_arcalleumCooldown.description>一种可以立即刷新技能冷却时间的能力。</TM_HediffEnchantment_arcalleumCooldown.description>
+  <!--EN: Arcalleum Cooldown-->
+  <TM_HediffEnchantment_arcalleumCooldown.label>魔法合金冷却</TM_HediffEnchantment_arcalleumCooldown.label>
+  <!--EN: Increases the effects of magic abilities.-->
+  <TM_HediffEnchantment_arcaneDmg.description>增加技能的效果。</TM_HediffEnchantment_arcaneDmg.description>
+  <!--EN: Magic Bonus:-->
+  <TM_HediffEnchantment_arcaneDmg.label>技能强度:</TM_HediffEnchantment_arcaneDmg.label>
+  <!--EN: Ability to resist magical effects and reduces damage from magical attacks.-->
+  <TM_HediffEnchantment_arcaneRes.description>抵抗技能的影响。</TM_HediffEnchantment_arcaneRes.description>
+  <!--EN: Arcane Resistance:-->
+  <TM_HediffEnchantment_arcaneRes.label>技能抗性:</TM_HediffEnchantment_arcaneRes.label>
+  <!--EN: An enchantment that can add bonus spirit damage to any attack.-->
+  <TM_HediffEnchantment_arcaneSpectre.description>一种魔法，可以在任何攻击中增加额外的精神伤害。</TM_HediffEnchantment_arcaneSpectre.description>
+  <!--EN: Arcane Spectre-->
+  <TM_HediffEnchantment_arcaneSpectre.label>魔法幽魂</TM_HediffEnchantment_arcaneSpectre.label>
+  <!--EN: Increases the effects of combat abilities.-->
+  <TM_HediffEnchantment_combatDmg.description>增加战技的效果。</TM_HediffEnchantment_combatDmg.description>
+  <!--EN: Combat Bonus:-->
+  <TM_HediffEnchantment_combatDmg.label>战技-战技强度:</TM_HediffEnchantment_combatDmg.label>
+  <!--EN: Enchantment that reduces the time to re-use an ability.-->
+  <TM_HediffEnchantment_coolDown.description>魔法和战技的冷却时间。</TM_HediffEnchantment_coolDown.description>
+  <!--EN: Cool Down:-->
+  <TM_HediffEnchantment_coolDown.label>冷却时间:</TM_HediffEnchantment_coolDown.label>
+  <!--EN: Increases the effects of abilities.-->
+  <TM_HediffEnchantment_dmgBonus.description>增加技能的效果。</TM_HediffEnchantment_dmgBonus.description>
+  <!--EN: Ability Power:-->
+  <TM_HediffEnchantment_dmgBonus.label>技能强度:</TM_HediffEnchantment_dmgBonus.label>
+  <!--EN: Ability to resist magical effects and reduces damage from magical attacks.-->
+  <TM_HediffEnchantment_dmgResistance.description>抵抗战技和法术效果和减少魔法攻击伤害的能力。</TM_HediffEnchantment_dmgResistance.description>
+  <!--EN: Ability Resistance:-->
+  <TM_HediffEnchantment_dmgResistance.label>技能抗性:</TM_HediffEnchantment_dmgResistance.label>
+  <!--EN: Enchantment that reduces the energy cost to use abilities.-->
+  <TM_HediffEnchantment_energyCost.description>降低使用魔法的能量消耗的能力。</TM_HediffEnchantment_energyCost.description>
+  <!--EN: Energy Cost:-->
+  <TM_HediffEnchantment_energyCost.label>能量消耗:</TM_HediffEnchantment_energyCost.label>
+  <!--EN: Enchantment that increases the energy regeneration.-->
+  <TM_HediffEnchantment_energyRegen.description>魔法能量再生。</TM_HediffEnchantment_energyRegen.description>
+  <!--EN: Energy Regen:-->
+  <TM_HediffEnchantment_energyRegen.label>能量再生:</TM_HediffEnchantment_energyRegen.label>
+  <!--EN: Can still take fire based damage, but can no longer catch fire.-->
+  <TM_HediffEnchantment_fireImmunity.description>仍然可以受到基于火的伤害，但不能再着火。</TM_HediffEnchantment_fireImmunity.description>
+  <!--EN: Fire Immunity-->
+  <TM_HediffEnchantment_fireImmunity.label>火免</TM_HediffEnchantment_fireImmunity.label>
+  <!--EN: Energy capacity enchantment.-->
+  <TM_HediffEnchantment_maxEnergy.description>能量容量。</TM_HediffEnchantment_maxEnergy.description>
+  <!--EN: Max Energy:-->
+  <TM_HediffEnchantment_maxEnergy.label>最大能量:</TM_HediffEnchantment_maxEnergy.label>
+  <!--EN: Mana capacity enchantment.-->
+  <TM_HediffEnchantment_maxMP.description>法力容量。</TM_HediffEnchantment_maxMP.description>
+  <!--EN: Max Mana:-->
+  <TM_HediffEnchantment_maxMP.label>魔法 - 最大法力值:</TM_HediffEnchantment_maxMP.label>
+  <!--EN: Stamina capacity enchantment.-->
+  <TM_HediffEnchantment_maxSP.description>体力容量。</TM_HediffEnchantment_maxSP.description>
+  <!--EN: Max Stamina:-->
+  <TM_HediffEnchantment_maxSP.label>战技 - 最大体力:</TM_HediffEnchantment_maxSP.label>
+  <!--EN: Enchantment that modifies the mana cost of abilities.-->
+  <TM_HediffEnchantment_mpCost.description>魔法能量消耗。</TM_HediffEnchantment_mpCost.description>
+  <!--EN: Mana Cost:-->
+  <TM_HediffEnchantment_mpCost.label>魔法 - 法力消耗:</TM_HediffEnchantment_mpCost.label>
+  <!--EN: Mana regeneration enchantment.-->
+  <TM_HediffEnchantment_mpRegenRate.description>魔法能量再生。</TM_HediffEnchantment_mpRegenRate.description>
+  <!--EN: Mana Regen:-->
+  <TM_HediffEnchantment_mpRegenRate.label>魔法 - 法力回复:</TM_HediffEnchantment_mpRegenRate.label>
+  <!--EN: An enchantment that shifts all damage from an attack to the nether.-->
+  <TM_HediffEnchantment_phantomShift.description>将所有伤害从攻击转移到阴间的魔法。</TM_HediffEnchantment_phantomShift.description>
+  <!--EN: Phantom Shift-->
+  <TM_HediffEnchantment_phantomShift.label>幽魂转换</TM_HediffEnchantment_phantomShift.label>
+  <!--EN: Enchantment that reduces the cooldown time of combat abilities.-->
+  <TM_HediffEnchantment_spCoolDown.description>减少战技冷却时间的附魔。</TM_HediffEnchantment_spCoolDown.description>
+  <!--EN: Ability CoolDown:-->
+  <TM_HediffEnchantment_spCoolDown.label>战技 - 冷却时间:</TM_HediffEnchantment_spCoolDown.label>
+  <!--EN: Enchantment that modifies the stamina cost of abilities.-->
+  <TM_HediffEnchantment_spCost.description>调整使用战技的能量消耗的魔法。</TM_HediffEnchantment_spCost.description>
+  <!--EN: Stamina Cost:-->
+  <TM_HediffEnchantment_spCost.label>战技 - 体力消耗:</TM_HediffEnchantment_spCost.label>
+  <!--EN: Stamina regeneration enchantment.-->
+  <TM_HediffEnchantment_spRegenRate.description>体力能量再生。</TM_HediffEnchantment_spRegenRate.description>
+  <!--EN: Stamina Regen:-->
+  <TM_HediffEnchantment_spRegenRate.label>战技 - 体力回复:</TM_HediffEnchantment_spRegenRate.label>
+  <!--EN: Enchantment improves experience gain.-->
+  <TM_HediffEnchantment_xpGain.description>附魔:提高经验增益。</TM_HediffEnchantment_xpGain.description>
+  <!--EN: XP Gain:-->
+  <TM_HediffEnchantment_xpGain.label>经验获取:</TM_HediffEnchantment_xpGain.label>
+  <!--EN: Mental focus for fighters.-->
+  <TM_HediffFightersFocus.description>战斗专注</TM_HediffFightersFocus.description>
+  <!--EN: Fighters Focus-->
+  <TM_HediffFightersFocus.label>战斗专注</TM_HediffFightersFocus.label>
+  <!--EN: I-->
+  <TM_HediffFightersFocus.stages.0.label>I</TM_HediffFightersFocus.stages.0.label>
+  <!--EN: II-->
+  <TM_HediffFightersFocus.stages.1.label>II</TM_HediffFightersFocus.stages.1.label>
+  <!--EN: Mitigates all damage by a set amount.-->
+  <TM_HediffFortitude.description>减少一定的伤害。</TM_HediffFortitude.description>
+  <!--EN: Fortitude-->
+  <TM_HediffFortitude.label>刚毅</TM_HediffFortitude.label>
+  <!--EN: Maintenance and care of equipment.-->
+  <TM_HediffGearRepair.description>维护和保养装备.</TM_HediffGearRepair.description>
+  <!--EN: Gear Repair-->
+  <TM_HediffGearRepair.label>装备维护</TM_HediffGearRepair.label>
+  <!--EN: I-->
+  <TM_HediffGearRepair.stages.0.label>I</TM_HediffGearRepair.stages.0.label>
+  <!--EN: Increases damage dealt with each physical strike.-->
+  <TM_HediffHeavyBlow.description>增加每次物理打击造成的伤害。</TM_HediffHeavyBlow.description>
+  <!--EN: Heavy Blow-->
+  <TM_HediffHeavyBlow.label>强力打击</TM_HediffHeavyBlow.label>
+  <!--EN: I-->
+  <TM_HediffHeavyBlow.stages.0.label>I</TM_HediffHeavyBlow.stages.0.label>
+  <!--EN: II-->
+  <TM_HediffHeavyBlow.stages.1.label>II</TM_HediffHeavyBlow.stages.1.label>
+  <!--EN: III-->
+  <TM_HediffHeavyBlow.stages.2.label>III</TM_HediffHeavyBlow.stages.2.label>
+  <!--EN: IV-->
+  <TM_HediffHeavyBlow.stages.3.label>IV</TM_HediffHeavyBlow.stages.3.label>
+  <!--EN: Improves natural healing.-->
+  <TM_HediffInnerHealing.description>提高自然愈合能力。</TM_HediffInnerHealing.description>
+  <!--EN: Inner Healing-->
+  <TM_HediffInnerHealing.label>深入治疗</TM_HediffInnerHealing.label>
+  <!--EN: I-->
+  <TM_HediffInnerHealing.stages.0.label>I</TM_HediffInnerHealing.stages.0.label>
+  <!--EN: Prevents damage while active.-->
+  <TM_HediffInvulnerable.description>防止伤害</TM_HediffInvulnerable.description>
+  <!--EN: Invulnerable-->
+  <TM_HediffInvulnerable.label>绝对防御</TM_HediffInvulnerable.label>
+  <!--EN: Absorbs damage.-->
+  <TM_HediffShield.description>吸收伤害。</TM_HediffShield.description>
+  <!--EN: Shield-->
+  <TM_HediffShield.label>护盾</TM_HediffShield.label>
+  <!--EN: Move faster.-->
+  <TM_HediffSprint.description>快一点。</TM_HediffSprint.description>
+  <!--EN: Sprint-->
+  <TM_HediffSprint.label>冲刺</TM_HediffSprint.label>
+  <!--EN: I-->
+  <TM_HediffSprint.stages.0.label>I</TM_HediffSprint.stages.0.label>
+  <!--EN: II-->
+  <TM_HediffSprint.stages.1.label>II</TM_HediffSprint.stages.1.label>
+  <!--EN: III-->
+  <TM_HediffSprint.stages.2.label>III</TM_HediffSprint.stages.2.label>
+  <!--EN: IV-->
+  <TM_HediffSprint.stages.3.label>IV</TM_HediffSprint.stages.3.label>
+  <!--EN: Increases movement.-->
+  <TM_HediffSprint_I.description>增加移速。</TM_HediffSprint_I.description>
+  <!--EN: Sprint (I)-->
+  <TM_HediffSprint_I.label>冲刺 (I)</TM_HediffSprint_I.label>
+  <!--EN: Increases movement.-->
+  <TM_HediffSprint_II.description>增加移速。</TM_HediffSprint_II.description>
+  <!--EN: Sprint (II)-->
+  <TM_HediffSprint_II.label>冲刺 (II)</TM_HediffSprint_II.label>
+  <!--EN: Increases movement.-->
+  <TM_HediffSprint_III.description>增加移速。</TM_HediffSprint_III.description>
+  <!--EN: Sprint (III)-->
+  <TM_HediffSprint_III.label>冲刺 (III)</TM_HediffSprint_III.label>
+  <!--EN: Increases carrying capacity by 40 and inventory capacity by 50%.-->
+  <TM_HediffStrongBack.description>增加承载能力。</TM_HediffStrongBack.description>
+  <!--EN: Strong Back-->
+  <TM_HediffStrongBack.label>强壮后背</TM_HediffStrongBack.label>
+  <!--EN: I-->
+  <TM_HediffStrongBack.stages.0.label>I</TM_HediffStrongBack.stages.0.label>
+  <!--EN: II-->
+  <TM_HediffStrongBack.stages.1.label>II</TM_HediffStrongBack.stages.1.label>
+  <!--EN: III-->
+  <TM_HediffStrongBack.stages.2.label>III</TM_HediffStrongBack.stages.2.label>
+  <!--EN: Hardens skin, making it tougher.-->
+  <TM_HediffThickSkin.description>使皮肤变硬，变得更坚硬。</TM_HediffThickSkin.description>
+  <!--EN: Thick Skin-->
+  <TM_HediffThickSkin.label>石化皮肤</TM_HediffThickSkin.label>
+  <!--EN: I-->
+  <TM_HediffThickSkin.stages.0.label>I</TM_HediffThickSkin.stages.0.label>
+  <!--EN: II-->
+  <TM_HediffThickSkin.stages.1.label>II</TM_HediffThickSkin.stages.1.label>
+  <!--EN: III-->
+  <TM_HediffThickSkin.stages.2.label>III</TM_HediffThickSkin.stages.2.label>
+  <!--EN: IV-->
+  <TM_HediffThickSkin.stages.3.label>IV</TM_HediffThickSkin.stages.3.label>
+  <!--EN: Prevents damage while active.-->
+  <TM_HediffTimedInvulnerable.description>防止伤害</TM_HediffTimedInvulnerable.description>
+  <!--EN: Invulnerable-->
+  <TM_HediffTimedInvulnerable.label>绝对防御</TM_HediffTimedInvulnerable.label>
+  <!--EN: Puts the user in a state of bliss, able to almost completely mask emotions and pain. This drug will cause the consumer to slowly lose skills, and skill gain while under the influence of this drug is heavily suppressed.-->
+  <TM_HerbalBlissHD.description>让使用者到达极乐状态的混合药剂，能够几乎完全掩盖情绪和痛苦。这种药物会使使用者慢慢流逝已学习的技能，在药物作用下其学习能力受到严重抑制。</TM_HerbalBlissHD.description>
+  <!--EN: Bliss-->
+  <TM_HerbalBlissHD.label>“极乐”</TM_HerbalBlissHD.label>
+  <!--EN: A potion that helps the consumer open themselves to the arcane. Mana regeneration is increased up to 300% and psychic sensitivity is increased up to 50%. Effects also decrease mental stability. The effects of this drug last several days but lose potency over time.-->
+  <TM_HerbalClarityHD.description>调配一种混合药物，帮助食用者挖掘自身的秘能。</TM_HerbalClarityHD.description>
+  <!--EN: Clarity-->
+  <TM_HerbalClarityHD.label>清醒剂</TM_HerbalClarityHD.label>
+  <!--EN: fading-->
+  <TM_HerbalClarityHD.stages.0.label>衰退</TM_HerbalClarityHD.stages.0.label>
+  <!--EN: active-->
+  <TM_HerbalClarityHD.stages.1.label>活跃</TM_HerbalClarityHD.stages.1.label>
+  <!--EN: vibrant-->
+  <TM_HerbalClarityHD.stages.2.label>浓厚</TM_HerbalClarityHD.stages.2.label>
+  <!--EN: A herbal elixir that increases health regeneration and fights diseases; also improves mental health and reduces weariness.-->
+  <TM_HerbalElixirHD.description>回生丹，可以促进身体再生和抵抗疾病；还可以改善心情，减少疲劳。</TM_HerbalElixirHD.description>
+  <!--EN: herbal elixir-->
+  <TM_HerbalElixirHD.label>草药：回生丹</TM_HerbalElixirHD.label>
+  <!--EN: fading-->
+  <TM_HerbalElixirHD.stages.0.label>衰退</TM_HerbalElixirHD.stages.0.label>
+  <!--EN: active-->
+  <TM_HerbalElixirHD.stages.1.label>活跃</TM_HerbalElixirHD.stages.1.label>
+  <!--EN: strong-->
+  <TM_HerbalElixirHD.stages.2.label>浓厚</TM_HerbalElixirHD.stages.2.label>
+  <!--EN: Under the effects of a hex.-->
+  <TM_HexHD.description>在妖术的影响下.</TM_HexHD.description>
+  <!--EN: Hexed-->
+  <TM_HexHD.label>邪咒</TM_HexHD.label>
+  <!--EN: Cursed with dangerously bad luck.-->
+  <TM_Hex_CriticalFailHD.description>被危险的厄运所诅咒。</TM_Hex_CriticalFailHD.description>
+  <!--EN: Unlucky-->
+  <TM_Hex_CriticalFailHD.label>不幸</TM_Hex_CriticalFailHD.label>
+  <!--EN: Received an order to hold position and fight bravely.-->
+  <TM_HoldTheLineHD.description>接到了坚守阵地的作战的命令。</TM_HoldTheLineHD.description>
+  <!--EN: Defensive stance-->
+  <TM_HoldTheLineHD.label>防御!</TM_HoldTheLineHD.label>
+  <!--EN: Protects the torso and chest from attacks.-->
+  <TM_HollowGolem_BreastPlateHD.description>保护躯干</TM_HollowGolem_BreastPlateHD.description>
+  <!--EN: breastplate-->
+  <TM_HollowGolem_BreastPlateHD.label>空洞胸甲</TM_HollowGolem_BreastPlateHD.label>
+  <!--EN: Increases movement speed and provides a small amount of protection.-->
+  <TM_HollowGolem_CloakHD.description>增加移动能力，并提供少量护甲。</TM_HollowGolem_CloakHD.description>
+  <!--EN: fade cloak-->
+  <TM_HollowGolem_CloakHD.label>褪色斗篷</TM_HollowGolem_CloakHD.label>
+  <!--EN: Increases movement speed and heat resistance.-->
+  <TM_HollowGolem_CoAFireHD.description>增加移动速度和热能护甲。</TM_HollowGolem_CoAFireHD.description>
+  <!--EN: Coat of Arms: Fire-->
+  <TM_HollowGolem_CoAFireHD.label>纹章：火</TM_HollowGolem_CoAFireHD.label>
+  <!--EN: I-->
+  <TM_HollowGolem_CoAFireHD.stages.0.label>I</TM_HollowGolem_CoAFireHD.stages.0.label>
+  <!--EN: II-->
+  <TM_HollowGolem_CoAFireHD.stages.1.label>II</TM_HollowGolem_CoAFireHD.stages.1.label>
+  <!--EN: III-->
+  <TM_HollowGolem_CoAFireHD.stages.2.label>III</TM_HollowGolem_CoAFireHD.stages.2.label>
+  <!--EN: Increases armor.-->
+  <TM_HollowGolem_CoAIceHD.description>增加护甲。</TM_HollowGolem_CoAIceHD.description>
+  <!--EN: Coat of Arms-->
+  <TM_HollowGolem_CoAIceHD.label>纹章：水</TM_HollowGolem_CoAIceHD.label>
+  <!--EN: I-->
+  <TM_HollowGolem_CoAIceHD.stages.0.label>I</TM_HollowGolem_CoAIceHD.stages.0.label>
+  <!--EN: II-->
+  <TM_HollowGolem_CoAIceHD.stages.1.label>II</TM_HollowGolem_CoAIceHD.stages.1.label>
+  <!--EN: III-->
+  <TM_HollowGolem_CoAIceHD.stages.2.label>III</TM_HollowGolem_CoAIceHD.stages.2.label>
+  <!--EN: Strengthens willpower and offers minor protection against physical attacks.-->
+  <TM_HollowGolem_CrownHD.description>增强傀儡的魔法抗性，并提供少量的物理保护。主动技能：探测并消除来袭的魔法。</TM_HollowGolem_CrownHD.description>
+  <!--EN: crown of awakening-->
+  <TM_HollowGolem_CrownHD.label>觉醒之冠</TM_HollowGolem_CrownHD.label>
+  <!--EN: Protects the head and skull.-->
+  <TM_HollowGolem_HelmHD.description>保护头部。</TM_HollowGolem_HelmHD.description>
+  <!--EN: helmet-->
+  <TM_HollowGolem_HelmHD.label>空洞之盔</TM_HollowGolem_HelmHD.label>
+  <!--EN: Protects the shoulders, collar, and neck.-->
+  <TM_HollowGolem_ShoulderHD.description>护脖子锁骨以及两肩。</TM_HollowGolem_ShoulderHD.description>
+  <!--EN: shoulders-->
+  <TM_HollowGolem_ShoulderHD.label>空洞护肩</TM_HollowGolem_ShoulderHD.label>
+  <!--EN: set-->
+  <TM_Holy.comps.0.labelSolidTendedWell>已固定</TM_Holy.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_Holy.comps.0.labelTendedWell>已包扎</TM_Holy.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_Holy.comps.0.labelTendedWellInner>已缝合</TM_Holy.comps.0.labelTendedWellInner>
+  <!--EN: destroyed by holy power-->
+  <TM_Holy.comps.1.permanentLabel>被神圣力量摧毁</TM_Holy.comps.1.permanentLabel>
+  <!--EN: Belief made into destructive energy.-->
+  <TM_Holy.description>来自破坏之光的能量.</TM_Holy.description>
+  <!--EN: burned off-->
+  <TM_Holy.injuryProps.destroyedLabel>燃坏</TM_Holy.injuryProps.destroyedLabel>
+  <!--EN: burned out-->
+  <TM_Holy.injuryProps.destroyedOutLabel>烧尽</TM_Holy.injuryProps.destroyedOutLabel>
+  <!--EN: Holy Wrath-->
+  <TM_Holy.label>神罚</TM_Holy.label>
+  <!--EN: An aura that generates and bestows warmth and confidence.-->
+  <TM_InnerFire_AuraHD.description>产生并给予温暖和自信的光环。</TM_InnerFire_AuraHD.description>
+  <!--EN: Aura of Warmth-->
+  <TM_InnerFire_AuraHD.label>温暖的光环</TM_InnerFire_AuraHD.label>
+  <!--EN: I-->
+  <TM_InnerFire_AuraHD.stages.0.label>I</TM_InnerFire_AuraHD.stages.0.label>
+  <!--EN: II-->
+  <TM_InnerFire_AuraHD.stages.1.label>II</TM_InnerFire_AuraHD.stages.1.label>
+  <!--EN: III-->
+  <TM_InnerFire_AuraHD.stages.2.label>III</TM_InnerFire_AuraHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_InnerFire_AuraHD.stages.3.label>IV</TM_InnerFire_AuraHD.stages.3.label>
+  <!--EN: Causes others to gain inspirations.-->
+  <TM_InspirationalHD.description>受到启发。</TM_InspirationalHD.description>
+  <!--EN: Inspirational-->
+  <TM_InspirationalHD.label>灵感迸发</TM_InspirationalHD.label>
+  <!--EN: Bard-->
+  <TM_InspirationalHD.stages.0.label>吟游诗人</TM_InspirationalHD.stages.0.label>
+  <!--EN: Causes the affected pawn to become invisible and untargetable by nearby enemies.-->
+  <TM_InvisibilityHD.description>使受影响的人在附近的敌人面前变得不可见和不可攻击。.</TM_InvisibilityHD.description>
+  <!--EN: Invisibility-->
+  <TM_InvisibilityHD.label>隐形</TM_InvisibilityHD.label>
+  <!--EN: I-->
+  <TM_InvisibilityHD.stages.0.label>I</TM_InvisibilityHD.stages.0.label>
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_JawRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_JawRegrowth.description>
+  <!--EN: Regrown Jaw-->
+  <TM_JawRegrowth.label>再生颌</TM_JawRegrowth.label>
+  <!--EN: forming-->
+  <TM_JawRegrowth.stages.0.label>形成</TM_JawRegrowth.stages.0.label>
+  <!--EN: developing-->
+  <TM_JawRegrowth.stages.1.label>正在生长</TM_JawRegrowth.stages.1.label>
+  <!--EN: regrown-->
+  <TM_JawRegrowth.stages.2.label>再生</TM_JawRegrowth.stages.2.label>
+  <!--EN: enhanced-->
+  <TM_JawRegrowth.stages.3.label>增强</TM_JawRegrowth.stages.3.label>
+  <!--EN: A small boon that increases physical energy.-->
+  <TM_JoltHD.description>一个增加体力的小恩惠.</TM_JoltHD.description>
+  <!--EN: Jolt-->
+  <TM_JoltHD.label>震动</TM_JoltHD.label>
+  <!--EN: I-->
+  <TM_JoltHD.stages.0.label>I</TM_JoltHD.stages.0.label>
+  <!--EN: II-->
+  <TM_JoltHD.stages.1.label>II</TM_JoltHD.stages.1.label>
+  <!--EN: III-->
+  <TM_JoltHD.stages.2.label>III</TM_JoltHD.stages.2.label>
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_KidneyRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_KidneyRegrowth.description>
+  <!--EN: Regrown Kidney-->
+  <TM_KidneyRegrowth.label>再生肾</TM_KidneyRegrowth.label>
+  <!--EN: forming-->
+  <TM_KidneyRegrowth.stages.0.label>形成</TM_KidneyRegrowth.stages.0.label>
+  <!--EN: developing-->
+  <TM_KidneyRegrowth.stages.1.label>正在生长</TM_KidneyRegrowth.stages.1.label>
+  <!--EN: regrown-->
+  <TM_KidneyRegrowth.stages.2.label>再生</TM_KidneyRegrowth.stages.2.label>
+  <!--EN: enhanced-->
+  <TM_KidneyRegrowth.stages.3.label>增强</TM_KidneyRegrowth.stages.3.label>
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_LegRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_LegRegrowth.description>
+  <!--EN: Regrown Leg-->
+  <TM_LegRegrowth.label>再生腿</TM_LegRegrowth.label>
+  <!--EN: stub-->
+  <TM_LegRegrowth.stages.0.label>存根</TM_LegRegrowth.stages.0.label>
+  <!--EN: fledgling-->
+  <TM_LegRegrowth.stages.1.label>新的</TM_LegRegrowth.stages.1.label>
+  <!--EN: regrown-->
+  <TM_LegRegrowth.stages.2.label>再生</TM_LegRegrowth.stages.2.label>
+  <!--EN: wild-->
+  <TM_LegRegrowth.stages.3.label>荒野</TM_LegRegrowth.stages.3.label>
+  <!--EN: A pawn that has achieved immortality by severing their connection to the cycle of life and death.-->
+  <TM_LichHD.description>通过切断与生死循环的联系而获得永生的生物。</TM_LichHD.description>
+  <!--EN: Lich-->
+  <TM_LichHD.label>巫妖</TM_LichHD.label>
+  <!--EN: Undead-->
+  <TM_LichHD.stages.0.label>亡灵</TM_LichHD.stages.0.label>
+  <!--EN: Pain, blindness and disorientation as a result of intense light effecting sensory organs. Disoriented pawns are unable to distinguish enemies from allies.-->
+  <TM_LightBurstHD.description>由于强光影响感觉器官而引起的疼痛、失明和迷失方向。迷失方向的人无法区分敌人和盟友.</TM_LightBurstHD.description>
+  <!--EN: Blinding Flash-->
+  <TM_LightBurstHD.label>眩目之光</TM_LightBurstHD.label>
+  <!--EN: dim vision-->
+  <TM_LightBurstHD.stages.0.label>视力模糊</TM_LightBurstHD.stages.0.label>
+  <!--EN: blinded-->
+  <TM_LightBurstHD.stages.1.label>失明</TM_LightBurstHD.stages.1.label>
+  <!--EN: disoriented-->
+  <TM_LightBurstHD.stages.2.label>昏迷</TM_LightBurstHD.stages.2.label>
+  <!--EN: The amount of stored light power available to a mage - acts as a catalyst for light magic.-->
+  <TM_LightCapacitanceHD.description>一个法师可以使用的储存光能量的数量-作为光之魔法的催化剂.</TM_LightCapacitanceHD.description>
+  <!--EN: Light power-->
+  <TM_LightCapacitanceHD.label>光能</TM_LightCapacitanceHD.label>
+  <!--EN: set-->
+  <TM_LightDD.comps.0.labelSolidTendedWell>已固定</TM_LightDD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_LightDD.comps.0.labelTendedWell>已包扎</TM_LightDD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_LightDD.comps.0.labelTendedWellInner>已缝合</TM_LightDD.comps.0.labelTendedWellInner>
+  <!--EN: burned by light-->
+  <TM_LightDD.comps.1.permanentLabel>被光芒灼烧</TM_LightDD.comps.1.permanentLabel>
+  <!--EN: Destructive energy from the domain of light.-->
+  <TM_LightDD.description>来自破坏性光的能量.</TM_LightDD.description>
+  <!--EN: burned away-->
+  <TM_LightDD.injuryProps.destroyedLabel>烧毁</TM_LightDD.injuryProps.destroyedLabel>
+  <!--EN: burned out-->
+  <TM_LightDD.injuryProps.destroyedOutLabel>烧毁</TM_LightDD.injuryProps.destroyedOutLabel>
+  <!--EN: Light-->
+  <TM_LightDD.label>光</TM_LightDD.label>
+  <!--EN: set-->
+  <TM_Lightning.comps.0.labelSolidTendedWell>已固定</TM_Lightning.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_Lightning.comps.0.labelTendedWell>已包扎</TM_Lightning.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_Lightning.comps.0.labelTendedWellInner>已缝合</TM_Lightning.comps.0.labelTendedWellInner>
+  <!--EN: struck by lightning-->
+  <TM_Lightning.comps.1.permanentLabel>被闪电击中</TM_Lightning.comps.1.permanentLabel>
+  <!--EN: A powerful bolt of electricity.-->
+  <TM_Lightning.description>强电.</TM_Lightning.description>
+  <!--EN: melted-->
+  <TM_Lightning.injuryProps.destroyedLabel>融化</TM_Lightning.injuryProps.destroyedLabel>
+  <!--EN: burned out-->
+  <TM_Lightning.injuryProps.destroyedOutLabel>烧坏</TM_Lightning.injuryProps.destroyedOutLabel>
+  <!--EN: Lightning-->
+  <TM_Lightning.label>雷系魔法</TM_Lightning.label>
+  <!--EN: set-->
+  <TM_LightningCloud.comps.0.labelSolidTendedWell>已固定</TM_LightningCloud.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_LightningCloud.comps.0.labelTendedWell>已包扎</TM_LightningCloud.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_LightningCloud.comps.0.labelTendedWellInner>已缝合</TM_LightningCloud.comps.0.labelTendedWellInner>
+  <!--EN: electrocuted-->
+  <TM_LightningCloud.comps.1.permanentLabel>电击致死</TM_LightningCloud.comps.1.permanentLabel>
+  <!--EN: Ambient electrical discharge caused by condensing charged particles.-->
+  <TM_LightningCloud.description>带电粒子引起的环境放电.</TM_LightningCloud.description>
+  <!--EN: melted-->
+  <TM_LightningCloud.injuryProps.destroyedLabel>融化</TM_LightningCloud.injuryProps.destroyedLabel>
+  <!--EN: burned out-->
+  <TM_LightningCloud.injuryProps.destroyedOutLabel>烧坏</TM_LightningCloud.injuryProps.destroyedOutLabel>
+  <!--EN: Lightning-->
+  <TM_LightningCloud.label>雷系魔法</TM_LightningCloud.label>
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_LiverRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_LiverRegrowth.description>
+  <!--EN: Regrown Liver-->
+  <TM_LiverRegrowth.label>再生肝</TM_LiverRegrowth.label>
+  <!--EN: forming-->
+  <TM_LiverRegrowth.stages.0.label>形成</TM_LiverRegrowth.stages.0.label>
+  <!--EN: developing-->
+  <TM_LiverRegrowth.stages.1.label>正在生长</TM_LiverRegrowth.stages.1.label>
+  <!--EN: regrown-->
+  <TM_LiverRegrowth.stages.2.label>再生</TM_LiverRegrowth.stages.2.label>
+  <!--EN: enhanced-->
+  <TM_LiverRegrowth.stages.3.label>增强</TM_LiverRegrowth.stages.3.label>
+  <!--EN: Reduces the consciousness of a pawn.-->
+  <TM_LullabyHD.description>减低意识，昏昏欲睡。</TM_LullabyHD.description>
+  <!--EN: Lullaby-->
+  <TM_LullabyHD.label>催眠曲</TM_LullabyHD.label>
+  <!--EN: I-->
+  <TM_LullabyHD.stages.0.label>I</TM_LullabyHD.stages.0.label>
+  <!--EN: II-->
+  <TM_LullabyHD.stages.1.label>II</TM_LullabyHD.stages.1.label>
+  <!--EN: III-->
+  <TM_LullabyHD.stages.2.label>III</TM_LullabyHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_LullabyHD.stages.3.label>IV</TM_LullabyHD.stages.3.label>
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_LungRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_LungRegrowth.description>
+  <!--EN: Regrown Lung-->
+  <TM_LungRegrowth.label>再生肺</TM_LungRegrowth.label>
+  <!--EN: forming-->
+  <TM_LungRegrowth.stages.0.label>形成</TM_LungRegrowth.stages.0.label>
+  <!--EN: developing-->
+  <TM_LungRegrowth.stages.1.label>正在生长</TM_LungRegrowth.stages.1.label>
+  <!--EN: regrown-->
+  <TM_LungRegrowth.stages.2.label>再生</TM_LungRegrowth.stages.2.label>
+  <!--EN: enhanced-->
+  <TM_LungRegrowth.stages.3.label>增强</TM_LungRegrowth.stages.3.label>
+  <!--EN: A small light sustained by magic.-->
+  <TM_MageLightHD.description>靠魔法维持的微弱的光.</TM_MageLightHD.description>
+  <!--EN: Magelight-->
+  <TM_MageLightHD.label>法师之光</TM_MageLightHD.label>
+  <!--EN: set-->
+  <TM_MagicMissile.comps.0.labelSolidTendedWell>已固定</TM_MagicMissile.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_MagicMissile.comps.0.labelTendedWell>已包扎</TM_MagicMissile.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_MagicMissile.comps.0.labelTendedWellInner>已缝合</TM_MagicMissile.comps.0.labelTendedWellInner>
+  <!--EN: touched by the arcane-->
+  <TM_MagicMissile.comps.1.permanentLabel>被奥术触碰</TM_MagicMissile.comps.1.permanentLabel>
+  <!--EN: Arcane energy projected in small, focused bursts.-->
+  <TM_MagicMissile.description>奥术能量投射在并集中一个球体中爆发出来。</TM_MagicMissile.description>
+  <!--EN: sliced off-->
+  <TM_MagicMissile.injuryProps.destroyedLabel>毁坏</TM_MagicMissile.injuryProps.destroyedLabel>
+  <!--EN: cut out-->
+  <TM_MagicMissile.injuryProps.destroyedOutLabel>切断</TM_MagicMissile.injuryProps.destroyedOutLabel>
+  <!--EN: Magic Missile-->
+  <TM_MagicMissile.label>奥术飞弹</TM_MagicMissile.label>
+  <!--EN: This pawn has recently lost their connection to magic and will suffer from a loss of direction and purpose until they can fill the void with another purpose.-->
+  <TM_MagicSeverenceHD.description>这个生物最近失去了与魔法的联系，并失去了方向和目的，直到他们可以用另一个目的来填补空白。</TM_MagicSeverenceHD.description>
+  <!--EN: Magic Severence-->
+  <TM_MagicSeverenceHD.label>斩断魔法</TM_MagicSeverenceHD.label>
+  <!--EN: Absorbs damage.-->
+  <TM_MagicShieldHD.description>吸收伤害。</TM_MagicShieldHD.description>
+  <!--EN: Shield-->
+  <TM_MagicShieldHD.label>护盾</TM_MagicShieldHD.label>
+  <!--EN: Hediff required for magic users.-->
+  <TM_MagicUserHD.description>魔法师需要的状态.</TM_MagicUserHD.description>
+  <!--EN: magic user-->
+  <TM_MagicUserHD.label>魔法师</TM_MagicUserHD.label>
+  <!--EN: hidden-->
+  <TM_MagicUserHD.stages.0.label>隐藏</TM_MagicUserHD.stages.0.label>
+  <!--EN: Improves physical protection.-->
+  <TM_MaharalGolem_ArmorHD.description>增加傀儡防护能力</TM_MaharalGolem_ArmorHD.description>
+  <!--EN: armor-->
+  <TM_MaharalGolem_ArmorHD.label>鞣制</TM_MaharalGolem_ArmorHD.label>
+  <!--EN: I-->
+  <TM_MaharalGolem_ArmorHD.stages.0.label>I</TM_MaharalGolem_ArmorHD.stages.0.label>
+  <!--EN: II-->
+  <TM_MaharalGolem_ArmorHD.stages.1.label>II</TM_MaharalGolem_ArmorHD.stages.1.label>
+  <!--EN: III-->
+  <TM_MaharalGolem_ArmorHD.stages.2.label>III</TM_MaharalGolem_ArmorHD.stages.2.label>
+  <!--EN: set-->
+  <TM_ManaMine.comps.0.labelSolidTendedWell>已固定</TM_ManaMine.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_ManaMine.comps.0.labelTendedWell>已包扎</TM_ManaMine.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_ManaMine.comps.0.labelTendedWellInner>已缝合</TM_ManaMine.comps.0.labelTendedWellInner>
+  <!--EN: destroyed by a mana explosion-->
+  <TM_ManaMine.comps.1.permanentLabel>被魔力爆炸摧毁</TM_ManaMine.comps.1.permanentLabel>
+  <!--EN: Explosive release of contained mana.-->
+  <TM_ManaMine.description>爆炸性地释放所含法力。</TM_ManaMine.description>
+  <!--EN: blasted off-->
+  <TM_ManaMine.injuryProps.destroyedLabel>枯萎</TM_ManaMine.injuryProps.destroyedLabel>
+  <!--EN: burned out-->
+  <TM_ManaMine.injuryProps.destroyedOutLabel>烧坏</TM_ManaMine.injuryProps.destroyedOutLabel>
+  <!--EN: mana explosion-->
+  <TM_ManaMine.label>魔法地雷</TM_ManaMine.label>
+  <!--EN: Sacrifices magical energy to absorb damage.-->
+  <TM_ManaShieldHD.description>牺牲法力来吸收伤害。</TM_ManaShieldHD.description>
+  <!--EN: Mana Shield-->
+  <TM_ManaShieldHD.label>法力护盾</TM_ManaShieldHD.label>
+  <!--EN: Mana sickness affects mages when they have 0 mana and their regeneration is negative. Mana sickness will eventually kill a mage if it is not reversed. Players may evaluate a mage's mana regeneration in the Magic Tab while hovering over the Mana regeneration value to display a tooltip showing contributors affecting mana regeneration.-->
+  <TM_ManaSickness.description>法力反噬会影响法师,当他们没有法力时而且他们的法力再生为负时。法力反噬最终会杀死一个法师，如果它没有被逆转。玩家可以在魔法界面中评估法师的法力回复，同时将鼠标悬停在法力回复值上，会显示一个提示，显示影响法力回复的因素.</TM_ManaSickness.description>
+  <!--EN: mana sickness-->
+  <TM_ManaSickness.label>法力反噬</TM_ManaSickness.label>
+  <!--EN: weakened-->
+  <TM_ManaSickness.stages.0.label>虚弱</TM_ManaSickness.stages.0.label>
+  <!--EN: ailing-->
+  <TM_ManaSickness.stages.1.label>衰竭</TM_ManaSickness.stages.1.label>
+  <!--EN: near death-->
+  <TM_ManaSickness.stages.2.label>临近死亡</TM_ManaSickness.stages.2.label>
+  <!--EN: Arcane power that augments dexterity (manipulation).-->
+  <TM_Manipulation.description>增加灵巧性（操控）的神秘力量。</TM_Manipulation.description>
+  <!--EN: arcane dexterity-->
+  <TM_Manipulation.label>奥术灵巧</TM_Manipulation.label>
+  <!--EN: I-->
+  <TM_Manipulation.stages.0.label>I</TM_Manipulation.stages.0.label>
+  <!--EN: II-->
+  <TM_Manipulation.stages.1.label>II</TM_Manipulation.stages.1.label>
+  <!--EN: III-->
+  <TM_Manipulation.stages.2.label>III</TM_Manipulation.stages.2.label>
+  <!--EN: IV-->
+  <TM_Manipulation.stages.3.label>IV</TM_Manipulation.stages.3.label>
+  <!--EN: V-->
+  <TM_Manipulation.stages.4.label>V</TM_Manipulation.stages.4.label>
+  <!--EN: Improves armor, but reduces movement speed.-->
+  <TM_Mecha.Golem_BallisticPlateHD.description>提高防御，但降低移动速度。</TM_Mecha.Golem_BallisticPlateHD.description>
+  <!--EN: Ballistic plate-->
+  <TM_Mecha.Golem_BallisticPlateHD.label>防御板</TM_Mecha.Golem_BallisticPlateHD.label>
+  <!--EN: Earth core processor upgrades increase armor and protection.-->
+  <TM_Mecha.Golem_EarthCoreHD.description>地之核心升级增加护甲和防御。</TM_Mecha.Golem_EarthCoreHD.description>
+  <!--EN: Earth core-->
+  <TM_Mecha.Golem_EarthCoreHD.label>地之核心</TM_Mecha.Golem_EarthCoreHD.label>
+  <!--EN: Mk.1-->
+  <TM_Mecha.Golem_EarthCoreHD.stages.0.label>Mk.1</TM_Mecha.Golem_EarthCoreHD.stages.0.label>
+  <!--EN: Mk.2-->
+  <TM_Mecha.Golem_EarthCoreHD.stages.1.label>Mk.2</TM_Mecha.Golem_EarthCoreHD.stages.1.label>
+  <!--EN: Mk.3-->
+  <TM_Mecha.Golem_EarthCoreHD.stages.2.label>Mk.3</TM_Mecha.Golem_EarthCoreHD.stages.2.label>
+  <!--EN: Flame core upgrades increase movement speed and decreases cooldown time for attacks and abilities.-->
+  <TM_Mecha.Golem_FlameCoreHD.description>焰之核心升级提高移动速度，减少攻击和技能的冷却时间。</TM_Mecha.Golem_FlameCoreHD.description>
+  <!--EN: Flame core-->
+  <TM_Mecha.Golem_FlameCoreHD.label>焰之核心</TM_Mecha.Golem_FlameCoreHD.label>
+  <!--EN: Mk.1-->
+  <TM_Mecha.Golem_FlameCoreHD.stages.0.label>Mk.1</TM_Mecha.Golem_FlameCoreHD.stages.0.label>
+  <!--EN: Mk.2-->
+  <TM_Mecha.Golem_FlameCoreHD.stages.1.label>Mk.2</TM_Mecha.Golem_FlameCoreHD.stages.1.label>
+  <!--EN: Mk.3-->
+  <TM_Mecha.Golem_FlameCoreHD.stages.2.label>Mk.3</TM_Mecha.Golem_FlameCoreHD.stages.2.label>
+  <!--EN: A gatling cannon mounted to the right shoulder.-->
+  <TM_Mecha.Golem_GatlingCannonHD.description>安装在右肩的加特林机炮。</TM_Mecha.Golem_GatlingCannonHD.description>
+  <!--EN: Gatling Cannon-->
+  <TM_Mecha.Golem_GatlingCannonHD.label>加特林机炮</TM_Mecha.Golem_GatlingCannonHD.label>
+  <!--EN: Lightning core upgrades increase improve movement and processing speed.-->
+  <TM_Mecha.Golem_LightningCoreHD.description>雷之核心升级可提高移动和制作速度。</TM_Mecha.Golem_LightningCoreHD.description>
+  <!--EN: Lightning core-->
+  <TM_Mecha.Golem_LightningCoreHD.label>雷之核心</TM_Mecha.Golem_LightningCoreHD.label>
+  <!--EN: Mk.1-->
+  <TM_Mecha.Golem_LightningCoreHD.stages.0.label>Mk.1</TM_Mecha.Golem_LightningCoreHD.stages.0.label>
+  <!--EN: Mk.2-->
+  <TM_Mecha.Golem_LightningCoreHD.stages.1.label>Mk.2</TM_Mecha.Golem_LightningCoreHD.stages.1.label>
+  <!--EN: Mk.3-->
+  <TM_Mecha.Golem_LightningCoreHD.stages.2.label>Mk.3</TM_Mecha.Golem_LightningCoreHD.stages.2.label>
+  <!--EN: Water core processor upgrades increase armor and regeneration, and improve energy conservation.-->
+  <TM_Mecha.Golem_WaterCoreHD.description>水之核心升级可增加护甲和再生能力，并提高节能能力。</TM_Mecha.Golem_WaterCoreHD.description>
+  <!--EN: Water core-->
+  <TM_Mecha.Golem_WaterCoreHD.label>水之核心</TM_Mecha.Golem_WaterCoreHD.label>
+  <!--EN: Mk.1-->
+  <TM_Mecha.Golem_WaterCoreHD.stages.0.label>Mk.1</TM_Mecha.Golem_WaterCoreHD.stages.0.label>
+  <!--EN: Mk.2-->
+  <TM_Mecha.Golem_WaterCoreHD.stages.1.label>Mk.2</TM_Mecha.Golem_WaterCoreHD.stages.1.label>
+  <!--EN: Mk.3-->
+  <TM_Mecha.Golem_WaterCoreHD.stages.2.label>Mk.3</TM_Mecha.Golem_WaterCoreHD.stages.2.label>
+  <!--EN: medical supplies are not meant to regen-->
+  <TM_MedicalSupplyHD.comps.0.regenPerTickUpgradeName>医疗用品并不意味着再生</TM_MedicalSupplyHD.comps.0.regenPerTickUpgradeName>
+  <!--EN: Accounts for the medical supplies equipped by a Field Medic.-->
+  <TM_MedicalSupplyHD.description>战地医生装备的医疗用品。</TM_MedicalSupplyHD.description>
+  <!--EN: Medical Supplies-->
+  <TM_MedicalSupplyHD.label>医疗补给</TM_MedicalSupplyHD.label>
+  <!--EN: Medigel increases healing rates and fights infections.-->
+  <TM_MedigelHD.description>伤口愈合凝胶会提高治愈率并对抗感染。</TM_MedigelHD.description>
+  <!--EN: Medigel-->
+  <TM_MedigelHD.label>伤口愈合凝胶</TM_MedigelHD.label>
+  <!--EN: I-->
+  <TM_MedigelHD.stages.0.label>I</TM_MedigelHD.stages.0.label>
+  <!--EN: Hediff required for might users.-->
+  <TM_MightUserHD.description>战士需要的状态.</TM_MightUserHD.description>
+  <!--EN: might user-->
+  <TM_MightUserHD.label>战士</TM_MightUserHD.label>
+  <!--EN: hidden-->
+  <TM_MightUserHD.stages.0.label>隐藏</TM_MightUserHD.stages.0.label>
+  <!--EN: This pawn has been overwhelmed with a flood of emotions and is unable to think or act with clear intention; this can cause a pawn to drop their weapon or flee in fear.-->
+  <TM_MindKillerHD.description>此人已经被洪水般的情绪所淹没，无法有明确的意图去思考或行动; 这可以导致其放下武器或在恐惧中逃跑。</TM_MindKillerHD.description>
+  <!--EN: emotion shock-->
+  <TM_MindKillerHD.label>情感崩坏</TM_MindKillerHD.label>
+  <!--EN: recovering-->
+  <TM_MindKillerHD.stages.0.label>恢复</TM_MindKillerHD.stages.0.label>
+  <!--EN: I-->
+  <TM_MindKillerHD.stages.1.label>I</TM_MindKillerHD.stages.1.label>
+  <!--EN: II-->
+  <TM_MindKillerHD.stages.2.label>II</TM_MindKillerHD.stages.2.label>
+  <!--EN: III-->
+  <TM_MindKillerHD.stages.3.label>III</TM_MindKillerHD.stages.3.label>
+  <!--EN: Reinforces physical power by overcoming the limitations of the body.-->
+  <TM_MindOverBodyHD.description>通过克服身体的局限性来增强体力.</TM_MindOverBodyHD.description>
+  <!--EN: Mind over body-->
+  <TM_MindOverBodyHD.label>御气护体</TM_MindOverBodyHD.label>
+  <!--EN: I-->
+  <TM_MindOverBodyHD.stages.0.label>I</TM_MindOverBodyHD.stages.0.label>
+  <!--EN: II-->
+  <TM_MindOverBodyHD.stages.1.label>II</TM_MindOverBodyHD.stages.1.label>
+  <!--EN: III-->
+  <TM_MindOverBodyHD.stages.2.label>III</TM_MindOverBodyHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_MindOverBodyHD.stages.3.label>IV</TM_MindOverBodyHD.stages.3.label>
+  <!--EN: Received an order to move quickly.-->
+  <TM_MoveOutHD.description>接到命令，迅速行动。</TM_MoveOutHD.description>
+  <!--EN: Double Time-->
+  <TM_MoveOutHD.label>两倍时间</TM_MoveOutHD.label>
+  <!--EN: Recovering-->
+  <TM_MoveOutHD.stages.0.label>恢复</TM_MoveOutHD.stages.0.label>
+  <!--EN: Arcane power that augments a pawns movement speed.-->
+  <TM_Movement.description>增加小人移动速度的神秘力量.</TM_Movement.description>
+  <!--EN: arcane speed-->
+  <TM_Movement.label>奥术冲刺</TM_Movement.label>
+  <!--EN: I-->
+  <TM_Movement.stages.0.label>I</TM_Movement.stages.0.label>
+  <!--EN: II-->
+  <TM_Movement.stages.1.label>II</TM_Movement.stages.1.label>
+  <!--EN: III-->
+  <TM_Movement.stages.2.label>III</TM_Movement.stages.2.label>
+  <!--EN: IV-->
+  <TM_Movement.stages.3.label>IV</TM_Movement.stages.3.label>
+  <!--EN: V-->
+  <TM_Movement.stages.4.label>V</TM_Movement.stages.4.label>
+  <!--EN: A curse that prevents the use of magical abilities.-->
+  <TM_MuteHD.description>阻止使用魔法的诅咒.</TM_MuteHD.description>
+  <!--EN: Magically Mute-->
+  <TM_MuteHD.label>奥术沉默</TM_MuteHD.label>
+  <!--EN: Combat enhancing stimulant; followed by a brief withdrawal period.-->
+  <TM_NanoStimulantHD.description>增强战斗力的兴奋剂；随后是短暂的停药期。</TM_NanoStimulantHD.description>
+  <!--EN: nano stimulant-->
+  <TM_NanoStimulantHD.label>纳米兴奋剂</TM_NanoStimulantHD.label>
+  <!--EN: I-->
+  <TM_NanoStimulantHD.stages.0.label>I</TM_NanoStimulantHD.stages.0.label>
+  <!--EN: II-->
+  <TM_NanoStimulantHD.stages.1.label>II</TM_NanoStimulantHD.stages.1.label>
+  <!--EN: XI-->
+  <TM_NanoStimulantHD.stages.10.label>XI</TM_NanoStimulantHD.stages.10.label>
+  <!--EN: XII-->
+  <TM_NanoStimulantHD.stages.11.label>XII</TM_NanoStimulantHD.stages.11.label>
+  <!--EN: XIII-->
+  <TM_NanoStimulantHD.stages.12.label>XIII</TM_NanoStimulantHD.stages.12.label>
+  <!--EN: XIV-->
+  <TM_NanoStimulantHD.stages.13.label>XIV</TM_NanoStimulantHD.stages.13.label>
+  <!--EN: XV-->
+  <TM_NanoStimulantHD.stages.14.label>XV</TM_NanoStimulantHD.stages.14.label>
+  <!--EN: III-->
+  <TM_NanoStimulantHD.stages.2.label>III</TM_NanoStimulantHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_NanoStimulantHD.stages.3.label>IV</TM_NanoStimulantHD.stages.3.label>
+  <!--EN: V-->
+  <TM_NanoStimulantHD.stages.4.label>V</TM_NanoStimulantHD.stages.4.label>
+  <!--EN: VI-->
+  <TM_NanoStimulantHD.stages.5.label>VI</TM_NanoStimulantHD.stages.5.label>
+  <!--EN: VII-->
+  <TM_NanoStimulantHD.stages.6.label>VII</TM_NanoStimulantHD.stages.6.label>
+  <!--EN: VIII-->
+  <TM_NanoStimulantHD.stages.7.label>VIII</TM_NanoStimulantHD.stages.7.label>
+  <!--EN: IX-->
+  <TM_NanoStimulantHD.stages.8.label>IX</TM_NanoStimulantHD.stages.8.label>
+  <!--EN: X-->
+  <TM_NanoStimulantHD.stages.9.label>X</TM_NanoStimulantHD.stages.9.label>
+  <!--EN: Withdrawal after the effects of the nano stim wear off.-->
+  <TM_NanoStimulantWithdrawalHD.description>停药后纳米兴奋剂的效果逐渐消失。</TM_NanoStimulantWithdrawalHD.description>
+  <!--EN: stim withdrawal-->
+  <TM_NanoStimulantWithdrawalHD.label>停用兴奋剂</TM_NanoStimulantWithdrawalHD.label>
+  <!--EN: Applies nightshade toxin to weapons and ammunition.-->
+  <TM_NightshadeHD.description>使用夜影毒素涂在武器和弹药上。</TM_NightshadeHD.description>
+  <!--EN: Nightshade coating-->
+  <TM_NightshadeHD.label>夜影毒素</TM_NightshadeHD.label>
+  <!--EN: Afflicted with nightshade toxin causing blindness and difficulty breathing.-->
+  <TM_NightshadeToxinHD.description>使用夜影毒素涂在武器和弹药上。</TM_NightshadeToxinHD.description>
+  <!--EN: Nightshade toxin-->
+  <TM_NightshadeToxinHD.label>夜影毒素</TM_NightshadeToxinHD.label>
+  <!--EN: I-->
+  <TM_NightshadeToxinHD.stages.1.label>I</TM_NightshadeToxinHD.stages.1.label>
+  <!--EN: II-->
+  <TM_NightshadeToxinHD.stages.2.label>II</TM_NightshadeToxinHD.stages.2.label>
+  <!--EN: III-->
+  <TM_NightshadeToxinHD.stages.3.label>III</TM_NightshadeToxinHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_NightshadeToxinHD.stages.4.label>IV</TM_NightshadeToxinHD.stages.4.label>
+  <!--EN: V-->
+  <TM_NightshadeToxinHD.stages.5.label>V</TM_NightshadeToxinHD.stages.5.label>
+  <!--EN: The emotions and awareness of this pawn have been attached to another pawn; this body is currently an empty shell.-->
+  <TM_OutOfBodyHD.description>这个人的情感和意识依附在另一个人上; 这个身体现在只是个空壳。</TM_OutOfBodyHD.description>
+  <!--EN: out of body-->
+  <TM_OutOfBodyHD.label>灵魂出窍</TM_OutOfBodyHD.label>
+  <!--EN: Overclocked electronics and machinery are performing at hazardous rates.-->
+  <TM_OverdriveHD.description>超频电子和机械,让其以危险的速度运转。</TM_OverdriveHD.description>
+  <!--EN: overdrive-->
+  <TM_OverdriveHD.label>过载</TM_OverdriveHD.label>
+  <!--EN: I-->
+  <TM_OverdriveHD.stages.0.label>I</TM_OverdriveHD.stages.0.label>
+  <!--EN: II-->
+  <TM_OverdriveHD.stages.1.label>II</TM_OverdriveHD.stages.1.label>
+  <!--EN: III-->
+  <TM_OverdriveHD.stages.2.label>III</TM_OverdriveHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_OverdriveHD.stages.3.label>IV</TM_OverdriveHD.stages.3.label>
+  <!--EN: Overclocked electronics and machinery are performing at hazardous rates.-->
+  <TM_OverdriveHD_I.description>超频电子和机械,让其以危险的速度运转。</TM_OverdriveHD_I.description>
+  <!--EN: overdrive-->
+  <TM_OverdriveHD_I.label>过载</TM_OverdriveHD_I.label>
+  <!--EN: I-->
+  <TM_OverdriveHD_I.stages.0.label>I</TM_OverdriveHD_I.stages.0.label>
+  <!--EN: II-->
+  <TM_OverdriveHD_I.stages.1.label>II</TM_OverdriveHD_I.stages.1.label>
+  <!--EN: III-->
+  <TM_OverdriveHD_I.stages.2.label>III</TM_OverdriveHD_I.stages.2.label>
+  <!--EN: IV-->
+  <TM_OverdriveHD_I.stages.3.label>IV</TM_OverdriveHD_I.stages.3.label>
+  <!--EN: Overclocked electronics and machinery are performing at hazardous rates.-->
+  <TM_OverdriveHD_II.description>超频电子和机械,让其以危险的速度运转。</TM_OverdriveHD_II.description>
+  <!--EN: overdrive-->
+  <TM_OverdriveHD_II.label>过载</TM_OverdriveHD_II.label>
+  <!--EN: I-->
+  <TM_OverdriveHD_II.stages.0.label>I</TM_OverdriveHD_II.stages.0.label>
+  <!--EN: II-->
+  <TM_OverdriveHD_II.stages.1.label>II</TM_OverdriveHD_II.stages.1.label>
+  <!--EN: III-->
+  <TM_OverdriveHD_II.stages.2.label>III</TM_OverdriveHD_II.stages.2.label>
+  <!--EN: IV-->
+  <TM_OverdriveHD_II.stages.3.label>IV</TM_OverdriveHD_II.stages.3.label>
+  <!--EN: Overclocked electronics and machinery are performing at hazardous rates.-->
+  <TM_OverdriveHD_III.description>超频电子和机械,让其以危险的速度运转。</TM_OverdriveHD_III.description>
+  <!--EN: overdrive-->
+  <TM_OverdriveHD_III.label>过载</TM_OverdriveHD_III.label>
+  <!--EN: I-->
+  <TM_OverdriveHD_III.stages.0.label>I</TM_OverdriveHD_III.stages.0.label>
+  <!--EN: II-->
+  <TM_OverdriveHD_III.stages.1.label>II</TM_OverdriveHD_III.stages.1.label>
+  <!--EN: III-->
+  <TM_OverdriveHD_III.stages.2.label>III</TM_OverdriveHD_III.stages.2.label>
+  <!--EN: IV-->
+  <TM_OverdriveHD_III.stages.3.label>IV</TM_OverdriveHD_III.stages.3.label>
+  <!--EN: set-->
+  <TM_PainHD.comps.0.labelSolidTendedWell>已固定</TM_PainHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_PainHD.comps.0.labelTendedWell>已包扎</TM_PainHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_PainHD.comps.0.labelTendedWellInner>已缝合</TM_PainHD.comps.0.labelTendedWellInner>
+  <!--EN: withered-->
+  <TM_PainHD.comps.1.permanentLabel>干枯</TM_PainHD.comps.1.permanentLabel>
+  <!--EN: An injury cursed with extreme pain.-->
+  <TM_PainHD.description>因诅咒而受到极度疼痛的伤害。</TM_PainHD.description>
+  <!--EN: withered away-->
+  <TM_PainHD.injuryProps.destroyedLabel>已幻灭</TM_PainHD.injuryProps.destroyedLabel>
+  <!--EN: withered away-->
+  <TM_PainHD.injuryProps.destroyedOutLabel>已幻灭</TM_PainHD.injuryProps.destroyedOutLabel>
+  <!--EN: Pain-->
+  <TM_PainHD.label>痛苦</TM_PainHD.label>
+  <!--EN: A missing bodypart.-->
+  <TM_PartRemovalHD.description>缺失身体部件。</TM_PartRemovalHD.description>
+  <!--EN: missing-->
+  <TM_PartRemovalHD.injuryProps.destroyedLabel>缺失</TM_PartRemovalHD.injuryProps.destroyedLabel>
+  <!--EN: missing-->
+  <TM_PartRemovalHD.injuryProps.destroyedOutLabel>缺失</TM_PartRemovalHD.injuryProps.destroyedOutLabel>
+  <!--EN: missing-->
+  <TM_PartRemovalHD.label>缺失</TM_PartRemovalHD.label>
+  <!--EN: missing-->
+  <TM_PartRemovalHD.labelNoun>缺失</TM_PartRemovalHD.labelNoun>
+  <!--EN: set-->
+  <TM_Poison_HD.comps.0.labelSolidTendedWell>已缝合</TM_Poison_HD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_Poison_HD.comps.0.labelTendedWell>已简单固定</TM_Poison_HD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_Poison_HD.comps.0.labelTendedWellInner>已包扎</TM_Poison_HD.comps.0.labelTendedWellInner>
+  <!--EN: withered away-->
+  <TM_Poison_HD.comps.1.permanentLabel>枯萎了</TM_Poison_HD.comps.1.permanentLabel>
+  <!--EN: Damage caused by poison.-->
+  <TM_Poison_HD.description>这人已经中毒.</TM_Poison_HD.description>
+  <!--EN: withered-->
+  <TM_Poison_HD.injuryProps.destroyedLabel>凋零</TM_Poison_HD.injuryProps.destroyedLabel>
+  <!--EN: withered-->
+  <TM_Poison_HD.injuryProps.destroyedOutLabel>凋零</TM_Poison_HD.injuryProps.destroyedOutLabel>
+  <!--EN: Poison-->
+  <TM_Poison_HD.label>中毒</TM_Poison_HD.label>
+  <!--EN: Side effects of poison.-->
+  <TM_Poisoned_HD.description>毒药的副作用。</TM_Poisoned_HD.description>
+  <!--EN: Poisoned-->
+  <TM_Poisoned_HD.label>中毒</TM_Poisoned_HD.label>
+  <!--EN: minor-->
+  <TM_Poisoned_HD.stages.0.label>小</TM_Poisoned_HD.stages.0.label>
+  <!--EN: moderate-->
+  <TM_Poisoned_HD.stages.1.label>中</TM_Poisoned_HD.stages.1.label>
+  <!--EN: major-->
+  <TM_Poisoned_HD.stages.2.label>大</TM_Poisoned_HD.stages.2.label>
+  <!--EN: Relaxation and heightened senses from consuming raw pomana fruit.-->
+  <TM_PomanaSenseHD.description>从食用生的波莫纳中得到放松和提高的感觉。</TM_PomanaSenseHD.description>
+  <!--EN: pomana sense-->
+  <TM_PomanaSenseHD.label>波莫纳</TM_PomanaSenseHD.label>
+  <!--EN: Actions are being influenced by a master of deception.-->
+  <TM_PossessionHD.description>身体被无面者占据，且受其影响。</TM_PossessionHD.description>
+  <!--EN: Possessed-->
+  <TM_PossessionHD.label>占据</TM_PossessionHD.label>
+  <!--EN: I-->
+  <TM_PossessionHD.stages.0.label>I</TM_PossessionHD.stages.0.label>
+  <!--EN: Actions are being influenced by a master of deception.-->
+  <TM_PossessionHD_I.description>身体被无面者占据，且受其影响。</TM_PossessionHD_I.description>
+  <!--EN: Possessed-->
+  <TM_PossessionHD_I.label>占据</TM_PossessionHD_I.label>
+  <!--EN: II-->
+  <TM_PossessionHD_I.stages.0.label>II</TM_PossessionHD_I.stages.0.label>
+  <!--EN: Actions are being influenced by a master of deception.-->
+  <TM_PossessionHD_II.description>身体被无面者占据，且受其影响。</TM_PossessionHD_II.description>
+  <!--EN: Possessed-->
+  <TM_PossessionHD_II.label>占据</TM_PossessionHD_II.label>
+  <!--EN: III-->
+  <TM_PossessionHD_II.stages.0.label>III</TM_PossessionHD_II.stages.0.label>
+  <!--EN: Actions are being influenced by a master of deception.-->
+  <TM_PossessionHD_III.description>身体被无面者占据，且受其影响。</TM_PossessionHD_III.description>
+  <!--EN: Possessed-->
+  <TM_PossessionHD_III.label>占据</TM_PossessionHD_III.label>
+  <!--EN: IV-->
+  <TM_PossessionHD_III.stages.0.label>IV</TM_PossessionHD_III.stages.0.label>
+  <!--EN: Allows the prediction of future events or actions.
+	
+	Admin note: this ability predicts and delays any event. Some mods use these types of events as triggers for effects or outcomes, this can cause errors if the situation changes and certain objects, items, or conditions are no longer valid when a predicted event occurs.-->
+  <TM_PredictionHD.description>允许预测未来的事件或行为。作者说明：这个能力可以预测和延迟任何事件。一些mod会使用这些事件作为效果或者结果的触发器，如果情况发生变化，并且某些对象、项或条件在预测的事件发生时不再有效，则这可能会导致BUG。</TM_PredictionHD.description>
+  <!--EN: Prediction-->
+  <TM_PredictionHD.label>预言术</TM_PredictionHD.label>
+  <!--EN: I-->
+  <TM_PredictionHD.stages.0.label>I</TM_PredictionHD.stages.0.label>
+  <!--EN: II-->
+  <TM_PredictionHD.stages.1.label>II</TM_PredictionHD.stages.1.label>
+  <!--EN: III-->
+  <TM_PredictionHD.stages.2.label>III</TM_PredictionHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_PredictionHD.stages.3.label>IV</TM_PredictionHD.stages.3.label>
+  <!--EN: V-->
+  <TM_PredictionHD.stages.4.label>V</TM_PredictionHD.stages.4.label>
+  <!--EN: VI-->
+  <TM_PredictionHD.stages.5.label>VI</TM_PredictionHD.stages.5.label>
+  <!--EN: The rune of protection is able prevent the bearer from taking damage but uses some or all of its charge when doing so; this rune recharges over time.-->
+  <TM_ProtectionBrandHD.description>防御符文可以防止持符人受到伤害，但在这样做时会消耗部分或全部充能；这个符文会随着时间的推移重新充能。</TM_ProtectionBrandHD.description>
+  <!--EN: Protection Brand-->
+  <TM_ProtectionBrandHD.label>防御印记</TM_ProtectionBrandHD.label>
+  <!--EN: dormant-->
+  <TM_ProtectionBrandHD.stages.0.label>休眠</TM_ProtectionBrandHD.stages.0.label>
+  <!--EN: surging-->
+  <TM_ProtectionBrandHD.stages.2.label>激增</TM_ProtectionBrandHD.stages.2.label>
+  <!--EN: Improves the availability of provisions for nearby pawns.-->
+  <TM_ProvisionerAuraHD.description>周期性为周围盟友提供补给</TM_ProvisionerAuraHD.description>
+  <!--EN: Provisioner Aura-->
+  <TM_ProvisionerAuraHD.label>补给光环</TM_ProvisionerAuraHD.label>
+  <!--EN: Acquired supplies and information from a Commander.-->
+  <TM_ProvisionerHD.description>从指挥官哪里接收到补给。</TM_ProvisionerHD.description>
+  <!--EN: Provisions-->
+  <TM_ProvisionerHD.label>补给</TM_ProvisionerHD.label>
+  <!--EN: I-->
+  <TM_ProvisionerHD.stages.0.label>I</TM_ProvisionerHD.stages.0.label>
+  <!--EN: II-->
+  <TM_ProvisionerHD.stages.1.label>II</TM_ProvisionerHD.stages.1.label>
+  <!--EN: III-->
+  <TM_ProvisionerHD.stages.2.label>III</TM_ProvisionerHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_ProvisionerHD.stages.3.label>IV</TM_ProvisionerHD.stages.3.label>
+  <!--EN: Accounts for the unique energy of a Psionic.-->
+  <TM_PsionicHD.description>灵能者的独特能量。</TM_PsionicHD.description>
+  <!--EN: Psionic Energy-->
+  <TM_PsionicHD.label>灵能（增幅）</TM_PsionicHD.label>
+  <!--EN: set-->
+  <TM_PsionicInjuryHD.comps.0.labelSolidTendedWell>已固定</TM_PsionicInjuryHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_PsionicInjuryHD.comps.0.labelTendedWell>已包扎</TM_PsionicInjuryHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_PsionicInjuryHD.comps.0.labelTendedWellInner>已缝合</TM_PsionicInjuryHD.comps.0.labelTendedWellInner>
+  <!--EN: destroyed by psionic power-->
+  <TM_PsionicInjuryHD.comps.1.permanentLabel>被灵能摧毁</TM_PsionicInjuryHD.comps.1.permanentLabel>
+  <!--EN: Injury caused by psionic power.-->
+  <TM_PsionicInjuryHD.description>灵能造成的伤害.</TM_PsionicInjuryHD.description>
+  <!--EN: blasted off-->
+  <TM_PsionicInjuryHD.injuryProps.destroyedLabel>爆发</TM_PsionicInjuryHD.injuryProps.destroyedLabel>
+  <!--EN: blasted out-->
+  <TM_PsionicInjuryHD.injuryProps.destroyedOutLabel>爆炸</TM_PsionicInjuryHD.injuryProps.destroyedOutLabel>
+  <!--EN: Psionic-->
+  <TM_PsionicInjuryHD.label>灵能</TM_PsionicInjuryHD.label>
+  <!--EN: Enhanced dexterity through psionic augmentation.-->
+  <TM_PsionicManipulationHD.description>通过灵能增强身体机能。</TM_PsionicManipulationHD.description>
+  <!--EN: psionic manipulation-->
+  <TM_PsionicManipulationHD.label>灵能操纵</TM_PsionicManipulationHD.label>
+  <!--EN: I-->
+  <TM_PsionicManipulationHD.stages.0.label>I</TM_PsionicManipulationHD.stages.0.label>
+  <!--EN: Enhanced dexterity through psionic augmentation.-->
+  <TM_PsionicManipulationHD_I.description>通过灵能增强身体机能。</TM_PsionicManipulationHD_I.description>
+  <!--EN: psionic manipulation-->
+  <TM_PsionicManipulationHD_I.label>灵能操纵</TM_PsionicManipulationHD_I.label>
+  <!--EN: II-->
+  <TM_PsionicManipulationHD_I.stages.0.label>II</TM_PsionicManipulationHD_I.stages.0.label>
+  <!--EN: Enhanced dexterity through psionic augmentation.-->
+  <TM_PsionicManipulationHD_II.description>通过灵能增强身体机能。</TM_PsionicManipulationHD_II.description>
+  <!--EN: psionic manipulation-->
+  <TM_PsionicManipulationHD_II.label>灵能操纵</TM_PsionicManipulationHD_II.label>
+  <!--EN: III-->
+  <TM_PsionicManipulationHD_II.stages.0.label>III</TM_PsionicManipulationHD_II.stages.0.label>
+  <!--EN: Enhanced dexterity through psionic augmentation.-->
+  <TM_PsionicManipulationHD_III.description>通过灵能增强身体机能。</TM_PsionicManipulationHD_III.description>
+  <!--EN: psionic manipulation-->
+  <TM_PsionicManipulationHD_III.label>灵能操纵</TM_PsionicManipulationHD_III.label>
+  <!--EN: IV-->
+  <TM_PsionicManipulationHD_III.stages.0.label>IV</TM_PsionicManipulationHD_III.stages.0.label>
+  <!--EN: Enhanced speed through psionic augmentation.-->
+  <TM_PsionicSpeedHD.description>通过灵能来强化移动能力。</TM_PsionicSpeedHD.description>
+  <!--EN: psionic speed-->
+  <TM_PsionicSpeedHD.label>灵能加速</TM_PsionicSpeedHD.label>
+  <!--EN: I-->
+  <TM_PsionicSpeedHD.stages.0.label>I</TM_PsionicSpeedHD.stages.0.label>
+  <!--EN: Enhanced speed through psionic augmentation.-->
+  <TM_PsionicSpeedHD_I.description>通过灵能来强化移动能力。</TM_PsionicSpeedHD_I.description>
+  <!--EN: psionic speed-->
+  <TM_PsionicSpeedHD_I.label>灵能加速</TM_PsionicSpeedHD_I.label>
+  <!--EN: II-->
+  <TM_PsionicSpeedHD_I.stages.0.label>II</TM_PsionicSpeedHD_I.stages.0.label>
+  <!--EN: Enhanced speed through psionic augmentation.-->
+  <TM_PsionicSpeedHD_II.description>通过灵能来强化移动能力。</TM_PsionicSpeedHD_II.description>
+  <!--EN: psionic speed-->
+  <TM_PsionicSpeedHD_II.label>灵能加速</TM_PsionicSpeedHD_II.label>
+  <!--EN: III-->
+  <TM_PsionicSpeedHD_II.stages.0.label>III</TM_PsionicSpeedHD_II.stages.0.label>
+  <!--EN: Enhanced speed through psionic augmentation.-->
+  <TM_PsionicSpeedHD_III.description>通过灵能来强化移动能力。</TM_PsionicSpeedHD_III.description>
+  <!--EN: psionic speed-->
+  <TM_PsionicSpeedHD_III.label>灵能加速</TM_PsionicSpeedHD_III.label>
+  <!--EN: IV-->
+  <TM_PsionicSpeedHD_III.stages.0.label>IV</TM_PsionicSpeedHD_III.stages.0.label>
+  <!--EN: Represents the bond this animal shares with a Ranger. Increases physical attributes and enhances healing.-->
+  <TM_RangerBondHD.description>代表这只动物与一个漫游者共生的契约,增加物理属性并增强治疗效果。</TM_RangerBondHD.description>
+  <!--EN: Ranger Bond-->
+  <TM_RangerBondHD.label>猎人契约</TM_RangerBondHD.label>
+  <!--EN: I-->
+  <TM_RangerBondHD.stages.0.label>I</TM_RangerBondHD.stages.0.label>
+  <!--EN: II-->
+  <TM_RangerBondHD.stages.1.label>II</TM_RangerBondHD.stages.1.label>
+  <!--EN: III-->
+  <TM_RangerBondHD.stages.2.label>III</TM_RangerBondHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_RangerBondHD.stages.3.label>IV</TM_RangerBondHD.stages.3.label>
+  <!--EN: An aura that generates and bestows an uplifting presence.-->
+  <TM_RayOfHope_AuraHD.description>一种产生并给予令人振奋的恩惠的光环。</TM_RayOfHope_AuraHD.description>
+  <!--EN: Aura of Hope-->
+  <TM_RayOfHope_AuraHD.label>希望的光环</TM_RayOfHope_AuraHD.label>
+  <!--EN: I-->
+  <TM_RayOfHope_AuraHD.stages.0.label>I</TM_RayOfHope_AuraHD.stages.0.label>
+  <!--EN: II-->
+  <TM_RayOfHope_AuraHD.stages.1.label>II</TM_RayOfHope_AuraHD.stages.1.label>
+  <!--EN: III-->
+  <TM_RayOfHope_AuraHD.stages.2.label>III</TM_RayOfHope_AuraHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_RayOfHope_AuraHD.stages.3.label>IV</TM_RayOfHope_AuraHD.stages.3.label>
+  <!--EN: Refreshes a pawn, reducing weariness.-->
+  <TM_RefreshedHD.description>使人恢复体力，减少疲劳.</TM_RefreshedHD.description>
+  <!--EN: Refreshed-->
+  <TM_RefreshedHD.label>振作精神</TM_RefreshedHD.label>
+  <!--EN: Cooler-->
+  <TM_RefreshedHD.stages.0.label>冷却器</TM_RefreshedHD.stages.0.label>
+  <!--EN: Regenerates health and heals wounds over time. Each tick will restore health to an injury until the injury is healed.-->
+  <TM_Regeneration.description>随着时间的推移，恢复健康并愈合伤口。重生会恢复受伤的部位，直到伤口愈合。</TM_Regeneration.description>
+  <!--EN: Regeneration-->
+  <TM_Regeneration.label>重生</TM_Regeneration.label>
+  <!--EN: Regenerates health and heals wounds over time. Each tick will restore health to an injury until the injury is healed.-->
+  <TM_Regeneration_I.description>随着时间的推移，恢复健康并愈合伤口。重生会恢复受伤的部位，直到伤口愈合。</TM_Regeneration_I.description>
+  <!--EN: Regeneration (I)-->
+  <TM_Regeneration_I.label>重生 (I)</TM_Regeneration_I.label>
+  <!--EN: Regenerates health and heals wounds over time. Each tick will restore health to an injury until the injury is healed.-->
+  <TM_Regeneration_II.description>随着时间的推移，恢复健康并愈合伤口。重生会恢复受伤的部位，直到伤口愈合。</TM_Regeneration_II.description>
+  <!--EN: Regeneration (II)-->
+  <TM_Regeneration_II.label>重生 (II)</TM_Regeneration_II.label>
+  <!--EN: Regenerates health and heals wounds over time. Each tick will restore health to an injury until the injury is healed.-->
+  <TM_Regeneration_III.description>随着时间的推移，恢复健康并愈合伤口。重生会恢复受伤的部位，直到伤口愈合。</TM_Regeneration_III.description>
+  <!--EN: Regeneration (III)-->
+  <TM_Regeneration_III.label>重生 (III)</TM_Regeneration_III.label>
+  <!--EN: A horrendous wound causing massive bleeding.-->
+  <TM_RendHD.description>造成大出血。</TM_RendHD.description>
+  <!--EN: Hemorrhaging-->
+  <TM_RendHD.label>出血</TM_RendHD.label>
+  <!--EN: Fibrous mechanites reprogrammed to cause less stress on the host.-->
+  <TM_ReprogrammedFibMechanites_HD.description>纤维机械组织被重新编程以减少对宿主的压力。</TM_ReprogrammedFibMechanites_HD.description>
+  <!--EN: reprogrammed fibrous mechanites-->
+  <TM_ReprogrammedFibMechanites_HD.label>重编程机械纤维</TM_ReprogrammedFibMechanites_HD.label>
+  <!--EN: (fibrous)-->
+  <TM_ReprogrammedFibMechanites_HD.stages.0.label>(纤维状)</TM_ReprogrammedFibMechanites_HD.stages.0.label>
+  <!--EN: (fibrous)-->
+  <TM_ReprogrammedFibMechanites_HD.stages.1.label>(纤维状)</TM_ReprogrammedFibMechanites_HD.stages.1.label>
+  <!--EN: Lymphatic mechanites reprogrammed to cause less stress on the host.-->
+  <TM_ReprogrammedLymMechanites_HD.description>淋巴被重新编程以减少对宿主的压力。</TM_ReprogrammedLymMechanites_HD.description>
+  <!--EN: reprogrammed lymphatic mechanites-->
+  <TM_ReprogrammedLymMechanites_HD.label>重编程机械淋巴</TM_ReprogrammedLymMechanites_HD.label>
+  <!--EN: (lymphatic)-->
+  <TM_ReprogrammedLymMechanites_HD.stages.0.label>(淋巴)</TM_ReprogrammedLymMechanites_HD.stages.0.label>
+  <!--EN: (lymphatic)-->
+  <TM_ReprogrammedLymMechanites_HD.stages.1.label>(淋巴)</TM_ReprogrammedLymMechanites_HD.stages.1.label>
+  <!--EN: Sensory mechanites reprogrammed to cause less stress on the host.-->
+  <TM_ReprogrammedSenMechanites_HD.description>纤维机械组织被重新编程以减少对宿主的压力.</TM_ReprogrammedSenMechanites_HD.description>
+  <!--EN: reprogrammed sensory mechanites-->
+  <TM_ReprogrammedSenMechanites_HD.label>重编程机械纤维</TM_ReprogrammedSenMechanites_HD.label>
+  <!--EN: (sensory)-->
+  <TM_ReprogrammedSenMechanites_HD.stages.0.label>(感官)</TM_ReprogrammedSenMechanites_HD.stages.0.label>
+  <!--EN: (sensory)-->
+  <TM_ReprogrammedSenMechanites_HD.stages.1.label>(感官)</TM_ReprogrammedSenMechanites_HD.stages.1.label>
+  <!--EN: Result of being resurrected through magic.-->
+  <TM_ResurrectionHD.description>通过魔法复活的副作用。</TM_ResurrectionHD.description>
+  <!--EN: Resurrection weakness-->
+  <TM_ResurrectionHD.label>复活虚弱</TM_ResurrectionHD.label>
+  <!--EN: I-->
+  <TM_ResurrectionHD.stages.0.label>I</TM_ResurrectionHD.stages.0.label>
+  <!--EN: II-->
+  <TM_ResurrectionHD.stages.1.label>II</TM_ResurrectionHD.stages.1.label>
+  <!--EN: III-->
+  <TM_ResurrectionHD.stages.2.label>III</TM_ResurrectionHD.stages.2.label>
+  <!--EN: Turns the energy of attack back on the attacker.-->
+  <TM_ReversalHD.description>反弹受到的近战和远程攻击。</TM_ReversalHD.description>
+  <!--EN: Reversal Stance-->
+  <TM_ReversalHD.label>倒转</TM_ReversalHD.label>
+  <!--EN: I-->
+  <TM_ReversalHD.stages.0.label>I</TM_ReversalHD.stages.0.label>
+  <!--EN: Rapidly reverses the age of a pawn. Any other conditions affecting the pawn will also reverse their natural tendencies. Conditions reversed beyond the point in time that they were acquired will cease to exist. Pawns reversed before the point int time that they were spawned will also cease to exist.-->
+  <TM_ReverseTimeBadHD.description>迅速逆转该生物的年龄。如果有任何其他影响转该生物的条件,也会改变他们的趋向。如果该生物被逆转到条件发生前，那么条件将不再存在。如果该生物被逆转到出生前也将不复存在。</TM_ReverseTimeBadHD.description>
+  <!--EN: Reverse Aging-->
+  <TM_ReverseTimeBadHD.label>逆转未来</TM_ReverseTimeBadHD.label>
+  <!--EN: I-->
+  <TM_ReverseTimeBadHD.stages.0.label>I</TM_ReverseTimeBadHD.stages.0.label>
+  <!--EN: II-->
+  <TM_ReverseTimeBadHD.stages.1.label>II</TM_ReverseTimeBadHD.stages.1.label>
+  <!--EN: III-->
+  <TM_ReverseTimeBadHD.stages.2.label>III</TM_ReverseTimeBadHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_ReverseTimeBadHD.stages.3.label>IV</TM_ReverseTimeBadHD.stages.3.label>
+  <!--EN: Rapidly reverses the age of a pawn. Any other conditions affecting the pawn will also reverse their natural tendencies. Conditions reversed beyond the point in time that they were acquired will cease to exist. Pawns reversed before the point int time that they were spawned will also cease to exist.-->
+  <TM_ReverseTimeHD.description>迅速逆转该生物的年龄。如果有任何其他影响转该生物的条件,也会改变他们的趋向。如果该生物被逆转到条件发生前，那么条件将不再存在。如果该生物被逆转到出生前也将不复存在。</TM_ReverseTimeHD.description>
+  <!--EN: Reverse Aging-->
+  <TM_ReverseTimeHD.label>逆转未来</TM_ReverseTimeHD.label>
+  <!--EN: I-->
+  <TM_ReverseTimeHD.stages.0.label>I</TM_ReverseTimeHD.stages.0.label>
+  <!--EN: II-->
+  <TM_ReverseTimeHD.stages.1.label>II</TM_ReverseTimeHD.stages.1.label>
+  <!--EN: III-->
+  <TM_ReverseTimeHD.stages.2.label>III</TM_ReverseTimeHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_ReverseTimeHD.stages.3.label>IV</TM_ReverseTimeHD.stages.3.label>
+  <!--EN: Empowers a body part with runic energy.-->
+  <TM_RuneCarvedPartHD.description>赋予一个身体部位符文的能量。</TM_RuneCarvedPartHD.description>
+  <!--EN: Rune carved-->
+  <TM_RuneCarvedPartHD.label>雕刻的符文</TM_RuneCarvedPartHD.label>
+  <!--EN: Runic (I)-->
+  <TM_RuneCarvedPartHD.stages.0.label>符文(I)</TM_RuneCarvedPartHD.stages.0.label>
+  <!--EN: Runic (II)-->
+  <TM_RuneCarvedPartHD.stages.1.label>符文(II)</TM_RuneCarvedPartHD.stages.1.label>
+  <!--EN: Runic (III)-->
+  <TM_RuneCarvedPartHD.stages.2.label>符文(III)</TM_RuneCarvedPartHD.stages.2.label>
+  <!--EN: Runic (IV)-->
+  <TM_RuneCarvedPartHD.stages.3.label>符文(IV)</TM_RuneCarvedPartHD.stages.3.label>
+  <!--EN: Under the effects of a succubus dominatrix - stunts all physical actions.-->
+  <TM_SDDominateHD.description>受到魔法力量的影响，力量受到削弱，体力逐渐流失。</TM_SDDominateHD.description>
+  <!--EN: Dominate I-->
+  <TM_SDDominateHD.label>支配 I</TM_SDDominateHD.label>
+  <!--EN: fading-->
+  <TM_SDDominateHD.stages.0.label>衰退</TM_SDDominateHD.stages.0.label>
+  <!--EN: withdrawing-->
+  <TM_SDDominateHD.stages.1.label>退缩</TM_SDDominateHD.stages.1.label>
+  <!--EN: enveloping-->
+  <TM_SDDominateHD.stages.2.label>笼罩</TM_SDDominateHD.stages.2.label>
+  <!--EN: overwhelming-->
+  <TM_SDDominateHD.stages.3.label>压倒</TM_SDDominateHD.stages.3.label>
+  <!--EN: Under the effects of a succubus dominatrix - stunts all physical actions.-->
+  <TM_SDDominateHD_I.description>受到魔法力量的影响，力量受到削弱，体力逐渐流失。</TM_SDDominateHD_I.description>
+  <!--EN: Dominate II-->
+  <TM_SDDominateHD_I.label>支配 II</TM_SDDominateHD_I.label>
+  <!--EN: fading-->
+  <TM_SDDominateHD_I.stages.0.label>衰退</TM_SDDominateHD_I.stages.0.label>
+  <!--EN: withdrawing-->
+  <TM_SDDominateHD_I.stages.1.label>退缩</TM_SDDominateHD_I.stages.1.label>
+  <!--EN: enveloping-->
+  <TM_SDDominateHD_I.stages.2.label>笼罩</TM_SDDominateHD_I.stages.2.label>
+  <!--EN: overwhelming-->
+  <TM_SDDominateHD_I.stages.3.label>压倒</TM_SDDominateHD_I.stages.3.label>
+  <!--EN: Under the effects of a succubus dominatrix - stunts all physical actions.-->
+  <TM_SDDominateHD_II.description>受到魔法力量的影响，力量受到削弱，体力逐渐流失。</TM_SDDominateHD_II.description>
+  <!--EN: Dominate III-->
+  <TM_SDDominateHD_II.label>支配 III</TM_SDDominateHD_II.label>
+  <!--EN: fading-->
+  <TM_SDDominateHD_II.stages.0.label>衰退</TM_SDDominateHD_II.stages.0.label>
+  <!--EN: withdrawing-->
+  <TM_SDDominateHD_II.stages.1.label>退缩</TM_SDDominateHD_II.stages.1.label>
+  <!--EN: enveloping-->
+  <TM_SDDominateHD_II.stages.2.label>笼罩</TM_SDDominateHD_II.stages.2.label>
+  <!--EN: overwhelming-->
+  <TM_SDDominateHD_II.stages.3.label>压倒</TM_SDDominateHD_II.stages.3.label>
+  <!--EN: Under the effects of a succubus dominatrix - stunts all physical actions.-->
+  <TM_SDDominateHD_III.description>受到魔法力量的影响，力量受到削弱，体力逐渐流失。</TM_SDDominateHD_III.description>
+  <!--EN: Dominate IV-->
+  <TM_SDDominateHD_III.label>支配 IV</TM_SDDominateHD_III.label>
+  <!--EN: fading-->
+  <TM_SDDominateHD_III.stages.0.label>衰退</TM_SDDominateHD_III.stages.0.label>
+  <!--EN: withdrawing-->
+  <TM_SDDominateHD_III.stages.1.label>退缩</TM_SDDominateHD_III.stages.1.label>
+  <!--EN: enveloping-->
+  <TM_SDDominateHD_III.stages.2.label>笼罩</TM_SDDominateHD_III.stages.2.label>
+  <!--EN: overwhelming-->
+  <TM_SDDominateHD_III.stages.3.label>压倒</TM_SDDominateHD_III.stages.3.label>
+  <!--EN: Maintaining a soul bond contract with another pawn.-->
+  <TM_SDSoulBondPhysicalHD.description>已与他人签订灵魂契约。</TM_SDSoulBondPhysicalHD.description>
+  <!--EN: Soul Bond-->
+  <TM_SDSoulBondPhysicalHD.label>灵魂契约</TM_SDSoulBondPhysicalHD.label>
+  <!--EN: I-->
+  <TM_SDSoulBondPhysicalHD.stages.0.label>I</TM_SDSoulBondPhysicalHD.stages.0.label>
+  <!--EN: II-->
+  <TM_SDSoulBondPhysicalHD.stages.1.label>II</TM_SDSoulBondPhysicalHD.stages.1.label>
+  <!--EN: III-->
+  <TM_SDSoulBondPhysicalHD.stages.2.label>III</TM_SDSoulBondPhysicalHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_SDSoulBondPhysicalHD.stages.3.label>IV</TM_SDSoulBondPhysicalHD.stages.3.label>
+  <!--EN: A chemical enhancing physical abilities and magical resistance; reduces magical power and energy regeneration. The potency of the chemical increases in 3 stages and takes 100 days to fully mature. Pawns will recover consciousness 2 days after taking the serum.-->
+  <TM_SS_SerumHD.description>一种增强物理能力和魔法抗性的化学物质;减少魔法力量和能量再生。这种化学物质的效力分3个阶段增强，需要100天才能完全成熟.</TM_SS_SerumHD.description>
+  <!--EN: SS Serum-->
+  <TM_SS_SerumHD.label>SS血清</TM_SS_SerumHD.label>
+  <!--EN: Stage 0-->
+  <TM_SS_SerumHD.stages.0.label>阶段 0</TM_SS_SerumHD.stages.0.label>
+  <!--EN: Stage 1-->
+  <TM_SS_SerumHD.stages.1.label>阶段 1</TM_SS_SerumHD.stages.1.label>
+  <!--EN: Stage 2-->
+  <TM_SS_SerumHD.stages.2.label>阶段 2</TM_SS_SerumHD.stages.2.label>
+  <!--EN: Stage 3-->
+  <TM_SS_SerumHD.stages.3.label>阶段 3</TM_SS_SerumHD.stages.3.label>
+  <!--EN: Attack rate is doubled.-->
+  <TM_SeverityHasteHD.description>攻击率加倍。</TM_SeverityHasteHD.description>
+  <!--EN: Haste-->
+  <TM_SeverityHasteHD.label>匆忙</TM_SeverityHasteHD.label>
+  <!--EN: Cloaked in shadows.-->
+  <TM_ShadowCloakHD.description>隐藏在阴影中。</TM_ShadowCloakHD.description>
+  <!--EN: Shadow Cloak-->
+  <TM_ShadowCloakHD.label>阴影斗篷</TM_ShadowCloakHD.label>
+  <!--EN: I-->
+  <TM_ShadowCloakHD.stages.1.label>I</TM_ShadowCloakHD.stages.1.label>
+  <!--EN: II-->
+  <TM_ShadowCloakHD.stages.2.label>II</TM_ShadowCloakHD.stages.2.label>
+  <!--EN: III-->
+  <TM_ShadowCloakHD.stages.3.label>III</TM_ShadowCloakHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_ShadowCloakHD.stages.4.label>IV</TM_ShadowCloakHD.stages.4.label>
+  <!--EN: V-->
+  <TM_ShadowCloakHD.stages.5.label>V</TM_ShadowCloakHD.stages.5.label>
+  <!--EN: set-->
+  <TM_ShadowHD.comps.0.labelSolidTendedWell>已固定</TM_ShadowHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_ShadowHD.comps.0.labelTendedWell>已包扎</TM_ShadowHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_ShadowHD.comps.0.labelTendedWellInner>已缝合</TM_ShadowHD.comps.0.labelTendedWellInner>
+  <!--EN: touched by shadow-->
+  <TM_ShadowHD.comps.1.permanentLabel>被影子触动</TM_ShadowHD.comps.1.permanentLabel>
+  <!--EN: Shadow damage.-->
+  <TM_ShadowHD.description>暗影伤害。</TM_ShadowHD.description>
+  <!--EN: withered-->
+  <TM_ShadowHD.injuryProps.destroyedLabel>枯萎</TM_ShadowHD.injuryProps.destroyedLabel>
+  <!--EN: disintegrated-->
+  <TM_ShadowHD.injuryProps.destroyedOutLabel>瓦解</TM_ShadowHD.injuryProps.destroyedOutLabel>
+  <!--EN: Shadow-->
+  <TM_ShadowHD.label>如影随形</TM_ShadowHD.label>
+  <!--EN: Shadow slayer cloaking field is active - performing actions that the predictive engine is unable to track will rapidly erode the cloaking field.-->
+  <TM_ShadowSlayerCloakHD.description>阴影杀手的隐身场是活跃的-执行预测引擎无法跟踪的动作将迅速侵蚀隐身场。</TM_ShadowSlayerCloakHD.description>
+  <!--EN: Shadow Slayer Cloak-->
+  <TM_ShadowSlayerCloakHD.label>阴影杀手斗篷伪装</TM_ShadowSlayerCloakHD.label>
+  <!--EN: An aura that generates and bestows a shadowy presence.-->
+  <TM_Shadow_AuraHD.description>一种产生并赋予一种阴暗恩惠的光环。</TM_Shadow_AuraHD.description>
+  <!--EN: Shadow Aura-->
+  <TM_Shadow_AuraHD.label>暗影随形</TM_Shadow_AuraHD.label>
+  <!--EN: I-->
+  <TM_Shadow_AuraHD.stages.0.label>I</TM_Shadow_AuraHD.stages.0.label>
+  <!--EN: II-->
+  <TM_Shadow_AuraHD.stages.1.label>II</TM_Shadow_AuraHD.stages.1.label>
+  <!--EN: III-->
+  <TM_Shadow_AuraHD.stages.2.label>III</TM_Shadow_AuraHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_Shadow_AuraHD.stages.3.label>IV</TM_Shadow_AuraHD.stages.3.label>
+  <!--EN: Improves the power of any animal form taken by a shape shifter.-->
+  <TM_ShapeshiftHD.description>使用者获得所变生物的能力。</TM_ShapeshiftHD.description>
+  <!--EN: Shapeshifter-->
+  <TM_ShapeshiftHD.label>变身</TM_ShapeshiftHD.label>
+  <!--EN: I-->
+  <TM_ShapeshiftHD.stages.0.label>I</TM_ShapeshiftHD.stages.0.label>
+  <!--EN: II-->
+  <TM_ShapeshiftHD.stages.1.label>II</TM_ShapeshiftHD.stages.1.label>
+  <!--EN: III-->
+  <TM_ShapeshiftHD.stages.2.label>III</TM_ShapeshiftHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_ShapeshiftHD.stages.3.label>IV</TM_ShapeshiftHD.stages.3.label>
+  <!--EN: Trains the mind to improve behavior.-->
+  <TM_ShockTherapyHD.description>训练大脑改善行为。.</TM_ShockTherapyHD.description>
+  <!--EN: Shock Therapy-->
+  <TM_ShockTherapyHD.label>休克疗法</TM_ShockTherapyHD.label>
+  <!--EN: Power Node-->
+  <TM_ShockTherapyHD.stages.0.label>电源节点</TM_ShockTherapyHD.stages.0.label>
+  <!--EN: Reduces undead upkeep of this necromancer and increases the movement and attack power of nearby undead.-->
+  <TM_ShroudOfUndeathHD.description>减少此死灵法师对亡灵的维持费用并增加附近亡灵的移动力和攻击力。</TM_ShroudOfUndeathHD.description>
+  <!--EN: Shroud of Undeath-->
+  <TM_ShroudOfUndeathHD.label>亡灵裹尸布</TM_ShroudOfUndeathHD.label>
+  <!--EN: Arcane power that augments vision.-->
+  <TM_Sight.description>增强视力的神秘力量。</TM_Sight.description>
+  <!--EN: arcane vision-->
+  <TM_Sight.label>奥术之眼</TM_Sight.label>
+  <!--EN: I-->
+  <TM_Sight.stages.0.label>I</TM_Sight.stages.0.label>
+  <!--EN: II-->
+  <TM_Sight.stages.1.label>II</TM_Sight.stages.1.label>
+  <!--EN: III-->
+  <TM_Sight.stages.2.label>III</TM_Sight.stages.2.label>
+  <!--EN: IV-->
+  <TM_Sight.stages.3.label>IV</TM_Sight.stages.3.label>
+  <!--EN: V-->
+  <TM_Sight.stages.4.label>V</TM_Sight.stages.4.label>
+  <!--EN: Maintaining sigils beyond their normal capacity strains the caster, causing pain.-->
+  <TM_SigilPainHD.description>保持秘符超出其施法者的承受范围会使施法者紧张，导致疼痛。</TM_SigilPainHD.description>
+  <!--EN: sigil strain-->
+  <TM_SigilPainHD.label>秘符压力</TM_SigilPainHD.label>
+  <!--EN: negligible-->
+  <TM_SigilPainHD.stages.0.label>微不足道</TM_SigilPainHD.stages.0.label>
+  <!--EN: I-->
+  <TM_SigilPainHD.stages.1.label>I</TM_SigilPainHD.stages.1.label>
+  <!--EN: II-->
+  <TM_SigilPainHD.stages.2.label>II</TM_SigilPainHD.stages.2.label>
+  <!--EN: III-->
+  <TM_SigilPainHD.stages.3.label>III</TM_SigilPainHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_SigilPainHD.stages.4.label>IV</TM_SigilPainHD.stages.4.label>
+  <!--EN: V-->
+  <TM_SigilPainHD.stages.5.label>V</TM_SigilPainHD.stages.5.label>
+  <!--EN: VI-->
+  <TM_SigilPainHD.stages.6.label>VI</TM_SigilPainHD.stages.6.label>
+  <!--EN: VII-->
+  <TM_SigilPainHD.stages.7.label>VII</TM_SigilPainHD.stages.7.label>
+  <!--EN: Chanting a resounding battle hymn to spur allies to victory.-->
+  <TM_SingBattleHymnHD.description>嘹亮的圣歌激励着自己和队友。</TM_SingBattleHymnHD.description>
+  <!--EN: battle chant-->
+  <TM_SingBattleHymnHD.label>战斗圣歌</TM_SingBattleHymnHD.label>
+  <!--EN: Bard-->
+  <TM_SingBattleHymnHD.stages.0.label>吟游诗人</TM_SingBattleHymnHD.stages.0.label>
+  <!--EN: Slowly transfers mana to the brand recipient.-->
+  <TM_SiphonBrandHD.description>慢慢地将法力传递给持符者。</TM_SiphonBrandHD.description>
+  <!--EN: Siphon Brand-->
+  <TM_SiphonBrandHD.label>虹吸符文</TM_SiphonBrandHD.label>
+  <!--EN: dormant-->
+  <TM_SiphonBrandHD.stages.0.label>休眠</TM_SiphonBrandHD.stages.0.label>
+  <!--EN: surging-->
+  <TM_SiphonBrandHD.stages.2.label>激增</TM_SiphonBrandHD.stages.2.label>
+  <!--EN: Occurs when exposed to extremely hot temperatures and causes organic matter to decompose and even melt. Undead affected by this condition require 50% more mana to sustain.-->
+  <TM_SlaggedHD.description>当暴露在极热的温度下时发生，导致有机物分解甚至融化。受此条件影响的亡灵需要额外50%的法力来维持。</TM_SlaggedHD.description>
+  <!--EN: Slagged-->
+  <TM_SlaggedHD.label>变为熔渣</TM_SlaggedHD.label>
+  <!--EN: I-->
+  <TM_SlaggedHD.stages.0.label>I</TM_SlaggedHD.stages.0.label>
+  <!--EN: II-->
+  <TM_SlaggedHD.stages.1.label>II</TM_SlaggedHD.stages.1.label>
+  <!--EN: III-->
+  <TM_SlaggedHD.stages.2.label>III</TM_SlaggedHD.stages.2.label>
+  <!--EN: Effects of an ability that reduces physical and mental agility.-->
+  <TM_Slow_HD.description>降低身体敏捷性和精神思维能力的能力的效果</TM_Slow_HD.description>
+  <!--EN: Slowed-->
+  <TM_Slow_HD.label>迟缓</TM_Slow_HD.label>
+  <!--EN: minor-->
+  <TM_Slow_HD.stages.0.label>轻度</TM_Slow_HD.stages.0.label>
+  <!--EN: major-->
+  <TM_Slow_HD.stages.1.label>中度</TM_Slow_HD.stages.1.label>
+  <!--EN: extreme-->
+  <TM_Slow_HD.stages.2.label>重度</TM_Slow_HD.stages.2.label>
+  <!--EN: A topical balm used to stop bleeding, heal wounds, and reduce pain. Soothing balm acts as a mild anesthetic and reduces the awareness of the patient.-->
+  <TM_SoothingBalmHD.description>用于止血、愈合伤口和减轻疼痛的只对局部作用的药膏。舒缓药膏作为一种温和的麻醉剂，会降低患者的意识。</TM_SoothingBalmHD.description>
+  <!--EN: soothing balm-->
+  <TM_SoothingBalmHD.label>舒缓药膏</TM_SoothingBalmHD.label>
+  <!--EN: An aura that generates and bestows a soothing presence on nearby pawns.-->
+  <TM_SoothingBreeze_AuraHD.description>一种产生并给予殖民者抚慰之风的光环。</TM_SoothingBreeze_AuraHD.description>
+  <!--EN: Soothing Aura-->
+  <TM_SoothingBreeze_AuraHD.label>舒缓光环</TM_SoothingBreeze_AuraHD.label>
+  <!--EN: I-->
+  <TM_SoothingBreeze_AuraHD.stages.0.label>I</TM_SoothingBreeze_AuraHD.stages.0.label>
+  <!--EN: II-->
+  <TM_SoothingBreeze_AuraHD.stages.1.label>II</TM_SoothingBreeze_AuraHD.stages.1.label>
+  <!--EN: III-->
+  <TM_SoothingBreeze_AuraHD.stages.2.label>III</TM_SoothingBreeze_AuraHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_SoothingBreeze_AuraHD.stages.3.label>IV</TM_SoothingBreeze_AuraHD.stages.3.label>
+  <!--EN: Soul bonded to a Warlock.-->
+  <TM_SoulBondMentalHD.description>与术士签订契约。</TM_SoulBondMentalHD.description>
+  <!--EN: Soul Bond-->
+  <TM_SoulBondMentalHD.label>灵魂契约</TM_SoulBondMentalHD.label>
+  <!--EN: I-->
+  <TM_SoulBondMentalHD.stages.0.label>I</TM_SoulBondMentalHD.stages.0.label>
+  <!--EN: II-->
+  <TM_SoulBondMentalHD.stages.1.label>II</TM_SoulBondMentalHD.stages.1.label>
+  <!--EN: III-->
+  <TM_SoulBondMentalHD.stages.2.label>III</TM_SoulBondMentalHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_SoulBondMentalHD.stages.3.label>IV</TM_SoulBondMentalHD.stages.3.label>
+  <!--EN: Soul bonded to a Succubus.-->
+  <TM_SoulBondPhysicalHD.description>与魅魔签订契约。</TM_SoulBondPhysicalHD.description>
+  <!--EN: Soul Bond-->
+  <TM_SoulBondPhysicalHD.label>灵魂契约</TM_SoulBondPhysicalHD.label>
+  <!--EN: I-->
+  <TM_SoulBondPhysicalHD.stages.0.label>I</TM_SoulBondPhysicalHD.stages.0.label>
+  <!--EN: II-->
+  <TM_SoulBondPhysicalHD.stages.1.label>II</TM_SoulBondPhysicalHD.stages.1.label>
+  <!--EN: III-->
+  <TM_SoulBondPhysicalHD.stages.2.label>III</TM_SoulBondPhysicalHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_SoulBondPhysicalHD.stages.3.label>IV</TM_SoulBondPhysicalHD.stages.3.label>
+  <!--EN: The magical entwining of nature and flesh will meld to form a powerful spine in several days.-->
+  <TM_SpineRegrowth.description>自然和肉体的奇异缠绕将在几天内融为一体，形成一个强大的脊椎.</TM_SpineRegrowth.description>
+  <!--EN: Spine Meld-->
+  <TM_SpineRegrowth.label>脊椎融合</TM_SpineRegrowth.label>
+  <!--EN: forming-->
+  <TM_SpineRegrowth.stages.0.label>形成</TM_SpineRegrowth.stages.0.label>
+  <!--EN: new growth-->
+  <TM_SpineRegrowth.stages.1.label>新增长</TM_SpineRegrowth.stages.1.label>
+  <!--EN: melding-->
+  <TM_SpineRegrowth.stages.2.label>熔合</TM_SpineRegrowth.stages.2.label>
+  <!--EN: entwined-->
+  <TM_SpineRegrowth.stages.3.label>纠缠</TM_SpineRegrowth.stages.3.label>
+  <!--EN: Represents the bond this animal spirit shares with a shaman. Increases physical attributes and enhances healing.-->
+  <TM_SpiritBondHD.description>代表着这个动物灵魂与萨满签订的契约。增加物理属性，增强治疗效果。</TM_SpiritBondHD.description>
+  <!--EN: Spirit Bond-->
+  <TM_SpiritBondHD.label>精神契约</TM_SpiritBondHD.label>
+  <!--EN: I-->
+  <TM_SpiritBondHD.stages.0.label>I</TM_SpiritBondHD.stages.0.label>
+  <!--EN: II-->
+  <TM_SpiritBondHD.stages.1.label>II</TM_SpiritBondHD.stages.1.label>
+  <!--EN: III-->
+  <TM_SpiritBondHD.stages.2.label>III</TM_SpiritBondHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_SpiritBondHD.stages.3.label>IV</TM_SpiritBondHD.stages.3.label>
+  <!--EN: This pawn's spirit is distorted and is unable to maintain cohesion with its body. This pawn is vulnerable and will take more damage.-->
+  <TM_SpiritDistortionHD.description>由于是外来灵魂，无法与身体完全融合，导致这具身体身体目前很脆弱，自愈力和免疫力极低。</TM_SpiritDistortionHD.description>
+  <!--EN: spirit distortion-->
+  <TM_SpiritDistortionHD.label>灵魂排斥</TM_SpiritDistortionHD.label>
+  <!--EN: This pawn has been drained of spirit and their future looks grim.-->
+  <TM_SpiritDrainHD.description>该人物的灵魂能量枯竭，目前处境十分危险。</TM_SpiritDrainHD.description>
+  <!--EN: spirit drain-->
+  <TM_SpiritDrainHD.label>灵魂枯竭</TM_SpiritDrainHD.label>
+  <!--EN: recovering-->
+  <TM_SpiritDrainHD.stages.0.label>恢复</TM_SpiritDrainHD.stages.0.label>
+  <!--EN: minor-->
+  <TM_SpiritDrainHD.stages.1.label>轻微</TM_SpiritDrainHD.stages.1.label>
+  <!--EN: low-->
+  <TM_SpiritDrainHD.stages.2.label>低</TM_SpiritDrainHD.stages.2.label>
+  <!--EN: moderate-->
+  <TM_SpiritDrainHD.stages.3.label>普通</TM_SpiritDrainHD.stages.3.label>
+  <!--EN: severe-->
+  <TM_SpiritDrainHD.stages.4.label>严重</TM_SpiritDrainHD.stages.4.label>
+  <!--EN: deadly-->
+  <TM_SpiritDrainHD.stages.5.label>致命</TM_SpiritDrainHD.stages.5.label>
+  <!--EN: set-->
+  <TM_SpiritHD.comps.0.labelSolidTendedWell>已固定</TM_SpiritHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_SpiritHD.comps.0.labelTendedWell>已包扎</TM_SpiritHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_SpiritHD.comps.0.labelTendedWellInner>已缝合</TM_SpiritHD.comps.0.labelTendedWellInner>
+  <!--EN: drained of spirit-->
+  <TM_SpiritHD.comps.1.permanentLabel>精神枯竭</TM_SpiritHD.comps.1.permanentLabel>
+  <!--EN: Harmful spiritual energy.-->
+  <TM_SpiritHD.description>有害的精神能量.</TM_SpiritHD.description>
+  <!--EN: lifeless-->
+  <TM_SpiritHD.injuryProps.destroyedLabel>毁坏</TM_SpiritHD.injuryProps.destroyedLabel>
+  <!--EN: lifeless-->
+  <TM_SpiritHD.injuryProps.destroyedOutLabel>毁掉</TM_SpiritHD.injuryProps.destroyedOutLabel>
+  <!--EN: Spirit-->
+  <TM_SpiritHD.label>特性</TM_SpiritHD.label>
+  <!--EN: Possessed by a spirit.-->
+  <TM_SpiritPossessionHD.description>这具身体里有个外来的灵魂</TM_SpiritPossessionHD.description>
+  <!--EN: spirit possession-->
+  <TM_SpiritPossessionHD.label>灵魂融合</TM_SpiritPossessionHD.label>
+  <!--EN: distorted-->
+  <TM_SpiritPossessionHD.stages.0.label>排斥</TM_SpiritPossessionHD.stages.0.label>
+  <!--EN: conflicted-->
+  <TM_SpiritPossessionHD.stages.1.label>冲突</TM_SpiritPossessionHD.stages.1.label>
+  <!--EN: unstable-->
+  <TM_SpiritPossessionHD.stages.2.label>动荡</TM_SpiritPossessionHD.stages.2.label>
+  <!--EN: stable-->
+  <TM_SpiritPossessionHD.stages.3.label>稳定</TM_SpiritPossessionHD.stages.3.label>
+  <!--EN: cooperative-->
+  <TM_SpiritPossessionHD.stages.4.label>融合</TM_SpiritPossessionHD.stages.4.label>
+  <!--EN: harmonious-->
+  <TM_SpiritPossessionHD.stages.5.label>完美</TM_SpiritPossessionHD.stages.5.label>
+  <!--EN: This pawn is a spirit, unable to interact with the physical world in common ways. Spirit's are unable to be physically harmed, but will lose spirit strength if their form receives damage.-->
+  <TM_SpiritPossessorHD.description>灵魂形态下，无法长时间在物质世界存在，会持续消耗其灵魂能量。</TM_SpiritPossessorHD.description>
+  <!--EN: spirit-->
+  <TM_SpiritPossessorHD.label>灵魂</TM_SpiritPossessorHD.label>
+  <!--EN: I-->
+  <TM_SpiritPossessorHD.stages.0.label>I</TM_SpiritPossessorHD.stages.0.label>
+  <!--EN: II-->
+  <TM_SpiritPossessorHD.stages.1.label>II</TM_SpiritPossessorHD.stages.1.label>
+  <!--EN: III-->
+  <TM_SpiritPossessorHD.stages.2.label>III</TM_SpiritPossessorHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_SpiritPossessorHD.stages.3.label>IV</TM_SpiritPossessorHD.stages.3.label>
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_StandardRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_StandardRegrowth.description>
+  <!--EN: Regrown Part-->
+  <TM_StandardRegrowth.label>再生部分</TM_StandardRegrowth.label>
+  <!--EN: regrown-->
+  <TM_StandardRegrowth.stages.0.label>重新生长</TM_StandardRegrowth.stages.0.label>
+  <!--EN: forming-->
+  <TM_StandardRegrowth.stages.1.label>成型</TM_StandardRegrowth.stages.1.label>
+  <!--EN: stub-->
+  <TM_StandardRegrowth.stages.2.label>存根</TM_StandardRegrowth.stages.2.label>
+  <!--EN: Received an order to invigorate alert levels.-->
+  <TM_StayAlertHD.description>接受命令，保持警惕。</TM_StayAlertHD.description>
+  <!--EN: Alert-->
+  <TM_StayAlertHD.label>警惕</TM_StayAlertHD.label>
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_StomachRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_StomachRegrowth.description>
+  <!--EN: Regrown Stomach-->
+  <TM_StomachRegrowth.label>再生胃</TM_StomachRegrowth.label>
+  <!--EN: forming-->
+  <TM_StomachRegrowth.stages.0.label>形成</TM_StomachRegrowth.stages.0.label>
+  <!--EN: developing-->
+  <TM_StomachRegrowth.stages.1.label>正在生长</TM_StomachRegrowth.stages.1.label>
+  <!--EN: regrown-->
+  <TM_StomachRegrowth.stages.2.label>再生</TM_StomachRegrowth.stages.2.label>
+  <!--EN: Improves physical protection.-->
+  <TM_StoneGolem_HardeningHD.description>增强傀儡的物理抗性</TM_StoneGolem_HardeningHD.description>
+  <!--EN: hardening-->
+  <TM_StoneGolem_HardeningHD.label>淬火</TM_StoneGolem_HardeningHD.label>
+  <!--EN: I-->
+  <TM_StoneGolem_HardeningHD.stages.0.label>I</TM_StoneGolem_HardeningHD.stages.0.label>
+  <!--EN: II-->
+  <TM_StoneGolem_HardeningHD.stages.1.label>II</TM_StoneGolem_HardeningHD.stages.1.label>
+  <!--EN: III-->
+  <TM_StoneGolem_HardeningHD.stages.2.label>III</TM_StoneGolem_HardeningHD.stages.2.label>
+  <!--EN: Each charge nullifies the damage from a single attack.-->
+  <TM_StoneskinHD.description>每一次冲锋都会抵消一次攻击造成的伤害.</TM_StoneskinHD.description>
+  <!--EN: Stoneskin-->
+  <TM_StoneskinHD.label>石肤术</TM_StoneskinHD.label>
+  <!--EN: Improves physical protection.-->
+  <TM_StrawGolem_ArmorHD.description>提高物理防护。</TM_StrawGolem_ArmorHD.description>
+  <!--EN: armor-->
+  <TM_StrawGolem_ArmorHD.label>盔甲</TM_StrawGolem_ArmorHD.label>
+  <!--EN: I-->
+  <TM_StrawGolem_ArmorHD.stages.0.label>I</TM_StrawGolem_ArmorHD.stages.0.label>
+  <!--EN: II-->
+  <TM_StrawGolem_ArmorHD.stages.1.label>II</TM_StrawGolem_ArmorHD.stages.1.label>
+  <!--EN: III-->
+  <TM_StrawGolem_ArmorHD.stages.2.label>III</TM_StrawGolem_ArmorHD.stages.2.label>
+  <!--EN: Reduces armor rating.-->
+  <TM_SunderArmorHD.description>降低对手的护甲抗性。</TM_SunderArmorHD.description>
+  <!--EN: Sunder Armor-->
+  <TM_SunderArmorHD.label>破甲</TM_SunderArmorHD.label>
+  <!--EN: I-->
+  <TM_SunderArmorHD.stages.0.label>I</TM_SunderArmorHD.stages.0.label>
+  <!--EN: II-->
+  <TM_SunderArmorHD.stages.1.label>II</TM_SunderArmorHD.stages.1.label>
+  <!--EN: III-->
+  <TM_SunderArmorHD.stages.2.label>III</TM_SunderArmorHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_SunderArmorHD.stages.3.label>IV</TM_SunderArmorHD.stages.3.label>
+  <!--EN: V-->
+  <TM_SunderArmorHD.stages.4.label>V</TM_SunderArmorHD.stages.4.label>
+  <!--EN: VI-->
+  <TM_SunderArmorHD.stages.5.label>VI</TM_SunderArmorHD.stages.5.label>
+  <!--EN: VII-->
+  <TM_SunderArmorHD.stages.6.label>VII</TM_SunderArmorHD.stages.6.label>
+  <!--EN: The empath is suppression the emotions of of nearby pawns; affected pawns will be unable to enter into a mental break or gain any mood related thoughts that are not allowed by the empath.-->
+  <TM_SuppressiveAuraHD.description>读心师正在接受与改变周围人群的情绪。</TM_SuppressiveAuraHD.description>
+  <!--EN: suppressive aura-->
+  <TM_SuppressiveAuraHD.label>共感网络</TM_SuppressiveAuraHD.label>
+  <!--EN: set-->
+  <TM_SymbiosisDamage.comps.0.labelSolidTendedWell>已固定</TM_SymbiosisDamage.comps.0.labelSolidTendedWell>
+  <!--EN: tended-->
+  <TM_SymbiosisDamage.comps.0.labelTendedWell>照顾</TM_SymbiosisDamage.comps.0.labelTendedWell>
+  <!--EN: tended-->
+  <TM_SymbiosisDamage.comps.0.labelTendedWellInner>照顾</TM_SymbiosisDamage.comps.0.labelTendedWellInner>
+  <!--EN: residual injury-->
+  <TM_SymbiosisDamage.comps.2.permanentLabel>残留损伤</TM_SymbiosisDamage.comps.2.permanentLabel>
+  <!--EN: Damage inferred through a symbiosis connection.-->
+  <TM_SymbiosisDamage.description>思维共生的反噬</TM_SymbiosisDamage.description>
+  <!--EN: destroyed-->
+  <TM_SymbiosisDamage.injuryProps.destroyedLabel>毁掉</TM_SymbiosisDamage.injuryProps.destroyedLabel>
+  <!--EN: severed-->
+  <TM_SymbiosisDamage.injuryProps.destroyedOutLabel>切断</TM_SymbiosisDamage.injuryProps.destroyedOutLabel>
+  <!--EN: symbiosis-->
+  <TM_SymbiosisDamage.label>思维共生</TM_SymbiosisDamage.label>
+  <!--EN: symbiotic transfer-->
+  <TM_SymbiosisDamage.labelNoun>反噬</TM_SymbiosisDamage.labelNoun>
+  <!--EN: The emotions and awareness of this pawn have been reinforced and fortified by the mind of an empath. For all intents and purposes, the mind of the empath is joined with this pawn - if this pawn dies then the empath will also die.-->
+  <TM_SymbiosisHD.description>ta的情感和意识已经被读心师的心灵强化了。 为了维持思维共生，读心师的心灵与ta紧密相连——如果此人死了，那么读心师也会死。</TM_SymbiosisHD.description>
+  <!--EN: symbiosis-->
+  <TM_SymbiosisHD.label>思维共生</TM_SymbiosisHD.label>
+  <!--EN: I-->
+  <TM_SymbiosisHD.stages.0.label>I</TM_SymbiosisHD.stages.0.label>
+  <!--EN: II-->
+  <TM_SymbiosisHD.stages.1.label>II</TM_SymbiosisHD.stages.1.label>
+  <!--EN: III-->
+  <TM_SymbiosisHD.stages.2.label>III</TM_SymbiosisHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_SymbiosisHD.stages.3.label>IV</TM_SymbiosisHD.stages.3.label>
+  <!--EN: The urge to feel the effects of syrrium have developed into a need.-->
+  <TM_SyrriumAddiction.description>渴望波莫纳糖浆</TM_SyrriumAddiction.description>
+  <!--EN: syrrium addiction-->
+  <TM_SyrriumAddiction.label>波莫纳糖浆成瘾</TM_SyrriumAddiction.label>
+  <!--EN: withdrawal-->
+  <TM_SyrriumAddiction.stages.1.label>戒断</TM_SyrriumAddiction.stages.1.label>
+  <!--EN: Heightened senses resulting from consuming condensed pomanasyrrium.-->
+  <TM_SyrriumSenseHD.description>从食用波莫纳糖浆中得到放松和提高的感觉。</TM_SyrriumSenseHD.description>
+  <!--EN: syrrium sense-->
+  <TM_SyrriumSenseHD.label>波莫纳糖浆</TM_SyrriumSenseHD.label>
+  <!--EN: Natural adjustment to normalize the effects of consuming condensed pomanasyrrium.-->
+  <TM_SyrriumTolerance.description>使食用波莫纳糖浆的效果正常化。</TM_SyrriumTolerance.description>
+  <!--EN: syrrium tolerance-->
+  <TM_SyrriumTolerance.label>波莫纳糖浆耐性</TM_SyrriumTolerance.label>
+  <!--EN: Manages the tasks and priorities of nearby pawns, increasing diligence but reduces mood.-->
+  <TM_TaskMasterAuraHD.description>周期性激励盟友努力奋斗。</TM_TaskMasterAuraHD.description>
+  <!--EN: Task Master Aura-->
+  <TM_TaskMasterAuraHD.label>奋斗光环</TM_TaskMasterAuraHD.label>
+  <!--EN: Tasks and priorities are being controlled by a Commander.-->
+  <TM_TaskMasterHD.description>受到指挥官的激励。</TM_TaskMasterHD.description>
+  <!--EN: Task Master-->
+  <TM_TaskMasterHD.label>奋斗</TM_TaskMasterHD.label>
+  <!--EN: I-->
+  <TM_TaskMasterHD.stages.0.label>I</TM_TaskMasterHD.stages.0.label>
+  <!--EN: II-->
+  <TM_TaskMasterHD.stages.1.label>II</TM_TaskMasterHD.stages.1.label>
+  <!--EN: III-->
+  <TM_TaskMasterHD.stages.2.label>III</TM_TaskMasterHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_TaskMasterHD.stages.3.label>IV</TM_TaskMasterHD.stages.3.label>
+  <!--EN: This pawn has been taunted and will focus their attacks on the offending pawn.-->
+  <TM_TauntHD.description>这个人被嘲讽了，他们会把攻击的重点放在冒犯他们的人身上。</TM_TauntHD.description>
+  <!--EN: Taunted!-->
+  <TM_TauntHD.label>被嘲讽!</TM_TauntHD.label>
+  <!--EN: A small, floating sphere that assists the Technomancer.-->
+  <TM_TechnoBitHD.description>一个小的，漂浮的球体，帮助技术人员。</TM_TechnoBitHD.description>
+  <!--EN: Techno Bit-->
+  <TM_TechnoBitHD.label>哔哔小子</TM_TechnoBitHD.label>
+  <!--EN: A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.-->
+  <TM_TechnoShieldHD.description>偏转子弹的护盾；护盾能被有足够力量的子弹穿透。</TM_TechnoShieldHD.description>
+  <!--EN: kinetic shield-->
+  <TM_TechnoShieldHD.label>动能护盾</TM_TechnoShieldHD.label>
+  <!--EN: A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.-->
+  <TM_TechnoShieldHD_I.description>偏转子弹的护盾；护盾能被有足够力量的子弹穿透。</TM_TechnoShieldHD_I.description>
+  <!--EN: kinetic shield-->
+  <TM_TechnoShieldHD_I.label>动能护盾</TM_TechnoShieldHD_I.label>
+  <!--EN: A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.-->
+  <TM_TechnoShieldHD_II.description>偏转子弹的护盾；护盾能被有足够力量的子弹穿透。</TM_TechnoShieldHD_II.description>
+  <!--EN: kinetic shield-->
+  <TM_TechnoShieldHD_II.label>动能护盾</TM_TechnoShieldHD_II.label>
+  <!--EN: A shield that redirects kinetic energy; the shield can be penetrated by a projectile with sufficient force.-->
+  <TM_TechnoShieldHD_III.description>偏转子弹的护盾；护盾能被有足够力量的子弹穿透。</TM_TechnoShieldHD_III.description>
+  <!--EN: kinetic shield-->
+  <TM_TechnoShieldHD_III.label>动能护盾</TM_TechnoShieldHD_III.label>
+  <!--EN: A raw display of magical power is inducing fear in this pawn.-->
+  <TM_Terror.description>一种原始的魔法力量引起了这人内心深处的恐惧。</TM_Terror.description>
+  <!--EN: Terror-->
+  <TM_Terror.label>恐惧</TM_Terror.label>
+  <!--EN: Uneasy-->
+  <TM_Terror.stages.0.label>不安</TM_Terror.stages.0.label>
+  <!--EN: Panicked-->
+  <TM_Terror.stages.1.label>惊慌失措</TM_Terror.stages.1.label>
+  <!--EN: Terrified-->
+  <TM_Terror.stages.2.label>害怕</TM_Terror.stages.2.label>
+  <!--EN: set-->
+  <TM_ThrumboCleave.comps.0.labelSolidTendedWell>已固定</TM_ThrumboCleave.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_ThrumboCleave.comps.0.labelTendedWell>已包扎</TM_ThrumboCleave.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_ThrumboCleave.comps.0.labelTendedWellInner>已缝合</TM_ThrumboCleave.comps.0.labelTendedWellInner>
+  <!--EN: scar-->
+  <TM_ThrumboCleave.comps.2.permanentLabel>疤痕</TM_ThrumboCleave.comps.2.permanentLabel>
+  <!--EN: An attack powerful enough to shear through multiple objects.-->
+  <TM_ThrumboCleave.description>足以穿透多个物体的攻击。</TM_ThrumboCleave.description>
+  <!--EN: Sliced off-->
+  <TM_ThrumboCleave.injuryProps.destroyedLabel>切坏</TM_ThrumboCleave.injuryProps.destroyedLabel>
+  <!--EN: Sliced out-->
+  <TM_ThrumboCleave.injuryProps.destroyedOutLabel>切掉</TM_ThrumboCleave.injuryProps.destroyedOutLabel>
+  <!--EN: cleave-->
+  <TM_ThrumboCleave.label>顺劈斩</TM_ThrumboCleave.label>
+  <!--EN: a massive wound-->
+  <TM_ThrumboCleave.labelNoun>巨大伤口</TM_ThrumboCleave.labelNoun>
+  <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
+  <TM_ToeRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_ToeRegrowth.description>
+  <!--EN: Regrown Toe-->
+  <TM_ToeRegrowth.label>再生脚趾</TM_ToeRegrowth.label>
+  <!--EN: toe stub-->
+  <TM_ToeRegrowth.stages.0.label>脚趾头</TM_ToeRegrowth.stages.0.label>
+  <!--EN: regrown-->
+  <TM_ToeRegrowth.stages.1.label>再生</TM_ToeRegrowth.stages.1.label>
+  <!--EN: set-->
+  <TM_TormentHD.comps.0.labelSolidTendedWell>已固定</TM_TormentHD.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_TormentHD.comps.0.labelTendedWell>已包扎</TM_TormentHD.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_TormentHD.comps.0.labelTendedWellInner>已缝合</TM_TormentHD.comps.0.labelTendedWellInner>
+  <!--EN: rotten-->
+  <TM_TormentHD.comps.1.permanentLabel>腐烂了</TM_TormentHD.comps.1.permanentLabel>
+  <!--EN: Pain induced by dark energy.-->
+  <TM_TormentHD.description>暗法力引起的疼痛。</TM_TormentHD.description>
+  <!--EN: melted off-->
+  <TM_TormentHD.injuryProps.destroyedLabel>熔化</TM_TormentHD.injuryProps.destroyedLabel>
+  <!--EN: melted-->
+  <TM_TormentHD.injuryProps.destroyedOutLabel>融化</TM_TormentHD.injuryProps.destroyedOutLabel>
+  <!--EN: Torment-->
+  <TM_TormentHD.label>折磨</TM_TormentHD.label>
+  <!--EN: Painfully tormented by dark magic.-->
+  <TM_Torment_HD.description>被黑魔法折磨得痛苦不堪。</TM_Torment_HD.description>
+  <!--EN: Tormented-->
+  <TM_Torment_HD.label>饱受折磨</TM_Torment_HD.label>
+  <!--EN: pain-->
+  <TM_Torment_HD.stages.0.label>疼痛</TM_Torment_HD.stages.0.label>
+  <!--EN: agony-->
+  <TM_Torment_HD.stages.1.label>痛苦</TM_Torment_HD.stages.1.label>
+  <!--EN: torment-->
+  <TM_Torment_HD.stages.2.label>折磨</TM_Torment_HD.stages.2.label>
+  <!--EN: tended-->
+  <TM_ToxinHD.comps.0.labelSolidTendedWell>照顾</TM_ToxinHD.comps.0.labelSolidTendedWell>
+  <!--EN: tended-->
+  <TM_ToxinHD.comps.0.labelTendedWell>照顾</TM_ToxinHD.comps.0.labelTendedWell>
+  <!--EN: tended-->
+  <TM_ToxinHD.comps.0.labelTendedWellInner>照顾</TM_ToxinHD.comps.0.labelTendedWellInner>
+  <!--EN: toxic tissue-->
+  <TM_ToxinHD.comps.2.permanentLabel>中毒组织</TM_ToxinHD.comps.2.permanentLabel>
+  <!--EN: damage from toxins.-->
+  <TM_ToxinHD.description>毒素造成的损害。</TM_ToxinHD.description>
+  <!--EN: destroyed-->
+  <TM_ToxinHD.injuryProps.destroyedLabel>毁灭</TM_ToxinHD.injuryProps.destroyedLabel>
+  <!--EN: toxin-->
+  <TM_ToxinHD.label>毒素</TM_ToxinHD.label>
+  <!--EN: toxin-->
+  <TM_ToxinHD.labelNoun>毒素</TM_ToxinHD.labelNoun>
+  <!--EN: A pawn has gained traits through magical infusion; this will affect their sense of self.-->
+  <TM_TraitInfusionHD.description>一个小人通过魔法注入获得了一些特质，这会影响他们的自我意识.</TM_TraitInfusionHD.description>
+  <!--EN: Trait Infusion-->
+  <TM_TraitInfusionHD.label>注入特性</TM_TraitInfusionHD.label>
+  <!--EN: Effects of a tranquilizer.-->
+  <TM_Tranquilizer_HD.description>战技的作用。</TM_Tranquilizer_HD.description>
+  <!--EN: Sedated-->
+  <TM_Tranquilizer_HD.label>麻痹</TM_Tranquilizer_HD.label>
+  <!--EN: Slowed-->
+  <TM_Tranquilizer_HD.stages.0.label>缓慢</TM_Tranquilizer_HD.stages.0.label>
+  <!--EN: Sedated-->
+  <TM_Tranquilizer_HD.stages.1.label>迟钝</TM_Tranquilizer_HD.stages.1.label>
+  <!--EN: Paralytic-->
+  <TM_Tranquilizer_HD.stages.2.label>麻痹</TM_Tranquilizer_HD.stages.2.label>
+  <!--EN: Used to control mage promotions.-->
+  <TM_Uncertainty.description>用来控制法师的升级.</TM_Uncertainty.description>
+  <!--EN: Uncertain Future-->
+  <TM_Uncertainty.label>无法确定的未来</TM_Uncertainty.label>
+  <!--EN: A pawn animated by necrotic energy. This pawn possesses no intent of its own, and requires continual direction and energy from a necromancer.-->
+  <TM_UndeadAnimalHD.description>被死灵法术激活的生物。这个生物没有自己的思想，需要一个死灵法师不断的指引和提供能量。</TM_UndeadAnimalHD.description>
+  <!--EN: Undead-->
+  <TM_UndeadAnimalHD.label>亡灵</TM_UndeadAnimalHD.label>
+  <!--EN: I-->
+  <TM_UndeadAnimalHD.stages.0.label>I</TM_UndeadAnimalHD.stages.0.label>
+  <!--EN: II-->
+  <TM_UndeadAnimalHD.stages.1.label>II</TM_UndeadAnimalHD.stages.1.label>
+  <!--EN: III-->
+  <TM_UndeadAnimalHD.stages.2.label>III</TM_UndeadAnimalHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_UndeadAnimalHD.stages.3.label>IV</TM_UndeadAnimalHD.stages.3.label>
+  <!--EN: A pawn animated by necrotic energy. This pawn possesses no intent of its own, and requires continual direction and energy from a necromancer.-->
+  <TM_UndeadHD.description>被死灵法术激活的生物。这个生物没有自己的思想，需要一个死灵法师不断的指引和提供能量。</TM_UndeadHD.description>
+  <!--EN: Undead-->
+  <TM_UndeadHD.label>亡灵</TM_UndeadHD.label>
+  <!--EN: I-->
+  <TM_UndeadHD.stages.0.label>I</TM_UndeadHD.stages.0.label>
+  <!--EN: II-->
+  <TM_UndeadHD.stages.1.label>II</TM_UndeadHD.stages.1.label>
+  <!--EN: III-->
+  <TM_UndeadHD.stages.2.label>III</TM_UndeadHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_UndeadHD.stages.3.label>IV</TM_UndeadHD.stages.3.label>
+  <!--EN: The forces of undeath cling to this pawn.-->
+  <TM_UndeadShroudHD.description>不死之力依附于此。</TM_UndeadShroudHD.description>
+  <!--EN: Undeath Shroud-->
+  <TM_UndeadShroudHD.label>亡灵裹尸布</TM_UndeadShroudHD.label>
+  <!--EN: The current stage of undead.-->
+  <TM_UndeadStageHD.description>亡灵的现阶段。</TM_UndeadStageHD.description>
+  <!--EN: Body stage-->
+  <TM_UndeadStageHD.label>身体状态</TM_UndeadStageHD.label>
+  <!--EN: Rotting-->
+  <TM_UndeadStageHD.stages.0.label>腐烂</TM_UndeadStageHD.stages.0.label>
+  <!--EN: Dessicated-->
+  <TM_UndeadStageHD.stages.1.label>干燥</TM_UndeadStageHD.stages.1.label>
+  <!--EN: Physical boost acquired by draining the energy from a pawn during intimacy.-->
+  <TM_VitalityBoostHD.description>在“亲密”的联系中，通过消耗别人的能量来获得身体上的提升。</TM_VitalityBoostHD.description>
+  <!--EN: Vitality Boost-->
+  <TM_VitalityBoostHD.label>活力提升</TM_VitalityBoostHD.label>
+  <!--EN: Increases vitality and recovery.-->
+  <TM_VitalityBrandHD.description>增强活力和恢复能力。</TM_VitalityBrandHD.description>
+  <!--EN: Vitality Brand-->
+  <TM_VitalityBrandHD.label>生命符文</TM_VitalityBrandHD.label>
+  <!--EN: dormant-->
+  <TM_VitalityBrandHD.stages.0.label>休眠</TM_VitalityBrandHD.stages.0.label>
+  <!--EN: I-->
+  <TM_VitalityBrandHD.stages.1.label>I</TM_VitalityBrandHD.stages.1.label>
+  <!--EN: surging VI-->
+  <TM_VitalityBrandHD.stages.10.label>激增VI</TM_VitalityBrandHD.stages.10.label>
+  <!--EN: II-->
+  <TM_VitalityBrandHD.stages.2.label>II</TM_VitalityBrandHD.stages.2.label>
+  <!--EN: III-->
+  <TM_VitalityBrandHD.stages.3.label>III</TM_VitalityBrandHD.stages.3.label>
+  <!--EN: IV-->
+  <TM_VitalityBrandHD.stages.4.label>IV</TM_VitalityBrandHD.stages.4.label>
+  <!--EN: surging I-->
+  <TM_VitalityBrandHD.stages.5.label>激增I</TM_VitalityBrandHD.stages.5.label>
+  <!--EN: surging II-->
+  <TM_VitalityBrandHD.stages.6.label>激增II</TM_VitalityBrandHD.stages.6.label>
+  <!--EN: surging III-->
+  <TM_VitalityBrandHD.stages.7.label>激增III</TM_VitalityBrandHD.stages.7.label>
+  <!--EN: surging IV-->
+  <TM_VitalityBrandHD.stages.8.label>激增IV</TM_VitalityBrandHD.stages.8.label>
+  <!--EN: surging V-->
+  <TM_VitalityBrandHD.stages.9.label>激增V</TM_VitalityBrandHD.stages.9.label>
+  <!--EN: Physically drained but mentally relaxed through intimacy with a succubus.-->
+  <TM_VitalityDrainHD.description>在“亲密”的联系中，虽然体力被吸取，但是也得到了极大的愉悦。</TM_VitalityDrainHD.description>
+  <!--EN: Vitality Drain-->
+  <TM_VitalityDrainHD.label>活力消耗</TM_VitalityDrainHD.label>
+  <!--EN: Succubus-->
+  <TM_VitalityDrainHD.stages.0.label>魅魔</TM_VitalityDrainHD.stages.0.label>
+  <!--EN: Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.-->
+  <TM_WDDominateHD.description>受到魔法力量的影响，精神受到影响，思维逐渐混乱。</TM_WDDominateHD.description>
+  <!--EN: Dominate I-->
+  <TM_WDDominateHD.label>支配 I</TM_WDDominateHD.label>
+  <!--EN: fading-->
+  <TM_WDDominateHD.stages.0.label>衰退</TM_WDDominateHD.stages.0.label>
+  <!--EN: withdrawing-->
+  <TM_WDDominateHD.stages.1.label>退缩</TM_WDDominateHD.stages.1.label>
+  <!--EN: enveloping-->
+  <TM_WDDominateHD.stages.2.label>笼罩</TM_WDDominateHD.stages.2.label>
+  <!--EN: overwhelming-->
+  <TM_WDDominateHD.stages.3.label>压倒</TM_WDDominateHD.stages.3.label>
+  <!--EN: Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.-->
+  <TM_WDDominateHD_I.description>受到魔法力量的影响，精神受到影响，思维逐渐混乱。</TM_WDDominateHD_I.description>
+  <!--EN: Dominate II-->
+  <TM_WDDominateHD_I.label>支配 II</TM_WDDominateHD_I.label>
+  <!--EN: fading-->
+  <TM_WDDominateHD_I.stages.0.label>衰退</TM_WDDominateHD_I.stages.0.label>
+  <!--EN: withdrawing-->
+  <TM_WDDominateHD_I.stages.1.label>退缩</TM_WDDominateHD_I.stages.1.label>
+  <!--EN: enveloping-->
+  <TM_WDDominateHD_I.stages.2.label>笼罩</TM_WDDominateHD_I.stages.2.label>
+  <!--EN: overwhelming-->
+  <TM_WDDominateHD_I.stages.3.label>压倒</TM_WDDominateHD_I.stages.3.label>
+  <!--EN: Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.-->
+  <TM_WDDominateHD_II.description>受到魔法力量的影响，精神受到影响，思维逐渐混乱。</TM_WDDominateHD_II.description>
+  <!--EN: Dominate III-->
+  <TM_WDDominateHD_II.label>支配 III</TM_WDDominateHD_II.label>
+  <!--EN: fading-->
+  <TM_WDDominateHD_II.stages.0.label>衰退</TM_WDDominateHD_II.stages.0.label>
+  <!--EN: withdrawing-->
+  <TM_WDDominateHD_II.stages.1.label>退缩</TM_WDDominateHD_II.stages.1.label>
+  <!--EN: enveloping-->
+  <TM_WDDominateHD_II.stages.2.label>笼罩</TM_WDDominateHD_II.stages.2.label>
+  <!--EN: overwhelming-->
+  <TM_WDDominateHD_II.stages.3.label>压倒</TM_WDDominateHD_II.stages.3.label>
+  <!--EN: Mentally dominated by a warlock - reduces mental state and may cause various mental breaks.-->
+  <TM_WDDominateHD_III.description>受到魔法力量的影响，精神受到影响，思维逐渐混乱。</TM_WDDominateHD_III.description>
+  <!--EN: Dominate IV-->
+  <TM_WDDominateHD_III.label>支配 IV</TM_WDDominateHD_III.label>
+  <!--EN: fading-->
+  <TM_WDDominateHD_III.stages.0.label>衰退</TM_WDDominateHD_III.stages.0.label>
+  <!--EN: withdrawing-->
+  <TM_WDDominateHD_III.stages.1.label>退缩</TM_WDDominateHD_III.stages.1.label>
+  <!--EN: enveloping-->
+  <TM_WDDominateHD_III.stages.2.label>笼罩</TM_WDDominateHD_III.stages.2.label>
+  <!--EN: overwhelming-->
+  <TM_WDDominateHD_III.stages.3.label>压倒</TM_WDDominateHD_III.stages.3.label>
+  <!--EN: Maintaining a contract with another pawn that bonds their soul with mine.-->
+  <TM_WDSoulBondMentalHD.description>已与他人签订灵魂契约。</TM_WDSoulBondMentalHD.description>
+  <!--EN: Soul Bond-->
+  <TM_WDSoulBondMentalHD.label>灵魂契约</TM_WDSoulBondMentalHD.label>
+  <!--EN: I-->
+  <TM_WDSoulBondMentalHD.stages.0.label>I</TM_WDSoulBondMentalHD.stages.0.label>
+  <!--EN: II-->
+  <TM_WDSoulBondMentalHD.stages.1.label>II</TM_WDSoulBondMentalHD.stages.1.label>
+  <!--EN: III-->
+  <TM_WDSoulBondMentalHD.stages.2.label>III</TM_WDSoulBondMentalHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_WDSoulBondMentalHD.stages.3.label>IV</TM_WDSoulBondMentalHD.stages.3.label>
+  <!--EN: A small boon that heats and increases resilience to cold temperatures-->
+  <TM_WarmHD.description>这是一个小小的恩惠，可以加热并增强抵御低温的能力。</TM_WarmHD.description>
+  <!--EN: Cold Protection-->
+  <TM_WarmHD.label>恩惠（低温）</TM_WarmHD.label>
+  <!--EN: Heater-->
+  <TM_WarmHD.stages.0.label>加热器</TM_WarmHD.stages.0.label>
+  <!--EN: Affected by a terrible and debilitating fear.-->
+  <TM_WaveOfFearHD.description>由于恐惧的影响，降低其各项能力。</TM_WaveOfFearHD.description>
+  <!--EN: Wave of Fear-->
+  <TM_WaveOfFearHD.label>恐惧之波</TM_WaveOfFearHD.label>
+  <!--EN: I-->
+  <TM_WaveOfFearHD.stages.0.label>I</TM_WaveOfFearHD.stages.0.label>
+  <!--EN: II-->
+  <TM_WaveOfFearHD.stages.1.label>II</TM_WaveOfFearHD.stages.1.label>
+  <!--EN: III-->
+  <TM_WaveOfFearHD.stages.2.label>III</TM_WaveOfFearHD.stages.2.label>
+  <!--EN: IV-->
+  <TM_WaveOfFearHD.stages.3.label>IV</TM_WaveOfFearHD.stages.3.label>
+  <!--EN: Enchants the currently equipped weapon with a touch of darkness that causes blindness. This enchantment will end if the weapon is unequipped or swapped.-->
+  <TM_WeaponEnchantment_DarkHD.description>近战武器获得黑暗属性，可能使敌人失明。</TM_WeaponEnchantment_DarkHD.description>
+  <!--EN: Enchanted Weapon-->
+  <TM_WeaponEnchantment_DarkHD.label>黑暗附魔</TM_WeaponEnchantment_DarkHD.label>
+  <!--EN: Dark (I)-->
+  <TM_WeaponEnchantment_DarkHD.stages.0.label>黑暗(I)</TM_WeaponEnchantment_DarkHD.stages.0.label>
+  <!--EN: Dark (II)-->
+  <TM_WeaponEnchantment_DarkHD.stages.1.label>黑暗(II)</TM_WeaponEnchantment_DarkHD.stages.1.label>
+  <!--EN: Dark (III)-->
+  <TM_WeaponEnchantment_DarkHD.stages.2.label>黑暗(III)</TM_WeaponEnchantment_DarkHD.stages.2.label>
+  <!--EN: Dark (IV)-->
+  <TM_WeaponEnchantment_DarkHD.stages.3.label>黑暗(IV)</TM_WeaponEnchantment_DarkHD.stages.3.label>
+  <!--EN: Enchants the currently equipped weapon with elemental fire that can burn or set fire to an object. This enchantment will end if the weapon is unequipped or swapped.-->
+  <TM_WeaponEnchantment_FireHD.description>近战武器获得烈焰属性，可以造成额外的灼伤伤害，并可能使目标着火。</TM_WeaponEnchantment_FireHD.description>
+  <!--EN: Enchanted Weapon-->
+  <TM_WeaponEnchantment_FireHD.label>烈焰附魔</TM_WeaponEnchantment_FireHD.label>
+  <!--EN: Fire (I)-->
+  <TM_WeaponEnchantment_FireHD.stages.0.label>防火(I)</TM_WeaponEnchantment_FireHD.stages.0.label>
+  <!--EN: Fire (II)-->
+  <TM_WeaponEnchantment_FireHD.stages.1.label>防火(II)</TM_WeaponEnchantment_FireHD.stages.1.label>
+  <!--EN: Fire (III)-->
+  <TM_WeaponEnchantment_FireHD.stages.2.label>防火(III)</TM_WeaponEnchantment_FireHD.stages.2.label>
+  <!--EN: Fire (IV)-->
+  <TM_WeaponEnchantment_FireHD.stages.3.label>防火(IV)</TM_WeaponEnchantment_FireHD.stages.3.label>
+  <!--EN: Enchants the currently equipped weapon with elemental ice that inflicts frostbite. This enchantment will end if the weapon is unequipped or swapped.-->
+  <TM_WeaponEnchantment_IceHD.description>近战武器获得寒冰属性，可以使敌人减速。</TM_WeaponEnchantment_IceHD.description>
+  <!--EN: Enchanted Weapon-->
+  <TM_WeaponEnchantment_IceHD.label>寒冰附魔</TM_WeaponEnchantment_IceHD.label>
+  <!--EN: Ice (I)-->
+  <TM_WeaponEnchantment_IceHD.stages.0.label>防冰(I)</TM_WeaponEnchantment_IceHD.stages.0.label>
+  <!--EN: Ice (II)-->
+  <TM_WeaponEnchantment_IceHD.stages.1.label>防冰(II)</TM_WeaponEnchantment_IceHD.stages.1.label>
+  <!--EN: Ice (III)-->
+  <TM_WeaponEnchantment_IceHD.stages.2.label>防冰(III)</TM_WeaponEnchantment_IceHD.stages.2.label>
+  <!--EN: Ice (IV)-->
+  <TM_WeaponEnchantment_IceHD.stages.3.label>防冰(IV)</TM_WeaponEnchantment_IceHD.stages.3.label>
+  <!--EN: Enchants the currently equipped weapon with elemental lightning that sends stunning shockwaves through an object. This enchantment will end if the weapon is unequipped or swapped.-->
+  <TM_WeaponEnchantment_LitHD.description>近战武器获得闪电属性，可以使敌人昏迷。</TM_WeaponEnchantment_LitHD.description>
+  <!--EN: Enchanted Weapon-->
+  <TM_WeaponEnchantment_LitHD.label>闪电附魔</TM_WeaponEnchantment_LitHD.label>
+  <!--EN: Stun (I)-->
+  <TM_WeaponEnchantment_LitHD.stages.0.label>眩晕(I)</TM_WeaponEnchantment_LitHD.stages.0.label>
+  <!--EN: Stun (II)-->
+  <TM_WeaponEnchantment_LitHD.stages.1.label>眩晕(II)</TM_WeaponEnchantment_LitHD.stages.1.label>
+  <!--EN: Stun (III)-->
+  <TM_WeaponEnchantment_LitHD.stages.2.label>眩晕(III)</TM_WeaponEnchantment_LitHD.stages.2.label>
+  <!--EN: Stun (IV)-->
+  <TM_WeaponEnchantment_LitHD.stages.3.label>眩晕(IV)</TM_WeaponEnchantment_LitHD.stages.3.label>
+  <!--EN: set-->
+  <TM_Whirlwind_Knockdown.comps.0.labelSolidTendedWell>已固定</TM_Whirlwind_Knockdown.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_Whirlwind_Knockdown.comps.0.labelTendedWell>已包扎</TM_Whirlwind_Knockdown.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_Whirlwind_Knockdown.comps.0.labelTendedWellInner>已缝合</TM_Whirlwind_Knockdown.comps.0.labelTendedWellInner>
+  <!--EN: sliced off-->
+  <TM_Whirlwind_Knockdown.comps.2.permanentLabel>削掉</TM_Whirlwind_Knockdown.comps.2.permanentLabel>
+  <!--EN: Overwhelmed from a flurry of attacks.-->
+  <TM_Whirlwind_Knockdown.description>让人在一系列的攻击中不知所措.</TM_Whirlwind_Knockdown.description>
+  <!--EN: sliced off-->
+  <TM_Whirlwind_Knockdown.injuryProps.destroyedLabel>切开</TM_Whirlwind_Knockdown.injuryProps.destroyedLabel>
+  <!--EN: cut out-->
+  <TM_Whirlwind_Knockdown.injuryProps.destroyedOutLabel>切断</TM_Whirlwind_Knockdown.injuryProps.destroyedOutLabel>
+  <!--EN: Whirlwind Knockdown-->
+  <TM_Whirlwind_Knockdown.label>旋风斩</TM_Whirlwind_Knockdown.label>
+  <!--EN: Drains heat and energy from the body; prevents heat stroke. Mages only: lowers room temperature.-->
+  <TM_WinterStaffHD.description>排出身体的热量和能量，可以防止中暑。魔法师使用时，可降低室内温度。</TM_WinterStaffHD.description>
+  <!--EN: Winter's Chill-->
+  <TM_WinterStaffHD.label>寒气</TM_WinterStaffHD.label>
+  <!--EN: Improves physical protection.-->
+  <TM_WoodGolem_ArmorHD.description>提高物理防护.</TM_WoodGolem_ArmorHD.description>
+  <!--EN: armor-->
+  <TM_WoodGolem_ArmorHD.label>盔甲</TM_WoodGolem_ArmorHD.label>
+  <!--EN: I-->
+  <TM_WoodGolem_ArmorHD.stages.0.label>I</TM_WoodGolem_ArmorHD.stages.0.label>
+  <!--EN: II-->
+  <TM_WoodGolem_ArmorHD.stages.1.label>II</TM_WoodGolem_ArmorHD.stages.1.label>
+  <!--EN: III-->
+  <TM_WoodGolem_ArmorHD.stages.2.label>III</TM_WoodGolem_ArmorHD.stages.2.label>
+  <!--EN: set-->
+  <TM_arcaneSpectre.comps.0.labelSolidTendedWell>已固定</TM_arcaneSpectre.comps.0.labelSolidTendedWell>
+  <!--EN: bandaged-->
+  <TM_arcaneSpectre.comps.0.labelTendedWell>已包扎</TM_arcaneSpectre.comps.0.labelTendedWell>
+  <!--EN: sutured-->
+  <TM_arcaneSpectre.comps.0.labelTendedWellInner>已缝合</TM_arcaneSpectre.comps.0.labelTendedWellInner>
+  <!--EN: pale scar-->
+  <TM_arcaneSpectre.comps.2.permanentLabel>苍白的疤痕</TM_arcaneSpectre.comps.2.permanentLabel>
+  <!--EN: Spirit damage from a spectre.-->
+  <TM_arcaneSpectre.description>幽灵造成的精神伤害。</TM_arcaneSpectre.description>
+  <!--EN: Cut off-->
+  <TM_arcaneSpectre.injuryProps.destroyedLabel>切开</TM_arcaneSpectre.injuryProps.destroyedLabel>
+  <!--EN: Cut out-->
+  <TM_arcaneSpectre.injuryProps.destroyedOutLabel>切断</TM_arcaneSpectre.injuryProps.destroyedOutLabel>
+  <!--EN: spirit cut-->
+  <TM_arcaneSpectre.label>灵魂切割</TM_arcaneSpectre.label>
+  <!--EN: a cut-->
+  <TM_arcaneSpectre.labelNoun>伤口</TM_arcaneSpectre.labelNoun>
+</LanguageData>

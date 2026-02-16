@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Using an ability-->
-  <TMCastAbilitySelf.reportString>施法</TMCastAbilitySelf.reportString>
-  <!--EN: Using an ability-->
-  <TMCastAbilityVerb.reportString>施法</TMCastAbilityVerb.reportString>
-</LanguageData>

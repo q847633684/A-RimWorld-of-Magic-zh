@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: charging portal.-->
+  <ChargePortal.reportString>充能传送门。</ChargePortal.reportString>
+  <!--EN: deactivating portal.-->
+  <DeactivatePortal.reportString>停用传送门。</DeactivatePortal.reportString>
+  <!--EN: equipping TargetA for enchanting-->
+  <JobDriver_AddEnchantingGem.reportString>为装备附魔</JobDriver_AddEnchantingGem.reportString>
+  <!--EN: preparing circle magic-->
+  <JobDriver_AssistMagicCircle.reportString>准备施展大型魔法</JobDriver_AssistMagicCircle.reportString>
+  <!--EN: creating discord-->
+  <JobDriver_Discord.reportString>演凑“纪声”</JobDriver_Discord.reportString>
+  <!--EN: preparing attack-->
+  <JobDriver_DoFor.reportString>准备攻击</JobDriver_DoFor.reportString>
+  <!--EN: doing magic bill at TargetA.-->
+  <JobDriver_DoMagicBill.reportString>在TargetA处施展魔法.</JobDriver_DoMagicBill.reportString>
+  <!--EN: enchanting TargetA-->
+  <JobDriver_EnchantItem.reportString>附魔</JobDriver_EnchantItem.reportString>
+  <!--EN: entertaining-->
+  <JobDriver_Entertain.reportString>款待</JobDriver_Entertain.reportString>
+  <!--EN: cutting plants and trees-->
+  <JobDriver_FleshChop.reportString>割除植物</JobDriver_FleshChop.reportString>
+  <!--EN: harvesting plants-->
+  <JobDriver_FleshHarvest.reportString>收获植物</JobDriver_FleshHarvest.reportString>
+  <!--EN: using ability-->
+  <JobDriver_GolemAbilityJob.reportString>使用能力</JobDriver_GolemAbilityJob.reportString>
+  <!--EN: targeting TargetA.-->
+  <JobDriver_GolemAttackStatic.reportString>瞄准TargetA</JobDriver_GolemAttackStatic.reportString>
+  <!--EN: deactivating-->
+  <JobDriver_GolemDespawn.reportString>休眠</JobDriver_GolemDespawn.reportString>
+  <!--EN: deactivating-->
+  <JobDriver_GolemDespawnWait.reportString>静止</JobDriver_GolemDespawnWait.reportString>
+  <!--EN: auto tend-->
+  <JobDriver_GolemSelfTend.reportString>自动治疗</JobDriver_GolemSelfTend.reportString>
+  <!--EN: doing magic job-->
+  <JobDriver_GotoAndCast.reportString>做魔法工作</JobDriver_GotoAndCast.reportString>
+  <!--EN: mining protocol-->
+  <JobDriver_MechaMine.reportString>挖掘</JobDriver_MechaMine.reportString>
+  <!--EN: placing lightning trap-->
+  <JobDriver_PlaceLightningTrap.reportString>放置闪电陷阱</JobDriver_PlaceLightningTrap.reportString>
+  <!--EN: projecting psionic barrier-->
+  <JobDriver_PsionicBarrier.reportString>投射灵能屏障</JobDriver_PsionicBarrier.reportString>
+  <!--EN: unequipping TargetA from enchantment-->
+  <JobDriver_RemoveEnchantingGem.reportString>脱下附魔物品</JobDriver_RemoveEnchantingGem.reportString>
+  <!--EN: sleeping (lullaby)-->
+  <JobDriver_SleepNow.reportString>睡眠 (催眠)</JobDriver_SleepNow.reportString>
+  <!--EN: draining spirit-->
+  <JobDriver_SpiritDrain.reportString>摄取灵魂</JobDriver_SpiritDrain.reportString>
+  <!--EN: marking sacrifice-->
+  <JobDriver_SummonDemon.reportString>进行献祭</JobDriver_SummonDemon.reportString>
+  <!--EN: motivating pawn-->
+  <JobDriver_TM_Command.reportString>激励殖民者</JobDriver_TM_Command.reportString>
+  <!--EN: waiting at location-->
+  <JobDriver_TM_GotoAndWait.reportString>等待</JobDriver_TM_GotoAndWait.reportString>
+  <!--EN: deep meditation-->
+  <JobDriver_TM_Meditate.reportString>冥想</JobDriver_TM_Meditate.reportString>
+  <!--EN: training and mentoring-->
+  <JobDriver_TM_Teach.reportString>培训指导</JobDriver_TM_Teach.reportString>
+  <!--EN: placing poison trap-->
+  <PlacePoisonTrap.reportString>放置毒素陷阱</PlacePoisonTrap.reportString>
+  <!--EN: assigning portal destination.-->
+  <PortalDestination.reportString>设定传送门目的地。</PortalDestination.reportString>
+  <!--EN: sending items through portal.-->
+  <PortalStockpile.reportString>发送物品。</PortalStockpile.reportString>
+  <!--EN: Using an ability-->
+  <TMCastAbilitySelf.reportString>施法</TMCastAbilitySelf.reportString>
+  <!--EN: Using an ability-->
+  <TMCastAbilityVerb.reportString>施法</TMCastAbilityVerb.reportString>
+  <!--EN: Guiding TargetA on their arcane path.-->
+  <TM_BestowClass.reportString>引导TargetA走向他们的神秘之路</TM_BestowClass.reportString>
+  <!--EN: Bestow the gift of magic on TargetA.-->
+  <TM_BestowMagic.reportString>赐予魔法之礼给TargetA</TM_BestowMagic.reportString>
+  <!--EN: Severing TargetA from magic.-->
+  <TM_SeverMagic.reportString>斩断TargetA与魔法的联系</TM_SeverMagic.reportString>
+  <!--EN: using portal.-->
+  <UsePortal.reportString>使用传送门。</UsePortal.reportString>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Protection from alignment based attacks such as holy, shadow, or death magic.-->
+  <ArmorRating_Alignment.description>抵御各类魔法属性的伤害，如神圣、暗影或死亡魔法。</ArmorRating_Alignment.description>
+  <!--EN: Armor - Harmony-->
+  <ArmorRating_Alignment.label>护甲 - 魔法</ArmorRating_Alignment.label>
+  <!--EN: Protection from alignment based attacks such as holy, shadow, or death magic.-->
+  <StuffPower_Armor_Harmony.description>抵御各类魔法属性的伤害，如神圣、暗影或死亡魔法。</StuffPower_Armor_Harmony.description>
+  <!--EN: Armor - Harmony-->
+  <StuffPower_Armor_Harmony.label>护甲 - 魔法</StuffPower_Armor_Harmony.label>
+  <!--EN: The chance to carve runes onto bodyparts successfully.-->
+  <TM_RuneCarvingEfficiency.description>成功将符文刻在身体部位的概率。</TM_RuneCarvingEfficiency.description>
+  <!--EN: rune carving skill-->
+  <TM_RuneCarvingEfficiency.label>符文雕刻技能</TM_RuneCarvingEfficiency.label>
+</LanguageData>

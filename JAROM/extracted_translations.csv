@@ -1,0 +1,31 @@
+key,text,tag,file,type
+AU_NoLineOfSight,无视线,AU_NoLineOfSight,AbilityUser.xml,keyed
+AU_NoTargets,无可用的目标,AU_NoTargets,AbilityUser.xml,keyed
+AU_DISABLED,已禁用,AU_DISABLED,AbilityUser.xml,keyed
+AU_Type,类型：,AU_Type,AbilityUser.xml,keyed
+AU_TargetAoE,范围效果,AU_TargetAoE,AbilityUser.xml,keyed
+AU_TargetSelf,以自身为目标,AU_TargetSelf,AbilityUser.xml,keyed
+AU_TargetThing,以其他事物为目标,AU_TargetThing,AbilityUser.xml,keyed
+AU_TargetLocation,以位置为目标,AU_TargetLocation,AbilityUser.xml,keyed
+AU_Cooldown,冷却时间：,AU_Cooldown,AbilityUser.xml,keyed
+AU_Extra,额外,AU_Extra,AbilityUser.xml,keyed
+AU_MentalStateChance,精神状态几率,AU_MentalStateChance,AbilityUser.xml,keyed
+AU_EffectChance,效果几率,AU_EffectChance,AbilityUser.xml,keyed
+AU_PawnAbilityRecharging,{0} 需要时间充能,AU_PawnAbilityRecharging,AbilityUser.xml,keyed
+AU_AoEProperties,范围效果属性,AU_AoEProperties,AbilityUser.xml,keyed
+AU_TargetClass,目标：,AU_TargetClass,AbilityUser.xml,keyed
+AU_AoECharacters,角色,AU_AoECharacters,AbilityUser.xml,keyed
+AU_AoEFriendlyFire,友军伤害：,AU_AoEFriendlyFire,AbilityUser.xml,keyed
+AU_AoEMaxTargets,最大目标数：,AU_AoEMaxTargets,AbilityUser.xml,keyed
+AU_AoEStartsFromCaster,从施法者开始：,AU_AoEStartsFromCaster,AbilityUser.xml,keyed
+NoDeflectorEquipped,未装备偏转器,NoDeflectorEquipped,CompDeflector.xml,keyed
+DeflectChance,偏转几率,DeflectChance,CompDeflector.xml,keyed
+DeflectChanceEx,决定此武器将投射物返还给攻击者的频率。,DeflectChanceEx,CompDeflector.xml,keyed
+MaxDeflectChance,最大偏转几率,MaxDeflectChance,CompDeflector.xml,keyed
+MaxDeflectChanceEx,"对于 {0} 的每一点，使用者获得 {1} 的几率将投射物偏转回目标。{2} 是可能的最大偏转几率。
+  ",MaxDeflectChanceEx,CompDeflector.xml,keyed
+DeflectChancePerLevel,每级 {0} 技能的偏转百分比,DeflectChancePerLevel,CompDeflector.xml,keyed
+DeflectChancePerLevelEx,{0} 每提升一级，使用者获得此百分比的几率来偏转投射物。,DeflectChancePerLevelEx,CompDeflector.xml,keyed
+StatsReport_DeflectionExplanation,偏转几率 = (基础偏转几率 + (技能等级 * 每技能等级的偏转百分比)) * 操控能力,StatsReport_DeflectionExplanation,CompDeflector.xml,keyed
+StatsReport_BaseDeflectChance,基础偏转几率,StatsReport_BaseDeflectChance,CompDeflector.xml,keyed
+StatsReport_DeflectPerSkillLevel,每技能等级的偏转百分比,StatsReport_DeflectPerSkillLevel,CompDeflector.xml,keyed

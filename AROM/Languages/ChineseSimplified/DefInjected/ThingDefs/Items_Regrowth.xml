@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: A seed required by a druid to begin the limb regrowth process. A druid must be trained in the art of regrowth to use this magical item successfully.-->
-  <SeedofRegrowth.description>一个德鲁伊用来施放肢体再生技能的种子。一名德鲁伊必须受到过相关训练才能成功地使用魔法物品。</SeedofRegrowth.description>
-  <!--EN: Seed of Regrowth-->
-  <SeedofRegrowth.label>再生之种</SeedofRegrowth.label>
-</LanguageData>

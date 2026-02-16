@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: bull charge-->
+  <TM_FleshGolem_BullCharge.label>冲撞</TM_FleshGolem_BullCharge.label>
+  <!--EN: dismember-->
+  <TM_FleshGolem_Dismember.label>肢解</TM_FleshGolem_Dismember.label>
+  <!--EN: enfeeble-->
+  <TM_FleshGolem_EyeCurse.label>邪眼诅咒</TM_FleshGolem_EyeCurse.label>
+  <!--EN: cleave-->
+  <TM_FleshGolem_LeftCleave.label>劈开</TM_FleshGolem_LeftCleave.label>
+  <!--EN: cleave-->
+  <TM_FleshGolem_RightCleave.label>劈开</TM_FleshGolem_RightCleave.label>
+  <!--EN: haste-->
+  <TM_FleshGolem_WingHaste.label>匆忙</TM_FleshGolem_WingHaste.label>
+  <!--EN: absorb fire-->
+  <TM_HollowGolem_AbsorbFire.label>火焰吸收</TM_HollowGolem_AbsorbFire.label>
+  <!--EN: awakening-->
+  <TM_HollowGolem_Awakening.label>唤醒</TM_HollowGolem_Awakening.label>
+  <!--EN: burning fury-->
+  <TM_HollowGolem_BurningFury.label>狂怒</TM_HollowGolem_BurningFury.label>
+  <!--EN: fade-->
+  <TM_HollowGolem_Fade.label>消逝</TM_HollowGolem_Fade.label>
+  <!--EN: well of despair-->
+  <TM_HollowGolem_WellOfDespair.label>绝望之井</TM_HollowGolem_WellOfDespair.label>
+  <!--EN: waste conversion-->
+  <TM_Mecha.Golem_AbsorbFilth.label>废物转换</TM_Mecha.Golem_AbsorbFilth.label>
+  <!--EN: Shoulder mounted gatling cannon for mecha-golem-->
+  <TM_Mecha.Golem_GatlingCannon.label>机械傀儡的肩扛加特林加农炮</TM_Mecha.Golem_GatlingCannon.label>
+  <!--EN: self-repair module-->
+  <TM_Mecha.Golem_HealSelf.label>自我修复模块</TM_Mecha.Golem_HealSelf.label>
+  <!--EN: Shoulder mounted mining laser for mecha-golem-->
+  <TM_Mecha.Golem_MiningLaser.label>用于机械傀儡的肩扛式采矿激光器</TM_Mecha.Golem_MiningLaser.label>
+  <!--EN: energy shield module-->
+  <TM_Mecha.Golem_ShieldSelf.label>能源屏蔽模块</TM_Mecha.Golem_ShieldSelf.label>
+</LanguageData>

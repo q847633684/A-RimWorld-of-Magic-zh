@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Each charge nullifies the damage from a single attack.-->
-  <TM_StoneskinHD.description>每一次冲锋都会抵消一次攻击造成的伤害.</TM_StoneskinHD.description>
-  <!--EN: Stoneskin-->
-  <TM_StoneskinHD.label>石肤术</TM_StoneskinHD.label>
-</LanguageData>

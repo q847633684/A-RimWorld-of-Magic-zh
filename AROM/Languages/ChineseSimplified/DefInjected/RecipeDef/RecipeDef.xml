@@ -1,0 +1,1066 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Applies the power of the Orb of the Eternal. This is a single use infusion of magical energy that will heal wounds, restore limbs, and cure diseases. The healing energy will target and heal the single worst health condition affecting someone at any given time.-->
+  <AdministerOrbOfTheEternal.description>应用永恒之球的力量。这是一种一次性的法力灌注，可以治愈伤口，再生四肢，治疗疾病。疗愈能量将在任何特定的时间针对并治疗影响某人的单一最严重的健康状况。</AdministerOrbOfTheEternal.description>
+  <!--EN: Using Orb of the Eternal.-->
+  <AdministerOrbOfTheEternal.jobString>使用永恒之球。</AdministerOrbOfTheEternal.jobString>
+  <!--EN: administer orb of the eternal-->
+  <AdministerOrbOfTheEternal.label>应用永恒之球。</AdministerOrbOfTheEternal.label>
+  <!--EN: Extracts martial and arcane essence from a pawn. This is a single use item that will permanently remove a pawn's class and convert it into essence. Essence may be consumed to grant class experience. The shard is destroyed after the extraction process.-->
+  <AdministerShardOfExtraction.description>从小人中提取战斗或魔法的精华。这是一个不可逆的过程，将永久删除小人的职业，并将其转化为本质。本质可以被消耗以获得职业经验。碎片在提取后会销毁。</AdministerShardOfExtraction.description>
+  <!--EN: Using Shard of Extraction-->
+  <AdministerShardOfExtraction.jobString>使用灵魂提取碎片</AdministerShardOfExtraction.jobString>
+  <!--EN: administer shard of extraction-->
+  <AdministerShardOfExtraction.label>施行灵魂提取碎片</AdministerShardOfExtraction.label>
+  <!--EN: Infuses stone chunks with mana to create magicyte-->
+  <ArcaneForge_ChunkToMagicyte.description>在石头块中注入法力来制造魔法</ArcaneForge_ChunkToMagicyte.description>
+  <!--EN: Infusing chunk with mana.-->
+  <ArcaneForge_ChunkToMagicyte.jobString>给大块石头注入法力。</ArcaneForge_ChunkToMagicyte.jobString>
+  <!--EN: Infuse chunk-->
+  <ArcaneForge_ChunkToMagicyte.label>附魔石头</ArcaneForge_ChunkToMagicyte.label>
+  <!--EN: A bow shaped from elephant tusks. The tusks are hallowed out to decrease rigidity and reduce weight and softened by soaking it in a magicyte compound that increases suppleness. The elephant bow offers significant improvements in range and accuracy for distant targets over the greatbow, though it is slightly more difficult to handle.
+	
+The elephant bow is engraved with minor enchantments and is a preferred weapon by many experienced rangers and hunters.
+
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +5%
+Energy Regen: +5%
+Damage Boost: +10%
+Ability Cooldown: -10%-->
+  <ArcaneForge_ElephantBow.description>象牙做成的弓。象牙是神圣的，为减少硬度和重量，通过浸泡在魔力伊特中软化。虽然操控难度稍大一些，象弓在射程和精度方面有了显著的提高。\n象弓上刻有微小的附魔，是许多经验丰富的游骑兵和猎人的首选武器。\n\n这种武器被施以魔法，并为训练有素的法师和战士提供额外的好处：\n提升最大能量值: +5%\n提升能量回复速度: +5%\n技能强度: +10%\n技能冷却缩减: -10%</ArcaneForge_ElephantBow.description>
+  <!--EN: forging elephant bow-->
+  <ArcaneForge_ElephantBow.jobString>制作象牙弓</ArcaneForge_ElephantBow.jobString>
+  <!--EN: elephant bow-->
+  <ArcaneForge_ElephantBow.label>制作象牙弓</ArcaneForge_ElephantBow.label>
+  <!--EN: The elephant spear is crafted using the tusks of an elephant, and is typically a status symbol reserved for head hunters or leaders of a tribe. The shaft is engraved with minor enchantments, further boosting the combat abilities of the user.
+		
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +10%
+Damage Boost: +10%
+Arcane Resistance: +20%-->
+  <ArcaneForge_ElephantSpear.description>象矛是用大象的獠牙制成的，通常是为猎人或部落首领保留的身份象征。轴上刻有微小的附魔，进一步提升了使用者的战斗能力。\n		\n这种武器被施以魔法，并为训练有素的法师和战士提供额外的好处：\n提升最大能量值: +10%\n技能强度: +10%\n技能抗性: +20</ArcaneForge_ElephantSpear.description>
+  <!--EN: forging Elephant Spear-->
+  <ArcaneForge_ElephantSpear.jobString>制作象矛</ArcaneForge_ElephantSpear.jobString>
+  <!--EN: elephant spear-->
+  <ArcaneForge_ElephantSpear.label>制作象矛</ArcaneForge_ElephantSpear.label>
+  <!--EN: Storage data for details and designs of replicated objects.-->
+  <ArcaneForge_Replication.description>复制对象的详细信息和设计。</ArcaneForge_Replication.description>
+  <!--EN: replicating-->
+  <ArcaneForge_Replication.jobString>正在复制</ArcaneForge_Replication.jobString>
+  <!--EN: Forge replication-->
+  <ArcaneForge_Replication.label>复制锻造</ArcaneForge_Replication.label>
+  <!--EN: Storage data for details and designs of replicated objects.-->
+  <ArcaneForge_Replication_Restore.description>复制对象的详细信息和设计。</ArcaneForge_Replication_Restore.description>
+  <!--EN: replicating-->
+  <ArcaneForge_Replication_Restore.jobString>正在复制</ArcaneForge_Replication_Restore.jobString>
+  <!--EN: Forge replication-->
+  <ArcaneForge_Replication_Restore.label>复制锻造</ArcaneForge_Replication_Restore.label>
+  <!--EN: A bow shaped from the horn of a Thrumbo. The horn is hallowed out to decrease the weight and softened by soaking it in a magicyte compound that adds a surprising suppleness to the horn. The bow is further enhanced with embedded enchantments and arcane engravings that travel the length of the bow. The bow is said to be almost sentient, able to determine the intended target through a mental link with the wielder. Arrows fired from this bow almost always hit their intended target. This effect does have a tendency to delude the users own capability, however.
+
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +20%
+Energy Regen: +10%
+Damage Boost: +20%
+Ability Cooldown: -10%
+Class XP Gain: -20%-->
+  <ArcaneForge_ThrumBow.description>由敲击兽的角制作的长弓。敲击兽的角被神圣化为减轻重量并通过将其浸泡在魔力伊特中软化，从而为敲击兽的角增添了令人惊讶的柔软感，进一步加强了附魔和奥术雕刻。用这把轻巧的弓进行攻击时如此的精准，就好像它自己会瞄准目标一样。然而，这或许只是持有者的自欺欺人。\n\n\n这种武器被施以魔法，并为训练有素的法师和战士提供额外的好处：\n提升最大能量值: +20%\n提升能量回复速度: +10%\n技能强度: +20%\n技能冷却缩减: -10%\n增加经验值获取: -20%</ArcaneForge_ThrumBow.description>
+  <!--EN: forging Thrum Bow-->
+  <ArcaneForge_ThrumBow.jobString>制作鹰角弓</ArcaneForge_ThrumBow.jobString>
+  <!--EN: Thrum Bow-->
+  <ArcaneForge_ThrumBow.label>制作鹰角弓</ArcaneForge_ThrumBow.label>
+  <!--EN: An axe crafted using thrumbo horns that are fused together with a clasp made from magicyte. This clasp stores arcane potential and transfers it as physical force when the axe is swung, allowing it to deliver mighty blows capable of cleaving through multiple opponents. The shaft is also etched with magical runes to augment the wielder's power.
+		
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Max Energy: +10%
+Damage Boost: +20%
+Arcane Resistance: +30%-->
+  <ArcaneForge_ThrumboAxe.description>一个由敲击兽角和魔法原石制成的握柄组合而成的斧子. 此握柄中存储着奥术能量并且会在撼地斧被挥舞时转化为物理力量, 其强大的力量甚至可以一击将数个敌人劈成两半. 此斧握柄上同样铭刻着神秘的符文来增强使用者的奥术能量。\n		\n这种武器被施以魔法，并为训练有素的法师和战士提供额外的好处：\n提升最大能量值: +10%\n技能强度: +20%\n技能抗性: +30%\n劈裂冲击</ArcaneForge_ThrumboAxe.description>
+  <!--EN: forging Thrumbo Axe-->
+  <ArcaneForge_ThrumboAxe.jobString>制作撼地斧</ArcaneForge_ThrumboAxe.jobString>
+  <!--EN: thrumbo axe-->
+  <ArcaneForge_ThrumboAxe.label>制作撼地斧</ArcaneForge_ThrumboAxe.label>
+  <!--EN: A razor sharp blade forged from the horn of a thrumbo and infused with arcane energy. The thrumbo saber is lighter than metal blades and it's edge can cut through all but the thickest armor. Many masters of the blade favor this weapon as it is designed for speed and lethality. Further enchantments may also quicken the users, doubling their attack rate for a short period.
+		
+This weapon is enchanted and provides additional benefits to trained mages and fighters:
+Ability Cooldown: -10%
+Damage Boost: +10%
+Haste on hit (25%)-->
+  <ArcaneForge_ThrumboSaber.description>一把锋利的刀锋被注入了一些神秘的能量。让它比金属刀轻，它的刃可以穿透所有的盔甲，但某些厚的要死的盔甲除外。许多刀锋高手都喜欢这种武器，因为它是为了速度和杀伤力而设计的。进一步的附魔也可以让使用者加速，在短时间内使他们的攻击率翻倍。   \n这件武器是附魔的，为训练有素的法师和战士提供额外的收益：\n技能冷却时间: -10%\n伤害提升: +10%\n击中时急速 (25%)</ArcaneForge_ThrumboSaber.description>
+  <!--EN: forging Thrumbo Saber-->
+  <ArcaneForge_ThrumboSaber.jobString>正在制作秘能刀</ArcaneForge_ThrumboSaber.jobString>
+  <!--EN: thrumbo saber-->
+  <ArcaneForge_ThrumboSaber.label>制作秘能刀</ArcaneForge_ThrumboSaber.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to increase the force of magical attacks.-->
+  <CutArcaneDmgGem.description>加工并切割魔法原石成为附魔宝石用来增加技能攻击的强度。</CutArcaneDmgGem.description>
+  <!--EN: cut gem of force-->
+  <CutArcaneDmgGem.jobString>加工力量附魔石</CutArcaneDmgGem.jobString>
+  <!--EN: gem of force-->
+  <CutArcaneDmgGem.label>制作中级力量附魔石</CutArcaneDmgGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to resist the effects of magical attacks.-->
+  <CutArcaneResGem.description>加工并切割魔法原石成为附魔宝石用来削弱受到的技能攻击。</CutArcaneResGem.description>
+  <!--EN: cut gem of resistance-->
+  <CutArcaneResGem.jobString>加工抗性附魔石</CutArcaneResGem.jobString>
+  <!--EN: gem of resistance-->
+  <CutArcaneResGem.label>制作中级抗性附魔石</CutArcaneResGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to harness all manner of enchantments.-->
+  <CutArcaneWonderGem.description>加工并切割魔法原石成为附魔宝石用来驾驭各种各样的魔法。</CutArcaneWonderGem.description>
+  <!--EN: cut gem of wonder-->
+  <CutArcaneWonderGem.jobString>加工奇迹附魔石</CutArcaneWonderGem.jobString>
+  <!--EN: gem of wonder-->
+  <CutArcaneWonderGem.label>制作中级奇迹附魔石</CutArcaneWonderGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to reduce the time before an ability can be used again.-->
+  <CutCoolDownGem.description>加工并切割魔法原石成为附魔宝石用来降低技能冷却时间。</CutCoolDownGem.description>
+  <!--EN: cut gem of acceleration-->
+  <CutCoolDownGem.jobString>加工加速宝石</CutCoolDownGem.jobString>
+  <!--EN: gem of acceleration-->
+  <CutCoolDownGem.label>制作中级加速附魔石</CutCoolDownGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to reduce the amount of mana required to use an ability.-->
+  <CutMPCostGem.description>加工并切割魔法原石成为附魔宝石用来降低技能消耗。</CutMPCostGem.description>
+  <!--EN: cut gem of conservation-->
+  <CutMPCostGem.jobString>加工保存附魔石</CutMPCostGem.jobString>
+  <!--EN: gem of conservation-->
+  <CutMPCostGem.label>制作中级保存附魔石</CutMPCostGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to maintain reserves of mana.-->
+  <CutMPGem.description>加工并切割魔法原石成为附魔宝石用来提高能量储备。</CutMPGem.description>
+  <!--EN: cut gem of holding-->
+  <CutMPGem.jobString>加工初级宝石</CutMPGem.jobString>
+  <!--EN: gem of holding-->
+  <CutMPGem.label>制作中级奥术附魔石</CutMPGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to increase the rate mana is gained.-->
+  <CutMPRegenRateGem.description>加工并切割魔法原石成为附魔宝石用来提升能量回复速度。</CutMPRegenRateGem.description>
+  <!--EN: cut gem of regeneration-->
+  <CutMPRegenRateGem.jobString>加工再生附魔石</CutMPRegenRateGem.jobString>
+  <!--EN: gem of regeneration-->
+  <CutMPRegenRateGem.label>制作中级再生附魔石</CutMPRegenRateGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to increase the force of magical attacks.-->
+  <CutMajorArcaneDmgGem.description>加工并切割魔法原石成为附魔宝石用来增加技能攻击的强度。</CutMajorArcaneDmgGem.description>
+  <!--EN: cut major gem of force-->
+  <CutMajorArcaneDmgGem.jobString>加工高级力量附魔石</CutMajorArcaneDmgGem.jobString>
+  <!--EN: major gem of force-->
+  <CutMajorArcaneDmgGem.label>制作高级力量附魔石</CutMajorArcaneDmgGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to resist the effects of magical attacks.-->
+  <CutMajorArcaneResGem.description>加工并切割魔法原石成为附魔宝石用来削弱受到的技能攻击。</CutMajorArcaneResGem.description>
+  <!--EN: cut major gem of resistance-->
+  <CutMajorArcaneResGem.jobString>加工高级抗性附魔石</CutMajorArcaneResGem.jobString>
+  <!--EN: major gem of resistance-->
+  <CutMajorArcaneResGem.label>制作高级抗性附魔石</CutMajorArcaneResGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to harness all manner of enchantments.-->
+  <CutMajorArcaneWonderGem.description>加工并切割魔法原石成为附魔宝石用来驾驭各种各样的魔法。</CutMajorArcaneWonderGem.description>
+  <!--EN: cut major gem of wonder-->
+  <CutMajorArcaneWonderGem.jobString>加工高级奇迹附魔石</CutMajorArcaneWonderGem.jobString>
+  <!--EN: major gem of wonder-->
+  <CutMajorArcaneWonderGem.label>制作高级奇迹附魔石</CutMajorArcaneWonderGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to reduce the time before an ability can be used again.-->
+  <CutMajorCoolDownGem.description>加工并切割魔法原石成为附魔宝石用来降低技能冷却时间。</CutMajorCoolDownGem.description>
+  <!--EN: cut major gem of acceleration-->
+  <CutMajorCoolDownGem.jobString>加工高级加速宝石</CutMajorCoolDownGem.jobString>
+  <!--EN: major gem of acceleration-->
+  <CutMajorCoolDownGem.label>制作高级加速附魔石</CutMajorCoolDownGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to reduce the amount of mana required to use an ability.-->
+  <CutMajorMPCostGem.description>加工并切割魔法原石成为附魔宝石用来降低技能消耗。</CutMajorMPCostGem.description>
+  <!--EN: cut major gem of conservation-->
+  <CutMajorMPCostGem.jobString>加工高级保存附魔石</CutMajorMPCostGem.jobString>
+  <!--EN: major gem of conservation-->
+  <CutMajorMPCostGem.label>制作高级保存附魔石</CutMajorMPCostGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to maintain reserves of mana.-->
+  <CutMajorMPGem.description>加工并切割魔法原石成为附魔宝石用来提高能量储备。</CutMajorMPGem.description>
+  <!--EN: cut major gem of holding-->
+  <CutMajorMPGem.jobString>加工高级支持宝石</CutMajorMPGem.jobString>
+  <!--EN: major gem of holding-->
+  <CutMajorMPGem.label>制作高级奥术附魔石</CutMajorMPGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to increase the rate mana is gained.-->
+  <CutMajorMPRegenRateGem.description>加工并切割魔法原石成为附魔宝石用来提升能量回复速度。</CutMajorMPRegenRateGem.description>
+  <!--EN: cut major gem of regeneration-->
+  <CutMajorMPRegenRateGem.jobString>加工高级再生附魔石</CutMajorMPRegenRateGem.jobString>
+  <!--EN: major gem of regeneration-->
+  <CutMajorMPRegenRateGem.label>制作高级再生附魔石</CutMajorMPRegenRateGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to increase experience gained when using abilities.-->
+  <CutMajorXPGainGem.description>加工并切割魔法原石成为附魔宝石用来提升经验获取量。</CutMajorXPGainGem.description>
+  <!--EN: cut major gem of learning-->
+  <CutMajorXPGainGem.jobString>加工高级知识附魔石</CutMajorXPGainGem.jobString>
+  <!--EN: major gem of learning-->
+  <CutMajorXPGainGem.label>制作高级知识附魔石</CutMajorXPGainGem.label>
+  <!--EN: Cut and refine raw magicyte into an enchanting gem able to increase the force of magical attacks.-->
+  <CutMinorArcaneDmgGem.description>加工并切割魔法原石成为附魔宝石用来增加技能攻击的强度。</CutMinorArcaneDmgGem.description>
+  <!--EN: cut minor gem of force-->
+  <CutMinorArcaneDmgGem.jobString>加工初级力量附魔石</CutMinorArcaneDmgGem.jobString>
+  <!--EN: minor gem of force-->
+  <CutMinorArcaneDmgGem.label>制作初级力量附魔石</CutMinorArcaneDmgGem.label>
+  <!--EN: Cut and refine raw magicyte into an enchanting gem able to resist the effects of magical attacks.-->
+  <CutMinorArcaneResGem.description>加工并切割魔法原石成为附魔宝石用来削弱受到的技能攻击。</CutMinorArcaneResGem.description>
+  <!--EN: cut minor gem of resistance-->
+  <CutMinorArcaneResGem.jobString>加工初级抗性附魔石</CutMinorArcaneResGem.jobString>
+  <!--EN: minor gem of resistance-->
+  <CutMinorArcaneResGem.label>制作初级抗性附魔石</CutMinorArcaneResGem.label>
+  <!--EN: Cut and refine raw magicyte into an enchanting gem able to harness all manner of enchantments.-->
+  <CutMinorArcaneWonderGem.description>加工并切割魔法原石成为附魔宝石用来驾驭各种各样的魔法。</CutMinorArcaneWonderGem.description>
+  <!--EN: cut minor gem of wonder-->
+  <CutMinorArcaneWonderGem.jobString>加工初级奇迹附魔石</CutMinorArcaneWonderGem.jobString>
+  <!--EN: minor gem of wonder-->
+  <CutMinorArcaneWonderGem.label>制作初级奇迹附魔石</CutMinorArcaneWonderGem.label>
+  <!--EN: Cut and refine raw raw magicyte into an enchanting gem able to reduce the time before an ability can be used again.-->
+  <CutMinorCoolDownGem.description>加工并切割魔法原石成为附魔宝石用来降低技能冷却时间。</CutMinorCoolDownGem.description>
+  <!--EN: cut minor gem of acceleration-->
+  <CutMinorCoolDownGem.jobString>加工初级加速宝石</CutMinorCoolDownGem.jobString>
+  <!--EN: minor gem of acceleration-->
+  <CutMinorCoolDownGem.label>制作初级加速附魔石</CutMinorCoolDownGem.label>
+  <!--EN: Cut and refine raw magicyte into an enchanting gem able to reduce the amount of mana required to use an ability.-->
+  <CutMinorMPCostGem.description>加工并切割魔法原石成为附魔宝石用来降低技能消耗。</CutMinorMPCostGem.description>
+  <!--EN: cut minor gem of conservation-->
+  <CutMinorMPCostGem.jobString>加工初级保存宝石</CutMinorMPCostGem.jobString>
+  <!--EN: minor gem of conservation-->
+  <CutMinorMPCostGem.label>制作初级保存附魔石</CutMinorMPCostGem.label>
+  <!--EN: Cut and refine raw magicyte into an enchanting gem able to maintain reserves of mana.-->
+  <CutMinorMPGem.description>加工魔法原石成为附魔宝石用来提高能量储备。</CutMinorMPGem.description>
+  <!--EN: cut minor gem of holding-->
+  <CutMinorMPGem.jobString>加工初级宝石</CutMinorMPGem.jobString>
+  <!--EN: minor gem of holding-->
+  <CutMinorMPGem.label>制作初级奥术附魔石</CutMinorMPGem.label>
+  <!--EN: Cut and refine raw magicyte into an enchanting gem able to increase the rate mana is gained.-->
+  <CutMinorMPRegenRateGem.description>加工并切割魔法原石成为附魔宝石用来提升能量回复速度。</CutMinorMPRegenRateGem.description>
+  <!--EN: cut minor gem of regeneration-->
+  <CutMinorMPRegenRateGem.jobString>加工初级再生附魔石</CutMinorMPRegenRateGem.jobString>
+  <!--EN: minor gem of regeneration-->
+  <CutMinorMPRegenRateGem.label>制作初级再生附魔石</CutMinorMPRegenRateGem.label>
+  <!--EN: Cut and refine raw magicyte into an enchanting gem able to increase experience gained when using abilities.-->
+  <CutMinorXPGainGem.description>加工并切割魔法原石成为附魔宝石用来提升经验获取量。</CutMinorXPGainGem.description>
+  <!--EN: cut minor gem of learning-->
+  <CutMinorXPGainGem.jobString>加工初级知识附魔石</CutMinorXPGainGem.jobString>
+  <!--EN: minor gem of learning-->
+  <CutMinorXPGainGem.label>制作初级知识附魔石</CutMinorXPGainGem.label>
+  <!--EN: Cut and refine magicyte into an enchanting gem able to increase experience gained when using abilities.-->
+  <CutXPGainGem.description>加工并切割魔法原石成为附魔宝石用来提升经验获取量。</CutXPGainGem.description>
+  <!--EN: cut gem of learning-->
+  <CutXPGainGem.jobString>加工知识附魔石</CutXPGainGem.jobString>
+  <!--EN: gem of learning-->
+  <CutXPGainGem.label>制作中级知识附魔石</CutXPGainGem.label>
+  <!--EN: Herbs are mixed with magicyte powder to produce 2 mana potions.-->
+  <ManaPotion_Refined.description>用活力水与加工过的魔法石可以生产两瓶魔法药剂。</ManaPotion_Refined.description>
+  <!--EN: processing mana potion-->
+  <ManaPotion_Refined.jobString>正在生产魔法药剂</ManaPotion_Refined.jobString>
+  <!--EN: mana potion-->
+  <ManaPotion_Refined.label>魔法药剂</ManaPotion_Refined.label>
+  <!--EN: Use druidic powers to regrow body parts.-->
+  <Regrowth.description>使用德鲁伊的神力再生肢体。</Regrowth.description>
+  <!--EN: Regrowing body part.-->
+  <Regrowth.jobString>再生肢体。</Regrowth.jobString>
+  <!--EN: regrow body part (Druid only, 90% mana required)-->
+  <Regrowth.label>肢体再生 (限定德鲁伊, 需要消耗90%法力)</Regrowth.label>
+  <!--EN: Boils pomanasyrrium until the syrrium can be siphoned from the pomana mash.-->
+  <TM_ExtractSyrrium.description>煮沸波莫纳糖浆，直到可以从波莫纳糖浆中摄取法力。</TM_ExtractSyrrium.description>
+  <!--EN: Extracting syrrium.-->
+  <TM_ExtractSyrrium.jobString>提取波莫纳糖浆.</TM_ExtractSyrrium.jobString>
+  <!--EN: extract syrrium-->
+  <TM_ExtractSyrrium.label>提取波莫纳糖浆</TM_ExtractSyrrium.label>
+  <!--EN: Improves frontal body armor by grafting a cage made from the bones of human corpses around the chest.-->
+  <TM_FleshGolem_ChestCage.description>通过在胸部周围移植一个由人类尸体骨骼制成的笼子来提高正面防御。</TM_FleshGolem_ChestCage.description>
+  <!--EN: attaching bone chest cage-->
+  <TM_FleshGolem_ChestCage.jobString>连接骨制胸笼</TM_FleshGolem_ChestCage.jobString>
+  <!--EN: attach chest cage-->
+  <TM_FleshGolem_ChestCage.label>连接胸笼</TM_FleshGolem_ChestCage.label>
+  <!--EN: Increases the efficiency of energy absorbed and used by the golem by 10% for digestive system added.-->
+  <TM_FleshGolem_DigestiveOrgans.description>增加10%傀儡消化系统吸收和使用能量效率。</TM_FleshGolem_DigestiveOrgans.description>
+  <!--EN: adding digestive organs-->
+  <TM_FleshGolem_DigestiveOrgans.jobString>增加消化器官</TM_FleshGolem_DigestiveOrgans.jobString>
+  <!--EN: add digestive organs-->
+  <TM_FleshGolem_DigestiveOrgans.label>增加消化器官</TM_FleshGolem_DigestiveOrgans.label>
+  <!--EN: Increases the rate energy dispersed throughout the golem.-->
+  <TM_FleshGolem_EnergySynthesis.description>增加能量在傀儡中分散的速率，每级增加20%蓄能恢复速度。</TM_FleshGolem_EnergySynthesis.description>
+  <!--EN: improving muscle metabolism-->
+  <TM_FleshGolem_EnergySynthesis.jobString>改善肌肉代谢</TM_FleshGolem_EnergySynthesis.jobString>
+  <!--EN: enhance nutrient absorption-->
+  <TM_FleshGolem_EnergySynthesis.label>促进营养吸收</TM_FleshGolem_EnergySynthesis.label>
+  <!--EN: Inserts a pair of eyes underneath the original pair that improve vision and reduces the chance the golem can be fully blinded.-->
+  <TM_FleshGolem_EyesT1.description>在原来的一对眼睛下面插入另一对眼睛，可以提高视力并减少傀儡完全失明的可能性。</TM_FleshGolem_EyesT1.description>
+  <!--EN: insert eyes-->
+  <TM_FleshGolem_EyesT1.jobString>嵌入眼睛</TM_FleshGolem_EyesT1.jobString>
+  <!--EN: insert quad-eyes-->
+  <TM_FleshGolem_EyesT1.label>嵌入四只眼</TM_FleshGolem_EyesT1.label>
+  <!--EN: Carves an eye socket into the forehead of a flesh golem that is filled with molded magicyte in the shape of an eye. Arcane symbols are etched around the eye, forming a magical link between the golem and the eye. The evil eye is able to manifest the suppressed rage of the flesh golem to curse their target with feebleness.-->
+  <TM_FleshGolem_EyesT2.description>在血肉傀儡的额头上雕刻一个眼窝，并使其被魔法原石填充，和将奥术符号蚀刻在眼睛周围，在傀儡和眼睛之间形成一种神奇的联系。邪眼能够释放血肉傀儡被压抑的愤怒，使其能虚弱地诅咒目标。</TM_FleshGolem_EyesT2.description>
+  <!--EN: carving evil eye-->
+  <TM_FleshGolem_EyesT2.jobString>刻邪眼</TM_FleshGolem_EyesT2.jobString>
+  <!--EN: carve evil eye-->
+  <TM_FleshGolem_EyesT2.label>雕刻邪眼</TM_FleshGolem_EyesT2.label>
+  <!--EN: Attaches horns into the skull of a flesh golem. Horns grant the flesh golem the lethal gore attack and allows the golem to charge into battle.-->
+  <TM_FleshGolem_Horns.description>将犄角连接到血肉傀儡的头骨中。拥有角的血肉傀儡能使用一种致命的血腥攻击，并允许傀儡冲入战斗。</TM_FleshGolem_Horns.description>
+  <!--EN: attaching horns-->
+  <TM_FleshGolem_Horns.jobString>链接犄角</TM_FleshGolem_Horns.jobString>
+  <!--EN: attach horns-->
+  <TM_FleshGolem_Horns.label>链接犄角</TM_FleshGolem_Horns.label>
+  <!--EN: Adds a metallic bracer to the arm of a flesh golem to increase blunt damage and allow blocking.-->
+  <TM_FleshGolem_LeftArm_Bracer.description>在血肉傀儡的手臂上增加一个金属护腕，以增加钝性伤害并允许格挡。</TM_FleshGolem_LeftArm_Bracer.description>
+  <!--EN: crafting golem bracer-->
+  <TM_FleshGolem_LeftArm_Bracer.jobString>制作傀儡护腕</TM_FleshGolem_LeftArm_Bracer.jobString>
+  <!--EN: craft golem left bracer-->
+  <TM_FleshGolem_LeftArm_Bracer.label>制作傀儡左护腕</TM_FleshGolem_LeftArm_Bracer.label>
+  <!--EN: Adds a metallic cleaver to the arm of a flesh golem, enabling an AoE cutting attack and allows the golem the ability to harvest plants.-->
+  <TM_FleshGolem_LeftArm_Cleaver.description>在血肉傀儡的手臂上增加一把金属劈刀，傀儡能用其进行切割攻击并提高收割速度。</TM_FleshGolem_LeftArm_Cleaver.description>
+  <!--EN: crafting golem cleaver-->
+  <TM_FleshGolem_LeftArm_Cleaver.jobString>制作傀儡劈刀</TM_FleshGolem_LeftArm_Cleaver.jobString>
+  <!--EN: craft golem left cleaver-->
+  <TM_FleshGolem_LeftArm_Cleaver.label>制作傀儡左劈刀</TM_FleshGolem_LeftArm_Cleaver.label>
+  <!--EN: Grafts metal plates around the legs of a flesh golem.-->
+  <TM_FleshGolem_LegPlates.description>将金属板移植到血肉傀儡的腿上。</TM_FleshGolem_LegPlates.description>
+  <!--EN: grafting leg plates-->
+  <TM_FleshGolem_LegPlates.jobString>移植腿护板</TM_FleshGolem_LegPlates.jobString>
+  <!--EN: graft leg plates-->
+  <TM_FleshGolem_LegPlates.label>移植腿护板</TM_FleshGolem_LegPlates.label>
+  <!--EN: Enhances the flesh golem by removing excess or unnecessary body parts or organs and replacing them with extra muscle tissues, sinew and bone to further shape the flesh golem into a lethal abomination. This upgrade provides the following benefits per upgrade level [1/2/3]:
+Movement:	+[20%/35%/50%]
+Health:		+[30%/50%/70%]
+
+In addition, this upgrade allows the flesh golem to use their rage to tear the limbs off their enemies.-->
+  <TM_FleshGolem_LifeStage.description>通过移除多余或不必要的身体部位或器官，并用额外的肌肉组织、肌肉和骨骼替换它们，进一步将血肉傀儡塑造成致命的怪物，从而增强血肉傀儡。此升级每升级一级[1/2/3]提供以下加成：\n移速：+[20%/35%/50%]\n生命值：+[30%/50%/70%]\n\n此外，此升级允许血肉傀儡使用愤怒撕裂敌人的四肢。</TM_FleshGolem_LifeStage.description>
+  <!--EN: enhancing flesh golem-->
+  <TM_FleshGolem_LifeStage.jobString>提升血肉傀儡</TM_FleshGolem_LifeStage.jobString>
+  <!--EN: enhance automaton biomass-->
+  <TM_FleshGolem_LifeStage.label>提高人造肌肉质量</TM_FleshGolem_LifeStage.label>
+  <!--EN: Grafts muscle tissue onto the golem to enhance strength and endurance.-->
+  <TM_FleshGolem_MuscleTissue.description>将肌肉组织移植到傀儡上以增强力量和耐力。</TM_FleshGolem_MuscleTissue.description>
+  <!--EN: grafting muscle tissue-->
+  <TM_FleshGolem_MuscleTissue.jobString>移植肌肉组织</TM_FleshGolem_MuscleTissue.jobString>
+  <!--EN: graft muscle tissue-->
+  <TM_FleshGolem_MuscleTissue.label>移植肌肉组织</TM_FleshGolem_MuscleTissue.label>
+  <!--EN: Restores missing golem parts that do not require a specific upgrade.-->
+  <TM_FleshGolem_RestorePart.description>恢复没有特定升级的缺失的傀儡身体部分。</TM_FleshGolem_RestorePart.description>
+  <!--EN: grafting golem part-->
+  <TM_FleshGolem_RestorePart.jobString>移植傀儡部位</TM_FleshGolem_RestorePart.jobString>
+  <!--EN: restore body part-->
+  <TM_FleshGolem_RestorePart.label>恢复身体部位</TM_FleshGolem_RestorePart.label>
+  <!--EN: Adds a metallic bracer to the arm of a flesh golem to increase blunt damage and allow blocking.-->
+  <TM_FleshGolem_RightArm_Bracer.description>在血肉傀儡的手臂上增加一个金属护腕，以增加钝性伤害并允许格挡。</TM_FleshGolem_RightArm_Bracer.description>
+  <!--EN: crafting golem bracer-->
+  <TM_FleshGolem_RightArm_Bracer.jobString>制作傀儡护腕</TM_FleshGolem_RightArm_Bracer.jobString>
+  <!--EN: craft golem right bracer-->
+  <TM_FleshGolem_RightArm_Bracer.label>制作傀儡右护腕</TM_FleshGolem_RightArm_Bracer.label>
+  <!--EN: Adds a metallic cleaver to the arm of a flesh golem, enabling an AoE cutting attack and allows the golem the ability to cut down trees.-->
+  <TM_FleshGolem_RightArm_Cleaver.description>在血肉傀儡的手臂上增加一把金属劈刀，傀儡能用其进行切割攻击并提高收割速度。</TM_FleshGolem_RightArm_Cleaver.description>
+  <!--EN: crafting golem cleaver-->
+  <TM_FleshGolem_RightArm_Cleaver.jobString>制作傀儡劈刀</TM_FleshGolem_RightArm_Cleaver.jobString>
+  <!--EN: craft golem right cleaver-->
+  <TM_FleshGolem_RightArm_Cleaver.label>制作傀儡右劈刀</TM_FleshGolem_RightArm_Cleaver.label>
+  <!--EN: Grafts metal plates onto the shoulders of a flesh golem.-->
+  <TM_FleshGolem_ShoulderPlates.description>将金属板移植到血肉傀儡的肩上。</TM_FleshGolem_ShoulderPlates.description>
+  <!--EN: grafting shoulder plates-->
+  <TM_FleshGolem_ShoulderPlates.jobString>移植肩护板</TM_FleshGolem_ShoulderPlates.jobString>
+  <!--EN: graft shoulder plates-->
+  <TM_FleshGolem_ShoulderPlates.label>移植肩护板</TM_FleshGolem_ShoulderPlates.label>
+  <!--EN: Grafts a metal plate around the skull of a flesh golem.-->
+  <TM_FleshGolem_SkullPlate.description>将金属板移植到血肉傀儡的颅上。</TM_FleshGolem_SkullPlate.description>
+  <!--EN: grafting skull plate-->
+  <TM_FleshGolem_SkullPlate.jobString>移植颅板</TM_FleshGolem_SkullPlate.jobString>
+  <!--EN: graft skull plate-->
+  <TM_FleshGolem_SkullPlate.label>移植颅板</TM_FleshGolem_SkullPlate.label>
+  <!--EN: Improves back armor by grafting a shell made from the bones of a corpse along the spinal column of a flesh golem.-->
+  <TM_FleshGolem_SpineGuard.description>通过沿着血肉傀儡的脊柱移植一个由尸体骨骼制成的护板来提高背部防御。</TM_FleshGolem_SpineGuard.description>
+  <!--EN: attaching spine bone plate-->
+  <TM_FleshGolem_SpineGuard.jobString>装上骨制脊椎护板</TM_FleshGolem_SpineGuard.jobString>
+  <!--EN: attach spine guard-->
+  <TM_FleshGolem_SpineGuard.label>装上脊椎护板</TM_FleshGolem_SpineGuard.label>
+  <!--EN: Inserts tusks into the mandibles of a flesh golem.-->
+  <TM_FleshGolem_Tusks.description>将獠牙插入血肉傀儡的下颚。</TM_FleshGolem_Tusks.description>
+  <!--EN: attaching golem tusks-->
+  <TM_FleshGolem_Tusks.jobString>附牙</TM_FleshGolem_Tusks.jobString>
+  <!--EN: attach tusks-->
+  <TM_FleshGolem_Tusks.label>附牙</TM_FleshGolem_Tusks.label>
+  <!--EN: Increases speed and balance by grafting wings into the back of a flesh golem. These wings are not intended for flight, rather they serve the golem by helping it offset some of its considerable bulk during combat.-->
+  <TM_FleshGolem_Wings.description>通过将翼移植到血肉傀儡的背部来提高速度性和平衡性。这些翼并非用于飞行，而是通过帮助傀儡在战斗中抵消其相当大的重量。</TM_FleshGolem_Wings.description>
+  <!--EN: attaching wings-->
+  <TM_FleshGolem_Wings.jobString>嵌翼</TM_FleshGolem_Wings.jobString>
+  <!--EN: attach wings-->
+  <TM_FleshGolem_Wings.label>嵌翼</TM_FleshGolem_Wings.label>
+  <!--EN: Enhances the golem's arcane alignment; magenta eye color. The arcane affinity provides the following benefits per upgrade level [1/2/3]
+Movement:	+[15/25/30]%
+Health:	+[55/85/100]%-->
+  <TM_HollowGolem_AffinityArcane.description>增强傀儡与奥术的共鸣；使傀儡的眼睛发出洋红色光芒。奥术亲和每升一级[1/2/3]\n提供以下增益：\n移速+[15/25/30]%\n生命值：+[55/85/100]%</TM_HollowGolem_AffinityArcane.description>
+  <!--EN: applying elemental affinity-->
+  <TM_HollowGolem_AffinityArcane.jobString>应用元素亲和</TM_HollowGolem_AffinityArcane.jobString>
+  <!--EN: Affinity: Arcane-->
+  <TM_HollowGolem_AffinityArcane.label>亲和：奥术</TM_HollowGolem_AffinityArcane.label>
+  <!--EN: Strengthens the golem's ties to death magic; green eye color. The death affinity provides the following benefits per upgrade level [1/2/3]
+Movement:	+[10/15/20]%
+Health:	+[65/90/110]%-->
+  <TM_HollowGolem_AffinityDeath.description>增强傀儡与死亡魔法的共鸣；使傀儡的眼睛发出绿色光芒。死亡亲和每升一级[1/2/3]\n提供以下增益：\n移速：+[10/15/20]%\n生命值：+[65/90/110]%</TM_HollowGolem_AffinityDeath.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_HollowGolem_AffinityDeath.jobString>制造傀儡升级</TM_HollowGolem_AffinityDeath.jobString>
+  <!--EN: Affinity: Death-->
+  <TM_HollowGolem_AffinityDeath.label>亲和：死亡</TM_HollowGolem_AffinityDeath.label>
+  <!--EN: Strengthens the golem's ties to elemental fire; orange eye color. The fire affinity provides the following benefits per upgrade level [1/2/3]:
+Movement:	+[25/40/50]%
+Health:	+[40/60/75]%-->
+  <TM_HollowGolem_AffinityFire.description>增强傀儡与烈焰元素的共鸣；使傀儡的眼睛发出橙色光芒。火焰亲和每升一级[1/2/3]\n提供以下增益：\n移速：+[25/40/50]%\n生命值：+[40/60/75]%</TM_HollowGolem_AffinityFire.description>
+  <!--EN: applying elemental affinity-->
+  <TM_HollowGolem_AffinityFire.jobString>应用元素亲和</TM_HollowGolem_AffinityFire.jobString>
+  <!--EN: Affinity: Fire-->
+  <TM_HollowGolem_AffinityFire.label>亲和：火焰</TM_HollowGolem_AffinityFire.label>
+  <!--EN: Strengthens the golem's ties to elemental water; light blue eye color. The water affinity provides the following benefits per upgrade level [1/2/3]
+Movement:	+[20/30/35]%
+Health:	+[50/75/90]%-->
+  <TM_HollowGolem_AffinityIce.description>增强傀儡与流水元素的共鸣；使傀儡的眼睛发出天蓝色光芒。流水亲和每升一级[1/2/3]\n提供以下增益：\n移速：+[20/30/35]%\n生命值：+[50/75/90]%</TM_HollowGolem_AffinityIce.description>
+  <!--EN: applying elemental affinity-->
+  <TM_HollowGolem_AffinityIce.jobString>应用元素亲和</TM_HollowGolem_AffinityIce.jobString>
+  <!--EN: Affinity: Water-->
+  <TM_HollowGolem_AffinityIce.label>亲和：流水</TM_HollowGolem_AffinityIce.label>
+  <!--EN: Upgrades the armor of the golem:
+Blunt:	+24%
+Sharp:	+36%
+Heat:	+16%
+Hit:	+12%-->
+  <TM_HollowGolem_Armor.description>升级傀儡的护甲：\n钝护：+21%\n锐护：+32%\n热护：+14%</TM_HollowGolem_Armor.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_Armor.jobString>制造傀儡部位</TM_HollowGolem_Armor.jobString>
+  <!--EN: Hollowed Breastplate-->
+  <TM_HollowGolem_Armor.label>空洞胸甲</TM_HollowGolem_Armor.label>
+  <!--EN: Fuses a thrumbo axe to the arcane extremities of the hollow golem. When swung, this axe releases a wave of arcane energy that is capable cleaving through multiple foes and almost any armor.-->
+  <TM_HollowGolem_Axe.description>将一把撼地斧熔合到空洞傀儡的&quot;奥术&quot;躯体。当挥动时，这把斧头会释放出一股奥术能量波，能够劈开多个敌人和几乎任何护甲。</TM_HollowGolem_Axe.description>
+  <!--EN: crafting hollow axe-->
+  <TM_HollowGolem_Axe.jobString>打造空洞之斧</TM_HollowGolem_Axe.jobString>
+  <!--EN: Hollowed Axe-->
+  <TM_HollowGolem_Axe.label>空洞之斧</TM_HollowGolem_Axe.label>
+  <!--EN: Equips the hollow golem with the Fade Cloak allowing it to instantly move to another location.
+	
+Blunt:	+12%
+Sharp:	+6%
+Heat:	+18%
+Harmony: +10%
+Move Speed +1c/s
+
+Ability: Fade-->
+  <TM_HollowGolem_Cloak.description>为空洞傀儡备褪色斗篷，使其能够立即移动到另一个位置，傀儡闪现到敌人附近时会产生一个冲击波。\n\n钝护：+10%\n锐护：+5%\n热护：+15%\n链接强度：+5%\n移速+0.4c/s\n\n能力：褪色</TM_HollowGolem_Cloak.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_Cloak.jobString>制造傀儡部位</TM_HollowGolem_Cloak.jobString>
+  <!--EN: Fade Cloak-->
+  <TM_HollowGolem_Cloak.label>褪色斗篷</TM_HollowGolem_Cloak.label>
+  <!--EN: Outfits the hollow golem with an arcane attuned coat of arms which provides the following benefits per upgrade level [1/2/3]:
+Ability Cooldown:	-[12%/24%/36%]
+Ability Damage:	+[10%/20%/30%]
+Processing: 	+[15%/30%/45%]
+Damage Reduction:	[85%/80%/75%]
+
+In addition, decay touch restores 20 + 5*level energy per hit.-->
+  <TM_HollowGolem_CoAArcane.description>为空洞傀儡铬画一层与奥术协调的纹章，每升一级[1/2/3]提供以下增益：\n技能冷却：-[12%/24%/36%]\n技能伤害：+[10%/20%/30%]\n处理：+[15%/30%/45%]\n\n此外，腐朽之触每次命中后恢复[20+5*等级]能量-</TM_HollowGolem_CoAArcane.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_HollowGolem_CoAArcane.jobString>制造傀儡升级</TM_HollowGolem_CoAArcane.jobString>
+  <!--EN: Coat of Arms: Arcane-->
+  <TM_HollowGolem_CoAArcane.label>纹章：奥术</TM_HollowGolem_CoAArcane.label>
+  <!--EN: Outfits the hollow golem with a death attuned coat of arms which provides the following benefits per upgrade level [1/2/3]:
+Armor:	+[5%/10%/15%]
+Ability Cooldown:	-[8%/16%/24%]
+Ability Damage:	+[10%/20%/30%]
+Processing:	-[5%/10%/15%]
+Damage Reduction:	[85%/80%/75%]
+
+In addition, decay touch is 50% more effective and strikes twice.-->
+  <TM_HollowGolem_CoADeath.description>为空洞傀儡铬画一层与死亡协调的纹章，每升一级[1/2/3]提供以下增益：\n护甲：+[5%/10%/15%]\n技能冷却：-[8%/16%/24%]\n技能伤害：+[10%/20%/30%]\n处理能力：-[5%/10%/15%]\n\n此外，腐朽之触的效果提高50%，攻击之后还会攻击一次。</TM_HollowGolem_CoADeath.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_HollowGolem_CoADeath.jobString>制造傀儡升级</TM_HollowGolem_CoADeath.jobString>
+  <!--EN: Coat of Arms: Death-->
+  <TM_HollowGolem_CoADeath.label>纹章：死亡</TM_HollowGolem_CoADeath.label>
+  <!--EN: Outfits the hollow golem with a fire attuned coat of arms which provides the following benefits per upgrade level [1/2/3]:
+Movement:	+[0.2c/0.3c/0.35c]
+Heat Armor:	+[30%/50%/60%]
+Processing:	+[10%/20%/30%]
+Cooldown: 	-[10%/20%/30%]
+Damage Reduction:	[85%/80%/75%]
+
+In addition, decay touch deals bonus burn damage and the golem can absorb nearby fire to restore health.-->
+  <TM_HollowGolem_CoAFire.description>为空洞傀儡铬画一层与火焰协调的纹章，每升一级[1/2/3]提供以下增益：\n移速：+[0.2c/0.3c/0.35c]\n热能护甲：+[30%/50%/60%]\n处理能力：+[10%/20%/30%]\n技能冷却：-[10%/20%/30%]\n\n此外，腐朽之触造成额外的灼伤伤害，傀儡可以吸收附近的火焰以恢复自身的伤口。</TM_HollowGolem_CoAFire.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_HollowGolem_CoAFire.jobString>制造傀儡升级</TM_HollowGolem_CoAFire.jobString>
+  <!--EN: Coat of Arms: Fire-->
+  <TM_HollowGolem_CoAFire.label>纹章：火</TM_HollowGolem_CoAFire.label>
+  <!--EN: Outfits the hollow golem with a water attuned coat of arms which provides the following benefits per upgrade level [1/2/3]:
+Armor:		+[5%/10%/15%]
+Ability Cooldown:	-[10%/20%/30%]
+Processing:	+[10%/20%/30%]
+Damage Reduction:	[85%/80%/75%]
+
+In addition, decay touch heals the golem and one friendly pawn within 10 + 3*level cells for 10 + 4*level health.-->
+  <TM_HollowGolem_CoAIce.description>为空洞傀儡铬画一层与流水协调的纹章，每升一级[1/2/3]提供以下增益：\n护甲：+[5%/10%/15%]\n能力冷却：-[10%/20%/30%]\n处理能力：+[10%/20%/30%]\n\n此外，腐朽之触会治疗[10+3*级]格内的傀儡和一名友方生物，使其获得[10+4*级]回复效果。</TM_HollowGolem_CoAIce.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_HollowGolem_CoAIce.jobString>制造傀儡升级</TM_HollowGolem_CoAIce.jobString>
+  <!--EN: Coat of Arms: Water-->
+  <TM_HollowGolem_CoAIce.label>纹章：水</TM_HollowGolem_CoAIce.label>
+  <!--EN: Equips the hollow golem with the Crown of Awakening which allows it to detect and nullify magic of enemy pawns.-->
+  <TM_HollowGolem_Crown.description>为空洞傀儡装备觉醒之冠，使其能够探测并消除其他人所施展的魔法。</TM_HollowGolem_Crown.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_Crown.jobString>制造傀儡部位</TM_HollowGolem_Crown.jobString>
+  <!--EN: Crown of Awakening-->
+  <TM_HollowGolem_Crown.label>觉醒之冠</TM_HollowGolem_Crown.label>
+  <!--EN: Creates a mana pocket for storing additional mana.-->
+  <TM_HollowGolem_EnergyCell.description>打造一个法力容器来储存额外的法力。</TM_HollowGolem_EnergyCell.description>
+  <!--EN: creating mana pocket-->
+  <TM_HollowGolem_EnergyCell.jobString>打造法力容器</TM_HollowGolem_EnergyCell.jobString>
+  <!--EN: mana cell-->
+  <TM_HollowGolem_EnergyCell.label>法力容器</TM_HollowGolem_EnergyCell.label>
+  <!--EN: Increases the mana regeneration rate of the golem by 6 per hour.-->
+  <TM_HollowGolem_EnergyCharge.description>提高每6小时傀儡的法力回复速度。</TM_HollowGolem_EnergyCharge.description>
+  <!--EN: aligning mana polarities-->
+  <TM_HollowGolem_EnergyCharge.jobString>赋予法力极性</TM_HollowGolem_EnergyCharge.jobString>
+  <!--EN: mana polarity-->
+  <TM_HollowGolem_EnergyCharge.label>法力极性</TM_HollowGolem_EnergyCharge.label>
+  <!--EN: Increases the efficiency of mana absorbed and used by the golem by 10%.-->
+  <TM_HollowGolem_EnergyConverter.description>提高10%傀儡吸收和使用法力的效率。</TM_HollowGolem_EnergyConverter.description>
+  <!--EN: crafting mana filter-->
+  <TM_HollowGolem_EnergyConverter.jobString>打造法力滤器</TM_HollowGolem_EnergyConverter.jobString>
+  <!--EN: mana converter-->
+  <TM_HollowGolem_EnergyConverter.label>法力转换器</TM_HollowGolem_EnergyConverter.label>
+  <!--EN: Adorns the hollow golem with a gem containing condense arcane energy, allowing it to create a concentrated bolt of dark energy. Darkbolt targets enemies up to 120 cells away. Costs 50 energy. Dark bolts are slow moving but create a massive explosion of dark energy. Only one focus gem may be attached to a golem.-->
+  <TM_HollowGolem_FGArcane.description>用含有浓缩奥术能量的宝石装饰空洞傀儡，使其能够产生一束由集中的暗能量构成的箭。黑暗之箭的目标是100格以外的敌人。消耗80能量。一个傀儡只能装饰一个集中宝石。</TM_HollowGolem_FGArcane.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_FGArcane.jobString>制造傀儡部位</TM_HollowGolem_FGArcane.jobString>
+  <!--EN: Focus Gem: Arcane-->
+  <TM_HollowGolem_FGArcane.label>集中宝石：奥术</TM_HollowGolem_FGArcane.label>
+  <!--EN: Adorns the hollow golem with a gem containing death's essence, surrounding the golem with a field radiating death. Death Field periodically strikes nearby enemies. This ability is the only focus gem that does not require casting. Targets enemies within 10 cells of the golem and costs 10 energy per strike. Only one focus gem may be attached to a golem.-->
+  <TM_HollowGolem_FGDeath.description>用含有死亡精华的宝石装饰空洞傀儡，那个宝石会辐射死亡能量场包围傀儡。死亡场会定期攻击附近的敌人。这个技能是唯一不需要施法的集中宝石技能。目标是傀儡10格内的敌人。消耗20点能量，但场内每个死亡的任何生物都能使傀儡获得免费一击。一个傀儡只能装饰一个集中宝石。</TM_HollowGolem_FGDeath.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_FGDeath.jobString>制造傀儡部位</TM_HollowGolem_FGDeath.jobString>
+  <!--EN: Focus Gem: Death-->
+  <TM_HollowGolem_FGDeath.label>集中宝石：死亡</TM_HollowGolem_FGDeath.label>
+  <!--EN: Adorns the hollow golem with a fire element focus gem allowing it to use the fire blossom ability. Fire blossom creates 25 explosive firebolts and targets a cluster of enemies from 6 to 70 cells away. Consumes 20 energy. Only one focus gem may be attached.-->
+  <TM_HollowGolem_FGFire.description>用火元素集中宝石装饰空洞傀儡，使其能够使用火之花技能。火之花用于制造25个能爆炸的火箭，目标是傀儡周边6到50格的敌人（优先以多个敌人集中的地方为目标）。消耗40能量。目标可能会被点燃。只能附加一个集中宝石。</TM_HollowGolem_FGFire.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_FGFire.jobString>制造傀儡部位</TM_HollowGolem_FGFire.jobString>
+  <!--EN: Focus Gem: Fire-->
+  <TM_HollowGolem_FGFire.label>集中宝石：火焰</TM_HollowGolem_FGFire.label>
+  <!--EN: Adorns the hollow golem with a gem containing elemental water allowing it to use the ice blossom ability. Ice Blossom creates a burst of 20 ice shards and targets a cluster of enemies from 8 to 80 cells away. Costs 30 energy. Ice shards inflict high amounts of bleeding and work best on concentrated, lightly armored targets. Only one focus gem may be attached to a golem.-->
+  <TM_HollowGolem_FGIce.description>用水元素集中宝石装饰空洞傀儡，使其能够使用冰之花技能。冰之花会制造20个会爆炸的冰之碎片，目标是8到60格之外的敌人（优先以多个敌人集中的地方为目标）。消耗60能量。冰之碎片会造成大量出血。只能附加一个集中宝石。</TM_HollowGolem_FGIce.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_FGIce.jobString>制造傀儡部位</TM_HollowGolem_FGIce.jobString>
+  <!--EN: Focus Gem: Ice-->
+  <TM_HollowGolem_FGIce.label>集中宝石：寒冰</TM_HollowGolem_FGIce.label>
+  <!--EN: The Flames of Devouring Apathy grant a hollow golem the ability to regulate temperature. The flames will also consume any filth within 25 cells and emit a faint mystical light. These effect are only active while the hollow golem is dormant. The flames of devouring apathy and orb of extinguishing flames cannot be used together, these two upgrades share the same component slot.-->
+  <TM_HollowGolem_FlamesOfDevouringApathy.description>吞噬冷漠之火会赋予空洞傀儡调节温度的能力。火焰还将吞噬25格内的任何污物，并发出微弱的奥术之光。这些效果只有在空洞傀儡处于休眠状态时才有效。吞噬冷漠之火和熄灭火焰之球不能一起使用，这两个升级共享同一个组件槽。</TM_HollowGolem_FlamesOfDevouringApathy.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_FlamesOfDevouringApathy.jobString>制造傀儡部位</TM_HollowGolem_FlamesOfDevouringApathy.jobString>
+  <!--EN: Flames of Devouring Apathy-->
+  <TM_HollowGolem_FlamesOfDevouringApathy.label>吞噬冷漠之火</TM_HollowGolem_FlamesOfDevouringApathy.label>
+  <!--EN: Increases armor of the golem by protecting the head:
+Blunt:	+26%
+Sharp:	+9%
+Heat:	+11%
+Hit:	+15%-->
+  <TM_HollowGolem_Helm.description>通过保护头部增加傀儡的护甲：\n钝护：+22%\n锐护：+7%\n热护：+9%</TM_HollowGolem_Helm.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_Helm.jobString>制造傀儡部位</TM_HollowGolem_Helm.jobString>
+  <!--EN: Hollowed Helm-->
+  <TM_HollowGolem_Helm.label>空洞之盔</TM_HollowGolem_Helm.label>
+  <!--EN: Equipping the hollow golem with the Orb of Extinguished Flames allows it to peek behind the veil of death to extract knowledge. Points into the active research technology will increase for every pawn killed on the map. The orb can also be toggled to detect and consume any fire within 25 cells and emits a faint silver light. These effect are only active while the hollow golem is dormant. The flames of devouring apathy and orb of extinguishing flames cannot be used together, these two upgrades share the same component slot.-->
+  <TM_HollowGolem_OrbOfExtinguishedFlames.description>为空洞傀儡装备熄灭火焰之球,这个装备可以让它窥视死亡的面纱以获取知识。地图上每杀死一个生物，现在进行中的研究的点数就会增加。这个球体也可以被切换来探测和消耗25格的任何火焰，并发出微弱的银光。这些效果只有在空洞傀儡处于休眠状态时才有效。吞噬冷漠之火和熄灭火焰之球不能一起使用，这两个升级共享同一个组件槽。</TM_HollowGolem_OrbOfExtinguishedFlames.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_OrbOfExtinguishedFlames.jobString>制造傀儡部位</TM_HollowGolem_OrbOfExtinguishedFlames.jobString>
+  <!--EN: Orb of Extinguished Flames-->
+  <TM_HollowGolem_OrbOfExtinguishedFlames.label>熄灭火焰之球</TM_HollowGolem_OrbOfExtinguishedFlames.label>
+  <!--EN: Equips the golem with a arcane amulet which enables the Well of Despair ability. Well of Despair encases an area in a reverse shield which allows projectiles in but blocks projectiles from exiting.-->
+  <TM_HollowGolem_PGArcane.description>为傀儡装备一块奥术保护宝石，使其具有[绝望之井]技能。绝望之井的效果为将一个区域包裹在一个反向护盾中，该护盾允许子弹飞入，但阻止子弹飞出。</TM_HollowGolem_PGArcane.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_PGArcane.jobString>制造傀儡部位</TM_HollowGolem_PGArcane.jobString>
+  <!--EN: Protection Gem: Arcane-->
+  <TM_HollowGolem_PGArcane.label>保护宝石：奥术</TM_HollowGolem_PGArcane.label>
+  <!--EN: Equips the golem with a death amulet which surrounds the golem with an aura of death. Nearby enemies can be stricken with a curse that degrades their willpower and ability to fight.-->
+  <TM_HollowGolem_PGDeath.description>给傀儡装备死亡保护宝石，在傀儡周围形成死亡光环。附近的敌人会受到诅咒之击，这会降低他们的意志力和战斗能力。</TM_HollowGolem_PGDeath.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_PGDeath.jobString>制造傀儡部位</TM_HollowGolem_PGDeath.jobString>
+  <!--EN: Protection Gem: Death-->
+  <TM_HollowGolem_PGDeath.label>保护宝石：死亡</TM_HollowGolem_PGDeath.label>
+  <!--EN: Equips the golem with a death's abyss amulet which slows nearby enemies in a movement debilitating field. This effect can trigger every 15s and effects enemies within 30 cells.-->
+  <TM_HollowGolem_PGDoom.description>为傀儡装备一块死亡深渊保护宝石，在傀儡周边形成一个会削弱移速的领域以减慢附近敌人的速度。此效果每15秒触发一次，对36格内的敌人产生减速效果。</TM_HollowGolem_PGDoom.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_PGDoom.jobString>制造傀儡部位</TM_HollowGolem_PGDoom.jobString>
+  <!--EN: Protection Gem: Death's Abyss-->
+  <TM_HollowGolem_PGDoom.label>保护宝石：死亡深渊</TM_HollowGolem_PGDoom.label>
+  <!--EN: Equips the golem with a fire amulet which provides a protective fire ward. Burning Fury provides a 35% damage reduction to all attacks, cauterizes wounds, prevents being staggered, and burns nearby enemies. Only one protection gem may be worn.
+	
+Cooldown:	1200s
+Duration:	100s
+Energy Cost:	50-->
+  <TM_HollowGolem_PGFire.description>为傀儡装备一块火焰保护宝石，在傀儡周边形成一个火焰保护领域。&apos;amp;quot;燃烧之怒&apos;amp;quot;降低所有受到的攻击35%的伤害，烧灼伤口，防止眩晕，并灼伤附近的敌人。一个傀儡只能佩戴一块保护宝石。\n\n冷却：1200秒\n持续时间：100秒\n能源消耗：50</TM_HollowGolem_PGFire.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_PGFire.jobString>制造傀儡部位</TM_HollowGolem_PGFire.jobString>
+  <!--EN: Protection Gem: Fire-->
+  <TM_HollowGolem_PGFire.label>保护宝石：火焰</TM_HollowGolem_PGFire.label>
+  <!--EN: Equips the golem with a water amulet which enables the golem to evade attacks. The chance to evade an attack is proportional to the golem's energy percent and reduces the golem's energy by 5 for each evasion.-->
+  <TM_HollowGolem_PGWater.description>为傀儡装备流水保护宝石，使傀儡能够闪避攻击。闪避攻击的几率与傀儡的能量百分比成正比，每次躲过时傀儡的能量减少5。</TM_HollowGolem_PGWater.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_PGWater.jobString>制造傀儡部位</TM_HollowGolem_PGWater.jobString>
+  <!--EN: Protection Gem: Water-->
+  <TM_HollowGolem_PGWater.label>保护宝石：流水</TM_HollowGolem_PGWater.label>
+  <!--EN: Replaces missing golem parts that do not require an upgrade.-->
+  <TM_HollowGolem_RepairComponent.description>替换丢失的不需要升级的傀儡部件。</TM_HollowGolem_RepairComponent.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_RepairComponent.jobString>制造傀儡部位</TM_HollowGolem_RepairComponent.jobString>
+  <!--EN: Part restoration-->
+  <TM_HollowGolem_RepairComponent.label>部位修复</TM_HollowGolem_RepairComponent.label>
+  <!--EN: Increases armor of the golem with armor that protects the shoulders and neck:
+Blunt:	+10%
+Sharp:	+23%
+Heat:	+7%
+Hit:	+8%-->
+  <TM_HollowGolem_Shoulder.description>通过保护肩部和颈部的护甲增加傀儡的护甲：\n钝护：+8%\n锐护：+19%\n热护：+6%</TM_HollowGolem_Shoulder.description>
+  <!--EN: crafting golem part-->
+  <TM_HollowGolem_Shoulder.jobString>制造傀儡部位</TM_HollowGolem_Shoulder.jobString>
+  <!--EN: Hollowed Shoulder Guards-->
+  <TM_HollowGolem_Shoulder.label>空洞护肩</TM_HollowGolem_Shoulder.label>
+  <!--EN: Fuses a staff of blazing power and staff of the defender to the hollow golem, creating the hollowed staff. The hollow golem can use this staff to launch magical projectiles without consuming energy.-->
+  <TM_HollowGolem_Staff.description>将闪耀权杖和守护者权杖融合到空洞傀儡上，形成空洞之杖。空洞傀儡可以使用此杖发射魔法飞弹而不消耗能量。</TM_HollowGolem_Staff.description>
+  <!--EN: crafting hollow staff-->
+  <TM_HollowGolem_Staff.jobString>打造空洞之杖</TM_HollowGolem_Staff.jobString>
+  <!--EN: Hollowed Staff-->
+  <TM_HollowGolem_Staff.label>空洞之杖</TM_HollowGolem_Staff.label>
+  <!--EN: Each upgrade increases the armor of the golem per level [1,2,3]:
+Blunt:	+[9,16,21]%
+Sharp:	+[13,22,29]%
+Heat:	+[8,14,18]%-->
+  <TM_MaharalGolem_Armor.description>每次升级都会增加傀儡的性能 [1,2,3]:\n钝器:	+[9,16,21]%\n利器:	+[13,22,29]%\n热能:	+[8,14,18]%</TM_MaharalGolem_Armor.description>
+  <!--EN: crafting golem part-->
+  <TM_MaharalGolem_Armor.jobString>鞣制</TM_MaharalGolem_Armor.jobString>
+  <!--EN: Armor-->
+  <TM_MaharalGolem_Armor.label>鞣制</TM_MaharalGolem_Armor.label>
+  <!--EN: Increases the efficiency of energy absorbed and used by the golem by 10%.-->
+  <TM_MaharalGolem_EnergyConverter.description>增加傀儡吸收和使用能量的效率10%。</TM_MaharalGolem_EnergyConverter.description>
+  <!--EN: constructing energy converter-->
+  <TM_MaharalGolem_EnergyConverter.jobString>能量功率升级</TM_MaharalGolem_EnergyConverter.jobString>
+  <!--EN: energy converter-->
+  <TM_MaharalGolem_EnergyConverter.label>功率转化</TM_MaharalGolem_EnergyConverter.label>
+  <!--EN: Creates an energy cell that increases maximum energy by 120 per cell.-->
+  <TM_MaharalGolem_EnergyMax.description>创造一个能量核心，每个核心最大增加120蓄能上限。</TM_MaharalGolem_EnergyMax.description>
+  <!--EN: creating energy cell-->
+  <TM_MaharalGolem_EnergyMax.jobString>制造能量核心</TM_MaharalGolem_EnergyMax.jobString>
+  <!--EN: energy cell-->
+  <TM_MaharalGolem_EnergyMax.label>能量核心</TM_MaharalGolem_EnergyMax.label>
+  <!--EN: Increases the energy regeneration rate of the golem by 4 per hour.-->
+  <TM_MaharalGolem_EnergyRegen.description>每小时增加傀儡4点的能量回复速度。</TM_MaharalGolem_EnergyRegen.description>
+  <!--EN: constructing energy generator-->
+  <TM_MaharalGolem_EnergyRegen.jobString>能量再生</TM_MaharalGolem_EnergyRegen.jobString>
+  <!--EN: energy generator-->
+  <TM_MaharalGolem_EnergyRegen.label>能量再生</TM_MaharalGolem_EnergyRegen.label>
+  <!--EN: The shem hamephorash is further enhanced, allowing the Maharal golem the ability to produce an excess heat.-->
+  <TM_MaharalGolem_Heat.description>进一步强化，使得马哈拉傀儡有能力产生多余的热量。</TM_MaharalGolem_Heat.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_MaharalGolem_Heat.jobString>制作傀儡升级</TM_MaharalGolem_Heat.jobString>
+  <!--EN: Heat-->
+  <TM_MaharalGolem_Heat.label>温热</TM_MaharalGolem_Heat.label>
+  <!--EN: Improves and refines the golem's frame each level [1,2,3]:
+Movement:	+[10/20/30]%
+Health:		+[40/70/100]%-->
+  <TM_MaharalGolem_LifeStage.description>每次升级都会增加傀儡的性能 [1,2,3]:\n移动速度:	+[10/20/30]%\n生命值:		+[40/70/100]%</TM_MaharalGolem_LifeStage.description>
+  <!--EN: improving golem frame-->
+  <TM_MaharalGolem_LifeStage.jobString>重构</TM_MaharalGolem_LifeStage.jobString>
+  <!--EN: frame tier-->
+  <TM_MaharalGolem_LifeStage.label>重构</TM_MaharalGolem_LifeStage.label>
+  <!--EN: The shem hamephorash is further enhanced, allowing the Maharal golem the ability to produce an excess power.-->
+  <TM_MaharalGolem_Power.description>进一步强化，使得马哈拉傀儡有能力产生多余的力量。</TM_MaharalGolem_Power.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_MaharalGolem_Power.jobString>制作傀儡升级</TM_MaharalGolem_Power.jobString>
+  <!--EN: Power-->
+  <TM_MaharalGolem_Power.label>能源</TM_MaharalGolem_Power.label>
+  <!--EN: Replaces missing golem parts that do not require an upgrade.-->
+  <TM_MaharalGolem_RepairBlock.description>替换不需要升级的缺失傀儡部件。</TM_MaharalGolem_RepairBlock.description>
+  <!--EN: crafting golem part-->
+  <TM_MaharalGolem_RepairBlock.jobString>部位修复</TM_MaharalGolem_RepairBlock.jobString>
+  <!--EN: Part restoration-->
+  <TM_MaharalGolem_RepairBlock.label>部位修复</TM_MaharalGolem_RepairBlock.label>
+  <!--EN: Meld steel, jade, silver and magicyte into arcalleum alloy-->
+  <TM_MakeArcalleum.description>把钢铁、翡翠、白银和魔法原石熔化成魔法合金</TM_MakeArcalleum.description>
+  <!--EN: smelting arcalleum-->
+  <TM_MakeArcalleum.jobString>熔炼魔法合金</TM_MakeArcalleum.jobString>
+  <!--EN: arcalleum-->
+  <TM_MakeArcalleum.label>熔炼魔法合金</TM_MakeArcalleum.label>
+  <!--EN: Weave mana, magicyte, and cloth into manaweave-->
+  <TM_MakeManaweave.description>将法力, 魔法原石和布编织成魔纹布</TM_MakeManaweave.description>
+  <!--EN: weaving mana-->
+  <TM_MakeManaweave.jobString>编织魔纹布</TM_MakeManaweave.jobString>
+  <!--EN: manaweave-->
+  <TM_MakeManaweave.label>编织魔纹布</TM_MakeManaweave.label>
+  <!--EN: Forges an axe and mounts it to the left arm attachment.-->
+  <TM_Mecha.Golem_Axe.description>锻造机械用战斧并将其安装到左臂插槽上，斧类武器适用于对抗轻甲目标。</TM_Mecha.Golem_Axe.description>
+  <!--EN: crafting golem part-->
+  <TM_Mecha.Golem_Axe.jobString>制作傀儡部位</TM_Mecha.Golem_Axe.jobString>
+  <!--EN: mecha-axe-->
+  <TM_Mecha.Golem_Axe.label>机械斧</TM_Mecha.Golem_Axe.label>
+  <!--EN: Upgrades the bodyarmor of the golem with ballistic plate; incurs a movement penalty.-->
+  <TM_Mecha.Golem_BallisticPlate.description>使用防弹板升级傀儡的防御；会导致移速减少。</TM_Mecha.Golem_BallisticPlate.description>
+  <!--EN: crafting golem part-->
+  <TM_Mecha.Golem_BallisticPlate.jobString>制作傀儡部位</TM_Mecha.Golem_BallisticPlate.jobString>
+  <!--EN: ballistic plate-->
+  <TM_Mecha.Golem_BallisticPlate.label>塑钢防弹板</TM_Mecha.Golem_BallisticPlate.label>
+  <!--EN: The earth core processor provides the following benefits per upgrade level [1/2/3]:
+Armor:		+[10%/18%/25%]
+Ability Cooldown:	+[5%/10%/15%]
+Healing Bonus:	+[60%/120%/180%]
+Energy Cost:	+[5%/10%/15%]
+Processing: 	+[15%/30%/45%]
+
+In addition, the earth core allows the golem the ability to shield itself from damage.-->
+  <TM_Mecha.Golem_EarthCore.description>地核处理器每升级一级[1/2/3]提供以下加成：\n护甲：+[10%/18%/25%]\n技能冷却：-[5%/10%/15%]\n治疗：+[60%/120%/180%]\n能量消耗：+[5%/10%/15%]\n处理能力：+[15%/30%/45%]\n\n此外，地核还能使傀儡保护自己免受伤害。</TM_Mecha.Golem_EarthCore.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_Mecha.Golem_EarthCore.jobString>制作傀儡升级</TM_Mecha.Golem_EarthCore.jobString>
+  <!--EN: earth core processor-->
+  <TM_Mecha.Golem_EarthCore.label>地核处理器</TM_Mecha.Golem_EarthCore.label>
+  <!--EN: The earth shard automaton base provides the following benefits per upgrade level [1/2/3]:
+Health:	+[40%/80%/120%]-->
+  <TM_Mecha.Golem_EarthShard.description>每一级[1/2/3]：\n基础大地碎片提供以下加成：生命值+[40%/80%/120%]</TM_Mecha.Golem_EarthShard.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_Mecha.Golem_EarthShard.jobString>制作傀儡升级</TM_Mecha.Golem_EarthShard.jobString>
+  <!--EN: Earth shard base-->
+  <TM_Mecha.Golem_EarthShard.label>基础地核碎片</TM_Mecha.Golem_EarthShard.label>
+  <!--EN: Creates a power cell and installs it into a mecha-golem.-->
+  <TM_Mecha.Golem_EnergyCell.description>制作一个能量电池并将其安装到一个机械傀儡中。</TM_Mecha.Golem_EnergyCell.description>
+  <!--EN: crafting power cell-->
+  <TM_Mecha.Golem_EnergyCell.jobString>制作能量电池</TM_Mecha.Golem_EnergyCell.jobString>
+  <!--EN: power cell-->
+  <TM_Mecha.Golem_EnergyCell.label>能量电池</TM_Mecha.Golem_EnergyCell.label>
+  <!--EN: Increases the energy charge rate of the golem by 10 per hour.-->
+  <TM_Mecha.Golem_EnergyCharge.description>每10小时增加傀儡的能量充能速度。</TM_Mecha.Golem_EnergyCharge.description>
+  <!--EN: upgrading electrical neurology-->
+  <TM_Mecha.Golem_EnergyCharge.jobString>升级电力神经核心</TM_Mecha.Golem_EnergyCharge.jobString>
+  <!--EN: electrical neuro-core-->
+  <TM_Mecha.Golem_EnergyCharge.label>电力神经核心</TM_Mecha.Golem_EnergyCharge.label>
+  <!--EN: Increases the efficiency of energy absorbed and used by the golem by 10%.-->
+  <TM_Mecha.Golem_EnergyConverter.description>提高10%傀儡吸收和使用能量的效率。</TM_Mecha.Golem_EnergyConverter.description>
+  <!--EN: crafting power cycler-->
+  <TM_Mecha.Golem_EnergyConverter.jobString>制作电力循环系统</TM_Mecha.Golem_EnergyConverter.jobString>
+  <!--EN: energy converter-->
+  <TM_Mecha.Golem_EnergyConverter.label>能量转换器</TM_Mecha.Golem_EnergyConverter.label>
+  <!--EN: Adds built-in steam exhaust vents that can be used to quickly disperse fires on and around the golem.-->
+  <TM_Mecha.Golem_Extinguisher.description>增加了内置的蒸汽排气口，可用于快速驱散傀儡上和周围的火焰。</TM_Mecha.Golem_Extinguisher.description>
+  <!--EN: crafting golem part-->
+  <TM_Mecha.Golem_Extinguisher.jobString>制作傀儡部位</TM_Mecha.Golem_Extinguisher.jobString>
+  <!--EN: extinguisher-->
+  <TM_Mecha.Golem_Extinguisher.label>灭火器</TM_Mecha.Golem_Extinguisher.label>
+  <!--EN: The flame core processor provides the following benefits per upgrade level [1/2/3]:
+Movement:	+[0.5c/0.9c/1.2c]
+Processing: 	+[10%/20%/30%]
+Ability Damage:	+[10%/20%/30%]
+Energy Cost:	+[10%/20%/30%]
+
+In addition, the flame core allows the golem the ability to attract and burn nearby filth, gaining energy in the process.-->
+  <TM_Mecha.Golem_FlameCore.description>焰核处理器每升级一级[1/2/3]提供以下加成：\n移速：+[0.5c/0.9c/1.2c]\n处理能力：+[10%/20%/30%]\n技能伤害：+[10%/20%/30%]\n能量消耗：+[10%/20%/30%]\n\n此外，火焰核心允许傀儡吸引并燃烧附近的污物，在过程中获得能量。</TM_Mecha.Golem_FlameCore.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_Mecha.Golem_FlameCore.jobString>制作傀儡升级</TM_Mecha.Golem_FlameCore.jobString>
+  <!--EN: flame core processor-->
+  <TM_Mecha.Golem_FlameCore.label>焰核处理器</TM_Mecha.Golem_FlameCore.label>
+  <!--EN: The flame shard automaton base provides the following benefits per upgrade level [1/2/3]:
+Movement:	+[15%/30%/40%]
+Health:	+[15%/30%/40%]-->
+  <TM_Mecha.Golem_FlameShard.description>每一级[1/2/3]基础火焰碎片会提供以下加成：\n移速：+[15%/30%/40%]\n生命值：+[15%/30%/40%]</TM_Mecha.Golem_FlameShard.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_Mecha.Golem_FlameShard.jobString>制作傀儡升级</TM_Mecha.Golem_FlameShard.jobString>
+  <!--EN: Flame shard base-->
+  <TM_Mecha.Golem_FlameShard.label>基础焰核碎片</TM_Mecha.Golem_FlameShard.label>
+  <!--EN: Attaches a minigun onto the right shoulder mount of a mecha-golem.-->
+  <TM_Mecha.Golem_GatlingCannon.description>在机械傀儡的右肩底座上安装一门加特林机炮用于压制敌人。</TM_Mecha.Golem_GatlingCannon.description>
+  <!--EN: crafting golem part-->
+  <TM_Mecha.Golem_GatlingCannon.jobString>制作傀儡部位</TM_Mecha.Golem_GatlingCannon.jobString>
+  <!--EN: gatling cannon-->
+  <TM_Mecha.Golem_GatlingCannon.label>机械傀儡的肩扛加特林加农炮</TM_Mecha.Golem_GatlingCannon.label>
+  <!--EN: Forges a hammer and mounts it to the right arm attachment.-->
+  <TM_Mecha.Golem_Hammer.description>锻造机械用战锤并将其安装到右臂插槽上，锤类造成的钝器伤害可以把敌人砸成肉酱。</TM_Mecha.Golem_Hammer.description>
+  <!--EN: crafting golem part-->
+  <TM_Mecha.Golem_Hammer.jobString>制作傀儡部位</TM_Mecha.Golem_Hammer.jobString>
+  <!--EN: mecha-hammer-->
+  <TM_Mecha.Golem_Hammer.label>机械锤</TM_Mecha.Golem_Hammer.label>
+  <!--EN: The lightning core processor provides the following benefits per upgrade level [1/2/3]:
+Movement:	+[1.2c/1.8c/2.2c]
+Ability Cooldown:	-[15%/30%/45%]
+Energy Cost:	+[10%/20%/30%]
+Processing: 	-[5%/10%/15%]
+
+In addition, the lightning core allows the golem the ability to retaliate against melee attackers with a jolt of energy, stunning them briefly.-->
+  <TM_Mecha.Golem_LightningCore.description>每一级[1/2/3]雷核处理器会提供以下加成;\n移速+[1.2c/1.8c/2.2c]\n技能冷却:+[10%/20%/30%]\n处理能力:-[5%/10%/15%]\n\n除此之外,雷核使傀儡能够对近战攻击它的人进行能量打击，并短暂击昏他们。</TM_Mecha.Golem_LightningCore.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_Mecha.Golem_LightningCore.jobString>制作傀儡升级</TM_Mecha.Golem_LightningCore.jobString>
+  <!--EN: lightning core processor-->
+  <TM_Mecha.Golem_LightningCore.label>雷核处理器</TM_Mecha.Golem_LightningCore.label>
+  <!--EN: The lightning shard automaton base provides the following benefits per upgrade level [1/2/3]:
+Movement:	+[25%/50%/75%]-->
+  <TM_Mecha.Golem_LightningShard.description>每一级[1/2/3]基础雷电碎片会提供以下加成：移速:	+[25%/50%/75%]</TM_Mecha.Golem_LightningShard.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_Mecha.Golem_LightningShard.jobString>制作傀儡升级</TM_Mecha.Golem_LightningShard.jobString>
+  <!--EN: Lightning shard base-->
+  <TM_Mecha.Golem_LightningShard.label>基础雷核碎片</TM_Mecha.Golem_LightningShard.label>
+  <!--EN: Creates a mining laser to attach to the left shoulder mount.-->
+  <TM_Mecha.Golem_MiningLaser.description>制作一个矿用激光器并连接到左肩底座，可以熔化建筑。</TM_Mecha.Golem_MiningLaser.description>
+  <!--EN: crafting golem part-->
+  <TM_Mecha.Golem_MiningLaser.jobString>制作傀儡部位</TM_Mecha.Golem_MiningLaser.jobString>
+  <!--EN: mining laser-->
+  <TM_Mecha.Golem_MiningLaser.label>用于机械傀儡的肩扛式采矿激光器</TM_Mecha.Golem_MiningLaser.label>
+  <!--EN: Replaces missing golem parts that do not require a specific upgrade.-->
+  <TM_Mecha.Golem_RepairComponent.description>替换丢失的不需要特定升级的傀儡部件。</TM_Mecha.Golem_RepairComponent.description>
+  <!--EN: crafting golem part-->
+  <TM_Mecha.Golem_RepairComponent.jobString>制作傀儡部位</TM_Mecha.Golem_RepairComponent.jobString>
+  <!--EN: repair component-->
+  <TM_Mecha.Golem_RepairComponent.label>修理部件</TM_Mecha.Golem_RepairComponent.label>
+  <!--EN: Forges a sword and mounts it to the left arm attachment.-->
+  <TM_Mecha.Golem_Sword.description>锻造机械用长剑并将其安装到左臂插槽上，剑类武器适用于突破护甲与切断四肢。</TM_Mecha.Golem_Sword.description>
+  <!--EN: crafting golem part-->
+  <TM_Mecha.Golem_Sword.jobString>制作傀儡部位</TM_Mecha.Golem_Sword.jobString>
+  <!--EN: mecha-sword-->
+  <TM_Mecha.Golem_Sword.label>机械剑</TM_Mecha.Golem_Sword.label>
+  <!--EN: The water core processor provides the following benefits per upgrade level [1/2/3]:
+Armor:		+[5%/10%/15%]
+Ability Cooldown:	-[10%/20%/30%]
+Healing Bonus:	+[100%/200%/300%]
+Energy Cost:	-[15%/30%/45%]
+
+In addition, the water core allows the golem the ability to quickly regenerate health while active and regenerate health to its dormant frame.-->
+  <TM_Mecha.Golem_WaterCore.description>每一级[1/2/3]水核处理器会提供以下加成;\n护甲:+[5%/10%/15%]\n能力冷却:	-[10%/20%/30%]\n治疗效果:	+[100%/200%/300%]\n能量消耗:	-[15%/30%/45%]\n\n此外，水核允许傀儡在活动状态下快速恢复生命，并将生命恢复到休眠状态。</TM_Mecha.Golem_WaterCore.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_Mecha.Golem_WaterCore.jobString>制作傀儡升级</TM_Mecha.Golem_WaterCore.jobString>
+  <!--EN: water core processor-->
+  <TM_Mecha.Golem_WaterCore.label>水核处理器</TM_Mecha.Golem_WaterCore.label>
+  <!--EN: The water shard automaton base provides the following benefits per upgrade level [1/2/3]:
+Movement:	+[10%/15%/20%]
+Health:	+[30%/50%/70%]-->
+  <TM_Mecha.Golem_WaterShard.description>每一级[1/2/3]基础流水碎片会提供以下加成：移速:	+[10%/15%/20%]\n生命值:	+[30%/50%/70%]</TM_Mecha.Golem_WaterShard.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_Mecha.Golem_WaterShard.jobString>制作傀儡升级</TM_Mecha.Golem_WaterShard.jobString>
+  <!--EN: Water shard base-->
+  <TM_Mecha.Golem_WaterShard.label>基础水核碎片</TM_Mecha.Golem_WaterShard.label>
+  <!--EN: Carve a rune on a body part.-->
+  <TM_RuneCarveBodyPart.description>在一个身体部件上雕刻符文</TM_RuneCarveBodyPart.description>
+  <!--EN: Rune carving.-->
+  <TM_RuneCarveBodyPart.jobString>雕刻符文</TM_RuneCarveBodyPart.jobString>
+  <!--EN: rune carving-->
+  <TM_RuneCarveBodyPart.label>雕刻符文</TM_RuneCarveBodyPart.label>
+  <!--EN: Craft the Shroud of the Soulreaper - a mystical ensemble that augments the art of necromancy.-->
+  <TM_ShroudOfUndeath_Recipe.description>制作灵魂收割者裹尸布 -增强死灵魔法艺术的神秘套装.</TM_ShroudOfUndeath_Recipe.description>
+  <!--EN: crafting Shroud-->
+  <TM_ShroudOfUndeath_Recipe.jobString>制作裹尸布</TM_ShroudOfUndeath_Recipe.jobString>
+  <!--EN: craft shroud of soulreaper-->
+  <TM_ShroudOfUndeath_Recipe.label>灵魂收割者的工艺裹尸布</TM_ShroudOfUndeath_Recipe.label>
+  <!--EN: Increases the efficiency of energy absorbed and used by the golem by 8%.-->
+  <TM_SilkGolem_EnergyConverter.description>魔像吸收和使用能量的效率提高8%。</TM_SilkGolem_EnergyConverter.description>
+  <!--EN: constructing energy converter-->
+  <TM_SilkGolem_EnergyConverter.jobString>构建能量转换器</TM_SilkGolem_EnergyConverter.jobString>
+  <!--EN: energy converter-->
+  <TM_SilkGolem_EnergyConverter.label>能量转换器</TM_SilkGolem_EnergyConverter.label>
+  <!--EN: Creates an energy cell that increases maximum energy by 100 per cell.-->
+  <TM_SilkGolem_EnergyMax.description>创建一个能量单元，每个单元的最大能量增加 100。</TM_SilkGolem_EnergyMax.description>
+  <!--EN: creating energy cell-->
+  <TM_SilkGolem_EnergyMax.jobString>创建能量单元</TM_SilkGolem_EnergyMax.jobString>
+  <!--EN: energy cell-->
+  <TM_SilkGolem_EnergyMax.label>能量电池</TM_SilkGolem_EnergyMax.label>
+  <!--EN: Increases the energy regeneration rate of the golem by 10%.-->
+  <TM_SilkGolem_EnergyRegen.description>傀儡能量回复率提高10%。</TM_SilkGolem_EnergyRegen.description>
+  <!--EN: constructing energy generator-->
+  <TM_SilkGolem_EnergyRegen.jobString>构建能量发生器</TM_SilkGolem_EnergyRegen.jobString>
+  <!--EN: energy generator-->
+  <TM_SilkGolem_EnergyRegen.label>能量发生器</TM_SilkGolem_EnergyRegen.label>
+  <!--EN: Improves and refines the golem's frame each level [1,2,3]:
+Movement:	+[20/30/40]%
+Health:		+[20/40/60]%-->
+  <TM_SilkGolem_LifeStage.description>每个级别都会改进和细化魔像的框架 [1,2,3]：
+移动：+[20/30/40]%
+生命值：+[20/40/60]%</TM_SilkGolem_LifeStage.description>
+  <!--EN: improving golem frame-->
+  <TM_SilkGolem_LifeStage.jobString>改善傀儡框架</TM_SilkGolem_LifeStage.jobString>
+  <!--EN: frame tier-->
+  <TM_SilkGolem_LifeStage.label>框架层</TM_SilkGolem_LifeStage.label>
+  <!--EN: Replaces missing golem parts that do not require an upgrade.-->
+  <TM_SilkGolem_RepairBlock.description>替换不需要升级的缺失魔像部件。</TM_SilkGolem_RepairBlock.description>
+  <!--EN: crafting golem part-->
+  <TM_SilkGolem_RepairBlock.jobString>制作傀儡零件</TM_SilkGolem_RepairBlock.jobString>
+  <!--EN: Part restoration-->
+  <TM_SilkGolem_RepairBlock.label>零件修复</TM_SilkGolem_RepairBlock.label>
+  <!--EN: The silk golem improves the quality of wardening by 1 skill point.-->
+  <TM_SilkGolem_Skills.description>丝绸傀儡提高1个技能点的看守质量。</TM_SilkGolem_Skills.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_SilkGolem_Skills.jobString>制作傀儡升级</TM_SilkGolem_Skills.jobString>
+  <!--EN: Skills-->
+  <TM_SilkGolem_Skills.label>技能</TM_SilkGolem_Skills.label>
+  <!--EN: Each upgrade increases the armor of the golem:
+Blunt:	+4%
+Sharp:	+11%
+Heat:	+6%-->
+  <TM_StoneGolem_Armor.description>每次升级都会增加傀儡的护甲:  \n钝器:	+4%\n利器:	+11%\n热能:	+6%</TM_StoneGolem_Armor.description>
+  <!--EN: crafting golem part-->
+  <TM_StoneGolem_Armor.jobString>淬火</TM_StoneGolem_Armor.jobString>
+  <!--EN: Hardening-->
+  <TM_StoneGolem_Armor.label>淬火</TM_StoneGolem_Armor.label>
+  <!--EN: Outfits the hollow golem with a stone compactor able to crush stone chunks into usable brick.-->
+  <TM_StoneGolem_Compactor.description>傀儡利用体内的岩石魔炉能够将石头研磨成可用的块砖。</TM_StoneGolem_Compactor.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_StoneGolem_Compactor.jobString>装载</TM_StoneGolem_Compactor.jobString>
+  <!--EN: Compactor-->
+  <TM_StoneGolem_Compactor.label>岩石魔炉</TM_StoneGolem_Compactor.label>
+  <!--EN: Increases the efficiency of energy absorbed and used by the golem by 10%.-->
+  <TM_StoneGolem_EnergyConverter.description>增加傀儡吸收和使用能量的效率10%。</TM_StoneGolem_EnergyConverter.description>
+  <!--EN: constructing energy converter-->
+  <TM_StoneGolem_EnergyConverter.jobString>能量功率升级</TM_StoneGolem_EnergyConverter.jobString>
+  <!--EN: energy converter-->
+  <TM_StoneGolem_EnergyConverter.label>功率转化</TM_StoneGolem_EnergyConverter.label>
+  <!--EN: Creates an energy cell that increases maximum energy by 120 per cell.-->
+  <TM_StoneGolem_EnergyMax.description>创造一个能量核心，每个核心最大增加120蓄能上限。</TM_StoneGolem_EnergyMax.description>
+  <!--EN: creating energy cell-->
+  <TM_StoneGolem_EnergyMax.jobString>制造能量核心</TM_StoneGolem_EnergyMax.jobString>
+  <!--EN: energy cell-->
+  <TM_StoneGolem_EnergyMax.label>能量核心</TM_StoneGolem_EnergyMax.label>
+  <!--EN: Increases the energy regeneration rate of the golem by 4 per hour.-->
+  <TM_StoneGolem_EnergyRegen.description>每小时增加傀儡4点的能量回复速度。</TM_StoneGolem_EnergyRegen.description>
+  <!--EN: constructing energy generator-->
+  <TM_StoneGolem_EnergyRegen.jobString>能量再生</TM_StoneGolem_EnergyRegen.jobString>
+  <!--EN: energy generator-->
+  <TM_StoneGolem_EnergyRegen.label>能量再生</TM_StoneGolem_EnergyRegen.label>
+  <!--EN: Deposits granite chunks into the golem to be crushed into usable blocks.-->
+  <TM_StoneGolem_GraniteBricks.description>将花岗岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_GraniteBricks.description>
+  <!--EN: loading sandstone-->
+  <TM_StoneGolem_GraniteBricks.jobString>装载砂岩</TM_StoneGolem_GraniteBricks.jobString>
+  <!--EN: crush granite-->
+  <TM_StoneGolem_GraniteBricks.label>研磨花岗岩</TM_StoneGolem_GraniteBricks.label>
+  <!--EN: Improves and refines the golem's frame each level [1,2,3]:
+Movement:	+[10/20/30]%
+Health:		+[40/70/100]%-->
+  <TM_StoneGolem_LifeStage.description>每次升级都会增加傀儡的性能 [1,2,3]:\n移动速度:	+[10/20/30]%\n生名字:		+[40/70/100]%</TM_StoneGolem_LifeStage.description>
+  <!--EN: improving golem frame-->
+  <TM_StoneGolem_LifeStage.jobString>重构</TM_StoneGolem_LifeStage.jobString>
+  <!--EN: frame tier-->
+  <TM_StoneGolem_LifeStage.label>重构</TM_StoneGolem_LifeStage.label>
+  <!--EN: Deposits limestone chunks into the golem to be crushed into usable blocks.-->
+  <TM_StoneGolem_LimestoneBricks.description>将石灰岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_LimestoneBricks.description>
+  <!--EN: loading limestone-->
+  <TM_StoneGolem_LimestoneBricks.jobString>装载石灰岩</TM_StoneGolem_LimestoneBricks.jobString>
+  <!--EN: crush limestone-->
+  <TM_StoneGolem_LimestoneBricks.label>研磨石灰岩</TM_StoneGolem_LimestoneBricks.label>
+  <!--EN: Deposits marble chunks into the golem to be crushed into usable blocks.-->
+  <TM_StoneGolem_MarbleBricks.description>将大理石置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_MarbleBricks.description>
+  <!--EN: loading marble-->
+  <TM_StoneGolem_MarbleBricks.jobString>装载大理石</TM_StoneGolem_MarbleBricks.jobString>
+  <!--EN: crush marble-->
+  <TM_StoneGolem_MarbleBricks.label>研磨大理石</TM_StoneGolem_MarbleBricks.label>
+  <!--EN: Replaces missing golem parts that do not require an upgrade.-->
+  <TM_StoneGolem_RepairBlock.description>替换不需要升级的缺失傀儡部件。</TM_StoneGolem_RepairBlock.description>
+  <!--EN: crafting golem part-->
+  <TM_StoneGolem_RepairBlock.jobString>部位修复</TM_StoneGolem_RepairBlock.jobString>
+  <!--EN: Part restoration-->
+  <TM_StoneGolem_RepairBlock.label>部位修复</TM_StoneGolem_RepairBlock.label>
+  <!--EN: Deposits sandstone chunks into the golem to be crushed into usable blocks.-->
+  <TM_StoneGolem_SandstoneBricks.description>将砂岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_SandstoneBricks.description>
+  <!--EN: loading sandstone-->
+  <TM_StoneGolem_SandstoneBricks.jobString>装载砂岩</TM_StoneGolem_SandstoneBricks.jobString>
+  <!--EN: crush sandstone-->
+  <TM_StoneGolem_SandstoneBricks.label>研磨砂岩</TM_StoneGolem_SandstoneBricks.label>
+  <!--EN: Deposits slate chunks into the golem to be crushed into usable blocks.-->
+  <TM_StoneGolem_SlateBricks.description>将板岩置入巨岩傀儡中，然后将其粉碎成可用的砖块。</TM_StoneGolem_SlateBricks.description>
+  <!--EN: loading slate-->
+  <TM_StoneGolem_SlateBricks.jobString>装载板岩</TM_StoneGolem_SlateBricks.jobString>
+  <!--EN: crush slate-->
+  <TM_StoneGolem_SlateBricks.label>研磨板岩</TM_StoneGolem_SlateBricks.label>
+  <!--EN: Each upgrade increases the armor of the golem per level [1,2,3]:
+Blunt:	+[6,11,15]%
+Sharp:	+[5,9,13]%
+Heat:	+[4,7,10]%-->
+  <TM_StrawGolem_Armor.description>每次升级都会增加魔像每级的护甲值 [1,2,3]：
+钝化：+[6,11,15]%
+锐利：+[5,9,13]%
+热量：+[4,7,10]%</TM_StrawGolem_Armor.description>
+  <!--EN: crafting golem part-->
+  <TM_StrawGolem_Armor.jobString>制作傀儡零件</TM_StrawGolem_Armor.jobString>
+  <!--EN: Armor-->
+  <TM_StrawGolem_Armor.label>盔甲</TM_StrawGolem_Armor.label>
+  <!--EN: Increases the efficiency of energy absorbed and used by the golem by 6%.-->
+  <TM_StrawGolem_EnergyConverter.description>魔像吸收和使用能量的效率提高 6%。</TM_StrawGolem_EnergyConverter.description>
+  <!--EN: constructing energy converter-->
+  <TM_StrawGolem_EnergyConverter.jobString>构建能量转换器</TM_StrawGolem_EnergyConverter.jobString>
+  <!--EN: energy converter-->
+  <TM_StrawGolem_EnergyConverter.label>能量转换器</TM_StrawGolem_EnergyConverter.label>
+  <!--EN: Creates an energy cell that increases maximum energy by 100 per cell.-->
+  <TM_StrawGolem_EnergyMax.description>创建一个能量单元，每个单元的最大能量增加 100。</TM_StrawGolem_EnergyMax.description>
+  <!--EN: creating energy cell-->
+  <TM_StrawGolem_EnergyMax.jobString>创建能量单元</TM_StrawGolem_EnergyMax.jobString>
+  <!--EN: energy cell-->
+  <TM_StrawGolem_EnergyMax.label>能量电池</TM_StrawGolem_EnergyMax.label>
+  <!--EN: Increases the energy regeneration rate of the golem by 20%.-->
+  <TM_StrawGolem_EnergyRegen.description>傀儡能量回复率提高20%。</TM_StrawGolem_EnergyRegen.description>
+  <!--EN: constructing energy generator-->
+  <TM_StrawGolem_EnergyRegen.jobString>构建能量发生器</TM_StrawGolem_EnergyRegen.jobString>
+  <!--EN: energy generator-->
+  <TM_StrawGolem_EnergyRegen.label>能量发生器</TM_StrawGolem_EnergyRegen.label>
+  <!--EN: Improves and refines the golem's frame each level [1,2,3]:
+Movement:	+[20/30/40]%
+Health:		+[20/40/50]%-->
+  <TM_StrawGolem_LifeStage.description>在每个级别改进和细化魔像的框架 [1,2,3]：
+移动：+[20/30/40]%
+生命值：+[20/40/50]%</TM_StrawGolem_LifeStage.description>
+  <!--EN: improving golem frame-->
+  <TM_StrawGolem_LifeStage.jobString>改善傀儡框架</TM_StrawGolem_LifeStage.jobString>
+  <!--EN: frame tier-->
+  <TM_StrawGolem_LifeStage.label>框架层</TM_StrawGolem_LifeStage.label>
+  <!--EN: Replaces missing golem parts that do not require an upgrade.-->
+  <TM_StrawGolem_RepairBlock.description>替换不需要升级的缺失魔像部件。</TM_StrawGolem_RepairBlock.description>
+  <!--EN: crafting golem part-->
+  <TM_StrawGolem_RepairBlock.jobString>制作傀儡零件</TM_StrawGolem_RepairBlock.jobString>
+  <!--EN: Part restoration-->
+  <TM_StrawGolem_RepairBlock.label>零件修复</TM_StrawGolem_RepairBlock.label>
+  <!--EN: The straw golem wards off unwanted pests to increase the growing speed of nearby plants.-->
+  <TM_StrawGolem_Scarecrow.description>稻草傀儡可以抵御有害害虫，从而提高附近植物的生长速度。</TM_StrawGolem_Scarecrow.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_StrawGolem_Scarecrow.jobString>制作傀儡升级</TM_StrawGolem_Scarecrow.jobString>
+  <!--EN: Scarecrow-->
+  <TM_StrawGolem_Scarecrow.label>稻草人</TM_StrawGolem_Scarecrow.label>
+  <!--EN: Enhances the farming (plants) skill of the golem by 2.-->
+  <TM_StrawGolem_Seed.description>傀儡的农业（植物）技能提高2点。</TM_StrawGolem_Seed.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_StrawGolem_Seed.jobString>制作傀儡升级</TM_StrawGolem_Seed.jobString>
+  <!--EN: Farming-->
+  <TM_StrawGolem_Seed.label>农业</TM_StrawGolem_Seed.label>
+  <!--EN: Each upgrade increases the armor of the golem:
+Blunt:	+[9,17,23]%
+Sharp:	+[8,15,21]%
+Heat:	+[4,7,10]%-->
+  <TM_WoodGolem_Armor.description>每次升级都会增加傀儡的护甲：
+钝：+[9,17,23]%
+锐利：+[8,15,21]%
+热量：+[4,7,10]%</TM_WoodGolem_Armor.description>
+  <!--EN: crafting golem part-->
+  <TM_WoodGolem_Armor.jobString>制作傀儡零件</TM_WoodGolem_Armor.jobString>
+  <!--EN: Hardening-->
+  <TM_WoodGolem_Armor.label>硬化</TM_WoodGolem_Armor.label>
+  <!--EN: Increases the efficiency of energy absorbed and used by the golem by 5%.-->
+  <TM_WoodGolem_EnergyConverter.description>魔像吸收和使用能量的效率提高 5%。</TM_WoodGolem_EnergyConverter.description>
+  <!--EN: constructing energy converter-->
+  <TM_WoodGolem_EnergyConverter.jobString>构建能量转换器</TM_WoodGolem_EnergyConverter.jobString>
+  <!--EN: energy converter-->
+  <TM_WoodGolem_EnergyConverter.label>能量转换器</TM_WoodGolem_EnergyConverter.label>
+  <!--EN: Creates an energy cell that increases maximum energy by 100 per cell.-->
+  <TM_WoodGolem_EnergyMax.description>创建一个能量单元，每个单元的最大能量增加 100。</TM_WoodGolem_EnergyMax.description>
+  <!--EN: creating energy cell-->
+  <TM_WoodGolem_EnergyMax.jobString>创建能量单元</TM_WoodGolem_EnergyMax.jobString>
+  <!--EN: energy cell-->
+  <TM_WoodGolem_EnergyMax.label>能量电池</TM_WoodGolem_EnergyMax.label>
+  <!--EN: Increases the energy regeneration rate of the golem by 15% per hour.-->
+  <TM_WoodGolem_EnergyRegen.description>每小时提高傀儡能量恢复速度 15%。</TM_WoodGolem_EnergyRegen.description>
+  <!--EN: constructing energy generator-->
+  <TM_WoodGolem_EnergyRegen.jobString>构建能量发生器</TM_WoodGolem_EnergyRegen.jobString>
+  <!--EN: energy generator-->
+  <TM_WoodGolem_EnergyRegen.label>能量发生器</TM_WoodGolem_EnergyRegen.label>
+  <!--EN: Improves and refines the golem's frame each level [1,2,3]:
+Movement:	+[20/30/40]%
+Health:		+[20/40/60]%-->
+  <TM_WoodGolem_LifeStage.description>在每个级别改进和细化傀儡的框架 [1,2,3]：
+移动：+[20/30/40]%
+生命值：+[20/40/60]%</TM_WoodGolem_LifeStage.description>
+  <!--EN: improving golem frame-->
+  <TM_WoodGolem_LifeStage.jobString>改善傀儡框架</TM_WoodGolem_LifeStage.jobString>
+  <!--EN: frame tier-->
+  <TM_WoodGolem_LifeStage.label>框架层</TM_WoodGolem_LifeStage.label>
+  <!--EN: Replaces missing golem parts that do not require an upgrade.-->
+  <TM_WoodGolem_RepairBlock.description>替换不需要升级的缺失魔像部件。</TM_WoodGolem_RepairBlock.description>
+  <!--EN: crafting golem part-->
+  <TM_WoodGolem_RepairBlock.jobString>制作傀儡零件</TM_WoodGolem_RepairBlock.jobString>
+  <!--EN: Part restoration-->
+  <TM_WoodGolem_RepairBlock.label>零件修复</TM_WoodGolem_RepairBlock.label>
+  <!--EN: The wood golem improves the quality of cooking, construction, and handling by 2 skill points.-->
+  <TM_WoodGolem_Skills.description>木傀儡将烹饪、建造和搬运的质量提高了 2 个技能点。</TM_WoodGolem_Skills.description>
+  <!--EN: crafting golem upgrade-->
+  <TM_WoodGolem_Skills.jobString>制作傀儡升级</TM_WoodGolem_Skills.jobString>
+  <!--EN: Skills-->
+  <TM_WoodGolem_Skills.label>技能</TM_WoodGolem_Skills.label>
+  <!--EN: Use druidic powers to regrow body parts.-->
+  <UniversalRegrowth.description>使用德鲁伊的力量再生身体部位。</UniversalRegrowth.description>
+  <!--EN: Regrowing body part.-->
+  <UniversalRegrowth.jobString>再生身体部位。</UniversalRegrowth.jobString>
+  <!--EN: regrow body part (Druid only, 90% mana required)-->
+  <UniversalRegrowth.label>重新生长身体部位（仅德鲁伊，需要90%的法力）</UniversalRegrowth.label>
+</LanguageData>

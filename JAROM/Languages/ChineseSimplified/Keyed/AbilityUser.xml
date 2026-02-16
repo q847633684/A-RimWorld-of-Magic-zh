@@ -1,29 +1,60 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-
-<AU_NoLineOfSight>无视线</AU_NoLineOfSight>
-
-<AU_NoTargets>无可用的目标</AU_NoTargets>
-
-<AU_DISABLED>已禁用</AU_DISABLED>
-
-<AU_Type>类型：</AU_Type>
-<AU_TargetAoE>范围效果</AU_TargetAoE>
-<AU_TargetSelf>以自身为目标</AU_TargetSelf>
-<AU_TargetThing>以其他事物为目标</AU_TargetThing>
-<AU_TargetLocation>以位置为目标</AU_TargetLocation>
-<AU_Cooldown>冷却时间：</AU_Cooldown>
-<AU_Extra>额外</AU_Extra>
-<AU_MentalStateChance>精神状态几率</AU_MentalStateChance>
-<AU_EffectChance>效果几率</AU_EffectChance>
-<AU_PawnAbilityRecharging>{0} 需要时间充能</AU_PawnAbilityRecharging>
-
-
-<AU_AoEProperties>范围效果属性</AU_AoEProperties>
-<AU_TargetClass>目标：</AU_TargetClass>
-<AU_AoECharacters>角色</AU_AoECharacters>
-<AU_AoEFriendlyFire>友军伤害：</AU_AoEFriendlyFire>
-<AU_AoEMaxTargets>最大目标数：</AU_AoEMaxTargets>
-<AU_AoEStartsFromCaster>从施法者开始：</AU_AoEStartsFromCaster>
-	
+  <!--原中文: '无视线', 原英文: '无' -> 新英文: 'No line of sight',更新于2026-02-17-->
+  <!--EN: No line of sight-->
+  <AU_NoLineOfSight>无视线</AU_NoLineOfSight>
+  <!--原中文: '无可用的目标', 原英文: '无' -> 新英文: 'No targets available',更新于2026-02-17-->
+  <!--EN: No targets available-->
+  <AU_NoTargets>无可用的目标</AU_NoTargets>
+  <!--原中文: '已禁用', 原英文: '无' -> 新英文: 'DISABLED',更新于2026-02-17-->
+  <!--EN: DISABLED-->
+  <AU_DISABLED>已禁用</AU_DISABLED>
+  <!--原中文: '类型：', 原英文: '无' -> 新英文: 'Type: ',更新于2026-02-17-->
+  <!--EN: Type:-->
+  <AU_Type>类型：</AU_Type>
+  <!--原中文: '范围效果', 原英文: '无' -> 新英文: 'Area of Effect',更新于2026-02-17-->
+  <!--EN: Area of Effect-->
+  <AU_TargetAoE>范围效果</AU_TargetAoE>
+  <!--原中文: '以自身为目标', 原英文: '无' -> 新英文: 'Targets Self',更新于2026-02-17-->
+  <!--EN: Targets Self-->
+  <AU_TargetSelf>以自身为目标</AU_TargetSelf>
+  <!--原中文: '以其他事物为目标', 原英文: '无' -> 新英文: 'Targets Other',更新于2026-02-17-->
+  <!--EN: Targets Other-->
+  <AU_TargetThing>以其他事物为目标</AU_TargetThing>
+  <!--原中文: '以位置为目标', 原英文: '无' -> 新英文: 'Targets Location',更新于2026-02-17-->
+  <!--EN: Targets Location-->
+  <AU_TargetLocation>以位置为目标</AU_TargetLocation>
+  <!--原中文: '冷却时间：', 原英文: '无' -> 新英文: 'Cooldown: ',更新于2026-02-17-->
+  <!--EN: Cooldown:-->
+  <AU_Cooldown>冷却时间：</AU_Cooldown>
+  <!--原中文: '额外', 原英文: '无' -> 新英文: 'Extra',更新于2026-02-17-->
+  <!--EN: Extra-->
+  <AU_Extra>额外</AU_Extra>
+  <!--原中文: '精神状态几率', 原英文: '无' -> 新英文: 'Mental State Chance',更新于2026-02-17-->
+  <!--EN: Mental State Chance-->
+  <AU_MentalStateChance>精神状态几率</AU_MentalStateChance>
+  <!--原中文: '效果几率', 原英文: '无' -> 新英文: 'Effect Chance',更新于2026-02-17-->
+  <!--EN: Effect Chance-->
+  <AU_EffectChance>效果几率</AU_EffectChance>
+  <!--原中文: '{0} 需要时间充能', 原英文: '无' -> 新英文: '{0} needs time to recharge',更新于2026-02-17-->
+  <!--EN: {0} needs time to recharge-->
+  <AU_PawnAbilityRecharging>{0} 需要时间充能</AU_PawnAbilityRecharging>
+  <!--原中文: '范围效果属性', 原英文: '无' -> 新英文: 'Area of Effect Properties',更新于2026-02-17-->
+  <!--EN: Area of Effect Properties-->
+  <AU_AoEProperties>范围效果属性</AU_AoEProperties>
+  <!--原中文: '目标：', 原英文: '无' -> 新英文: 'Targets: ',更新于2026-02-17-->
+  <!--EN: Targets:-->
+  <AU_TargetClass>目标：</AU_TargetClass>
+  <!--原中文: '角色', 原英文: '无' -> 新英文: 'Characters',更新于2026-02-17-->
+  <!--EN: Characters-->
+  <AU_AoECharacters>角色</AU_AoECharacters>
+  <!--原中文: '友军伤害：', 原英文: '无' -> 新英文: 'Friendly Fire: ',更新于2026-02-17-->
+  <!--EN: Friendly Fire:-->
+  <AU_AoEFriendlyFire>友军伤害：</AU_AoEFriendlyFire>
+  <!--原中文: '最大目标数：', 原英文: '无' -> 新英文: 'Max Targets: ',更新于2026-02-17-->
+  <!--EN: Max Targets:-->
+  <AU_AoEMaxTargets>最大目标数：</AU_AoEMaxTargets>
+  <!--原中文: '从施法者开始：', 原英文: '无' -> 新英文: 'Starts from caster: ',更新于2026-02-17-->
+  <!--EN: Starts from caster:-->
+  <AU_AoEStartsFromCaster>从施法者开始：</AU_AoEStartsFromCaster>
 </LanguageData>

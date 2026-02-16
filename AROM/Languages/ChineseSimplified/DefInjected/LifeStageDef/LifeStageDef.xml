@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: flying-->
+  <Flight.label>飞行</Flight.label>
+  <!--EN: demon-->
+  <TM_Demon_Lifestage.label>恶魔</TM_Demon_Lifestage.label>
+  <!--EN: elemental-->
+  <TM_Elemental_Lifestage.label>元素</TM_Elemental_Lifestage.label>
+  <!--EN: flesh golem-->
+  <TM_FleshGolemLS.label>血肉傀儡</TM_FleshGolemLS.label>
+  <!--EN: flesh golem-->
+  <TM_FleshGolemLS1.label>血肉傀儡</TM_FleshGolemLS1.label>
+  <!--EN: flesh golem-->
+  <TM_FleshGolemLS2.label>血肉傀儡</TM_FleshGolemLS2.label>
+  <!--EN: flesh golem-->
+  <TM_FleshGolemLS3.label>血肉傀儡</TM_FleshGolemLS3.label>
+  <!--EN: giant skeleton-->
+  <TM_GiantSkeleton_Lifestage.label>巨型骷髅</TM_GiantSkeleton_Lifestage.label>
+  <!--EN: greater elemental-->
+  <TM_GreaterElemental_Lifestage.label>大型元素</TM_GreaterElemental_Lifestage.label>
+  <!--EN: greater minion-->
+  <TM_GreaterMinion_Lifestage.label>强大仆从</TM_GreaterMinion_Lifestage.label>
+  <!--EN: greater sentinel-->
+  <TM_GreaterSentinel_Lifestage.label>大型石像鬼</TM_GreaterSentinel_Lifestage.label>
+  <!--EN: hollow golem-->
+  <TM_HollowGolemLS.label>空洞傀儡</TM_HollowGolemLS.label>
+  <!--EN: arcane affinity I-->
+  <TM_HollowGolemLS_AA1.label>神秘亲和 I</TM_HollowGolemLS_AA1.label>
+  <!--EN: arcane affinity II-->
+  <TM_HollowGolemLS_AA2.label>神秘亲和 II</TM_HollowGolemLS_AA2.label>
+  <!--EN: arcane affinity III-->
+  <TM_HollowGolemLS_AA3.label>神秘亲和 III</TM_HollowGolemLS_AA3.label>
+  <!--EN: death affinity I-->
+  <TM_HollowGolemLS_DA1.label>死亡亲和 I</TM_HollowGolemLS_DA1.label>
+  <!--EN: death affinity II-->
+  <TM_HollowGolemLS_DA2.label>死亡亲和 II</TM_HollowGolemLS_DA2.label>
+  <!--EN: death affinity III-->
+  <TM_HollowGolemLS_DA3.label>死亡亲和 III</TM_HollowGolemLS_DA3.label>
+  <!--EN: fire affinity I-->
+  <TM_HollowGolemLS_FA1.label>火焰亲和 I</TM_HollowGolemLS_FA1.label>
+  <!--EN: fire affinity II-->
+  <TM_HollowGolemLS_FA2.label>火焰亲和 II</TM_HollowGolemLS_FA2.label>
+  <!--EN: fire affinity III-->
+  <TM_HollowGolemLS_FA3.label>火焰亲和 III</TM_HollowGolemLS_FA3.label>
+  <!--EN: water affinity I-->
+  <TM_HollowGolemLS_IA1.label>流水亲和 I</TM_HollowGolemLS_IA1.label>
+  <!--EN: water affinity II-->
+  <TM_HollowGolemLS_IA2.label>流水亲和 II</TM_HollowGolemLS_IA2.label>
+  <!--EN: water affinity III-->
+  <TM_HollowGolemLS_IA3.label>流水亲和 III</TM_HollowGolemLS_IA3.label>
+  <!--EN: lesser demon-->
+  <TM_LesserDemon_Lifestage.label>小型恶魔</TM_LesserDemon_Lifestage.label>
+  <!--EN: lesser elemental-->
+  <TM_LesserElemental_Lifestage.label>小型元素</TM_LesserElemental_Lifestage.label>
+  <!--EN: lesser sentinel-->
+  <TM_LesserSentinel_Lifestage.label>小型石像鬼</TM_LesserSentinel_Lifestage.label>
+  <!--EN: maharal golem-->
+  <TM_MaharalGolemLS.label>马哈拉尔傀儡</TM_MaharalGolemLS.label>
+  <!--EN: maharal golem-->
+  <TM_MaharalGolemLS1.label>马哈拉尔傀儡</TM_MaharalGolemLS1.label>
+  <!--EN: maharal golem-->
+  <TM_MaharalGolemLS2.label>马哈拉尔傀儡</TM_MaharalGolemLS2.label>
+  <!--EN: maharal golem-->
+  <TM_MaharalGolemLS3.label>马哈拉尔傀儡</TM_MaharalGolemLS3.label>
+  <!--EN: mecha-golem-->
+  <TM_MechaGolemLS.label>机械傀儡</TM_MechaGolemLS.label>
+  <!--EN: earth shard mecha-golem-->
+  <TM_MechaGolemLS_ES1.label>土之碎片机械傀儡</TM_MechaGolemLS_ES1.label>
+  <!--EN: earth shard mecha-golem-->
+  <TM_MechaGolemLS_ES2.label>土之碎片机械傀儡</TM_MechaGolemLS_ES2.label>
+  <!--EN: earth shard mecha-golem-->
+  <TM_MechaGolemLS_ES3.label>土之碎片机械傀儡</TM_MechaGolemLS_ES3.label>
+  <!--EN: flame shard mecha-golem-->
+  <TM_MechaGolemLS_FS1.label>火之碎片机械傀儡</TM_MechaGolemLS_FS1.label>
+  <!--EN: flame shard mecha-golem-->
+  <TM_MechaGolemLS_FS2.label>火之碎片机械傀儡</TM_MechaGolemLS_FS2.label>
+  <!--EN: flame shard mecha-golem-->
+  <TM_MechaGolemLS_FS3.label>火之碎片机械傀儡</TM_MechaGolemLS_FS3.label>
+  <!--EN: lightning shard mecha-golem-->
+  <TM_MechaGolemLS_LS1.label>雷之碎片机械傀儡</TM_MechaGolemLS_LS1.label>
+  <!--EN: lightning shard mecha-golem-->
+  <TM_MechaGolemLS_LS2.label>雷之碎片机械傀儡</TM_MechaGolemLS_LS2.label>
+  <!--EN: lightning shard mecha-golem-->
+  <TM_MechaGolemLS_LS3.label>雷之碎片机械傀儡</TM_MechaGolemLS_LS3.label>
+  <!--EN: water shard mecha-golem-->
+  <TM_MechaGolemLS_WS1.label>水之碎片机械傀儡</TM_MechaGolemLS_WS1.label>
+  <!--EN: water shard mecha-golem-->
+  <TM_MechaGolemLS_WS2.label>水之碎片机械傀儡</TM_MechaGolemLS_WS2.label>
+  <!--EN: water shard mecha-golem-->
+  <TM_MechaGolemLS_WS3.label>水之碎片机械傀儡</TM_MechaGolemLS_WS3.label>
+  <!--EN: minion-->
+  <TM_Minion_Lifestage.label>仆从</TM_Minion_Lifestage.label>
+  <!--EN: sentinel-->
+  <TM_Sentinel_Lifestage.label>石像鬼</TM_Sentinel_Lifestage.label>
+  <!--EN: silk golem-->
+  <TM_SilkGolemLS.label>丝绸傀儡</TM_SilkGolemLS.label>
+  <!--EN: silk golem-->
+  <TM_SilkGolemLS1.label>丝绸傀儡</TM_SilkGolemLS1.label>
+  <!--EN: silk golem-->
+  <TM_SilkGolemLS2.label>丝绸傀儡</TM_SilkGolemLS2.label>
+  <!--EN: silk golem-->
+  <TM_SilkGolemLS3.label>丝绸傀儡</TM_SilkGolemLS3.label>
+  <!--EN: skeleton lich-->
+  <TM_SkeletonLich_Lifestage.label>骷髅巫妖</TM_SkeletonLich_Lifestage.label>
+  <!--EN: skeleton-->
+  <TM_Skeleton_Lifestage.label>骷髅</TM_Skeleton_Lifestage.label>
+  <!--EN: adult-->
+  <TM_SpiritAnimal.label>成人</TM_SpiritAnimal.label>
+  <!--EN: spirit-->
+  <TM_SpiritLS.label>灵魂</TM_SpiritLS.label>
+  <!--EN: stone golem-->
+  <TM_StoneGolemLS.label>巨岩傀儡</TM_StoneGolemLS.label>
+  <!--EN: stone golem-->
+  <TM_StoneGolemLS1.label>巨岩傀儡</TM_StoneGolemLS1.label>
+  <!--EN: stone golem-->
+  <TM_StoneGolemLS2.label>巨岩傀儡</TM_StoneGolemLS2.label>
+  <!--EN: stone golem-->
+  <TM_StoneGolemLS3.label>巨岩傀儡</TM_StoneGolemLS3.label>
+  <!--EN: straw golem-->
+  <TM_StrawGolemLS.label>稻草傀儡</TM_StrawGolemLS.label>
+  <!--EN: straw golem-->
+  <TM_StrawGolemLS1.label>稻草傀儡</TM_StrawGolemLS1.label>
+  <!--EN: straw golem-->
+  <TM_StrawGolemLS2.label>稻草傀儡</TM_StrawGolemLS2.label>
+  <!--EN: straw golem-->
+  <TM_StrawGolemLS3.label>稻草傀儡</TM_StrawGolemLS3.label>
+  <!--EN: wood golem-->
+  <TM_WoodGolemLS.label>木傀儡</TM_WoodGolemLS.label>
+  <!--EN: wood golem-->
+  <TM_WoodGolemLS1.label>木傀儡</TM_WoodGolemLS1.label>
+  <!--EN: wood golem-->
+  <TM_WoodGolemLS2.label>木傀儡</TM_WoodGolemLS2.label>
+  <!--EN: wood golem-->
+  <TM_WoodGolemLS3.label>木傀儡</TM_WoodGolemLS3.label>
+</LanguageData>

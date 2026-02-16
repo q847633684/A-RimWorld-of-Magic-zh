@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Active state-->
+  <TM_GolemActive.headerTip>激活</TM_GolemActive.headerTip>
+  <!--EN: Age-->
+  <TM_GolemAge.label>年龄</TM_GolemAge.label>
+  <!--EN: Assigned to:-->
+  <TM_GolemMaster.label>分配给:</TM_GolemMaster.label>
+  <!--EN: Energy-->
+  <TM_GolemNeeds.label>能量</TM_GolemNeeds.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: mana potion-->
+  <ManaPotion.label>魔法药剂</ManaPotion.label>
+  <!--EN: syrrium-->
+  <TM_SyrriumChemical.label>波莫纳糖浆</TM_SyrriumChemical.label>
+</LanguageData>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Guiding TargetA on their arcane path.-->
-  <TM_BestowClass.reportString>引导TargetA走向他们的神秘之路</TM_BestowClass.reportString>
-  <!--EN: Bestow the gift of magic on TargetA.-->
-  <TM_BestowMagic.reportString>赐予魔法之礼给TargetA</TM_BestowMagic.reportString>
-  <!--EN: Severing TargetA from magic.-->
-  <TM_SeverMagic.reportString>斩断TargetA与魔法的联系</TM_SeverMagic.reportString>
-</LanguageData>

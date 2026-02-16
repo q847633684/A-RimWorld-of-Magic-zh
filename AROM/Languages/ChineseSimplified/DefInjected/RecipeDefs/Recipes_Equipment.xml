@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Craft the Shroud of the Soulreaper - a mystical ensemble that augments the art of necromancy.-->
-  <TM_ShroudOfUndeath_Recipe.description>制作灵魂收割者裹尸布 -增强死灵魔法艺术的神秘套装.</TM_ShroudOfUndeath_Recipe.description>
-  <!--EN: crafting Shroud-->
-  <TM_ShroudOfUndeath_Recipe.jobString>制作裹尸布</TM_ShroudOfUndeath_Recipe.jobString>
-  <!--EN: craft shroud of soulreaper-->
-  <TM_ShroudOfUndeath_Recipe.label>灵魂收割者的工艺裹尸布</TM_ShroudOfUndeath_Recipe.label>
-</LanguageData>

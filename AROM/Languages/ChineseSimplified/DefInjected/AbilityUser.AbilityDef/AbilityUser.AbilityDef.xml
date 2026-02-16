@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: verb used forge replication-->
+  <Forge_Verb.description>复制锻造</Forge_Verb.description>
+  <!--EN: secondary targeter-->
+  <Forge_Verb.label>次要目标</Forge_Verb.label>
+  <!--EN: Infuse sealed traits into a human-like pawn.-->
+  <TM_Artifact_TraitInfuse.description>把封闭的特性注入一个生物体内。</TM_Artifact_TraitInfuse.description>
+  <!--EN: Infuse Soul-->
+  <TM_Artifact_TraitInfuse.label>注入灵魂</TM_Artifact_TraitInfuse.label>
+  <!--EN: Steal the traits of another pawn.-->
+  <TM_Artifact_TraitThief.description>窃取一个生物的特征。</TM_Artifact_TraitThief.description>
+  <!--EN: Devour Soul-->
+  <TM_Artifact_TraitThief.label>吞噬灵魂</TM_Artifact_TraitThief.label>
+</LanguageData>

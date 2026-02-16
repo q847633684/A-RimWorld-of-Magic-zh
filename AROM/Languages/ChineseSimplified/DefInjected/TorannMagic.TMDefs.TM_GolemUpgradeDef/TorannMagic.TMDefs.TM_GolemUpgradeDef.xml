@@ -1,0 +1,823 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Increases energy efficiency by 10% per level. Starting energy efficiency is 50%.-->
+  <TM_Golem_FleshEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_FleshEnergyEfficiency.description>
+  <!--EN: muscular efficiency-->
+  <TM_Golem_FleshEnergyEfficiency.label>增加消化器官</TM_Golem_FleshEnergyEfficiency.label>
+  <!--EN: Increases energy charge rate by 20% per level. Starting recharge rate is 100 energy/hour.-->
+  <TM_Golem_FleshEnergyRate.description>每个水平的能源充电率提高20％。开始充电率为100能量/小时。</TM_Golem_FleshEnergyRate.description>
+  <!--EN: energy synthesis-->
+  <TM_Golem_FleshEnergyRate.label>能量合成</TM_Golem_FleshEnergyRate.label>
+  <!--EN: Increases stats and adds the dismember ability.
+Movement:	+[20%/35%/50%]
+Health:		+[30%/50%/70%]
+
+Dismember
+Rage Cost:	25
+Cooldown:	13s
+Range:	1c-->
+  <TM_Golem_FleshLifeStage.description>增加数据并增加肢解能力。
+移动速度:	+[20%/35%/50%]
+生命值:		+[30%/50%/70%]
+
+愤怒撕裂
+消耗愤怒:	25
+冷却:	13s
+射程:	1c</TM_Golem_FleshLifeStage.description>
+  <!--EN: automaton power-->
+  <TM_Golem_FleshLifeStage.label>提高人造肌肉质量</TM_Golem_FleshLifeStage.label>
+  <!--EN: Increases maximum energy by 400 per level. Starting max energy is 800.-->
+  <TM_Golem_FleshMaxEnergy.description>将最大能量增加400个水平。开始最大能量为800。</TM_Golem_FleshMaxEnergy.description>
+  <!--EN: muscular endurance-->
+  <TM_Golem_FleshMaxEnergy.label>移植肌肉组织</TM_Golem_FleshMaxEnergy.label>
+  <!--EN: restore part-->
+  <TM_Golem_FleshRestore.label>维修部位</TM_Golem_FleshRestore.label>
+  <!--EN: Increases armor:
+Blunt:	28%
+Sharp:	10%
+Heat:	5%-->
+  <TM_Golem_Flesh_ChestCage.description>增强傀儡护甲：
+钝器:	28%
+利器:	10%
+热能:	5%</TM_Golem_Flesh_ChestCage.description>
+  <!--EN: chest cage-->
+  <TM_Golem_Flesh_ChestCage.label>连接胸笼</TM_Golem_Flesh_ChestCage.label>
+  <!--EN: Increases sight by 100%.-->
+  <TM_Golem_Flesh_EyesT1.description>提升傀儡100%的视力。</TM_Golem_Flesh_EyesT1.description>
+  <!--EN: quad sight-->
+  <TM_Golem_Flesh_EyesT1.label>嵌入四只眼</TM_Golem_Flesh_EyesT1.label>
+  <!--EN: Enables an ability that terrifies and slows enemies.
+
+Evil Eye
+Rage Cost:	10
+Cooldown:	2.2s
+Range:	40-->
+  <TM_Golem_Flesh_EyesT2.description>邪眼能够释放血肉傀儡被压抑的愤怒，使其能虚弱地诅咒目标。
+
+邪眼诅咒
+消耗愤怒:	10
+冷却:	2.2s
+射程:	40</TM_Golem_Flesh_EyesT2.description>
+  <!--EN: evil eye-->
+  <TM_Golem_Flesh_EyesT2.label>雕刻邪眼</TM_Golem_Flesh_EyesT2.label>
+  <!--EN: Adds a piercing attack and charge ability.
+
+Bull Charge
+Rage Cost:	5
+Cooldown:	10s-->
+  <TM_Golem_Flesh_Horns.description>增加了穿孔攻击和充电能力。
+
+冲锋
+消耗愤怒:	5
+冷却:	10s</TM_Golem_Flesh_Horns.description>
+  <!--EN: horns-->
+  <TM_Golem_Flesh_Horns.label>犄角</TM_Golem_Flesh_Horns.label>
+  <!--EN: Increases block chance by 20%, stacks with right bracer.-->
+  <TM_Golem_Flesh_LeftArmBrace.description>增加一个金属护腕，以增加钝性伤害并允许20%的概率进行格挡。左右腕可叠加。</TM_Golem_Flesh_LeftArmBrace.description>
+  <!--EN: left arm brace-->
+  <TM_Golem_Flesh_LeftArmBrace.label>左臂支撑</TM_Golem_Flesh_LeftArmBrace.label>
+  <!--EN: Harvest plants
+		
+AoE Cleave
+Rage Cost:	15
+Damage:	15
+Splash:	2c-->
+  <TM_Golem_Flesh_LeftArmCleaver.description>允许魔像收集植物并实现AOE裂解攻击。
+
+劈砍
+消耗愤怒:	15
+伤害:	15
+溅射:	2c</TM_Golem_Flesh_LeftArmCleaver.description>
+  <!--EN: left arm (harvest) cleaver-->
+  <TM_Golem_Flesh_LeftArmCleaver.label>左臂切肉刀</TM_Golem_Flesh_LeftArmCleaver.label>
+  <!--EN: Increases armor:
+Blunt:	10%
+Sharp:	15%
+Heat:	8%-->
+  <TM_Golem_Flesh_LegPlates.description>增强傀儡护甲：
+钝器:	10%
+利器:	15%
+热能:	8%</TM_Golem_Flesh_LegPlates.description>
+  <!--EN: leg plates-->
+  <TM_Golem_Flesh_LegPlates.label>移植腿护板</TM_Golem_Flesh_LegPlates.label>
+  <!--EN: Increases block chance by 20%, stacks with left bracer.-->
+  <TM_Golem_Flesh_RightArmBrace.description>增加一个金属护腕，以增加钝性伤害并允许20%的概率进行格挡。左右腕可叠加</TM_Golem_Flesh_RightArmBrace.description>
+  <!--EN: right arm brace-->
+  <TM_Golem_Flesh_RightArmBrace.label>右臂支撑</TM_Golem_Flesh_RightArmBrace.label>
+  <!--EN: Cut trees
+
+AoE Cleave
+Rage Cost:	15
+Damage:	15
+Splash:	2c-->
+  <TM_Golem_Flesh_RightArmCleaver.description>允许魔像收集植物并实现AOE裂解攻击。
+
+劈砍
+消耗愤怒:	15
+伤害:	15
+溅射:	2c</TM_Golem_Flesh_RightArmCleaver.description>
+  <!--EN: right arm (chop) cleaver-->
+  <TM_Golem_Flesh_RightArmCleaver.label>右臂切肉刀</TM_Golem_Flesh_RightArmCleaver.label>
+  <!--EN: Increases armor:
+Blunt:	14%
+Sharp:	12%
+Heat:	10%-->
+  <TM_Golem_Flesh_ShoulderPlates.description>增强傀儡护甲：
+钝器:	14%
+利器:	12%
+热能:	10%</TM_Golem_Flesh_ShoulderPlates.description>
+  <!--EN: shoulder plates-->
+  <TM_Golem_Flesh_ShoulderPlates.label>移植肩护板</TM_Golem_Flesh_ShoulderPlates.label>
+  <!--EN: Increases armor:
+Blunt:	12%
+Sharp:	18%
+Heat:	8%-->
+  <TM_Golem_Flesh_SkullPlate.description>增强傀儡护甲：
+钝器:	12%
+利器:	18%
+热能:	8%</TM_Golem_Flesh_SkullPlate.description>
+  <!--EN: skull plate-->
+  <TM_Golem_Flesh_SkullPlate.label>移植颅板</TM_Golem_Flesh_SkullPlate.label>
+  <!--EN: Increases armor:
+Blunt:	12%
+Sharp:	14%
+Heat:	5%-->
+  <TM_Golem_Flesh_SpineGuard.description>增强傀儡护甲：
+钝器:	12%
+利器:	14%
+热能:	5%</TM_Golem_Flesh_SpineGuard.description>
+  <!--EN: spine guard-->
+  <TM_Golem_Flesh_SpineGuard.label>装上脊椎护板</TM_Golem_Flesh_SpineGuard.label>
+  <!--EN: Adds a powerful bite attack.-->
+  <TM_Golem_Flesh_Tusks.description>添加了强大的咬合攻击。</TM_Golem_Flesh_Tusks.description>
+  <!--EN: tusks-->
+  <TM_Golem_Flesh_Tusks.label>附牙</TM_Golem_Flesh_Tusks.label>
+  <!--EN: Adds an ability that can grant the golem haste.
+
+Haste
+Rage Cost:	15
+Cooldown:	6s
+Double attack and move speed-->
+  <TM_Golem_Flesh_Wings.description>通过将翼移植到血肉傀儡的背部来提高速度性和平衡性
+
+极速
+消耗愤怒:	15
+冷却:	6s
+攻击速度与移动速度翻倍</TM_Golem_Flesh_Wings.description>
+  <!--EN: wings-->
+  <TM_Golem_Flesh_Wings.label>嵌翼</TM_Golem_Flesh_Wings.label>
+  <!--EN: The arcane energy within the hollow golem is further enhanced. This affinity causes the golem's eyes to glow magenta. Arcane affinity grants the golem additional stats:
+Movement: +[15/25/30]%
+Health:	+[55/85/100]%
+*Only one affinity type is allowed per golem*-->
+  <TM_Golem_HollowAffinityArcane.description>空心魔像中的奥术能进一步增强。每个魔像只允许一个亲和力。这种亲和力使魔像的眼睛变得洋红色。奥术亲和力授予魔像的其他统计数据：
+移动速度: +[15/25/30]%
+生命值: 	+[55/85/100]%</TM_Golem_HollowAffinityArcane.description>
+  <!--EN: arcane affinity-->
+  <TM_Golem_HollowAffinityArcane.label>奥术亲和力</TM_Golem_HollowAffinityArcane.label>
+  <!--EN: The arcane energy within the hollow golem is entwined with death magic. This affinity causes the golem's eyes to glow green. Death affinity grants the golem additional stats:
+Movement: +[10/15/20]%
+Health:	+[65/90/110]%
+*Only one affinity type is allowed per golem*-->
+  <TM_Golem_HollowAffinityDeath.description>空心魔像中的奥术能量与死亡魔法缠绕在一起。每个魔像只允许一个亲和力。这种亲和力使魔像的眼睛变绿色。死亡亲和力授予魔像的其他统计数据：
+移动速度: +[10/15/20]%
+生命值: 	+[65/90/110]%</TM_Golem_HollowAffinityDeath.description>
+  <!--EN: death affinity-->
+  <TM_Golem_HollowAffinityDeath.label>死亡亲和力</TM_Golem_HollowAffinityDeath.label>
+  <!--EN: The arcane energy within the hollow golem is entwined with elemental fire. This affinity causes the golem's eyes to glow reddish orange. Fire affinity grants the golem additional stats:
+Movement: +[25/40/50]%
+Health:	+[40/60/75]%
+*Only one affinity type is allowed per golem*-->
+  <TM_Golem_HollowAffinityFire.description>空心魔像中的奥术能与元素火联系在一起。每个魔像只允许一个亲和力。这种亲和力使魔像的眼睛发光了橙色。火相关授予魔像的其他统计数据：
+移动速度: +[25/40/50]%
+生命值: 	+[40/60/75]%</TM_Golem_HollowAffinityFire.description>
+  <!--EN: fire affinity-->
+  <TM_Golem_HollowAffinityFire.label>火亲和力</TM_Golem_HollowAffinityFire.label>
+  <!--EN: The arcane energy within the hollow golem is entwined with elemental water. This affinity causes the golem's eyes to glow light blue. Water affinity grants the golem additional stats:
+Movement: +[20/30/35]%
+Health:	+[50/75/90]%
+*Only one affinity type is allowed per golem*-->
+  <TM_Golem_HollowAffinityIce.description>空心魔像中的奥术能与元素水缠绕在一起。每个魔像只允许一个亲和力。这种亲和力使魔像的眼睛变成浅蓝色。水亲和力授予魔像的其他统计数据：
+移动速度: +[20/30/35]%
+生命值: 	+[50/75/90]%</TM_Golem_HollowAffinityIce.description>
+  <!--EN: water affinity-->
+  <TM_Golem_HollowAffinityIce.label>水亲和力</TM_Golem_HollowAffinityIce.label>
+  <!--EN: Adds a massive battle-axe that shears through multiple opponents with each swing. The hollowed axe occupies the weapon slot; only one weapon may be equipped.-->
+  <TM_Golem_HollowAxe.description>装备一个巨大的战斧,每一次挥舞就能砍穿多个对手。空洞之斧占据了武器槽; 傀儡只能装备一种武器。</TM_Golem_HollowAxe.description>
+  <!--EN: hollow axe-->
+  <TM_Golem_HollowAxe.label>空洞之斧</TM_Golem_HollowAxe.label>
+  <!--EN: Increases armor for the chest and torso:
+Blunt:	+24%
+Sharp:	+36%
+Heat:	+16%
+Hit:	+12%-->
+  <TM_Golem_HollowBreastPlate.description>为傀儡安装胸部装甲:
+钝器:	+21%
+利器:	+32%
+热能:	+14%</TM_Golem_HollowBreastPlate.description>
+  <!--EN: breastplate-->
+  <TM_Golem_HollowBreastPlate.label>空洞胸甲</TM_Golem_HollowBreastPlate.label>
+  <!--EN: The fade cloak passively increases the basic movement speed of the wearer while providing a small amount of protection. It also allows the wearer to instantly move to another location on the map by expending energy. If the wearer fades to a location near enemies, a decay blast will strike each enemy near the destination.
+
+Blunt:	+12%
+Sharp:	+6%
+Heat:	+18%
+Harmony: +10%
+Move Speed +1c/s
+
+Faded Decay
+Energy Cost:	30
+Cooldown:	10s
+Min Range:	10c
+Max Range:	200c
+Decay Radius:	4c
+Hit Chance:	80%-->
+  <TM_Golem_HollowCloak.description>淡出的斗篷被动地提高了佩戴者的基本运动速度，同时提供了少量的保护。它还允许佩戴者通过消耗能量立即移动到地图上的另一个位置。如果佩戴者逐渐消失到敌人附近的位置，则腐烂的爆炸将击中目的地附近的每个敌人。
+
+钝器:	+10%
+利器:	+5%
+热能:	+15%
+链接强度: +5%
+移动速度: +.4c/s
+
+褪色的腐烂
+蓄能消耗:	30
+冷却时间:	20s
+最小范围:	10c
+最大范围:	200c
+衰减半径:	4c
+命中率:	80%</TM_Golem_HollowCloak.description>
+  <!--EN: Fade Cloak-->
+  <TM_Golem_HollowCloak.label>褪色斗篷</TM_Golem_HollowCloak.label>
+  <!--EN: Passively strengthens the will of the wearer to protect against magical attacks and offers minor physical protection. Active ability detects and nullify the magic of other spells.
+
+Spell Reflection
+Energy Cost:	50
+Cooldown:	6.6s
+Range:	100c
+Damage and radius varies based on mana cost of reflected spell-->
+  <TM_Golem_HollowCrown.description>被动地加强佩戴者的意志，以防止神奇的攻击并提供少量的物理保护。主动能力检测并消除了其他咒语的魔力。
+
+咒语反射
+蓄能消耗:	50
+冷却时间:	6.6s
+范围:	100c
+损坏和半径根据反射咒语的法力成本而变化</TM_Golem_HollowCrown.description>
+  <!--EN: Crown of Awakening-->
+  <TM_Golem_HollowCrown.label>觉醒之冠</TM_Golem_HollowCrown.label>
+  <!--EN: Increases energy efficiency by 10% per level. Starting energy efficiency is 50%.-->
+  <TM_Golem_HollowEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_HollowEnergyEfficiency.description>
+  <!--EN: mana converter-->
+  <TM_Golem_HollowEnergyEfficiency.label>法力转换器</TM_Golem_HollowEnergyEfficiency.label>
+  <!--EN: Increases energy charge rate by 20% per level. Starting recharge rate is 30 energy/hour.-->
+  <TM_Golem_HollowEnergyRate.description>每个水平的能源充电率提高20％。开始充电率为30能量/小时。</TM_Golem_HollowEnergyRate.description>
+  <!--EN: mana attractor-->
+  <TM_Golem_HollowEnergyRate.label>法力极性</TM_Golem_HollowEnergyRate.label>
+  <!--EN: The Arcane focus gem allows the golem to concentrate dark energy a massive shadow bolt. Launches a single, explosive shadowbolt at the target. Extreme range.
+
+Energy Cost: 50
+Min Range: 10
+Max Range: 120
+*Only one Focus Gem can be used*-->
+  <TM_Golem_HollowFGArcane.description>奥术焦点宝石使魔像将深色能量浓缩为巨大的阴影螺栓。在目标上启动一个单一的爆炸影螺栓。极端范围。
+
+蓄能消耗: 50
+最小范围: 10
+最大范围: 150</TM_Golem_HollowFGArcane.description>
+  <!--EN: Focus Gem: Arcane-->
+  <TM_Golem_HollowFGArcane.label>聚焦宝石:奥术</TM_Golem_HollowFGArcane.label>
+  <!--EN: The Death focus gem surrounds the golem with a field radiating death energy. Periodically strikes nearby enemies. Gains a bonus strike when any pawn dies within 10 cells of the golem.
+
+Energy Cost: 10
+Range: 10
+*Only one Focus Gem can be used*-->
+  <TM_Golem_HollowFGDeath.description>死亡焦点宝石围绕着魔像的田地辐射死亡能量。定期罢工附近的敌人。当任何典当在魔像的10个细胞内死亡时,获得奖励打击。
+
+蓄能消耗: 20
+范围: 10</TM_Golem_HollowFGDeath.description>
+  <!--EN: Focus Gem: Death-->
+  <TM_Golem_HollowFGDeath.label>聚焦宝石:死亡</TM_Golem_HollowFGDeath.label>
+  <!--EN: The Fire focus gem allows the golem to concentrate elemental fire into a fierce burst of firebolts. Launches 20 firebolts at enemies within 8 cells of a target.
+
+Energy Cost: 20
+Min Range: 6
+Max Range: 80
+*Only one Focus Gem can be used*-->
+  <TM_Golem_HollowFGFire.description>火焦点宝石使魔像将元素大火集中在猛烈的燃烧爆发中。在一个目标的8个牢房内,向敌人发射16个火螺栓。
+
+蓄能消耗: 40
+最小范围: 6
+最大范围: 50</TM_Golem_HollowFGFire.description>
+  <!--EN: Focus Gem: Fire-->
+  <TM_Golem_HollowFGFire.label>聚焦宝石:火</TM_Golem_HollowFGFire.label>
+  <!--EN: The Ice focus gem allows the golem to concentrate elemental ice into a rapid flow of icebolts. Launches 20 icebolts at enemies within 12 cells of a target.
+
+Energy Cost: 30
+Min Range: 8
+Max Range: 80
+*Only one Focus Gem can be used*-->
+  <TM_Golem_HollowFGIce.description>冰重点宝石使魔像可以将元素冰浓缩到冰螺栓的快速流中。在目标的12个牢房内的敌人发射16次冰螺栓。
+
+蓄能消耗: 60
+最小范围: 10
+最大范围: 70</TM_Golem_HollowFGIce.description>
+  <!--EN: Focus Gem: Ice-->
+  <TM_Golem_HollowFGIce.label>聚焦宝石:冰</TM_Golem_HollowFGIce.label>
+  <!--EN: Actively regulates temperature and destroys any filth within 25 cells. Emits a faint mystical light. These effect are only active while the hollow golem is dormant.
+		*This upgrade shares the same slot as Orb of Extinguished Flames and will remove it if installed*-->
+  <TM_Golem_HollowFlamesOfDevouringApathy.description>积极调节温度并破坏25个细胞内的任何污垢。发出微弱的神秘之光。这些效果仅在空心魔像处于休眠状态时有效。</TM_Golem_HollowFlamesOfDevouringApathy.description>
+  <!--EN: Flames of Devouring Apathy-->
+  <TM_Golem_HollowFlamesOfDevouringApathy.label>吞噬冷漠之火</TM_Golem_HollowFlamesOfDevouringApathy.label>
+  <!--EN: Protects the head and skull:
+Blunt:	+26%
+Sharp:	+9%
+Heat:	+11%
+Hit:	+15%-->
+  <TM_Golem_HollowHelm.description>为傀儡安装头盔以保护头部:
+钝器:	+22%
+利器:	+7%
+热能:	+9%</TM_Golem_HollowHelm.description>
+  <!--EN: helmet-->
+  <TM_Golem_HollowHelm.label>空洞之盔</TM_Golem_HollowHelm.label>
+  <!--EN: Increases maximum energy by 500 per level. Starting max energy is 2500.-->
+  <TM_Golem_HollowMaxEnergy.description>将最大能量提高到每个级别500。开始最大能量为2500。</TM_Golem_HollowMaxEnergy.description>
+  <!--EN: mana cell-->
+  <TM_Golem_HollowMaxEnergy.label>法力细胞</TM_Golem_HollowMaxEnergy.label>
+  <!--EN: Gain points into the active research technology will increase for every pawn killed on the map. The orb can also be toggled to detect and consume any fire within 25 cells and emits a faint silver light. These effect are only active while the hollow golem is dormant.
+		*This upgrade shares the same slot as Flames of Devouring Apathy and will remove it if installed*-->
+  <TM_Golem_HollowOrbOfExtinguishedFlames.description>在地图上杀死的每一个小人,积极的研究技术的增益将增加。也可以切换球体以检测并消耗25个牢房内的任何火,并发出微弱的银光。这些效果仅在空心魔像处于休眠状态时有效。</TM_Golem_HollowOrbOfExtinguishedFlames.description>
+  <!--EN: Orb of Extinguished Flames-->
+  <TM_Golem_HollowOrbOfExtinguishedFlames.label>熄灭火焰之球</TM_Golem_HollowOrbOfExtinguishedFlames.label>
+  <!--EN: The Arcane protection gem allows the golem to surround enemy ranged attackers with a reverse shield called Well of Despair. Well of Despair allows projectiles in but will block all projectiles out.
+		
+Energy Cost:	40
+Cooldown:	360
+Range:		60
+Duration:	20s
+*Only one Protection Gem can used*-->
+  <TM_Golem_HollowPGArcane.description>奥术保护的宝石使魔像可以用一个被称为绝望的反向盾牌包围敌人远程攻击者。绝望允许弹丸进入,但会阻止所有弹丸。
+
+蓄能消耗:	60
+冷却时间:	480
+范围:		50
+持续时间:	20s</TM_Golem_HollowPGArcane.description>
+  <!--EN: Protection Gem: Arcane-->
+  <TM_Golem_HollowPGArcane.label>保护宝石: 奥术</TM_Golem_HollowPGArcane.label>
+  <!--EN: The Death protection gem surrounds the golem with a cursed aura. Enemies within 15 cells can be stricken with a curse that degrades willpower and combat abilities. The energy cost is always 10 regardless of how many enemies are affected.
+		
+Aura Range:	15
+Pulse Rate:	12s
+Energy Cost:	10 energy per pulse
+*Only one Protection Gem can used*-->
+  <TM_Golem_HollowPGDeath.description>死亡保护宝石用诅咒的光环围绕着魔像。15个牢房内的敌人可能会因诅咒而遭受损害,从而降低意志力和战斗能力。能源成本始终为10,而不管受到多少敌人的影响。
+
+影响范围:	15
+脉冲频率:	12s
+蓄能消耗:	10 每脉冲能量</TM_Golem_HollowPGDeath.description>
+  <!--EN: Protection Gem: Death-->
+  <TM_Golem_HollowPGDeath.label>保护宝石: 死亡</TM_Golem_HollowPGDeath.label>
+  <!--EN: The Death's Abyss protection gem curses enemies with the weight of their mortality. Enemies within 36 cells can be stricken with a movement slowing curse. 
+		
+Aura Range:	36
+Pulse Rate:	10s
+Energy Cost:	8 energy per pawn
+*Only one Protection Gem can used*-->
+  <TM_Golem_HollowPGDoom.description>死亡的深渊保护宝石以死亡的重量诅咒敌人。36个细胞中的敌人可能会以减慢诅咒的运动来击中。
+
+影响范围:	36
+脉冲频率:	10s
+蓄能消耗:	8 每个人物的能量</TM_Golem_HollowPGDoom.description>
+  <!--EN: Protection Gem: Death's Abyss-->
+  <TM_Golem_HollowPGDoom.label>保护宝石:死亡深渊</TM_Golem_HollowPGDoom.label>
+  <!--EN: The Fire protection gem allows the golem to encase itself in fire with the Burning Fury shield. Burning Fury provides a 35% damage reduction to all attacks, cauterizes wounds, prevents being staggered, and burns nearby enemies.
+
+Energy Cost: 120
+Cooldown: 1200s
+Duration: 100s
+*Only one Protection Gem can used*-->
+  <TM_Golem_HollowPGFire.description>防火宝石使魔像可以用燃烧的愤怒盾牌将自己包裹在火中。燃烧的愤怒可减少35％的伤害,使所有攻击减少,刺伤伤口,防止交错并在敌人附近烧伤。
+
+蓄能消耗: 120
+冷却时间: 1200s
+持续时间: 100s</TM_Golem_HollowPGFire.description>
+  <!--EN: Protection Gem: Fire-->
+  <TM_Golem_HollowPGFire.label>保护宝石: 火</TM_Golem_HollowPGFire.label>
+  <!--EN: The Water protection gem allows the golem evade incoming attacks. The chance to evade an attack is proportional to the golem's energy percent. Each evasion reduces the golems energy by 5. This ability is persistent as long as the golem energy threshold is above the minimum required to use abilities.
+		*Only one Protection Gem can used*-->
+  <TM_Golem_HollowPGIce.description>防水宝石允许魔像逃避传入的攻击。逃避攻击的机会与魔像的能量百分比成正比。每次逃避都将魔像的能量降低5。只要魔像能量阈值高于使用能力所需的最小值。</TM_Golem_HollowPGIce.description>
+  <!--EN: Protection Gem: Water-->
+  <TM_Golem_HollowPGIce.label>保护宝石: 水</TM_Golem_HollowPGIce.label>
+  <!--EN: restore part-->
+  <TM_Golem_HollowRestore.label>维修部位</TM_Golem_HollowRestore.label>
+  <!--EN: Protects the shoulders, collar and neck:
+Blunt:	+10%
+Sharp:	+23%
+Heat:	+7%
+Hit:	+8%-->
+  <TM_Golem_HollowShoulders.description>为傀儡安装护肩以保护脖子锁骨以及两肩:
+钝器:	+8%
+利器:	+19%
+热能:	+6%</TM_Golem_HollowShoulders.description>
+  <!--EN: shoulder guards-->
+  <TM_Golem_HollowShoulders.label>空洞护肩</TM_Golem_HollowShoulders.label>
+  <!--EN: Enables a ranged, magical attack. The hollowed staff occupies the weapon slot; only one weapon may be equipped.-->
+  <TM_Golem_HollowStaff.description>装备发射魔法飞弹而不消耗能量的法杖。空洞之杖占据了武器槽; 傀儡只能装备一种武器。</TM_Golem_HollowStaff.description>
+  <!--EN: Hollow Staff-->
+  <TM_Golem_HollowStaff.label>空洞之杖</TM_Golem_HollowStaff.label>
+  <!--EN: Increases overall protection:
+Blunt:	+[9,16,21]%
+Sharp:	+[13,22,29]%
+Heat:	+[8,14,18]%-->
+  <TM_Golem_MaharalArmor.description>增加总体保护：
+钝器:	+[9,16,21]%
+利器:	+[13,22,29]%
+热能:	+[8,14,18]%</TM_Golem_MaharalArmor.description>
+  <!--EN: armor-->
+  <TM_Golem_MaharalArmor.label>盔甲</TM_Golem_MaharalArmor.label>
+  <!--EN: Increases energy efficiency by 10% per level. Starting energy efficiency is 50%.-->
+  <TM_Golem_MaharalEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_MaharalEnergyEfficiency.description>
+  <!--EN: energy efficiency-->
+  <TM_Golem_MaharalEnergyEfficiency.label>能源效率</TM_Golem_MaharalEnergyEfficiency.label>
+  <!--EN: Increases energy charge rate by 20% per level. Starting recharge rate is 30 energy/hour.-->
+  <TM_Golem_MaharalEnergyRate.description>每个水平的能源充电率提高20％。开始充电率为30能量/小时。</TM_Golem_MaharalEnergyRate.description>
+  <!--EN: energy regeneration-->
+  <TM_Golem_MaharalEnergyRate.label>能量再生</TM_Golem_MaharalEnergyRate.label>
+  <!--EN: Enables the golem the ability to produce heat while dormant.-->
+  <TM_Golem_MaharalHeat.description>使魔像在休眠时产生热量的能力。</TM_Golem_MaharalHeat.description>
+  <!--EN: Heat-->
+  <TM_Golem_MaharalHeat.label>热</TM_Golem_MaharalHeat.label>
+  <!--EN: Increases stats:
+Movement:	+[20%/30%/40%]
+Health:		+[20%/40%/50%]-->
+  <TM_Golem_MaharalLifeStage.description>增加傀儡的性能：：
+移动速度:	+[20%/30%/40%]
+生命:		+[20%/40%/50%]</TM_Golem_MaharalLifeStage.description>
+  <!--EN: frame tier-->
+  <TM_Golem_MaharalLifeStage.label>重构</TM_Golem_MaharalLifeStage.label>
+  <!--EN: Increases maximum energy by 100 per level. Starting max energy is 800.-->
+  <TM_Golem_MaharalMaxEnergy.description>将最大能量增加100级。开始最大能量为800。</TM_Golem_MaharalMaxEnergy.description>
+  <!--EN: energy storage-->
+  <TM_Golem_MaharalMaxEnergy.label>能量核心</TM_Golem_MaharalMaxEnergy.label>
+  <!--EN: Enables the golem the ability to produce excess power while dormant.-->
+  <TM_Golem_MaharalPower.description>使傀儡在休眠时产生过多的功率。</TM_Golem_MaharalPower.description>
+  <!--EN: Power-->
+  <TM_Golem_MaharalPower.label>能源</TM_Golem_MaharalPower.label>
+  <!--EN: restore part-->
+  <TM_Golem_MaharalRepair.label>维修部位</TM_Golem_MaharalRepair.label>
+  <!--EN: Adds a quick cutting attack, useful for cutting down unarmored masses. 16.4 DPS with 1.15 armor penetration. 
+		*This upgrade shares the same slot as the Mecha-Sword and will remove the Mecha-Sword if installed*-->
+  <TM_Golem_MechaAxe.description>增加了快速切割攻击，可用于减少未武装的质量。</TM_Golem_MechaAxe.description>
+  <!--EN: mecha-axe-->
+  <TM_Golem_MechaAxe.label>机械斧</TM_Golem_MechaAxe.label>
+  <!--EN: Increases armor but decreases movement for each level:
+Blunt:	+[24,37,49]%
+Sharp:	+[35,53,68]%
+Heat:	+[40,60,75]%
+Move:	-[.3c,.5c,.6c]%-->
+  <TM_Golem_MechaBallisticPlate.description>增加装甲但减少每个级别的运动：
+钝器:	+[24,37,49]%
+利器:	+[35,53,68]%
+热能:	+[40,60,75]%
+移动速度:	-[.3c,.5c,.6c]%</TM_Golem_MechaBallisticPlate.description>
+  <!--EN: ballistic plate-->
+  <TM_Golem_MechaBallisticPlate.label>弹道板</TM_Golem_MechaBallisticPlate.label>
+  <!--EN: Passively increases golem stats and adds an ability that provides a shield.
+Armor:		+[10%/18%/25%]
+Ability Cooldown:	+[5%/10%/15%]
+Healing Bonus:	+[60%/120%/180%]
+Energy Cost:	+[5%/10%/15%]
+Processing: 	+[15%/30%/45%]
+
+Shield Protocol
+Cooldown:	10s
+Energy Cost:	10
+Shield Amount:	120-->
+  <TM_Golem_MechaEarthCore.description>被动地增加魔像统计数据，并增加了提供盾牌的能力。
+护甲:		+[10%/18%/25%]
+技能冷却:	+[5%/10%/15%]
+维修系数:	+[60%/120%/180%]
+蓄能消耗:	+[5%/10%/15%]
+处理能力: 	+[15%/30%/45%]
+
+盾牌协议
+冷却:	10s
+蓄能消耗:	10
+护盾值:	120</TM_Golem_MechaEarthCore.description>
+  <!--EN: earth core-->
+  <TM_Golem_MechaEarthCore.label>土核芯</TM_Golem_MechaEarthCore.label>
+  <!--EN: Increases golem stats:
+Health:		+[40%/80%/120%]-->
+  <TM_Golem_MechaEarthShard.description>增加了魔像统计：
+生命值:		+[40%/80%/120%]</TM_Golem_MechaEarthShard.description>
+  <!--EN: earth shard-->
+  <TM_Golem_MechaEarthShard.label>土碎片</TM_Golem_MechaEarthShard.label>
+  <!--EN: Increases energy efficiency by 10% per level. Starting energy efficiency is 50%.-->
+  <TM_Golem_MechaEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_MechaEnergyEfficiency.description>
+  <!--EN: energy converter-->
+  <TM_Golem_MechaEnergyEfficiency.label>能量转换器</TM_Golem_MechaEnergyEfficiency.label>
+  <!--EN: Increases energy charge rate by 20% per level. Starting recharge rate is 50 energy/hour when disconnected from a power grid. Connecting to a power grind increases the recharge rate.-->
+  <TM_Golem_MechaEnergyRate.description>每个水平的能源充电率提高20％。与电网断开连接时，启动充电率为50能量/小时。连接到功率研磨会增加充值速率。</TM_Golem_MechaEnergyRate.description>
+  <!--EN: electrical neuro-core-->
+  <TM_Golem_MechaEnergyRate.label>电神经核</TM_Golem_MechaEnergyRate.label>
+  <!--EN: Adds the ability to quickly douse fires.-->
+  <TM_Golem_MechaExtinguisher.description>添加了快速开火的能力。</TM_Golem_MechaExtinguisher.description>
+  <!--EN: extinguisher-->
+  <TM_Golem_MechaExtinguisher.label>灭火器</TM_Golem_MechaExtinguisher.label>
+  <!--EN: Passively increases golem stats and adds an ability that burns away nearby filth.
+Movement:	+[0.5c/0.9c/1.2c]
+Processing: 	+[10%/20%/30%]
+Ability Damage:	+[10%/20%/30%]
+Energy Cost:	+[10%/20%/30%]
+
+Cleaning Protocol
+Cooldown:	6s
+Range:	2c
+Energy Cost:	4 per filth-->
+  <TM_Golem_MechaFlameCore.description>增加傀儡属性，并增加一个技能，燃烧附近的污秽。
+移动速度:	+[0.5c/0.9c/1.2c]
+处理能力: 	+[10%/20%/30%]
+技能伤害:	+[10%/20%/30%]
+能源成本:	+[10%/20%/30%]
+
+清洁协议
+冷却:	6s
+范围:	2c
+能源成本:	4 每个污垢</TM_Golem_MechaFlameCore.description>
+  <!--EN: flame core-->
+  <TM_Golem_MechaFlameCore.label>火焰核芯</TM_Golem_MechaFlameCore.label>
+  <!--EN: Increases golem stats:
+Movement:	+[15%/30%/40%]
+Health:		+[15%/30%/40%]-->
+  <TM_Golem_MechaFlameShard.description>增加了魔像统计：
+移动速度:	+[15%/30%/40%]
+生命值:		+[15%/30%/40%]</TM_Golem_MechaFlameShard.description>
+  <!--EN: flame shard-->
+  <TM_Golem_MechaFlameShard.label>火焰碎片</TM_Golem_MechaFlameShard.label>
+  <!--EN: Fires a 12 round burst of gunfire.
+Cooldown:	5s
+Energy Cost:	40
+Range: 		40-->
+  <TM_Golem_MechaGatlingCannon.description>发射12轮枪声。
+冷却:	5s
+能源成本:	40
+范围: 		40</TM_Golem_MechaGatlingCannon.description>
+  <!--EN: Gatling cannon-->
+  <TM_Golem_MechaGatlingCannon.label>加特林大炮</TM_Golem_MechaGatlingCannon.label>
+  <!--EN: Adds a ruthless blunt attack, more powerful than the golems fists.-->
+  <TM_Golem_MechaHammer.description>添加了无情的钝器攻击，比魔像拳头更强大。</TM_Golem_MechaHammer.description>
+  <!--EN: mecha-hammer-->
+  <TM_Golem_MechaHammer.label>机械锤子</TM_Golem_MechaHammer.label>
+  <!--EN: Passively increases golem stats and adds a reflexive coating to the golem's shell that produces an electric discharge that stuns melee attackers.
+Movement:	+[1.2c/1.8c/2.2c]
+Ability Cooldown:	-[15%/30%/45%]
+Energy Cost:	+[10%/20%/30%]
+Processing: 	-[5%/10%/15%]-->
+  <TM_Golem_MechaLightningCore.description>被动地增加了魔像的统计数据，并在魔像的外壳中增加了反身涂层，该涂层产生了电动发射，使近战攻击者震惊。
+移动速度:	+[1.2c/1.8c/2.2c]
+技能冷却:	-[15%/30%/45%]
+蓄能消耗:	+[10%/20%/30%]
+处理能力: 	-[5%/10%/15%]</TM_Golem_MechaLightningCore.description>
+  <!--EN: lightning core-->
+  <TM_Golem_MechaLightningCore.label>闪电核心</TM_Golem_MechaLightningCore.label>
+  <!--EN: Increases golem stats:
+Movement:	+[25%/50%/75%]-->
+  <TM_Golem_MechaLightningShard.description>增加了魔像统计：
+移动速度:	+[25%/50%/75%]</TM_Golem_MechaLightningShard.description>
+  <!--EN: lightning shard-->
+  <TM_Golem_MechaLightningShard.label>闪电碎片</TM_Golem_MechaLightningShard.label>
+  <!--EN: Increases maximum energy by 500 per level. Starting max energy is 1000.-->
+  <TM_Golem_MechaMaxEnergy.description>将最大能量提高到每个级别500。开始最大能量为1000。</TM_Golem_MechaMaxEnergy.description>
+  <!--EN: energy cell-->
+  <TM_Golem_MechaMaxEnergy.label>能量电池</TM_Golem_MechaMaxEnergy.label>
+  <!--EN: Allows the golem to mine designated wall segments.
+Energy Cost: [20,18,16,14]
+Laser Power: [40,50,60,70]-->
+  <TM_Golem_MechaMiningLaser.description>允许傀儡开采指定的墙段。
+能源成本: [20,18,16,14]
+激光功率: [40,50,60,70]</TM_Golem_MechaMiningLaser.description>
+  <!--EN: mining laser-->
+  <TM_Golem_MechaMiningLaser.label>采矿激光</TM_Golem_MechaMiningLaser.label>
+  <!--EN: restore part-->
+  <TM_Golem_MechaRepair.label>维修部位</TM_Golem_MechaRepair.label>
+  <!--EN: Adds a powerful cutting attack, useful for breaking through defenses and severing limbs. 20 DPS with .5 armor penetration. 
+		*This upgrade shares the same slot as the Mecha-Axe and will remove the Mecha-Axe if installed*-->
+  <TM_Golem_MechaSword.description>增加了强大的切割攻击，可用于打破防御和肢体切断。</TM_Golem_MechaSword.description>
+  <!--EN: mecha-sword-->
+  <TM_Golem_MechaSword.label>机械剑</TM_Golem_MechaSword.label>
+  <!--EN: Passively increases golem stats and adds an autonomous repair mechanism.
+Armor:		+[5%/10%/15%]
+Ability Cooldown:	-[10%/20%/30%]
+Healing Bonus:	+[100%/200%/300%]
+Energy Cost:	-[15%/30%/45%]
+
+Autonomous Repair
+Cooldown:	3s
+Energy Cost:	10(D), 30(A)
+Heal Amount:	8-->
+  <TM_Golem_MechaWaterCore.description>被动地增加魔像统计数据并增加了自主修复机制。
+护甲:		+[5%/10%/15%]
+技能冷却:	-[10%/20%/30%]
+维修系数:	+[100%/200%/300%]
+蓄能消耗:	-[15%/30%/45%]
+
+自动维修
+冷却:	3s
+蓄能消耗:	10(D), 30(A)
+治疗量:	8</TM_Golem_MechaWaterCore.description>
+  <!--EN: water core-->
+  <TM_Golem_MechaWaterCore.label>水核芯</TM_Golem_MechaWaterCore.label>
+  <!--EN: Increases golem stats:
+Movement:	+[10%/15%/20%]
+Health:		+[30%/50%/70%]-->
+  <TM_Golem_MechaWaterShard.description>增加了魔像统计：
+移动速度:	+[10%/15%/20%]
+生命值:		+[30%/50%/70%]</TM_Golem_MechaWaterShard.description>
+  <!--EN: water shard-->
+  <TM_Golem_MechaWaterShard.label>水碎片</TM_Golem_MechaWaterShard.label>
+  <!--EN: Increases energy efficiency by 8% per level. Starting energy efficiency is 40%.-->
+  <TM_Golem_SilkEnergyEfficiency.description>每级能量效率提高 8%。起始能源效率为40%。</TM_Golem_SilkEnergyEfficiency.description>
+  <!--EN: energy efficiency-->
+  <TM_Golem_SilkEnergyEfficiency.label>能源效率</TM_Golem_SilkEnergyEfficiency.label>
+  <!--EN: Increases energy charge rate by 10% per level. Starting recharge rate is 20 energy/hour.-->
+  <TM_Golem_SilkEnergyRate.description>每升一级，能量消耗率增加 10%。起始充值率为 20 能量/小时。</TM_Golem_SilkEnergyRate.description>
+  <!--EN: energy regeneration-->
+  <TM_Golem_SilkEnergyRate.label>能量再生</TM_Golem_SilkEnergyRate.label>
+  <!--EN: Increases stats:
+Movement:	+[20%/30%/40%]
+Health:		+[20%/40%/60%]-->
+  <TM_Golem_SilkLifeStage.description>增加统计数据：
+移动：+[20%/30%/40%]
+生命值：+[20%/40%/60%]</TM_Golem_SilkLifeStage.description>
+  <!--EN: frame tier-->
+  <TM_Golem_SilkLifeStage.label>框架层</TM_Golem_SilkLifeStage.label>
+  <!--EN: Increases maximum energy by 100 per level. Starting max energy is 300.-->
+  <TM_Golem_SilkMaxEnergy.description>每级增加最大能量 100。起始最大能量为 300。</TM_Golem_SilkMaxEnergy.description>
+  <!--EN: energy storage-->
+  <TM_Golem_SilkMaxEnergy.label>能量存储</TM_Golem_SilkMaxEnergy.label>
+  <!--EN: restore part-->
+  <TM_Golem_SilkRepair.label>恢复部分</TM_Golem_SilkRepair.label>
+  <!--EN: Increases the skill levels of wardening by 1 per skill level. Starts with a skill of 7.-->
+  <TM_Golem_SilkSkills.description>每升一级，守卫的技能等级提高 1 级。起始技能为 7。</TM_Golem_SilkSkills.description>
+  <!--EN: Skill Enhancement-->
+  <TM_Golem_SilkSkills.label>技能强化</TM_Golem_SilkSkills.label>
+  <!--EN: Allows the golem the ability to crush stone chunks into usable bricks. This process occurs on its own after the stone chunks are deposited into the golem, and requires the golem to be in it's dormant state.-->
+  <TM_Golem_StoneCompactor.description>允许魔像将石块块粉碎成可用的砖块的能力。在将石块沉积到魔像之后，此过程自行发生，并要求魔像处于处于休眠状态。</TM_Golem_StoneCompactor.description>
+  <!--EN: Stone compactor-->
+  <TM_Golem_StoneCompactor.label>石材压实器</TM_Golem_StoneCompactor.label>
+  <!--EN: Increases energy efficiency by 10% per level. Starting energy efficiency is 50%.-->
+  <TM_Golem_StoneEnergyEfficiency.description>每个水平的能源效率提高10％。开始能源效率为50％。</TM_Golem_StoneEnergyEfficiency.description>
+  <!--EN: energy efficiency-->
+  <TM_Golem_StoneEnergyEfficiency.label>能源效率</TM_Golem_StoneEnergyEfficiency.label>
+  <!--EN: Increases energy charge rate by 20% per level. Starting recharge rate is 20 energy/hour.-->
+  <TM_Golem_StoneEnergyRate.description>每个水平的能源充电率提高20％。开始充电率为20能量/小时。</TM_Golem_StoneEnergyRate.description>
+  <!--EN: energy regeneration-->
+  <TM_Golem_StoneEnergyRate.label>能量再生</TM_Golem_StoneEnergyRate.label>
+  <!--EN: Increases overall protection:
+Blunt:	+[4,8,12]%
+Sharp:	+[11,22,33]%
+Heat:	+[6,12,18]%-->
+  <TM_Golem_StoneHardening.description>增加总体保护：
+钝器： +[4,8,12]％
+利器:	+[11,22,33]%
+热能:	+[6,12,18]%</TM_Golem_StoneHardening.description>
+  <!--EN: hardening-->
+  <TM_Golem_StoneHardening.label>硬化</TM_Golem_StoneHardening.label>
+  <!--EN: Increases stats:
+Movement:	+[10%/20%/30%]
+Health:		+[40%/70%/100%]-->
+  <TM_Golem_StoneLifeStage.description>增加统计数据：
+移动速度:	+[20%/35%/50%]
+生命值:		+[40%/70%/100%]</TM_Golem_StoneLifeStage.description>
+  <!--EN: frame tier-->
+  <TM_Golem_StoneLifeStage.label>重构</TM_Golem_StoneLifeStage.label>
+  <!--EN: Increases maximum energy by 120 per level. Starting max energy is 800.-->
+  <TM_Golem_StoneMaxEnergy.description>将最大能量增加120个水平。开始最大能量为800。</TM_Golem_StoneMaxEnergy.description>
+  <!--EN: energy storage-->
+  <TM_Golem_StoneMaxEnergy.label>储能</TM_Golem_StoneMaxEnergy.label>
+  <!--EN: restore part-->
+  <TM_Golem_StoneRepair.label>维修部位</TM_Golem_StoneRepair.label>
+  <!--EN: Converts stone chucks into bricks over time-->
+  <TM_Golem_StoneToBricks.description>随着时间的流逝，将石头摇晃转换为砖头</TM_Golem_StoneToBricks.description>
+  <!--EN: making-->
+  <TM_Golem_StoneToBricks.label>制作</TM_Golem_StoneToBricks.label>
+  <!--EN: Increases overall protection:
+Blunt:	+[6,11,15]%
+Sharp:	+[5,9,13]%
+Heat:	+[4,7,10]%-->
+  <TM_Golem_StrawArmor.description>增强整体保护：
+钝化：+[6,11,15]%
+锐利：+[5,9,13]%
+热量：+[4,7,10]%</TM_Golem_StrawArmor.description>
+  <!--EN: armor-->
+  <TM_Golem_StrawArmor.label>盔甲</TM_Golem_StrawArmor.label>
+  <!--EN: Increases energy efficiency by 6% per level. Starting energy efficiency is 30%.-->
+  <TM_Golem_StrawEnergyEfficiency.description>每级能源效率提高 6%。起始能源效率为30%。</TM_Golem_StrawEnergyEfficiency.description>
+  <!--EN: energy efficiency-->
+  <TM_Golem_StrawEnergyEfficiency.label>能源效率</TM_Golem_StrawEnergyEfficiency.label>
+  <!--EN: Increases energy charge rate by 20% per level. Starting recharge rate is 20 energy/hour.-->
+  <TM_Golem_StrawEnergyRate.description>每级能量消耗率增加 20%。起始充能率为 20 能量/小时。</TM_Golem_StrawEnergyRate.description>
+  <!--EN: energy regeneration-->
+  <TM_Golem_StrawEnergyRate.label>能量再生</TM_Golem_StrawEnergyRate.label>
+  <!--EN: Increases stats:
+Movement:	+[20%/30%/40%]
+Health:		+[20%/40%/50%]-->
+  <TM_Golem_StrawLifeStage.description>增加统计数据：
+移动：+[20%/30%/40%]
+生命值：+[20%/40%/50%]</TM_Golem_StrawLifeStage.description>
+  <!--EN: frame tier-->
+  <TM_Golem_StrawLifeStage.label>框架层</TM_Golem_StrawLifeStage.label>
+  <!--EN: Increases maximum energy by 100 per level. Starting max energy is 300.-->
+  <TM_Golem_StrawMaxEnergy.description>每级增加最大能量 100。起始最大能量为 300。</TM_Golem_StrawMaxEnergy.description>
+  <!--EN: energy storage-->
+  <TM_Golem_StrawMaxEnergy.label>能量存储</TM_Golem_StrawMaxEnergy.label>
+  <!--EN: restore part-->
+  <TM_Golem_StrawRepair.label>恢复部分</TM_Golem_StrawRepair.label>
+  <!--EN: Wards away unwanted pests. Increases crop growth rate in a 6 cell radius.-->
+  <TM_Golem_StrawScarecrow.description>赶走不需要的害虫。提高 6 个单元半径内的作物生长速度。</TM_Golem_StrawScarecrow.description>
+  <!--EN: Scarecrow-->
+  <TM_Golem_StrawScarecrow.label>稻草人</TM_Golem_StrawScarecrow.label>
+  <!--EN: Increases the Plants skill of the golem by 2 per level. Starts with a planting skill of 0.-->
+  <TM_Golem_StrawSeed.description>每升一级，傀儡的植物技能提高 2 点。开始种植技能为0。</TM_Golem_StrawSeed.description>
+  <!--EN: Farming-->
+  <TM_Golem_StrawSeed.label>农业</TM_Golem_StrawSeed.label>
+  <!--EN: Increases overall protection:
+Blunt:	+[9,17,23]%
+Sharp:	+[8,15,21]%
+Heat:	+[4,7,10]%-->
+  <TM_Golem_WoodArmor.description>增强整体防护：
+钝：+[9,17,23]%
+锐利：+[8,15,21]%
+热量：+[4,7,10]%</TM_Golem_WoodArmor.description>
+  <!--EN: armor-->
+  <TM_Golem_WoodArmor.label>盔甲</TM_Golem_WoodArmor.label>
+  <!--EN: Increases energy efficiency by 5% per level. Starting energy efficiency is 25%.-->
+  <TM_Golem_WoodEnergyEfficiency.description>每级能源效率提高 5%。起始能源效率为25%。</TM_Golem_WoodEnergyEfficiency.description>
+  <!--EN: energy efficiency-->
+  <TM_Golem_WoodEnergyEfficiency.label>能源效率</TM_Golem_WoodEnergyEfficiency.label>
+  <!--EN: Increases energy charge rate by 15% per level. Starting recharge rate is 25 energy/hour.-->
+  <TM_Golem_WoodEnergyRate.description>每级能量消耗率增加 15%。起始充能率为 25 能量/小时。</TM_Golem_WoodEnergyRate.description>
+  <!--EN: energy regeneration-->
+  <TM_Golem_WoodEnergyRate.label>能量再生</TM_Golem_WoodEnergyRate.label>
+  <!--EN: Increases stats:
+Movement:	+[20%/30%/40%]
+Health:		+[20%/40%/60%]-->
+  <TM_Golem_WoodLifeStage.description>增加统计数据：
+移动：+[20%/30%/40%]
+生命值：+[20%/40%/60%]</TM_Golem_WoodLifeStage.description>
+  <!--EN: frame tier-->
+  <TM_Golem_WoodLifeStage.label>框架层</TM_Golem_WoodLifeStage.label>
+  <!--EN: Increases maximum energy by 100 per level. Starting max energy is 400.-->
+  <TM_Golem_WoodMaxEnergy.description>每级增加最大能量 100。起始最大能量为 400。</TM_Golem_WoodMaxEnergy.description>
+  <!--EN: energy storage-->
+  <TM_Golem_WoodMaxEnergy.label>能量存储</TM_Golem_WoodMaxEnergy.label>
+  <!--EN: restore part-->
+  <TM_Golem_WoodRepair.label>恢复部分</TM_Golem_WoodRepair.label>
+  <!--EN: Increases the skill levels of construction and handling by 2 per skill level and cooking by 1 per skill level.-->
+  <TM_Golem_WoodSkills.description>每升一级，建造和搬运的技能等级提高 2 级，每升一级，烹饪的技能等级提高 1 级。</TM_Golem_WoodSkills.description>
+  <!--EN: Skill Enhancement-->
+  <TM_Golem_WoodSkills.label>技能增强</TM_Golem_WoodSkills.label>
+  <!--EN: Passively increases stats and improves decay touch to restore 20 + 5*level energy per hit.
+Ability Cooldown:	-[12%/24%/36%]
+Ability Damage:		+[10%/20%/30%]
+Processing:		+[15%/30%/45%]
+Damage Reduction:	[85%/80%/75%]
+*Only one Coat of Arms can be used, but may be upgraded multiple times*-->
+  <TM_HollowGolem_CoAArcane.description>为空洞傀儡铬画一层与奥术协调的纹章，每升一级[1/2/3]提供以下增益：\n技能冷却：-[12%/24%/36%]\n技能伤害：+[10%/20%/30%]\n处理：+[15%/30%/45%]\n\n此外，腐朽之触每次命中后恢复[20+5*等级]能量-</TM_HollowGolem_CoAArcane.description>
+  <!--EN: Coat of Arms: Arcane-->
+  <TM_HollowGolem_CoAArcane.label>纹章：奥术</TM_HollowGolem_CoAArcane.label>
+  <!--EN: Passively increases stats and improves decay touch to be 50% more effective and strike twice.
+Armor:		+[5%/10%/15%]
+Ability Cooldown:	-[8%/16%/24%]
+Ability Damage:	+[10%/20%/30%]
+Processing:	+[15%/30%/45%]
+Damage Reduction:	[85%/80%/75%]
+*Only one Coat of Arms can be used, but may be upgraded multiple times*-->
+  <TM_HollowGolem_CoADeath.description>为空洞傀儡铬画一层与死亡协调的纹章，每升一级[1/2/3]提供以下增益：\n护甲：+[5%/10%/15%]\n技能冷却：-[8%/16%/24%]\n技能伤害：+[10%/20%/30%]\n处理能力：-[5%/10%/15%]\n\n此外，腐朽之触的效果提高50%，攻击之后还会攻击一次。</TM_HollowGolem_CoADeath.description>
+  <!--EN: Coat of Arms: Death-->
+  <TM_HollowGolem_CoADeath.label>纹章：死亡</TM_HollowGolem_CoADeath.label>
+  <!--EN: Passively increases stats and improves decay touch to deal bonus 10 + 5*level burn damage:
+Movement:	+[0.2c/0.3c/0.35c]
+Heat Armor:	+[30%/50%/60%]
+Ability Cooldown:	-[10%/20%/30%]
+Processing:	+[10%/20%/30%]
+Damage Reduction:	[85%/80%/75%]
+
+Absorb Fire
+Energy Cost:	0
+Cooldown:	2.5s
+Range:	4c
+Health restored per fire: 10
+*Only one Coat of Arms can be used, but may be upgraded multiple times*-->
+  <TM_HollowGolem_CoAFire.description>为空洞傀儡铬画一层与火焰协调的纹章，每升一级[1/2/3]提供以下增益：\n移速：+[0.2c/0.3c/0.35c]\n热能护甲：+[30%/50%/60%]\n处理能力：+[10%/20%/30%]\n技能冷却：-[10%/20%/30%]\n\n此外，腐朽之触造成额外的灼伤伤害，傀儡可以吸收附近的火焰以恢复自身的伤口。</TM_HollowGolem_CoAFire.description>
+  <!--EN: Coat of Arms: Fire-->
+  <TM_HollowGolem_CoAFire.label>纹章：火</TM_HollowGolem_CoAFire.label>
+  <!--EN: Passively increases stats and improves decay touch to heal the golem for 8 + 4*level and another nearby pawn for the same amount.
+Armor:		+[5%/10%/15%]
+Cooldown:	-[10%/20%/30%]
+Processing:	+[10%/20%/30%]
+Damage Reduction:	[85%/80%/75%]
+*Only one Coat of Arms can be used, but may be upgraded multiple times*-->
+  <TM_HollowGolem_CoAIce.description>为空洞傀儡铬画一层与流水协调的纹章，每升一级[1/2/3]提供以下增益：\n护甲：+[5%/10%/15%]\n能力冷却：-[10%/20%/30%]\n处理能力：+[10%/20%/30%]\n\n此外，腐朽之触会治疗[10+3*级]格内的傀儡和一名友方生物，使其获得[10+4*级]回复效果。</TM_HollowGolem_CoAIce.description>
+  <!--EN: Coat of Arms: Water-->
+  <TM_HollowGolem_CoAIce.label>纹章：水</TM_HollowGolem_CoAIce.label>
+</LanguageData>

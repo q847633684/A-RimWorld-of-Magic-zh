@@ -1,0 +1,589 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: I feel great. This is better than Go-Juice.-->
+  <AMP_I.stages.0.description>我感觉不错。这比像一滩烂泥一样强。</AMP_I.stages.0.description>
+  <!--EN: pumped-->
+  <AMP_I.stages.0.label>I</AMP_I.stages.0.label>
+  <!--EN: This is amazing! I could run like the wind and fight like a lion - nothing can stop me!-->
+  <AMP_II.stages.0.description>真是不可思议!  我可以如风般奔跑，如狮子般搏斗， 我无人可挡!</AMP_II.stages.0.description>
+  <!--EN: amped-->
+  <AMP_II.stages.0.label>II</AMP_II.stages.0.label>
+  <!--EN: I'm surging with power, I feel unstoppable.-->
+  <AMP_III.stages.0.description>我沐浴在这股力量中， 我感觉自己可以一往无前。</AMP_III.stages.0.description>
+  <!--EN: surging energy-->
+  <AMP_III.stages.0.label>III</AMP_III.stages.0.label>
+  <!--EN: I ate a meal cooked with minion meat. No amount of seasoning or spices could prevent the impression that I was eating something disgusting.-->
+  <AteMysteryMeatAsIngredient.stages.0.description>我吃了一顿用仆从煮熟的饭。没有任何调味料或香料可以阻止我吃些令人恶心的印象。</AteMysteryMeatAsIngredient.stages.0.description>
+  <!--EN: ate cooked minion meat-->
+  <AteMysteryMeatAsIngredient.stages.0.label>吃煮的仆从肉</AteMysteryMeatAsIngredient.stages.0.label>
+  <!--EN: I ate some disgusting mystery meat from a dead minion. It was mashed together with sludge and other decaying things I couldn't identify. Was that a fingernail? Gross.-->
+  <AteMysteryMeatDirect.stages.0.description>我吃了一个令人恶心的神秘肉。它与污泥和其他我无法识别的腐烂的东西一起捣碎。那是指甲吗？呕....。</AteMysteryMeatDirect.stages.0.description>
+  <!--EN: ate minion meat-->
+  <AteMysteryMeatDirect.stages.0.label>吃仆从肉</AteMysteryMeatDirect.stages.0.label>
+  <!--EN: This power... it's overwhelming. I feel the power of the cosmos at my fingertips, but it's turning my bones to ash.-->
+  <ManaPotionHigh.stages.0.description>这种力量....太强大了！ 我感觉到整个宇宙的力量都汇聚在我的指尖, 我整个身体都燃烧了起来！</ManaPotionHigh.stages.0.description>
+  <!--EN: mana surge-->
+  <ManaPotionHigh.stages.0.label>法力涌动</ManaPotionHigh.stages.0.label>
+  <!--EN: Ugh... everything is a blur. I can't seem to focus or control my body, I feel separated from reality. I need to feel mana flowing into my soul.-->
+  <ManaPotionWithdrawal.stages.1.description>呃……一切都很模糊。我似乎无法集中精神或控制身体，感觉脱离了现实。我需要感受魔力流入我的灵魂。</ManaPotionWithdrawal.stages.1.description>
+  <!--EN: mana withdrawal-->
+  <ManaPotionWithdrawal.stages.1.label>魔力戒断</ManaPotionWithdrawal.stages.1.label>
+  <!--EN: My mind is fortified against the troubles to come.-->
+  <MarbleMindTD.stages.0.description>我的心灵已经坚强起来，可以抵御即将到来的麻烦。</MarbleMindTD.stages.0.description>
+  <!--EN: mind ward-->
+  <MarbleMindTD.stages.0.label>心灵防护</MarbleMindTD.stages.0.label>
+  <!--EN: I was polymorphed and forced to exist in the body of an animal, how dehumanizing.-->
+  <Polymorphed.stages.0.description>我被变形了，被迫生活在一个动物的身体里，多么没有人性啊。</Polymorphed.stages.0.description>
+  <!--EN: polymorphed against will-->
+  <Polymorphed.stages.0.label>厌恶变形</Polymorphed.stages.0.label>
+  <!--EN: I was polymorphed into a wild animal - and it was AMAZING!.-->
+  <Polymorphed_Transhumanist.stages.0.description>我被变成了一只动物——这太神奇了！</Polymorphed_Transhumanist.stages.0.description>
+  <!--EN: polymorphed!-->
+  <Polymorphed_Transhumanist.stages.0.label>变形术!</Polymorphed_Transhumanist.stages.0.label>
+  <!--EN: I can't explain why I'm feeling these strong emotions.-->
+  <PsychicEmpathy.stages.0.description>我无法解释为什么我感觉到这些强烈的情绪。</PsychicEmpathy.stages.0.description>
+  <!--EN: Empathy-->
+  <PsychicEmpathy.stages.0.label>共鸣</PsychicEmpathy.stages.0.label>
+  <!--EN: My faithful animal companion died. It feels like I've lost a piece of myself.-->
+  <RangerPetDied.stages.0.description>我忠诚的动物伙伴去世了。 我感觉就像失去了一部分灵魂。</RangerPetDied.stages.0.description>
+  <!--EN: bonded animal died-->
+  <RangerPetDied.stages.0.label>契约动物死亡</RangerPetDied.stages.0.label>
+  <!--EN: I allowed my animal companion to be sold into slavery. I won't soon be forgiven by the animal kingdom. (animal bonding disabled while this mood effect is active)-->
+  <RangerSoldBondedPet.stages.0.description>我默许了我的契约动物被卖掉, 短时间内我无法再与动物们建立联系了。 (当此状态激活时动物契约会被解除)</RangerSoldBondedPet.stages.0.description>
+  <!--EN: sold bonded animal-->
+  <RangerSoldBondedPet.stages.0.label>契约动物被贩卖</RangerSoldBondedPet.stages.0.label>
+  <!--EN: Where there's shadow, there's light-->
+  <RayofHope.stages.0.description>有光明就有阴影。</RayofHope.stages.0.description>
+  <!--EN: Shadow of hope-->
+  <RayofHope.stages.0.label>I</RayofHope.stages.0.label>
+  <!--EN: I have this glimmer of hope that wasn't there before!-->
+  <RayofHope_I.stages.0.description>我现在拥有了一线希望!</RayofHope_I.stages.0.description>
+  <!--EN: Glimmer of hope-->
+  <RayofHope_I.stages.0.label>II</RayofHope_I.stages.0.label>
+  <!--EN: Theres a ray of light breaking through this dark mood, I finally feel like we have a chance.-->
+  <RayofHope_II.stages.0.description>一道希望之光打破了我黑暗的心境， 我终于感觉到我们还有机会。</RayofHope_II.stages.0.description>
+  <!--EN: Ray of hope-->
+  <RayofHope_II.stages.0.label>III</RayofHope_II.stages.0.label>
+  <!--EN: All the misfortune that's befallen us is being burned away by a brilliant light, I have a burst of energy and feel amazing!-->
+  <RayofHope_III.stages.0.description>所有降临在我们身上的不幸都被灿烂的光芒燃烧殆尽， 我拥有了突发的一股活力并且感觉十分美妙!</RayofHope_III.stages.0.description>
+  <!--EN: Beacon of hope-->
+  <RayofHope_III.stages.0.label>IV</RayofHope_III.stages.0.label>
+  <!--EN: Something feels off....-->
+  <Shadow.stages.0.description>有点不舒服……</Shadow.stages.0.description>
+  <!--EN: twitchy-->
+  <Shadow.stages.0.label>twitchy</Shadow.stages.0.label>
+  <!--EN: There's a tingling sensation at the back of my neck, like I'm always being watched... it's creepy.-->
+  <Shadow_I.stages.0.description>我感觉后颈有些刺痛， 就像我一直在被注视着... 令人毛骨悚然。</Shadow_I.stages.0.description>
+  <!--EN: anxious-->
+  <Shadow_I.stages.0.label>I</Shadow_I.stages.0.label>
+  <!--EN: I keep seeing something out of the corner of my eye, it feels like someone is right behind me and it has me on edge.-->
+  <Shadow_II.stages.0.description>我一直可以在我的视线之外看到一些东西， 那种感觉就像有什么东西在我背后，把我架在刀刃上一样。</Shadow_II.stages.0.description>
+  <!--EN: nervous-->
+  <Shadow_II.stages.0.label>II</Shadow_II.stages.0.label>
+  <!--EN: There's another presence next to me, assisting in everything I do. It knows what to do before I do. Am I possessed?!-->
+  <Shadow_III.stages.0.description>这有其他的东西就在我旁边， 帮助我做一切事情。它甚至比我更早知道要做什么。我这是疯了么?!</Shadow_III.stages.0.description>
+  <!--EN: distraught-->
+  <Shadow_III.stages.0.label>III</Shadow_III.stages.0.label>
+  <!--EN: Something is having a calming affect on me, I'm thinking clearly and I'm wasting less energy fretting about senseless concerns.-->
+  <SoothingBreeze.stages.0.description>一些东西使我获得了平静， 我的思维更加清晰并且我会花费更少的精力在那些愚蠢的问题上。</SoothingBreeze.stages.0.description>
+  <!--EN: soothing breeze-->
+  <SoothingBreeze.stages.0.label>I</SoothingBreeze.stages.0.label>
+  <!--EN: Something is having a calming affect on me, I'm thinking clearly and I'm wasting less energy fretting about senseless concerns.-->
+  <SoothingBreeze_I.stages.0.description>一些东西使我获得了平静， 我的思维更加清晰并且我会花费更少的精力在那些愚蠢的问题上。</SoothingBreeze_I.stages.0.description>
+  <!--EN: soothing breeze-->
+  <SoothingBreeze_I.stages.0.label>II</SoothingBreeze_I.stages.0.label>
+  <!--EN: With the wind at my back, I feel calm, relaxed, and focused and have the energy to keep going.-->
+  <SoothingBreeze_II.stages.0.description>伴随着身后的微风， 我感觉很平静， 放松和专注， 我拥有了继续前进的动力。</SoothingBreeze_II.stages.0.description>
+  <!--EN: soothing breeze-->
+  <SoothingBreeze_II.stages.0.label>III</SoothingBreeze_II.stages.0.label>
+  <!--EN: All distractions have been washed away, I am utterly focused and have the confidence to execute all tasks to perfection.-->
+  <SoothingBreeze_III.stages.0.description>所有的烦躁思绪都被洗刷干净了， 我感到前所未有的专注并且有自信完美地执行所有任务！</SoothingBreeze_III.stages.0.description>
+  <!--EN: soothing breeze-->
+  <SoothingBreeze_III.stages.0.label>IV</SoothingBreeze_III.stages.0.label>
+  <!--EN: My worries and concerns have been washed away. Things that used to concern me are now little more than distractions that float away in a haze of dreams and reality.-->
+  <SoulBondMental.stages.0.description>我心中的忧虑已经被消除了，过去那些让我担心的事情现在看来不过是杞人忧天而已。</SoulBondMental.stages.0.description>
+  <!--EN: bliss (mental)-->
+  <SoulBondMental.stages.0.label>极乐(精神)</SoulBondMental.stages.0.label>
+  <!--EN: My pain is gone. I'm floating in a sea of euphoria.-->
+  <SoulBondPhysical.stages.0.description>我的疼痛消失了。我漂浮在欢乐的海洋中。</SoulBondPhysical.stages.0.description>
+  <!--EN: bliss (physical)-->
+  <SoulBondPhysical.stages.0.label>极乐(身体)</SoulBondPhysical.stages.0.label>
+  <!--EN: There was a flash of light and what it revealed to me... I can't... I don't want to see anymore!-->
+  <TM_Blind.stages.0.description>这曾有一道闪光出现，它代表什么... 我无法... 我不想看到任何东西!</TM_Blind.stages.0.description>
+  <!--EN: blinded-->
+  <TM_Blind.stages.0.label>I</TM_Blind.stages.0.label>
+  <!--EN: I'm in a state of wonderful, euphoric bliss.-->
+  <TM_BlissThought.stages.0.description>我正处于一种美妙、欣快的幸福状态。</TM_BlissThought.stages.0.description>
+  <!--EN: bliss-->
+  <TM_BlissThought.stages.0.label>极乐</TM_BlissThought.stages.0.label>
+  <!--EN: The gifting ritual was botched and no magical spark was granted.-->
+  <TM_Botched_BestowMagicTD.stages.0.description>赠送仪式很糟糕，没有授予魔法火花。</TM_Botched_BestowMagicTD.stages.0.description>
+  <!--EN: botched gifting ritual-->
+  <TM_Botched_BestowMagicTD.stages.0.label>拙劣的送礼仪式</TM_Botched_BestowMagicTD.stages.0.label>
+  <!--EN: The severence ritual was botched and gave the mage a chance to retaliate.-->
+  <TM_Botched_SeverMagicTD.stages.0.description>严酷仪式搞砸了，给了法师报复的机会。</TM_Botched_SeverMagicTD.stages.0.description>
+  <!--EN: botched severence ritual-->
+  <TM_Botched_SeverMagicTD.stages.0.label>拙劣的严厉仪式</TM_Botched_SeverMagicTD.stages.0.label>
+  <!--EN: A Spirit of Light brightened my day.-->
+  <TM_BrightDayTD.stages.0.description>明亮的阳光照亮了我的一天。</TM_BrightDayTD.stages.0.description>
+  <!--EN: brightened day-->
+  <TM_BrightDayTD.stages.0.label>晴朗的一天</TM_BrightDayTD.stages.0.label>
+  <!--EN: I felt the endless possibilities of magic when I allowed my mind to be unfettered by order.-->
+  <TM_ChaoticMindTD.stages.0.description>当我让我的思想不受秩序的束缚时，我感到魔术的可能性无尽。</TM_ChaoticMindTD.stages.0.description>
+  <!--EN: Chaotic-->
+  <TM_ChaoticMindTD.stages.0.label>混乱</TM_ChaoticMindTD.stages.0.label>
+  <!--EN: I've been emotionally charged! I'm not sure what, but good things are bound to happen around such a charismatic commander.-->
+  <TM_CommanderTD.stages.0.description>我情绪激动!我不确定是什么，但在这样一个有魅力的指挥官身边，肯定会有好事发生.</TM_CommanderTD.stages.0.description>
+  <!--EN: Charismatic pawn-->
+  <TM_CommanderTD.stages.0.label>有魅力的殖民者</TM_CommanderTD.stages.0.label>
+  <!--EN: I've been emotionally charged! Good things are bound to happen around such a charismatic commander, though it's not exactly clear how.-->
+  <TM_CommanderTD_I.stages.0.description>我情绪激动!围绕着这样一位有魅力的指挥官，好事一定会发生，尽管还不清楚是如何发生的.</TM_CommanderTD_I.stages.0.description>
+  <!--EN: Charismatic commander-->
+  <TM_CommanderTD_I.stages.0.label>有魅力的指挥官</TM_CommanderTD_I.stages.0.label>
+  <!--EN: I've been emotionally charged! Good things are bound to happen around such a charismatic leader.-->
+  <TM_CommanderTD_II.stages.0.description>我情绪激动!在这样一位有魅力的领导人身边，肯定会有好事发生.</TM_CommanderTD_II.stages.0.description>
+  <!--EN: Charismatic leader-->
+  <TM_CommanderTD_II.stages.0.label>有魅力的领导者</TM_CommanderTD_II.stages.0.label>
+  <!--EN: I've been emotionally charged! Good things are bound to happen around such a charismatic visionary.-->
+  <TM_CommanderTD_III.stages.0.description>我情绪激动!在这样一位有魅力的领导人身边，肯定会有好事发生.</TM_CommanderTD_III.stages.0.description>
+  <!--EN: Charismatic visionary-->
+  <TM_CommanderTD_III.stages.0.label>有魅力的梦想家</TM_CommanderTD_III.stages.0.label>
+  <!--EN: Bearing the weight of everyone's emotions.-->
+  <TM_EmotionalWeightTD.stages.0.description>我正承受着每个人的情绪。</TM_EmotionalWeightTD.stages.0.description>
+  <!--EN: Emotional baggage-->
+  <TM_EmotionalWeightTD.stages.0.label>思维负担</TM_EmotionalWeightTD.stages.0.label>
+  <!--EN: I had a really fun time talking with others.-->
+  <TM_EntertainedAuraTD.stages.0.description>我和别人聊天时度过了一段有趣的时光。</TM_EntertainedAuraTD.stages.0.description>
+  <!--EN: social entertainment-->
+  <TM_EntertainedAuraTD.stages.0.label>社交闲聊</TM_EntertainedAuraTD.stages.0.label>
+  <!--EN: This place isn't so bad; there are people here that make me forget about my worries and laugh a little.-->
+  <TM_EntertainedTD.stages.0.description>这个地方还不错。这里有人让我忘记了我的烦恼,笑了一点。</TM_EntertainedTD.stages.0.description>
+  <!--EN: entertained-->
+  <TM_EntertainedTD.stages.0.label>娱乐</TM_EntertainedTD.stages.0.label>
+  <!--EN: I really like interacting with the people around here, it makes me happy to bring a little joy to others.-->
+  <TM_EntertainerAuraTD.stages.0.description>我真的很喜欢与这里的人们互动,这让我很高兴为他人带来一点快乐。</TM_EntertainerAuraTD.stages.0.description>
+  <!--EN: social interaction-->
+  <TM_EntertainerAuraTD.stages.0.label>社交互动</TM_EntertainerAuraTD.stages.0.label>
+  <!--EN: Everyone pays attention to her because of her looks, doesn't anything else matter?-->
+  <TM_FemaleOpinionOfSuccubus.stages.0.description>大家关注她都是因为她的颜值，其他的就不重要了吗？</TM_FemaleOpinionOfSuccubus.stages.0.description>
+  <!--EN: Envious of succubus-->
+  <TM_FemaleOpinionOfSuccubus.stages.0.label>羡慕魅魔</TM_FemaleOpinionOfSuccubus.stages.0.label>
+  <!--EN: She has an air of attraction that I'll never have... and I hate her for it.-->
+  <TM_FemaleOpinionOfSuccubus.stages.1.description>她有一种我永远不会拥有的吸引力……我因此而讨厌她。</TM_FemaleOpinionOfSuccubus.stages.1.description>
+  <!--EN: Unnatural beauty-->
+  <TM_FemaleOpinionOfSuccubus.stages.1.label>不自然的美</TM_FemaleOpinionOfSuccubus.stages.1.label>
+  <!--EN: It was as if the heavens opened up to bless the ritual and a chorus of voices sang the glory of our cause!-->
+  <TM_Flawless_BestowMagicTD.stages.0.description>仿佛天堂打开了祝福仪式，齐声歌唱我们事业的荣耀！</TM_Flawless_BestowMagicTD.stages.0.description>
+  <!--EN: enlightened gifting ritual-->
+  <TM_Flawless_BestowMagicTD.stages.0.label>开明的礼物仪式</TM_Flawless_BestowMagicTD.stages.0.label>
+  <!--EN: The chorus of voices, the intensity of the voidbringer, the look of inevitability on the face of the mage - nothing can stop our crusade!-->
+  <TM_Flawless_SeverMagicTD.stages.0.description>合唱的声音，虚空使者的强度，法师脸上不可避免的表情 - 没有什么可以阻止我们的远征！</TM_Flawless_SeverMagicTD.stages.0.description>
+  <!--EN: flawless severence ritual-->
+  <TM_Flawless_SeverMagicTD.stages.0.label>完美的严酷仪式</TM_Flawless_SeverMagicTD.stages.0.label>
+  <!--EN: The arcane path ritual was fantastic, emotionally and magically charged - it's always wonderful to see someone achieve their dreams!-->
+  <TM_Good_BestowMagicClassTD.stages.0.description>奥术之路仪式非常精彩，充满情感和魔法 - 看到有人实现自己的梦想总是很棒！</TM_Good_BestowMagicClassTD.stages.0.description>
+  <!--EN: inspiring arcane path ritual-->
+  <TM_Good_BestowMagicClassTD.stages.0.label>鼓舞人心的奥术之路仪式</TM_Good_BestowMagicClassTD.stages.0.label>
+  <!--EN: My pain is being washed away.-->
+  <TM_HealingRainTD.stages.0.description>我的痛苦正在被洗去。</TM_HealingRainTD.stages.0.description>
+  <!--EN: healing rain-->
+  <TM_HealingRainTD.stages.0.label>治愈之雨</TM_HealingRainTD.stages.0.label>
+  <!--EN: Self-righteous mage-->
+  <TM_HolierThanThou.stages.0.label>自以为是的法师</TM_HolierThanThou.stages.0.label>
+  <!--EN: mage-->
+  <TM_IsMage_Abhorrent_Social.stages.0.label>法师</TM_IsMage_Abhorrent_Social.stages.0.label>
+  <!--EN: mage-->
+  <TM_IsMage_Approve_Social.stages.0.label>法师</TM_IsMage_Approve_Social.stages.0.label>
+  <!--EN: mage kinship-->
+  <TM_IsMage_Approve_Social.stages.1.label>法师亲属关系</TM_IsMage_Approve_Social.stages.1.label>
+  <!--EN: non-mage-->
+  <TM_IsMage_Approve_Social.stages.2.label>非法师</TM_IsMage_Approve_Social.stages.2.label>
+  <!--EN: mage-->
+  <TM_IsMage_Disapprove_Social.stages.0.label>法师</TM_IsMage_Disapprove_Social.stages.0.label>
+  <!--EN: mage-->
+  <TM_IsMage_Venerated_Social.stages.0.label>法师</TM_IsMage_Venerated_Social.stages.0.label>
+  <!--EN: mage kinship-->
+  <TM_IsMage_Venerated_Social.stages.1.label>法师亲属关系</TM_IsMage_Venerated_Social.stages.1.label>
+  <!--EN: non-mage-->
+  <TM_IsMage_Venerated_Social.stages.2.label>非法师</TM_IsMage_Venerated_Social.stages.2.label>
+  <!--EN: I killed a mage! One less abberation to worry about.-->
+  <TM_KilledMage_Abhorrent_Mood.stages.0.description>我杀了一位法师！不必担心的少结。</TM_KilledMage_Abhorrent_Mood.stages.0.description>
+  <!--EN: killed a mage-->
+  <TM_KilledMage_Abhorrent_Mood.stages.0.label>杀死了法师</TM_KilledMage_Abhorrent_Mood.stages.0.label>
+  <!--EN: mage killer-->
+  <TM_KilledMage_Abhorrent_Social.stages.0.label>法师杀手</TM_KilledMage_Abhorrent_Social.stages.0.label>
+  <!--EN: We killed a mage! Our colony will trimph over these abominations.-->
+  <TM_KilledMage_Know_Abhorrent_Mood.stages.0.description>我们杀死了法师！我们的殖民地将胜过这些憎恶。</TM_KilledMage_Know_Abhorrent_Mood.stages.0.description>
+  <!--EN: we killed a mage-->
+  <TM_KilledMage_Know_Abhorrent_Mood.stages.0.label>我们杀了一名法师</TM_KilledMage_Know_Abhorrent_Mood.stages.0.label>
+  <!--EN: We killed a mage; this goes against our prime ideoligion!-->
+  <TM_KilledMage_Know_Venerated_Mood.stages.0.description>我们杀死了一名法师；这违背了我们的质疑！</TM_KilledMage_Know_Venerated_Mood.stages.0.description>
+  <!--EN: killed a mage-->
+  <TM_KilledMage_Know_Venerated_Mood.stages.0.label>杀死了法师</TM_KilledMage_Know_Venerated_Mood.stages.0.label>
+  <!--EN: I killed a being blessed with magic... how can I live with myself?-->
+  <TM_KilledMage_Venerated_Mood.stages.0.description>我杀死了一个充满魔法的祝福...我怎么能和自己一起生活？</TM_KilledMage_Venerated_Mood.stages.0.description>
+  <!--EN: mage killer-->
+  <TM_KilledMage_Venerated_Mood.stages.0.label>法师杀手</TM_KilledMage_Venerated_Mood.stages.0.label>
+  <!--EN: I was forced to slay another mage and it weighs heavily on my conscience.-->
+  <TM_KilledMage_Venerated_Mood.stages.1.description>我被迫杀死另一个法师，这对我的良心重视。</TM_KilledMage_Venerated_Mood.stages.1.description>
+  <!--EN: mage slayer-->
+  <TM_KilledMage_Venerated_Mood.stages.1.label>法师杀手</TM_KilledMage_Venerated_Mood.stages.1.label>
+  <!--EN: mage killer-->
+  <TM_KilledMage_Venerated_Social.stages.0.label>法师杀手</TM_KilledMage_Venerated_Social.stages.0.label>
+  <!--EN: That ritual lacked order and the technique was terrible, killing the mage.-->
+  <TM_Lethal_SeverMagicTD.stages.0.description>那个仪式缺乏秩序，技术也很糟糕，杀死了法师。</TM_Lethal_SeverMagicTD.stages.0.description>
+  <!--EN: lethal severence ritual-->
+  <TM_Lethal_SeverMagicTD.stages.0.label>致命严酷仪式</TM_Lethal_SeverMagicTD.stages.0.label>
+  <!--EN: lich-->
+  <TM_Lich.stages.0.label>巫妖</TM_Lich.stages.0.label>
+  <!--EN: We have enslaved a mage; we don't need its magic, -it- is better off dead.-->
+  <TM_MagesInColonySlave_Abhorrent_Mood.stages.0.description>我们已经奴役了一名法师。我们不需要它的魔术，-IT-最好死了。</TM_MagesInColonySlave_Abhorrent_Mood.stages.0.description>
+  <!--EN: slave mage-->
+  <TM_MagesInColonySlave_Abhorrent_Mood.stages.0.label>奴隶法师</TM_MagesInColonySlave_Abhorrent_Mood.stages.0.label>
+  <!--EN: Our colony is free from the abhorrent machinations of mages.-->
+  <TM_MagesInColony_Abhorrent_Mood.stages.0.description>我们的殖民地摆脱了法师的憎恶阴谋。</TM_MagesInColony_Abhorrent_Mood.stages.0.description>
+  <!--EN: freedom from mages-->
+  <TM_MagesInColony_Abhorrent_Mood.stages.0.label>从魔法中解放</TM_MagesInColony_Abhorrent_Mood.stages.0.label>
+  <!--EN: A free mage was allowed into the colony; destroy or enslave the abomination!-->
+  <TM_MagesInColony_Abhorrent_Mood.stages.1.description>一名自由法师被允许进入殖民地； 摧毁或奴役可憎之物！</TM_MagesInColony_Abhorrent_Mood.stages.1.description>
+  <!--EN: mage abomination-->
+  <TM_MagesInColony_Abhorrent_Mood.stages.1.label>法师憎恶</TM_MagesInColony_Abhorrent_Mood.stages.1.label>
+  <!--EN: The number of mages clearly demonstrates the superiority of our colony.-->
+  <TM_MagesInColony_Approve_Mood.stages.0.description>法师的数量清楚地表明了我们殖民地的优势。</TM_MagesInColony_Approve_Mood.stages.0.description>
+  <!--EN: mage dominance-->
+  <TM_MagesInColony_Approve_Mood.stages.0.label>法师主宰</TM_MagesInColony_Approve_Mood.stages.0.label>
+  <!--EN: Our colony is blessed with a large number of mages, our success is assured!-->
+  <TM_MagesInColony_Approve_Mood.stages.1.description>我们的殖民地拥有大量法师，我们的成功是有保证的！</TM_MagesInColony_Approve_Mood.stages.1.description>
+  <!--EN: abundant mages-->
+  <TM_MagesInColony_Approve_Mood.stages.1.label>丰富的法师</TM_MagesInColony_Approve_Mood.stages.1.label>
+  <!--EN: The number of mages in the colony enriches many aspects of life.-->
+  <TM_MagesInColony_Approve_Mood.stages.2.description>殖民地中法师的数量丰富了生活的方方面面。</TM_MagesInColony_Approve_Mood.stages.2.description>
+  <!--EN: mages collective-->
+  <TM_MagesInColony_Approve_Mood.stages.2.label>法师集体</TM_MagesInColony_Approve_Mood.stages.2.label>
+  <!--EN: We have several mages in the colony who will guide us in the ways of magic.-->
+  <TM_MagesInColony_Approve_Mood.stages.3.description>我们的殖民地有几位法师，他们会指导我们魔法之路。</TM_MagesInColony_Approve_Mood.stages.3.description>
+  <!--EN: mages present-->
+  <TM_MagesInColony_Approve_Mood.stages.3.label>法师在场</TM_MagesInColony_Approve_Mood.stages.3.label>
+  <!--EN: How can we rely on magic if we don't have a mage in the colony?-->
+  <TM_MagesInColony_Approve_Mood.stages.4.description>如果殖民地没有法师，我们如何依靠魔法？</TM_MagesInColony_Approve_Mood.stages.4.description>
+  <!--EN: no mages-->
+  <TM_MagesInColony_Approve_Mood.stages.4.label>没有法师</TM_MagesInColony_Approve_Mood.stages.4.label>
+  <!--EN: A tight reign is being kept on how many free mages are allowed in our colony.-->
+  <TM_MagesInColony_Disapprove_Mood.stages.0.description>我们的殖民地对自由法师的数量有严格的控制。</TM_MagesInColony_Disapprove_Mood.stages.0.description>
+  <!--EN: restricted mages-->
+  <TM_MagesInColony_Disapprove_Mood.stages.0.label>受限法师</TM_MagesInColony_Disapprove_Mood.stages.0.label>
+  <!--EN: There are too many free mages in the colony, this needs to be controlled quickly - make them slaves!-->
+  <TM_MagesInColony_Disapprove_Mood.stages.1.description>殖民地中有太多的自由法师，需要快速控制这一点-使它们成为奴隶！</TM_MagesInColony_Disapprove_Mood.stages.1.description>
+  <!--EN: too many mages-->
+  <TM_MagesInColony_Disapprove_Mood.stages.1.label>法师太多</TM_MagesInColony_Disapprove_Mood.stages.1.label>
+  <!--EN: The number of mages in the colony is excessive and out of control; we should immediately enslave all mages to restore good order and discipline.-->
+  <TM_MagesInColony_Disapprove_Mood.stages.2.description>殖民地中的法师数量过多，无法控制。我们应该立即奴役所有法师，以恢复良好的订单和纪律。</TM_MagesInColony_Disapprove_Mood.stages.2.description>
+  <!--EN: excessive mages-->
+  <TM_MagesInColony_Disapprove_Mood.stages.2.label>过多的法师</TM_MagesInColony_Disapprove_Mood.stages.2.label>
+  <!--EN: We've clearly failed at restricting the number of free mages in the colony.-->
+  <TM_MagesInColony_Disapprove_Mood.stages.3.description>我们显然无法限制殖民地中的免费法师数量。</TM_MagesInColony_Disapprove_Mood.stages.3.description>
+  <!--EN: rampant mage count-->
+  <TM_MagesInColony_Disapprove_Mood.stages.3.label>法师数量飙升</TM_MagesInColony_Disapprove_Mood.stages.3.label>
+  <!--EN: There are now more free mages than not; what are we even trying to accomplish?-->
+  <TM_MagesInColony_Disapprove_Mood.stages.4.description>现在有更多的自由法师。我们甚至想完成什么？</TM_MagesInColony_Disapprove_Mood.stages.4.description>
+  <!--EN: mage majority-->
+  <TM_MagesInColony_Disapprove_Mood.stages.4.label>法师多数</TM_MagesInColony_Disapprove_Mood.stages.4.label>
+  <!--EN: The success of our colony is assured through the power of magic.-->
+  <TM_MagesInColony_Venerated_Mood.stages.0.description>通过魔术的力量确保了我们殖民地的成功。</TM_MagesInColony_Venerated_Mood.stages.0.description>
+  <!--EN: mage dominance-->
+  <TM_MagesInColony_Venerated_Mood.stages.0.label>法师的主导地位</TM_MagesInColony_Venerated_Mood.stages.0.label>
+  <!--EN: Our colony is surely chosen for greatness while graced with this many mages; their combined power is indomitable.-->
+  <TM_MagesInColony_Venerated_Mood.stages.1.description>我们的殖民地肯定是为了伟大而选择的，同时对这么多的法师进行了敬意。他们的联合力量是顽强的。</TM_MagesInColony_Venerated_Mood.stages.1.description>
+  <!--EN: abundant mages-->
+  <TM_MagesInColony_Venerated_Mood.stages.1.label>丰富的法师</TM_MagesInColony_Venerated_Mood.stages.1.label>
+  <!--EN: Like a tapestry, the number of mages in the colony has begun to reveal a grand design.-->
+  <TM_MagesInColony_Venerated_Mood.stages.2.description>像挂毯一样，殖民地中的法师数量已经开始揭示出宏伟的设计。</TM_MagesInColony_Venerated_Mood.stages.2.description>
+  <!--EN: mages collective-->
+  <TM_MagesInColony_Venerated_Mood.stages.2.label>法师集体</TM_MagesInColony_Venerated_Mood.stages.2.label>
+  <!--EN: Mages in our colony will guide us in our chosen path.-->
+  <TM_MagesInColony_Venerated_Mood.stages.3.description>我们殖民地中的法师将指导我们进入所选的道路。</TM_MagesInColony_Venerated_Mood.stages.3.description>
+  <!--EN: mages present-->
+  <TM_MagesInColony_Venerated_Mood.stages.3.label>法师在场</TM_MagesInColony_Venerated_Mood.stages.3.label>
+  <!--EN: Has magic forsaken us!?-->
+  <TM_MagesInColony_Venerated_Mood.stages.4.description>有魔术抛弃我们！？</TM_MagesInColony_Venerated_Mood.stages.4.description>
+  <!--EN: no mages-->
+  <TM_MagesInColony_Venerated_Mood.stages.4.label>没有法师</TM_MagesInColony_Venerated_Mood.stages.4.label>
+  <!--EN: We've emprisoned a mage, are we sure our actions are justified?-->
+  <TM_MagesPrisoner_Venerated_Mood.stages.0.description>我们已经提出了一名法师，我们确定我们的行动是合理的吗？</TM_MagesPrisoner_Venerated_Mood.stages.0.description>
+  <!--EN: mage prisoner-->
+  <TM_MagesPrisoner_Venerated_Mood.stages.0.label>法师囚犯</TM_MagesPrisoner_Venerated_Mood.stages.0.label>
+  <!--EN: We've enslaved a mage, what a despicable act.-->
+  <TM_MagesSlave_Venerated_Mood.stages.0.description>我们已经奴役了一名法师，这是一种卑鄙的行为。</TM_MagesSlave_Venerated_Mood.stages.0.description>
+  <!--EN: mage slave-->
+  <TM_MagesSlave_Venerated_Mood.stages.0.label>法师奴隶</TM_MagesSlave_Venerated_Mood.stages.0.label>
+  <!--EN: I've been enlightened by words from a powerful mage, now I just have to apply this knowledge...-->
+  <TM_MagicLoreTD.stages.0.description>我被一个强大法师的话语启发了,现在我只需要应用这些知识...</TM_MagicLoreTD.stages.0.description>
+  <!--EN: gained arcane knowledge-->
+  <TM_MagicLoreTD.stages.0.label>获得了奥术知识</TM_MagicLoreTD.stages.0.label>
+  <!--EN: I've lost something that once defined who I was; I feel a mix of dispair and emptiness.-->
+  <TM_MagicSeverenceTD.stages.0.description>我失去了一些曾经定义我是谁的东西； 我感到失望和空虚。</TM_MagicSeverenceTD.stages.0.description>
+  <!--EN: Severed from magic-->
+  <TM_MagicSeverenceTD.stages.0.label>与魔法隔绝</TM_MagicSeverenceTD.stages.0.label>
+  <!--EN: used magic-->
+  <TM_MagicUse_Abhorrent_Social.stages.0.label>魔法使用</TM_MagicUse_Abhorrent_Social.stages.0.label>
+  <!--EN: magical energy is rushing through me, I feel like I could do anything!-->
+  <TM_MagicUse_Approve_Mood.stages.0.description>神奇的能量正冲过我，我觉得我可以做任何事情！</TM_MagicUse_Approve_Mood.stages.0.description>
+  <!--EN: magic rush-->
+  <TM_MagicUse_Approve_Mood.stages.0.label>魔法冲击</TM_MagicUse_Approve_Mood.stages.0.label>
+  <!--EN: I used magic and it felt great.-->
+  <TM_MagicUse_Approve_Mood.stages.1.description>我使用了魔术，感觉很棒。</TM_MagicUse_Approve_Mood.stages.1.description>
+  <!--EN: magic use-->
+  <TM_MagicUse_Approve_Mood.stages.1.label>魔法使用</TM_MagicUse_Approve_Mood.stages.1.label>
+  <!--EN: I haven't used any magic recently; I feel out of touch with my power.-->
+  <TM_MagicUse_Approve_Mood.stages.2.description>我最近没有使用任何魔术。我对自己的力量感到失去联系。</TM_MagicUse_Approve_Mood.stages.2.description>
+  <!--EN: magic deprevation-->
+  <TM_MagicUse_Approve_Mood.stages.2.label>魔术剥夺</TM_MagicUse_Approve_Mood.stages.2.label>
+  <!--EN: We're successfully limiting the use of magic.-->
+  <TM_MagicUse_Disapprove_Mood.stages.0.description>我们成功地限制了魔术的使用。</TM_MagicUse_Disapprove_Mood.stages.0.description>
+  <!--EN: magic use restricted-->
+  <TM_MagicUse_Disapprove_Mood.stages.0.label>魔法使用受到限制</TM_MagicUse_Disapprove_Mood.stages.0.label>
+  <!--EN: Too much magic is being used, this is not good for the colony.-->
+  <TM_MagicUse_Disapprove_Mood.stages.1.description>使用了太多的魔法，这对殖民地不利。</TM_MagicUse_Disapprove_Mood.stages.1.description>
+  <!--EN: too much magic-->
+  <TM_MagicUse_Disapprove_Mood.stages.1.label>太多的魔法</TM_MagicUse_Disapprove_Mood.stages.1.label>
+  <!--EN: Way too much magic is being used!-->
+  <TM_MagicUse_Disapprove_Mood.stages.2.description>使用太多的魔术了！</TM_MagicUse_Disapprove_Mood.stages.2.description>
+  <!--EN: excessive magic use-->
+  <TM_MagicUse_Disapprove_Mood.stages.2.label>过度使用魔术</TM_MagicUse_Disapprove_Mood.stages.2.label>
+  <!--EN: Magic is utterly dominating the environment; our ideoligion is a sham.-->
+  <TM_MagicUse_Disapprove_Mood.stages.3.description>魔术完全主导着环境。我们的思想是假的。</TM_MagicUse_Disapprove_Mood.stages.3.description>
+  <!--EN: magic dominance-->
+  <TM_MagicUse_Disapprove_Mood.stages.3.label>魔术主导地位</TM_MagicUse_Disapprove_Mood.stages.3.label>
+  <!--EN: Magic was used in our colony - what a disgusting, filthy act.-->
+  <TM_MagicUse_Know_Abhorrent_Mood.stages.0.description>魔术在我们的殖民地中使用了 - 这是一种令人恶心的肮脏行为。</TM_MagicUse_Know_Abhorrent_Mood.stages.0.description>
+  <!--EN: we used magic-->
+  <TM_MagicUse_Know_Abhorrent_Mood.stages.0.label>我们使用了魔法</TM_MagicUse_Know_Abhorrent_Mood.stages.0.label>
+  <!--EN: I'm surrounded by powerful magic - our colony can surely withstand any challenge.-->
+  <TM_MagicUse_Know_Approve_Mood.stages.0.description>我被强大的魔术所包围-我们的殖民地肯定可以承受任何挑战。</TM_MagicUse_Know_Approve_Mood.stages.0.description>
+  <!--EN: magic abundance-->
+  <TM_MagicUse_Know_Approve_Mood.stages.0.label>魔法丰富</TM_MagicUse_Know_Approve_Mood.stages.0.label>
+  <!--EN: I saw some magic and it was amazing!-->
+  <TM_MagicUse_Know_Approve_Mood.stages.1.description>我看到了一些魔术，真是太神奇了！</TM_MagicUse_Know_Approve_Mood.stages.1.description>
+  <!--EN: magic use-->
+  <TM_MagicUse_Know_Approve_Mood.stages.1.label>魔法使用</TM_MagicUse_Know_Approve_Mood.stages.1.label>
+  <!--EN: I haven't seen any magic recently; are my hopes misplaced?-->
+  <TM_MagicUse_Know_Approve_Mood.stages.2.description>我最近没有看到任何魔术。我的希望放错了吗？</TM_MagicUse_Know_Approve_Mood.stages.2.description>
+  <!--EN: magic absence-->
+  <TM_MagicUse_Know_Approve_Mood.stages.2.label>没用魔法</TM_MagicUse_Know_Approve_Mood.stages.2.label>
+  <!--EN: I'm in awe and terror by the power of magic!-->
+  <TM_MagicUse_Know_Venerated_Mood.stages.0.description>我对魔术的力量感到敬畏和恐惧！</TM_MagicUse_Know_Venerated_Mood.stages.0.description>
+  <!--EN: magic abundance-->
+  <TM_MagicUse_Know_Venerated_Mood.stages.0.label>魔术丰富</TM_MagicUse_Know_Venerated_Mood.stages.0.label>
+  <!--EN: I witnessed glorious magic!-->
+  <TM_MagicUse_Know_Venerated_Mood.stages.1.description>我目睹了光荣的魔法！</TM_MagicUse_Know_Venerated_Mood.stages.1.description>
+  <!--EN: magic use-->
+  <TM_MagicUse_Know_Venerated_Mood.stages.1.label>魔术使用</TM_MagicUse_Know_Venerated_Mood.stages.1.label>
+  <!--EN: I haven't seen any magic recently; its absence leaves me hollow.-->
+  <TM_MagicUse_Know_Venerated_Mood.stages.2.description>我最近没有看到任何魔术。它的缺席使我空洞。</TM_MagicUse_Know_Venerated_Mood.stages.2.description>
+  <!--EN: magic absence-->
+  <TM_MagicUse_Know_Venerated_Mood.stages.2.label>神奇的缺席</TM_MagicUse_Know_Venerated_Mood.stages.2.label>
+  <!--EN: magical energy is rushing through me, I feel like I could do anything!-->
+  <TM_MagicUse_Venerated_Mood.stages.0.description>神奇的能量正在奔波我，我觉得我可以做任何事情！</TM_MagicUse_Venerated_Mood.stages.0.description>
+  <!--EN: magic rush-->
+  <TM_MagicUse_Venerated_Mood.stages.0.label>魔法冲击</TM_MagicUse_Venerated_Mood.stages.0.label>
+  <!--EN: I used magic; it's a core part of my being and reaffirms confidence in my superiority.-->
+  <TM_MagicUse_Venerated_Mood.stages.1.description>我使用魔法；这是我存在的核心部分，并重申对我的优越性的信心。</TM_MagicUse_Venerated_Mood.stages.1.description>
+  <!--EN: magic use-->
+  <TM_MagicUse_Venerated_Mood.stages.1.label>魔法使用</TM_MagicUse_Venerated_Mood.stages.1.label>
+  <!--EN: I haven't used any magic recently; I feel out of touch with my power.-->
+  <TM_MagicUse_Venerated_Mood.stages.2.description>我最近没有使用任何魔法；我感觉与我的力量失去联系。</TM_MagicUse_Venerated_Mood.stages.2.description>
+  <!--EN: magic deprevation-->
+  <TM_MagicUse_Venerated_Mood.stages.2.label>魔法剥夺</TM_MagicUse_Venerated_Mood.stages.2.label>
+  <!--EN: used magic-->
+  <TM_MagicUse_Venerated_Social.stages.0.label>魔法使用</TM_MagicUse_Venerated_Social.stages.0.label>
+  <!--EN: Experience in the arts of combat reveal the lie in her form and movement, but sometimes it's easier to just accept the deception-->
+  <TM_MaleOpinionOfSuccubus.stages.0.description>战斗艺术的经验揭示了她的形态和动作中的谎言，但有时更容易接受欺骗</TM_MaleOpinionOfSuccubus.stages.0.description>
+  <!--EN: Illusion of beauty-->
+  <TM_MaleOpinionOfSuccubus.stages.0.label>美丽的幻觉</TM_MaleOpinionOfSuccubus.stages.0.label>
+  <!--EN: I can tell she uses demonic powers to make herself more attractive, but that knowledge does little to diminish the effect-->
+  <TM_MaleOpinionOfSuccubus.stages.1.description>我可以看出她使用恶魔力量来让自己变得更有吸引力，但这一知识并不能减弱这种效果</TM_MaleOpinionOfSuccubus.stages.1.description>
+  <!--EN: Devilishly attractive-->
+  <TM_MaleOpinionOfSuccubus.stages.1.label>极具吸引力</TM_MaleOpinionOfSuccubus.stages.1.label>
+  <!--EN: There's something about her that is undeniably and overwhelmingly attractive-->
+  <TM_MaleOpinionOfSuccubus.stages.2.description>她身上有一种不可否认的、压倒性的吸引力</TM_MaleOpinionOfSuccubus.stages.2.description>
+  <!--EN: Alluring-->
+  <TM_MaleOpinionOfSuccubus.stages.2.label>诱人</TM_MaleOpinionOfSuccubus.stages.2.label>
+  <!--EN: I can't remember the last few days, maybe that is for the best.-->
+  <TM_MemoryWipe.stages.0.description>我不记得过去几天发生的事情了，也许这样也不错？</TM_MemoryWipe.stages.0.description>
+  <!--EN: clean slate-->
+  <TM_MemoryWipe.stages.0.label>新的开始</TM_MemoryWipe.stages.0.label>
+  <!--EN: A more experienced fighter has taught me how to improve my combat techniques.-->
+  <TM_MightLoreTD.stages.0.description>一位经验丰富的战斗机教会了我如何改善战斗技术。</TM_MightLoreTD.stages.0.description>
+  <!--EN: gained combat experience-->
+  <TM_MightLoreTD.stages.0.label>获得战斗经验</TM_MightLoreTD.stages.0.label>
+  <!--EN: Finally free of my harsh taskmaster... now to relax a little.-->
+  <TM_MinionAlways.stages.0.description>终于自由了... 现在让我来放松一下！</TM_MinionAlways.stages.0.description>
+  <!--EN: freed from pitboss-->
+  <TM_MinionAlways.stages.0.label>被释放</TM_MinionAlways.stages.0.label>
+  <!--EN: The arcane path selection ritual was encouraging and interesting.-->
+  <TM_Moderate_BestowMagicClassTD.stages.0.description>奥术路径选择仪式令人鼓舞且有趣。</TM_Moderate_BestowMagicClassTD.stages.0.description>
+  <!--EN: successful arcane path ritual-->
+  <TM_Moderate_BestowMagicClassTD.stages.0.label>成功的奥术之路仪式</TM_Moderate_BestowMagicClassTD.stages.0.label>
+  <!--EN: necromancer-->
+  <TM_Necromancer.stages.0.label>死灵法师</TM_Necromancer.stages.0.label>
+  <!--EN: I've been stuck at this place forever. I need to get away from here and see the world!-->
+  <TM_NeedTravel.stages.0.description>我永远被困在这个地方。我需要离开这里，看看世界！</TM_NeedTravel.stages.0.description>
+  <!--EN: trapped-->
+  <TM_NeedTravel.stages.0.label>被困</TM_NeedTravel.stages.0.label>
+  <!--EN: Nothing beats being on the road and seeing new places.-->
+  <TM_NeedTravel.stages.1.description>没有什么比在路上看到新地方了.</TM_NeedTravel.stages.1.description>
+  <!--EN: adventuring-->
+  <TM_NeedTravel.stages.1.label>冒险</TM_NeedTravel.stages.1.label>
+  <!--EN: Emotions gained through empathy.-->
+  <TM_NegativeEmpathyTD.stages.0.description>读心师所传递的消极情绪</TM_NegativeEmpathyTD.stages.0.description>
+  <!--EN: negative vibes-->
+  <TM_NegativeEmpathyTD.stages.0.label>消极情绪</TM_NegativeEmpathyTD.stages.0.label>
+  <!--EN: boundless arrogance-->
+  <TM_OpinionOfBoundless.stages.0.label>无限的傲慢</TM_OpinionOfBoundless.stages.0.label>
+  <!--EN: Emotional energy is being used to augment another pawn.-->
+  <TM_OutOfBodyThought.stages.0.description>情绪能量被用来增加另一个典当。</TM_OutOfBodyThought.stages.0.description>
+  <!--EN: out of body-->
+  <TM_OutOfBodyThought.stages.0.label>脱离身体</TM_OutOfBodyThought.stages.0.label>
+  <!--EN: barbaric ritual-->
+  <TM_PerformedSeverenceRitual_Social.stages.0.label>野蛮仪式</TM_PerformedSeverenceRitual_Social.stages.0.label>
+  <!--EN: villainous ritual-->
+  <TM_PerformedSeverenceRitual_Social.stages.1.label>恶棍仪式</TM_PerformedSeverenceRitual_Social.stages.1.label>
+  <!--EN: Are these body parts really mine? I feel like a guest in my own body.-->
+  <TM_PhantomLimb.stages.0.description>这些身体部位真的是我的吗？我觉得自己是个外来者。</TM_PhantomLimb.stages.0.description>
+  <!--EN: phantom limb-->
+  <TM_PhantomLimb.stages.0.label>幻肢</TM_PhantomLimb.stages.0.label>
+  <!--EN: My dreams are filled with memories and events that make me happy.-->
+  <TM_PleasantDreamsTD.stages.0.description>我的梦里充满了让我快乐的回忆和事件。</TM_PleasantDreamsTD.stages.0.description>
+  <!--EN: pleasant dreams-->
+  <TM_PleasantDreamsTD.stages.0.label>美梦</TM_PleasantDreamsTD.stages.0.label>
+  <!--EN: My mind is relaxed and my thoughts are clear, I feel more aware and content with my place in the universe.-->
+  <TM_PomanaSenseTD.stages.0.description>我的思想很放松,我的想法很清楚,我更加意识到并且对我在宇宙中的位置感到满意。</TM_PomanaSenseTD.stages.0.description>
+  <!--EN: pomana sense-->
+  <TM_PomanaSenseTD.stages.0.label>波莫纳糖浆</TM_PomanaSenseTD.stages.0.label>
+  <!--EN: The ritual guiding a mage towards their arcane path was bland and uninteresting.-->
+  <TM_Poor_BestowMagicClassTD.stages.0.description>引导法师走向奥术之路的仪式平淡无奇。</TM_Poor_BestowMagicClassTD.stages.0.description>
+  <!--EN: bland arcane path ritual-->
+  <TM_Poor_BestowMagicClassTD.stages.0.label>平淡的奥术道路仪式</TM_Poor_BestowMagicClassTD.stages.0.label>
+  <!--EN: Emotions gained through empathy.-->
+  <TM_PositiveEmpathyTD.stages.0.description>读心师所传递的积极情绪。</TM_PositiveEmpathyTD.stages.0.description>
+  <!--EN: positive vibes-->
+  <TM_PositiveEmpathyTD.stages.0.label>积极情绪</TM_PositiveEmpathyTD.stages.0.label>
+  <!--EN: A ritual to sever the magic from a mage was performed in our colony; what a despicable and barbaric act.-->
+  <TM_SeverMagic_ForApproveTD.stages.0.description>我们的殖民地进行了一场切断法师魔法的仪式； 真是卑鄙野蛮的行为。</TM_SeverMagic_ForApproveTD.stages.0.description>
+  <!--EN: allowed sever magic-->
+  <TM_SeverMagic_ForApproveTD.stages.0.label>允许斩断魔法</TM_SeverMagic_ForApproveTD.stages.0.label>
+  <!--EN: A ritual to sever the magic from a mage was performed in our colony; this henious act of barbarism is an afront to everything we believe.-->
+  <TM_SeverMagic_ForVeneratedTD.stages.0.description>我们的殖民地进行了一场切断法师魔法的仪式； 这种令人发指的野蛮行为是对我们所信仰的一切的侮辱。</TM_SeverMagic_ForVeneratedTD.stages.0.description>
+  <!--EN: allowed sever magic-->
+  <TM_SeverMagic_ForVeneratedTD.stages.0.label>允许斩断魔法</TM_SeverMagic_ForVeneratedTD.stages.0.label>
+  <!--EN: Drained of spirit.-->
+  <TM_SpiritDrainTD.stages.0.description>精神耗尽。</TM_SpiritDrainTD.stages.0.description>
+  <!--EN: spirit drain-->
+  <TM_SpiritDrainTD.stages.0.label>精神流失</TM_SpiritDrainTD.stages.0.label>
+  <!--EN: My body is possessed by another spirit.-->
+  <TM_SpiritPossessedTD.stages.0.description>我的身体被另一个灵魂入侵了。</TM_SpiritPossessedTD.stages.0.description>
+  <!--EN: possessed-->
+  <TM_SpiritPossessedTD.stages.0.label>幽魂行者</TM_SpiritPossessedTD.stages.0.label>
+  <!--EN: The gifting ritual successfully bestowed the magical spark.-->
+  <TM_Success_BestowMagicTD.stages.0.description>赠送仪式成功赋予魔法火花。</TM_Success_BestowMagicTD.stages.0.description>
+  <!--EN: successful gifting ritual-->
+  <TM_Success_BestowMagicTD.stages.0.label>成功送礼仪式</TM_Success_BestowMagicTD.stages.0.label>
+  <!--EN: The severence ritual was a success, freeing us from the oppression of another mage.-->
+  <TM_Success_SeverMagicTD.stages.0.description>严酷仪式成功，将我们从另一位法师的压迫中解放出来。</TM_Success_SeverMagicTD.stages.0.description>
+  <!--EN: successful severence ritual-->
+  <TM_Success_SeverMagicTD.stages.0.label>成功的严酷仪式</TM_Success_SeverMagicTD.stages.0.label>
+  <!--EN: I have a deep sense of sadness and loss when depriving others of their ability to feel.-->
+  <TM_SuppressiveAuraTD.stages.0.description>当剥夺他人的感觉能力时，我会深深地感情和失落。</TM_SuppressiveAuraTD.stages.0.description>
+  <!--EN: Emotion thief-->
+  <TM_SuppressiveAuraTD.stages.0.label>情感窃取</TM_SuppressiveAuraTD.stages.0.label>
+  <!--EN: Emotional fortitude provided by a symbiotic connection with an empath.-->
+  <TM_SymbiosisThought.stages.0.description>情感共生，有人在心底支撑着我。</TM_SymbiosisThought.stages.0.description>
+  <!--EN: symbiosis-->
+  <TM_SymbiosisThought.stages.0.label>思维链接</TM_SymbiosisThought.stages.0.label>
+  <!--EN: My mind is relaxed and answers seem to flow to me as if I'm attuned to the universe.-->
+  <TM_SyrriumSenseTD.stages.0.description>我的思想放松了,答案似乎向我流动,好像我在宇宙中抚摸着。</TM_SyrriumSenseTD.stages.0.description>
+  <!--EN: syrrium sense-->
+  <TM_SyrriumSenseTD.stages.0.label>波莫纳糖浆</TM_SyrriumSenseTD.stages.0.label>
+  <!--EN: My mind feels muddled. With syrrium I was brilliant, I'm sure everyone was impressed with my intellect. That's who I am, I need to have that!-->
+  <TM_SyrriumWithdrawalTD.stages.1.description>我的思绪一团糟。服用西瑞姆时我思维敏捷，肯定每个人都对我的才智印象深刻。那才是真正的我，我必须恢复那种状态！</TM_SyrriumWithdrawalTD.stages.1.description>
+  <!--EN: syrrium withdrawal-->
+  <TM_SyrriumWithdrawalTD.stages.1.label>西瑞姆戒断</TM_SyrriumWithdrawalTD.stages.1.label>
+  <!--EN: Another pawn gave me orders. This could become annoying.-->
+  <TM_TakingOrdersTD.stages.0.description>另一个人给了我命令。这可能会变得烦人。</TM_TakingOrdersTD.stages.0.description>
+  <!--EN: taking orders-->
+  <TM_TakingOrdersTD.stages.0.label>接受命令</TM_TakingOrdersTD.stages.0.label>
+  <!--EN: Every aspect of my life has become micro-managed; I barely have time to eat a decent meal.-->
+  <TM_TaskMasterTD.stages.0.description>我生活的每一个方面都变得微观管理;我几乎没有时间吃一顿像样的饭.</TM_TaskMasterTD.stages.0.description>
+  <!--EN: Task master-->
+  <TM_TaskMasterTD.stages.0.label>任务光环</TM_TaskMasterTD.stages.0.label>
+  <!--EN: These changes make me feel like a stranger to myself, it's going to take some time to rediscover who I am.-->
+  <TM_TraitInfusion.stages.0.description>这些变化让我感觉自己像个陌生人，需要一些时间才能重新发现我是谁。</TM_TraitInfusion.stages.0.description>
+  <!--EN: Absorbed traits-->
+  <TM_TraitInfusion.stages.0.label>吸收特性</TM_TraitInfusion.stages.0.label>
+  <!--EN: undead-->
+  <TM_Undead.stages.0.label>亡灵</TM_Undead.stages.0.label>
+  <!--EN: Has a charming presence.-->
+  <Thought_EnchantedAura.stages.0.description>拥有迷人的存在。</Thought_EnchantedAura.stages.0.description>
+  <!--EN: charming-->
+  <Thought_EnchantedAura.stages.0.label>迷人</Thought_EnchantedAura.stages.0.label>
+  <!--EN: Has an enchanting aura.-->
+  <Thought_EnchantedAura.stages.1.description>拥有迷人的光环。</Thought_EnchantedAura.stages.1.description>
+  <!--EN: enchanting-->
+  <Thought_EnchantedAura.stages.1.label>迷人</Thought_EnchantedAura.stages.1.label>
+  <!--EN: Has a powerful allure.-->
+  <Thought_EnchantedAura.stages.2.description>具有强大的诱惑力。</Thought_EnchantedAura.stages.2.description>
+  <!--EN: powerful allure-->
+  <Thought_EnchantedAura.stages.2.label>强大的诱惑力</Thought_EnchantedAura.stages.2.label>
+  <!--EN: Is positively glamorous.-->
+  <Thought_EnchantedAura.stages.3.description>非常迷人。</Thought_EnchantedAura.stages.3.description>
+  <!--EN: positively glamorous-->
+  <Thought_EnchantedAura.stages.3.label>积极迷人</Thought_EnchantedAura.stages.3.label>
+  <!--EN: Has a third arm... it's uncomfortable to look at and unnatural.-->
+  <Thought_EnchantedBody.stages.0.description>有第三只手臂...看起来不舒服而且不自然。</Thought_EnchantedBody.stages.0.description>
+  <!--EN: third arm-->
+  <Thought_EnchantedBody.stages.0.label>第三只手臂</Thought_EnchantedBody.stages.0.label>
+  <!--EN: I don't care if those extra arms are magical, it's freakish.-->
+  <Thought_EnchantedBody.stages.1.description>我不在乎这些额外的手臂是否具有魔法，它太奇怪了。</Thought_EnchantedBody.stages.1.description>
+  <!--EN: four arms-->
+  <Thought_EnchantedBody.stages.1.label>四只手臂</Thought_EnchantedBody.stages.1.label>
+  <!--EN: It goes beyond reason to simply start sprouting extra body parts; it seems like that third eye is always staring at me.-->
+  <Thought_EnchantedBody.stages.2.description>仅仅开始长出额外的身体部位是不合理的； 好像第三只眼一直在盯着我。</Thought_EnchantedBody.stages.2.description>
+  <!--EN: strange growth-->
+  <Thought_EnchantedBody.stages.2.label>奇怪的成长</Thought_EnchantedBody.stages.2.label>
+  <!--EN: What's next, another head? This has gone too far.-->
+  <Thought_EnchantedBody.stages.3.description>接下来是什么，另一个头？ 这已经太过分了。</Thought_EnchantedBody.stages.3.description>
+  <!--EN: mutant-->
+  <Thought_EnchantedBody.stages.3.label>突变</Thought_EnchantedBody.stages.3.label>
+  <!--EN: To be able to morph yourself into whatever you wish - what an amazing ability!-->
+  <Thought_EnchantedBody.stages.4.description>能够将自己变成任何你想要的东西 - 多么惊人的能力！</Thought_EnchantedBody.stages.4.description>
+  <!--EN: admiring transhumanist-->
+  <Thought_EnchantedBody.stages.4.label>钦佩超人类主义者</Thought_EnchantedBody.stages.4.label>
+  <!--EN: What a freak, I think -it- is gross.-->
+  <Thought_EnchantedBody.stages.5.description>真是个怪胎，我觉得太恶心了。</Thought_EnchantedBody.stages.5.description>
+  <!--EN: hateful body purist-->
+  <Thought_EnchantedBody.stages.5.label>可恶的身体纯粹主义者</Thought_EnchantedBody.stages.5.label>
+  <!--EN: I hate being next to the undead. I can't help but think... will that happen to me when I die?-->
+  <Thought_ObservedUndead.stages.0.description>我讨厌和不死生物在一起。 我不禁想……我死后会发生这种事吗？</Thought_ObservedUndead.stages.0.description>
+  <!--EN: observed undead-->
+  <Thought_ObservedUndead.stages.0.label>观察到的不死生物</Thought_ObservedUndead.stages.0.label>
+  <!--EN: Wearing apparel made with demonhide makes me feel more confident.-->
+  <Thought_WearingDemonhide.stages.0.description>穿着恶魔皮制成的服装让我感觉更加自信。</Thought_WearingDemonhide.stages.0.description>
+  <!--EN: demonhide {0}-->
+  <Thought_WearingDemonhide.stages.0.label>恶魔皮 {0}</Thought_WearingDemonhide.stages.0.label>
+  <!--EN: Demonhide clothing is a symbol of my elite status.-->
+  <Thought_WearingDemonhide.stages.1.description>魔皮服装是我精英身份的象征。</Thought_WearingDemonhide.stages.1.description>
+  <!--EN: demonhide {0} (+1)-->
+  <Thought_WearingDemonhide.stages.1.label>恶魔皮 {0} (+1)</Thought_WearingDemonhide.stages.1.label>
+  <!--EN: I'm clothed in the hide of a demon; my status and safety is guaranteed.-->
+  <Thought_WearingDemonhide.stages.2.description>我披着恶魔的皮衣； 我的状态和安全得到了保证。</Thought_WearingDemonhide.stages.2.description>
+  <!--EN: demonhide {0} (+2)-->
+  <Thought_WearingDemonhide.stages.2.label>恶魔皮 {0} (+2)</Thought_WearingDemonhide.stages.2.label>
+  <!--EN: That succubus was amazing - my worries are a dull memory and I feel relaxed, even a little lethargic.-->
+  <VitalityDrainTD.stages.0.description>她（魅魔）真是太神奇了！我整个人感到非常轻松，甚至有点昏昏欲睡。</VitalityDrainTD.stages.0.description>
+  <!--EN: Vitality Drain-->
+  <VitalityDrainTD.stages.0.label>极乐天堂</VitalityDrainTD.stages.0.label>
+  <!--EN: I can feel the emotions of those around me.-->
+  <WarlockEmpathy.stages.0.description>我能感觉到周围人的情绪。</WarlockEmpathy.stages.0.description>
+  <!--EN: Empathy-->
+  <WarlockEmpathy.stages.0.label>共鸣</WarlockEmpathy.stages.0.label>
+</LanguageData>

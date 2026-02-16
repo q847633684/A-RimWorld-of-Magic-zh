@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: elemental-->
+  <Elemental.label>元素</Elemental.label>
+  <!--EN: minion-->
+  <Minion.label>仆从</Minion.label>
+  <!--EN: sentinel-->
+  <Sentinel.label>石哨兵</Sentinel.label>
+  <!--EN: Demon-->
+  <TM_Demon.label>恶魔</TM_Demon.label>
+  <!--EN: left lung-->
+  <TM_FleshGolem.corePart.parts.2.parts.1.parts.0.customLabel>左肺</TM_FleshGolem.corePart.parts.2.parts.1.parts.0.customLabel>
+  <!--EN: right lung-->
+  <TM_FleshGolem.corePart.parts.2.parts.1.parts.1.customLabel>右肺</TM_FleshGolem.corePart.parts.2.parts.1.parts.1.customLabel>
+  <!--EN: left eye-->
+  <TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>左眼</TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>
+  <!--EN: right eye-->
+  <TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>右眼</TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>
+  <!--EN: lower left eye-->
+  <TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.2.customLabel>左下眼</TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.2.customLabel>
+  <!--EN: lower right eye-->
+  <TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.3.customLabel>右下眼</TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.3.customLabel>
+  <!--EN: evil eye-->
+  <TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.4.customLabel>邪恶之眼</TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.4.customLabel>
+  <!--EN: left ear-->
+  <TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.6.customLabel>左耳</TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.6.customLabel>
+  <!--EN: right ear-->
+  <TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.7.customLabel>右耳</TM_FleshGolem.corePart.parts.3.parts.0.parts.1.parts.7.customLabel>
+  <!--EN: left shoulder-->
+  <TM_FleshGolem.corePart.parts.4.customLabel>左肩</TM_FleshGolem.corePart.parts.4.customLabel>
+  <!--EN: left arm-->
+  <TM_FleshGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_FleshGolem.corePart.parts.4.parts.0.customLabel>
+  <!--EN: left hand-->
+  <TM_FleshGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_FleshGolem.corePart.parts.4.parts.0.parts.0.customLabel>
+  <!--EN: right shoulder-->
+  <TM_FleshGolem.corePart.parts.5.customLabel>右肩</TM_FleshGolem.corePart.parts.5.customLabel>
+  <!--EN: right arm-->
+  <TM_FleshGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_FleshGolem.corePart.parts.5.parts.0.customLabel>
+  <!--EN: right hand-->
+  <TM_FleshGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_FleshGolem.corePart.parts.5.parts.0.parts.0.customLabel>
+  <!--EN: left leg-->
+  <TM_FleshGolem.corePart.parts.6.parts.0.customLabel>左腿</TM_FleshGolem.corePart.parts.6.parts.0.customLabel>
+  <!--EN: left femur-->
+  <TM_FleshGolem.corePart.parts.6.parts.0.parts.0.customLabel>左股骨</TM_FleshGolem.corePart.parts.6.parts.0.parts.0.customLabel>
+  <!--EN: left tibia-->
+  <TM_FleshGolem.corePart.parts.6.parts.0.parts.1.customLabel>左胫骨</TM_FleshGolem.corePart.parts.6.parts.0.parts.1.customLabel>
+  <!--EN: left foot-->
+  <TM_FleshGolem.corePart.parts.6.parts.0.parts.2.customLabel>左脚</TM_FleshGolem.corePart.parts.6.parts.0.parts.2.customLabel>
+  <!--EN: right leg-->
+  <TM_FleshGolem.corePart.parts.6.parts.1.customLabel>右腿</TM_FleshGolem.corePart.parts.6.parts.1.customLabel>
+  <!--EN: right femur-->
+  <TM_FleshGolem.corePart.parts.6.parts.1.parts.0.customLabel>右股骨</TM_FleshGolem.corePart.parts.6.parts.1.parts.0.customLabel>
+  <!--EN: right tibia-->
+  <TM_FleshGolem.corePart.parts.6.parts.1.parts.1.customLabel>右胫骨</TM_FleshGolem.corePart.parts.6.parts.1.parts.1.customLabel>
+  <!--EN: right foot-->
+  <TM_FleshGolem.corePart.parts.6.parts.1.parts.2.customLabel>右脚</TM_FleshGolem.corePart.parts.6.parts.1.parts.2.customLabel>
+  <!--EN: flesh-golem-->
+  <TM_FleshGolem.label>血肉傀儡</TM_FleshGolem.label>
+  <!--EN: left lung-->
+  <TM_HollowGolem.corePart.parts.2.parts.4.parts.0.customLabel>左肺</TM_HollowGolem.corePart.parts.2.parts.4.parts.0.customLabel>
+  <!--EN: right lung-->
+  <TM_HollowGolem.corePart.parts.2.parts.4.parts.1.customLabel>右肺</TM_HollowGolem.corePart.parts.2.parts.4.parts.1.customLabel>
+  <!--EN: left eye-->
+  <TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>左眼</TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>
+  <!--EN: right eye-->
+  <TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>右眼</TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>
+  <!--EN: left ear-->
+  <TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.2.customLabel>左耳</TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.2.customLabel>
+  <!--EN: right ear-->
+  <TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.3.customLabel>右耳</TM_HollowGolem.corePart.parts.3.parts.0.parts.1.parts.3.customLabel>
+  <!--EN: left shoulder-->
+  <TM_HollowGolem.corePart.parts.4.customLabel>左肩</TM_HollowGolem.corePart.parts.4.customLabel>
+  <!--EN: left arm-->
+  <TM_HollowGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_HollowGolem.corePart.parts.4.parts.0.customLabel>
+  <!--EN: left hand-->
+  <TM_HollowGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_HollowGolem.corePart.parts.4.parts.0.parts.0.customLabel>
+  <!--EN: right shoulder-->
+  <TM_HollowGolem.corePart.parts.5.customLabel>右肩</TM_HollowGolem.corePart.parts.5.customLabel>
+  <!--EN: right arm-->
+  <TM_HollowGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_HollowGolem.corePart.parts.5.parts.0.customLabel>
+  <!--EN: right hand-->
+  <TM_HollowGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_HollowGolem.corePart.parts.5.parts.0.parts.0.customLabel>
+  <!--EN: left leg-->
+  <TM_HollowGolem.corePart.parts.7.parts.0.customLabel>左腿</TM_HollowGolem.corePart.parts.7.parts.0.customLabel>
+  <!--EN: left femur-->
+  <TM_HollowGolem.corePart.parts.7.parts.0.parts.0.customLabel>左股骨</TM_HollowGolem.corePart.parts.7.parts.0.parts.0.customLabel>
+  <!--EN: left tibia-->
+  <TM_HollowGolem.corePart.parts.7.parts.0.parts.1.customLabel>左胫骨</TM_HollowGolem.corePart.parts.7.parts.0.parts.1.customLabel>
+  <!--EN: left foot-->
+  <TM_HollowGolem.corePart.parts.7.parts.0.parts.2.customLabel>左脚</TM_HollowGolem.corePart.parts.7.parts.0.parts.2.customLabel>
+  <!--EN: right leg-->
+  <TM_HollowGolem.corePart.parts.7.parts.1.customLabel>右腿</TM_HollowGolem.corePart.parts.7.parts.1.customLabel>
+  <!--EN: right femur-->
+  <TM_HollowGolem.corePart.parts.7.parts.1.parts.0.customLabel>右股骨</TM_HollowGolem.corePart.parts.7.parts.1.parts.0.customLabel>
+  <!--EN: right tibia-->
+  <TM_HollowGolem.corePart.parts.7.parts.1.parts.1.customLabel>右胫骨</TM_HollowGolem.corePart.parts.7.parts.1.parts.1.customLabel>
+  <!--EN: right foot-->
+  <TM_HollowGolem.corePart.parts.7.parts.1.parts.2.customLabel>右脚</TM_HollowGolem.corePart.parts.7.parts.1.parts.2.customLabel>
+  <!--EN: hollow_golem-->
+  <TM_HollowGolem.label>空洞傀儡</TM_HollowGolem.label>
+  <!--EN: left eye-->
+  <TM_MaharalGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>左眼</TM_MaharalGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>
+  <!--EN: right eye-->
+  <TM_MaharalGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>右眼</TM_MaharalGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>
+  <!--EN: left shoulder-->
+  <TM_MaharalGolem.corePart.parts.4.customLabel>左肩</TM_MaharalGolem.corePart.parts.4.customLabel>
+  <!--EN: left arm-->
+  <TM_MaharalGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_MaharalGolem.corePart.parts.4.parts.0.customLabel>
+  <!--EN: left hand-->
+  <TM_MaharalGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_MaharalGolem.corePart.parts.4.parts.0.parts.0.customLabel>
+  <!--EN: right shoulder-->
+  <TM_MaharalGolem.corePart.parts.5.customLabel>右肩</TM_MaharalGolem.corePart.parts.5.customLabel>
+  <!--EN: right arm-->
+  <TM_MaharalGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_MaharalGolem.corePart.parts.5.parts.0.customLabel>
+  <!--EN: right hand-->
+  <TM_MaharalGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_MaharalGolem.corePart.parts.5.parts.0.parts.0.customLabel>
+  <!--EN: left leg-->
+  <TM_MaharalGolem.corePart.parts.6.parts.0.customLabel>左腿</TM_MaharalGolem.corePart.parts.6.parts.0.customLabel>
+  <!--EN: left foot-->
+  <TM_MaharalGolem.corePart.parts.6.parts.0.parts.0.customLabel>左脚</TM_MaharalGolem.corePart.parts.6.parts.0.parts.0.customLabel>
+  <!--EN: right leg-->
+  <TM_MaharalGolem.corePart.parts.6.parts.1.customLabel>右腿</TM_MaharalGolem.corePart.parts.6.parts.1.customLabel>
+  <!--EN: right foot-->
+  <TM_MaharalGolem.corePart.parts.6.parts.1.parts.0.customLabel>右脚</TM_MaharalGolem.corePart.parts.6.parts.1.parts.0.customLabel>
+  <!--EN: maharal_golem-->
+  <TM_MaharalGolem.label>马哈拉尔傀儡</TM_MaharalGolem.label>
+  <!--EN: mecha-golem-->
+  <TM_Mecha.Golem.label>机械傀儡</TM_Mecha.Golem.label>
+  <!--EN: front left leg-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.10.customLabel>左前腿</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.10.customLabel>
+  <!--EN: front left paw-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.10.parts.0.customLabel>左前爪</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.10.parts.0.customLabel>
+  <!--EN: front right leg-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.11.customLabel>右前腿</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.11.customLabel>
+  <!--EN: front right paw-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.11.parts.0.customLabel>右前爪</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.11.parts.0.customLabel>
+  <!--EN: rear left leg-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.12.customLabel>左后腿</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.12.customLabel>
+  <!--EN: rear left paw-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.12.parts.0.customLabel>左后爪</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.12.parts.0.customLabel>
+  <!--EN: rear right leg-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.13.customLabel>右后腿</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.13.customLabel>
+  <!--EN: rear right paw-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.13.parts.0.customLabel>右后爪</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.13.parts.0.customLabel>
+  <!--EN: left lung-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.4.customLabel>左肺</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.4.customLabel>
+  <!--EN: right lung-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.5.customLabel>右肺</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.5.customLabel>
+  <!--EN: left kidney-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.6.customLabel>左肾</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.6.customLabel>
+  <!--EN: right kidney-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.7.customLabel>右肾</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.7.customLabel>
+  <!--EN: left eye-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.1.customLabel>左眼</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.1.customLabel>
+  <!--EN: right eye-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.2.customLabel>右眼</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.2.customLabel>
+  <!--EN: left ear-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.3.customLabel>左耳</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.3.customLabel>
+  <!--EN: right ear-->
+  <TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.4.customLabel>右耳</TM_QuadrupedAnimalWithPawsAndTail.corePart.parts.9.parts.0.parts.4.customLabel>
+  <!--EN: quadruped animal-->
+  <TM_QuadrupedAnimalWithPawsAndTail.label>四足动物</TM_QuadrupedAnimalWithPawsAndTail.label>
+  <!--EN: left eye-->
+  <TM_SilkGolem.corePart.parts.3.parts.0.parts.2.customLabel>左眼</TM_SilkGolem.corePart.parts.3.parts.0.parts.2.customLabel>
+  <!--EN: right eye-->
+  <TM_SilkGolem.corePart.parts.3.parts.0.parts.3.customLabel>右眼</TM_SilkGolem.corePart.parts.3.parts.0.parts.3.customLabel>
+  <!--EN: left ear-->
+  <TM_SilkGolem.corePart.parts.3.parts.0.parts.4.customLabel>左耳</TM_SilkGolem.corePart.parts.3.parts.0.parts.4.customLabel>
+  <!--EN: right ear-->
+  <TM_SilkGolem.corePart.parts.3.parts.0.parts.5.customLabel>右耳朵</TM_SilkGolem.corePart.parts.3.parts.0.parts.5.customLabel>
+  <!--EN: left shoulder-->
+  <TM_SilkGolem.corePart.parts.4.customLabel>左肩</TM_SilkGolem.corePart.parts.4.customLabel>
+  <!--EN: left arm-->
+  <TM_SilkGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_SilkGolem.corePart.parts.4.parts.0.customLabel>
+  <!--EN: left hand-->
+  <TM_SilkGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_SilkGolem.corePart.parts.4.parts.0.parts.0.customLabel>
+  <!--EN: right shoulder-->
+  <TM_SilkGolem.corePart.parts.5.customLabel>右肩</TM_SilkGolem.corePart.parts.5.customLabel>
+  <!--EN: right arm-->
+  <TM_SilkGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_SilkGolem.corePart.parts.5.parts.0.customLabel>
+  <!--EN: right hand-->
+  <TM_SilkGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_SilkGolem.corePart.parts.5.parts.0.parts.0.customLabel>
+  <!--EN: left leg-->
+  <TM_SilkGolem.corePart.parts.6.parts.0.customLabel>左腿</TM_SilkGolem.corePart.parts.6.parts.0.customLabel>
+  <!--EN: left foot-->
+  <TM_SilkGolem.corePart.parts.6.parts.0.parts.0.customLabel>左脚</TM_SilkGolem.corePart.parts.6.parts.0.parts.0.customLabel>
+  <!--EN: right leg-->
+  <TM_SilkGolem.corePart.parts.6.parts.1.customLabel>右腿</TM_SilkGolem.corePart.parts.6.parts.1.customLabel>
+  <!--EN: right foot-->
+  <TM_SilkGolem.corePart.parts.6.parts.1.parts.0.customLabel>右脚</TM_SilkGolem.corePart.parts.6.parts.1.parts.0.customLabel>
+  <!--EN: silk_golem-->
+  <TM_SilkGolem.label>丝绸傀儡</TM_SilkGolem.label>
+  <!--EN: ribcage-->
+  <TM_Skeletal.corePart.customLabel>胸腔</TM_Skeletal.corePart.customLabel>
+  <!--EN: neck bones-->
+  <TM_Skeletal.corePart.parts.1.customLabel>颈骨</TM_Skeletal.corePart.parts.1.customLabel>
+  <!--EN: skull-->
+  <TM_Skeletal.corePart.parts.1.parts.0.customLabel>头骨</TM_Skeletal.corePart.parts.1.parts.0.customLabel>
+  <!--EN: jaw-->
+  <TM_Skeletal.corePart.parts.1.parts.0.parts.0.customLabel>下巴</TM_Skeletal.corePart.parts.1.parts.0.parts.0.customLabel>
+  <!--EN: left shoulder-->
+  <TM_Skeletal.corePart.parts.2.customLabel>左肩</TM_Skeletal.corePart.parts.2.customLabel>
+  <!--EN: left clavicle-->
+  <TM_Skeletal.corePart.parts.2.parts.0.customLabel>左锁骨</TM_Skeletal.corePart.parts.2.parts.0.customLabel>
+  <!--EN: left arm area-->
+  <TM_Skeletal.corePart.parts.2.parts.1.customLabel>左臂区域</TM_Skeletal.corePart.parts.2.parts.1.customLabel>
+  <!--EN: left humerus-->
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.0.customLabel>左肱骨</TM_Skeletal.corePart.parts.2.parts.1.parts.0.customLabel>
+  <!--EN: left radius-->
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.1.customLabel>左半径</TM_Skeletal.corePart.parts.2.parts.1.parts.1.customLabel>
+  <!--EN: left hand bones-->
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.2.customLabel>左手骨骼</TM_Skeletal.corePart.parts.2.parts.1.parts.2.customLabel>
+  <!--EN: left pinky bone-->
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.0.customLabel>左小指骨</TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.0.customLabel>
+  <!--EN: left ring finger bone-->
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.1.customLabel>左无名指骨头</TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.1.customLabel>
+  <!--EN: left middle finger bone-->
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.2.customLabel>左中指骨头</TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.2.customLabel>
+  <!--EN: left index finger bone-->
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.3.customLabel>左食指骨头</TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.3.customLabel>
+  <!--EN: left thumb bone-->
+  <TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.4.customLabel>左拇指骨</TM_Skeletal.corePart.parts.2.parts.1.parts.2.parts.4.customLabel>
+  <!--EN: right shoulder-->
+  <TM_Skeletal.corePart.parts.3.customLabel>右肩</TM_Skeletal.corePart.parts.3.customLabel>
+  <!--EN: right clavicle-->
+  <TM_Skeletal.corePart.parts.3.parts.0.customLabel>右锁骨</TM_Skeletal.corePart.parts.3.parts.0.customLabel>
+  <!--EN: right arm area-->
+  <TM_Skeletal.corePart.parts.3.parts.1.customLabel>右臂区域</TM_Skeletal.corePart.parts.3.parts.1.customLabel>
+  <!--EN: right humerus-->
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.0.customLabel>右肱骨</TM_Skeletal.corePart.parts.3.parts.1.parts.0.customLabel>
+  <!--EN: right radius-->
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.1.customLabel>右半径</TM_Skeletal.corePart.parts.3.parts.1.parts.1.customLabel>
+  <!--EN: right hand bones-->
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.2.customLabel>右手骨骼</TM_Skeletal.corePart.parts.3.parts.1.parts.2.customLabel>
+  <!--EN: right pinky bone-->
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.0.customLabel>右小指骨</TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.0.customLabel>
+  <!--EN: right ring finger bone-->
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.1.customLabel>右手无名指骨头</TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.1.customLabel>
+  <!--EN: right middle finger bone-->
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.2.customLabel>右手中指骨头</TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.2.customLabel>
+  <!--EN: right index finger bone-->
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.3.customLabel>右手食指骨头</TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.3.customLabel>
+  <!--EN: right thumb bone-->
+  <TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.4.customLabel>右手拇指骨</TM_Skeletal.corePart.parts.3.parts.1.parts.2.parts.4.customLabel>
+  <!--EN: left leg-->
+  <TM_Skeletal.corePart.parts.4.customLabel>左腿</TM_Skeletal.corePart.parts.4.customLabel>
+  <!--EN: left femur-->
+  <TM_Skeletal.corePart.parts.4.parts.0.customLabel>左股骨</TM_Skeletal.corePart.parts.4.parts.0.customLabel>
+  <!--EN: left tibia-->
+  <TM_Skeletal.corePart.parts.4.parts.1.customLabel>左胫骨</TM_Skeletal.corePart.parts.4.parts.1.customLabel>
+  <!--EN: left foot bones-->
+  <TM_Skeletal.corePart.parts.4.parts.2.customLabel>左脚骨骼</TM_Skeletal.corePart.parts.4.parts.2.customLabel>
+  <!--EN: left little toe bone-->
+  <TM_Skeletal.corePart.parts.4.parts.2.parts.0.customLabel>左小脚趾骨</TM_Skeletal.corePart.parts.4.parts.2.parts.0.customLabel>
+  <!--EN: left fourth toe bone-->
+  <TM_Skeletal.corePart.parts.4.parts.2.parts.1.customLabel>左第四趾骨</TM_Skeletal.corePart.parts.4.parts.2.parts.1.customLabel>
+  <!--EN: left middle toe bone-->
+  <TM_Skeletal.corePart.parts.4.parts.2.parts.2.customLabel>左中脚趾骨</TM_Skeletal.corePart.parts.4.parts.2.parts.2.customLabel>
+  <!--EN: left second toe bone-->
+  <TM_Skeletal.corePart.parts.4.parts.2.parts.3.customLabel>左第二脚趾骨</TM_Skeletal.corePart.parts.4.parts.2.parts.3.customLabel>
+  <!--EN: left big toe bone-->
+  <TM_Skeletal.corePart.parts.4.parts.2.parts.4.customLabel>左大脚趾骨</TM_Skeletal.corePart.parts.4.parts.2.parts.4.customLabel>
+  <!--EN: right leg-->
+  <TM_Skeletal.corePart.parts.5.customLabel>右腿</TM_Skeletal.corePart.parts.5.customLabel>
+  <!--EN: right femur-->
+  <TM_Skeletal.corePart.parts.5.parts.0.customLabel>右股骨</TM_Skeletal.corePart.parts.5.parts.0.customLabel>
+  <!--EN: right tibia-->
+  <TM_Skeletal.corePart.parts.5.parts.1.customLabel>右胫骨</TM_Skeletal.corePart.parts.5.parts.1.customLabel>
+  <!--EN: right foot bones-->
+  <TM_Skeletal.corePart.parts.5.parts.2.customLabel>右脚骨骼</TM_Skeletal.corePart.parts.5.parts.2.customLabel>
+  <!--EN: right little toe bone-->
+  <TM_Skeletal.corePart.parts.5.parts.2.parts.0.customLabel>右小脚趾骨</TM_Skeletal.corePart.parts.5.parts.2.parts.0.customLabel>
+  <!--EN: right fourth toe bone-->
+  <TM_Skeletal.corePart.parts.5.parts.2.parts.1.customLabel>右第四趾骨</TM_Skeletal.corePart.parts.5.parts.2.parts.1.customLabel>
+  <!--EN: right middle toe bone-->
+  <TM_Skeletal.corePart.parts.5.parts.2.parts.2.customLabel>右中脚趾骨</TM_Skeletal.corePart.parts.5.parts.2.parts.2.customLabel>
+  <!--EN: right second toe bone-->
+  <TM_Skeletal.corePart.parts.5.parts.2.parts.3.customLabel>右第二脚趾骨</TM_Skeletal.corePart.parts.5.parts.2.parts.3.customLabel>
+  <!--EN: right big toe bone-->
+  <TM_Skeletal.corePart.parts.5.parts.2.parts.4.customLabel>右大脚趾骨</TM_Skeletal.corePart.parts.5.parts.2.parts.4.customLabel>
+  <!--EN: skeletal-->
+  <TM_Skeletal.label>骷髅</TM_Skeletal.label>
+  <!--EN: left eye-->
+  <TM_StoneGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>左眼</TM_StoneGolem.corePart.parts.3.parts.0.parts.1.parts.0.customLabel>
+  <!--EN: right eye-->
+  <TM_StoneGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>右眼</TM_StoneGolem.corePart.parts.3.parts.0.parts.1.parts.1.customLabel>
+  <!--EN: left shoulder-->
+  <TM_StoneGolem.corePart.parts.4.customLabel>左肩</TM_StoneGolem.corePart.parts.4.customLabel>
+  <!--EN: left arm-->
+  <TM_StoneGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_StoneGolem.corePart.parts.4.parts.0.customLabel>
+  <!--EN: left hand-->
+  <TM_StoneGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_StoneGolem.corePart.parts.4.parts.0.parts.0.customLabel>
+  <!--EN: right shoulder-->
+  <TM_StoneGolem.corePart.parts.5.customLabel>右肩</TM_StoneGolem.corePart.parts.5.customLabel>
+  <!--EN: right arm-->
+  <TM_StoneGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_StoneGolem.corePart.parts.5.parts.0.customLabel>
+  <!--EN: right hand-->
+  <TM_StoneGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_StoneGolem.corePart.parts.5.parts.0.parts.0.customLabel>
+  <!--EN: left leg-->
+  <TM_StoneGolem.corePart.parts.6.parts.0.customLabel>左腿</TM_StoneGolem.corePart.parts.6.parts.0.customLabel>
+  <!--EN: left foot-->
+  <TM_StoneGolem.corePart.parts.6.parts.0.parts.0.customLabel>左脚</TM_StoneGolem.corePart.parts.6.parts.0.parts.0.customLabel>
+  <!--EN: right leg-->
+  <TM_StoneGolem.corePart.parts.6.parts.1.customLabel>右腿</TM_StoneGolem.corePart.parts.6.parts.1.customLabel>
+  <!--EN: right foot-->
+  <TM_StoneGolem.corePart.parts.6.parts.1.parts.0.customLabel>右脚</TM_StoneGolem.corePart.parts.6.parts.1.parts.0.customLabel>
+  <!--EN: stone_golem-->
+  <TM_StoneGolem.label>巨岩傀儡</TM_StoneGolem.label>
+  <!--EN: left shoulder-->
+  <TM_StrawGolem.corePart.parts.4.customLabel>左肩</TM_StrawGolem.corePart.parts.4.customLabel>
+  <!--EN: left arm-->
+  <TM_StrawGolem.corePart.parts.4.parts.0.customLabel>左臂</TM_StrawGolem.corePart.parts.4.parts.0.customLabel>
+  <!--EN: left hand-->
+  <TM_StrawGolem.corePart.parts.4.parts.0.parts.0.customLabel>左手</TM_StrawGolem.corePart.parts.4.parts.0.parts.0.customLabel>
+  <!--EN: right shoulder-->
+  <TM_StrawGolem.corePart.parts.5.customLabel>右肩</TM_StrawGolem.corePart.parts.5.customLabel>
+  <!--EN: right arm-->
+  <TM_StrawGolem.corePart.parts.5.parts.0.customLabel>右臂</TM_StrawGolem.corePart.parts.5.parts.0.customLabel>
+  <!--EN: right hand-->
+  <TM_StrawGolem.corePart.parts.5.parts.0.parts.0.customLabel>右手</TM_StrawGolem.corePart.parts.5.parts.0.parts.0.customLabel>
+  <!--EN: left leg-->
+  <TM_StrawGolem.corePart.parts.6.parts.0.customLabel>左腿</TM_StrawGolem.corePart.parts.6.parts.0.customLabel>
+  <!--EN: left foot-->
+  <TM_StrawGolem.corePart.parts.6.parts.0.parts.0.customLabel>左脚</TM_StrawGolem.corePart.parts.6.parts.0.parts.0.customLabel>
+  <!--EN: right leg-->
+  <TM_StrawGolem.corePart.parts.6.parts.1.customLabel>右腿</TM_StrawGolem.corePart.parts.6.parts.1.customLabel>
+  <!--EN: right foot-->
+  <TM_StrawGolem.corePart.parts.6.parts.1.parts.0.customLabel>右脚</TM_StrawGolem.corePart.parts.6.parts.1.parts.0.customLabel>
+  <!--EN: straw_golem-->
+  <TM_StrawGolem.label>稻草傀儡</TM_StrawGolem.label>
+  <!--EN: wood_golem-->
+  <TM_WoodGolem.label>木傀儡</TM_WoodGolem.label>
+</LanguageData>

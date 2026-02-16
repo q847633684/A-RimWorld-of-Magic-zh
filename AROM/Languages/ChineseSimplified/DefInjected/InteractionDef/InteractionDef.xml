@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: entertained-->
+  <TM_EntertainAuraID.label>款待</TM_EntertainAuraID.label>
+  <TM_EntertainAuraID.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Had an entertaining chat with [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;与 [RECIPIENT_nameDef] 进行愉快交流.</li>
+  </TM_EntertainAuraID.logRulesInitiator.rulesStrings>
+  <TM_EntertainAuraID.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Had an entertaining chat with [INITIATOR_nameDef].-->
+    <li>r_logentry-&gt;与 [INITIATOR_nameDef] 进行愉快交流.</li>
+  </TM_EntertainAuraID.logRulesRecipient.rulesStrings>
+  <!--EN: entertained-->
+  <TM_EntertainID.label>款待</TM_EntertainID.label>
+  <TM_EntertainID.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Entertained [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;款待 [RECIPIENT_nameDef].</li>
+  </TM_EntertainID.logRulesInitiator.rulesStrings>
+  <TM_EntertainID.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Was entertained by [INITIATOR_nameDef].-->
+    <li>r_logentry-&gt;受到 [INITIATOR_nameDef] 款待.</li>
+  </TM_EntertainID.logRulesRecipient.rulesStrings>
+  <!--EN: discussed magic theories and practices-->
+  <TM_MagicLore.label>谈论魔法理论与实践</TM_MagicLore.label>
+  <TM_MagicLore.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Mentored [RECIPIENT_nameDef] in magic.-->
+    <li>r_logentry-&gt;辅导 [RECIPIENT_nameDef] 魔法知识.</li>
+  </TM_MagicLore.logRulesInitiator.rulesStrings>
+  <TM_MagicLore.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Learned magic theories from [INITIATOR_nameDef].-->
+    <li>r_logentry-&gt;跟随 [INITIATOR_nameDef] 学习魔法理论.</li>
+  </TM_MagicLore.logRulesRecipient.rulesStrings>
+  <!--EN: discussed combat techniques-->
+  <TM_MightLore.label>谈论战斗技巧</TM_MightLore.label>
+  <TM_MightLore.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Taught combat techniques to [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;传授 [RECIPIENT_nameDef] 战斗技巧.</li>
+  </TM_MightLore.logRulesInitiator.rulesStrings>
+  <TM_MightLore.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Trained in combat by [INITIATOR_nameDef].-->
+    <li>r_logentry-&gt;跟随 [INITIATOR_nameDef] 学习战斗技巧.</li>
+  </TM_MightLore.logRulesRecipient.rulesStrings>
+  <!--EN: bestow magic speech-->
+  <TM_Speech_BestowMagic.label>施放魔法仪式</TM_Speech_BestowMagic.label>
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->[INITIATOR_nameDef] [praised] [doing] [speechtopic].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [praised] [doing] [speechtopic].</li>
+    <!--EN: r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].-->
+    <li>r_logentry(p=0.2)-&gt;[INITIATOR_nameDef] [crazy].</li>
+    <!--EN: speechtopic->magic-->
+    <li>speechtopic-&gt;魔法</li>
+    <!--EN: speechtopic->peace through power-->
+    <li>speechtopic-&gt;通过权力和平</li>
+    <!--EN: speechtopic->mages-->
+    <li>speechtopic-&gt;法师</li>
+    <!--EN: speechtopic->order-->
+    <li>speechtopic-&gt;混乱</li>
+    <!--EN: speechtopic->the power to protect-->
+    <li>speechtopic-&gt;权力的诱惑</li>
+    <!--EN: speechtopic->magic and mages-->
+    <li>speechtopic-&gt;魔术和法师</li>
+    <!--EN: speechtopic->the blessings of magic-->
+    <li>speechtopic-&gt;魔术的祝福</li>
+    <!--EN: speechtopic->the next stage in human evolution-->
+    <li>speechtopic-&gt;人类进化的下一个阶段</li>
+    <!--EN: crazy->roared in victory-->
+    <li>crazy-&gt;赢得胜利</li>
+    <!--EN: crazy->broke into a chant-->
+    <li>crazy-&gt;大声吟唱</li>
+    <!--EN: crazy->chanted towards the heavens-->
+    <li>crazy-&gt;向天高喊</li>
+    <!--EN: crazy->placed a hand of assurance on the mage-->
+    <li>crazy-&gt;将保证之手放在法师身上</li>
+    <!--EN: crazy->smiled heroically-->
+    <li>crazy-&gt;英勇地微笑着</li>
+    <!--EN: crazy->brandished a staff-->
+    <li>crazy-&gt;挥舞着权杖</li>
+    <!--EN: crazy->murmured a mantra-->
+    <li>crazy-&gt;低声念叨着一句咒语</li>
+    <!--EN: crazy->offered a benediction-->
+    <li>crazy-&gt;提供了祝福</li>
+    <!--EN: crazy->reached towards the heavens-->
+    <li>crazy-&gt;伸向天堂</li>
+    <!--EN: doing->achieving-->
+    <li>doing-&gt;实现</li>
+    <!--EN: doing->learning-->
+    <li>doing-&gt;学习</li>
+    <!--EN: doing->understanding-->
+    <li>doing-&gt;理解</li>
+    <!--EN: doing->using-->
+    <li>doing-&gt;使用</li>
+    <!--EN: doing->protecting-->
+    <li>doing-&gt;保护</li>
+    <!--EN: doing->releasing-->
+    <li>doing-&gt;释放</li>
+    <!--EN: doing->supporting-->
+    <li>doing-&gt;支持</li>
+    <!--EN: doing->gaining-->
+    <li>doing-&gt;取得</li>
+  </TM_Speech_BestowMagic.logRulesInitiator.rulesStrings>
+  <!--EN: sever magic speech-->
+  <TM_Speech_SeverMagic.label>中断魔法仪式</TM_Speech_SeverMagic.label>
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->[INITIATOR_nameDef] [praised] [doing] [speechtopic].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [praised] [doing] [speechtopic].</li>
+    <!--EN: r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].-->
+    <li>r_logentry(p=0.2)-&gt;[INITIATOR_nameDef] [crazy].</li>
+    <!--EN: speechtopic->magic-->
+    <li>speechtopic-&gt;魔法</li>
+    <!--EN: speechtopic->peace through power-->
+    <li>speechtopic-&gt;通过权力和平</li>
+    <!--EN: speechtopic->mages-->
+    <li>speechtopic-&gt;法师</li>
+    <!--EN: speechtopic->chaos-->
+    <li>speechtopic-&gt;混乱</li>
+    <!--EN: speechtopic->the temptation of power-->
+    <li>speechtopic-&gt;权力的诱惑</li>
+    <!--EN: speechtopic->magic and mages-->
+    <li>speechtopic-&gt;魔术和法师</li>
+    <!--EN: speechtopic->the seduction of magic-->
+    <li>speechtopic-&gt;魔法的诱惑</li>
+    <!--EN: speechtopic->an errant bio-genetic cancer-->
+    <li>speechtopic-&gt;错误的生物基因癌</li>
+    <!--EN: crazy->screamed maniacally-->
+    <li>crazy-&gt;疯狂地尖叫</li>
+    <!--EN: crazy->broke into a chant-->
+    <li>crazy-&gt;大声吟唱</li>
+    <!--EN: crazy->chanted towards the heavens-->
+    <li>crazy-&gt;朝着天高呼</li>
+    <!--EN: crazy->spat in the mage's eye-->
+    <li>crazy-&gt;向法师的眼睛吐口水</li>
+    <!--EN: crazy->cackled-->
+    <li>crazy-&gt;咯咯地笑</li>
+    <!--EN: crazy->brandished a blade-->
+    <li>crazy-&gt;挥舞着刀片</li>
+    <!--EN: crazy->muttered repetitively-->
+    <li>crazy-&gt;重复喃喃自语</li>
+    <!--EN: crazy->screamed in defiance-->
+    <li>crazy-&gt;无视尖叫</li>
+    <!--EN: crazy->spasmed uncontrollably-->
+    <li>crazy-&gt;无法控制地痉挛</li>
+    <!--EN: doing->controlling-->
+    <li>doing-&gt;控制</li>
+    <!--EN: doing->balancing-->
+    <li>doing-&gt;平衡</li>
+    <!--EN: doing->sacrificing-->
+    <li>doing-&gt;牺牲</li>
+    <!--EN: doing->removing the temptation-->
+    <li>doing-&gt;消除诱惑</li>
+    <!--EN: doing->manipulating-->
+    <li>doing-&gt;操纵</li>
+    <!--EN: doing->freeing-->
+    <li>doing-&gt;释放</li>
+    <!--EN: doing->standing firm against-->
+    <li>doing-&gt;坚定地反对</li>
+    <!--EN: doing->rejecting-->
+    <li>doing-&gt;拒绝</li>
+  </TM_Speech_SeverMagic.logRulesInitiator.rulesStrings>
+</LanguageData>

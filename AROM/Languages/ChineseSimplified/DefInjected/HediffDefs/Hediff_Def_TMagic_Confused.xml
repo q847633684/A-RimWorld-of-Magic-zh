@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Frequently causes a target to become confused.-->
-  <TM_Confused.description>使目标变得混乱。</TM_Confused.description>
-  <!--EN: Confused-->
-  <TM_Confused.label>混乱</TM_Confused.label>
-  <!--EN: Wandering confused-->
-  <TM_Confused.stages.0.label>彷徨</TM_Confused.stages.0.label>
-</LanguageData>
