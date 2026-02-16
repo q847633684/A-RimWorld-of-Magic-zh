@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--原中文: '被释放', 原英文: '无' -> 新英文: 'freed from pitboss',更新于2026-02-14-->
-  <!--EN: freed from pitboss-->
-  <TM_MinionAlways.stages.0.label>被释放</TM_MinionAlways.stages.0.label>
-  <!--原中文: '终于自由了... 现在让我来放松一下！', 原英文: '无' -> 新英文: 'Finally free of my harsh taskmaster... now to relax a little.',更新于2026-02-14-->
-  <!--EN: Finally free of my harsh taskmaster... now to relax a little.-->
-  <TM_MinionAlways.stages.0.description>终于自由了... 现在让我来放松一下！</TM_MinionAlways.stages.0.description>
-</LanguageData>

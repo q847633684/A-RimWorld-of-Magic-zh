@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--原中文: '符文雕刻技能', 原英文: '无' -> 新英文: 'rune carving skill',更新于2026-02-14-->
-  <!--EN: rune carving skill-->
-  <TM_RuneCarvingEfficiency.label>符文雕刻技能</TM_RuneCarvingEfficiency.label>
-  <!--原中文: '成功将符文刻在身体部位的概率。', 原英文: '无' -> 新英文: 'The chance to carve runes onto bodyparts successfully.',更新于2026-02-14-->
-  <!--EN: The chance to carve runes onto bodyparts successfully.-->
-  <TM_RuneCarvingEfficiency.description>成功将符文刻在身体部位的概率。</TM_RuneCarvingEfficiency.description>
-</LanguageData>

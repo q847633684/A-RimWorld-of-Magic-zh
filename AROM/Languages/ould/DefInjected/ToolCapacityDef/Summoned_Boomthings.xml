@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!-- poppi special attack -->
-  <!--原中文: '蜷伏', 原英文: '无' -> 新英文: 'snuggling',更新于2026-02-14-->
-  <!--EN: snuggling-->
-  <Snuggle.label>蜷伏</Snuggle.label>
-</LanguageData>

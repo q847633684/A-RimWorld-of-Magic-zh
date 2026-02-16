@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--原中文: '启发', 原英文: '无' -> 新英文: 'Enlightened',更新于2026-02-14-->
-  <!--EN: Enlightened-->
-  <TM_EnlightenedHD.label>启发</TM_EnlightenedHD.label>
-  <!--原中文: '由于灵感的启发，意识增强了。', 原英文: '无' -> 新英文: 'Consciousness increased as a result of inspirational enlightenment.',更新于2026-02-14-->
-  <!--EN: Consciousness increased as a result of inspirational enlightenment.-->
-  <TM_EnlightenedHD.description>由于灵感的启发，意识增强了。</TM_EnlightenedHD.description>
-</LanguageData>

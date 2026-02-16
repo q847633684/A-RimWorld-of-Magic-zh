@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--原中文: '治愈之雨', 原英文: '无' -> 新英文: 'healing rain',更新于2026-02-14-->
-  <!--EN: healing rain-->
-  <TM_HealingRainTD.stages.0.label>治愈之雨</TM_HealingRainTD.stages.0.label>
-  <!--原中文: '我的痛苦正在被洗去。', 原英文: '无' -> 新英文: 'My pain is being washed away.',更新于2026-02-14-->
-  <!--EN: My pain is being washed away.-->
-  <TM_HealingRainTD.stages.0.description>我的痛苦正在被洗去。</TM_HealingRainTD.stages.0.description>
-</LanguageData>

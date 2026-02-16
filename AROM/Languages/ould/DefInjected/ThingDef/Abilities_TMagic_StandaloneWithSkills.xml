@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!-- Explosion! -->
-  <!--原中文: '爆炸', 原英文: '无' -> 新英文: 'explosion',更新于2026-02-14-->
-  <!--EN: explosion-->
-  <Projectile_Explosion.label>爆炸</Projectile_Explosion.label>
-</LanguageData>

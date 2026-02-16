@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--原中文: '运输光线', 原英文: '无' -> 新英文: 'transport beam',更新于2026-02-14-->
-  <!--EN: transport beam-->
-  <TM_TravelingTransportLightBeam.label>运输光线</TM_TravelingTransportLightBeam.label>
-  <!--原中文: '运输光线在飞行中。', 原英文: '无' -> 新英文: 'Transport pods in flight.',更新于2026-02-14-->
-  <!--EN: Transport pods in flight.-->
-  <TM_TravelingTransportLightBeam.description>运输光线在飞行中。</TM_TravelingTransportLightBeam.description>
-</LanguageData>

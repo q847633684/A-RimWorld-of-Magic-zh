@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!-- demon special attack manuevers -->
-  <!--原中文: '爪掠', 原英文: '无' -> 新英文: 'claw rake',更新于2026-02-14-->
-  <!--EN: claw rake-->
-  <TM_ClawSweep.label>爪掠</TM_ClawSweep.label>
-</LanguageData>

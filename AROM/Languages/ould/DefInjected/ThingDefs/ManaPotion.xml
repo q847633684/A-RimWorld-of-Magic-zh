@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--翻译内容: 'Ugh... everything is a blur. I can't seem to focus or control my body, I feel separated from reality. I need to feel mana flowing into my soul.',新增于2026-02-14-->
-  <!--EN: Ugh... everything is a blur. I can't seem to focus or control my body, I feel separated from reality. I need to feel mana flowing into my soul.-->
-  <ManaPotionWithdrawal.stages.1.description>呃……一切都很模糊。我似乎无法集中精神或控制身体，感觉脱离了现实。我需要感受魔力流入我的灵魂。</ManaPotionWithdrawal.stages.1.description>
-  <!--翻译内容: 'mana withdrawal',新增于2026-02-14-->
-  <!--EN: mana withdrawal-->
-  <ManaPotionWithdrawal.stages.1.label>魔力戒断</ManaPotionWithdrawal.stages.1.label>
-</LanguageData>

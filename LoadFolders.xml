@@ -2,5 +2,6 @@
 <loadFolders>
   <v1.6>
     <li  IfModActive="torann.arimworldofmagic">AROM</li>
+    <li  IfModActive="zal.jecsliterwom">JAROM</li>
   </v1.6>
 </loadFolders>

@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!-- Mana potion addiction -->
-  <!--原中文: '魔法药剂', 原英文: '无' -> 新英文: 'mana potion',更新于2026-02-14-->
-  <!--EN: mana potion-->
-  <ManaPotion.label>魔法药剂</ManaPotion.label>
-</LanguageData>
