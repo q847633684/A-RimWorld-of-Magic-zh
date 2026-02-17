@@ -191,7 +191,7 @@ Ability Damage: +20%-->
   <!--EN: elemental shot - lightning-->
   <Bullet_ES_Lit.label>元素射击-闪电</Bullet_ES_Lit.label>
   <!--EN: Mark-IV round-->
-  <Bullet_Mark.IV.label>Mark-IV子弹</Bullet_Mark.IV.label>
+  <Bullet_Mark-IV.label>Mark-IV子弹</Bullet_Mark-IV.label>
   <!--EN: HE shell-->
   <Bullet_Shell_TechnoTurretExplosive.label>氦壳</Bullet_Shell_TechnoTurretExplosive.label>
   <!--EN: Robes worn by the heralds of magic. Wearers of this robe demonstrate a willingness to make physical sacrifices to increase their innate power.
@@ -308,9 +308,9 @@ Augmented by Phantom Shift: 20% chance to avoid an attack-->
   <!--EN: Gem of Physical Insight-->
   <GemstoneOfInsight_Might.label>战士洞察宝石</GemstoneOfInsight_Might.label>
   <!--EN: Mark-IV weapon system barrel and firing controls.-->
-  <Gun_Mark.IV.description>Mark-IV 武器系统枪管和射击控制。</Gun_Mark.IV.description>
+  <Gun_Mark-IV.description>Mark-IV 武器系统枪管和射击控制。</Gun_Mark-IV.description>
   <!--EN: Mark-IV weapon system-->
-  <Gun_Mark.IV.label>Mark-IV武器系统</Gun_Mark.IV.label>
+  <Gun_Mark-IV.label>Mark-IV武器系统</Gun_Mark-IV.label>
   <!--EN: A dark cowl that has a reputation of being cursed, though its magical properties are undeniable. Those who don this hood gain the ability to see manifestations of arcane energy and learn things they otherwise wouldn't. The hood's appearance and fear of revealed secrets lead most to distrust those who wear this hood. Likewise, those who see through the eyes of this hood begin to distrust those around them.
 
 The Hood of Madness is enchanted and provides additional benefits to trained mages and fighters:
@@ -342,7 +342,7 @@ Arcane Resistance: 30%-->
   <!--EN: energy focus point-->
   <Launcher_DefensePylon_III.label>能量焦点</Launcher_DefensePylon_III.label>
   <!--EN: Use {0_label}-->
-  <MagicArtifact_RerollSpiritBond.comps.2.useLabel>使用 {0_label}</MagicArtifact_RerollSpiritBond.comps.2.useLabel>
+  <MagicArtifact_RerollSpiritBond.comps.2.useLabel>Use {0_label}</MagicArtifact_RerollSpiritBond.comps.2.useLabel>
   <!--EN: This scroll may be used to change the shaman's spirit animal. The new bond will randomly select a new spirit type to bond.-->
   <MagicArtifact_RerollSpiritBond.description>这个卷轴可以用来改变精神契约。新的契约将随机选择一种新的守护之灵来绑定。</MagicArtifact_RerollSpiritBond.description>
   <!--EN: Scroll of Spirit Binding-->
@@ -1116,7 +1116,7 @@ Efficiency: 71%-->
   <!--EN: Arcane Capacitor-->
   <TM_ArcaneCapacitor.label>奥术电池</TM_ArcaneCapacitor.label>
   <!--EN: arrow storm-->
-  <TM_ArrowStorm.label>箭雨风暴</TM_ArrowStorm.label>
+  <TM_ArrowStorm.label>箭雨风暴（I）</TM_ArrowStorm.label>
   <!--EN: Bracers crafted into hardened material that allow the wearer to block physical attacks. 40% block chance.
 
 Enchantments:
@@ -1278,9 +1278,9 @@ Damage Boost: +40%-->
   <!--EN: staff head-->
   <TM_BlazingPowerStaff.tools.1.label>杖首</TM_BlazingPowerStaff.tools.1.label>
   <!--EN: Blizzard (large)-->
-  <TM_Blizzard_Large.label>冰系魔法</TM_Blizzard_Large.label>
+  <TM_Blizzard_Large.label>暴风雪 (大型)</TM_Blizzard_Large.label>
   <!--EN: blizzard(small)-->
-  <TM_Blizzard_Small.label>冰系魔法</TM_Blizzard_Small.label>
+  <TM_Blizzard_Small.label>暴风雪(小型)</TM_Blizzard_Small.label>
   <!--EN: blizzard(tiny)-->
   <TM_Blizzard_Tiny.label>暴风雪(微型)</TM_Blizzard_Tiny.label>
   <!--EN: A manual describes various combat techniques.-->
@@ -1288,7 +1288,7 @@ Damage Boost: +40%-->
   <!--EN: combat manual-->
   <TM_CombatManual.label>战斗手册</TM_CombatManual.label>
   <!--EN: An active dimensional tap into the Plane of Ice that can be used to cool confined spaces.-->
-  <TM_Cooler.description>大量的冰元素被束成一团。可以用来冷却有限的室内空间。</TM_Cooler.description>
+  <TM_Cooler.description>创造一个连接冰元素位面的容器，容器会一直散发寒气。法术的能量可以维持容器运作几天的时间。激活时减少25点最大MP。</TM_Cooler.description>
   <!--EN: magical cooler-->
   <TM_Cooler.label>魔法冷源</TM_Cooler.label>
   <!--EN: A two handed mace so heavily enchanted that it tears apart the cohesion of any material it strikes. It is forged seemingly from a single piece of metal and wielded from a handle wrapped in simple leather. Finely etched runes cover the surface of the mace, making it appear almost delicate. When held, the quality of the design is apparent, with perfect balance and solid handling despite the authoritative finality of its weight. Each blow has a chance to inflict frailty on the target, causing it to take more damage from subsequent attacks.
@@ -1626,11 +1626,11 @@ Damage Boost: +15%-->
   <!--EN: horn-->
   <TM_Fire_ElementalR.tools.2.label>角</TM_Fire_ElementalR.tools.2.label>
   <!--EN: firestorm (large)-->
-  <TM_Firestorm_Large.label>火系魔法</TM_Firestorm_Large.label>
+  <TM_Firestorm_Large.label>火系魔法 (大型)</TM_Firestorm_Large.label>
   <!--EN: firestorm (small)-->
-  <TM_Firestorm_Small.label>火系魔法</TM_Firestorm_Small.label>
+  <TM_Firestorm_Small.label>火系魔法 (小型)</TM_Firestorm_Small.label>
   <!--EN: firestorm (tiny)-->
-  <TM_Firestorm_Tiny.label>火系魔法</TM_Firestorm_Tiny.label>
+  <TM_Firestorm_Tiny.label>火系魔法 (微型)</TM_Firestorm_Tiny.label>
   <!--EN: A golem crafted from the flesh, bones and organs of other beings and given basic autonomy through a combination of bioengineering and magic.-->
   <TM_FleshGolem.description>一种由其他生物的肉、骨和器官制成的傀儡，通过生物工程和魔法的结合给予基本的自我意识。</TM_FleshGolem.description>
   <!--EN: flesh golem-->
@@ -1765,7 +1765,7 @@ If things get too tough for them or they get bored, they'll flee back to whereve
   <!--EN: Healing Totem-->
   <TM_HealingTotem.label>治疗图腾</TM_HealingTotem.label>
   <!--EN: An active dimensional tap into the Plane of Fire that can be used to heat confined spaces. Can also be used for various cooking or cremating tasks. Remains as long as it is sustained by a mage.-->
-  <TM_Heater.description>大量的火元素被束成一团，可以用来加热室内空间或烹饪简单食物。</TM_Heater.description>
+  <TM_Heater.description>创造一个连接火元素位面的容器，容器会一直散发热能。法术的能量可以维持容器运作几天的时间。激活时减少25点最大MP。</TM_Heater.description>
   <!--EN: magical heater-->
   <TM_Heater.label>魔法热源</TM_Heater.label>
   <!--EN: A golem crafted from condensed magic and arcane catalysts. The armor surrounding the hollow golem anchors the magic center to a physical location and to protect its physical integrity. The hollow golem is able to harness tremendous amounts of magical energy for a variety of purposes, making it one of the most flexible golems developed to date. The hollow golem absorbs magical energy from the atmosphere, much like paracyte, with mana reduction equivalent to 10 paracyte thorn bushes.-->
@@ -1944,7 +1944,7 @@ While dormant, the golem may be modified or upgraded. The maharal golem recharge
   <!--EN: dormant maharal golem-->
   <TM_MaharalGolem_Workstation.label>休眠的马哈拉尔傀儡</TM_MaharalGolem_Workstation.label>
   <!--EN: A powerful explosive created by compressing mana and matter. Tendrils of psychic power extend from the mine; when a victim disturbs the psychic strand, it collapses the containment field and detonates the mine.  2.4m explosive radius.-->
-  <TM_ManaMine.description>爆炸性地释放所含法力。</TM_ManaMine.description>
+  <TM_ManaMine.description>将魔力与物质压缩造成极强的爆炸. 心灵之蔓的力量会从地雷中扩展; 当一个受害者惊扰到这些心灵之蔓， 它将会瓦解领域内的一切并触发地雷。2.4米 爆炸半径。</TM_ManaMine.description>
   <!--EN: Mana Mine-->
   <TM_ManaMine.label>魔法地雷</TM_ManaMine.label>
   <!--EN: A powerful explosive created by compressing mana and matter. Tendrils of psychic power extend from the mine; when a victim disturbs the psychic strand, it collapses the containment field and detonates the mine.  2.9m explosive radius.-->
@@ -2108,9 +2108,9 @@ The fruit it produces, known more commonly as pomona, can be consumed raw and is
   <!--EN: pomanasyrrium bush-->
   <TM_Plant_Pomanasyrrium.label>波莫纳</TM_Plant_Pomanasyrrium.label>
   <!--EN: A trap created from sticks and twine, it blends seamlessly with the terrain to the untrained eye, but is scented to be an unmistakable warning to animals. Particles of druidic poison are discharged into the air when a victim triggers the trap. The poison is toxic and serves to both injure and disable the victim.-->
-  <TM_PoisonTrap.description>一个由刺和细绳组成的陷阱， 它可以完美地与地形贴合从而骗过未经训练的眼睛， 但是它的气味会给动物们一个明显的警告. 当一个受害者触发陷阱，德鲁伊之毒的粒子将会排放到空气中. 这种毒同时用来伤害和使受害者失去行动能力。</TM_PoisonTrap.description>
+  <TM_PoisonTrap.description>用树枝和细绳制作的陷阱，在未经训练的人眼中能与地形完美融合，但会散发出对动物而言清晰可辨的警告气味。当受害者触发陷阱时，德鲁伊毒素的微粒会释放到空气中。这种毒素具有毒性，既能伤害目标，也能使其丧失行动能力。</TM_PoisonTrap.description>
   <!--EN: Poison Trap-->
-  <TM_PoisonTrap.label>毒药陷阱</TM_PoisonTrap.label>
+  <TM_PoisonTrap.label>毒素陷阱</TM_PoisonTrap.label>
   <!--EN: Deceptively harmless and impossibly cute, these little critters want nothing more than to bound into your arms and light up your life.-->
   <TM_Poppi.description>具有很强迷惑性的可爱非凡的外表, 它们除了依偎在你的怀里和点亮你的生活外什么都不想做.</TM_Poppi.description>
   <!--EN: poppi-->
@@ -2122,9 +2122,9 @@ The fruit it produces, known more commonly as pomona, can be consumed raw and is
   <!--EN: Portal-->
   <TM_Portal.label>传送门</TM_Portal.label>
   <!--EN: An arcane energy node that provides power as long as it is sustained by a mage.-->
-  <TM_PowerNode.description>一个可以在一定时间内持续提供电力的魔法电源。</TM_PowerNode.description>
+  <TM_PowerNode.description>一个由法师维系的奥术能量节点，只要持续供能就能产生电力。</TM_PowerNode.description>
   <!--EN: Arcane power node-->
-  <TM_PowerNode.label>魔法电源</TM_PowerNode.label>
+  <TM_PowerNode.label>奥术电源节点</TM_PowerNode.label>
   <!--EN: bard projectile-->
   <TM_Projectile_Bard.label>诗意之弹</TM_Projectile_Bard.label>
   <!--EN: healing circle-->
@@ -2207,7 +2207,9 @@ Arcane Power: +10%-->
   <!--EN: This statue is made of stone and shaped to look like a terrifying creature. The statue is smaller than an average person and has the look of a rough cut and quality, though, you notice the eyes, ears, and claws seems to have finer detail.
 	
 As you drawn near the statue, an eerie glint from the eyes of the stone sentinel seems to follow you, and you get the feeling that you are being watched.-->
-  <TM_Sentinel.description>这是一座雕刻成一个可怕生物的石制雕像。这个生物比普通人小，看起来像是一个拙劣雕刻师的作品。但是，当你注意到雕像的眼睛、耳朵和爪子时，这座雕像似乎活了过来，你感觉有一双眼睛在注视着你，让你感觉毛骨悚然。</TM_Sentinel.description>
+  <TM_Sentinel.description>这座雕像由石头雕刻而成，被塑造成某种恐怖生物的模样。它比普通人矮小，表面粗糙，透着粗制滥造的气息——然而，那眼睛、耳朵和利爪却精致得令人不安。
+
+当你靠近它时，石像守卫眼中闪过一道诡异的光芒，似乎追随着你的移动。你忽然感觉，自己正被什么东西注视着。</TM_Sentinel.description>
   <!--EN: Sentinel-->
   <TM_Sentinel.label>哨兵</TM_Sentinel.label>
   <!--EN: This once inanimate stone is now viciously defending its terrain. Limbs that once seemed fused together as the same stone are now mobile... and tearing through earth and flesh alike.-->
@@ -2345,7 +2347,7 @@ While dormant, the golem may be modified or upgraded. The straw golem recharges 
   <!--EN: flying object-->
   <TM_SummonedPawn.label>飞行目标</TM_SummonedPawn.label>
   <!--EN: A dimensional pocket emitting a continous source of light strong enough to grow crops.-->
-  <TM_Sunlight.description>从魔法光源中持续释放的阳光附近的农作物茁壮成长.</TM_Sunlight.description>
+  <TM_Sunlight.description>一个维度口袋，散发出持续不断的光源，其强度足以种植作物。</TM_Sunlight.description>
   <!--EN: sun light-->
   <TM_Sunlight.label>日光术</TM_Sunlight.label>
   <!--EN: Syrrium is distilled from pomana through a process boiling the mashed fruit which separates the syrrium from the pomana. Syrrium induces a much more intense effect than raw pomana when consumed. The chemical effects qualify the liquid as a drug and can cause mild chemical dependency, however, the its more addictive lure is when some begin to feel less capable without the drug and consume syrrium to maintain their confidence and mental balance.

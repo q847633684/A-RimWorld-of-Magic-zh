@@ -80,7 +80,7 @@ A bond can be removed by using this ability on a bonded creature.-->
   <!--EN: Anti-Armor-->
   <TM_AntiArmor.label>破甲</TM_AntiArmor.label>
   <!--EN: Creates an arcane barrier at the target location that is horizontal to the caster. The barrier lasts 60 seconds.-->
-  <TM_ArcaneBarrier.description>通过固化奥术能量制造一堵无法通过的墙, 用来提供保护或者制造一个障碍.</TM_ArcaneBarrier.description>
+  <TM_ArcaneBarrier.description>在目标位置创建一个与施法者平行的奥术屏障，持续60秒。</TM_ArcaneBarrier.description>
   <!--EN: Arcane Barrier-->
   <TM_ArcaneBarrier.label>奥术障碍</TM_ArcaneBarrier.label>
   <!--EN: Launches a bolt of raw arcane energy. This ability will slowly grow in power based on the casters magic level.
@@ -93,7 +93,7 @@ Arcane Bolt is inefficient because of the unrefined nature of the spell, but it 
 Range: 32-->
   <TM_ArrowStorm.description>向目标射出5支箭。\n距离: 32</TM_ArrowStorm.description>
   <!--EN: Arrow Storm-->
-  <TM_ArrowStorm.label>箭雨风暴</TM_ArrowStorm.label>
+  <TM_ArrowStorm.label>箭雨风暴(I)</TM_ArrowStorm.label>
   <!--EN: Fire a volley of 6 arrows at a target.
 Range: 34-->
   <TM_ArrowStorm_I.description>向目标射出6支箭。\n距离: 34</TM_ArrowStorm_I.description>
@@ -503,7 +503,7 @@ Cast Time: 1.2s-->
   <!--EN: Control Spirit Storm-->
   <TM_ControlSpiritStorm.label>引导灵魂风暴</TM_ControlSpiritStorm.label>
   <!--EN: Creates a dimensional pocket that taps into the Plane of Ice, reducing heat in a confined area. The cooler must be sustained by the mage - reduces max mana by 25 while active.-->
-  <TM_Cooler.description>大量的冰元素被束成一团。可以用来冷却有限的室内空间。</TM_Cooler.description>
+  <TM_Cooler.description>创造一个连接冰元素位面的容器，容器会一直散发寒气。法术的能量可以维持容器运作几天的时间。激活时减少25点最大MP。</TM_Cooler.description>
   <!--EN: Magical cooler-->
   <TM_Cooler.label>魔法冷源</TM_Cooler.label>
   <!--EN: Mixes arcane energy with chemicals inside a corpse or undead to cause the body to explode after a short delay. Equipment will not automatically be consumed by the explosion, but may be destroyed in the explosion.
@@ -514,7 +514,7 @@ Cooldown: 10s
 Cast time: 2s-->
   <TM_CorpseExplosion.description>将死亡之力注入进尸体中，混合激发尸体中剩余的生命能量，短暂的延迟后使尸体发生爆炸。装备不会由于爆炸被自动摧毁，但有可能由于爆炸而受损。\n		\n法力消耗: 20（虽然原文是%，但是本质上魔法消耗都是单位）\n范围: 40\n冷却时间: 10s\n施法时间: 2s</TM_CorpseExplosion.description>
   <!--EN: Corpse Explosion-->
-  <TM_CorpseExplosion.label>尸爆术</TM_CorpseExplosion.label>
+  <TM_CorpseExplosion.label>尸爆术（I）</TM_CorpseExplosion.label>
   <!--EN: Mixes arcane energy with chemicals inside a corpse or undead to cause the body to explode after a short delay. Equipment will not automatically be consumed by the explosion, but may be destroyed in the explosion.
 		
 Mana Cost: 22%
@@ -554,7 +554,7 @@ Bolts: 2
 Range: 40-->
   <TM_DeathBolt.description>激活伴随死亡之力的螺旋能量，对冲击范围内的所有生物造成极大的痛苦.\n\n爆炸半径: 1.6m\n冷却时间: 15s\n螺旋数量: 2\n范围: 40</TM_DeathBolt.description>
   <!--EN: Death Bolt-->
-  <TM_DeathBolt.label>死亡螺旋</TM_DeathBolt.label>
+  <TM_DeathBolt.label>死亡螺旋（I）</TM_DeathBolt.label>
   <!--EN: Launches bolts of power carrying the anguish of the dead; causes intense pain to any living creatures caught in the blast.
 
 Explosion Radius: 2m
@@ -629,7 +629,7 @@ Firing Delay: 2.5s
 Recharge 45s-->
   <TM_DisablingShot.description>一次目的在于使目标失去行动能力而不是死亡的射击. 狙击手会瞄准非要害器官并射出带有麻痹效果的箭矢， 目标会短暂地瘫痪几秒钟。对穿戴护甲的目标无效.\n	\n射程: 20\n射击延迟: 2.5s\n冷却时间: 45s</TM_DisablingShot.description>
   <!--EN: Disabling Shot-->
-  <TM_DisablingShot.label>残废射击</TM_DisablingShot.label>
+  <TM_DisablingShot.label>残废射击（I）</TM_DisablingShot.label>
   <!--EN: A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.
 	
 Range: 22
@@ -972,7 +972,7 @@ Radius: 11-->
   <!--EN: Fireball-->
   <TM_Fireball.label>火球术</TM_Fireball.label>
   <!--EN: Launches a bolt of super-heated magma that damages and can set fire to the target.-->
-  <TM_Firebolt.description>元素之火被投影在一个箭中。</TM_Firebolt.description>
+  <TM_Firebolt.description>凝结魔法火焰并射向目标区域。</TM_Firebolt.description>
   <!--EN: Firebolt-->
   <TM_Firebolt.label>燃烧之箭</TM_Firebolt.label>
   <!--EN: Create streaming tendrils of fire that rake across your enemies, leaving destruction and fire in its wake.-->
@@ -1132,7 +1132,7 @@ Once determined, a guardian spirit type remains the same, however, this can be f
   <!--EN: A lethal shot that targets a vital bodypart like the head or heart. Effective on non-humanoids and humanoids alike. Headshot success chance is reduced against targets with thick armor protecting their vital organs.-->
   <TM_Headshot.description>一次瞄准敌人头部或心脏的致命射击。对类人生物和非类人生物同样有效。爆头成功率会随着敌人要害部位护甲的增加而降低。</TM_Headshot.description>
   <!--EN: Headshot-->
-  <TM_Headshot.label>爆头</TM_Headshot.label>
+  <TM_Headshot.label>爆头一击</TM_Headshot.label>
   <!--EN: Invokes holy power to heal the wounds of a target. Base heal restores 8 health for up to 3 wounds. Cannot heal injuries of missing bodyparts.-->
   <TM_Heal.description>祈求圣光的力量治愈目标的伤口。</TM_Heal.description>
   <!--EN: Heal-->
@@ -1170,7 +1170,7 @@ Range: 45-->
   <!--EN: Heat Shield-->
   <TM_HeatShield.label>热能屏障</TM_HeatShield.label>
   <!--EN: Creates a dimensional pocket that taps into the Plane of Fire, generating constant heat in a confined area. The heater must be sustained by the mage - reduces max mana by 25 while active.-->
-  <TM_Heater.description>大量的火元素被束成一团，可以用来加热室内空间或烹饪简单食物。</TM_Heater.description>
+  <TM_Heater.description>创造一个连接火元素位面的容器，容器会一直散发热能。法术的能量可以维持容器运作几天的时间。激活时减少25点最大MP。</TM_Heater.description>
   <!--EN: Magical heater-->
   <TM_Heater.label>魔法热源</TM_Heater.label>
   <!--EN: Activates or deactivates the sustained combat skill Heavy Blow - increases damage of all attacks by 20%. Requires 30 Stamina to sustain.-->
@@ -1371,9 +1371,9 @@ Movement speed: -2.0 c/s-->
   <!--EN: Lightning Bolt-->
   <TM_LightningBolt.label>电闪雷鸣</TM_LightningBolt.label>
   <!--EN: Creates an area charged with lightning. Damages and stuns anything in its mists.-->
-  <TM_LightningCloud.description>带电粒子引起的环境放电.</TM_LightningCloud.description>
+  <TM_LightningCloud.description>使一片区域内充斥着雷电能量，无差别伤害和眩晕其中的任何目标。</TM_LightningCloud.description>
   <!--EN: Lightning Cloud-->
-  <TM_LightningCloud.label>雷系魔法</TM_LightningCloud.label>
+  <TM_LightningCloud.label>天丛云雷</TM_LightningCloud.label>
   <!--EN: Create a fierce, but uncontrolled, lightning storm over the target location.-->
   <TM_LightningStorm.description>在目标区域创造一阵猛烈但无法控制的闪电风暴。</TM_LightningStorm.description>
   <!--EN: Lightning Storm-->
@@ -1417,9 +1417,9 @@ Casting time: 2.5s
 Range: 24
 Projectiles: 14 over 2.8s
 Damage: 4-->
-  <TM_MagicMissile.description>奥术能量投射在并集中一个球体中爆发出来。</TM_MagicMissile.description>
+  <TM_MagicMissile.description>向敌人发射一群魔法飞弹.\n  \n混乱几率: 3%\n施法时间: 2.5s\n范围: 24\n攻击数量: 2.8s内14\n伤害: 4</TM_MagicMissile.description>
   <!--EN: Magic Missile-->
-  <TM_MagicMissile.label>奥术飞弹</TM_MagicMissile.label>
+  <TM_MagicMissile.label>魔法飞弹（I）</TM_MagicMissile.label>
   <!--EN: Fire a wave of magic missiles at enemies.
 		
 Chance to confuse: 5%
@@ -1644,7 +1644,7 @@ Can be applied to: power generators, turrets, robots, androids, and mechanoids.-
   <!--EN: Holy power is unleashed from the paladin, overwhelming the physical and mental senses of any nearby creatures.-->
   <TM_Overwhelm.description>圣骑士向自身周围释放狂暴的神圣审判之力,对周围敌人造成大量伤害。</TM_Overwhelm.description>
   <!--EN: Overwhelm-->
-  <TM_Overwhelm.label>神圣之力</TM_Overwhelm.label>
+  <TM_Overwhelm.label>圣光压制</TM_Overwhelm.label>
   <!--EN: Creates an aura of hope around the caster that periodically buffs an ally.
 		
 Ray of Hope: Arcane augmentation that assists the worker, improving their physical capacities and mood
@@ -1704,7 +1704,7 @@ Cooldown: 25s
 Range: 30-->
   <TM_PhaseStrike.description>通过细微的观察，察觉次元的裂隙，穿梭于现实之间，在指定位置出现并对毫无戒心的敌人进行一次强力攻击。\n\n热身: 0.3s\n冷却时间: 15s\n范围: 30</TM_PhaseStrike.description>
   <!--EN: Phase Strike-->
-  <TM_PhaseStrike.label>相位打击</TM_PhaseStrike.label>
+  <TM_PhaseStrike.label>次元之刃（I）</TM_PhaseStrike.label>
   <!--EN: Melds the bladedancer's razor focus with the edge of a blade to slip between reality, appearing at a chosen location to execute a vicious strike on unsuspecting enemies.
 	
 Warmup: .2s
@@ -1745,7 +1745,7 @@ Super Soldiers with a specialized pistol equipped gain a unique "double tap" tal
   <!--EN: Fast acting toxin that works its way into the targets bloodstream. The more a target moves, the more lethal the poison becomes. Poison is ineffective against mechanoids.-->
   <TM_Poison.description>快速施放毒素使其进入目标血液，受术者移动的越多，距离死亡就越近一步。对机械体无效。</TM_Poison.description>
   <!--EN: Poison-->
-  <TM_Poison.label>毒药</TM_Poison.label>
+  <TM_Poison.label>施毒术</TM_Poison.label>
   <!--EN: Throw a noxious concoction that bursts into a thick cloud of poisonous gas. The poison gas will remain in proximity for a small time before dispersing. Any person that inhales the fumes will suffer corrosive damage to their throat and lungs.-->
   <TM_PoisonFlask.description>投掷一种有毒的混合物，它会爆炸成一团厚厚的有毒气体。 毒气会在附近停留一段时间然后消散。 任何人吸入这种烟雾都会对喉咙和肺造成腐蚀性损害。</TM_PoisonFlask.description>
   <!--EN: Poison Flask-->
@@ -1753,9 +1753,9 @@ Super Soldiers with a specialized pistol equipped gain a unique "double tap" tal
   <!--EN: The ranger uses a dose of druidic poison to arm a wooden trap. Traps last indefinitely, but a ranger is only able to deploy a limited number at a time.
 
 Enemies caught in the poison will take 1-8 poison damage every 0.66 seconds. Poison damage also applies a slowing effect. Traps will never be triggered by animals.-->
-  <TM_PoisonTrap.description>一个由刺和细绳组成的陷阱， 它可以完美地与地形贴合从而骗过未经训练的眼睛， 但是它的气味会给动物们一个明显的警告. 当一个受害者触发陷阱，德鲁伊之毒的粒子将会排放到空气中. 这种毒同时用来伤害和使受害者失去行动能力。</TM_PoisonTrap.description>
+  <TM_PoisonTrap.description>漫游者使用一瓶德鲁伊毒素用来放置一个木制陷阱。陷阱没有持续时间，但是漫游者可以放置的毒素陷阱是有上限的。</TM_PoisonTrap.description>
   <!--EN: Poison Trap-->
-  <TM_PoisonTrap.label>毒药陷阱</TM_PoisonTrap.label>
+  <TM_PoisonTrap.label>毒素陷阱</TM_PoisonTrap.label>
   <!--EN: Transforms pawns in the target area into random beasts. The polymorphed creature will still retain enough of its original self to recognize, and be enraged by, its predicament. Allies can be controlled (drafted), but may still exhibit 'animal' behavior without a specific task.
 		
 Allies may be polymorphed, but most will be upset by the altercation. Enchanters cannot use this method to polymorph themselves.
@@ -1833,9 +1833,9 @@ Only creatures with a human-like mind capable of self-doubt can be possessed.-->
   <!--EN: Possess-->
   <TM_Possess.label>占据</TM_Possess.label>
   <!--EN: Creates an energy node that slowly releases arcane energy in the form of electricity. Can be used as a power source. The power node must be sustained by the mage - reduces max mana by 25 and mana regen by 25% while active.-->
-  <TM_PowerNode.description>一个可以在一定时间内持续提供电力的魔法电源。</TM_PowerNode.description>
+  <TM_PowerNode.description>创造一个可以缓慢释放奥术能量并转化为电力的魔法电源. 可以作为电源使用。激活时减少25点最大法力值和25%的法力回复量。</TM_PowerNode.description>
   <!--EN: Arcane Power Node-->
-  <TM_PowerNode.label>魔法电源</TM_PowerNode.label>
+  <TM_PowerNode.label>奥术电源节点</TM_PowerNode.label>
   <!--EN: Enables Prediction - a conscious effort dedicated to deciphering future events. Prediction has two components.
 	
 The first component is a self-awareness and intuition that makes the chronomancer uncannily difficult to harm, however, this splits the attention of the chronomancer and reduces their physical acuity and speed.
@@ -2163,7 +2163,11 @@ A succubus will retain her partial demon form for a short period after using thi
 Using this ability on a dormant sentinel will dismiss the sentinel. Each sentinel reduces max MP by 20.
 
 *Aesthetic note: sentinels will always face away from the caster.-->
-  <TM_Sentinel.description>这是一座雕刻成一个可怕生物的石制雕像。这个生物比普通人小，看起来像是一个拙劣雕刻师的作品。但是，当你注意到雕像的眼睛、耳朵和爪子时，这座雕像似乎活了过来，你感觉有一双眼睛在注视着你，让你感觉毛骨悚然。</TM_Sentinel.description>
+  <TM_Sentinel.description>创造一个石像守卫来防守一片区域。守卫会保持休眠状态，直到敌人进入范围，然后它们会挣脱石像的束缚，起身捍卫自己的领地。
+
+对休眠中的守卫使用此技能可以将其解除。每个守卫会减少20点最大法力值。
+
+美术说明：守卫的面向始终与施法者相反。</TM_Sentinel.description>
   <!--EN: Sentinel-->
   <TM_Sentinel.label>哨兵</TM_Sentinel.label>
   <!--EN: Creates a shadow aura around the caster that periodically buffs an ally.
@@ -2179,7 +2183,7 @@ Mood decrease: -3
 Requires 40 mana to maintain and reduces mana regeneration by 30%; cast again to deactivate. The caster gains xp each time an ally is buffed.-->
   <TM_Shadow.description>暗影:奥术强化可以帮助施法者提高他们的体能,但是会降低他们的情绪.\n\n触发频率: 80-90s\n持续时间: 500-600s\n操作,视觉,听觉,血液过滤: +10%\n移动, 意识: +5%\n心情降低: -3\n\n需要40点法力维持,减少30%法力回复;再次施法失效.施法者对目标使用法术获得经验值。</TM_Shadow.description>
   <!--EN: Shadow-->
-  <TM_Shadow.label>阴影</TM_Shadow.label>
+  <TM_Shadow.label>暗影随形（I）</TM_Shadow.label>
   <!--EN: Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.
 		
 Cast time: 2s
@@ -2816,7 +2820,7 @@ Count: 16-->
   <!--EN: Sunfire (III)-->
   <TM_Sunfire_III.label>阳火（IV）</TM_Sunfire_III.label>
   <!--EN: Creates a beacon of sunlight strong enough to grow plants. The beacon must be sustained by the mage - reduces max mana by 40 and mana regeneration by 40% while active.-->
-  <TM_Sunlight.description>从魔法光源中持续释放的阳光附近的农作物茁壮成长.</TM_Sunlight.description>
+  <TM_Sunlight.description>创造一个足以使作物生长的光源。这个光源必须由魔法师维持 - 当处于激活状态时降低40点最大法力值以及40%的法力恢复速度。</TM_Sunlight.description>
   <!--EN: Sun Light-->
   <TM_Sunlight.label>日光术</TM_Sunlight.label>
   <!--EN: Suppress enemy positions with a storm of bullets.-->

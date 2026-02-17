@@ -5,19 +5,19 @@
   <!--EN: AMP-->
   <AMP_I.label>安普</AMP_I.label>
   <!--EN: I-->
-  <AMP_I.stages.0.label>I</AMP_I.stages.0.label>
+  <AMP_I.stages.0.label>激励</AMP_I.stages.0.label>
   <!--EN: A burst of energy that amplifies physical attributes.-->
   <AMP_II.description>增强物理属性的恩惠。</AMP_II.description>
   <!--EN: AMP-->
   <AMP_II.label>安普</AMP_II.label>
   <!--EN: II-->
-  <AMP_II.stages.0.label>II</AMP_II.stages.0.label>
+  <AMP_II.stages.0.label>兴奋</AMP_II.stages.0.label>
   <!--EN: A burst of energy that amplifies physical attributes.-->
   <AMP_III.description>增强物理属性的恩惠。</AMP_III.description>
   <!--EN: AMP-->
   <AMP_III.label>安普</AMP_III.label>
   <!--EN: III-->
-  <AMP_III.stages.0.label>III</AMP_III.stages.0.label>
+  <AMP_III.stages.0.label>澎湃</AMP_III.stages.0.label>
   <!--EN: A mighty combat boon.-->
   <BestowMightHD.description>一个强大的战斗恩惠。</BestowMightHD.description>
   <!--EN: Bestow Might-->
@@ -49,7 +49,7 @@
   <!--EN: sutured-->
   <Blizzard.comps.0.labelTendedWellInner>已缝合</Blizzard.comps.0.labelTendedWellInner>
   <!--EN: destroyed in blizzard-->
-  <Blizzard.comps.1.permanentLabel>暴风雪中摧毁</Blizzard.comps.1.permanentLabel>
+  <Blizzard.comps.1.permanentLabel>destroyed in blizzard</Blizzard.comps.1.permanentLabel>
   <!--EN: A storm of ice and snow.-->
   <Blizzard.description>暴风雪.</Blizzard.description>
   <!--EN: frozen-->
@@ -65,7 +65,7 @@
   <!--EN: sutured-->
   <FrostRay.comps.0.labelTendedWellInner>已缝合</FrostRay.comps.0.labelTendedWellInner>
   <!--EN: frostbite scar-->
-  <FrostRay.comps.1.permanentLabel>冻伤疤痕</FrostRay.comps.1.permanentLabel>
+  <FrostRay.comps.1.permanentLabel>frostbite scar</FrostRay.comps.1.permanentLabel>
   <!--EN: Super-cooled bolt of energy.-->
   <FrostRay.description>顶级的元素之冰.</FrostRay.description>
   <!--EN: frozen off-->
@@ -81,7 +81,7 @@
   <!--EN: sutured-->
   <Iceshard.comps.0.labelTendedWellInner>已缝合</Iceshard.comps.0.labelTendedWellInner>
   <!--EN: iceshard scar-->
-  <Iceshard.comps.1.permanentLabel>冰晶疤痕</Iceshard.comps.1.permanentLabel>
+  <Iceshard.comps.1.permanentLabel>iceshard scar</Iceshard.comps.1.permanentLabel>
   <!--EN: A projected bolt of ice formed with razor sharp edges.-->
   <Iceshard.description>元素之冰投射为边缘十分锋利的冰晶.</Iceshard.description>
   <!--EN: Shredded-->
@@ -131,49 +131,49 @@
   <!--EN: An uplifting presence that enlivens the spirit.-->
   <RayofHope.description>使精神活跃的令人振奋的光环。</RayofHope.description>
   <!--EN: Ray of Hope-->
-  <RayofHope.label>魔力强化</RayofHope.label>
+  <RayofHope.label>希望之光</RayofHope.label>
   <!--EN: I-->
-  <RayofHope.stages.0.label>I</RayofHope.stages.0.label>
+  <RayofHope.stages.0.label>希望之影</RayofHope.stages.0.label>
   <!--EN: An uplifting presence that enlivens the spirit.-->
   <RayofHope_I.description>使精神活跃的令人振奋的光环。</RayofHope_I.description>
   <!--EN: Ray of Hope-->
   <RayofHope_I.label>希望之光</RayofHope_I.label>
   <!--EN: II-->
-  <RayofHope_I.stages.0.label>II</RayofHope_I.stages.0.label>
+  <RayofHope_I.stages.0.label>一线希望</RayofHope_I.stages.0.label>
   <!--EN: An uplifting presence that enlivens the spirit.-->
   <RayofHope_II.description>使精神活跃的令人振奋的光环。</RayofHope_II.description>
   <!--EN: Ray of Hope-->
   <RayofHope_II.label>希望之光</RayofHope_II.label>
   <!--EN: III-->
-  <RayofHope_II.stages.0.label>III</RayofHope_II.stages.0.label>
+  <RayofHope_II.stages.0.label>希望的曙光</RayofHope_II.stages.0.label>
   <!--EN: An uplifting presence that enlivens the spirit.-->
   <RayofHope_III.description>使精神活跃的令人振奋的光环。</RayofHope_III.description>
   <!--EN: Ray of Hope-->
   <RayofHope_III.label>希望之光</RayofHope_III.label>
   <!--EN: IV-->
-  <RayofHope_III.stages.0.label>IV</RayofHope_III.stages.0.label>
+  <RayofHope_III.stages.0.label>希望的灯塔</RayofHope_III.stages.0.label>
   <!--EN: A shadowy presence that precipitates action.-->
   <Shadow.description>一种增强移速的阴影。</Shadow.description>
   <!--EN: Arcane Shadow-->
-  <Shadow.label>魔法增益</Shadow.label>
+  <Shadow.label>暗影随形</Shadow.label>
   <!--EN: A shadowy presence that precipitates action.-->
   <Shadow_I.description>一种增强移速的阴影。</Shadow_I.description>
   <!--EN: Arcane Shadow-->
   <Shadow_I.label>暗影随形</Shadow_I.label>
   <!--EN: I-->
-  <Shadow_I.stages.0.label>I</Shadow_I.stages.0.label>
+  <Shadow_I.stages.0.label>忧虑</Shadow_I.stages.0.label>
   <!--EN: A shadowy presence that precipitates action.-->
   <Shadow_II.description>一种增强移速的阴影。</Shadow_II.description>
   <!--EN: Arcane Shadow-->
   <Shadow_II.label>暗影随形</Shadow_II.label>
   <!--EN: II-->
-  <Shadow_II.stages.0.label>II</Shadow_II.stages.0.label>
+  <Shadow_II.stages.0.label>紧张不安</Shadow_II.stages.0.label>
   <!--EN: A shadowy presence that precipitates action.-->
   <Shadow_III.description>一种增强移速的阴影。</Shadow_III.description>
   <!--EN: Arcane Shadow-->
   <Shadow_III.label>暗影随形</Shadow_III.label>
   <!--EN: III-->
-  <Shadow_III.stages.0.label>III</Shadow_III.stages.0.label>
+  <Shadow_III.stages.0.label>心神错乱</Shadow_III.stages.0.label>
   <!--EN: set-->
   <Snowball.comps.0.labelSolidTendedWell>已固定</Snowball.comps.0.labelSolidTendedWell>
   <!--EN: bandaged-->
@@ -181,7 +181,7 @@
   <!--EN: sutured-->
   <Snowball.comps.0.labelTendedWellInner>已缝合</Snowball.comps.0.labelTendedWellInner>
   <!--EN: frostbite scar-->
-  <Snowball.comps.1.permanentLabel>冻伤疤痕</Snowball.comps.1.permanentLabel>
+  <Snowball.comps.1.permanentLabel>frostbite scar</Snowball.comps.1.permanentLabel>
   <!--EN: Packed ice and snow.-->
   <Snowball.description>冰天雪地.</Snowball.description>
   <!--EN: frozen off-->
@@ -193,27 +193,27 @@
   <!--EN: A soothing presence that calms the spirit.-->
   <SoothingBreeze.description>使心灵平静的恩惠</SoothingBreeze.description>
   <!--EN: Soothing Breeze-->
-  <SoothingBreeze.label>魔法增益</SoothingBreeze.label>
+  <SoothingBreeze.label>抚慰之风</SoothingBreeze.label>
   <!--EN: I-->
-  <SoothingBreeze.stages.0.label>I</SoothingBreeze.stages.0.label>
+  <SoothingBreeze.stages.0.label>受到祝福</SoothingBreeze.stages.0.label>
   <!--EN: A soothing presence that calms the spirit.-->
   <SoothingBreeze_I.description>使心灵平静的恩惠</SoothingBreeze_I.description>
   <!--EN: Soothing Breeze-->
   <SoothingBreeze_I.label>抚慰之风</SoothingBreeze_I.label>
   <!--EN: II-->
-  <SoothingBreeze_I.stages.0.label>II</SoothingBreeze_I.stages.0.label>
+  <SoothingBreeze_I.stages.0.label>受到祝福</SoothingBreeze_I.stages.0.label>
   <!--EN: A soothing presence that calms the spirit.-->
   <SoothingBreeze_II.description>使心灵平静的恩惠</SoothingBreeze_II.description>
   <!--EN: Soothing Breeze-->
   <SoothingBreeze_II.label>抚慰之风</SoothingBreeze_II.label>
   <!--EN: III-->
-  <SoothingBreeze_II.stages.0.label>III</SoothingBreeze_II.stages.0.label>
+  <SoothingBreeze_II.stages.0.label>受到祝福</SoothingBreeze_II.stages.0.label>
   <!--EN: A soothing presence that calms the spirit.-->
   <SoothingBreeze_III.description>使心灵平静的恩惠</SoothingBreeze_III.description>
   <!--EN: Soothing Breeze-->
   <SoothingBreeze_III.label>抚慰之风</SoothingBreeze_III.label>
   <!--EN: IV-->
-  <SoothingBreeze_III.stages.0.label>IV</SoothingBreeze_III.stages.0.label>
+  <SoothingBreeze_III.stages.0.label>受到祝福</SoothingBreeze_III.stages.0.label>
   <!--EN: Rapidly repairs equipped apparel and weapons.-->
   <SpellMendingHD.description>迅速修理身上的服装和武器。</SpellMendingHD.description>
   <!--EN: Spell Mending-->
@@ -305,7 +305,7 @@
   <!--EN: sutured-->
   <TM_ArcaneHD.comps.0.labelTendedWellInner>已缝合</TM_ArcaneHD.comps.0.labelTendedWellInner>
   <!--EN: destroyed by arcane power-->
-  <TM_ArcaneHD.comps.1.permanentLabel>被奥术能量摧毁</TM_ArcaneHD.comps.1.permanentLabel>
+  <TM_ArcaneHD.comps.1.permanentLabel>destroyed by arcane power</TM_ArcaneHD.comps.1.permanentLabel>
   <!--EN: Destructive arcane power-->
   <TM_ArcaneHD.description>毁灭性奥术能量</TM_ArcaneHD.description>
   <!--EN: blasted off-->
@@ -533,7 +533,7 @@
   <!--EN: sutured-->
   <TM_BlazingPowerHD.comps.0.labelTendedWellInner>已缝合</TM_BlazingPowerHD.comps.0.labelTendedWellInner>
   <!--EN: destroyed by blazing power-->
-  <TM_BlazingPowerHD.comps.1.permanentLabel>被烈焰能量摧毁</TM_BlazingPowerHD.comps.1.permanentLabel>
+  <TM_BlazingPowerHD.comps.1.permanentLabel>destroyed by blazing power</TM_BlazingPowerHD.comps.1.permanentLabel>
   <!--EN: Arcane power directed through a focusing vessel.-->
   <TM_BlazingPowerHD.description>通过聚焦集中的魔法能量.</TM_BlazingPowerHD.description>
   <!--EN: destroyed-->
@@ -547,7 +547,7 @@
   <!--EN: Blinded-->
   <TM_Blind.label>目盲</TM_Blind.label>
   <!--EN: I-->
-  <TM_Blind.stages.0.label>I</TM_Blind.stages.0.label>
+  <TM_Blind.stages.0.label>盲目</TM_Blind.stages.0.label>
   <!--EN: II-->
   <TM_Blind.stages.1.label>II</TM_Blind.stages.1.label>
   <!--EN: III-->
@@ -571,7 +571,7 @@
   <!--EN: sutured-->
   <TM_BloodyCutHD.comps.0.labelTendedWellInner>已缝合</TM_BloodyCutHD.comps.0.labelTendedWellInner>
   <!--EN: cut scar-->
-  <TM_BloodyCutHD.comps.2.permanentLabel>刀伤疤痕</TM_BloodyCutHD.comps.2.permanentLabel>
+  <TM_BloodyCutHD.comps.2.permanentLabel>cut scar</TM_BloodyCutHD.comps.2.permanentLabel>
   <!--EN: A deep cut that bleeds profusely.-->
   <TM_BloodyCutHD.description>大量出血的伤口.</TM_BloodyCutHD.description>
   <!--EN: Cut off-->
@@ -655,7 +655,7 @@
   <!--EN: sutured-->
   <TM_ChiBurnHD.comps.0.labelTendedWellInner>已缝合</TM_ChiBurnHD.comps.0.labelTendedWellInner>
   <!--EN: destroyed-->
-  <TM_ChiBurnHD.comps.1.permanentLabel>摧毁</TM_ChiBurnHD.comps.1.permanentLabel>
+  <TM_ChiBurnHD.comps.1.permanentLabel>destroyed</TM_ChiBurnHD.comps.1.permanentLabel>
   <!--EN: Damage sustained from a burst of ch'i energy.-->
   <TM_ChiBurnHD.description>真气爆发造成的伤害。</TM_ChiBurnHD.description>
   <!--EN: burned-->
@@ -671,7 +671,7 @@
   <!--EN: sutured-->
   <TM_ChiFistHD.comps.0.labelTendedWellInner>已缝合</TM_ChiFistHD.comps.0.labelTendedWellInner>
   <!--EN: destroyed-->
-  <TM_ChiFistHD.comps.1.permanentLabel>摧毁</TM_ChiFistHD.comps.1.permanentLabel>
+  <TM_ChiFistHD.comps.1.permanentLabel>destroyed</TM_ChiFistHD.comps.1.permanentLabel>
   <!--EN: A melee strike from a monk.-->
   <TM_ChiFistHD.description>僧侣的近战一击。</TM_ChiFistHD.description>
   <!--EN: broken-->
@@ -793,7 +793,7 @@
   <!--EN: sutured-->
   <TM_DeathBoltHD.comps.0.labelTendedWellInner>已缝合</TM_DeathBoltHD.comps.0.labelTendedWellInner>
   <!--EN: melted-->
-  <TM_DeathBoltHD.comps.1.permanentLabel>融化了</TM_DeathBoltHD.comps.1.permanentLabel>
+  <TM_DeathBoltHD.comps.1.permanentLabel>melted</TM_DeathBoltHD.comps.1.permanentLabel>
   <!--EN: Destructive energy that kills all living things.-->
   <TM_DeathBoltHD.description>杀死所有生物的破坏性能量。</TM_DeathBoltHD.description>
   <!--EN: melted off-->
@@ -837,7 +837,7 @@
   <!--EN: tended-->
   <TM_DecayDamage.comps.0.labelTendedWellInner>照顾</TM_DecayDamage.comps.0.labelTendedWellInner>
   <!--EN: lifeless-->
-  <TM_DecayDamage.comps.1.permanentLabel>失去生机</TM_DecayDamage.comps.1.permanentLabel>
+  <TM_DecayDamage.comps.1.permanentLabel>lifeless</TM_DecayDamage.comps.1.permanentLabel>
   <!--EN: Organic decay.-->
   <TM_DecayDamage.description>腐朽</TM_DecayDamage.description>
   <!--EN: lifeless-->
@@ -889,7 +889,7 @@
   <!--EN: sutured-->
   <TM_DisablingBlowHD.comps.0.labelTendedWellInner>已缝合</TM_DisablingBlowHD.comps.0.labelTendedWellInner>
   <!--EN: smashed-->
-  <TM_DisablingBlowHD.comps.2.permanentLabel>粉碎</TM_DisablingBlowHD.comps.2.permanentLabel>
+  <TM_DisablingBlowHD.comps.2.permanentLabel>smashed</TM_DisablingBlowHD.comps.2.permanentLabel>
   <!--EN: A melee blow meant to disable rather than kill.-->
   <TM_DisablingBlowHD.description>一种近战打击，意在使人丧失能力而不是杀人。</TM_DisablingBlowHD.description>
   <!--EN: smashed-->
@@ -905,7 +905,7 @@
   <!--EN: sutured-->
   <TM_DisablingShot_HD.comps.0.labelTendedWellInner>已缝合</TM_DisablingShot_HD.comps.0.labelTendedWellInner>
   <!--EN: shot off-->
-  <TM_DisablingShot_HD.comps.2.permanentLabel>射掉</TM_DisablingShot_HD.comps.2.permanentLabel>
+  <TM_DisablingShot_HD.comps.2.permanentLabel>shot off</TM_DisablingShot_HD.comps.2.permanentLabel>
   <!--EN: A projectile designed to disable rather than kill.-->
   <TM_DisablingShot_HD.description>一种设计成使人丧失能力而不是杀人的炮弹。</TM_DisablingShot_HD.description>
   <!--EN: shot off-->
@@ -1129,9 +1129,9 @@
   <!--EN: sutured-->
   <TM_Firebolt.comps.0.labelTendedWellInner>已缝合</TM_Firebolt.comps.0.labelTendedWellInner>
   <!--EN: burn scar-->
-  <TM_Firebolt.comps.1.permanentLabel>烧伤疤痕</TM_Firebolt.comps.1.permanentLabel>
+  <TM_Firebolt.comps.1.permanentLabel>burn scar</TM_Firebolt.comps.1.permanentLabel>
   <!--EN: Projected bolt of elemental fire.-->
-  <TM_Firebolt.description>元素之火被投影在一个箭中。</TM_Firebolt.description>
+  <TM_Firebolt.description>凝结魔法火焰并射向目标区域。</TM_Firebolt.description>
   <!--EN: burned-->
   <TM_Firebolt.injuryProps.destroyedLabel>烧掉</TM_Firebolt.injuryProps.destroyedLabel>
   <!--EN: burned out-->
@@ -1233,7 +1233,7 @@
   <!--EN: tended-->
   <TM_Frozen.comps.0.labelTendedWellInner>照顾</TM_Frozen.comps.0.labelTendedWellInner>
   <!--EN: frostbite-->
-  <TM_Frozen.comps.1.permanentLabel>冻伤</TM_Frozen.comps.1.permanentLabel>
+  <TM_Frozen.comps.1.permanentLabel>frostbite</TM_Frozen.comps.1.permanentLabel>
   <!--EN: Bitterly cold winds.-->
   <TM_Frozen.description>寒冬之击</TM_Frozen.description>
   <!--EN: Frozen-->
@@ -1295,7 +1295,7 @@
   <!--EN: sutured-->
   <TM_GrapplingHook.comps.0.labelTendedWellInner>已缝合</TM_GrapplingHook.comps.0.labelTendedWellInner>
   <!--EN: torn off-->
-  <TM_GrapplingHook.comps.2.permanentLabel>扯掉</TM_GrapplingHook.comps.2.permanentLabel>
+  <TM_GrapplingHook.comps.2.permanentLabel>torn off</TM_GrapplingHook.comps.2.permanentLabel>
   <!--EN: Pulls targets close.-->
   <TM_GrapplingHook.description>拉近目标.</TM_GrapplingHook.description>
   <!--EN: torn off-->
@@ -1649,7 +1649,7 @@
   <!--EN: sutured-->
   <TM_Holy.comps.0.labelTendedWellInner>已缝合</TM_Holy.comps.0.labelTendedWellInner>
   <!--EN: destroyed by holy power-->
-  <TM_Holy.comps.1.permanentLabel>被神圣力量摧毁</TM_Holy.comps.1.permanentLabel>
+  <TM_Holy.comps.1.permanentLabel>destroyed by holy power</TM_Holy.comps.1.permanentLabel>
   <!--EN: Belief made into destructive energy.-->
   <TM_Holy.description>来自破坏之光的能量.</TM_Holy.description>
   <!--EN: burned off-->
@@ -1657,7 +1657,7 @@
   <!--EN: burned out-->
   <TM_Holy.injuryProps.destroyedOutLabel>烧尽</TM_Holy.injuryProps.destroyedOutLabel>
   <!--EN: Holy Wrath-->
-  <TM_Holy.label>神罚</TM_Holy.label>
+  <TM_Holy.label>神罚天降</TM_Holy.label>
   <!--EN: An aura that generates and bestows warmth and confidence.-->
   <TM_InnerFire_AuraHD.description>产生并给予温暖和自信的光环。</TM_InnerFire_AuraHD.description>
   <!--EN: Aura of Warmth-->
@@ -1755,7 +1755,7 @@
   <!--EN: sutured-->
   <TM_LightDD.comps.0.labelTendedWellInner>已缝合</TM_LightDD.comps.0.labelTendedWellInner>
   <!--EN: burned by light-->
-  <TM_LightDD.comps.1.permanentLabel>被光芒灼烧</TM_LightDD.comps.1.permanentLabel>
+  <TM_LightDD.comps.1.permanentLabel>burned by light</TM_LightDD.comps.1.permanentLabel>
   <!--EN: Destructive energy from the domain of light.-->
   <TM_LightDD.description>来自破坏性光的能量.</TM_LightDD.description>
   <!--EN: burned away-->
@@ -1771,7 +1771,7 @@
   <!--EN: sutured-->
   <TM_Lightning.comps.0.labelTendedWellInner>已缝合</TM_Lightning.comps.0.labelTendedWellInner>
   <!--EN: struck by lightning-->
-  <TM_Lightning.comps.1.permanentLabel>被闪电击中</TM_Lightning.comps.1.permanentLabel>
+  <TM_Lightning.comps.1.permanentLabel>struck by lightning</TM_Lightning.comps.1.permanentLabel>
   <!--EN: A powerful bolt of electricity.-->
   <TM_Lightning.description>强电.</TM_Lightning.description>
   <!--EN: melted-->
@@ -1779,7 +1779,7 @@
   <!--EN: burned out-->
   <TM_Lightning.injuryProps.destroyedOutLabel>烧坏</TM_Lightning.injuryProps.destroyedOutLabel>
   <!--EN: Lightning-->
-  <TM_Lightning.label>雷系魔法</TM_Lightning.label>
+  <TM_Lightning.label>闪电冲击</TM_Lightning.label>
   <!--EN: set-->
   <TM_LightningCloud.comps.0.labelSolidTendedWell>已固定</TM_LightningCloud.comps.0.labelSolidTendedWell>
   <!--EN: bandaged-->
@@ -1787,15 +1787,15 @@
   <!--EN: sutured-->
   <TM_LightningCloud.comps.0.labelTendedWellInner>已缝合</TM_LightningCloud.comps.0.labelTendedWellInner>
   <!--EN: electrocuted-->
-  <TM_LightningCloud.comps.1.permanentLabel>电击致死</TM_LightningCloud.comps.1.permanentLabel>
+  <TM_LightningCloud.comps.1.permanentLabel>electrocuted</TM_LightningCloud.comps.1.permanentLabel>
   <!--EN: Ambient electrical discharge caused by condensing charged particles.-->
-  <TM_LightningCloud.description>带电粒子引起的环境放电.</TM_LightningCloud.description>
+  <TM_LightningCloud.description>使一片区域内充斥着雷电能量，无差别伤害和眩晕其中的任何目标。</TM_LightningCloud.description>
   <!--EN: melted-->
   <TM_LightningCloud.injuryProps.destroyedLabel>融化</TM_LightningCloud.injuryProps.destroyedLabel>
   <!--EN: burned out-->
   <TM_LightningCloud.injuryProps.destroyedOutLabel>烧坏</TM_LightningCloud.injuryProps.destroyedOutLabel>
   <!--EN: Lightning-->
-  <TM_LightningCloud.label>雷系魔法</TM_LightningCloud.label>
+  <TM_LightningCloud.label>天丛云雷</TM_LightningCloud.label>
   <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
   <TM_LiverRegrowth.description>大自然和肉体的奇异交合将在几天内使这部分身体再生.</TM_LiverRegrowth.description>
   <!--EN: Regrown Liver-->
@@ -1843,15 +1843,15 @@
   <!--EN: sutured-->
   <TM_MagicMissile.comps.0.labelTendedWellInner>已缝合</TM_MagicMissile.comps.0.labelTendedWellInner>
   <!--EN: touched by the arcane-->
-  <TM_MagicMissile.comps.1.permanentLabel>被奥术触碰</TM_MagicMissile.comps.1.permanentLabel>
+  <TM_MagicMissile.comps.1.permanentLabel>touched by the arcane</TM_MagicMissile.comps.1.permanentLabel>
   <!--EN: Arcane energy projected in small, focused bursts.-->
-  <TM_MagicMissile.description>奥术能量投射在并集中一个球体中爆发出来。</TM_MagicMissile.description>
+  <TM_MagicMissile.description>向敌人发射一群魔法飞弹.\n  \n混乱几率: 3%\n施法时间: 2.5s\n范围: 24\n攻击数量: 2.8s内14\n伤害: 4</TM_MagicMissile.description>
   <!--EN: sliced off-->
   <TM_MagicMissile.injuryProps.destroyedLabel>毁坏</TM_MagicMissile.injuryProps.destroyedLabel>
   <!--EN: cut out-->
   <TM_MagicMissile.injuryProps.destroyedOutLabel>切断</TM_MagicMissile.injuryProps.destroyedOutLabel>
   <!--EN: Magic Missile-->
-  <TM_MagicMissile.label>奥术飞弹</TM_MagicMissile.label>
+  <TM_MagicMissile.label>魔法飞弹（I）</TM_MagicMissile.label>
   <!--EN: This pawn has recently lost their connection to magic and will suffer from a loss of direction and purpose until they can fill the void with another purpose.-->
   <TM_MagicSeverenceHD.description>这个生物最近失去了与魔法的联系，并失去了方向和目的，直到他们可以用另一个目的来填补空白。</TM_MagicSeverenceHD.description>
   <!--EN: Magic Severence-->
@@ -1883,9 +1883,9 @@
   <!--EN: sutured-->
   <TM_ManaMine.comps.0.labelTendedWellInner>已缝合</TM_ManaMine.comps.0.labelTendedWellInner>
   <!--EN: destroyed by a mana explosion-->
-  <TM_ManaMine.comps.1.permanentLabel>被魔力爆炸摧毁</TM_ManaMine.comps.1.permanentLabel>
+  <TM_ManaMine.comps.1.permanentLabel>destroyed by a mana explosion</TM_ManaMine.comps.1.permanentLabel>
   <!--EN: Explosive release of contained mana.-->
-  <TM_ManaMine.description>爆炸性地释放所含法力。</TM_ManaMine.description>
+  <TM_ManaMine.description>将魔力与物质压缩造成极强的爆炸. 心灵之蔓的力量会从地雷中扩展; 当一个受害者惊扰到这些心灵之蔓， 它将会瓦解领域内的一切并触发地雷。2.4米 爆炸半径。</TM_ManaMine.description>
   <!--EN: blasted off-->
   <TM_ManaMine.injuryProps.destroyedLabel>枯萎</TM_ManaMine.injuryProps.destroyedLabel>
   <!--EN: burned out-->
@@ -1921,55 +1921,55 @@
   <!--EN: V-->
   <TM_Manipulation.stages.4.label>V</TM_Manipulation.stages.4.label>
   <!--EN: Improves armor, but reduces movement speed.-->
-  <TM_Mecha.Golem_BallisticPlateHD.description>提高防御，但降低移动速度。</TM_Mecha.Golem_BallisticPlateHD.description>
+  <TM_Mecha-Golem_BallisticPlateHD.description>提高防御，但降低移动速度。</TM_Mecha-Golem_BallisticPlateHD.description>
   <!--EN: Ballistic plate-->
-  <TM_Mecha.Golem_BallisticPlateHD.label>防御板</TM_Mecha.Golem_BallisticPlateHD.label>
+  <TM_Mecha-Golem_BallisticPlateHD.label>防御板</TM_Mecha-Golem_BallisticPlateHD.label>
   <!--EN: Earth core processor upgrades increase armor and protection.-->
-  <TM_Mecha.Golem_EarthCoreHD.description>地之核心升级增加护甲和防御。</TM_Mecha.Golem_EarthCoreHD.description>
+  <TM_Mecha-Golem_EarthCoreHD.description>地之核心升级增加护甲和防御。</TM_Mecha-Golem_EarthCoreHD.description>
   <!--EN: Earth core-->
-  <TM_Mecha.Golem_EarthCoreHD.label>地之核心</TM_Mecha.Golem_EarthCoreHD.label>
+  <TM_Mecha-Golem_EarthCoreHD.label>地之核心</TM_Mecha-Golem_EarthCoreHD.label>
   <!--EN: Mk.1-->
-  <TM_Mecha.Golem_EarthCoreHD.stages.0.label>Mk.1</TM_Mecha.Golem_EarthCoreHD.stages.0.label>
+  <TM_Mecha-Golem_EarthCoreHD.stages.0.label>Mk.1</TM_Mecha-Golem_EarthCoreHD.stages.0.label>
   <!--EN: Mk.2-->
-  <TM_Mecha.Golem_EarthCoreHD.stages.1.label>Mk.2</TM_Mecha.Golem_EarthCoreHD.stages.1.label>
+  <TM_Mecha-Golem_EarthCoreHD.stages.1.label>Mk.2</TM_Mecha-Golem_EarthCoreHD.stages.1.label>
   <!--EN: Mk.3-->
-  <TM_Mecha.Golem_EarthCoreHD.stages.2.label>Mk.3</TM_Mecha.Golem_EarthCoreHD.stages.2.label>
+  <TM_Mecha-Golem_EarthCoreHD.stages.2.label>Mk.3</TM_Mecha-Golem_EarthCoreHD.stages.2.label>
   <!--EN: Flame core upgrades increase movement speed and decreases cooldown time for attacks and abilities.-->
-  <TM_Mecha.Golem_FlameCoreHD.description>焰之核心升级提高移动速度，减少攻击和技能的冷却时间。</TM_Mecha.Golem_FlameCoreHD.description>
+  <TM_Mecha-Golem_FlameCoreHD.description>焰之核心升级提高移动速度，减少攻击和技能的冷却时间。</TM_Mecha-Golem_FlameCoreHD.description>
   <!--EN: Flame core-->
-  <TM_Mecha.Golem_FlameCoreHD.label>焰之核心</TM_Mecha.Golem_FlameCoreHD.label>
+  <TM_Mecha-Golem_FlameCoreHD.label>焰之核心</TM_Mecha-Golem_FlameCoreHD.label>
   <!--EN: Mk.1-->
-  <TM_Mecha.Golem_FlameCoreHD.stages.0.label>Mk.1</TM_Mecha.Golem_FlameCoreHD.stages.0.label>
+  <TM_Mecha-Golem_FlameCoreHD.stages.0.label>Mk.1</TM_Mecha-Golem_FlameCoreHD.stages.0.label>
   <!--EN: Mk.2-->
-  <TM_Mecha.Golem_FlameCoreHD.stages.1.label>Mk.2</TM_Mecha.Golem_FlameCoreHD.stages.1.label>
+  <TM_Mecha-Golem_FlameCoreHD.stages.1.label>Mk.2</TM_Mecha-Golem_FlameCoreHD.stages.1.label>
   <!--EN: Mk.3-->
-  <TM_Mecha.Golem_FlameCoreHD.stages.2.label>Mk.3</TM_Mecha.Golem_FlameCoreHD.stages.2.label>
+  <TM_Mecha-Golem_FlameCoreHD.stages.2.label>Mk.3</TM_Mecha-Golem_FlameCoreHD.stages.2.label>
   <!--EN: A gatling cannon mounted to the right shoulder.-->
-  <TM_Mecha.Golem_GatlingCannonHD.description>安装在右肩的加特林机炮。</TM_Mecha.Golem_GatlingCannonHD.description>
+  <TM_Mecha-Golem_GatlingCannonHD.description>安装在右肩的加特林机炮。</TM_Mecha-Golem_GatlingCannonHD.description>
   <!--EN: Gatling Cannon-->
-  <TM_Mecha.Golem_GatlingCannonHD.label>加特林机炮</TM_Mecha.Golem_GatlingCannonHD.label>
+  <TM_Mecha-Golem_GatlingCannonHD.label>加特林机炮</TM_Mecha-Golem_GatlingCannonHD.label>
   <!--EN: Lightning core upgrades increase improve movement and processing speed.-->
-  <TM_Mecha.Golem_LightningCoreHD.description>雷之核心升级可提高移动和制作速度。</TM_Mecha.Golem_LightningCoreHD.description>
+  <TM_Mecha-Golem_LightningCoreHD.description>雷之核心升级可提高移动和制作速度。</TM_Mecha-Golem_LightningCoreHD.description>
   <!--EN: Lightning core-->
-  <TM_Mecha.Golem_LightningCoreHD.label>雷之核心</TM_Mecha.Golem_LightningCoreHD.label>
+  <TM_Mecha-Golem_LightningCoreHD.label>雷之核心</TM_Mecha-Golem_LightningCoreHD.label>
   <!--EN: Mk.1-->
-  <TM_Mecha.Golem_LightningCoreHD.stages.0.label>Mk.1</TM_Mecha.Golem_LightningCoreHD.stages.0.label>
+  <TM_Mecha-Golem_LightningCoreHD.stages.0.label>Mk.1</TM_Mecha-Golem_LightningCoreHD.stages.0.label>
   <!--EN: Mk.2-->
-  <TM_Mecha.Golem_LightningCoreHD.stages.1.label>Mk.2</TM_Mecha.Golem_LightningCoreHD.stages.1.label>
+  <TM_Mecha-Golem_LightningCoreHD.stages.1.label>Mk.2</TM_Mecha-Golem_LightningCoreHD.stages.1.label>
   <!--EN: Mk.3-->
-  <TM_Mecha.Golem_LightningCoreHD.stages.2.label>Mk.3</TM_Mecha.Golem_LightningCoreHD.stages.2.label>
+  <TM_Mecha-Golem_LightningCoreHD.stages.2.label>Mk.3</TM_Mecha-Golem_LightningCoreHD.stages.2.label>
   <!--EN: Water core processor upgrades increase armor and regeneration, and improve energy conservation.-->
-  <TM_Mecha.Golem_WaterCoreHD.description>水之核心升级可增加护甲和再生能力，并提高节能能力。</TM_Mecha.Golem_WaterCoreHD.description>
+  <TM_Mecha-Golem_WaterCoreHD.description>水之核心升级可增加护甲和再生能力，并提高节能能力。</TM_Mecha-Golem_WaterCoreHD.description>
   <!--EN: Water core-->
-  <TM_Mecha.Golem_WaterCoreHD.label>水之核心</TM_Mecha.Golem_WaterCoreHD.label>
+  <TM_Mecha-Golem_WaterCoreHD.label>水之核心</TM_Mecha-Golem_WaterCoreHD.label>
   <!--EN: Mk.1-->
-  <TM_Mecha.Golem_WaterCoreHD.stages.0.label>Mk.1</TM_Mecha.Golem_WaterCoreHD.stages.0.label>
+  <TM_Mecha-Golem_WaterCoreHD.stages.0.label>Mk.1</TM_Mecha-Golem_WaterCoreHD.stages.0.label>
   <!--EN: Mk.2-->
-  <TM_Mecha.Golem_WaterCoreHD.stages.1.label>Mk.2</TM_Mecha.Golem_WaterCoreHD.stages.1.label>
+  <TM_Mecha-Golem_WaterCoreHD.stages.1.label>Mk.2</TM_Mecha-Golem_WaterCoreHD.stages.1.label>
   <!--EN: Mk.3-->
-  <TM_Mecha.Golem_WaterCoreHD.stages.2.label>Mk.3</TM_Mecha.Golem_WaterCoreHD.stages.2.label>
+  <TM_Mecha-Golem_WaterCoreHD.stages.2.label>Mk.3</TM_Mecha-Golem_WaterCoreHD.stages.2.label>
   <!--EN: medical supplies are not meant to regen-->
-  <TM_MedicalSupplyHD.comps.0.regenPerTickUpgradeName>医疗用品并不意味着再生</TM_MedicalSupplyHD.comps.0.regenPerTickUpgradeName>
+  <TM_MedicalSupplyHD.comps.0.regenPerTickUpgradeName>medical supplies are not meant to regen</TM_MedicalSupplyHD.comps.0.regenPerTickUpgradeName>
   <!--EN: Accounts for the medical supplies equipped by a Field Medic.-->
   <TM_MedicalSupplyHD.description>战地医生装备的医疗用品。</TM_MedicalSupplyHD.description>
   <!--EN: Medical Supplies-->
@@ -2149,7 +2149,7 @@
   <!--EN: sutured-->
   <TM_PainHD.comps.0.labelTendedWellInner>已缝合</TM_PainHD.comps.0.labelTendedWellInner>
   <!--EN: withered-->
-  <TM_PainHD.comps.1.permanentLabel>干枯</TM_PainHD.comps.1.permanentLabel>
+  <TM_PainHD.comps.1.permanentLabel>withered</TM_PainHD.comps.1.permanentLabel>
   <!--EN: An injury cursed with extreme pain.-->
   <TM_PainHD.description>因诅咒而受到极度疼痛的伤害。</TM_PainHD.description>
   <!--EN: withered away-->
@@ -2175,7 +2175,7 @@
   <!--EN: sutured-->
   <TM_Poison_HD.comps.0.labelTendedWellInner>已包扎</TM_Poison_HD.comps.0.labelTendedWellInner>
   <!--EN: withered away-->
-  <TM_Poison_HD.comps.1.permanentLabel>枯萎了</TM_Poison_HD.comps.1.permanentLabel>
+  <TM_Poison_HD.comps.1.permanentLabel>withered away</TM_Poison_HD.comps.1.permanentLabel>
   <!--EN: Damage caused by poison.-->
   <TM_Poison_HD.description>这人已经中毒.</TM_Poison_HD.description>
   <!--EN: withered-->
@@ -2275,7 +2275,7 @@
   <!--EN: sutured-->
   <TM_PsionicInjuryHD.comps.0.labelTendedWellInner>已缝合</TM_PsionicInjuryHD.comps.0.labelTendedWellInner>
   <!--EN: destroyed by psionic power-->
-  <TM_PsionicInjuryHD.comps.1.permanentLabel>被灵能摧毁</TM_PsionicInjuryHD.comps.1.permanentLabel>
+  <TM_PsionicInjuryHD.comps.1.permanentLabel>destroyed by psionic power</TM_PsionicInjuryHD.comps.1.permanentLabel>
   <!--EN: Injury caused by psionic power.-->
   <TM_PsionicInjuryHD.description>灵能造成的伤害.</TM_PsionicInjuryHD.description>
   <!--EN: blasted off-->
@@ -2555,7 +2555,7 @@
   <!--EN: sutured-->
   <TM_ShadowHD.comps.0.labelTendedWellInner>已缝合</TM_ShadowHD.comps.0.labelTendedWellInner>
   <!--EN: touched by shadow-->
-  <TM_ShadowHD.comps.1.permanentLabel>被影子触动</TM_ShadowHD.comps.1.permanentLabel>
+  <TM_ShadowHD.comps.1.permanentLabel>touched by shadow</TM_ShadowHD.comps.1.permanentLabel>
   <!--EN: Shadow damage.-->
   <TM_ShadowHD.description>暗影伤害。</TM_ShadowHD.description>
   <!--EN: withered-->
@@ -2761,7 +2761,7 @@
   <!--EN: sutured-->
   <TM_SpiritHD.comps.0.labelTendedWellInner>已缝合</TM_SpiritHD.comps.0.labelTendedWellInner>
   <!--EN: drained of spirit-->
-  <TM_SpiritHD.comps.1.permanentLabel>精神枯竭</TM_SpiritHD.comps.1.permanentLabel>
+  <TM_SpiritHD.comps.1.permanentLabel>drained of spirit</TM_SpiritHD.comps.1.permanentLabel>
   <!--EN: Harmful spiritual energy.-->
   <TM_SpiritHD.description>有害的精神能量.</TM_SpiritHD.description>
   <!--EN: lifeless-->
@@ -2875,7 +2875,7 @@
   <!--EN: tended-->
   <TM_SymbiosisDamage.comps.0.labelTendedWellInner>照顾</TM_SymbiosisDamage.comps.0.labelTendedWellInner>
   <!--EN: residual injury-->
-  <TM_SymbiosisDamage.comps.2.permanentLabel>残留损伤</TM_SymbiosisDamage.comps.2.permanentLabel>
+  <TM_SymbiosisDamage.comps.2.permanentLabel>residual injury</TM_SymbiosisDamage.comps.2.permanentLabel>
   <!--EN: Damage inferred through a symbiosis connection.-->
   <TM_SymbiosisDamage.description>思维共生的反噬</TM_SymbiosisDamage.description>
   <!--EN: destroyed-->
@@ -2969,7 +2969,7 @@
   <!--EN: sutured-->
   <TM_ThrumboCleave.comps.0.labelTendedWellInner>已缝合</TM_ThrumboCleave.comps.0.labelTendedWellInner>
   <!--EN: scar-->
-  <TM_ThrumboCleave.comps.2.permanentLabel>疤痕</TM_ThrumboCleave.comps.2.permanentLabel>
+  <TM_ThrumboCleave.comps.2.permanentLabel>scar</TM_ThrumboCleave.comps.2.permanentLabel>
   <!--EN: An attack powerful enough to shear through multiple objects.-->
   <TM_ThrumboCleave.description>足以穿透多个物体的攻击。</TM_ThrumboCleave.description>
   <!--EN: Sliced off-->
@@ -2977,7 +2977,7 @@
   <!--EN: Sliced out-->
   <TM_ThrumboCleave.injuryProps.destroyedOutLabel>切掉</TM_ThrumboCleave.injuryProps.destroyedOutLabel>
   <!--EN: cleave-->
-  <TM_ThrumboCleave.label>顺劈斩</TM_ThrumboCleave.label>
+  <TM_ThrumboCleave.label>劈斩</TM_ThrumboCleave.label>
   <!--EN: a massive wound-->
   <TM_ThrumboCleave.labelNoun>巨大伤口</TM_ThrumboCleave.labelNoun>
   <!--EN: The magical entwining of nature and flesh will regrow this body part over several days.-->
@@ -2995,7 +2995,7 @@
   <!--EN: sutured-->
   <TM_TormentHD.comps.0.labelTendedWellInner>已缝合</TM_TormentHD.comps.0.labelTendedWellInner>
   <!--EN: rotten-->
-  <TM_TormentHD.comps.1.permanentLabel>腐烂了</TM_TormentHD.comps.1.permanentLabel>
+  <TM_TormentHD.comps.1.permanentLabel>rotten</TM_TormentHD.comps.1.permanentLabel>
   <!--EN: Pain induced by dark energy.-->
   <TM_TormentHD.description>暗法力引起的疼痛。</TM_TormentHD.description>
   <!--EN: melted off-->
@@ -3021,7 +3021,7 @@
   <!--EN: tended-->
   <TM_ToxinHD.comps.0.labelTendedWellInner>照顾</TM_ToxinHD.comps.0.labelTendedWellInner>
   <!--EN: toxic tissue-->
-  <TM_ToxinHD.comps.2.permanentLabel>中毒组织</TM_ToxinHD.comps.2.permanentLabel>
+  <TM_ToxinHD.comps.2.permanentLabel>toxic tissue</TM_ToxinHD.comps.2.permanentLabel>
   <!--EN: damage from toxins.-->
   <TM_ToxinHD.description>毒素造成的损害。</TM_ToxinHD.description>
   <!--EN: destroyed-->
@@ -3253,7 +3253,7 @@
   <!--EN: sutured-->
   <TM_Whirlwind_Knockdown.comps.0.labelTendedWellInner>已缝合</TM_Whirlwind_Knockdown.comps.0.labelTendedWellInner>
   <!--EN: sliced off-->
-  <TM_Whirlwind_Knockdown.comps.2.permanentLabel>削掉</TM_Whirlwind_Knockdown.comps.2.permanentLabel>
+  <TM_Whirlwind_Knockdown.comps.2.permanentLabel>sliced off</TM_Whirlwind_Knockdown.comps.2.permanentLabel>
   <!--EN: Overwhelmed from a flurry of attacks.-->
   <TM_Whirlwind_Knockdown.description>让人在一系列的攻击中不知所措.</TM_Whirlwind_Knockdown.description>
   <!--EN: sliced off-->
@@ -3283,7 +3283,7 @@
   <!--EN: sutured-->
   <TM_arcaneSpectre.comps.0.labelTendedWellInner>已缝合</TM_arcaneSpectre.comps.0.labelTendedWellInner>
   <!--EN: pale scar-->
-  <TM_arcaneSpectre.comps.2.permanentLabel>苍白的疤痕</TM_arcaneSpectre.comps.2.permanentLabel>
+  <TM_arcaneSpectre.comps.2.permanentLabel>pale scar</TM_arcaneSpectre.comps.2.permanentLabel>
   <!--EN: Spirit damage from a spectre.-->
   <TM_arcaneSpectre.description>幽灵造成的精神伤害。</TM_arcaneSpectre.description>
   <!--EN: Cut off-->

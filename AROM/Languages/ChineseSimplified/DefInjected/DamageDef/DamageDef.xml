@@ -19,11 +19,11 @@
   <!--EN: {0} mysteriously departed.-->
   <RayofHope.deathMessage>{0} 神秘地死去。</RayofHope.deathMessage>
   <!--EN: Magical Augmentation-->
-  <RayofHope.label>魔力强化</RayofHope.label>
+  <RayofHope.label>希望之光</RayofHope.label>
   <!--EN: {0} mysteriously departed.-->
   <Shadow.deathMessage>{0} 神秘地死去。</Shadow.deathMessage>
   <!--EN: Magical Augmentation-->
-  <Shadow.label>魔法增益</Shadow.label>
+  <Shadow.label>暗影随形</Shadow.label>
   <!--EN: {0} has frozen to death.-->
   <Snowball.deathMessage>{0} 被冻成冰块。</Snowball.deathMessage>
   <!--EN: snowball-->
@@ -31,7 +31,7 @@
   <!--EN: {0} mysteriously departed.-->
   <SoothingBreeze.deathMessage>{0} 神秘地死去。</SoothingBreeze.deathMessage>
   <!--EN: Magical Augmentation-->
-  <SoothingBreeze.label>魔法增益</SoothingBreeze.label>
+  <SoothingBreeze.label>抚慰之风</SoothingBreeze.label>
   <!--EN: {0} was destroyed by arcane power.-->
   <TM_Arcane.deathMessage>{0} 被神秘的力量摧毁了。</TM_Arcane.deathMessage>
   <!--EN: Arcane-->
@@ -51,11 +51,11 @@
   <!--EN: {0} froze to death in a blizzard.-->
   <TM_Blizzard_Large.deathMessage>{0} 在暴风雪中被冻成冰块。</TM_Blizzard_Large.deathMessage>
   <!--EN: Ice Magic-->
-  <TM_Blizzard_Large.label>冰系魔法</TM_Blizzard_Large.label>
+  <TM_Blizzard_Large.label>暴风雪 (大型)</TM_Blizzard_Large.label>
   <!--EN: {0} froze to death in a blizzard.-->
   <TM_Blizzard_Small.deathMessage>{0} 在暴风雪中被冻成冰块。</TM_Blizzard_Small.deathMessage>
   <!--EN: Ice Magic-->
-  <TM_Blizzard_Small.label>冰系魔法</TM_Blizzard_Small.label>
+  <TM_Blizzard_Small.label>暴风雪(小型)</TM_Blizzard_Small.label>
   <!--EN: {0} has been burned to death.-->
   <TM_BloodBurn.deathMessage>{0} 已被烧死。</TM_BloodBurn.deathMessage>
   <!--EN: blood burn-->
@@ -67,7 +67,7 @@
   <!--EN: {0} has died in an explosion.-->
   <TM_BreachingCharge.deathMessage>{0} 死于爆炸。</TM_BreachingCharge.deathMessage>
   <!--EN: breaching charge-->
-  <TM_BreachingCharge.label>逆反爆炸</TM_BreachingCharge.label>
+  <TM_BreachingCharge.label>逆反电荷</TM_BreachingCharge.label>
   <!--EN: {0} was vanquished in burning light.-->
   <TM_BurningLight.deathMessage>{0}在熊熊烈火中被烧死。</TM_BurningLight.deathMessage>
   <!--EN: Burning light-->
@@ -91,7 +91,7 @@
   <!--EN: {0} was destroyed by an exploding corpse.-->
   <TM_CorpseExplosion.deathMessage>{0} 被爆炸的尸体消灭。</TM_CorpseExplosion.deathMessage>
   <!--EN: corpse explosion-->
-  <TM_CorpseExplosion.label>尸爆术</TM_CorpseExplosion.label>
+  <TM_CorpseExplosion.label>尸爆术（I）</TM_CorpseExplosion.label>
   <!--EN: {0} was taken by death.-->
   <TM_Death.deathMessage>{0} 被死神带离这个世界。</TM_Death.deathMessage>
   <!--EN: Death-->
@@ -99,7 +99,7 @@
   <!--EN: {0} was consumed by agony.-->
   <TM_DeathBolt.deathMessage>{0} 在痛苦中死去。</TM_DeathBolt.deathMessage>
   <!--EN: death bolt-->
-  <TM_DeathBolt.label>死亡螺旋</TM_DeathBolt.label>
+  <TM_DeathBolt.label>死亡螺旋（I）</TM_DeathBolt.label>
   <!--EN: {0}'s body decayed.-->
   <TM_DecayDD.deathMessage>{0}的躯体腐烂成尘。</TM_DecayDD.deathMessage>
   <!--EN: Decay-->
@@ -111,7 +111,7 @@
   <!--EN: {0} died from a disabling shot...-->
   <TM_DisablingShot.deathMessage>{0} 由于残废射击而死..。</TM_DisablingShot.deathMessage>
   <!--EN: Disabling Shot-->
-  <TM_DisablingShot.label>残废射击</TM_DisablingShot.label>
+  <TM_DisablingShot.label>残废射击（I）</TM_DisablingShot.label>
   <!--EN: {0} has been torn apart.-->
   <TM_Dismember.deathMessage>{0}被分为好几块。</TM_Dismember.deathMessage>
   <!--EN: tear-->
@@ -151,15 +151,15 @@
   <!--EN: {0} was destroyed by elemental fire.-->
   <TM_Firestorm_Large.deathMessage>{0} 葬身火海。</TM_Firestorm_Large.deathMessage>
   <!--EN: Fire Magic-->
-  <TM_Firestorm_Large.label>火系魔法</TM_Firestorm_Large.label>
+  <TM_Firestorm_Large.label>火焰风暴 (大型)</TM_Firestorm_Large.label>
   <!--EN: {0} was destroyed by elemental fire.-->
   <TM_Firestorm_Small.deathMessage>{0} 葬身火海。</TM_Firestorm_Small.deathMessage>
   <!--EN: Fire Magic-->
-  <TM_Firestorm_Small.label>火系魔法</TM_Firestorm_Small.label>
+  <TM_Firestorm_Small.label>火焰风暴 (小型)</TM_Firestorm_Small.label>
   <!--EN: {0} was destroyed by elemental fire.-->
   <TM_Firestorm_Tiny.deathMessage>{0} 葬身火海。</TM_Firestorm_Tiny.deathMessage>
   <!--EN: Fire Magic-->
-  <TM_Firestorm_Tiny.label>火系魔法</TM_Firestorm_Tiny.label>
+  <TM_Firestorm_Tiny.label>火焰风暴 (微型)</TM_Firestorm_Tiny.label>
   <!--EN: {0} was torn apart.-->
   <TM_GrapplingHook.deathMessage>{0} 被撕裂成几块。</TM_GrapplingHook.deathMessage>
   <!--EN: Grappling Hook-->
@@ -171,25 +171,25 @@
   <!--EN: {0} was taken out with a headshot.-->
   <TM_Headshot.deathMessage>{0} 被一击爆头。</TM_Headshot.deathMessage>
   <!--EN: Headshot-->
-  <TM_Headshot.label>爆头</TM_Headshot.label>
+  <TM_Headshot.label>爆头一击</TM_Headshot.label>
   <!--EN: Heal (I)-->
   <TM_Heal_I.label>圣光术 (I)</TM_Heal_I.label>
   <!--EN: {0} was destroyed by holy power.-->
   <TM_Holy.deathMessage>{0} 被神罚摧毁。</TM_Holy.deathMessage>
   <!--EN: Holy-->
-  <TM_Holy.label>神罚</TM_Holy.label>
+  <TM_Holy.label>神罚天降</TM_Holy.label>
   <!--EN: {0} was destroyed by elemental lightning.-->
   <TM_Lightning.deathMessage>{0} 被闪电击杀。</TM_Lightning.deathMessage>
   <!--EN: Lightning Magic-->
-  <TM_Lightning.label>雷系魔法</TM_Lightning.label>
+  <TM_Lightning.label>闪电冲击</TM_Lightning.label>
   <!--EN: {0} was destroyed by elemental lightning.-->
   <TM_LightningCloud.deathMessage>{0} 被闪电击杀。</TM_LightningCloud.deathMessage>
   <!--EN: Lightning Magic-->
-  <TM_LightningCloud.label>雷系魔法</TM_LightningCloud.label>
+  <TM_LightningCloud.label>天丛云雷</TM_LightningCloud.label>
   <!--EN: {0} was destroyed by arcane magic.-->
   <TM_MagicMissile.deathMessage>{0} 被奥术飞弹贯穿了身体。</TM_MagicMissile.deathMessage>
   <!--EN: Magic Missile-->
-  <TM_MagicMissile.label>奥术飞弹</TM_MagicMissile.label>
+  <TM_MagicMissile.label>魔法飞弹（I）</TM_MagicMissile.label>
   <!--EN: {0} was destroyed by arcane magic.-->
   <TM_MagicMissile_Weak.deathMessage>{0} 被奥术能量击杀。</TM_MagicMissile_Weak.deathMessage>
   <!--EN: magical energy-->
@@ -201,7 +201,7 @@
   <!--EN: {0} was destroyed by holy power.-->
   <TM_Overwhelm.deathMessage>{0} 被神圣之力消灭。</TM_Overwhelm.deathMessage>
   <!--EN: overwhelming light-->
-  <TM_Overwhelm.label>神圣之力</TM_Overwhelm.label>
+  <TM_Overwhelm.label>圣光压制</TM_Overwhelm.label>
   <!--EN: {0} died from overwhelming pain.-->
   <TM_PainDD.deathMessage>{0} 死于剧痛。</TM_PainDD.deathMessage>
   <!--EN: Pain-->
@@ -213,11 +213,11 @@
   <!--EN: {0} was cut to ribbons.-->
   <TM_PhaseStrike.deathMessage>{0} 被切成碎片。</TM_PhaseStrike.deathMessage>
   <!--EN: phase strike-->
-  <TM_PhaseStrike.label>相位打击</TM_PhaseStrike.label>
+  <TM_PhaseStrike.label>次元之刃（I）</TM_PhaseStrike.label>
   <!--EN: {0} succumbed to poison.-->
   <TM_Poison.deathMessage>{0} 死于中毒。</TM_Poison.deathMessage>
   <!--EN: Poison-->
-  <TM_Poison.label>毒药</TM_Poison.label>
+  <TM_Poison.label>施毒术</TM_Poison.label>
   <!--EN: {0} was destroyed by psionic power.-->
   <TM_PsionicInjury.deathMessage>{0} 被灵能刺穿。</TM_PsionicInjury.deathMessage>
   <!--EN: Psionic-->
@@ -225,7 +225,7 @@
   <!--EN: {0} was consumed by shadow.-->
   <TM_Shadow.deathMessage>{0} 被阴影吞噬了。</TM_Shadow.deathMessage>
   <!--EN: Shadow-->
-  <TM_Shadow.label>阴影</TM_Shadow.label>
+  <TM_Shadow.label>暗影随形（I）</TM_Shadow.label>
   <!--EN: {0} has been shot to death.-->
   <TM_Shrapnel.deathMessage>{0} 被射成刺猬。</TM_Shrapnel.deathMessage>
   <!--EN: ranger extra damage-->

@@ -7,7 +7,7 @@
   <!--EN: legs-->
   <Demon_Legs.label>腿</Demon_Legs.label>
   <!--EN: right arm-->
-  <Demon_RightArm.label>左臂</Demon_RightArm.label>
+  <Demon_RightArm.label>右臂</Demon_RightArm.label>
   <!--EN: wings-->
   <Demon_Wings.label>翅膀</Demon_Wings.label>
   <!--EN: horn-->
@@ -23,13 +23,13 @@
   <!--EN: horns-->
   <Flesh_Horns.label>犄角</Flesh_Horns.label>
   <!--EN: bracer-->
-  <Flesh_LeftArm_Brace.label>左支柱</Flesh_LeftArm_Brace.label>
+  <Flesh_LeftArm_Brace.label>护腕</Flesh_LeftArm_Brace.label>
   <!--EN: cleaver-->
-  <Flesh_LeftArm_Cleaver.label>左切割器</Flesh_LeftArm_Cleaver.label>
+  <Flesh_LeftArm_Cleaver.label>剁肉刀</Flesh_LeftArm_Cleaver.label>
   <!--EN: bracer-->
-  <Flesh_RightArm_Brace.label>右支架</Flesh_RightArm_Brace.label>
+  <Flesh_RightArm_Brace.label>护腕</Flesh_RightArm_Brace.label>
   <!--EN: cleaver-->
-  <Flesh_RightArm_Cleaver.label>右切割器</Flesh_RightArm_Cleaver.label>
+  <Flesh_RightArm_Cleaver.label>剁肉刀</Flesh_RightArm_Cleaver.label>
   <!--EN: tusks-->
   <Flesh_Tusks.label>獠牙</Flesh_Tusks.label>
   <!--EN: smash-->
@@ -49,9 +49,9 @@
   <!--EN: arms-->
   <Maharal_Arms.label>手臂</Maharal_Arms.label>
   <!--EN: body smash-->
-  <Mecha_Base.label>运动核心</Mecha_Base.label>
+  <Mecha_Base.label>身体扣杀</Mecha_Base.label>
   <!--EN: left arm-->
-  <Mecha_LeftArm.label>左手臂</Mecha_LeftArm.label>
+  <Mecha_LeftArm.label>左臂</Mecha_LeftArm.label>
   <!--EN: mecha-axe-->
   <Mecha_LeftArm_Axe.label>机械斧</Mecha_LeftArm_Axe.label>
   <!--EN: mecha-sword-->
@@ -77,7 +77,7 @@
   <!--EN: arms-->
   <TM_Silk_Arms.label>武器</TM_Silk_Arms.label>
   <!--EN: movement base-->
-  <TM_Wood_Base.label>移动基座</TM_Wood_Base.label>
+  <TM_Wood_Base.label>运动基地</TM_Wood_Base.label>
   <!--EN: central force-->
-  <TM_Wood_Manipulator.label>力量投影仪</TM_Wood_Manipulator.label>
+  <TM_Wood_Manipulator.label>中心力量</TM_Wood_Manipulator.label>
 </LanguageData>

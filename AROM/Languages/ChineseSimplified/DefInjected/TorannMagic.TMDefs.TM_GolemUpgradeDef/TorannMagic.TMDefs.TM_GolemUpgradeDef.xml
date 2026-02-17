@@ -782,9 +782,12 @@ Ability Damage:		+[10%/20%/30%]
 Processing:		+[15%/30%/45%]
 Damage Reduction:	[85%/80%/75%]
 *Only one Coat of Arms can be used, but may be upgraded multiple times*-->
-  <TM_HollowGolem_CoAArcane.description>为空洞傀儡铬画一层与奥术协调的纹章，每升一级[1/2/3]提供以下增益：\n技能冷却：-[12%/24%/36%]\n技能伤害：+[10%/20%/30%]\n处理：+[15%/30%/45%]\n\n此外，腐朽之触每次命中后恢复[20+5*等级]能量-</TM_HollowGolem_CoAArcane.description>
+  <TM_HollowGolem_CoAArcane.description>被动地增加统计数据并改善衰减触摸以恢复每次点击的20 + 5*水平能量。
+技能冷却时间:	-[12%/24%/36%]
+技能伤害:		+[10%/20%/30%]
+处理能力:		+[15%/30%/45%]</TM_HollowGolem_CoAArcane.description>
   <!--EN: Coat of Arms: Arcane-->
-  <TM_HollowGolem_CoAArcane.label>纹章：奥术</TM_HollowGolem_CoAArcane.label>
+  <TM_HollowGolem_CoAArcane.label>纹章: 奥术</TM_HollowGolem_CoAArcane.label>
   <!--EN: Passively increases stats and improves decay touch to be 50% more effective and strike twice.
 Armor:		+[5%/10%/15%]
 Ability Cooldown:	-[8%/16%/24%]
@@ -792,9 +795,13 @@ Ability Damage:	+[10%/20%/30%]
 Processing:	+[15%/30%/45%]
 Damage Reduction:	[85%/80%/75%]
 *Only one Coat of Arms can be used, but may be upgraded multiple times*-->
-  <TM_HollowGolem_CoADeath.description>为空洞傀儡铬画一层与死亡协调的纹章，每升一级[1/2/3]提供以下增益：\n护甲：+[5%/10%/15%]\n技能冷却：-[8%/16%/24%]\n技能伤害：+[10%/20%/30%]\n处理能力：-[5%/10%/15%]\n\n此外，腐朽之触的效果提高50%，攻击之后还会攻击一次。</TM_HollowGolem_CoADeath.description>
+  <TM_HollowGolem_CoADeath.description>被动地增加统计数据,并提高衰减触感,提高50％,并两次罢工。
+装甲： +[5％/10％/15％]
+技能冷却时间:	-[8%/16%/24%]
+技能伤害:	+[10%/20%/30%]
+处理能力:	+[15%/30%/45%]</TM_HollowGolem_CoADeath.description>
   <!--EN: Coat of Arms: Death-->
-  <TM_HollowGolem_CoADeath.label>纹章：死亡</TM_HollowGolem_CoADeath.label>
+  <TM_HollowGolem_CoADeath.label>纹章: 死亡</TM_HollowGolem_CoADeath.label>
   <!--EN: Passively increases stats and improves decay touch to deal bonus 10 + 5*level burn damage:
 Movement:	+[0.2c/0.3c/0.35c]
 Heat Armor:	+[30%/50%/60%]
@@ -808,16 +815,29 @@ Cooldown:	2.5s
 Range:	4c
 Health restored per fire: 10
 *Only one Coat of Arms can be used, but may be upgraded multiple times*-->
-  <TM_HollowGolem_CoAFire.description>为空洞傀儡铬画一层与火焰协调的纹章，每升一级[1/2/3]提供以下增益：\n移速：+[0.2c/0.3c/0.35c]\n热能护甲：+[30%/50%/60%]\n处理能力：+[10%/20%/30%]\n技能冷却：-[10%/20%/30%]\n\n此外，腐朽之触造成额外的灼伤伤害，傀儡可以吸收附近的火焰以恢复自身的伤口。</TM_HollowGolem_CoAFire.description>
+  <TM_HollowGolem_CoAFire.description>被动地增加统计数据并改善衰减触摸以交易奖金10 + 5*级别的燃烧伤害：
+移动速度:	+[0.2c/0.3c/0.35c]
+热能护甲:	+[30%/50%/60%]
+技能冷却时间:	-[10%/20%/30%]
+处理能力:	+[10%/20%/30%]
+
+吸收火焰
+蓄能消耗:	0
+冷却时间:	4.2s
+范围:	2c
+每次吸收火恢复的健康值: 7</TM_HollowGolem_CoAFire.description>
   <!--EN: Coat of Arms: Fire-->
-  <TM_HollowGolem_CoAFire.label>纹章：火</TM_HollowGolem_CoAFire.label>
+  <TM_HollowGolem_CoAFire.label>纹章: 火</TM_HollowGolem_CoAFire.label>
   <!--EN: Passively increases stats and improves decay touch to heal the golem for 8 + 4*level and another nearby pawn for the same amount.
 Armor:		+[5%/10%/15%]
 Cooldown:	-[10%/20%/30%]
 Processing:	+[10%/20%/30%]
 Damage Reduction:	[85%/80%/75%]
 *Only one Coat of Arms can be used, but may be upgraded multiple times*-->
-  <TM_HollowGolem_CoAIce.description>为空洞傀儡铬画一层与流水协调的纹章，每升一级[1/2/3]提供以下增益：\n护甲：+[5%/10%/15%]\n能力冷却：-[10%/20%/30%]\n处理能力：+[10%/20%/30%]\n\n此外，腐朽之触会治疗[10+3*级]格内的傀儡和一名友方生物，使其获得[10+4*级]回复效果。</TM_HollowGolem_CoAIce.description>
+  <TM_HollowGolem_CoAIce.description>被动地增加统计数据并改善衰减触摸,以治愈8 + 4*水平的魔像,而附近的另一个典当则以相同的量。
+盔甲：		+[5%/10%/15%]
+冷却时间:	-[10%/20%/30%]
+处理能力:	+[10%/20%/30%]</TM_HollowGolem_CoAIce.description>
   <!--EN: Coat of Arms: Water-->
-  <TM_HollowGolem_CoAIce.label>纹章：水</TM_HollowGolem_CoAIce.label>
+  <TM_HollowGolem_CoAIce.label>纹章: 水</TM_HollowGolem_CoAIce.label>
 </LanguageData>

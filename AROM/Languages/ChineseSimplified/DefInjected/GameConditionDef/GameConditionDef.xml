@@ -45,7 +45,7 @@
   <!--EN: mana drain-->
   <ManaDrain.label>法力流失</ManaDrain.label>
   <!--EN: The planet's celestial alignment is shifting, causing an ebb in mana.\n\nAll creatures attuned with magical powers will slowly lose mana and will become physically ill if they have no mana remaining.-->
-  <ManaDrain.letterText>行星的异变导致了魔法能量的逐渐衰落。所有与魔法力量协调的生物会缓慢地失去力量。</ManaDrain.letterText>
+  <ManaDrain.letterText>行星的天象导致了魔法的逐渐衰落。所有与魔法力量协调的生物会缓慢地失去力量。</ManaDrain.letterText>
   <!--EN: The planet's celestial alignment is causing a surge in mana.  All creatures attuned with magical powers will gain mana at an increased rate.-->
   <ManaSurge.description>行星的异变导致了魔力变得汹涌澎湃。所有与魔法力量协调的生物，法力会得到一定量的增长。</ManaSurge.description>
   <!--EN: Magic is returning to normal.-->
@@ -53,7 +53,7 @@
   <!--EN: mana surge-->
   <ManaSurge.label>法力涌动</ManaSurge.label>
   <!--EN: The planet's celestial alignment has shifted, causing a surge in mana.  All creatures attuned with magical powers will gain mana at an increased rate.-->
-  <ManaSurge.letterText>行星的异变导致了魔力变得汹涌澎湃。所有与魔法力量协调的生物，法力会得到一定量的增长。</ManaSurge.letterText>
+  <ManaSurge.letterText>行星的天象导致了魔力激增。所有与魔法力量协调的生物，法力会得到一定量的增长。</ManaSurge.letterText>
   <!--EN: Chaotic forces are causing a dangerous mana storm. During a mana storm, attempts to use mana to realize magical intent external to the caster will harm the caster proportionally to the mana cost of the spell. This damage is applied before the spell incantation begins. Unformed used of mana and internal use of magic, such as the transfer of mana or dispelling an enchantment, remains unaffected. Magic circles or foci cannot be used during this event. While the mana storm is active, energy costs are halved and mana reduction limit is removed..-->
   <TM_ManaStorm.description>混乱的力量正在造成危险的法力风暴。\n\n在法力风暴期间，任何试图使用法力的行为将对施法者造成与法术法力消耗成正比的伤害。这施法前便会造成伤害。未成形魔法的使用和魔法的内部使用，如闪烁魔法或驱散附魔，不受影响。法力风暴时不能使用魔术阵或魔法中心。当法力风暴来临时，所有的能量消耗减半，法力的上限减少将会被移除。</TM_ManaStorm.description>
   <!--EN: Magic is returning to normal.-->

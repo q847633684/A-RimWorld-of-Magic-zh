@@ -35,7 +35,7 @@
   <!--EN: Enables construction of the gemcutting bench and the crafting of tier I enchanting gems.-->
   <TM_Enchanting.description>允许建造附魔台以及打造初级的附魔宝石。</TM_Enchanting.description>
   <!--EN: enchanting-->
-  <TM_Enchanting.label>附魔</TM_Enchanting.label>
+  <TM_Enchanting.label>初级附魔</TM_Enchanting.label>
   <!--EN: Enables crafting of tier III enchanting gems.-->
   <TM_ExpertEnchanting.description>允许打造高级的附魔宝石。</TM_ExpertEnchanting.description>
   <!--EN: expert enchanting-->

@@ -439,11 +439,14 @@ Processing: 	+[15%/30%/45%]
 Damage Reduction:	[85%/80%/75%]
 
 In addition, decay touch restores 20 + 5*level energy per hit.-->
-  <TM_HollowGolem_CoAArcane.description>为空洞傀儡铬画一层与奥术协调的纹章，每升一级[1/2/3]提供以下增益：\n技能冷却：-[12%/24%/36%]\n技能伤害：+[10%/20%/30%]\n处理：+[15%/30%/45%]\n\n此外，腐朽之触每次命中后恢复[20+5*等级]能量-</TM_HollowGolem_CoAArcane.description>
+  <TM_HollowGolem_CoAArcane.description>被动地增加统计数据并改善衰减触摸以恢复每次点击的20 + 5*水平能量。
+技能冷却时间:	-[12%/24%/36%]
+技能伤害:		+[10%/20%/30%]
+处理能力:		+[15%/30%/45%]</TM_HollowGolem_CoAArcane.description>
   <!--EN: crafting golem upgrade-->
   <TM_HollowGolem_CoAArcane.jobString>制造傀儡升级</TM_HollowGolem_CoAArcane.jobString>
   <!--EN: Coat of Arms: Arcane-->
-  <TM_HollowGolem_CoAArcane.label>纹章：奥术</TM_HollowGolem_CoAArcane.label>
+  <TM_HollowGolem_CoAArcane.label>纹章: 奥术</TM_HollowGolem_CoAArcane.label>
   <!--EN: Outfits the hollow golem with a death attuned coat of arms which provides the following benefits per upgrade level [1/2/3]:
 Armor:	+[5%/10%/15%]
 Ability Cooldown:	-[8%/16%/24%]
@@ -452,11 +455,15 @@ Processing:	-[5%/10%/15%]
 Damage Reduction:	[85%/80%/75%]
 
 In addition, decay touch is 50% more effective and strikes twice.-->
-  <TM_HollowGolem_CoADeath.description>为空洞傀儡铬画一层与死亡协调的纹章，每升一级[1/2/3]提供以下增益：\n护甲：+[5%/10%/15%]\n技能冷却：-[8%/16%/24%]\n技能伤害：+[10%/20%/30%]\n处理能力：-[5%/10%/15%]\n\n此外，腐朽之触的效果提高50%，攻击之后还会攻击一次。</TM_HollowGolem_CoADeath.description>
+  <TM_HollowGolem_CoADeath.description>被动地增加统计数据,并提高衰减触感,提高50％,并两次罢工。
+装甲： +[5％/10％/15％]
+技能冷却时间:	-[8%/16%/24%]
+技能伤害:	+[10%/20%/30%]
+处理能力:	+[15%/30%/45%]</TM_HollowGolem_CoADeath.description>
   <!--EN: crafting golem upgrade-->
   <TM_HollowGolem_CoADeath.jobString>制造傀儡升级</TM_HollowGolem_CoADeath.jobString>
   <!--EN: Coat of Arms: Death-->
-  <TM_HollowGolem_CoADeath.label>纹章：死亡</TM_HollowGolem_CoADeath.label>
+  <TM_HollowGolem_CoADeath.label>纹章: 死亡</TM_HollowGolem_CoADeath.label>
   <!--EN: Outfits the hollow golem with a fire attuned coat of arms which provides the following benefits per upgrade level [1/2/3]:
 Movement:	+[0.2c/0.3c/0.35c]
 Heat Armor:	+[30%/50%/60%]
@@ -465,11 +472,21 @@ Cooldown: 	-[10%/20%/30%]
 Damage Reduction:	[85%/80%/75%]
 
 In addition, decay touch deals bonus burn damage and the golem can absorb nearby fire to restore health.-->
-  <TM_HollowGolem_CoAFire.description>为空洞傀儡铬画一层与火焰协调的纹章，每升一级[1/2/3]提供以下增益：\n移速：+[0.2c/0.3c/0.35c]\n热能护甲：+[30%/50%/60%]\n处理能力：+[10%/20%/30%]\n技能冷却：-[10%/20%/30%]\n\n此外，腐朽之触造成额外的灼伤伤害，傀儡可以吸收附近的火焰以恢复自身的伤口。</TM_HollowGolem_CoAFire.description>
+  <TM_HollowGolem_CoAFire.description>被动地增加统计数据并改善衰减触摸以交易奖金10 + 5*级别的燃烧伤害：
+移动速度:	+[0.2c/0.3c/0.35c]
+热能护甲:	+[30%/50%/60%]
+技能冷却时间:	-[10%/20%/30%]
+处理能力:	+[10%/20%/30%]
+
+吸收火焰
+蓄能消耗:	0
+冷却时间:	4.2s
+范围:	2c
+每次吸收火恢复的健康值: 7</TM_HollowGolem_CoAFire.description>
   <!--EN: crafting golem upgrade-->
   <TM_HollowGolem_CoAFire.jobString>制造傀儡升级</TM_HollowGolem_CoAFire.jobString>
   <!--EN: Coat of Arms: Fire-->
-  <TM_HollowGolem_CoAFire.label>纹章：火</TM_HollowGolem_CoAFire.label>
+  <TM_HollowGolem_CoAFire.label>纹章: 火</TM_HollowGolem_CoAFire.label>
   <!--EN: Outfits the hollow golem with a water attuned coat of arms which provides the following benefits per upgrade level [1/2/3]:
 Armor:		+[5%/10%/15%]
 Ability Cooldown:	-[10%/20%/30%]
@@ -477,11 +494,14 @@ Processing:	+[10%/20%/30%]
 Damage Reduction:	[85%/80%/75%]
 
 In addition, decay touch heals the golem and one friendly pawn within 10 + 3*level cells for 10 + 4*level health.-->
-  <TM_HollowGolem_CoAIce.description>为空洞傀儡铬画一层与流水协调的纹章，每升一级[1/2/3]提供以下增益：\n护甲：+[5%/10%/15%]\n能力冷却：-[10%/20%/30%]\n处理能力：+[10%/20%/30%]\n\n此外，腐朽之触会治疗[10+3*级]格内的傀儡和一名友方生物，使其获得[10+4*级]回复效果。</TM_HollowGolem_CoAIce.description>
+  <TM_HollowGolem_CoAIce.description>被动地增加统计数据并改善衰减触摸,以治愈8 + 4*水平的魔像,而附近的另一个典当则以相同的量。
+盔甲：		+[5%/10%/15%]
+冷却时间:	-[10%/20%/30%]
+处理能力:	+[10%/20%/30%]</TM_HollowGolem_CoAIce.description>
   <!--EN: crafting golem upgrade-->
   <TM_HollowGolem_CoAIce.jobString>制造傀儡升级</TM_HollowGolem_CoAIce.jobString>
   <!--EN: Coat of Arms: Water-->
-  <TM_HollowGolem_CoAIce.label>纹章：水</TM_HollowGolem_CoAIce.label>
+  <TM_HollowGolem_CoAIce.label>纹章: 水</TM_HollowGolem_CoAIce.label>
   <!--EN: Equips the hollow golem with the Crown of Awakening which allows it to detect and nullify magic of enemy pawns.-->
   <TM_HollowGolem_Crown.description>为空洞傀儡装备觉醒之冠，使其能够探测并消除其他人所施展的魔法。</TM_HollowGolem_Crown.description>
   <!--EN: crafting golem part-->
@@ -575,7 +595,7 @@ Hit:	+15%-->
 Cooldown:	1200s
 Duration:	100s
 Energy Cost:	50-->
-  <TM_HollowGolem_PGFire.description>为傀儡装备一块火焰保护宝石，在傀儡周边形成一个火焰保护领域。&apos;amp;quot;燃烧之怒&apos;amp;quot;降低所有受到的攻击35%的伤害，烧灼伤口，防止眩晕，并灼伤附近的敌人。一个傀儡只能佩戴一块保护宝石。\n\n冷却：1200秒\n持续时间：100秒\n能源消耗：50</TM_HollowGolem_PGFire.description>
+  <TM_HollowGolem_PGFire.description>为傀儡装备一块火焰保护宝石，在傀儡周边形成一个火焰保护领域。&quot;燃烧之怒&quot;降低所有受到的攻击35%的伤害，烧灼伤口，防止眩晕，并灼伤附近的敌人。一个傀儡只能佩戴一块保护宝石。\n\n冷却：1200秒\n持续时间：100秒\n能源消耗：50</TM_HollowGolem_PGFire.description>
   <!--EN: crafting golem part-->
   <TM_HollowGolem_PGFire.jobString>制造傀儡部位</TM_HollowGolem_PGFire.jobString>
   <!--EN: Protection Gem: Fire-->
@@ -674,17 +694,17 @@ Health:		+[40/70/100]%-->
   <!--EN: manaweave-->
   <TM_MakeManaweave.label>编织魔纹布</TM_MakeManaweave.label>
   <!--EN: Forges an axe and mounts it to the left arm attachment.-->
-  <TM_Mecha.Golem_Axe.description>锻造机械用战斧并将其安装到左臂插槽上，斧类武器适用于对抗轻甲目标。</TM_Mecha.Golem_Axe.description>
+  <TM_Mecha-Golem_Axe.description>锻造机械用战斧并将其安装到左臂插槽上，斧类武器适用于对抗轻甲目标。</TM_Mecha-Golem_Axe.description>
   <!--EN: crafting golem part-->
-  <TM_Mecha.Golem_Axe.jobString>制作傀儡部位</TM_Mecha.Golem_Axe.jobString>
+  <TM_Mecha-Golem_Axe.jobString>制作傀儡部位</TM_Mecha-Golem_Axe.jobString>
   <!--EN: mecha-axe-->
-  <TM_Mecha.Golem_Axe.label>机械斧</TM_Mecha.Golem_Axe.label>
+  <TM_Mecha-Golem_Axe.label>机械斧</TM_Mecha-Golem_Axe.label>
   <!--EN: Upgrades the bodyarmor of the golem with ballistic plate; incurs a movement penalty.-->
-  <TM_Mecha.Golem_BallisticPlate.description>使用防弹板升级傀儡的防御；会导致移速减少。</TM_Mecha.Golem_BallisticPlate.description>
+  <TM_Mecha-Golem_BallisticPlate.description>使用防弹板升级傀儡的防御；会导致移速减少。</TM_Mecha-Golem_BallisticPlate.description>
   <!--EN: crafting golem part-->
-  <TM_Mecha.Golem_BallisticPlate.jobString>制作傀儡部位</TM_Mecha.Golem_BallisticPlate.jobString>
+  <TM_Mecha-Golem_BallisticPlate.jobString>制作傀儡部位</TM_Mecha-Golem_BallisticPlate.jobString>
   <!--EN: ballistic plate-->
-  <TM_Mecha.Golem_BallisticPlate.label>塑钢防弹板</TM_Mecha.Golem_BallisticPlate.label>
+  <TM_Mecha-Golem_BallisticPlate.label>塑钢防弹板</TM_Mecha-Golem_BallisticPlate.label>
   <!--EN: The earth core processor provides the following benefits per upgrade level [1/2/3]:
 Armor:		+[10%/18%/25%]
 Ability Cooldown:	+[5%/10%/15%]
@@ -693,42 +713,42 @@ Energy Cost:	+[5%/10%/15%]
 Processing: 	+[15%/30%/45%]
 
 In addition, the earth core allows the golem the ability to shield itself from damage.-->
-  <TM_Mecha.Golem_EarthCore.description>地核处理器每升级一级[1/2/3]提供以下加成：\n护甲：+[10%/18%/25%]\n技能冷却：-[5%/10%/15%]\n治疗：+[60%/120%/180%]\n能量消耗：+[5%/10%/15%]\n处理能力：+[15%/30%/45%]\n\n此外，地核还能使傀儡保护自己免受伤害。</TM_Mecha.Golem_EarthCore.description>
+  <TM_Mecha-Golem_EarthCore.description>地核处理器每升级一级[1/2/3]提供以下加成：\n护甲：+[10%/18%/25%]\n技能冷却：-[5%/10%/15%]\n治疗：+[60%/120%/180%]\n能量消耗：+[5%/10%/15%]\n处理能力：+[15%/30%/45%]\n\n此外，地核还能使傀儡保护自己免受伤害。</TM_Mecha-Golem_EarthCore.description>
   <!--EN: crafting golem upgrade-->
-  <TM_Mecha.Golem_EarthCore.jobString>制作傀儡升级</TM_Mecha.Golem_EarthCore.jobString>
+  <TM_Mecha-Golem_EarthCore.jobString>制作傀儡升级</TM_Mecha-Golem_EarthCore.jobString>
   <!--EN: earth core processor-->
-  <TM_Mecha.Golem_EarthCore.label>地核处理器</TM_Mecha.Golem_EarthCore.label>
+  <TM_Mecha-Golem_EarthCore.label>地核处理器</TM_Mecha-Golem_EarthCore.label>
   <!--EN: The earth shard automaton base provides the following benefits per upgrade level [1/2/3]:
 Health:	+[40%/80%/120%]-->
-  <TM_Mecha.Golem_EarthShard.description>每一级[1/2/3]：\n基础大地碎片提供以下加成：生命值+[40%/80%/120%]</TM_Mecha.Golem_EarthShard.description>
+  <TM_Mecha-Golem_EarthShard.description>每一级[1/2/3]：\n基础大地碎片提供以下加成：生命值+[40%/80%/120%]</TM_Mecha-Golem_EarthShard.description>
   <!--EN: crafting golem upgrade-->
-  <TM_Mecha.Golem_EarthShard.jobString>制作傀儡升级</TM_Mecha.Golem_EarthShard.jobString>
+  <TM_Mecha-Golem_EarthShard.jobString>制作傀儡升级</TM_Mecha-Golem_EarthShard.jobString>
   <!--EN: Earth shard base-->
-  <TM_Mecha.Golem_EarthShard.label>基础地核碎片</TM_Mecha.Golem_EarthShard.label>
+  <TM_Mecha-Golem_EarthShard.label>基础地核碎片</TM_Mecha-Golem_EarthShard.label>
   <!--EN: Creates a power cell and installs it into a mecha-golem.-->
-  <TM_Mecha.Golem_EnergyCell.description>制作一个能量电池并将其安装到一个机械傀儡中。</TM_Mecha.Golem_EnergyCell.description>
+  <TM_Mecha-Golem_EnergyCell.description>制作一个能量电池并将其安装到一个机械傀儡中。</TM_Mecha-Golem_EnergyCell.description>
   <!--EN: crafting power cell-->
-  <TM_Mecha.Golem_EnergyCell.jobString>制作能量电池</TM_Mecha.Golem_EnergyCell.jobString>
+  <TM_Mecha-Golem_EnergyCell.jobString>制作能量电池</TM_Mecha-Golem_EnergyCell.jobString>
   <!--EN: power cell-->
-  <TM_Mecha.Golem_EnergyCell.label>能量电池</TM_Mecha.Golem_EnergyCell.label>
+  <TM_Mecha-Golem_EnergyCell.label>能量电池</TM_Mecha-Golem_EnergyCell.label>
   <!--EN: Increases the energy charge rate of the golem by 10 per hour.-->
-  <TM_Mecha.Golem_EnergyCharge.description>每10小时增加傀儡的能量充能速度。</TM_Mecha.Golem_EnergyCharge.description>
+  <TM_Mecha-Golem_EnergyCharge.description>每10小时增加傀儡的能量充能速度。</TM_Mecha-Golem_EnergyCharge.description>
   <!--EN: upgrading electrical neurology-->
-  <TM_Mecha.Golem_EnergyCharge.jobString>升级电力神经核心</TM_Mecha.Golem_EnergyCharge.jobString>
+  <TM_Mecha-Golem_EnergyCharge.jobString>升级电力神经核心</TM_Mecha-Golem_EnergyCharge.jobString>
   <!--EN: electrical neuro-core-->
-  <TM_Mecha.Golem_EnergyCharge.label>电力神经核心</TM_Mecha.Golem_EnergyCharge.label>
+  <TM_Mecha-Golem_EnergyCharge.label>电力神经核心</TM_Mecha-Golem_EnergyCharge.label>
   <!--EN: Increases the efficiency of energy absorbed and used by the golem by 10%.-->
-  <TM_Mecha.Golem_EnergyConverter.description>提高10%傀儡吸收和使用能量的效率。</TM_Mecha.Golem_EnergyConverter.description>
+  <TM_Mecha-Golem_EnergyConverter.description>提高10%傀儡吸收和使用能量的效率。</TM_Mecha-Golem_EnergyConverter.description>
   <!--EN: crafting power cycler-->
-  <TM_Mecha.Golem_EnergyConverter.jobString>制作电力循环系统</TM_Mecha.Golem_EnergyConverter.jobString>
+  <TM_Mecha-Golem_EnergyConverter.jobString>制作电力循环系统</TM_Mecha-Golem_EnergyConverter.jobString>
   <!--EN: energy converter-->
-  <TM_Mecha.Golem_EnergyConverter.label>能量转换器</TM_Mecha.Golem_EnergyConverter.label>
+  <TM_Mecha-Golem_EnergyConverter.label>能量转换器</TM_Mecha-Golem_EnergyConverter.label>
   <!--EN: Adds built-in steam exhaust vents that can be used to quickly disperse fires on and around the golem.-->
-  <TM_Mecha.Golem_Extinguisher.description>增加了内置的蒸汽排气口，可用于快速驱散傀儡上和周围的火焰。</TM_Mecha.Golem_Extinguisher.description>
+  <TM_Mecha-Golem_Extinguisher.description>增加了内置的蒸汽排气口，可用于快速驱散傀儡上和周围的火焰。</TM_Mecha-Golem_Extinguisher.description>
   <!--EN: crafting golem part-->
-  <TM_Mecha.Golem_Extinguisher.jobString>制作傀儡部位</TM_Mecha.Golem_Extinguisher.jobString>
+  <TM_Mecha-Golem_Extinguisher.jobString>制作傀儡部位</TM_Mecha-Golem_Extinguisher.jobString>
   <!--EN: extinguisher-->
-  <TM_Mecha.Golem_Extinguisher.label>灭火器</TM_Mecha.Golem_Extinguisher.label>
+  <TM_Mecha-Golem_Extinguisher.label>灭火器</TM_Mecha-Golem_Extinguisher.label>
   <!--EN: The flame core processor provides the following benefits per upgrade level [1/2/3]:
 Movement:	+[0.5c/0.9c/1.2c]
 Processing: 	+[10%/20%/30%]
@@ -736,31 +756,31 @@ Ability Damage:	+[10%/20%/30%]
 Energy Cost:	+[10%/20%/30%]
 
 In addition, the flame core allows the golem the ability to attract and burn nearby filth, gaining energy in the process.-->
-  <TM_Mecha.Golem_FlameCore.description>焰核处理器每升级一级[1/2/3]提供以下加成：\n移速：+[0.5c/0.9c/1.2c]\n处理能力：+[10%/20%/30%]\n技能伤害：+[10%/20%/30%]\n能量消耗：+[10%/20%/30%]\n\n此外，火焰核心允许傀儡吸引并燃烧附近的污物，在过程中获得能量。</TM_Mecha.Golem_FlameCore.description>
+  <TM_Mecha-Golem_FlameCore.description>焰核处理器每升级一级[1/2/3]提供以下加成：\n移速：+[0.5c/0.9c/1.2c]\n处理能力：+[10%/20%/30%]\n技能伤害：+[10%/20%/30%]\n能量消耗：+[10%/20%/30%]\n\n此外，火焰核心允许傀儡吸引并燃烧附近的污物，在过程中获得能量。</TM_Mecha-Golem_FlameCore.description>
   <!--EN: crafting golem upgrade-->
-  <TM_Mecha.Golem_FlameCore.jobString>制作傀儡升级</TM_Mecha.Golem_FlameCore.jobString>
+  <TM_Mecha-Golem_FlameCore.jobString>制作傀儡升级</TM_Mecha-Golem_FlameCore.jobString>
   <!--EN: flame core processor-->
-  <TM_Mecha.Golem_FlameCore.label>焰核处理器</TM_Mecha.Golem_FlameCore.label>
+  <TM_Mecha-Golem_FlameCore.label>焰核处理器</TM_Mecha-Golem_FlameCore.label>
   <!--EN: The flame shard automaton base provides the following benefits per upgrade level [1/2/3]:
 Movement:	+[15%/30%/40%]
 Health:	+[15%/30%/40%]-->
-  <TM_Mecha.Golem_FlameShard.description>每一级[1/2/3]基础火焰碎片会提供以下加成：\n移速：+[15%/30%/40%]\n生命值：+[15%/30%/40%]</TM_Mecha.Golem_FlameShard.description>
+  <TM_Mecha-Golem_FlameShard.description>每一级[1/2/3]基础火焰碎片会提供以下加成：\n移速：+[15%/30%/40%]\n生命值：+[15%/30%/40%]</TM_Mecha-Golem_FlameShard.description>
   <!--EN: crafting golem upgrade-->
-  <TM_Mecha.Golem_FlameShard.jobString>制作傀儡升级</TM_Mecha.Golem_FlameShard.jobString>
+  <TM_Mecha-Golem_FlameShard.jobString>制作傀儡升级</TM_Mecha-Golem_FlameShard.jobString>
   <!--EN: Flame shard base-->
-  <TM_Mecha.Golem_FlameShard.label>基础焰核碎片</TM_Mecha.Golem_FlameShard.label>
+  <TM_Mecha-Golem_FlameShard.label>基础焰核碎片</TM_Mecha-Golem_FlameShard.label>
   <!--EN: Attaches a minigun onto the right shoulder mount of a mecha-golem.-->
-  <TM_Mecha.Golem_GatlingCannon.description>在机械傀儡的右肩底座上安装一门加特林机炮用于压制敌人。</TM_Mecha.Golem_GatlingCannon.description>
+  <TM_Mecha-Golem_GatlingCannon.description>在机械傀儡的右肩底座上安装一门加特林机炮用于压制敌人。</TM_Mecha-Golem_GatlingCannon.description>
   <!--EN: crafting golem part-->
-  <TM_Mecha.Golem_GatlingCannon.jobString>制作傀儡部位</TM_Mecha.Golem_GatlingCannon.jobString>
+  <TM_Mecha-Golem_GatlingCannon.jobString>制作傀儡部位</TM_Mecha-Golem_GatlingCannon.jobString>
   <!--EN: gatling cannon-->
-  <TM_Mecha.Golem_GatlingCannon.label>机械傀儡的肩扛加特林加农炮</TM_Mecha.Golem_GatlingCannon.label>
+  <TM_Mecha-Golem_GatlingCannon.label>机械傀儡的肩扛加特林加农炮</TM_Mecha-Golem_GatlingCannon.label>
   <!--EN: Forges a hammer and mounts it to the right arm attachment.-->
-  <TM_Mecha.Golem_Hammer.description>锻造机械用战锤并将其安装到右臂插槽上，锤类造成的钝器伤害可以把敌人砸成肉酱。</TM_Mecha.Golem_Hammer.description>
+  <TM_Mecha-Golem_Hammer.description>锻造机械用战锤并将其安装到右臂插槽上，锤类造成的钝器伤害可以把敌人砸成肉酱。</TM_Mecha-Golem_Hammer.description>
   <!--EN: crafting golem part-->
-  <TM_Mecha.Golem_Hammer.jobString>制作傀儡部位</TM_Mecha.Golem_Hammer.jobString>
+  <TM_Mecha-Golem_Hammer.jobString>制作傀儡部位</TM_Mecha-Golem_Hammer.jobString>
   <!--EN: mecha-hammer-->
-  <TM_Mecha.Golem_Hammer.label>机械锤</TM_Mecha.Golem_Hammer.label>
+  <TM_Mecha-Golem_Hammer.label>机械锤</TM_Mecha-Golem_Hammer.label>
   <!--EN: The lightning core processor provides the following benefits per upgrade level [1/2/3]:
 Movement:	+[1.2c/1.8c/2.2c]
 Ability Cooldown:	-[15%/30%/45%]
@@ -768,36 +788,36 @@ Energy Cost:	+[10%/20%/30%]
 Processing: 	-[5%/10%/15%]
 
 In addition, the lightning core allows the golem the ability to retaliate against melee attackers with a jolt of energy, stunning them briefly.-->
-  <TM_Mecha.Golem_LightningCore.description>每一级[1/2/3]雷核处理器会提供以下加成;\n移速+[1.2c/1.8c/2.2c]\n技能冷却:+[10%/20%/30%]\n处理能力:-[5%/10%/15%]\n\n除此之外,雷核使傀儡能够对近战攻击它的人进行能量打击，并短暂击昏他们。</TM_Mecha.Golem_LightningCore.description>
+  <TM_Mecha-Golem_LightningCore.description>每一级[1/2/3]雷核处理器会提供以下加成;\n移速+[1.2c/1.8c/2.2c]\n技能冷却:+[10%/20%/30%]\n处理能力:-[5%/10%/15%]\n\n除此之外,雷核使傀儡能够对近战攻击它的人进行能量打击，并短暂击昏他们。</TM_Mecha-Golem_LightningCore.description>
   <!--EN: crafting golem upgrade-->
-  <TM_Mecha.Golem_LightningCore.jobString>制作傀儡升级</TM_Mecha.Golem_LightningCore.jobString>
+  <TM_Mecha-Golem_LightningCore.jobString>制作傀儡升级</TM_Mecha-Golem_LightningCore.jobString>
   <!--EN: lightning core processor-->
-  <TM_Mecha.Golem_LightningCore.label>雷核处理器</TM_Mecha.Golem_LightningCore.label>
+  <TM_Mecha-Golem_LightningCore.label>雷核处理器</TM_Mecha-Golem_LightningCore.label>
   <!--EN: The lightning shard automaton base provides the following benefits per upgrade level [1/2/3]:
 Movement:	+[25%/50%/75%]-->
-  <TM_Mecha.Golem_LightningShard.description>每一级[1/2/3]基础雷电碎片会提供以下加成：移速:	+[25%/50%/75%]</TM_Mecha.Golem_LightningShard.description>
+  <TM_Mecha-Golem_LightningShard.description>每一级[1/2/3]基础雷电碎片会提供以下加成：移速:	+[25%/50%/75%]</TM_Mecha-Golem_LightningShard.description>
   <!--EN: crafting golem upgrade-->
-  <TM_Mecha.Golem_LightningShard.jobString>制作傀儡升级</TM_Mecha.Golem_LightningShard.jobString>
+  <TM_Mecha-Golem_LightningShard.jobString>制作傀儡升级</TM_Mecha-Golem_LightningShard.jobString>
   <!--EN: Lightning shard base-->
-  <TM_Mecha.Golem_LightningShard.label>基础雷核碎片</TM_Mecha.Golem_LightningShard.label>
+  <TM_Mecha-Golem_LightningShard.label>基础雷核碎片</TM_Mecha-Golem_LightningShard.label>
   <!--EN: Creates a mining laser to attach to the left shoulder mount.-->
-  <TM_Mecha.Golem_MiningLaser.description>制作一个矿用激光器并连接到左肩底座，可以熔化建筑。</TM_Mecha.Golem_MiningLaser.description>
+  <TM_Mecha-Golem_MiningLaser.description>制作一个矿用激光器并连接到左肩底座，可以熔化建筑。</TM_Mecha-Golem_MiningLaser.description>
   <!--EN: crafting golem part-->
-  <TM_Mecha.Golem_MiningLaser.jobString>制作傀儡部位</TM_Mecha.Golem_MiningLaser.jobString>
+  <TM_Mecha-Golem_MiningLaser.jobString>制作傀儡部位</TM_Mecha-Golem_MiningLaser.jobString>
   <!--EN: mining laser-->
-  <TM_Mecha.Golem_MiningLaser.label>用于机械傀儡的肩扛式采矿激光器</TM_Mecha.Golem_MiningLaser.label>
+  <TM_Mecha-Golem_MiningLaser.label>用于机械傀儡的肩扛式采矿激光器</TM_Mecha-Golem_MiningLaser.label>
   <!--EN: Replaces missing golem parts that do not require a specific upgrade.-->
-  <TM_Mecha.Golem_RepairComponent.description>替换丢失的不需要特定升级的傀儡部件。</TM_Mecha.Golem_RepairComponent.description>
+  <TM_Mecha-Golem_RepairComponent.description>替换丢失的不需要特定升级的傀儡部件。</TM_Mecha-Golem_RepairComponent.description>
   <!--EN: crafting golem part-->
-  <TM_Mecha.Golem_RepairComponent.jobString>制作傀儡部位</TM_Mecha.Golem_RepairComponent.jobString>
+  <TM_Mecha-Golem_RepairComponent.jobString>制作傀儡部位</TM_Mecha-Golem_RepairComponent.jobString>
   <!--EN: repair component-->
-  <TM_Mecha.Golem_RepairComponent.label>修理部件</TM_Mecha.Golem_RepairComponent.label>
+  <TM_Mecha-Golem_RepairComponent.label>修理部件</TM_Mecha-Golem_RepairComponent.label>
   <!--EN: Forges a sword and mounts it to the left arm attachment.-->
-  <TM_Mecha.Golem_Sword.description>锻造机械用长剑并将其安装到左臂插槽上，剑类武器适用于突破护甲与切断四肢。</TM_Mecha.Golem_Sword.description>
+  <TM_Mecha-Golem_Sword.description>锻造机械用长剑并将其安装到左臂插槽上，剑类武器适用于突破护甲与切断四肢。</TM_Mecha-Golem_Sword.description>
   <!--EN: crafting golem part-->
-  <TM_Mecha.Golem_Sword.jobString>制作傀儡部位</TM_Mecha.Golem_Sword.jobString>
+  <TM_Mecha-Golem_Sword.jobString>制作傀儡部位</TM_Mecha-Golem_Sword.jobString>
   <!--EN: mecha-sword-->
-  <TM_Mecha.Golem_Sword.label>机械剑</TM_Mecha.Golem_Sword.label>
+  <TM_Mecha-Golem_Sword.label>机械剑</TM_Mecha-Golem_Sword.label>
   <!--EN: The water core processor provides the following benefits per upgrade level [1/2/3]:
 Armor:		+[5%/10%/15%]
 Ability Cooldown:	-[10%/20%/30%]
@@ -805,19 +825,19 @@ Healing Bonus:	+[100%/200%/300%]
 Energy Cost:	-[15%/30%/45%]
 
 In addition, the water core allows the golem the ability to quickly regenerate health while active and regenerate health to its dormant frame.-->
-  <TM_Mecha.Golem_WaterCore.description>每一级[1/2/3]水核处理器会提供以下加成;\n护甲:+[5%/10%/15%]\n能力冷却:	-[10%/20%/30%]\n治疗效果:	+[100%/200%/300%]\n能量消耗:	-[15%/30%/45%]\n\n此外，水核允许傀儡在活动状态下快速恢复生命，并将生命恢复到休眠状态。</TM_Mecha.Golem_WaterCore.description>
+  <TM_Mecha-Golem_WaterCore.description>每一级[1/2/3]水核处理器会提供以下加成;\n护甲:+[5%/10%/15%]\n能力冷却:	-[10%/20%/30%]\n治疗效果:	+[100%/200%/300%]\n能量消耗:	-[15%/30%/45%]\n\n此外，水核允许傀儡在活动状态下快速恢复生命，并将生命恢复到休眠状态。</TM_Mecha-Golem_WaterCore.description>
   <!--EN: crafting golem upgrade-->
-  <TM_Mecha.Golem_WaterCore.jobString>制作傀儡升级</TM_Mecha.Golem_WaterCore.jobString>
+  <TM_Mecha-Golem_WaterCore.jobString>制作傀儡升级</TM_Mecha-Golem_WaterCore.jobString>
   <!--EN: water core processor-->
-  <TM_Mecha.Golem_WaterCore.label>水核处理器</TM_Mecha.Golem_WaterCore.label>
+  <TM_Mecha-Golem_WaterCore.label>水核处理器</TM_Mecha-Golem_WaterCore.label>
   <!--EN: The water shard automaton base provides the following benefits per upgrade level [1/2/3]:
 Movement:	+[10%/15%/20%]
 Health:	+[30%/50%/70%]-->
-  <TM_Mecha.Golem_WaterShard.description>每一级[1/2/3]基础流水碎片会提供以下加成：移速:	+[10%/15%/20%]\n生命值:	+[30%/50%/70%]</TM_Mecha.Golem_WaterShard.description>
+  <TM_Mecha-Golem_WaterShard.description>每一级[1/2/3]基础流水碎片会提供以下加成：移速:	+[10%/15%/20%]\n生命值:	+[30%/50%/70%]</TM_Mecha-Golem_WaterShard.description>
   <!--EN: crafting golem upgrade-->
-  <TM_Mecha.Golem_WaterShard.jobString>制作傀儡升级</TM_Mecha.Golem_WaterShard.jobString>
+  <TM_Mecha-Golem_WaterShard.jobString>制作傀儡升级</TM_Mecha-Golem_WaterShard.jobString>
   <!--EN: Water shard base-->
-  <TM_Mecha.Golem_WaterShard.label>基础水核碎片</TM_Mecha.Golem_WaterShard.label>
+  <TM_Mecha-Golem_WaterShard.label>基础水核碎片</TM_Mecha-Golem_WaterShard.label>
   <!--EN: Carve a rune on a body part.-->
   <TM_RuneCarveBodyPart.description>在一个身体部件上雕刻符文</TM_RuneCarveBodyPart.description>
   <!--EN: Rune carving.-->

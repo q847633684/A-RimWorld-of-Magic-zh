@@ -39,7 +39,7 @@
   <!--EN: ribcage-->
   <Demon_RibCage.label>肋骨</Demon_RibCage.label>
   <!--EN: right arm-->
-  <Demon_RightArm.label>左臂</Demon_RightArm.label>
+  <Demon_RightArm.label>右臂</Demon_RightArm.label>
   <!--EN: right leg-->
   <Demon_RightLeg.label>右腿</Demon_RightLeg.label>
   <!--EN: right lung-->
@@ -125,9 +125,9 @@
   <!--EN: left arm-->
   <Flesh_LeftArm.label>左臂</Flesh_LeftArm.label>
   <!--EN: left brace-->
-  <Flesh_LeftArm_Brace.label>左支柱</Flesh_LeftArm_Brace.label>
+  <Flesh_LeftArm_Brace.label>护腕</Flesh_LeftArm_Brace.label>
   <!--EN: left cleaver-->
-  <Flesh_LeftArm_Cleaver.label>左切割器</Flesh_LeftArm_Cleaver.label>
+  <Flesh_LeftArm_Cleaver.label>剁肉刀</Flesh_LeftArm_Cleaver.label>
   <!--EN: leg-->
   <Flesh_Leg.label>腿</Flesh_Leg.label>
   <!--EN: eye-->
@@ -143,9 +143,9 @@
   <!--EN: right arm-->
   <Flesh_RightArm.label>右臂</Flesh_RightArm.label>
   <!--EN: right brace-->
-  <Flesh_RightArm_Brace.label>右支架</Flesh_RightArm_Brace.label>
+  <Flesh_RightArm_Brace.label>护腕</Flesh_RightArm_Brace.label>
   <!--EN: right cleaver-->
-  <Flesh_RightArm_Cleaver.label>右切割器</Flesh_RightArm_Cleaver.label>
+  <Flesh_RightArm_Cleaver.label>剁肉刀</Flesh_RightArm_Cleaver.label>
   <!--EN: shoulder-->
   <Flesh_Shoulder.label>肩</Flesh_Shoulder.label>
   <!--EN: skull-->
@@ -243,7 +243,7 @@
   <!--EN: back plate-->
   <Mecha_Back.label>背板</Mecha_Back.label>
   <!--EN: automoton movement base-->
-  <Mecha_Base.label>运动核心</Mecha_Base.label>
+  <Mecha_Base.label>自动机运动底座</Mecha_Base.label>
   <!--EN: body-->
   <Mecha_Body.label>身体</Mecha_Body.label>
   <!--EN: chest plate-->
@@ -257,7 +257,7 @@
   <!--EN: head frame-->
   <Mecha_Head.label>头架</Mecha_Head.label>
   <!--EN: left arm-->
-  <Mecha_LeftArm.label>左手臂</Mecha_LeftArm.label>
+  <Mecha_LeftArm.label>左臂</Mecha_LeftArm.label>
   <!--EN: mecha-axe-->
   <Mecha_LeftArm_Axe.label>机械斧</Mecha_LeftArm_Axe.label>
   <!--EN: mecha-sword-->
@@ -429,7 +429,7 @@
   <!--EN: awareness source-->
   <TM_Wood_Focus.label>意识源</TM_Wood_Focus.label>
   <!--EN: force projector-->
-  <TM_Wood_Manipulator.label>力量投影仪</TM_Wood_Manipulator.label>
+  <TM_Wood_Manipulator.label>中心力量</TM_Wood_Manipulator.label>
   <!--EN: energy reserves-->
   <TM_Wood_Reserves.label>能量储备</TM_Wood_Reserves.label>
   <!--EN: wood core(a)-->
